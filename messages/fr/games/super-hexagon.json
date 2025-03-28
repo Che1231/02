@@ -1,0 +1,77 @@
+{
+  "super-hexagon": {
+    "title": "Super Hexagone - Mettez vos réflexes à l'épreuve avec une action rythmique",
+    "slogan": "Sentez le rythme, échappez aux hexagones",
+    "description": "Super Hexagone offre une expérience musicale unique qui met vos compétences d'improvisation au défi. Naviguez dans un monde d'hexagones tournants, évitez les murs entrants et immergez-vous dans une puissante musique électronique. Le rythme du jeu augmente en permanence, mettant à l'épreuve vos réflexes et votre concentration. Jouez maintenant et voyez combien de temps vous pouvez survivre dans cette aventure rythmique passionnante !",
+    "Loading": {
+      "title": "Chargement de Super Hexagone..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amis",
+      "articleList": "Liste d'articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Super Hexagone - Jeu en ligne gratuit",
+      "description": "Découvrez le défi de Super Hexagone, où rythme et réflexes se rencontrent. Évitez les murs entrants, sentez le rythme et survivez dans ce jeu au rythme rapide. Jouez maintenant gratuitement !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Super Hexagone",
+      "whatIsTitle": "Qu'est-ce que Super Hexagone ?",
+      "whatIsDescription": "Super Hexagone est un jeu basé sur le rythme qui met vos réflexes et votre concentration à l'épreuve. Naviguez dans un monde d'hexagones tournants et évitez les murs entrants pour survivre.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Utilisez les flèches gauche et droite pour faire pivoter l'hexagone.",
+      "howToPlayStep2": "Évitez les murs qui apparaissent sur les bords des hexagones.",
+      "howToPlayStep3": "Gardez le rythme croissant et restez en vie aussi longtemps que possible.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Gameplay rythmique",
+      "feature1Description": "Synchronisez vos mouvements avec le rythme de la musique pour une expérience immersive.",
+      "feature2Title": "Niveaux stimulants",
+      "feature2Description": "Le rythme du jeu augmente en permanence, mettant à l'épreuve vos réflexes et votre concentration.",
+      "feature3Title": "Musique électronique",
+      "feature3Description": "Une musique électronique puissante et captivante rehausse l'expérience de jeu.",
+      "feature4Title": "Déblocage de réalisations",
+      "feature4Description": "Relevez le défi pour débloquer des réalisations et améliorer vos compétences."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

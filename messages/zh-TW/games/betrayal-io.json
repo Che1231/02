@@ -1,0 +1,77 @@
+{
+  "betrayal-io": {
+    "title": "在線玩 Betrayal.io - 多人社交推理遊戲",
+    "slogan": "揭穿背叛者，拯救船員！",
+    "description": "Betrayal.io 是一款引人入勝的多人社交推理遊戲，類似於 Among Us。在 Betrayal.io 中，玩家扮演船員或秘密破壞者（稱為『背叛者』）的角色。背叛者的目標是破壞作業並製造混亂，而船員則必須勤奮地完成任務，同時避免被淘汰。齊心協力、保持警惕，並揭穿背叛者的真正身份，以確保你們船員的成功！現在就玩 Betrayal.io，體驗欺騙和團隊合作的刺激！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "Betrayal.io - 多人社交推理遊戲",
+      "description": "Betrayal.io 是一款引人入勝的多人社交推理遊戲，類似於 Among Us。在 Betrayal.io 中，玩家扮演船員或秘密破壞者（稱為『背叛者』）的角色。背叛者的目標是破壞作業並製造混亂，而船員則必須勤奮地完成任務，同時避免被淘汰。齊心協力、保持警惕，並揭穿背叛者的真正身份，以確保你們船員的成功！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Betrayal.io - 多人社交推理遊戲",
+      "whatIsTitle": "Betrayal.io 是什麼？",
+      "whatIsDescription": "Betrayal.io 是一款引人入勝的多人社交推理遊戲，類似於 Among Us。在 Betrayal.io 中，玩家扮演船員或秘密破壞者（稱為『背叛者』）的角色。背叛者的目標是破壞作業並製造混亂，而船員則必須勤奮地完成任務，同時避免被淘汰。",
+      "howToPlayTitle": "如何遊戲",
+      "howToPlayStep1": "選擇你的角色：船員或背叛者。",
+      "howToPlayStep2": "船員必須完成任務並識別背叛者。",
+      "howToPlayStep3": "背叛者必須破壞任務並消滅船員，而不會被抓住。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "多人模式",
+      "feature1Description": "與朋友或陌生人一起玩刺激的社交推理遊戲。",
+      "feature2Title": "角色基於遊戲",
+      "feature2Description": "扮演船員或背叛者角色，每個角色都有獨特的目標。",
+      "feature3Title": "策略性破壞",
+      "feature3Description": "背叛者必須策略性地破壞任務，以製造混亂。",
+      "feature4Title": "團隊合作",
+      "feature4Description": "船員必須齊心協力完成任務並揭穿背叛者。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

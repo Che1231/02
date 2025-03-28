@@ -1,0 +1,77 @@
+{
+  "blob-opera": {
+    "title": "블러 오페라 - 무료 온라인 음악 게임",
+    "slogan": "당신의 오페라 걸작을 창조하십시오",
+    "description": "블러 오페라는 블러를 사용하여 오페라를 작곡할 수 있는 독특한 음악 게임입니다. 블러를 드래그하고 조정하여 조화로운 멜로디를 창조하세요. 모든 기술 수준에 적합한 블러 오페라는 음악을 탐구할 수 있는 재미있고 창의적인 방법을 제공합니다. 오늘 바로 블러 오페라를 시작하고 내면의 작곡가를 풀어보세요!",
+    "Loading": {
+      "title": "블러 오페라 로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인 정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "블러 오페라 - 무료 온라인 음악 게임",
+      "description": "블러 오페라는 블러를 사용하여 오페라를 작곡할 수 있는 독특한 음악 게임입니다. 블러를 드래그하고 조정하여 조화로운 멜로디를 창조하세요. 모든 기술 수준에 적합한 블러 오페라는 음악을 탐구할 수 있는 재미있고 창의적인 방법을 제공합니다. 오늘 바로 블러 오페라를 시작하고 내면의 작곡가를 풀어보세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "블러 오페라 - 무료 온라인 음악 게임",
+      "whatIsTitle": "블러 오페라란 무엇인가요?",
+      "whatIsDescription": "블러 오페라는 David Li가 Google Arts & Culture와 협력하여 만든 음악 게임입니다. 네 명의 오페라 가수의 목소리로 훈련된 머신 러닝 모델을 사용하여 누구나 즐길 수 있는 실용적이고 재미있는 음악 게임을 제작합니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "블러가 특정 음정에 도달하도록 마우스를 드래그하세요.",
+      "howToPlayStep2": "블러를 조정하여 조화로운 멜로디를 만드세요.",
+      "howToPlayStep3": "다양한 음악 스타일을 탐색하고 자신만의 오페라를 작곡하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "인터랙티브 음악 창작",
+      "feature1Description": "블러 오페라는 블러를 조정하여 상호 작용적으로 음악을 창작할 수 있도록 허용합니다.",
+      "feature2Title": "머신 러닝 모델",
+      "feature2Description": "이 게임은 오페라 가수의 목소리로 훈련된 머신 러닝 모델을 사용합니다.",
+      "feature3Title": "쉬운 플레이",
+      "feature3Description": "블러 오페라는 모든 기술 수준에 적합하게 이해하고 플레이하기 쉽습니다.",
+      "feature4Title": "창의적 탐구",
+      "feature4Description": "다양한 음악 스타일을 탐색하고 자신만의 독창적인 오페라를 창작하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

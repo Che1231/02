@@ -1,0 +1,77 @@
+{
+  "ev-io": {
+    "title": "Jouer à Ev.io en ligne - Jeu FPS multijoueur gratuit",
+    "slogan": "Engagez-vous dans des batailles futuristes avec Ev.io",
+    "description": "Ev.io est un jeu FPS multijoueur passionnant se déroulant dans une arène futuriste. Avec des conceptions de niveaux stratégiques inspirées de Halo, Destiny et Quake, Ev.io propose une variété d'armes et de capacités. Rejoignez la bataille d'un simple clic et montrez vos compétences sur le champ de bataille. Jouez à Ev.io maintenant et vivez le défi ultime des jeux FPS !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Ev.io",
+      "description": "Rejoignez la bataille FPS futuriste dans Ev.io. Avec des conceptions de niveaux stratégiques et une variété d'armes, Ev.io offre une expérience multijoueur immersive. Jouez maintenant et domine le champ de bataille !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Ev.io",
+      "whatIsTitle": "Qu'est-ce qu'Ev.io ?",
+      "whatIsDescription": "Ev.io est un jeu FPS où vous pouvez participer à des batailles multijoueur dans une arène futuriste. Le jeu intègre des conceptions de niveaux stratégiques rappelant Halo, Destiny et Quake.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Choisissez votre arme et vos capacités.",
+      "howToPlayStep2": "Rejoignez une bataille multijoueur.",
+      "howToPlayStep3": "Montrez vos compétences et dominez le champ de bataille.",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Arène futuriste",
+      "feature1Description": "Combattez dans une arène futuriste visuellement époustouflante.",
+      "feature2Title": "Variété d'armes",
+      "feature2Description": "Choisissez parmi une large gamme d'armes pour adapter votre style de jeu.",
+      "feature3Title": "Conception de niveau stratégique",
+      "feature3Description": "Découvrez des niveaux conçus pour favoriser la stratégie.",
+      "feature4Title": "Batailles multijoueur",
+      "feature4Description": "Participez à des batailles multijoueur intenses avec des joueurs du monde entier."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

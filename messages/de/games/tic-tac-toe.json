@@ -1,0 +1,77 @@
+{
+  "tic-tac-toe": {
+    "title": "Online-Tic-Tac-Toe spielen | Klassisches X-und-O-Spiel",
+    "slogan": "Genießen Sie den zeitlosen Spaß an Tic-Tac-Toe!",
+    "description": "Tic-Tac-Toe, auch bekannt als Null und Kreuz, ist ein klassisches und beliebtes Spiel, das von Menschen jeden Alters genossen wird. Es ist ein einfaches, aber fesselndes Spiel, das auf einem 3x3-Raster gespielt wird. Ziel ist es, eine Reihe von drei übereinstimmenden Symbolen (entweder X oder O) horizontal, vertikal oder diagonal zu erstellen. Spielen Sie jetzt Tic-Tac-Toe und fordern Sie Ihre Freunde heraus!",
+    "Loading": {
+      "title": "Lädt..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Tic-Tac-Toe | Klassisches X-und-O-Spiel",
+      "description": "Spielen Sie das klassische Tic-Tac-Toe-Spiel online. Fordern Sie Ihre Freunde heraus und sehen Sie, wer zuerst drei in einer Reihe bekommt!",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Tic-Tac-Toe | Klassisches X-und-O-Spiel",
+      "whatIsTitle": "Was ist Tic-Tac-Toe?",
+      "whatIsDescription": "Tic-Tac-Toe, auch bekannt als Null und Kreuz, ist ein klassisches und beliebtes Spiel, das von Menschen jeden Alters genossen wird. Es ist ein einfaches, aber fesselndes Spiel, das auf einem 3x3-Raster gespielt wird.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Zwei Spieler nehmen abwechselnd ihr ausgewähltes Symbol (X oder O) auf ein leeres Feld des Rasters.",
+      "howToPlayStep2": "Der erste Spieler beginnt normalerweise mit X, und der zweite Spieler folgt mit O.",
+      "howToPlayStep3": "Das Spiel geht weiter, bis ein Spieler erfolgreich eine Reihe von drei Symbolen bildet oder alle Felder auf dem Raster gefüllt sind, was zu einem Unentschieden führt.",
+      "keyFeaturesTitle": "Haupteigenschaften",
+      "feature1Title": "Einfache Regeln",
+      "feature1Description": "Einfach zu lernen und zu spielen, was es für jedes Alter zugänglich macht.",
+      "feature2Title": "Schnelles Gameplay",
+      "feature2Description": "Schnelllebig und perfekt für kurze Pausen.",
+      "feature3Title": "Strategisches Denken",
+      "feature3Description": "Fördert die Spieler, voraus zu denken und ihre Züge zu planen.",
+      "feature4Title": "Endloser Spaß",
+      "feature4Description": "Wiederholbar und immer eine Herausforderung mit verschiedenen Gegnern."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

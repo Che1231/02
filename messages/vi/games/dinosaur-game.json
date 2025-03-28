@@ -1,0 +1,77 @@
+{
+  "dinosaur-game": {
+    "title": "Chơi trò chơi khủng long trực tuyến - Cuộc phiêu lưu chạy không giới hạn",
+    "slogan": "Nhảy, chạy, sống sót!",
+    "description": "Trò chơi Khủng long, còn được gọi là Chrome Dino hoặc T-Rex Runner, là một trò chơi chạy không giới hạn cuộn ngang theo cạnh rất phổ biến. Chơi ngoại tuyến trên Google Chrome và điều khiển một chú T-Rex pixel hóa để điều hướng trên một vùng đất hoang mạc đầy những cây xương rồng và những con pterodactyl bay lượn. Sống sót càng lâu càng tốt bằng cách nhảy qua hoặc quỳ xuống dưới những vật cản. Hãy thử Trò chơi Khủng long ngay bây giờ và chinh phục trò chơi giải trí thú vị này!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Đọc"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Trò chơi Khủng long",
+      "description": "Trò chơi Khủng long, còn được gọi là Chrome Dino hoặc T-Rex Runner, là một trò chơi chạy không giới hạn cuộn ngang theo cạnh rất phổ biến. Chơi ngoại tuyến trên Google Chrome và điều khiển một chú T-Rex pixel hóa để điều hướng trên một vùng đất hoang mạc đầy những cây xương rồng và những con pterodactyl bay lượn. Sống sót càng lâu càng tốt bằng cách nhảy qua hoặc quỳ xuống dưới những vật cản. Hãy thử Trò chơi Khủng long ngay bây giờ và chinh phục trò chơi giải trí thú vị này!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải trò chơi xuống",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Trò chơi Khủng long",
+      "whatIsTitle": "Trò chơi Khủng long là gì?",
+      "whatIsDescription": "Trò chơi Khủng long, còn được gọi là Chrome Dino hoặc T-Rex Runner, là một trò chơi chạy không giới hạn cuộn ngang theo cạnh phổ biến có thể chơi ngoại tuyến trên Google Chrome. Điều khiển một chú T-Rex pixel hóa và di chuyển trên một vùng đất hoang mạc đầy những cây xương rồng và những con pterodactyl bay lượn.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Nhấn phím cách để nhảy qua cây xương rồng.",
+      "howToPlayStep2": "Nhấn mũi tên xuống để quỳ xuống dưới những con pterodactyl bay lượn.",
+      "howToPlayStep3": "Sống sót càng lâu càng tốt để đạt điểm số cao.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Thiết kế tối giản",
+      "feature1Description": "Thoải mái với phong cách nghệ thuật pixel sạch sẽ và đơn giản.",
+      "feature2Title": "Gameplay gây nghiện",
+      "feature2Description": "Trải nghiệm niềm vui không giới hạn với những thử thách về chướng ngại vật.",
+      "feature3Title": "Độ khó ngày càng tăng",
+      "feature3Description": "Trò chơi trở nên khó khăn hơn khi bạn tiến bộ, giúp bạn luôn tập trung.",
+      "feature4Title": "Chơi ngoại tuyến",
+      "feature4Description": "Chơi Trò chơi Khủng long bất cứ lúc nào, ngay cả khi không có kết nối internet."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

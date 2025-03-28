@@ -1,0 +1,114 @@
+{
+  "recommended": [],
+  "categories": [
+    {
+      "name": "Permainan Unggulan",
+      "path": "/c/featured",
+      "pageSize": 15,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Kami telah memilih permainan terbaik untuk Anda!"
+    },
+    {
+      "name": "Permainan Arcade",
+      "path": "/c/arcade-games",
+      "pageSize": 15,
+      "backgroundColor": "#d2e7ff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Permainan arcade yang mengasyikkan!",
+      "position": 2
+    },
+    {
+      "name": "Permainan Aksi",
+      "path": "/c/action",
+      "pageSize": 15,
+      "backgroundColor": "#c1f8cf",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Permainan aksi yang mengasyikkan!",
+      "position": 3
+    },
+    {
+      "name": "Permainan Petualangan",
+      "path": "/c/adventure-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 4,
+      "description": "Permainan petualangan yang mengasyikkan!"
+    },
+    {
+      "name": "Permainan Wordleverse",
+      "path": "/c/wordleverse-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 5,
+      "description": "Permainan wordleverse yang mengasyikkan!"
+    },
+    {
+      "name": "Permainan .IO",
+      "path": "/c/io-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 6,
+      "description": "Permainan .IO yang mengasyikkan!"
+    },
+    {
+      "name": "Permainan Kasual",
+      "path": "/c/casual-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 7,
+      "description": "Permainan kasual yang mengasyikkan!"
+    },
+    {
+      "name": "Permainan Puzzle",
+      "path": "/c/puzzle-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 8,
+      "description": "Permainan puzzle yang mengasyikkan!"
+    },
+    {
+      "name": "Permainan Balap & Mengemudi",
+      "path": "/c/racing-driving",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 9,
+      "description": "Permainan Balap & Mengemudi yang mengasyikkan!"
+    },
+    {
+      "name": "Permainan 3D",
+      "path": "/c/3d-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 10,
+      "description": "Permainan 3D yang mengasyikkan!"
+    },
+    {
+      "name": "Permainan Olahraga",
+      "path": "/c/sports-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 11,
+      "description": "Permainan olahraga yang mengasyikkan!"
+    }
+  ]
+}

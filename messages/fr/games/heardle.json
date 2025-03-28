@@ -1,0 +1,77 @@
+{
+  "heardle": {
+    "title": "Heardle : Défi quotidien de devinette de chansons",
+    "slogan": "Testez vos connaissances musicales avec Heardle",
+    "description": "Heardle est un jeu de devinettes musicales quotidien qui vous met au défi d'identifier des chansons populaires en seulement six essais. Inspiré par Wordle, Heardle propose une touche unique en se concentrant sur la musique. Avec des indices minimes, vous devrez vous fier à votre spontanéité musicale et à vos connaissances du genre pour construire une série de victoires impressionnante. Prêt à tester vos compétences ? Jouez à Heardle maintenant !",
+    "Loading": {
+      "title": "Chargement de Heardle..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Heardle : Défi quotidien de devinette de chansons",
+      "description": "Défiez-vous avec Heardle, un jeu de devinettes musicales quotidien. Identifiez des chansons populaires en six essais et montrez vos connaissances musicales. Jouez maintenant !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Heardle : Défi quotidien de devinette de chansons",
+      "whatIsTitle": "Qu'est-ce que Heardle ?",
+      "whatIsDescription": "Heardle est un jeu de devinettes musicales quotidien où les joueurs ont six chances d'identifier la chanson du jour. C'est une version musicale du populaire jeu Wordle.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Écoutez l'extrait de la chanson fourni.",
+      "howToPlayStep2": "Devinez le titre de la chanson ou l'artiste.",
+      "howToPlayStep3": "Vous avez six essais pour deviner correctement.",
+      "keyFeaturesTitle": "Fonctionnalités clés",
+      "feature1Title": "Défis quotidiens",
+      "feature1Description": "Une nouvelle chanson à deviner chaque jour.",
+      "feature2Title": "Indices minimes",
+      "feature2Description": "Identifiez les chansons avec seulement un court extrait.",
+      "feature3Title": "Chansons populaires",
+      "feature3Description": "En vedette des tubes d'artistes renommés.",
+      "feature4Title": "Séries de victoires",
+      "feature4Description": "Construisez votre série de victoires en devinant correctement."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires de jeu"
+    },
+    "GamePage": {
+      "title": "Tous les Jeux",
+      "description": "Tous les Jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Afficher plus",
+      "page": "Page"
+    }
+  }
+}

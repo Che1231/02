@@ -1,0 +1,77 @@
+{
+  "dordle": {
+    "title": "Dordle: O Desafio Final de Palavras",
+    "slogan": "Duplique as Palavras, Duplique a Diversião",
+    "description": "O Dordle é uma emocionante variação do Wordle que adiciona um toque único ao jogo. Embora a mecânica básica permaneça a mesma, o Dordle desafia você a adivinhar não apenas uma, mas duas palavras simultaneamente para progredir. Mas não se deixe enganar pela aparente simplicidade; há mais neste jogo do que á primeira vista.",
+    "Loading": {
+      "title": "Carregando..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Uso",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Amigáveis",
+      "articleList": "Lista de Artigos",
+      "home": "Início",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Dordle: O Desafio Final de Palavras",
+      "description": "O Dordle é uma emocionante variação do Wordle que adiciona um toque único ao jogo. Embora a mecânica básica permaneça a mesma, o Dordle desafia você a adivinhar não apenas uma, mas duas palavras simultaneamente para progredir. Mas não se deixe enganar pela aparente simplicidade; há mais neste jogo do que á primeira vista.",
+      "iframeTitle": "Visualização do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Dordle: O Desafio Final de Palavras",
+      "whatIsTitle": "O que é o Dordle?",
+      "whatIsDescription": "O Dordle é uma emocionante variação do Wordle que adiciona um toque único ao jogo. Embora a mecânica básica permaneça a mesma, o Dordle desafia você a adivinhar não apenas uma, mas duas palavras simultaneamente para progredir. Mas não se deixe enganar pela aparente simplicidade; há mais neste jogo do que á primeira vista.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Adivinhe duas palavras simultaneamente.",
+      "howToPlayStep2": "Utilize os feedbacks para aprimorar suas suposições.",
+      "howToPlayStep3": "Progrida ao adivinhar corretamente as duas palavras.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Duplique o Desafio",
+      "feature1Description": "Adivinhe duas palavras ao mesmo tempo para um toque único.",
+      "feature2Title": "Estratégia Aprimorada",
+      "feature2Description": "Utilize os feedbacks das duas palavras para aprimorar suas suposições.",
+      "feature3Title": "Jogabilidade Engajante",
+      "feature3Description": "Mantém você engajado com suas mecânicas inovadoras.",
+      "feature4Title": "Acessibilidade para Todos",
+      "feature4Description": "Fácil de aprender, mas difícil de dominar."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo de Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Visualizar Mais",
+      "page": "Página"
+    }
+  }
+}

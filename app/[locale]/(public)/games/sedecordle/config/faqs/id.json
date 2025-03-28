@@ -1,0 +1,42 @@
+[
+  {
+    "pertanyaan": "Bagaimana cara memulai bermain Sedecordle bagi pemula?",
+    "jawaban": "Untuk memulai bermain Sedecordle, ikuti langkah-langkah berikut: LANGKAH 1 - Kunjungi situs web Sedecordle resmi atau unduh aplikasinya. LANGKAH 2 - Klik 'Permainan Baru' untuk memulai. LANGKAH 3 - Anda akan melihat grid dengan 16 teka-teki Wordle individu. Mulailah dengan menebak kata 5 huruf untuk teka-teki pertama. Contohnya: Jika Anda menebak 'CRANE' dan huruf-hurufnya berubah hijau, itu berarti huruf-huruf tersebut benar. Ulangi proses ini untuk semua 16 teka-teki. [Perumpamaan: Bayangkan Anda memecahkan 16 mini-Wordle secara bersamaan, masing-masing berkontribusi pada tantangan Sedecordle yang lebih besar.]"
+  },
+  {
+    "pertanyaan": "Apa aturan dasar Sedecordle yang harus diketahui setiap pemain baru?",
+    "jawaban": "Aturan dasar Sedecordle cukup sederhana: 1) Anda memiliki 21 upaya untuk menyelesaikan 16 teka-teki Wordle. 2) Setiap teka-teki membutuhkan tebakan kata 5 huruf. 3) Huruf yang benar di posisi yang benar berubah menjadi hijau, huruf yang benar di posisi yang salah berubah menjadi kuning, dan huruf yang salah berubah menjadi abu-abu. Contoh: Jika Anda menebak 'PLANT' dan 'P' dan 'T' benar, keduanya akan berubah menjadi hijau. [Tabel Perbandingan: Sedecordle vs. Wordle - Sedecordle memiliki 16 teka-teki berbanding Wordle yang hanya 1, dan 21 upaya dibandingkan 6 upaya Wordle.]"
+  },
+  {
+    "pertanyaan": "Strategi apa yang dapat membantu saya meningkatkan permainan Sedecordle saya sebagai pemula?",
+    "jawaban": "Meningkatkan permainan Sedecordle Anda melibatkan strategi berikut: LANGKAH 1 - Mulailah dengan kata-kata 5 huruf umum yang mengandung banyak vokal, seperti 'AUDIO'. LANGKAH 2 - Gunakan umpan balik dari setiap tebakan untuk menghilangkan huruf-huruf yang mustahil untuk teka-teki lainnya. LANGKAH 3 - Fokus pada menyelesaikan teka-teki yang lebih mudah terlebih dahulu untuk mendapatkan momentum. Contoh: Jika 'AUDIO' ternyata memiliki 'A' dan 'I' yang benar, gunakan informasi ini di semua 16 teka-teki. [Perbandingan Multi-Solusi: Memulai dengan 'AUDIO' vs 'CRANE' - 'AUDIO' mencakup lebih banyak vokal, yang dapat lebih informatif pada awalnya.]"
+  },
+  {
+    "pertanyaan": "Mengapa penting untuk mengelola upaya secara efisien di Sedecordle, dan bagaimana saya bisa melakukannya?",
+    "jawaban": "Mengelola upaya secara efisien di Sedecordle sangat penting karena Anda hanya memiliki 21 upaya untuk menyelesaikan 16 teka-teki. LANGKAH 1 - Alokasikan upaya berdasarkan kesulitan teka-teki; selesaikan yang lebih mudah terlebih dahulu. LANGKAH 2 - Gunakan huruf bersama di antara teka-teki untuk memaksimalkan perolehan informasi. LANGKAH 3 - Hindari tebakan yang berulang dengan melacak huruf yang sudah disingkirkan. Contoh: Jika 'CRANE' menghilangkan 'C' dan 'R' di beberapa teka-teki, Anda dapat fokus pada huruf lain. [Diagram Alir: Alokasi Upaya - Teka-teki Mudah → Huruf Bersama → Hilangkan Pengulangan.]"
+  },
+  {
+    "pertanyaan": "Teknik canggih apa yang dapat membantu saya menyelesaikan teka-teki Sedecordle lebih cepat?",
+    "jawaban": "Teknik canggih untuk menyelesaikan Sedecordle lebih cepat meliputi: LANGKAH 1 - Gunakan pendekatan 'bank kata', menjaga daftar kata-kata yang memungkinkan untuk setiap teka-teki. LANGKAH 2 - Terapkan 'analisis lintas-teka-teki' untuk mengidentifikasi pola huruf yang tumpang tindih. LANGKAH 3 - Prioritaskan teka-teki dengan kendala paling banyak untuk mengurangi ketidakpastian. Contoh: Jika Teka-teki 1 memiliki 'A' dan 'E' yang dikonfirmasi, gunakan ini untuk mempersempit kemungkinan pada Teka-teki 2-16. [Perumpamaan: Bayangkan sebagai permainan catur di mana setiap langkah (tebakan) memengaruhi beberapa papan (teka-teki) secara bersamaan.]"
+  },
+  {
+    "pertanyaan": "Bagaimana saya dapat mengoptimalkan strategi pemilihan kata saya di Sedecordle?",
+    "jawaban": "Mengoptimalkan pemilihan kata di Sedecordle melibatkan: LANGKAH 1 - Pilih kata-kata yang mencakup berbagai huruf dan vokal umum. LANGKAH 2 - Gunakan proses eliminasi untuk membuang kata-kata yang tidak sesuai dengan umpan balik. LANGKAH 3 - Gunakan kembali huruf yang dikonfirmasi di antara teka-teki untuk meminimalkan tebakan. Contoh: Jika 'AUDIO' mengkonfirmasi 'A' dan 'I', prioritaskan kata-kata yang mengandung huruf-huruf ini di teka-teki lain. [Tabel Perbandingan: Strategi Pemilihan Kata - Cakupan Luas vs. Fokus Sempit, dengan contoh seperti 'AUDIO' vs 'CRANE'.]"
+  },
+  {
+    "pertanyaan": "Apa mekanisme dasar sistem penilaian Sedecordle?",
+    "jawaban": "Sistem penilaian Sedecordle didasarkan pada jumlah upaya yang digunakan untuk menyelesaikan 16 teka-teki. Semakin sedikit upaya yang Anda gunakan, semakin tinggi skor Anda. Contoh: Menyelesaikan semua teka-teki dalam 15 upaya mendapat skor lebih tinggi daripada menyelesaikannya dalam 20 upaya. [Analisis Sistem: Mekanisme Penilaian - Setiap upaya mengurangi skor potensial Anda, dan upaya yang tidak terpakai menambahkan poin bonus. Rumusnya adalah: Skor = (21 - Upaya yang Digunakan) * 10 + Bonus.]"
+  },
+  {
+    "pertanyaan": "Bagaimana algoritme pembuatan teka-teki Sedecordle memastikan keadilan dan variasi?",
+    "jawaban": "Algoritme pembuatan teka-teki Sedecordle memastikan keadilan dan variasi dengan: 1) Secara acak memilih kata-kata dari daftar kata-kata 5 huruf umum yang dipilih. 2) Memastikan bahwa setiap teka-teki independen tetapi dapat berbagi huruf dengan yang lain. 3) Mengimbangi kesulitan dengan memasukkan kata-kata yang umum dan yang kurang umum. Contoh: Teka-teki 1 mungkin memiliki 'CRANE' sementara Teka-teki 2 memiliki 'PLANT', yang berbagi huruf 'A'. [Analisis Sistem: Algoritme Pembuatan Teka-teki - Pemilihan Acak + Teka-teki Independen + Perimbangan Kesulitan.]"
+  },
+  {
+    "pertanyaan": "Bisakah saya mentransfer kemajuan Sedecordle saya di antara perangkat yang berbeda?",
+    "jawaban": "Ya, Anda dapat mentransfer kemajuan Sedecordle Anda di antara perangkat. LANGKAH 1 - Pastikan Anda masuk ke akun yang sama di kedua perangkat. LANGKAH 2 - Gunakan fitur penyimpanan awan untuk menyinkronkan kemajuan Anda. LANGKAH 3 - Jika Anda mengalami masalah, bersihkan cache dan coba lagi. Contoh: Kemajuan dari ponsel Anda dapat diakses di tablet Anda dengan masuk ke akun yang sama. [Perbandingan Multi-Solusi: Sinkronisasi Awan vs. Simpanan Manual - Sinkronisasi Awan otomatis tetapi memerlukan akun, sedangkan Simpanan Manual offline tetapi kurang nyaman.]"
+  },
+  {
+    "pertanyaan": "Apakah ada fitur tersembunyi atau telur Paskah di Sedecordle yang mungkin tidak diketahui para pemain?",
+    "jawaban": "Sedecordle mencakup fitur tersembunyi seperti: 1) 'Mode Gelap' untuk permainan malam yang lebih baik. 2) Pencapaian tersembunyi untuk menyelesaikan semua teka-teki dalam waktu rekor. 3) Animasi khusus saat menyelesaikan semua 16 teka-teki. Contoh: Menyelesaikan semua teka-teki dalam waktu kurang dari 15 upaya memicu animasi kembang api khusus. [Penggalian Telur Paskah: Fitur Tersembunyi - Mode Gelap, Pencapaian Tersembunyi, Animasi Khusus.]"
+  }
+]

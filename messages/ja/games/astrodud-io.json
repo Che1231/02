@@ -1,0 +1,77 @@
+{
+  "astrodud-io": {
+    "title": "AstroDud.io - オンラインIOゲーム無料",
+    "slogan": "生き残り、競い、征服する",
+    "description": "AstroDud.ioは、世界中のプレイヤーと対戦する、無料でプレイできるスリリングなIOゲームです。 困難な障害物を避け、常にトップを目指し、生き残ってください。完全没入型の3Dアリーナで、スキルを試してみて、キャラクターをアップグレードして競争を支配してください。究極の挑戦の準備はできていますか？ 今すぐAstroDud.ioをプレイしましょう！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "AstroDud.io",
+      "description": "無料のIOゲームAstroDud.ioをプレイし、スリリングな障害物コースで競い合ってください。生き残り、トップを目指し、没入型の3Dアリーナでキャラクターをアップグレードしてください。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "AstroDud.io",
+      "whatIsTitle": "AstroDud.ioとは？",
+      "whatIsDescription": "AstroDud.ioは、素晴らしい体験を提供する無料のIOゲームです。世界中の何千人ものプレイヤーと、挑戦的な障害物コースで競い合ってください。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "障害物を避けながら進みます。",
+      "howToPlayStep2": "他のプレイヤーと競い合って、最初にゴールを目指してください。",
+      "howToPlayStep3": "生き残り、キャラクターをアップグレードして、競争を支配してください。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "没入型の3Dアリーナ",
+      "feature1Description": "ゲームプレイを強化する、完全没入型の3Dアリーナを体験してください。",
+      "feature2Title": "グローバルな競争",
+      "feature2Description": "世界中からのプレイヤーとリアルタイムで競い合ってください。",
+      "feature3Title": "キャラクターのアップグレード",
+      "feature3Description": "パフォーマンスを向上させ、競争を支配するためにキャラクターをアップグレードしてください。",
+      "feature4Title": "挑戦的な障害物",
+      "feature4Description": "あなたのスキルを試すように設計された、さまざまな挑戦的な障害物コースをクリアしてください。"
+    },
+    "HomeFAQs": {
+      "title": "よくあるご質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームのコメント"
+    },
+    "GamePage": {
+      "title": "全ゲーム",
+      "description": "全ゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

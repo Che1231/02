@@ -1,0 +1,77 @@
+{
+  "voxiom-io": {
+    "title": "Voxiom.io 플레이 - 무료 온라인 멀티플레이어 슈팅 게임",
+    "slogan": "Voxiom.io에서 치열한 멀티플레이어 전투에 참여하세요!",
+    "description": "Voxiom.io는 마인크래프트의 본질과 짜릿한 총격전을 결합합니다. 환경을 해체하고 고급 무기를 제작하며 밀려드는 독가스를 견뎌내세요. 강력한 화기를 사용하여 제작, 건설 및 전투를 경험하세요. 유일한 생존자가 될 수 있을까요? 지금 Voxiom.io를 무료로 플레이하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "Voxiom.io",
+      "description": "Voxiom.io에서 최고의 멀티플레이어 슈팅 게임을 경험하세요. 생존하고, 제작하고, 건설하여 승리하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Voxiom.io",
+      "whatIsTitle": "Voxiom.io는 무엇인가요?",
+      "whatIsDescription": "Voxiom.io는 제작, 건설 및 격렬한 멀티플레이어 총격전을 결합한 브라우저 기반 슈팅 게임입니다. 독가스를 견뎌내고 마지막 플레이어로서 살아남으세요!",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "자원을 모으기 위해 환경을 파괴하세요.",
+      "howToPlayStep2": "전투에서 우위를 점하기 위해 고급 무기를 제작하세요.",
+      "howToPlayStep3": "밀려드는 독가스를 견뎌내고 마지막 플레이어로서 살아남으세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "제작 및 건설",
+      "feature1Description": "자원을 사용하여 무기를 제작하고 구조물을 건설하세요.",
+      "feature2Title": "멀티플레이어 전투",
+      "feature2Description": "전 세계 플레이어와 치열한 총격전에 참여하세요.",
+      "feature3Title": "독가스",
+      "feature3Description": "줄어드는 플레이 영역을 견뎌내고 상대방보다 오래 버티세요.",
+      "feature4Title": "강력한 화기",
+      "feature4Description": "전장을 지배할 다양한 고급 무기를 사용하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

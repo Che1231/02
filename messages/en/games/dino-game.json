@@ -1,0 +1,77 @@
+{
+  "dino-game": {
+    "title": "Dino Game - Run, Jump, and Survive!",
+    "slogan": "Explore the Prehistoric World in Dino Game!",
+    "description": "Join Dino Game and embark on an exciting adventure through dangerous desert roads. Control your dinosaur to jump over obstacles and avoid collisions. With its retro pixel style and addictive gameplay, Dino Game offers a thrilling experience for all players. Challenge yourself to see how far you can go in this non-stop running game!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Dino Game - Run, Jump, and Survive!",
+      "description": "Join Dino Game and embark on an exciting adventure through dangerous desert roads. Control your dinosaur to jump over obstacles and avoid collisions. With its retro pixel style and addictive gameplay, Dino Game offers a thrilling experience for all players. Challenge yourself to see how far you can go in this non-stop running game!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Dino Game - Run, Jump, and Survive!",
+      "whatIsTitle": "What is Dino Game?",
+      "whatIsDescription": "Dino Game is a simple yet addictive game that takes players on an exciting adventure in the prehistoric world of dinosaurs! In this game, you will maneuver a little dinosaur on a journey through a challenging and adventurous environment.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Press the up arrow key or the spacebar to make the character jump up.",
+      "howToPlayStep2": "Use the down arrow key to make the little dinosaur lower its head.",
+      "howToPlayStep3": "Avoid obstacles such as cacti and flying creatures to keep running.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Retro Pixel Style",
+      "feature1Description": "Experience the nostalgic charm of retro pixel graphics.",
+      "feature2Title": "Simple Controls",
+      "feature2Description": "Easy-to-learn controls make the game accessible to everyone.",
+      "feature3Title": "Addictive Gameplay",
+      "feature3Description": "Challenge yourself to beat your high score in this non-stop running game.",
+      "feature4Title": "Prehistoric Adventure",
+      "feature4Description": "Embark on an exciting journey through the prehistoric world of dinosaurs."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "waffle-game": {
+    "title": "瓦夫游戏 - 免费在线单词拼图挑战",
+    "slogan": "用瓦夫游戏释放您的单词解谜技能",
+    "description": "体验瓦夫游戏带来的终极单词拼图体验！专为单词游戏爱好者打造，瓦夫游戏提供一个独特的挑战：在瓦夫板上仅用15次字母重排找到6个隐藏的单词。无论您是想扩展词汇量还是寻求脑力锻炼，瓦夫游戏都适合所有年龄和技能水平的用户。现在开始游戏，测试您的单词解谜能力！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "瓦夫游戏 - 免费在线单词拼图挑战",
+      "description": "体验瓦夫游戏的刺激，这是一个引人入胜的单词拼图游戏，挑战你在瓦夫板上找到六个隐藏的单词。通过15次字母重排，它非常适合所有年龄段的单词爱好者。现在开始游戏，测试你的技能！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "网址已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "玩游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "瓦夫游戏 - 免费在线单词拼图挑战",
+      "whatIsTitle": "什么是瓦夫游戏？",
+      "whatIsDescription": "瓦夫游戏是一款引人入胜的单词猜谜游戏，挑战玩家在瓦夫板上找到六个隐藏的单词。通过15次字母重排，它提供了一种独特而令人兴奋的单词拼图体验。",
+      "howToPlayTitle": "如何玩游戏？",
+      "howToPlayStep1": "首先，仔细检查瓦夫板以识别潜在的单词。",
+      "howToPlayStep2": "在允许的15次移动内重新排列字母以形成正确的单词。",
+      "howToPlayStep3": "通过在瓦夫板上找到所有六个隐藏的单词来完成拼图。",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "多单词挑战",
+      "feature1Description": "在瓦夫板上找到六个隐藏的单词，带来更复杂的拼图体验。",
+      "feature2Title": "移动次数限制",
+      "feature2Description": "只允许进行15次字母重新排列，增加了挑战性。",
+      "feature3Title": "适合所有年龄段",
+      "feature3Description": "瓦夫游戏设计为所有年龄和技能水平的玩家都能享受到乐趣。",
+      "feature4Title": "词汇扩展",
+      "feature4Description": "在享受游戏的乐趣的同时，扩展您的英语词汇。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "分类",
+      "noCategories": "未找到分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

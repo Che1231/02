@@ -1,0 +1,77 @@
+{
+  "geometry-dash-clutterfunk": {
+    "title": "Jouer à Geometry Dash Clutterfunk - Jeu de plateformes rythmiques gratuit",
+    "slogan": "Découvrez le frisson de Geometry Dash Clutterfunk !",
+    "description": "Geometry Dash Clutterfunk est un niveau électrique du jeu de plateforme rythmique populaire Geometry Dash. Il offre aux joueurs une expérience exaltante avec son design captivant et sa bande son palpitante. Clutterfunk est classé comme un niveau démon facile, mettant les joueurs au défi avec sa difficulté de 10 étoiles. Plongez dans le gameplay trépidant de Geometry Dash Clutterfunk et testez vos compétences dès aujourd'hui !",
+    "Loading": {
+      "title": "Chargement de Geometry Dash Clutterfunk..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Geometry Dash Clutterfunk",
+      "description": "Découvrez le niveau électrique de Geometry Dash Clutterfunk, un jeu de plateformes rythmiques avec une bande son palpitante et un design captivant.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Geometry Dash Clutterfunk",
+      "whatIsTitle": "Qu'est-ce que Geometry Dash Clutterfunk ?",
+      "whatIsDescription": "Geometry Dash Clutterfunk est un niveau électrique du jeu de plateformes rythmiques populaire Geometry Dash. Il offre aux joueurs une expérience exaltante avec son design captivant et sa bande son palpitante.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Naviguez dans le niveau en sautant par-dessus les obstacles.",
+      "howToPlayStep2": "Synchronisez vos mouvements avec le rythme de la bande son.",
+      "howToPlayStep3": "Terminez le niveau pour débloquer de nouveaux défis.",
+      "keyFeaturesTitle": "Fonctionnalités clés",
+      "feature1Title": "Design électrique",
+      "feature1Description": "Découvrez un design visuel captivant.",
+      "feature2Title": "Bande son palpitante",
+      "feature2Description": "Plongez-vous dans une bande son rythmique.",
+      "feature3Title": "Niveau démon facile",
+      "feature3Description": "Relevez le défi avec une difficulté de 10 étoiles.",
+      "feature4Title": "Gameplay de plateforme",
+      "feature4Description": "Profitez d'une expérience de plateforme rythmique passionnante."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

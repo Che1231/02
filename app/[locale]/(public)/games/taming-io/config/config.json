@@ -1,0 +1,122 @@
+{
+  "name": "Taming.io",
+  "pagePath": "/games/taming-io",
+  "pageName": "taming-io",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://taming.io/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken87.png",
+      "content": "Wow, Taming.io is such an epic adventure! Taming powerful creatures is super fun!"
+    },
+    {
+      "author": "SavageKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatana_X.png",
+      "content": "Can you believe how vast the world is in Taming.io? I’m still exploring after hours!"
+    },
+    {
+      "author": "PhantomLootGoblin42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomLootGoblin42.png",
+      "content": "Taming creatures in this prehistoric world is a total blast! Highly recommend it!"
+    },
+    {
+      "author": "NeonWitcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonWitcher4Lyfe.png",
+      "content": "Taming.io? More like 'Get Ready to Love Dinosaurs!' Such an unexpected delight!"
+    },
+    {
+      "author": "LagWarrior99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarrior99.png",
+      "content": "This game is awesome, but sometimes I feel like I’m just running in circles!"
+    },
+    {
+      "author": "CosmicPhoenix_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicPhoenix_X.png",
+      "content": "Just tamed my first giant creature in Taming.io—absolutely fantastic! Can’t wait to ride it!"
+    },
+    {
+      "author": "NoobMaster42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster42.png",
+      "content": "I’m a noob but hey, taming creatures has never been this cool! Thanks, Taming.io!"
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "Taming.io is lit! I just love how you can explore and gather resources seamlessly."
+    },
+    {
+      "author": "PhantomBroadsword87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomBroadsword87.png",
+      "content": "OMG, the creatures in Taming.io are so creative and well-designed! Love it!"
+    },
+    {
+      "author": "StalkingLeviathan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingLeviathan99.png",
+      "content": "Can we just take a moment to appreciate how fun taming these creatures is? Huge thumbs up!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/taming-io/taming-io-m200x130.webp",
+  "page_path": "/games/taming-io",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8scdqkm0101lywlki581vri",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T05:28:38.085Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 13:37:20"
+}

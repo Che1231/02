@@ -1,0 +1,77 @@
+{
+  "lava-bird": {
+    "title": "Jouer à Lava Bird en ligne - Jeu d'aventure de vol flamboyant",
+    "slogan": "Testez vos réflexes dans ce jeu de plateforme brûlant !",
+    "description": "Envolez-vous avec Lava Bird dans un vol flamboyant ! Naviguez dans une grotte de lave en feu, esquivez les obstacles et vainquez les ennemis avec des boules de feu destructrices. Avec deux modes de jeu passionnants, vous pouvez jouer seul ou défier un ami. Vivez le frisson de ce jeu de plateforme 2D plein d'action. Jouez à Lava Bird maintenant et dominez les cieux de lave !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Lava Bird - Aventure de vol flamboyant",
+      "description": "Rejoignez Lava Bird pour un vol flamboyant à travers la grotte de lave. Évitez les obstacles, tirez des boules de feu et vainquez les ennemis dans ce jeu de plateforme 2D palpitant. Jouez maintenant !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer au jeu"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Lava Bird - Aventure de vol flamboyant",
+      "whatIsTitle": "Qu'est-ce que Lava Bird ?",
+      "whatIsDescription": "Lava Bird est un jeu de plateforme 2D plein d'action où vous contrôlez un oiseau flamboyant qui navigue dans une dangereuse grotte de lave. Évitez les obstacles, tirez des boules de feu et battez les ennemis pour devenir le roi des cieux de lave !",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Utilisez la barre d'espace ou le clic de la souris pour contrôler l'oiseau en mode solo.",
+      "howToPlayStep2": "En mode deux joueurs, le joueur 1 (oiseau rouge) utilise la touche Z, et le joueur 2 (oiseau bleu) utilise les touches fléchées du haut.",
+      "howToPlayStep3": "Évitez les obstacles et battez les ennemis pour marquer des points. Le premier joueur à atteindre cinq points gagne !",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Vol flamboyant",
+      "feature1Description": "Naviguez dans une dangereuse grotte de lave remplie d'obstacles et d'ennemis.",
+      "feature2Title": "Boules de feu destructrices",
+      "feature2Description": "Tirez des boules de feu pour détruire les ennemis et vous frayer un chemin.",
+      "feature3Title": "Deux modes de jeu",
+      "feature3Description": "Choisissez entre le jeu solo ou un combat intense à distance avec un ami.",
+      "feature4Title": "Contrôles faciles",
+      "feature4Description": "Des contrôles simples et intuitifs permettent à tous les joueurs de profiter du jeu."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Afficher plus",
+      "page": "Page"
+    }
+  }
+}

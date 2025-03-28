@@ -1,0 +1,77 @@
+{
+  "stickman-school-run": {
+    "title": "スティックマン・スクール・ラン：障害物を飛び越えて進む",
+    "slogan": "トリッキーな地形を駆け抜け、すべてのレベルをクリア！",
+    "description": "スティックマン・スクール・ランで、少年が恋人の元にたどり着くために、障害物を飛び越えましょう。この学校をテーマにしたゲームは、創造的なランニングとジャンプのゲームプレイを提供します。スティックマンを操作し、挑戦的なプラットフォームと障害物を乗り越えてください。100個のレベルは、それぞれあなたの柔軟性と素早い反応力を試すように設計されており、スティックマン・スクール・ランは飽きさせません。今すぐプレイして、魔法と挑戦の融合を体験してください！",
+    "Loading": {
+      "title": "読み込み中…"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "スティックマン・スクール・ラン",
+      "description": "創造性と挑戦を組み合わせたゲーム、スティックマン・スクール・ランの興奮を体験してください。100個のレベルをナビゲートし、それぞれ独自の障害物とプラットフォームを提供します。今すぐプレイして、あなたは何になれるか見てみましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "スティックマン・スクール・ラン",
+      "whatIsTitle": "スティックマン・スクール・ランとは？",
+      "whatIsDescription": "スティックマン・スクール・ランは、スティックマンを操作して、挑戦的なプラットフォームと障害物を乗り越え、恋人のもとへたどり着く、学校をテーマにしたゲームです。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "キャラクターをジャンプさせるには、上矢印キーを押してください。",
+      "howToPlayStep2": "上矢印キーを押し続けると、ルーラーを拡大表示し、邪魔な箱を押し戻します。",
+      "howToPlayStep3": "右矢印キーを使ってキャラクターをねじり、組み合わせによる衝突を回避してください。",
+      "keyFeaturesTitle": "主な機能",
+      "feature1Title": "100個の挑戦的なレベル",
+      "feature1Description": "各レベルは、あなたの柔軟性と素早い反応力を試すように設計されています。",
+      "feature2Title": "ダイナミックなマップ変化",
+      "feature2Description": "レベルを再プレイすると、マップが変わることがあり、毎回新しい挑戦が提供されます。",
+      "feature3Title": "創造的なゲームプレイ",
+      "feature3Description": "ユニークな障害物とプラットフォームをナビゲートするスティックマンを操作します。",
+      "feature4Title": "魅力的なメカニズム",
+      "feature4Description": "さまざまな障害物を克服するために、異なるコマンドを使用します。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

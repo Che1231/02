@@ -1,0 +1,114 @@
+{
+  "recommended": [],
+  "categories": [
+    {
+      "name": "Empfohlene Spiele",
+      "path": "/c/featured",
+      "pageSize": 15,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Wir haben die besten Spiele für Sie ausgewählt!"
+    },
+    {
+      "name": "Arcade-Spiele",
+      "path": "/c/arcade-games",
+      "pageSize": 15,
+      "backgroundColor": "#d2e7ff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Spannende Arcade-Spiele!",
+      "position": 2
+    },
+    {
+      "name": "Actionspiele",
+      "path": "/c/action",
+      "pageSize": 15,
+      "backgroundColor": "#c1f8cf",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Spannende Actionspiele!",
+      "position": 3
+    },
+    {
+      "name": "Abenteuer-Spiele",
+      "path": "/c/adventure-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 4,
+      "description": "Spannende Abenteuer-Spiele!"
+    },
+    {
+      "name": "Wordleverse-Spiele",
+      "path": "/c/wordleverse-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 5,
+      "description": "Spannende Wordleverse-Spiele!"
+    },
+    {
+      "name": ".IO-Spiele",
+      "path": "/c/io-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 6,
+      "description": "Spannende .IO-Spiele!"
+    },
+    {
+      "name": "Casual-Spiele",
+      "path": "/c/casual-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 7,
+      "description": "Spannende Casual-Spiele!"
+    },
+    {
+      "name": "Puzzle-Spiele",
+      "path": "/c/puzzle-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 8,
+      "description": "Spannende Puzzle-Spiele!"
+    },
+    {
+      "name": "Rennsport & Fahrspiele",
+      "path": "/c/racing-driving",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 9,
+      "description": "Spannende Rennsport & Fahrspiele!"
+    },
+    {
+      "name": "3D-Spiele",
+      "path": "/c/3d-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 10,
+      "description": "Spannende 3D-Spiele!"
+    },
+    {
+      "name": "Sportspiele",
+      "path": "/c/sports-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 11,
+      "description": "Spannende Sportspiele!"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "hero-wars": {
+    "title": "Hero Wars - Aventura épica de RPG de fantasía",
+    "slogan": "¡Une héroes, conquista la oscuridad!",
+    "description": "Embárcate en un viaje épico en Hero Wars, un RPG lleno de acción donde salvarás el reino de Dominion del caos. Reúne a un equipo de poderosos héroes, mejora sus habilidades y participa en emocionantes batallas. ¡Experimenta la aventura de fantasía definitiva hoy mismo!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Hero Wars™",
+      "description": "Sumérgete en Hero Wars, un épico RPG de fantasía donde lideras a héroes para salvar Dominion. Mejora las habilidades, planifica las batallas y conquista el caos. ¡Comienza tu aventura ahora!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Hero Wars - La experiencia RPG definitiva",
+      "whatIsTitle": "¿Qué es Hero Wars?",
+      "whatIsDescription": "Hero Wars es un RPG lleno de acción que te lleva en un viaje épico para salvar el reino de fantasía de Dominion de la oscuridad y el caos. Reúne a un equipo de poderosos héroes, mejora sus habilidades y participa en emocionantes batallas contra enemigos poderosos.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Forma un equipo de héroes poderosos.",
+      "howToPlayStep2": "Mejora las habilidades y el equipo de tus héroes.",
+      "howToPlayStep3": "Participa en batallas estratégicas para conquistar a los enemigos.",
+      "keyFeaturesTitle": "Características principales",
+      "feature1Title": "Héroes épicos",
+      "feature1Description": "Recluta y mejora una diversa lista de héroes.",
+      "feature2Title": "Batallas estratégicas",
+      "feature2Description": "Planifica tus movimientos y derrota a enemigos poderosos.",
+      "feature3Title": "Reino de fantasía",
+      "feature3Description": "Explora el mundo mágico de Dominion.",
+      "feature4Title": "Únete",
+      "feature4Description": "Únete a tus amigos para afrontar desafíos mayores."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

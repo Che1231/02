@@ -1,0 +1,77 @@
+{
+  "papa-s-cupcakeria": {
+    "title": "Papa'nın Cupcakeria Oyununu Online Oyna - Ücretsiz Kurabiye Oyunu",
+    "slogan": "Frostfield Kasabasında Lezzetli Kurabiyeler Pişirin ve Servis Edin",
+    "description": "Papa'nın Cupcakeria, popüler Papa'nın serisinin sekizinci taksitidir. Bu oyunda, Frostfield kasabasındaki bir kafeteryada garson olarak oynuyorsunuz. Görevimiz, kendi mutfağınızda yaptığınız ve pişirdiğiniz lezzetli kurabiyeleri müşterilerinize servis etmektir. Bugünden itibaren Papa'nın Cupcakeria'da pişirme ve servis etme keyfini yaşayın!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Kullanım Kılavuzu",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Papa'nın Cupcakeria",
+      "description": "Papa'nın Cupcakeria oyununu ücretsiz olarak online oynayın ve Frostfield kasabasında lezzetli kurabiyeler pişirin ve servis edin.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Papa'nın Cupcakeria",
+      "whatIsTitle": "Papa'nın Cupcakeria Nedir?",
+      "whatIsDescription": "Papa'nın Cupcakeria, müşterilerinize lezzetli kurabiyeler hazırlayıp servis ettiğiniz bir garson olarak oynadığınız eğlenceli ve ilgi çekici bir oyundur.",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Müşteri siparişlerini alın ve kurabiyelerini özelleştirin.",
+      "howToPlayStep2": "Mutfağınızda kurabiyeleri mükemmel bir şekilde pişirin.",
+      "howToPlayStep3": "Kurabiyeleri müşterilerinize servis edin ve bahşiş kazanın.",
+      "keyFeaturesTitle": "Ana Özellikler",
+      "feature1Title": "Özelleştirilebilir Kurabiyeler",
+      "feature1Description": "Çeşitli malzemeler ve süslemelerden seçerek benzersiz kurabiyeler yaratın.",
+      "feature2Title": "Etkileşimli Oyun",
+      "feature2Description": "Kurabiyeler pişiriyor ve servis ederken eğlenceli ve etkileşimli bir oyun deneyimine katılın.",
+      "feature3Title": "Müşteri Memnuniyeti",
+      "feature3Description": "Müşterilerinizi zamanında lezzetli kurabiyelerle mutlu tutun.",
+      "feature4Title": "Bahşiş Kazanma",
+      "feature4Description": "Mükemmel hizmet vererek ve müşterilerinizi memnuniyetle karşılayarak bahşiş kazanın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

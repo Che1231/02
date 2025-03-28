@@ -1,0 +1,1 @@
+Geometry Dash Nine Circles (NC) is a challenging level known as a Hard Demon. It has a rating of 10 stars and has inspired many users to create their own versions of the level, called Nine Circles levels. Currently, it is the fourth most downloaded Demon level in Geometry Dash.

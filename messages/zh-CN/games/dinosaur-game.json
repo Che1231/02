@@ -1,0 +1,77 @@
+{
+  "dinosaur-game": {
+    "title": "在线恐龙游戏 - 无限奔跑冒险",
+    "slogan": "跳跃、奔跑、生存！",
+    "description": "恐龙游戏，也称为 Chrome 恐龙或霸王龙跑酷，是一款热门的横版无限跑酷游戏。在谷歌 Chrome 浏览器上离线玩耍，控制像素化的霸王龙穿越充满仙人掌和飞翔翼龙的沙漠景观。通过跳跃或躲避障碍物，尽可能长时间地生存。现在尝试恐龙游戏，掌握这款引人入胜的街机冒险！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "恐龙游戏",
+      "description": "恐龙游戏，也称为 Chrome 恐龙或霸王龙跑酷，是一款热门的横版无限跑酷游戏。在谷歌 Chrome 浏览器上离线玩耍，控制像素化的霸王龙穿越充满仙人掌和飞翔翼龙的沙漠景观。通过跳跃或躲避障碍物，尽可能长时间地生存。现在尝试恐龙游戏，掌握这款引人入胜的街机冒险！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL 已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "恐龙游戏",
+      "whatIsTitle": "恐龙游戏是什么？",
+      "whatIsDescription": "恐龙游戏，也称为 Chrome 恐龙或霸王龙跑酷，是一款热门的可在谷歌 Chrome 浏览器上离线玩耍的横版无限跑酷游戏。控制一个像素化的霸王龙，在充满仙人掌和飞翔翼龙的沙漠景观中穿行。",
+      "howToPlayTitle": "如何玩？",
+      "howToPlayStep1": "按空格键跳过仙人掌。",
+      "howToPlayStep2": "按向下箭头键躲避飞翔翼龙。",
+      "howToPlayStep3": "尽可能长时间地生存，以获得高分。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "极简设计",
+      "feature1Description": "享受干净简洁的像素风格艺术。",
+      "feature2Title": "上瘾的游戏过程",
+      "feature2Description": "体验充满挑战性障碍物的无穷乐趣。",
+      "feature3Title": "难度逐渐增加",
+      "feature3Description": "随着游戏的进展，难度会越来越高，保持你的参与度。",
+      "feature4Title": "离线游戏",
+      "feature4Description": "随时随地玩恐龙游戏，即使没有互联网连接。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

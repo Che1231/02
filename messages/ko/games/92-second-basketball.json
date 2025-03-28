@@ -1,0 +1,77 @@
+{
+  "92-second-basketball": {
+    "title": "92초 농구 - 무료 온라인 스포츠 게임",
+    "slogan": "92초 농구를 통해 스포츠 게임 속 최고의 조준력을 보여주세요.",
+    "description": "92초 농구는 바구니에 공을 던져 점수를 얻는 독특하고 재미있는 스포츠 게임입니다. 플레이어의 기술과 집중력을 시험하는 게임으로 빠르고 짜릿한 경험을 제공합니다. 플레이어는 92초 안에 필요한 점수를 얻어야 합니다. 매 성공적인 던지기마다 점수와 시간이 추가되어 시간 제한 내에서 가능한 최고 점수를 얻으려는 흥미로운 순환을 만듭니다. 지금 92초 농구를 플레이하고 놀라운 덩크슛으로 프로 농구 선수가 되세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "유용한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "92초 농구",
+      "description": "92초 농구는 바구니에 공을 던져 점수를 얻는 독특하고 재미있는 스포츠 게임입니다. 지금 플레이하고 기술을 테스트하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "92초 농구",
+      "whatIsTitle": "92초 농구는 무엇인가요?",
+      "whatIsDescription": "92초 농구는 바구니에 공을 던져 점수를 얻는 독특하고 재미있는 스포츠 게임입니다. 플레이어의 기술과 집중력을 시험하는 게임으로 빠르고 짜릿한 경험을 제공합니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "공이 멈춰 있을 때 던지세요.",
+      "howToPlayStep2": "화살표를 사용하여 방향과 던지기 힘 조절하세요.",
+      "howToPlayStep3": "바구니에 공을 던져 점수를 얻으세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "빠른 게임 플레이",
+      "feature1Description": "가능한 한 많은 점수를 얻기 위한 짜릿한 92초의 도전을 경험하세요.",
+      "feature2Title": "기술 기반 메커니즘",
+      "feature2Description": "게임을 마스터하기 위해 조준 및 던지기 기술을 테스트하세요.",
+      "feature3Title": "시간 연장",
+      "feature3Description": "각 성공적인 던지기마다 게임 시간을 추가하여 게임을 흥미롭게 유지합니다.",
+      "feature4Title": "매력적인 순환",
+      "feature4Description": "시간 제한 내에서 가능한 최고의 점수를 목표로 하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "name": "Toaster Dash",
+  "pagePath": "/games/toaster-dash",
+  "pageName": "toaster-dash",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://freetoplayz.github.io/toaster-dash/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "NeonPhoenix87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonPhoenix87.png",
+      "content": "This game is so cool! Imagine controlling a toaster and dodging those spikey donuts? Totally addicted to Toaster Dash!"
+    },
+    {
+      "author": "CosmicRevolver_42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicRevolver_42.png",
+      "content": "Who knew a toaster could be this fast and fun! Had a blast collecting all those ingredients to make a yummy cake."
+    },
+    {
+      "author": "PhantomKraken99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomKraken99.png",
+      "content": "I never thought I'd enjoy a toaster racing game but here we are! So many levels to conquer, love it!"
+    },
+    {
+      "author": "SavageBlade_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBlade_X.png",
+      "content": "This is what gaming is all about! Zipping through the levels with my trusty toaster. Epic!"
+    },
+    {
+      "author": "NeonKatanaXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonKatanaXX.png",
+      "content": "Wow, Toaster Dash is as wild as it sounds! The graphics and controls are spot-on, totally worth it."
+    },
+    {
+      "author": "LagWarrior42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarrior42.png",
+      "content": "Had a few hiccups but once it smoothed out, the game is super engaging. Love it when a toaster runs this fast!"
+    },
+    {
+      "author": "Xx_Witcher4Life_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Xx_Witcher4Life_Xx.png",
+      "content": "Toaster Dash is a slice of heaven! Great mix of speed and culinary challenges. Absolutely delicious!"
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "What a ride! The toaster dashing through levels while avoiding all those obstacles is pure entertainment."
+    },
+    {
+      "author": "NoobMaster87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster87.png",
+      "content": "Totally not a noob at this game now! Just finished my first level, it feels sooooo good!"
+    },
+    {
+      "author": "DarkAura99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/DarkAura99.png",
+      "content": "Toaster Dash brings back the old arcade vibes mixed with a unique storyline, really hooked on it."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/toaster-dash/toaster-dash-m200x130.webp",
+  "page_path": "/games/toaster-dash",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8scf0tu011hlywleulvdlgc",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T05:29:38.034Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 13:43:15"
+}

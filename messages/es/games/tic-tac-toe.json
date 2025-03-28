@@ -1,0 +1,77 @@
+{
+  "tic-tac-toe": {
+    "title": "Juega al Tic-Tac-Toe en línea | Juego clásico de X y O",
+    "slogan": "¡Disfruta de la diversión atemporal de Tic Tac Toe!",
+    "description": "Tic Tac Toe, también conocido como X y O, es un juego clásico y popular que disfrutan personas de todas las edades. Es un juego simple pero atractivo que se juega en una cuadrícula de 3x3 casillas. El objetivo es crear una línea de tres símbolos iguales (ya sea X o O) horizontal, vertical o diagonalmente. ¡Juega al Tic Tac Toe ahora y desafía a tus amigos!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Tic Tac Toe | Juego clásico de X y O",
+      "description": "¡Juega al clásico juego de Tic Tac Toe en línea! ¡Desafía a tus amigos y mira quién puede obtener tres en línea primero!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Tic Tac Toe | Juego clásico de X y O",
+      "whatIsTitle": "¿Qué es el Tic Tac Toe?",
+      "whatIsDescription": "Tic Tac Toe, también conocido como X y O, es un juego clásico y popular que disfrutan personas de todas las edades. Es un juego simple pero atractivo que se juega en una cuadrícula de 3x3 casillas.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Dos jugadores toman turnos para colocar su símbolo elegido (X o O) en una casilla vacía de la cuadrícula.",
+      "howToPlayStep2": "El primer jugador generalmente comienza con X, y el segundo jugador sigue con O.",
+      "howToPlayStep3": "El juego continúa hasta que un jugador forma una línea de tres símbolos o todas las casillas de la cuadrícula están llenas, lo que resulta en un empate.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Reglas simples",
+      "feature1Description": "Fácil de aprender y jugar, lo que lo hace accesible a todas las edades.",
+      "feature2Title": "Gameplay rápido",
+      "feature2Description": "De ritmo rápido y perfecto para descansos cortos.",
+      "feature3Title": "Pensamiento estratégico",
+      "feature3Description": "Anima a los jugadores a pensar con anticipación y planificar sus movimientos.",
+      "feature4Title": "Diversión sin fin",
+      "feature4Description": "Reproducible y siempre un desafío con diferentes oponentes."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

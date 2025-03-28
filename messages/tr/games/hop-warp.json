@@ -1,0 +1,77 @@
+{
+  "hop-warp": {
+    "title": "Hop Warp - Zıpla, Bükül ve Fethet!",
+    "slogan": "Gezin, Dönüştür ve Keşfet!",
+    "description": "Hop Warp'ın zihin açıcı macerasına dalın, zorlu seviyelerde zıplayın, bükülün ve fethedin. Boyutlar arası keşif sanatını ustalaştırarak her turu tamamlamak için yıldızları toplayın. Duvarlardan geçmek için parıldayan bir yıldıza dönüşürken benzersiz bir oyun deneyimi yaşayın. Taktik becerilerinizi zorlamaya hazır mısınız? Hop Warp'ı hemen oynayın!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Hop Warp - Ücretsiz Çevrimiçi Oyun",
+      "description": "Hop Warp'ta zıplayın, bükülün ve fethedin! Zorlu seviyelerde gezinin, bükülme sanatını ustalaştırarak en iyi boyutlar arası kaşif olun. Şimdi oynayın!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Hop Warp",
+      "whatIsTitle": "Hop Warp Nedir?",
+      "whatIsDescription": "Hop Warp, küçük bir karakterin kapalı labirentlerde yaptığı bir maceradır. Boyutların çarpıştığı ve tüm yıldızları toplamak için parıldayan bir yıldıza dönüştüğü akıl karıştırıcı bir platform oyununu deneyimleyin.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Hareket: Ok tuşlarını veya WASD tuşlarını kullanın.",
+      "howToPlayStep2": "Dönüşüm: Yıldız birine dönüşmek için X tuşuna veya boşluğa basın.",
+      "howToPlayStep3": "Not: Kırmızı duvarlar ve alanlar dönüşümleri engeller.",
+      "keyFeaturesTitle": "Temel Özellikler",
+      "feature1Title": "Benzersiz Oyun",
+      "feature1Description": "Her seviyede tüm yıldızları boyutlar arasında zıplayarak ve bükülerek toplayın.",
+      "feature2Title": "Şekil Dönüşümü",
+      "feature2Description": "Duvarlardan geçmek ve karmaşık labirentlerde gezinmek için parıldayan bir yıldıza dönüşün.",
+      "feature3Title": "Taktik Zorluk",
+      "feature3Description": "Her seviyeyi tamamlamak için sınırlı dönüşümleri stratejik olarak kullanın.",
+      "feature4Title": "Çekici Seviyeler",
+      "feature4Description": "Becerilerinizi ve yaratıcılığınızı test etmek üzere tasarlanan zihin açıcı seviyeleri keşfedin."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "name": "StarBlast.io",
+  "pagePath": "/games/starblast-io",
+  "pageName": "starblast-io",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://starblast.io/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "CosmicPhoenix99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicPhoenix99.png",
+      "content": "Wow, I can't believe how intense this game is! Customizing my spaceship and battling with friends is so thrilling!"
+    },
+    {
+      "author": "NeonKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonKatana_X.png",
+      "content": "Just joined a match for StarBlast.io and it's non-stop action! Love the power-ups, they give you that edge."
+    },
+    {
+      "author": "StalkingKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken42.png",
+      "content": "This game has some crazy upgrades to your ship. Gotta get the best ones to survive!"
+    },
+    {
+      "author": "RevolverPhantom_87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/RevolverPhantom_87.png",
+      "content": "The battles in StarBlast.io are absolutely thrilling. You never know what's gonna happen next!"
+    },
+    {
+      "author": "LaserDude69",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LaserDude69.png",
+      "content": "Man, this is one hell of an interstellar journey. Love the customizable ships. Gotta try out those new weapons!"
+    },
+    {
+      "author": "SavageBlade_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBlade_X.png",
+      "content": "I totally scored big with some power-ups today. My ship is unstoppable now!"
+    },
+    {
+      "author": "NoobCrusher900",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobCrusher900.png",
+      "content": "Is it just me or are the battles here getting more epic every time?"
+    },
+    {
+      "author": "PlasmaKnight_FTW",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PlasmaKnight_FTW.png",
+      "content": "This game's got me chasing down foes all over the galaxy. Can't put it down!"
+    },
+    {
+      "author": "DarkMatter87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/DarkMatter87.png",
+      "content": "I love collecting power-ups in StarBlast.io. Keeps the battles fresh."
+    },
+    {
+      "author": "XenonNeutron99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/XenonNeutron99.png",
+      "content": "Blastin' space pirates is my new favorite hobby. Need better weapons though..."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/starblast-io/starblast-io-m200x130.webp",
+  "page_path": "/games/starblast-io",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8scf0n40113lywlrde39o9g",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T05:29:37.791Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 13:41:43"
+}

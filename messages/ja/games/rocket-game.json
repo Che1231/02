@@ -1,0 +1,77 @@
+{
+  "rocket-game": {
+    "title": "ロケットゲーム：スリリングな宇宙冒険",
+    "slogan": "挑戦的なレベルをロケットで操縦し、星を目指しましょう！",
+    "description": "ロケットゲームは、あなたをエキサイティングな冒険へと導きます！挑戦的なレベルをロケットで操縦し、障害物を避けながら星を目指しましょう。この物理ベースのドライブゲームは、危険な道路を走行するユニークな体験を提供します。これらのユニークな体験に没頭して、レジャータイムをよりエキサイティングなものにしてください。今すぐロケットゲームをプレイして、スリルを味わってください！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "ロケットゲーム：スリリングな宇宙冒険",
+      "description": "挑戦的なレベルをロケットで操縦し、障害物を避けながら星を目指します。危険な道路を走行するユニークな体験をお楽しみください。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ロケットゲーム：スリリングな宇宙冒険",
+      "whatIsTitle": "ロケットゲームとは？",
+      "whatIsDescription": "ロケットゲームは、危険な道路を走行する体験を持つ物理ベースのドライブゲームです。急勾配と凸凹した丘陵地帯は、あなたの旅をさらに素晴らしいものにします。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "上矢印キー：前進；長押しして加速します。",
+      "howToPlayStep2": "下矢印キー：後退、通常は勢いをつけるため。",
+      "howToPlayStep3": "スペースキー：ロケットモード、長押ししてこの特別な車両の『発射』力を調整します。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "挑戦的なレベル",
+      "feature1Description": "複雑なプラットフォームをナビゲートし、障害物を克服します。",
+      "feature2Title": "物理ベースのゲームプレイ",
+      "feature2Description": "危険な道路を走行する際に、現実的な物理学を体験してください。",
+      "feature3Title": "ロケットモード",
+      "feature3Description": "ロケットモードを使って勢いのあるジャンプを行い、ロケットのように飛び立ちます。",
+      "feature4Title": "中毒性のある冒険",
+      "feature4Description": "ゲームを中毒性にするユニークな体験に没頭してください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

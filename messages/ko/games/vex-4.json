@@ -1,0 +1,77 @@
+{
+  "vex-4": {
+    "title": "Vex 4 - 온라인 어드벤처 게임 무료",
+    "slogan": "탈출, 탐색, 정복",
+    "description": "Vex 4는 Vex 게임 시리즈의 네 번째 흥미진진한 시리즈로, 더욱 큰 도전을 제공합니다. Vex 4에서의 목표는 달리기, 점프, 미끄럼, 수영과 같은 장애물을 극복하여 각 레벨을 탈출하는 것입니다.게임 플레이는 여전히 익숙하며, 벽 타기와 같은 다양한 움직임을 사용할 수 있습니다. 새로운 기능은 레벨에서 움직임을 기록할 수 있는 유령 레코더입니다. 선택적인 기능이지만, 사용해 볼 만합니다. 게임은 이전과 거의 비슷한 모습과 플레이 방식을 유지하며, 원하는 경우 WASD 또는 화살표 키를 사용하여 컨트롤 할 수 있습니다. Vex 4의 짜릿한 모험을 준비하세요!",
+    "Loading": {
+      "title": "Vex 4 로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "Vex 4 - 온라인 어드벤처 게임 무료",
+      "description": "Vex 4는 Vex 게임 시리즈의 네 번째 흥미진진한 시리즈로, 더욱 큰 도전을 제공합니다. Vex 4에서의 목표는 달리기, 점프, 미끄럼, 수영과 같은 장애물을 극복하여 각 레벨을 탈출하는 것입니다. 게임 플레이는 여전히 익숙하며, 벽 타기와 같은 다양한 움직임을 사용할 수 있습니다. 새로운 기능은 레벨에서 움직임을 기록할 수 있는 유령 레코더입니다. 선택적인 기능이지만, 사용해 볼 만합니다. 게임은 이전과 거의 비슷한 모습과 플레이 방식을 유지하며, 원하는 경우 WASD 또는 화살표 키를 사용하여 컨트롤 할 수 있습니다. Vex 4의 짜릿한 모험을 준비하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Vex 4 - 온라인 어드벤처 게임 무료",
+      "whatIsTitle": "Vex 4는 무엇인가요?",
+      "whatIsDescription": "Vex 4는 Vex 게임 시리즈의 네 번째 흥미진진한 시리즈로, 더욱 큰 도전을 제공합니다. Vex 4에서의 목표는 달리기, 점프, 미끄럼, 수영과 같은 장애물을 극복하여 각 레벨을 탈출하는 것입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "달리기, 점프, 미끄럼을 사용하여 장애물을 극복합니다.",
+      "howToPlayStep2": "각 레벨을 탈출하기 위해 벽 타기 등 다양한 움직임을 활용합니다.",
+      "howToPlayStep3": "레벨에서 움직임을 기록하기 위해 유령 레코더를 사용해 보세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "도전적인 레벨",
+      "feature1Description": "다양한 장애물을 극복하여 각 레벨을 탈출하세요.",
+      "feature2Title": "유령 레코더",
+      "feature2Description": "이 선택적 기능으로 레벨에서 움직임을 기록하세요.",
+      "feature3Title": "익숙한 게임 플레이",
+      "feature3Description": "벽 타기와 같은 다양한 움직임을 사용하여 각 레벨을 탈출합니다.",
+      "feature4Title": "사용자 지정 컨트롤",
+      "feature4Description": "WASD 또는 화살표 키를 사용하여 원하는 방식대로 플레이하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

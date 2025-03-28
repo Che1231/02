@@ -1,0 +1,77 @@
+{
+  "zombs-io": {
+    "title": "Zombs.io: Juego de supervivencia contra zombis en línea gratuito",
+    "slogan": "Construir, Defender, Sobrevivir",
+    "description": "Zombs.io combina elementos de Minecraft y zombis para crear un emocionante juego IO de defensa de torres. Construye tu base y protégela de las implacables oleadas de zombis. Mejora y fortifica tu base para soportar las oleadas cada vez más desafiantes. Pon a prueba tus habilidades de supervivencia y observa cuántas noches puedes resistir. Únete a tus amigos para crear una base formidable juntos. Sin embargo, ten en cuenta que estar en un grupo atrae más zombis de lo habitual. Practica la precaución y la planificación estratégica mientras te unes a tus amigos.",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces de interés",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Zombs.io: Juego de supervivencia contra zombis en línea gratuito",
+      "description": "Zombs.io combina elementos de Minecraft y zombis para crear un emocionante juego IO de defensa de torres. Construye tu base y protégela de las implacables oleadas de zombis. Mejora y fortifica tu base para soportar las oleadas cada vez más desafiantes. Pon a prueba tus habilidades de supervivencia y observa cuántas noches puedes resistir.",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Zombs.io: Juego de supervivencia contra zombis en línea gratuito",
+      "whatIsTitle": "¿Qué es Zombs.io?",
+      "whatIsDescription": "Zombs.io combina elementos de Minecraft y zombis para crear un emocionante juego IO de defensa de torres. Construye tu base y protégela de las implacables oleadas de zombis. Mejora y fortifica tu base para soportar las oleadas cada vez más desafiantes. Pon a prueba tus habilidades de supervivencia y observa cuántas noches puedes resistir.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Construye tu base y protégela de las implacables oleadas de zombis.",
+      "howToPlayStep2": "Mejora y fortifica tu base para soportar las oleadas cada vez más desafiantes.",
+      "howToPlayStep3": "Pon a prueba tus habilidades de supervivencia y observa cuántas noches puedes resistir.",
+      "keyFeaturesTitle": "Características principales",
+      "feature1Title": "Jugabilidad de defensa de torres",
+      "feature1Description": "Construye tu base y protégela de las implacables oleadas de zombis.",
+      "feature2Title": "Construcción de bases",
+      "feature2Description": "Mejora y fortifica tu base para soportar las oleadas cada vez más desafiantes.",
+      "feature3Title": "Desafío de supervivencia",
+      "feature3Description": "Pon a prueba tus habilidades de supervivencia y observa cuántas noches puedes resistir.",
+      "feature4Title": "Cooperación multijugador",
+      "feature4Description": "Únete a tus amigos para crear una base formidable juntos."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

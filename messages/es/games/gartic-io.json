@@ -1,0 +1,77 @@
+{
+  "gartic-io": {
+    "title": "Gartic.io: Juego de dibujo y adivinación multijugador en línea",
+    "slogan": "¡Dibuja, adivina y diviértete!",
+    "description": "Gartic.io es un emocionante juego multijugador en línea donde la creatividad se encuentra con la adivinación. Los jugadores se turnan para dibujar y adivinar palabras, creando una combinación perfecta de diversión y desafío. Ya seas un artista o un entusiasta de las palabras, Gartic.io ofrece entretenimiento sin fin. ¡Únete ahora y comienza a jugar gratis!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Barra de navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces de interés",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Gartic.io: Dibuja y adivina en línea",
+      "description": "Experimenta la emoción de Gartic.io, donde puedes dibujar, adivinar y divertirte con amigos o desconocidos en línea. Perfecto para todas las edades, este juego pone a prueba tus habilidades artísticas y de adivinación de una manera creativa e atractiva.",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Gartic.io: El juego definitivo de dibujo y adivinación",
+      "whatIsTitle": "¿Qué es Gartic.io?",
+      "whatIsDescription": "Gartic.io es un juego multijugador en línea donde los jugadores se turnan para dibujar y adivinar palabras. Es una forma divertida y creativa de poner a prueba tus habilidades artísticas y de adivinación.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Tomen turnos para dibujar una palabra que se les da.",
+      "howToPlayStep2": "Los demás jugadores intentan adivinar lo que estás dibujando.",
+      "howToPlayStep3": "Obtén puntos por las adivinanzas correctas y los dibujos creativos.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Diversión multijugador",
+      "feature1Description": "Juega con amigos o extraños de todo el mundo.",
+      "feature2Title": "Dibujo creativo",
+      "feature2Description": "Expresa tus habilidades artísticas con una variedad de herramientas de dibujo.",
+      "feature3Title": "Adivinación de palabras",
+      "feature3Description": "Prueba tus habilidades de adivinanza con una amplia gama de palabras.",
+      "feature4Title": "Entretenimiento sin fin",
+      "feature4Description": "Disfruta de infinitas rondas de diversión y creatividad."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

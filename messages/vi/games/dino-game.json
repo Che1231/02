@@ -1,0 +1,77 @@
+{
+  "dino-game": {
+    "title": "Trò chơi khủng long - Chạy, nhảy và sinh tồn!",
+    "slogan": "Khám phá thế giới tiền sử trong Trò chơi khủng long!",
+    "description": "Tham gia Trò chơi khủng long và bắt đầu một cuộc phiêu lưu thú vị trên những con đường sa mạc nguy hiểm. Điều khiển con khủng long của bạn để nhảy qua chướng ngại vật và tránh va chạm. Với phong cách pixel retro và gameplay gây nghiện, Trò chơi khủng long mang đến trải nghiệm hồi hộp cho tất cả người chơi. Thử thách bản thân xem bạn có thể đi được bao xa trong trò chơi chạy không ngừng này!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Trò chơi khủng long - Chạy, nhảy và sinh tồn!",
+      "description": "Tham gia Trò chơi khủng long và bắt đầu một cuộc phiêu lưu thú vị trên những con đường sa mạc nguy hiểm. Điều khiển con khủng long của bạn để nhảy qua chướng ngại vật và tránh va chạm. Với phong cách pixel retro và gameplay gây nghiện, Trò chơi khủng long mang đến trải nghiệm hồi hộp cho tất cả người chơi. Thử thách bản thân xem bạn có thể đi được bao xa trong trò chơi chạy không ngừng này!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào bộ nhớ tạm!",
+      "downloadGame": "Tải xuống trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Trò chơi khủng long - Chạy, nhảy và sinh tồn!",
+      "whatIsTitle": "Trò chơi khủng long là gì?",
+      "whatIsDescription": "Trò chơi khủng long là một trò chơi đơn giản nhưng gây nghiện đưa người chơi vào một cuộc phiêu lưu thú vị trong thế giới tiền sử của khủng long! Trong trò chơi này, bạn sẽ điều khiển một con khủng long nhỏ trong một hành trình đầy thách thức và phiêu lưu.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Nhấn phím mũi tên lên hoặc phím cách để làm cho nhân vật nhảy lên.",
+      "howToPlayStep2": "Sử dụng phím mũi tên xuống để làm cho con khủng long nhỏ hạ thấp đầu.",
+      "howToPlayStep3": "Tránh các chướng ngại vật như xương rồng và sinh vật bay để tiếp tục chạy.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Phong cách Pixel retro",
+      "feature1Description": "Trải nghiệm vẻ đẹp hoài cổ của đồ họa pixel retro.",
+      "feature2Title": "Điều khiển đơn giản",
+      "feature2Description": "Các điều khiển dễ học giúp trò chơi dễ tiếp cận với mọi người.",
+      "feature3Title": "Gameplay gây nghiện",
+      "feature3Description": "Thử thách bản thân để vượt qua điểm số cao nhất trong trò chơi chạy không ngừng này.",
+      "feature4Title": "Cuộc phiêu lưu tiền sử",
+      "feature4Description": "Bắt đầu một hành trình thú vị qua thế giới tiền sử của khủng long."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

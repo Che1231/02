@@ -1,0 +1,122 @@
+{
+  "name": "Redactle",
+  "pagePath": "/games/redactle",
+  "pageName": "redactle",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://redactleunlimited.com/game/redactleunlimited/ ",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken42.png",
+      "content": "Redactle is a real brain-teaser! Love that I’m basically a newspaper editor uncovering secrets. Super challenging and fun!"
+    },
+    {
+      "author": "SavageRevolver_Z",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageRevolver_Z.png",
+      "content": "Okay, Redactle's pretty cool. It feels like decoding a super secret message. So addictive!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Wow, this game is harder than it looks. Redactle requires some serious brainpower to find the hidden article’s topic!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Is it me, or is Redactle ridiculously hard? But I can't stop playing. It's my new obsession!"
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "Finding the topic is so satisfying! Especially when you've struggled a lot. Best word game ever."
+    },
+    {
+      "author": "PhantomPhoenix99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix99.png",
+      "content": "The game’s like doing research, but way more fun. Never thought being a newspaper editor could be this engaging."
+    },
+    {
+      "author": "AdjectiveKatana_V",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AdjectiveKatana_V.png",
+      "content": "Anyone else spend hours on this thing? Redactle is like crack for your brain; you won't stop!"
+    },
+    {
+      "author": "CyberpunkEdgerunner",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CyberpunkEdgerunner.png",
+      "content": "Okay, okay, I see you, Redactle. You sneaky, sneaky, little game. Love how challenging and rewarding it is."
+    },
+    {
+      "author": "LootGoblin87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LootGoblin87.png",
+      "content": "Making inferences is so hard, but when you finally guess it, it's an amazing experience. Thumbs up!"
+    },
+    {
+      "author": "CosmicLeviathan42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicLeviathan42.png",
+      "content": "Never knew a word game could be this tricky. It’s a good thing that it focuses on Wikipedia article topics."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/redactle/redactle-game-m200x130.webp",
+  "page_path": "/games/redactle",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8scbnby00xrlywlkyjt5ubl",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T05:27:00.573Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 13:28:21"
+}

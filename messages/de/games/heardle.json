@@ -1,0 +1,77 @@
+{
+  "heardle": {
+    "title": "Heardle: Tägliche Rätsel Herausforderung für den Song",
+    "slogan": "Testen Sie Ihr Musikwissen mit Heardle",
+    "description": "Heardle ist ein tägliches Musik-Rätselspiel, das Sie herausfordert, beliebte Songs in nur sechs Versuchen zu erraten. Inspiriert von Wordle bietet Heardle einen einzigartigen Twist, der sich auf Musik konzentriert. Mit minimalen Hinweisen müssen Sie auf Ihre musikalische Spontaneität und Ihr Genre-Wissen setzen, um einen beeindruckenden Gewinnstrecken aufzubauen. Bereit, Ihre Fähigkeiten zu testen? Spielen Sie jetzt Heardle!",
+    "Loading": {
+      "title": "Heardle wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Heardle: Tägliche Rätsel Herausforderung für den Song",
+      "description": "Fordern Sie sich mit Heardle, einem täglichen Musik-Rätselspiel, heraus. Identifizieren Sie beliebte Songs in sechs Versuchen und zeigen Sie Ihr musikalisches Wissen. Spielen Sie jetzt!",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Heardle: Tägliche Rätsel Herausforderung für den Song",
+      "whatIsTitle": "Was ist Heardle?",
+      "whatIsDescription": "Heardle ist ein tägliches Musik-Rätselspiel, bei dem die Spieler sechs Chancen haben, den Song des Tages zu erraten. Es ist ein musikalischer Twist des beliebten Wordle-Spiels.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Hören Sie den bereitgestellten Song-Snippet.",
+      "howToPlayStep2": "Erraten Sie den Songtitel oder den Künstler.",
+      "howToPlayStep3": "Sie haben sechs Versuche, um richtig zu erraten.",
+      "keyFeaturesTitle": "Schlüsselmerkmale",
+      "feature1Title": "Tägliche Herausforderungen",
+      "feature1Description": "Jeden Tag ein neuer Song zum Erraten.",
+      "feature2Title": "Minimale Hinweise",
+      "feature2Description": "Identifizieren Sie Songs mit nur einem kurzen Ausschnitt.",
+      "feature3Title": "Beliebte Titel",
+      "feature3Description": "Mit Hits von renommierten Künstlern.",
+      "feature4Title": "Gewinnstrecken",
+      "feature4Description": "Bauen Sie Ihre Gewinnstrecke auf, indem Sie richtig erraten."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

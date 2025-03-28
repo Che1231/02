@@ -1,0 +1,122 @@
+{
+  "name": "Coreball",
+  "pagePath": "/games/coreball",
+  "pageName": "coreball",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://1games.io/game/coreball-game/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomKraken42.png",
+      "content": "Coreball is so addictive! The rhythm-based gameplay really keeps you on your toes. Love it!"
+    },
+    {
+      "author": "NeonKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonKatana_X.png",
+      "content": "Just started playing Coreball and it's already my new favorite. The levels get tough, but it’s so rewarding!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Coreball is a blast! The pace is key—once you get it, you’re unstoppable. Highly recommend!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "LOL, Coreball is harder than it looks! But man, it’s so much fun once you get the hang of it."
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "Coreball is insane! The timing is everything. Beat level 50 and I’m feeling like a pro!"
+    },
+    {
+      "author": "CosmicLeviathan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicLeviathan99.png",
+      "content": "Can’t stop playing Coreball! The challenge ramps up perfectly. Definitely worth your time."
+    },
+    {
+      "author": "SavageBlade_Prime",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBlade_Prime.png",
+      "content": "Coreball is a gem! The rhythm and pace are spot on. Easy to learn, hard to master!"
+    },
+    {
+      "author": "StalkingPhoenix87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix87.png",
+      "content": "Just tried Coreball—wow, it’s amazing! The levels are so satisfying to beat. Loving every second!"
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "Coreball is a must-play! The gameplay is smooth and the challenge is real. Keep it up!"
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "Coreball is so much fun! The rhythm mechanics are genius. Can’t wait to try more levels!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/coreball/core-ball-m200x130.webp",
+  "page_path": "/games/coreball",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8sceh450111lywlmd31yyie",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T05:29:12.482Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 13:41:26"
+}

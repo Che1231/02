@@ -1,0 +1,1 @@
+In Papa's Burgeria, you'll be running Papa's burger shop and taking care of everything from orders to cooking to make customers happy. Can you impress Papa and make him proud?

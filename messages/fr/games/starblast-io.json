@@ -1,0 +1,77 @@
+{
+  "starblast-io": {
+    "title": "StarBlast.io - Jeu de bataille spatiale multijoueur",
+    "slogan": "Embarquez pour un voyage interstellaire et dominez la galaxie !",
+    "description": "StarBlast.io est un passionnant jeu en ligne multijoueur où vous contrôlez des vaisseaux spatiaux personnalisables et vous engagez dans des batailles intenses. Éliminez les adversaires, collectez des bonus et améliorez votre vaisseau pour devenir une force redoutable dans la galaxie. Rejoignez l'univers palpitant de StarBlast.io et vivez des combats spatiaux palpitants !",
+    "Loading": {
+      "title": "Chargement…"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "StarBlast.io - Jeu de bataille spatiale multijoueur",
+      "description": "Rejoignez l'univers palpitant de StarBlast.io et vivez des combats spatiaux palpitants !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "StarBlast.io - Jeu de bataille spatiale multijoueur",
+      "whatIsTitle": "Qu'est-ce que StarBlast.io ?",
+      "whatIsDescription": "StarBlast.io est un jeu en ligne multijoueur immersif où les joueurs contrôlent des vaisseaux spatiaux personnalisables et s'engagent dans des batailles intenses à travers la galaxie.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Contrôlez votre vaisseau spatial et naviguez dans la galaxie.",
+      "howToPlayStep2": "Éliminez les adversaires et collectez des bonus pour améliorer votre vaisseau.",
+      "howToPlayStep3": "Devenez la force la plus puissante de la galaxie !",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Vaisseaux spatiaux personnalisables",
+      "feature1Description": "Personnalisez votre vaisseau spatial pour vous adapter à votre style de jeu.",
+      "feature2Title": "Batailles intenses",
+      "feature2Description": "Engagez-vous dans des combats spatiaux palpitants avec des joueurs du monde entier.",
+      "feature3Title": "Bonus",
+      "feature3Description": "Collectionnez des bonus pour améliorer les capacités de votre vaisseau.",
+      "feature4Title": "Système d'amélioration",
+      "feature4Description": "Améliorez votre vaisseau pour dominer la galaxie."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

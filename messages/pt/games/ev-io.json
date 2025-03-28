@@ -1,0 +1,77 @@
+{
+  "ev-io": {
+    "title": "Jogue Ev.io Online - Jogo FPS Multijogador Gratuito",
+    "slogan": "Participe de Batalhas Futuristicas com o Ev.io",
+    "description": "Ev.io é um emocionante jogo FPS multijogador ambientado em uma arena futurista. Com designs de níveis estratégicos inspirados em Halo, Destiny e Quake, o Ev.io oferece uma variedade de armas e habilidades. Junte-se à batalha com um simples clique e mostre suas habilidades no campo de batalha. Jogue Ev.io agora e experimente o desafio definitivo de FPS!",
+    "Loading": {
+      "title": "Carregando..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado Em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Amigáveis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Ev.io",
+      "description": "Junte-se à batalha FPS futurista em Ev.io. Com designs de níveis estratégicos e uma variedade de armas, o Ev.io oferece uma experiência multijogador imersiva. Jogue agora e domine o campo de batalha!",
+      "iframeTitle": "Pré-visualização do jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Ev.io",
+      "whatIsTitle": "O que é Ev.io?",
+      "whatIsDescription": "Ev.io é um jogo FPS onde você pode participar de batalhas multijogador dentro de uma arena futurista. O jogo incorpora designs de níveis estratégicos que lembram Halo, Destiny e Quake.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Escolha sua arma e habilidades.",
+      "howToPlayStep2": "Junte-se a uma batalha multijogador.",
+      "howToPlayStep3": "Mostre suas habilidades e domine o campo de batalha.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Arena Futurista",
+      "feature1Description": "Lute em uma arena futurista visualmente deslumbrante.",
+      "feature2Title": "Variedade de Armas",
+      "feature2Description": "Escolha entre uma ampla gama de armas para se adequar ao seu estilo de jogo.",
+      "feature3Title": "Design Estratégico de Níveis",
+      "feature3Description": "Experimente níveis projetados com estratégia em mente.",
+      "feature4Title": "Batalhas Multijogador",
+      "feature4Description": "Participe de intensas batalhas multijogador com jogadores de todo o mundo."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

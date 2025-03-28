@@ -1,71 +1,694 @@
 [
   {
-    "title": "Игра Ткач (Weaver Game)",
+    "title": "Weaver Game (Ткач игра)",
     "cover": "https://images.1games.io/cache/game/weaver-game/weavergame1-m200x130.webp",
     "url": "/games/weaver-game",
     "category": "",
     "visible": true
   },
   {
-    "title": "Ролли Ворот (Rolly Vortex)",
+    "title": "Rolly Vortex (Rolly Vortex)",
     "cover": "https://images.1games.io/cache/game/rolly-vortex/rolly-vortex-m200x130.webp",
     "url": "/games/rolly-vortex",
     "category": "",
     "visible": true
   },
   {
-    "title": "FNF: Солёное воскресенье (FNF: Salty's Sunday Night)",
+    "title": "FNF: Salty's Sunday Night (Пятница с ночной солью)",
     "cover": "https://images.1games.io/cache/game/fnf-salty-s-sunday-night/fnf-salty-sunday-night1-m200x130.webp",
     "url": "/games/fnf-salty-s-sunday-night",
     "category": "",
     "visible": true
   },
   {
-    "title": "Геометрия Даш: Теория всего (Geometry Dash Theory of Everything)",
+    "title": "Geometry Dash Theory of Everything (Геометрия Даш Теория Всего)",
     "cover": "https://images.1games.io/cache/game/geometry-dash-theory-of-everything/geometry-dash-theory-of-everything-2-m200x130.webp",
     "url": "/games/geometry-dash-theory-of-everything",
     "category": "",
     "visible": true
   },
   {
-    "title": "Террария (Terraria)",
+    "title": "Terraria (Террария)",
     "cover": "https://images.1games.io/cache/game/terraria/terraria-m200x130.webp",
     "url": "/games/terraria",
     "category": "",
     "visible": true
   },
   {
-    "title": "Баскет Чемпионы (Basket Champs)",
+    "title": "Basket Champs (Чемпионы по баскетболу)",
     "cover": "https://images.1games.io/cache/game/basket-champs/basket-champs-m200x130.webp",
     "url": "/games/basket-champs",
     "category": "",
     "visible": true
   },
   {
-    "title": "Маленький Ранмо (Little Runmo)",
+    "title": "Little Runmo (Маленький Рунмо)",
     "cover": "https://images.1games.io/cache/game/little-runmo/little-runmo-m200x130.webp",
     "url": "/games/little-runmo",
     "category": "",
     "visible": true
   },
   {
-    "title": "Геометрия Даш: Кенос (Geometry Dash Kenos)",
+    "title": "Geometry Dash Kenos (Геометрия Даш Кены)",
     "cover": "https://images.1games.io/cache/game/geometry-dash-kenos/geometry-dash-kenos-m200x130.webp",
     "url": "/games/geometry-dash-kenos",
     "category": "",
     "visible": true
   },
   {
-    "title": "Стиралка слов (Word Wipe)",
+    "title": "Word Wipe (Стирание слов)",
     "cover": "https://images.1games.io/cache/game/word-wipe/word-wipe-m200x130.webp",
     "url": "/games/word-wipe",
     "category": "",
     "visible": true
   },
   {
-    "title": "Сплоп.ио (Sploop.io)",
+    "title": "Sploop.io (Sploop.io)",
     "cover": "https://images.1games.io/cache/game/sploop-io/sploop-m200x130.webp",
     "url": "/games/sploop-io",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Ape Sling (Обезьяна Слинг)",
+    "cover": "https://images.1games.io/cache/game/ape-sling/ape-sling-m200x130.webp",
+    "url": "/games/ape-sling",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Muse Dash (Муза Даш)",
+    "cover": "https://images.1games.io/cache/game/muse-dash/muse-dash-m200x130.webp",
+    "url": "/games/muse-dash",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Voxiom.io (Voxiom.io)",
+    "cover": "https://images.1games.io/cache/game/voxiom-io/voxiom-io-m200x130.webp",
+    "url": "/games/voxiom-io",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "AstroDud.io (AstroDud.io)",
+    "cover": "https://images.1games.io/cache/game/astrodud-io/astrodud-io-m200x130.webp",
+    "url": "/games/astrodud-io",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Urban Stack (Городская стопка)",
+    "cover": "https://images.1games.io/cache/game/urban-stack/urban-stack.png1-m200x130.webp",
+    "url": "/games/urban-stack",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Dino Game (Игра Динозавров)",
+    "cover": "https://images.1games.io/cache/game/dino-game/dino-game-m200x130.webp",
+    "url": "/games/dino-game",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Doodle Jump Ninja (Дудл Джамп Ниндзя)",
+    "cover": "https://images.1games.io/cache/game/doodle-jump-ninja/doodle-jump-ninja-m200x130.webp",
+    "url": "/games/doodle-jump-ninja",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Lava Bird (Птица Лава)",
+    "cover": "https://images.1games.io/cache/game/lava-bird/lava-bird-m200x130.webp",
+    "url": "/games/lava-bird",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Rocket Game (Игра с ракетами)",
+    "cover": "https://images.1games.io/cache/game/rocket-game/rocket-game2-m200x130.webp",
+    "url": "/games/rocket-game",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Bad Time Simulator (Симуляция Плохого Времени)",
+    "cover": "https://images.1games.io/cache/game/bad-time-simulator/bad-time-simulation.png1-m200x130.webp",
+    "url": "/games/bad-time-simulator",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Redactle (Редактирование)",
+    "cover": "https://images.1games.io/cache/game/redactle/redactle-game-m200x130.webp",
+    "url": "/games/redactle",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Waffle Game (Игра с Вафлями)",
+    "cover": "https://images.1games.io/cache/game/waffle-game/waffle-game-m200x130.webp",
+    "url": "/games/waffle-game",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Sedecordle (Шестнадцать слов)",
+    "cover": "https://images.1games.io/cache/game/sedecordle/sedecordle-m200x130.webp",
+    "url": "/games/sedecordle",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Ev.io (Ev.io)",
+    "cover": "https://images.1games.io/cache/game/ev-io/ev.io-m200x130.webp",
+    "url": "/games/ev-io",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Geometry Dash Clutterfunk (Геометрия Даш Беспорядок)",
+    "cover": "https://images.1games.io/cache/game/geometry-dash-clutterfunk/geometry-dash-clutterfunk-m200x130.webp",
+    "url": "/games/geometry-dash-clutterfunk",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Zombs.io (Zombs.io)",
+    "cover": "https://images.1games.io/cache/game/zombs-io/zombs-io-m200x130.webp",
+    "url": "/games/zombs-io",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Gun Mayhem Redux (Перезагрузка Смертоносного Оружия)",
+    "cover": "https://images.1games.io/cache/game/gun-mayhem-redux/gun-mayhem-redux2-m200x130.webp",
+    "url": "/games/gun-mayhem-redux",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Dinosaur Game (Игра Динозавров)",
+    "cover": "https://images.1games.io/cache/game/dinosaur-game/dino-game-m200x130.webp",
+    "url": "/games/dinosaur-game",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Pundle (Пундель)",
+    "cover": "https://images.1games.io/cache/game/pundle/pundle-m200x130.webp",
+    "url": "/games/pundle",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Geometry Dash Bloodlust (Геометрия Даш Жажда Кровли)",
+    "cover": "https://images.1games.io/cache/game/geometry-dash-bloodlust/geometry-dash-bloodlust-m200x130.webp",
+    "url": "/games/geometry-dash-bloodlust",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Betrayal.io (Betrayal.io)",
+    "cover": "https://images.1games.io/cache/game/betrayal-io/betrayal-io-m200x130.webp",
+    "url": "/games/betrayal-io",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "T-Rex AI (T-Рекс ИИ)",
+    "cover": "https://images.1games.io/cache/game/t-rex-ai/t-rex-ai1-m200x130.webp",
+    "url": "/games/t-rex-ai",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "The Impossible Quiz 2 (Невероятный Квиз 2)",
+    "cover": "https://images.1games.io/cache/game/the-impossible-quiz-2/the-impossible-quiz-2-m200x130.webp",
+    "url": "/games/the-impossible-quiz-2",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Little Alchemy 2 (Маленькая Алхимия 2)",
+    "cover": "https://images.1games.io/cache/game/little-alchemy-2/little-alchemy-2-m200x130.webp",
+    "url": "/games/little-alchemy-2",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Cleverdle (Умный Wordle)",
+    "cover": "https://images.1games.io/cache/game/cleverdle/cleverdle2-m200x130.webp",
+    "url": "/games/cleverdle",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Cubito (Кубито)",
+    "cover": "https://images.1games.io/cache/game/cubito/cubito-m200x130.webp",
+    "url": "/games/cubito",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Jacksmith (Кузнец)",
+    "cover": "https://images.1games.io/cache/game/jacksmith/jacksmith-m200x130.webp",
+    "url": "/games/jacksmith",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Super Hexagon (Супер Гексагон)",
+    "cover": "https://images.1games.io/cache/game/super-hexagon/super-hexagon-m200x130.webp",
+    "url": "/games/super-hexagon",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Geometry Dash Nine Circles (Геометрия Даш Девять Кругов)",
+    "cover": "https://images.1games.io/cache/game/geometry-dash-nine-circles/geometry-dash-nine-circles-m200x130.webp",
+    "url": "/games/geometry-dash-nine-circles",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Flagle (Флагле)",
+    "cover": "https://images.1games.io/cache/game/flagle/flagle-m200x130.webp",
+    "url": "/games/flagle",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Heardle (Хёрдл)",
+    "cover": "https://images.1games.io/cache/game/heardle/heardle-m200x130.webp",
+    "url": "/games/heardle",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "can-your-pet (Можешь ли ты своего питомца)",
+    "cover": "/games/can-your-pet/game_screenshot.webp",
+    "url": "/games/can-your-pet",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Gartic.io (Gartic.io)",
+    "cover": "https://images.1games.io/cache/game/gartic-io/gartic-io-m200x130.webp",
+    "url": "/games/gartic-io",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Hero Wars (Героические войны)",
+    "cover": "https://images.1games.io/cache/game/hero-wars/hero-wars-m200x130.webp",
+    "url": "/games/hero-wars",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "The Impossible Quiz (Невозможное викторина)",
+    "cover": "https://images.1games.io/cache/game/the-impossible-quiz/the-impossible-quiz-m200x130.webp",
+    "url": "/games/the-impossible-quiz",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Fruita Crush (Разрушение фруктов)",
+    "cover": "https://images.1games.io/cache/game/fruita-crush/fruita-crush-m200x130.webp",
+    "url": "/games/fruita-crush",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "War Brokers (Военные брокеры)",
+    "cover": "https://images.1games.io/cache/game/war-brokers/war-brokers-m200x130.webp",
+    "url": "/games/war-brokers",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Rainbow Obby (Радужный Обби)",
+    "cover": "https://images.1games.io/cache/game/rainbow-obby/rainbow-obby-m200x130.webp",
+    "url": "/games/rainbow-obby",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Word Hurdle (Препятствие слов)",
+    "cover": "https://images.1games.io/cache/game/word-hurdle/wordhurdle-m200x130.webp",
+    "url": "/games/word-hurdle",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Framed (Окруженный)",
+    "cover": "https://images.1games.io/cache/game/framed/framed-m200x130.webp",
+    "url": "/games/framed",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Death Run 3D (Забег смерти 3D)",
+    "cover": "https://images.1games.io/cache/game/death-run-3d/death-run-3d-m200x130.webp",
+    "url": "/games/death-run-3d",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Geometry Dash Silent Circles (Геометрия Даш Тихие Круги)",
+    "cover": "https://images.1games.io/cache/game/geometry-dash-silent-circles/geometry-dash-silent-circles-m200x130.webp",
+    "url": "/games/geometry-dash-silent-circles",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Deeeep.io (Deeeep.io)",
+    "cover": "https://images.1games.io/cache/game/deeeep-io/deeeep-io1-m200x130.webp",
+    "url": "/games/deeeep-io",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Five Nights at Freddy's Sister Location (Пять ночей у Фредди, сестра местоположение)",
+    "cover": "https://images.1games.io/cache/game/five-nights-at-freddy-s-sister-location/five-nights-at-freddy-s-sister-location-m200x130.webp",
+    "url": "/games/five-nights-at-freddy-s-sister-location",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "World's Hardest Game (Самая сложная игра в мире)",
+    "cover": "https://images.1games.io/cache/game/world-s-hardest-game/world-s-hardest-game-m200x130.webp",
+    "url": "/games/world-s-hardest-game",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Vex 3 (Векс 3)",
+    "cover": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAACCCAYAAAADm4eUAAABCUlEQVR42u3TMQEAAAQAMF4ZNNT/V8Dv2TosK6YDOKUgIAgIAoKAICAICAKCgCAgCCAICAKCgCAgCAgCgoAgIAgIIggIAoKAICAICAKCgCAgCAgCCAKCgCAgCAgCgoAgIAgIAoIAgoAgIAgIAoKAICAICAKCAIKAICAICAKCgCAgCAgCgoAggCAgCAgCgoAgIAgIAoKAIIAgIAgIAoKAICAICAKCgCAgCCAICAKCgCAgCAgCgoAgIAgIIggIAoKAICAICAKCgCAgCAgCCAKCgCAgCAgCgoAgIAgIAoIIAoKAICAICAKCgCAgCAgCggCCgCAgCAgCgoAgIAgIAoKAIIAgIAgIAoLAtwXRREoljqc3BAAAAABJRU5ErkJggg==",
+    "url": "/games/vex-3",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Vampire Survivors (Выживший вампир)",
+    "cover": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAACCCAYAAAADm4eUAAABCUlEQVR42u3TMQEAAAQAMF4ZNNT/V8Dv2TosK6YDOKUgIAgIAoKAICAICAKCgCAgCCAICAKCgCAgCAgCgoAgIAgIIggIAoKAICAICAKCgCAgCAgCCAKCgCAgCAgCgoAgIAgIAoIAgoAgIAgIAoKAICAICAKCAIKAICAICAKCgCAgCAgCgoAggCAgCAgCgoAgIAgIAoKAIIAgIAgIAoKAICAICAKCgCAgCCAICAKCgCAgCAgCgoAgIAgIIggIAoKAICAICAKCgCAgCAgCCAKCgCAgCAgCgoAgIAgIAoIIAoKAICAICAKCgCAgCAgCggCCgCAgCAgCgoAgIAgIAoKAIIAgIAgIAoLAtwXRREoljqc3BAAAAABJRU5ErkJggg==",
+    "url": "/games/vampire-survivors",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Fireboy and Watergirl (Файрбой и Вотергирл)",
+    "cover": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAACCCAYAAAADm4eUAAABCUlEQVR42u3TMQEAAAQAMF4ZNNT/V8Dv2TosK6YDOKUgIAgIAoKAICAICAKCgCAgCCAICAKCgCAgCAgCgoAgIAgIIggIAoKAICAICAKCgCAgCAgCCAKCgCAgCAgCgoAgIAgIAoIAgoAgIAgIAoKAICAICAKCAIKAICAICAKCgCAgCAgCgoAggCAgCAgCgoAgIAgIAoKAIIAgIAgIAoKAICAICAKCgCAgCCAICAKCgCAgCAgCgoAgIAgIIggIAoKAICAICAKCgCAgCAgCCAKCgCAgCAgCgoAgIAgIAoIIAoKAICAICAKCgCAgCAgCggCCgCAgCAgCgoAgIAgIAoKAIIAgIAgIAoLAtwXRREoljqc3BAAAAABJRU5ErkJggg==",
+    "url": "/games/fireboy-and-watergirl",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Funny Mad Racing (Забавная сумасшедшая гонка)",
+    "cover": "https://images.1games.io/cache/game/funny-mad-racing/funny-mad-racing-m200x130.webp",
+    "url": "/games/funny-mad-racing",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "X Trench Run (X Ров Бег)",
+    "cover": "https://images.1games.io/cache/game/x-trench-run/x-trench-run-m200x130.webp",
+    "url": "/games/x-trench-run",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "FNF Flip-Side (Пятница с переворачиванием)",
+    "cover": "https://images.1games.io/cache/game/fnf-flip-side/fnf-flip-side1-m200x130.webp",
+    "url": "/games/fnf-flip-side",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Taming.io (Одомашнивание.io)",
+    "cover": "https://images.1games.io/cache/game/taming-io/taming-io-m200x130.webp",
+    "url": "/games/taming-io",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Phoodle (Пхудл)",
+    "cover": "https://images.1games.io/cache/game/phoodle/phoodle-m200x130.webp",
+    "url": "/games/phoodle",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Tic Tac Toe (Крестики-нолики)",
+    "cover": "https://images.1games.io/cache/game/tic-tac-toe/tic-tac-toe-m200x130.webp",
+    "url": "/games/tic-tac-toe",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Bumpy Jumpy (Колонки прыжки)",
+    "cover": "https://images.1games.io/cache/game/bumpy-jumpy/bumpy-jumpy1-m200x130.webp",
+    "url": "/games/bumpy-jumpy",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "ColorUp (Цветная игра)",
+    "cover": "https://images.1games.io/cache/game/colorup/colorup-m200x130.webp",
+    "url": "/games/colorup",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "FNF Minus (Пятница минус)",
+    "cover": "https://images.1games.io/cache/game/fnf-minus/fnf-minus-m200x130.webp",
+    "url": "/games/fnf-minus",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Curve Ball 3D (Кривая мяч 3D)",
+    "cover": "https://images.1games.io/cache/game/curve-ball-3d/curve-ball-3d-m200x130.webp",
+    "url": "/games/curve-ball-3d",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Hop Warp (Прыжок Варп)",
+    "cover": "https://images.1games.io/cache/game/hop-warp/hop-warp-m200x130.webp",
+    "url": "/games/hop-warp",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Plactions (Плакшн)",
+    "cover": "https://images.1games.io/cache/game/plactions/plactions1-m200x130.webp",
+    "url": "/games/plactions",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Cut The Rope Holiday Gift (Подарок к праздникам нарезать веревку)",
+    "cover": "https://images.1games.io/cache/game/cut-the-rope-holiday-gift/cut-the-rope-holiday-gift-m200x130.webp",
+    "url": "/games/cut-the-rope-holiday-gift",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Cargo Crush (Разрушение грузов)",
+    "cover": "https://images.1games.io/cache/game/cargo-crush/cargo-crush1-m200x130.webp",
+    "url": "/games/cargo-crush",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Stabfish.io (Stabfish.io)",
+    "cover": "https://images.1games.io/cache/game/stabfishio/stabfish-m200x130.webp",
+    "url": "/games/stabfish-io",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Battledudes.io (Battledudes.io)",
+    "cover": "https://images.1games.io/cache/game/battledudes-io/battledudes-io-m200x130.webp",
+    "url": "/games/battledudes-io",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "92 Second Basketball (Баскетбол за 92 секунды)",
+    "cover": "https://images.1games.io/cache/game/92-second-basketball/92-second-basketball.png3-m200x130.webp",
+    "url": "/games/92-second-basketball",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Vex 4 (Вех 4)",
+    "cover": "https://images.1games.io/cache/game/vex-4/vex-4-m200x130.webp",
+    "url": "/games/vex-4",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Armor Clash (Столкновение брони)",
+    "cover": "https://images.1games.io/cache/game/armor-clash/armor-clash-m200x130.webp",
+    "url": "/games/armor-clash",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Amanda the Adventurer 2 (Аманда, искательница приключений 2)",
+    "cover": "https://images.1games.io/cache/game/amanda-the-adventurer-2/1-m200x130.webp",
+    "url": "/games/amanda-the-adventurer-2",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "My Monster Pet: Train & Fight (Мой монстр питомец: поезд и бой)",
+    "cover": "https://images.1games.io/cache/game/my-monster-pet-train-fight/my-monster-pet-train-fight1-m200x130.webp",
+    "url": "/games/my-monster-pet-train-fight",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Coreball (Короббол)",
+    "cover": "https://images.1games.io/cache/game/coreball/core-ball-m200x130.webp",
+    "url": "/games/coreball",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "StarBlast.io (StarBlast.io)",
+    "cover": "https://images.1games.io/cache/game/starblast-io/starblast-io-m200x130.webp",
+    "url": "/games/starblast-io",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Recoil (Откат)",
+    "cover": "https://images.1games.io/cache/game/recoil/recoil1-m200x130.webp",
+    "url": "/games/recoil",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "FNF: Michael Jackson's Rose Criminal (Пятница с криминальными розами Майкла Джексона)",
+    "cover": "https://images.1games.io/cache/game/fnf-michael-jackson-s-rose-criminal/fnf-michael-jackson-s-rose-criminal1-m200x130.webp",
+    "url": "/games/fnf-michael-jackson-s-rose-criminal",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Stickman School Run (Бег стикмена по школе)",
+    "cover": "https://images.1games.io/cache/game/stickman-school-run/stickman-school-run-m200x130.webp",
+    "url": "/games/stickman-school-run",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Trigonometry Dash (Бег по тригонометрии)",
+    "cover": "https://images.1games.io/cache/game/trigonometry-dash/trigonometry-dash.png1-m200x130.webp",
+    "url": "/games/trigonometry-dash",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Geometry Dash Cataclysm (Геометрия Даш Катаклизм)",
+    "cover": "https://images.1games.io/cache/game/geometry-dash-cataclysm/geometry-dash-cataclysm-m200x130.webp",
+    "url": "/games/geometry-dash-cataclysm",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "FNF vs Touhou (Пятница против Тоухо)",
+    "cover": "https://images.1games.io/cache/game/fnf-vs-touhou/fnf-vs-touhou1-m200x130.webp",
+    "url": "/games/fnf-vs-touhou",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Toaster Dash (Забег тостера)",
+    "cover": "https://images.1games.io/cache/game/toaster-dash/toaster-dash-m200x130.webp",
+    "url": "/games/toaster-dash",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Skribbl.io (Skribbl.io)",
+    "cover": "https://images.1games.io/cache/game/skribbl-io/skribbl-io-m200x130.webp",
+    "url": "/games/skribbl-io",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Stickman Crazy Box (Стикмен Безумная Коробка)",
+    "cover": "https://images.1games.io/cache/game/stickman-crazy-box/stickman-crazy-box-m200x130.webp",
+    "url": "/games/stickman-crazy-box",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Temple Run 2: Jungle Fall (Приключения в джунглях 2)",
+    "cover": "https://images.1games.io/cache/game/temple-run-2-jungle-fall/temple-run-2-jungle-fall-m200x130.webp",
+    "url": "/games/temple-run-2-jungle-fall",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Papa’s Cupcakeria (Кулинария Папы)",
+    "cover": "https://images.1games.io/cache/game/papa-s-cupcakeria/papa-s-cupcakeria-m200x130.webp",
+    "url": "/games/papa-s-cupcakeria",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Dordle (Дордл)",
+    "cover": "https://images.1games.io/cache/game/dordle/dordle-game-m200x130.webp",
+    "url": "/games/dordle",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Grindcraft (Стирание)",
+    "cover": "https://images.1games.io/cache/game/grindcraft/grindcraft-m200x130.webp",
+    "url": "/games/grindcraft",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Blob Opera (Опера с шариками)",
+    "cover": "https://images.1games.io/cache/game/blob-opera/blob-opera-m200x130.webp",
+    "url": "/games/blob-opera",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Ping Pong Chaos (Хаос Пинг-понга)",
+    "cover": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAACCCAYAAAADm4eUAAABCUlEQVR42u3TMQEAAAQAMF4ZNNT/V8Dv2TosK6YDOKUgIAgIAoKAICAICAKCgCAgCCAICAKCgCAgCAgCgoAgIAgIIggIAoKAICAICAKCgCAgCAgCCAKCgCAgCAgCgoAgIAgIAoIAgoAgIAgIAoKAICAICAKCAIKAICAICAKCgCAgCAgCgoAggCAgCAgCgoAgIAgIAoKAIIAgIAgIAoKAICAICAKCgCAgCCAICAKCgCAgCAgCgoAgIAgIIggIAoKAICAICAKCgCAgCAgCCAKCgCAgCAgCgoAgIAgIAoIIAoKAICAICAKCgCAgCAgCggCCgCAgCAgCgoAgIAgIAoKAIIAgIAgIAoLAtwXRREoljqc3BAAAAABJRU5ErkJggg==",
+    "url": "/games/ping-pong-chaos",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Rolling Ball 3D (Катящийся шар 3D)",
+    "cover": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAACCCAYAAAADm4eUAAABCUlEQVR42u3TMQEAAAQAMF4ZNNT/V8Dv2TosK6YDOKUgIAgIAoKAICAICAKCgCAgCCAICAKCgCAgCAgCgoAgIAgIIggIAoKAICAICAKCgCAgCAgCCAKCgCAgCAgCgoAgIAgIAoIAgoAgIAgIAoKAICAICAKCAIKAICAICAKCgCAgCAgCgoAggCAgCAgCgoAgIAgIAoKAIIAgIAgIAoKAICAICAKCgCAgCCAICAKCgCAgCAgCgoAgIAgIIggIAoKAICAICAKCgCAgCAgCCAKCgCAgCAgCgoAgIAgIAoIIAoKAICAICAKCgCAgCAgCggCCgCAgCAgCgoAgIAgIAoKAIIAgIAgIAoLAtwXRREoljqc3BAAAAABJRU5ErkJggg==",
+    "url": "/games/rolling-ball-3d",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "FNF Vs Henry Stickmin (Пятница против Генри Стикмена)",
+    "cover": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAACCCAYAAAADm4eUAAABCUlEQVR42u3TMQEAAAQAMF4ZNNT/V8Dv2TosK6YDOKUgIAgIAoKAICAICAKCgCAgCCAICAKCgCAgCAgCgoAgIAgIIggIAoKAICAICAKCgCAgCAgCCAKCgCAgCAgCgoAgIAgIAoIAgoAgIAgIAoKAICAICAKCAIKAICAICAKCgCAgCAgCgoAggCAgCAgCgoAgIAgIAoKAIIAgIAgIAoKAICAICAKCgCAgCCAICAKCgCAgCAgCgoAgIAgIIggIAoKAICAICAKCgCAgCAgCCAKCgCAgCAgCgoAgIAgIAoIIAoKAICAICAKCgCAgCAgCggCCgCAgCAgCgoAgIAgIAoKAIIAgIAgIAoLAtwXRREoljqc3BAAAAABJRU5ErkJggg==",
+    "url": "/games/fnf-vs-henry-stickmin",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Geometry Dash Back On Track (Геометрия Даш Назад на пути)",
+    "cover": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAACCCAYAAAADm4eUAAABCUlEQVR42u3TMQEAAAQAMF4ZNNT/V8Dv2TosK6YDOKUgIAgIAoKAICAICAKCgCAgCCAICAKCgCAgCAgCgoAgIAgIIggIAoKAICAICAKCgCAgCAgCCAKCgCAgCAgCgoAgIAgIAoIAgoAgIAgIAoKAICAICAKCAIKAICAICAKCgCAgCAgCgoAggCAgCAgCgoAgIAgIAoKAIIAgIAgIAoKAICAICAKCgCAgCCAICAKCgCAgCAgCgoAgIAgIIggIAoKAICAICAKCgCAgCAgCCAKCgCAgCAgCgoAgIAgIAoIIAoKAICAICAKCgCAgCAgCggCCgCAgCAgCgoAgIAgIAoKAIIAgIAgIAoLAtwXRREoljqc3BAAAAABJRU5ErkJggg==",
+    "url": "/games/geometry-dash-back-on-track",
     "category": "",
     "visible": true
   }

@@ -1,0 +1,77 @@
+{
+  "waffle-game": {
+    "title": "Jogo Waffle - Desafio de Puzzle de Palavras Online Gratuito",
+    "slogan": "Desbloqueie suas Habilidades de Resolução de Palavras com o Jogo Waffle",
+    "description": "Descubra a experiência definitiva de quebra-cabeças de palavras com o Jogo Waffle! Perfeito para entusiastas de jogos de palavras, o Jogo Waffle oferece um desafio único: encontre seis palavras escondidas dentro de um tabuleiro Waffle com apenas 15 rearranjos de letras. Seja para expandir seu vocabulário ou buscar um treino mental, o Jogo Waffle foi projetado para todas as idades e níveis de habilidade. Jogue agora e teste suas habilidades de resolução de palavras!",
+    "Loading": {
+      "title": "Carregando..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Amigáveis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Jogo Waffle - Desafio de Puzzle de Palavras Online Gratuito",
+      "description": "Experimente a emoção do Jogo Waffle, um cativante quebra-cabeça de palavras que desafia você a encontrar seis palavras ocultas dentro de um tabuleiro Waffle. Com 15 rearranjos de letras, é o jogo perfeito para entusiastas de palavras de todas as idades. Jogue agora e teste suas habilidades!",
+      "iframeTitle": "Visualização do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Jogo Waffle - Desafio de Puzzle de Palavras Online Gratuito",
+      "whatIsTitle": "O que é o Jogo Waffle?",
+      "whatIsDescription": "O Jogo Waffle é um jogo envolvente de adivinhação de palavras que desafia os jogadores a encontrar seis palavras ocultas dentro de um tabuleiro Waffle. Com 15 rearranjos de letras, ele oferece uma experiência única e emocionante de quebra-cabeça de palavras.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Comece examinando o tabuleiro Waffle para identificar possíveis palavras.",
+      "howToPlayStep2": "Rearranje as letras dentro das 15 jogadas permitidas para formar as palavras corretas.",
+      "howToPlayStep3": "Complete o quebra-cabeça encontrando as seis palavras ocultas dentro do tabuleiro Waffle.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Desafio Múltiplo de Palavras",
+      "feature1Description": "Encontre seis palavras ocultas dentro do tabuleiro Waffle para uma experiência de quebra-cabeça mais complexa.",
+      "feature2Title": "Jogadas Limitadas",
+      "feature2Description": "São permitidos apenas 15 rearranjos de letras, adicionando ao desafio.",
+      "feature3Title": "Para Todas as Idades",
+      "feature3Description": "O Jogo Waffle foi projetado para ser apreciado por jogadores de todas as idades e níveis de habilidade.",
+      "feature4Title": "Expansão do Vocabulário",
+      "feature4Description": "Melhore seu vocabulário enquanto desfruta do jogo."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Visualizar Mais",
+      "page": "Página"
+    }
+  }
+}

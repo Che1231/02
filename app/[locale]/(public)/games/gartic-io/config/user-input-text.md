@@ -1,0 +1,1 @@
+Gartic.io is an online multiplayer drawing and guessing game where players take turns drawing and guessing words. It's a fun and creative game that tests your artistic and guessing skills.

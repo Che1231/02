@@ -1,0 +1,77 @@
+{
+  "tic-tac-toe": {
+    "title": "Jogue Tic-Tac-Toe Online | Jogo Clássico do X e do O",
+    "slogan": "Aproveite a diversão atemporal do Tic-Tac-Toe!",
+    "description": "Tic-Tac-Toe, também conhecido como Jogo da Velha, é um jogo clássico e popular apreciado por pessoas de todas as idades. É um jogo simples, mas envolvente, jogado em uma grade de 3x3 quadrados. O objetivo é criar uma linha de três símbolos correspondentes (X ou O) horizontal, vertical ou diagonalmente. Jogue Tic-Tac-Toe agora e desafie seus amigos!",
+    "Loading": {
+      "title": "Carregando..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Úteis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Tic-Tac-Toe | Jogo Clássico do X e do O",
+      "description": "Jogue o jogo clássico de Tic-Tac-Toe online. Desafie seus amigos e veja quem consegue três em linha primeiro!",
+      "iframeTitle": "Pré-visualização do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Tic-Tac-Toe | Jogo Clássico do X e do O",
+      "whatIsTitle": "O que é Tic-Tac-Toe?",
+      "whatIsDescription": "Tic-Tac-Toe, também conhecido como Jogo da Velha, é um jogo clássico e popular apreciado por pessoas de todas as idades. É um jogo simples, mas envolvente, jogado em uma grade de 3x3 quadrados.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Dois jogadores se revezam colocando seu símbolo escolhido (X ou O) em um quadrado vazio da grade.",
+      "howToPlayStep2": "O primeiro jogador geralmente começa com X, e o segundo jogador segue com O.",
+      "howToPlayStep3": "O jogo continua até que um jogador consiga formar uma linha de três símbolos ou todos os quadrados da grade sejam preenchidos, resultando em um empate.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Regras Simples",
+      "feature1Description": "Fácil de aprender e jogar, tornando-o acessível a todas as idades.",
+      "feature2Title": "Jogabilidade Rápida",
+      "feature2Description": "Dinâmico e perfeito para pequenos intervalos.",
+      "feature3Title": "Pensamento Estratégico",
+      "feature3Description": "Incentiva os jogadores a pensar com antecedência e planejar suas jogadas.",
+      "feature4Title": "Diversão Infinita",
+      "feature4Description": "Rejogável e sempre um desafio com diferentes oponentes."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

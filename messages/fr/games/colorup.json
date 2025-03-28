@@ -1,0 +1,77 @@
+{
+  "colorup": {
+    "title": "ColorUp : Jeu d'aventure créatif de parkour 3D",
+    "slogan": "Où chaque trait de pinceau est une aventure !",
+    "description": "Explorez un monde vibrant dans ColorUp, résolvez des énigmes colorées et laissez-vous captiver par la joie de la création ! Ce jeu de parkour 3D vous défie de franchir 1076 mètres d'altitude avec des sauts et des alignements à couper le souffle. Découvrez des graphismes époustouflants, des sons relaxants et un gameplay passionnant. Commencez votre aventure colorée dès aujourd'hui !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "ColorUp : Jeu d'aventure créatif de parkour 3D",
+      "description": "Plongez-vous dans le monde vibrant de ColorUp ! Résolvez des énigmes, collectionnez des tenues et dominez des escaliers colorés dans ce palpitant jeu de parkour 3D. Commencez votre aventure dès maintenant !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ColorUp : Jeu d'aventure créatif de parkour 3D",
+      "whatIsTitle": "Qu'est-ce que ColorUp ?",
+      "whatIsDescription": "ColorUp est un jeu de parkour 3D vibrant où vous contrôlez un personnage dans une ville festive, sautez sur des escaliers colorés et ramassez des objets pour déverrouiller des mystères.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Utilisez la souris pour regarder autour de vous et ajuster votre direction.",
+      "howToPlayStep2": "Utilisez les flèches du clavier pour naviguer avec votre personnage.",
+      "howToPlayStep3": "Appuyez sur la barre d'espace pour sauter sur les escaliers.",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Graphismes 3D époustouflants",
+      "feature1Description": "Découvrez des couleurs vives et des visuels immersifs dans chaque scène.",
+      "feature2Title": "Sons relaxants",
+      "feature2Description": "Profitez de sons apaisants qui renforcent l'atmosphère du jeu.",
+      "feature3Title": "Parkour palpitant",
+      "feature3Description": "Maîtrisez les techniques pour naviguer sur des sauts et des alignements difficiles.",
+      "feature4Title": "Tenues à collectionner",
+      "feature4Description": "Ramassez des objets pour changer l'apparence de votre personnage."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "betrayal-io": {
+    "title": "Juega a Betrayal.io en línea: juego de deducción social multijugador",
+    "slogan": "¡Descubre al traidor, salva al equipo!",
+    "description": "Betrayal.io es un juego de deducción social multijugador atractivo, similar a Among Us. En Betrayal.io, los jugadores asumen los roles de compañeros o saboteadores secretos conocidos como 'traidores'. El objetivo del traidor es interrumpir las operaciones y crear caos, mientras que los compañeros deben cumplir diligentemente con sus deberes y evitar la eliminación. ¡Trabajen juntos, manténganse alerta y descubran la verdadera identidad del traidor para asegurar el éxito de su equipo! Juega a Betrayal.io ahora y experimenta la emoción de la desconfianza y el trabajo en equipo.",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amistosos",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Betrayal.io - Juego de deducción social multijugador",
+      "description": "Betrayal.io es un juego de deducción social multijugador atractivo, similar a Among Us. En Betrayal.io, los jugadores asumen los roles de compañeros o saboteadores secretos conocidos como 'traidores'. El objetivo del traidor es interrumpir las operaciones y crear caos, mientras que los compañeros deben cumplir diligentemente con sus deberes y evitar la eliminación. ¡Trabajen juntos, manténganse alerta y descubran la verdadera identidad del traidor para asegurar el éxito de su equipo!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Betrayal.io - Juego de deducción social multijugador",
+      "whatIsTitle": "¿Qué es Betrayal.io?",
+      "whatIsDescription": "Betrayal.io es un juego de deducción social multijugador atractivo, similar a Among Us. En Betrayal.io, los jugadores asumen los roles de compañeros o saboteadores secretos conocidos como 'traidores'. El objetivo del traidor es interrumpir las operaciones y crear caos, mientras que los compañeros deben cumplir diligentemente con sus deberes y evitar la eliminación.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Elige tu rol: compañero o traidor.",
+      "howToPlayStep2": "Los compañeros deben completar las tareas mientras identifican al traidor.",
+      "howToPlayStep3": "Los traidores deben sabotear las tareas y eliminar a los compañeros sin ser descubiertos.",
+      "keyFeaturesTitle": "Características principales",
+      "feature1Title": "Modo multijugador",
+      "feature1Description": "Juega con amigos o extraños en un emocionante juego de deducción social.",
+      "feature2Title": "Mecánica de juego basada en roles",
+      "feature2Description": "Asume el rol de compañero o traidor, cada uno con objetivos únicos.",
+      "feature3Title": "Sabotaje estratégico",
+      "feature3Description": "Los traidores deben sabotear las tareas estratégicamente para crear caos.",
+      "feature4Title": "Colaboración en equipo",
+      "feature4Description": "Los compañeros deben trabajar juntos para completar tareas y descubrir al traidor."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

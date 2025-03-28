@@ -1,6 +1,5 @@
 {
-  "recommended": [
-  ],
+  "recommended": [],
   "categories": [
     {
       "name": "Featured Games",
@@ -12,21 +11,103 @@
       "description": "We have selected the best games for you!"
     },
     {
+      "name": "Arcade Games",
+      "path": "/c/arcade-games",
+      "pageSize": 15,
+      "backgroundColor": "#d2e7ff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Exciting arcade games!",
+      "position": 2
+    },
+    {
       "name": "Action Games",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "",
-      "description": "Exciting action games!"
+      "description": "Exciting action games!",
+      "position": 3
+    },
+    {
+      "name": "Adventure Games",
+      "path": "/c/adventure-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 4,
+      "description": "Exciting adventure games!"
+    },
+    {
+      "name": "Wordleverse Games",
+      "path": "/c/wordleverse-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 5,
+      "description": "Exciting wordleverse games!"
+    },
+    {
+      "name": ".IO Games",
+      "path": "/c/io-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 6,
+      "description": "Exciting .IO  games!"
+    },
+    {
+      "name": "Casual Games",
+      "path": "/c/casual-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 7,
+      "description": "Exciting casual games!"
+    },
+    {
+      "name": "Puzzle Games",
+      "path": "/c/puzzle-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 8,
+      "description": "Exciting puzzle  games!"
+    },
+    {
+      "name": "Racing & Driving",
+      "path": "/c/racing-driving",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 9,
+      "description": "Exciting Racing & Driving games!"
+    },
+    {
+      "name": "3D Games",
+      "path": "/c/3d-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 10,
+      "description": "Exciting 3D games!"
     },
     {
       "name": "Sports Games",
-      "path": "/c/sports",
+      "path": "/c/sports-games",
       "pageSize": 15,
-      "backgroundColor": "#d2e7ff",
+      "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
+      "position": 11,
       "description": "Exciting sports games!"
     }
   ]

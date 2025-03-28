@@ -1,0 +1,1 @@
+Taming.io is an exciting multiplayer online game that immerses players in a prehistoric world where they can tame and ride various creatures. In this game, players start as a lone wanderer, and their goal is to explore the vast landscape, gather resources, and tame powerful creatures to become the ultimate tamer.

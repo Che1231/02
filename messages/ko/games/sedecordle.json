@@ -1,0 +1,77 @@
+{
+  "sedecordle": {
+    "title": "세덱오들 플레이 - 무료 단어 퍼즐 게임",
+    "slogan": "세덱오들로 숨겨진 단어를 발견하세요",
+    "description": "세덱오들은 플레이어가 숨겨진 단어를 발견하도록 도전하는 매력적인 추리 게임입니다. 워드 게임과 유사하게 다양한 난이도의 여러 레벨을 가지고 있으며, 동시에 퍼즐을 풀 수 있습니다. 오늘 바로 세덱오들에 참여하여 단어 발견의 짜릿함을 경험하세요!",
+    "Loading": {
+      "title": "세덱오들 로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "컨텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "세덱오들™ - 무료 온라인 단어 퍼즐",
+      "description": "세덱오들로 다양한 난이도의 여러 레벨에서 숨겨진 단어를 찾아보세요. 매혹적인 단어 퍼즐 게임으로 자신을 테스트해보세요. 지금 플레이하고 최고의 단어 발견 경험을 즐기세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "세덱오들 - 단어 퍼즐 도전",
+      "whatIsTitle": "세덱오들은 무엇인가요?",
+      "whatIsDescription": "세덱오들은 플레이어가 숨겨진 단어를 발견하도록 도전하는 매력적인 추리 게임입니다. 워드 게임과 유사하게 다양한 난이도의 여러 레벨을 가지고 있으며, 동시에 퍼즐을 풀 수 있습니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "난이도를 선택하여 시작하세요.",
+      "howToPlayStep2": "알파벳을 입력하여 숨겨진 단어를 추측하세요.",
+      "howToPlayStep3": "퍼즐을 완성하여 다음 레벨로 진행하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "여러 레벨",
+      "feature1Description": "다양한 난이도 레벨로 계속해서 도전을 이어가세요.",
+      "feature2Title": "동시 퍼즐",
+      "feature2Description": "향상된 경험을 위해 여러 퍼즐을 동시에 풀 수 있습니다.",
+      "feature3Title": "몰입형 게임플레이",
+      "feature3Description": "매혹적인 단어 발견 메커니즘으로 계속해서 즐겁게 게임을 즐겨보세요.",
+      "feature4Title": "무료 게임",
+      "feature4Description": "모든 기능에 대해 무료로 이용하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

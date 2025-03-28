@@ -1,0 +1,77 @@
+{
+  "redactle": {
+    "title": "Redactle - 線上免費文字猜謎遊戲",
+    "slogan": "揭開隱藏文章的謎團 - 現在就玩Redactle！",
+    "description": "Redactle 是一款具有挑戰性的文字猜謎遊戲，讓您扮演報紙編輯，試圖揭開隱藏的維基百科文章主題。大部分的詞彙都被隱藏，您必須運用邏輯推理能力來識別主題和相關關鍵詞。猜對的字越多，就越接近解開謎題。Redactle 非常適合喜歡解謎的人，提供獨特且引人入勝的遊戲體驗。今天就開始玩 Redactle，並測試您的知識！",
+    "Loading": {
+      "title": "正在載入Redactle - 請稍後"
+    },
+    "Navbar": {
+      "title": "導覽列"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "Redactle - 線上免費文字猜謎遊戲",
+      "description": "Redactle 是一款具有挑戰性的文字猜謎遊戲，讓您扮演報紙編輯，試圖揭開隱藏的維基百科文章主題。大部分的詞彙都被隱藏，您必須運用邏輯推理能力來識別主題和相關關鍵詞。猜對的字越多，就越接近解開謎題。Redactle 非常適合喜歡解謎的人，提供獨特且引人入勝的遊戲體驗。今天就開始玩 Redactle，並測試您的知識！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "URL 已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Redactle - 線上免費文字猜謎遊戲",
+      "whatIsTitle": "Redactle 是什麼？",
+      "whatIsDescription": "Redactle 是一款具有挑戰性的文字猜謎遊戲，讓您扮演報紙編輯，試圖揭開隱藏的維基百科文章主題。大部分的詞彙都被隱藏，您必須運用邏輯推理能力來識別主題和相關關鍵詞。",
+      "howToPlayTitle": "如何遊戲",
+      "howToPlayStep1": "從猜測您認為可能出現在隱藏文章中的單詞開始。",
+      "howToPlayStep2": "當您猜對一個單詞時，它會出現在文本中所有原始使用位置。",
+      "howToPlayStep3": "繼續猜測單詞，直到您可以推斷出文章的主題。當您找到正確的主題時，遊戲結束。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "具有挑戰性的遊戲玩法",
+      "feature1Description": "Redactle 提供獨特且具有挑戰性的遊戲體驗，考驗您的知識和邏輯推理能力。",
+      "feature2Title": "隱藏的文章",
+      "feature2Description": "遊戲會隱藏隨機維基百科文章中的大部分單詞，只留下少數線索供您使用。",
+      "feature3Title": "邏輯推理能力",
+      "feature3Description": "您必須運用邏輯推理能力來識別隱藏文章中的主題和相關關鍵詞。",
+      "feature4Title": "引人入勝的體驗",
+      "feature4Description": "Redactle 提供引人入勝且身臨其境的體驗，讓您欲罷不能。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到任何分類",
+      "viewMore": "檢視更多",
+      "page": "頁面"
+    }
+  }
+}

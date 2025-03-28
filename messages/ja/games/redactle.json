@@ -1,0 +1,77 @@
+{
+  "redactle": {
+    "title": "Redactle - オンラインワードゲーム",
+    "slogan": "隠された記事を解き明かそう - 今すぐRedactleをプレイ！",
+    "description": "Redactleは、隠されたWikipedia記事のテーマを解き明かすことを目指す、挑戦的なワードゲームです。ほとんどの単語が隠されているため、あなたの推論力を使って対象と関連キーワードを特定する必要があります。 正解した単語が多ければ多いほど、謎に近づきます。 パズル好きに最適なRedactleは、独特で魅力的なゲーム体験を提供します。今日からRedactleをプレイして、あなたの知識を試してみてください！",
+    "Loading": {
+      "title": "Redactle読み込み中 - 今しばらくお待ちください"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "Redactle - オンラインワードゲーム",
+      "description": "Redactleは、隠されたWikipedia記事のテーマを解き明かすことを目指す、挑戦的なワードゲームです。ほとんどの単語が隠されているため、あなたの推論力を使って対象と関連キーワードを特定する必要があります。 正解した単語が多ければ多いほど、謎に近づきます。 パズル好きに最適なRedactleは、独特で魅力的なゲーム体験を提供します。今日からRedactleをプレイして、あなたの知識を試してみてください！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "フルスクリーン",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Redactle - オンラインワードゲーム",
+      "whatIsTitle": "Redactleとは？",
+      "whatIsDescription": "Redactleは、隠されたWikipedia記事のテーマを解き明かすことを目指す、挑戦的なワードゲームです。ほとんどの単語が隠されているため、あなたの推論力を使って対象と関連キーワードを特定する必要があります。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "隠された記事に入りそうと思われる単語を最初に推測します。",
+      "howToPlayStep2": "単語を正しく推測すると、テキスト内のすべての場所に表示されます。",
+      "howToPlayStep3": "記事のテーマが分かるまで単語を推測し続けましょう。正しいテーマを見つけるとゲームは終了します。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "挑戦的なゲーム性",
+      "feature1Description": "Redactleは、あなたの知識と推論力を試す、独特で挑戦的なゲーム体験を提供します。",
+      "feature2Title": "隠された記事",
+      "feature2Description": "ゲームではランダムなWikipedia記事のほとんどの単語が隠され、わずかな手がかりしか得られません。",
+      "feature3Title": "推論力",
+      "feature3Description": "隠された記事の対象と関連キーワードを特定するために、あなたの推論力を使用する必要があります。",
+      "feature4Title": "魅力的な体験",
+      "feature4Description": "Redactleは、何度でもプレイしたくなる魅力的かつ没入型の体験を提供します。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "コメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリ",
+      "noCategories": "カテゴリが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

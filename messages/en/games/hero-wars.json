@@ -1,0 +1,77 @@
+{
+  "hero-wars": {
+    "title": "Hero Wars - Epic Fantasy RPG Adventure",
+    "slogan": "Assemble Heroes, Conquer Darkness!",
+    "description": "Embark on an epic journey in Hero Wars, an action-packed RPG where you save the realm of Dominion from chaos. Assemble a team of mighty heroes, upgrade their skills, and engage in thrilling battles. Experience the ultimate fantasy adventure today!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Hero Wars™",
+      "description": "Dive into Hero Wars, an epic fantasy RPG where you lead heroes to save Dominion. Upgrade skills, strategize battles, and conquer chaos. Start your adventure now!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Hero Wars - The Ultimate RPG Experience",
+      "whatIsTitle": "What is Hero Wars?",
+      "whatIsDescription": "Hero Wars is an action-packed RPG that takes you on an epic journey to save the fantasy realm of Dominion from darkness and chaos. Assemble a team of mighty heroes, upgrade their skills, and engage in thrilling battles against powerful enemies.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Assemble a team of powerful heroes.",
+      "howToPlayStep2": "Upgrade your heroes' skills and equipment.",
+      "howToPlayStep3": "Engage in strategic battles to conquer enemies.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Epic Heroes",
+      "feature1Description": "Recruit and upgrade a diverse roster of heroes.",
+      "feature2Title": "Strategic Battles",
+      "feature2Description": "Plan your moves and defeat powerful enemies.",
+      "feature3Title": "Fantasy Realm",
+      "feature3Description": "Explore the magical world of Dominion.",
+      "feature4Title": "Team Up",
+      "feature4Description": "Join forces with friends to take on greater challenges."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

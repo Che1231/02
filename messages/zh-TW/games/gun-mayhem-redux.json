@@ -1,0 +1,77 @@
+{
+  "gun-mayhem-redux": {
+    "title": "槍林彈雨重製版 - 多人射擊遊戲",
+    "slogan": "用各種武器和加強道具炸毀你的對手！",
+    "description": "槍林彈雨重製版是一款快節奏的多人射擊遊戲，挑戰你成為一名專業槍手。透過激烈的遊戲回合，你需要運用靈活的臨場反應和有效的攻擊來摧毀你的對手。解鎖神秘箱子來強化你的武器，不斷移動來結合躲避和攻擊策略。現在就玩槍林彈雨重製版，體驗刺激的射擊快感！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導覽"
+    },
+    "Common": {
+      "createAt": "建立時間",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "槍林彈雨重製版 - 多人射擊遊戲",
+      "description": "加入快節奏的多人射擊遊戲槍林彈雨重製版，用各種武器和加強道具炸毀你的對手。體驗激烈刺激的遊戲回合，成為一名專業槍手。現在就開始遊戲！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "槍林彈雨重製版 - 多人射擊遊戲",
+      "whatIsTitle": "槍林彈雨重製版是什麼？",
+      "whatIsDescription": "槍林彈雨重製版是一款快節奏的多人射擊遊戲，你需要使用各種武器和加強道具摧毀你的對手。遊戲挑戰你透過激烈的遊戲回合，成為一名專業槍手。",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "使用各種武器和加強道具來炸毀你的對手。",
+      "howToPlayStep2": "解鎖神秘箱子來強化你的武器。",
+      "howToPlayStep3": "不斷移動來結合躲避和攻擊策略。",
+      "keyFeaturesTitle": "主要特點",
+      "feature1Title": "快節奏多人射擊",
+      "feature1Description": "在多人射擊環境中體驗激烈刺激的遊戲回合。",
+      "feature2Title": "多種武器和加強道具",
+      "feature2Description": "使用各種武器和加強道具來炸毀你的對手。",
+      "feature3Title": "專業槍手挑戰",
+      "feature3Description": "在激烈的遊戲中挑戰自己成為一名專業槍手。",
+      "feature4Title": "靈活的臨場應變",
+      "feature4Description": "運用靈活的臨場應變能力來執行有效的攻擊和策略。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦遊戲"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲列表"
+    },
+    "CategoryPage": {
+      "categories": "遊戲分類",
+      "noCategories": "找不到遊戲分類",
+      "viewMore": "查看更多",
+      "page": "頁碼"
+    }
+  }
+}

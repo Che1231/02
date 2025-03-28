@@ -1,0 +1,77 @@
+{
+  "coreball": {
+    "title": "Coreball: Master the Rhythm, Conquer the Game",
+    "slogan": "Navigate, Sync, Triumph",
+    "description": "Coreball is a captivating rhythm-based game that challenges your timing and precision. With over 100 levels, each requiring perfect synchronization, you'll be hooked from the start. Whether you're a beginner or a seasoned player, Coreball offers endless fun and excitement. Play Coreball now and see if you can master the rhythm!",
+    "Loading": {
+      "title": "Loading Coreball..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Coreball: Play the Ultimate Rhythm Challenge",
+      "description": "Experience the thrill of Coreball, a game that tests your timing and precision. With over 100 levels, Coreball offers endless fun and excitement. Play now and see if you can master the rhythm!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Coreball: The Rhythm Challenge",
+      "whatIsTitle": "What is Coreball?",
+      "whatIsDescription": "Coreball is a rhythm-based game where you navigate through levels by syncing your movements with the beat. It's simple to start but challenging to master, offering endless fun for all players.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Start by syncing your movements with the rhythm of the level.",
+      "howToPlayStep2": "Navigate through obstacles by maintaining a steady pace.",
+      "howToPlayStep3": "Progress through over 100 levels, each with increasing difficulty.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Rhythm-Based Gameplay",
+      "feature1Description": "Coreball challenges your timing and precision with its unique rhythm-based mechanics.",
+      "feature2Title": "Over 100 Levels",
+      "feature2Description": "With a vast array of levels, Coreball offers endless challenges and fun.",
+      "feature3Title": "Simple Yet Challenging",
+      "feature3Description": "Easy to start but hard to master, Coreball is perfect for players of all skill levels.",
+      "feature4Title": "Endless Fun",
+      "feature4Description": "Coreball provides endless entertainment with its engaging gameplay and increasing difficulty."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "hero-wars": {
+    "title": "영웅전쟁 - 판타지 RPG 모험",
+    "slogan": "영웅을 모아 어둠을 정복하라!",
+    "description": "영웅전쟁에서 흥미진진한 RPG 모험을 시작하여 도미니언 왕국을 혼란에서 구하십시오. 강력한 영웅들을 모아 그들의 기술을 강화하고 짜릿한 전투에 참여하십시오. 오늘 최고의 판타지 모험을 경험하십시오!",
+    "Loading": {
+      "title": "로딩중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "영웅전쟁™",
+      "description": "영웅전쟁에 뛰어들어 영웅들을 이끌고 도미니언을 구하십시오. 기술을 업그레이드하고 전투 전략을 세우며 혼돈을 정복하십시오. 지금 바로 모험을 시작하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "영웅전쟁 - 최고의 RPG 경험",
+      "whatIsTitle": "영웅전쟁이란 무엇인가요?",
+      "whatIsDescription": "영웅전쟁은 판타지 왕국 도미니언을 어둠과 혼란으로부터 구하는 흥미진진한 RPG 모험입니다. 강력한 영웅들을 모아 기술을 강화하고 강력한 적들과 짜릿한 전투에 참여하십시오.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "강력한 영웅 팀을 구성하십시오.",
+      "howToPlayStep2": "영웅들의 기술과 장비를 업그레이드하십시오.",
+      "howToPlayStep3": "전략적인 전투를 통해 적들을 제압하십시오.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "영웅들",
+      "feature1Description": "다양한 영웅들을 모집하고 업그레이드하십시오.",
+      "feature2Title": "전략적인 전투",
+      "feature2Description": "전략을 세우고 강력한 적들을 물리치십시오.",
+      "feature3Title": "판타지 왕국",
+      "feature3Description": "마법으로 가득한 도미니언의 세계를 탐험하십시오.",
+      "feature4Title": "팀워크",
+      "feature4Description": "친구들과 힘을 합쳐 더욱 어려운 도전을 헤쳐나가십시오."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

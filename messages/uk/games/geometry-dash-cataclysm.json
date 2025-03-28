@@ -1,0 +1,77 @@
+{
+  "geometry-dash-cataclysm": {
+    "title": "Гра Geometry Dash Cataclysm онлайн – екстремальний рівень демона",
+    "slogan": "Виклик трілогії екстремальних демонів",
+    "description": "Geometry Dash Cataclysm – це надзвичайно складний рівень із 10-зірковою оцінкою та 3 монетками користувачів. Як перший епізод трілогії «Екстремальні демони», він пропонує інтенсивну гру та унікальний досвід. Зануртесь у цей знакові рівень, перевірте свої навички та приєднайтеся до спільноти Geometry Dash. Граві Geometry Dash Cataclysm зараз і прийміть виклик!",
+    "Loading": {
+      "title": "Завантаження..."
+    },
+    "Navbar": {
+      "title": "Навігація"
+    },
+    "Common": {
+      "createAt": "Створено",
+      "guide": "Посібник",
+      "privacyPolicy": "Політика конфіденційності",
+      "termsOfServices": "Умови надання послуг",
+      "text": "Зміст",
+      "help": "Допомога",
+      "friendlyLinks": "Корисні посилання",
+      "articleList": "Список статей",
+      "home": "Головна",
+      "next": "Далі",
+      "previous": "Попередній"
+    },
+    "HomeIframe": {
+      "title": "Geometry Dash Cataclysm",
+      "description": "Досвідіть інтенсивний виклик Geometry Dash Cataclysm, 10-зіркового рівня з 3 монетами користувачів. Грайте зараз і приєднайтеся до спільноти!",
+      "iframeTitle": "Попередній перегляд гри",
+      "fullscreenButton": "Повноекранний режим",
+      "shareButton": "Поділитися",
+      "urlCopied": "Посилання скопійовано в буфер обміну!",
+      "downloadGame": "Завантажити гру",
+      "playGame": "Грати"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Geometry Dash Cataclysm",
+      "whatIsTitle": "Що таке Geometry Dash Cataclysm?",
+      "whatIsDescription": "Geometry Dash Cataclysm – це надзвичайно складний рівень із 10-зірковою оцінкою та 3 монетами користувачів. Це перший епізод трілогії «Екстремальні демони», що пропонує унікальний та інтенсивний досвід гри.",
+      "howToPlayTitle": "Як грати",
+      "howToPlayStep1": "Проходьте перешкоди з точним часом.",
+      "howToPlayStep2": "Збирайте монети користувачів, щоб розблокувати спеціальні функції.",
+      "howToPlayStep3": "Завершіть рівень, щоб отримати високий бал.",
+      "keyFeaturesTitle": "Ключові особливості",
+      "feature1Title": "Екстремальний виклик",
+      "feature1Description": "Перевірте свої навички на 10-зірковому рівні.",
+      "feature2Title": "Монети користувачів",
+      "feature2Description": "Зберіть 3 монети користувачів, щоб покращити свою гру.",
+      "feature3Title": "Знаковим рівень",
+      "feature3Description": "Досвідіть перший епізод трілогії «Екстремальні демони».",
+      "feature4Title": "Улюблений спільнотою",
+      "feature4Description": "Приєднайтеся до спільноти Geometry Dash і поділіться своїм прогресом."
+    },
+    "HomeFAQs": {
+      "title": "ПЗЧ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Відео гри"
+    },
+    "HomeRecommendation": {
+      "title": "Рекомендації"
+    },
+    "HomeComments": {
+      "title": "Коментарі до гри"
+    },
+    "GamePage": {
+      "title": "Всі ігри",
+      "description": "Всі ігри",
+      "games": "Ігри"
+    },
+    "CategoryPage": {
+      "categories": "Категорії",
+      "noCategories": "Категорії не знайдено",
+      "viewMore": "Переглянути більше",
+      "page": "Сторінка"
+    }
+  }
+}

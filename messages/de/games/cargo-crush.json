@@ -1,0 +1,77 @@
+{
+  "cargo-crush": {
+    "title": "Cargo Crush – Kostenloses Online-Spiel zur Ladestärke",
+    "slogan": "Grenzen sprengen, den Hafen meistern!",
+    "description": "Erleben Sie die Herausforderung, Güter in Cargo Crush zu ordnen! Dieses fesselnde Gelegenheitsspiel prüft Ihre Präzision und Ihr Können, während Sie Container steuern und entladen. Richten Sie die schnellsten aus, lösen Sie Hindernisse und werden Sie der Meister des Hafens. Sind Sie bereit für ein Abenteuer? Spielen Sie jetzt Cargo Crush!",
+    "Loading": {
+      "title": "Lädt..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Leitfaden",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelverzeichnis",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Cargo Crush – Kostenloses Online-Spiel",
+      "description": "Spielen Sie Cargo Crush und erleben Sie die ultimative Herausforderung beim Güterhandling! Steuern und entladen Sie Container präzise und geschickt. Sind Sie bereit, Grenzen zu sprengen und den Hafen zu beherrschen?",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel spielen"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Cargo Crush",
+      "whatIsTitle": "Was ist Cargo Crush?",
+      "whatIsDescription": "Cargo Crush ist ein Gelegenheitsspiel, bei dem Sie Container präzise anordnen und entladen. Ein Kampf gegen die Zeit und dramatische Herausforderungen!",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Steuern Sie die Container präzise.",
+      "howToPlayStep2": "Richten Sie die schnellsten aus, um Hindernisse zu überwinden.",
+      "howToPlayStep3": "Werden Sie der Meister des Hafens!",
+      "keyFeaturesTitle": "Wichtige Merkmale",
+      "feature1Title": "Präzise Steuerung",
+      "feature1Description": "Steuern Sie Container präzise und gekonnt.",
+      "feature2Title": "Zeit Herausforderungen",
+      "feature2Description": "Kampf gegen die Zeit und dramatische Herausforderungen.",
+      "feature3Title": "Fesselndes Gameplay",
+      "feature3Description": "Genießen Sie ein fesselndes und unterhaltsames Gelegenheitsspiel.",
+      "feature4Title": "Meistern Sie den Hafen",
+      "feature4Description": "Werden Sie der Hafenmeister, indem Sie alle Hindernisse überwinden."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

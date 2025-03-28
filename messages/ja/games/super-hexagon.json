@@ -1,0 +1,77 @@
+{
+  "super-hexagon": {
+    "title": "スーパーヘキサゴン - リズミカルなアクションで反射神経に挑戦",
+    "slogan": "ビートを感じ、ヘキサゴンから脱出",
+    "description": "スーパーヘキサゴンは、即興的なスキルに挑戦する、ユニークな音楽体験を提供します。回転するヘキサゴンの中を移動し、やってくる壁を避け、パワフルな電子音楽に没頭してください。ゲームのペースは絶えず上昇し、反射神経と集中力を試します。今すぐプレイして、このスリリングなリズムベースのアドベンチャーでどれくらい生き残れるか見てください！",
+    "Loading": {
+      "title": "スーパーヘキサゴンを読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "スーパーヘキサゴン - 無料オンラインゲーム",
+      "description": "リズムと反射神経が融合するスーパーヘキサゴンの挑戦を体験してください。やってくる壁を避け、ビートを感じ、この高速ゲームで生き残ってください。今すぐ無料でプレイ！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "フルスクリーン",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "スーパーヘキサゴン",
+      "whatIsTitle": "スーパーヘキサゴンとは？",
+      "whatIsDescription": "スーパーヘキサゴンは、反射神経と集中力を試す、リズムベースのゲームです。回転するヘキサゴンの中を移動し、やってくる壁を避けて生き残ってください。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "左方向キーと右方向キーを使ってヘキサゴンを回転させます。",
+      "howToPlayStep2": "ヘキサゴンの端から現れる壁を避けてください。",
+      "howToPlayStep3": "ペースの増加に合わせて、できるだけ長く生き残ってください。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "リズミカルなゲームプレイ",
+      "feature1Description": "音楽のビートに合わせて動きを同期させ、没入型の体験を味わってください。",
+      "feature2Title": "挑戦的なレベル",
+      "feature2Description": "ゲームのペースは絶えず上昇し、反射神経と集中力を試します。",
+      "feature3Title": "電子音楽",
+      "feature3Description": "パワフルで魅力的な電子音楽がゲームプレイ体験をさらに豊かにします。",
+      "feature4Title": "アンロック可能な実績",
+      "feature4Description": "実績をアンロックしてスキルを向上させるために、自分自身に挑戦してください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "さらに表示",
+      "page": "ページ"
+    }
+  }
+}

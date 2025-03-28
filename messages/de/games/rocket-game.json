@@ -1,0 +1,77 @@
+{
+  "rocket-game": {
+    "title": "Raketenspiel: Eine spannende Weltraum-Abenteuer",
+    "slogan": "Steuern Sie Ihre Rakete durch herausfordernde Level und schweben Sie in Richtung Sterne!",
+    "description": "Das Raketenspiel stürzt Sie in ein spannendes Abenteuer! Steuern Sie Ihre Rakete durch herausfordernde Level und vermeiden Sie Hindernisse, während Sie in Richtung Sterne schweben. Dieses Physik-basierte Fahrspiel bietet einzigartige Erlebnisse auf gefährlichen Straßen. Tauchen Sie ein in diese einzigartigen Erlebnisse, um Ihre Freizeit aufregender zu gestalten. Spielen Sie jetzt das Raketenspiel und genießen Sie den Nervenkitzel!",
+    "Loading": {
+      "title": "Wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Leitfaden",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundeslinks",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Raketenspiel: Ein spannendes Weltraum-Abenteuer",
+      "description": "Steuern Sie Ihre Rakete durch herausfordernde Level und vermeiden Sie Hindernisse, während Sie in Richtung Sterne schweben. Genießen Sie einzigartige Erlebnisse auf gefährlichen Straßen.",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Raketenspiel: Ein spannendes Weltraum-Abenteuer",
+      "whatIsTitle": "Was ist das Raketenspiel?",
+      "whatIsDescription": "Das Raketenspiel ist ein Physik-basiertes Fahrspiel mit Erlebnissen auf gefährlichen Straßen. Steile Hänge und holprige Hügel machen Ihre Reise noch spektakulärer.",
+      "howToPlayTitle": "Wie man spielt",
+      "howToPlayStep1": "Pfeil nach oben: Geradeaus fahren; gedrückt halten, um zu beschleunigen.",
+      "howToPlayStep2": "Pfeil nach unten: Rückwärts fahren, normalerweise um Schwung zu gewinnen.",
+      "howToPlayStep3": "LEERTASTE: Raketenmodus, gedrückt halten, um die \"Abfeuerschnelligkeit\" für dieses besondere Fahrzeug einzustellen.",
+      "keyFeaturesTitle": "Wichtige Merkmale",
+      "feature1Title": "Herausfordernde Level",
+      "feature1Description": "Navigieren Sie durch komplexe Plattformen und überwinden Sie Hindernisse.",
+      "feature2Title": "Physikbasiertes Gameplay",
+      "feature2Description": "Erleben Sie realistische Physik, während Sie durch gefährliche Straßen fahren.",
+      "feature3Title": "Raketenmodus",
+      "feature3Description": "Verwenden Sie den Raketenmodus, um Schwungsprünge durchzuführen und wie eine Rakete abzuschießen.",
+      "feature4Title": "Suchtendes Abenteuer",
+      "feature4Description": "Tauchen Sie ein in einzigartige Erlebnisse, die das Spiel süchtig machen."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

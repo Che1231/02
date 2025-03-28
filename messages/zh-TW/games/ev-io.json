@@ -1,0 +1,77 @@
+{
+  "ev-io": {
+    "title": "線上遊玩 Ev.io - 免費多人線上 FPS 遊戲",
+    "slogan": "在 Ev.io 中體驗未來戰鬥",
+    "description": "Ev.io 是一款令人興奮的多人線上 FPS 遊戲，設定在未來場景。遊戲的策略性關卡設計靈感來自《光環》、《命運》和《雷神之錘》，提供各種武器和能力。只需點擊即可加入戰鬥，展現你的技能。現在就玩 Ev.io，體驗終極 FPS 挑戰！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立日期",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "Ev.io",
+      "description": "加入 Ev.io，參與未來 FPS 戰鬥。Ev.io 提供策略性關卡設計和各種武器，提供沉浸式多人遊戲體驗。立即開始遊戲，稱霸戰場！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "URL 已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Ev.io",
+      "whatIsTitle": "Ev.io 簡介",
+      "whatIsDescription": "Ev.io 是一款 FPS 遊戲，可在未來場景中進行多人戰鬥。遊戲融合了取材自《光環》、《命運》和《雷神之錘》的策略性關卡設計。",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "選擇你的武器和技能。",
+      "howToPlayStep2": "加入多人戰鬥。",
+      "howToPlayStep3": "展現你的技能，稱霸戰場。",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "未來場景",
+      "feature1Description": "在視覺上令人驚豔的未來場景中戰鬥。",
+      "feature2Title": "各種武器",
+      "feature2Description": "從各種武器中選擇適合你的遊戲風格。",
+      "feature3Title": "策略性關卡設計",
+      "feature3Description": "體驗以策略為主的關卡設計。",
+      "feature4Title": "多人戰鬥",
+      "feature4Description": "與全球玩家展開激烈的多人戰鬥。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦遊戲"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

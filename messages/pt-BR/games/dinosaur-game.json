@@ -1,0 +1,77 @@
+{
+  "dinosaur-game": {
+    "title": "Jogo do Dinossauro Online - Aventura de Corrida Infinita",
+    "slogan": "Pule, Corra, Sobreviva!",
+    "description": "Jogo do Dinossauro, também conhecido como Dino do Chrome ou Corrida do Tiranossauro Rex, é um popular jogo de corrida sem fim lateralmente rolado. Jogue offline no Google Chrome e controle um Tiranossauro Rex pixelado para navegar por um cenário desértico cheio de cactos e pterodátilos voadores. Sobreviva o máximo possível pulando sobre ou se agachando sob obstáculos. Experimente o Jogo do Dinossauro agora e domine esta envolvente aventura de arcade!",
+    "Loading": {
+      "title": "Carregando..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links de Amigos",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Jogo do Dinossauro",
+      "description": "Jogo do Dinossauro, também conhecido como Dino do Chrome ou Corrida do Tiranossauro Rex, é um popular jogo de corrida sem fim lateralmente rolado. Jogue offline no Google Chrome e controle um Tiranossauro Rex pixelado para navegar por um cenário desértico cheio de cactos e pterodátilos voadores. Sobreviva o máximo possível pulando sobre ou se agachando sob obstáculos. Experimente o Jogo do Dinossauro agora e domine esta envolvente aventura de arcade!",
+      "iframeTitle": "Pré-visualização do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Jogo do Dinossauro",
+      "whatIsTitle": "O que é o Jogo do Dinossauro?",
+      "whatIsDescription": "Jogo do Dinossauro, também conhecido como Dino do Chrome ou Corrida do Tiranossauro Rex, é um popular jogo de corrida sem fim lateralmente rolado que pode ser jogado offline no Google Chrome. Controle um Tiranossauro Rex pixelado e navegue por um cenário desértico cheio de cactos e pterodátilos voadores.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Pressione a barra de espaço para pular sobre os cactos.",
+      "howToPlayStep2": "Pressione a seta para baixo para se agachar sob os pterodátilos voadores.",
+      "howToPlayStep3": "Sobreviva o máximo possível para alcançar uma pontuação alta.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Design Minimalista",
+      "feature1Description": "Aproveite um estilo de arte pixelado limpo e simples.",
+      "feature2Title": "Jogabilidade Viciante",
+      "feature2Description": "Experimente diversão infinita com obstáculos desafiadores.",
+      "feature3Title": "Dificuldade Crescente",
+      "feature3Description": "O jogo fica mais difícil à medida que você progride, mantendo você engajado.",
+      "feature4Title": "Jogo Offline",
+      "feature4Description": "Jogue o Jogo do Dinossauro a qualquer momento, mesmo sem conexão com a internet."
+    },
+    "HomeFAQs": {
+      "title": "PERGUNTAS FREQUENTES"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

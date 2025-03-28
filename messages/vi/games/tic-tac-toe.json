@@ -1,0 +1,77 @@
+{
+  "tic-tac-toe": {
+    "title": "Chơi Trò Chơi Tic-Tac-Toe Trực Tuyến | Trò Chơi X và O Cổ Điển",
+    "slogan": "Tận hưởng niềm vui bất diệt của trò chơi Tic-Tac-Toe!",
+    "description": "Tic-Tac-Toe, còn được gọi là Noughts and Crosses, là một trò chơi cổ điển và phổ biến được mọi lứa tuổi yêu thích. Đây là một trò chơi đơn giản nhưng cuốn hút được chơi trên lưới ô vuông 3x3. Mục tiêu là tạo một hàng ba ký tự giống nhau (hoặc X hoặc O) theo chiều ngang, dọc hoặc chéo. Hãy chơi Tic-Tac-Toe ngay bây giờ và thách thức bạn bè của bạn!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Tic-Tac-Toe | Trò chơi X và O cổ điển",
+      "description": "Chơi trò chơi cổ điển Tic-Tac-Toe trực tuyến. Thử thách bạn bè của bạn và xem ai có thể được ba trong một hàng đầu tiên!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Tic-Tac-Toe | Trò chơi X và O cổ điển",
+      "whatIsTitle": "Tic-Tac-Toe là gì?",
+      "whatIsDescription": "Tic-Tac-Toe, còn được gọi là Noughts and Crosses, là một trò chơi cổ điển và phổ biến được mọi lứa tuổi yêu thích. Đây là một trò chơi đơn giản nhưng cuốn hút được chơi trên lưới ô vuông 3x3.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Hai người chơi luân phiên đặt ký hiệu đã chọn của họ (X hoặc O) vào ô trống trên lưới.",
+      "howToPlayStep2": "Người chơi đầu tiên thường bắt đầu bằng X, và người chơi thứ hai tiếp theo là O.",
+      "howToPlayStep3": "Trò chơi tiếp tục cho đến khi một người chơi thành công tạo thành một hàng ba ký tự hoặc tất cả các ô vuông trên lưới đều được lấp đầy, dẫn đến kết quả hòa.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Quy tắc đơn giản",
+      "feature1Description": "Dễ học và chơi, giúp phù hợp với mọi lứa tuổi.",
+      "feature2Title": "Gameplay nhanh chóng",
+      "feature2Description": "Nhanh nhạy và lý tưởng cho những giờ giải lao ngắn.",
+      "feature3Title": "Suy nghĩ chiến lược",
+      "feature3Description": "Khuyến khích người chơi suy nghĩ trước và lên kế hoạch cho các nước đi của họ.",
+      "feature4Title": "Niềm vui không giới hạn",
+      "feature4Description": "Có thể chơi lại và luôn là một thách thức với những đối thủ khác nhau."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Khuyến nghị"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

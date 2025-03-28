@@ -1,0 +1,1 @@
+Hero Wars is an action-packed role-playing game that takes players on an epic journey to save the fantasy realm of Dominion from darkness and chaos. In this captivating game, players assemble a team of mighty heroes, upgrade their skills, and engage in thrilling battles against powerful enemies.

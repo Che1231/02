@@ -1,0 +1,77 @@
+{
+  "rocket-game": {
+    "title": "Permainan Roket: Petualangan Luar Angkasa yang Mendebarkan",
+    "slogan": "Pilot roket Anda melalui level yang menantang dan terbang menuju bintang!",
+    "description": "Permainan Roket membawa Anda ke petualangan yang mengasyikkan! Pilot roket Anda melalui level yang menantang dan hindari rintangan saat Anda terbang menuju bintang. Game mengemudi berbasis fisika ini menawarkan pengalaman unik saat melintasi jalan berbahaya. Benamkan diri Anda dalam pengalaman unik ini untuk membuat waktu luang Anda lebih mengasyikkan. Mainkan Permainan Roket sekarang dan nikmati sensasinya!",
+    "Loading": {
+      "title": "Memuat..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Buat Di",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Syarat dan Ketentuan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Permainan Roket: Petualangan Luar Angkasa yang Mendebarkan",
+      "description": "Pilot roket Anda melalui level yang menantang dan hindari rintangan saat Anda terbang menuju bintang. Nikmati pengalaman unik saat melintasi jalan berbahaya.",
+      "iframeTitle": "Pratinjau Game",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Game",
+      "playGame": "Mainkan Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Permainan Roket: Petualangan Luar Angkasa yang Mendebarkan",
+      "whatIsTitle": "Apa itu Permainan Roket?",
+      "whatIsDescription": "Permainan Roket adalah game mengemudi berbasis fisika dengan pengalaman melintasi jalan berbahaya. Lereng curam dan bukit bergelombang akan membuat perjalanan Anda semakin spektakuler.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Panah ATAS: maju; tekan dan tahan untuk mempercepat.",
+      "howToPlayStep2": "Panah BAWAH: mundur, biasanya untuk mendapatkan momentum.",
+      "howToPlayStep3": "TOMBOL SPASI: mode roket, tekan dan tahan untuk menyesuaikan kekuatan \"tembakan\" untuk kendaraan khusus ini.",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Level yang Menantang",
+      "feature1Description": "Navigasi melalui platform kompleks dan mengatasi rintangan.",
+      "feature2Title": "Gameplay Berbasis Fisika",
+      "feature2Description": "Rasakan fisika realistis saat Anda mengemudi di jalan berbahaya.",
+      "feature3Title": "Mode Roket",
+      "feature3Description": "Gunakan mode roket untuk melakukan lompatan momentum dan menembak jauh seperti roket.",
+      "feature4Title": "Petualangan Menarik",
+      "feature4Description": "Benamkan diri Anda dalam pengalaman unik yang membuat permainan ini menarik."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Game"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Game",
+      "description": "Semua Game",
+      "games": "Game"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Lebih Banyak",
+      "page": "Halaman"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "trigonometry-dash": {
+    "title": "三角函數衝刺：幾何冒險遊戲",
+    "slogan": "運用三角函數征服複雜幾何地圖",
+    "description": "三角函數衝刺提供獨特的平台遊戲體驗，讓您在幾何挑戰中穿梭。擁有四種遊戲模式和可自訂的移動速度，享受刺激的冒險。現在就玩三角函數衝刺，探索幾何世界！",
+    "Loading": {
+      "title": "載入三角函數衝刺..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "三角函數衝刺",
+      "description": "三角函數衝刺邀請您體驗獨特的幾何冒險。穿梭複雜的地圖，避開障礙，到達終點線。現在就玩，享受挑戰！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "三角函數衝刺",
+      "whatIsTitle": "什麼是三角函數衝刺？",
+      "whatIsDescription": "三角函數衝刺是一款結合幾何和冒險的平台遊戲。擁有獨特的遊戲玩法和多樣模式，提供具有挑戰性且令人愉快的體驗。",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "使用方向鍵來移動立方體。",
+      "howToPlayStep2": "避開障礙，找到通往終點線的路徑。",
+      "howToPlayStep3": "以自己的節奏享受遊戲，探索幾何世界。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "可自訂速度",
+      "feature1Description": "控制遊戲速度，按照自己的方式享受冒險。",
+      "feature2Title": "四種遊戲模式",
+      "feature2Description": "從普通模式、時間攻擊模式、怪物模式和盲目模式中選擇。",
+      "feature3Title": "檢查點",
+      "feature3Description": "從最後一個檢查點重新開始，而不是從頭開始。",
+      "feature4Title": "鏡面模式",
+      "feature4Description": "在鏡面模式中，體驗具有特殊入口的獨特挑戰。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "zombs-io": {
+    "title": "Zombs.io：無料オンラインゾンビサバイバルゲーム",
+    "slogan": "構築、防衛、生存",
+    "description": "Zombs.ioは、Minecraftとゾンビの要素を組み合わせた、エキサイティングなタワーディフェンスIOゲームです。基地を建設し、絶え間ないゾンビの波から防衛してください。基地を強化し、ますます困難になる波に耐えられるようにしてください。あなたの生存スキルを試して、何晩耐えられるか見てください。友人と協力して、強力な基地を一緒に作成してください。ただし、パーティーにいると、通常よりも多くのゾンビが集まることに注意してください。友人とのパーティー中は、注意と戦略的な計画を心がけてください。",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "Zombs.io：無料オンラインゾンビサバイバルゲーム",
+      "description": "Zombs.ioは、Minecraftとゾンビの要素を組み合わせた、エキサイティングなタワーディフェンスIOゲームです。基地を建設し、絶え間ないゾンビの波から防衛してください。基地を強化し、ますます困難になる波に耐えられるようにしてください。あなたの生存スキルを試して、何晩耐えられるか見てください。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "フルスクリーン",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Zombs.io：無料オンラインゾンビサバイバルゲーム",
+      "whatIsTitle": "Zombs.ioとは？",
+      "whatIsDescription": "Zombs.ioは、Minecraftとゾンビの要素を組み合わせた、エキサイティングなタワーディフェンスIOゲームです。基地を建設し、絶え間ないゾンビの波から防衛してください。基地を強化し、ますます困難になる波に耐えられるようにしてください。あなたの生存スキルを試して、何晩耐えられるか見てください。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "基地を建設し、絶え間ないゾンビの波から防衛してください。",
+      "howToPlayStep2": "基地を強化し、ますます困難になる波に耐えられるようにしてください。",
+      "howToPlayStep3": "あなたの生存スキルを試して、何晩耐えられるか見てください。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "タワーディフェンスゲームプレイ",
+      "feature1Description": "基地を建設し、絶え間ないゾンビの波から防衛してください。",
+      "feature2Title": "基地建設",
+      "feature2Description": "基地を強化し、ますます困難になる波に耐えられるようにしてください。",
+      "feature3Title": "生存チャレンジ",
+      "feature3Description": "あなたの生存スキルを試して、何晩耐えられるか見てください。",
+      "feature4Title": "マルチプレイヤー協力プレイ",
+      "feature4Description": "友人と協力して、強力な基地を一緒に作成してください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

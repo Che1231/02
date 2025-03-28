@@ -1,0 +1,122 @@
+{
+  "name": "Skribbl.io",
+  "pagePath": "/games/skribbl-io",
+  "pageName": "skribbl-io",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://skribbl.io/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingKraken99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken99.png",
+      "content": "OMG, Skribbl.io is so addicting! Drawing and guessing with friends is hilarious."
+    },
+    {
+      "author": "RadRevolver_Z",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/RadRevolver_Z.png",
+      "content": "Why can't I draw a cat? This game is harder than it looks LOL. Guessing is fun tho!"
+    },
+    {
+      "author": "WitcherForLyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/WitcherForLyfe.png",
+      "content": "Skribbl.io's community is awesome! So many creative drawings. Is there a better game for creative drawing?"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "I'm terrible at drawing, but I love guessing! The drawing and guessing format is so much fun."
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "Can't stop playing Skribbl.io! It is the perfect way to chill, you know?"
+    },
+    {
+      "author": "PhantomPhoenix42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix42.png",
+      "content": "This drawing and guessing game? The best! Never thought drawing with a mouse could be so fun."
+    },
+    {
+      "author": "CoolKatana_V",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CoolKatana_V.png",
+      "content": "Skribbl.io is a blast! So much laughter. The guessing is where its at, I swear."
+    },
+    {
+      "author": "GamerGod87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/GamerGod87.png",
+      "content": "The vibrant community makes Skribbl.io so good! Wish I could draw better..."
+    },
+    {
+      "author": "L33tHaxxor",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/L33tHaxxor.png",
+      "content": "Skribbl.io broken? Nah, just kidding! Needs more words, tho?"
+    },
+    {
+      "author": "NeonLeviathan87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonLeviathan87.png",
+      "content": "The randomness of words in this game is so fun and a challenge!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/skribbl-io/skribbl-io-m200x130.webp",
+  "page_path": "/games/skribbl-io",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8scf0us011jlywlua17qg11",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T05:29:38.068Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 13:43:37"
+}

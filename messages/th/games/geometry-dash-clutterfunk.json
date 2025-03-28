@@ -1,0 +1,77 @@
+{
+  "geometry-dash-clutterfunk": {
+    "title": "เล่น Geometry Dash Clutterfunk - เกมแพลตฟอร์มจังหวะฟรี",
+    "slogan": "สัมผัสความตื่นเต้นของ Geometry Dash Clutterfunk!",
+    "description": "Geometry Dash Clutterfunk เป็นระดับที่น่าตื่นเต้นในเกมแพลตฟอร์มจังหวะยอดนิยม Geometry Dash  มันมอบประสบการณ์ที่ตื่นเต้นให้กับผู้เล่นด้วยการออกแบบที่ดึงดูดใจและเสียงประกอบที่ไพเราะ  Clutterfunk ถูกจัดประเภทว่าเป็นระดับ Easy Demon ที่ท้าทายผู้เล่นด้วยคะแนนความยาก 10 ดาว  ดื่มด่ำไปกับการเล่นเกมที่เต็มไปด้วยการกระทำของ Geometry Dash Clutterfunk และทดสอบทักษะของคุณวันนี้!",
+    "Loading": {
+      "title": "กำลังโหลด Geometry Dash Clutterfunk..."
+    },
+    "Navbar": {
+      "title": "นำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดในการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์เพื่อน",
+      "articleList": "รายการบทความ",
+      "home": "หน้าหลัก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "Geometry Dash Clutterfunk",
+      "description": "สัมผัสระดับที่น่าตื่นเต้นของ Geometry Dash Clutterfunk เกมแพลตฟอร์มจังหวะที่มีเสียงประกอบที่ไพเราะและการออกแบบที่ดึงดูดใจ",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ลงในคลิปบอร์ดแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Geometry Dash Clutterfunk",
+      "whatIsTitle": "Geometry Dash Clutterfunk คืออะไร?",
+      "whatIsDescription": "Geometry Dash Clutterfunk เป็นระดับที่น่าตื่นเต้นในเกมแพลตฟอร์มจังหวะยอดนิยม Geometry Dash มันมอบประสบการณ์ที่ตื่นเต้นให้กับผู้เล่นด้วยการออกแบบที่ดึงดูดใจและเสียงประกอบที่ไพเราะ",
+      "howToPlayTitle": "วิธีการเล่น",
+      "howToPlayStep1": "เคลื่อนที่ผ่านระดับโดยกระโดดข้ามอุปสรรค",
+      "howToPlayStep2": "ซิงโครไนซ์การเคลื่อนไหวของคุณกับจังหวะของเสียงประกอบ",
+      "howToPlayStep3": "เสร็จสิ้นระดับเพื่อปลดล็อคความท้าทายใหม่ๆ",
+      "keyFeaturesTitle": "คุณสมบัติหลัก",
+      "feature1Title": "การออกแบบที่น่าตื่นเต้น",
+      "feature1Description": "สัมผัสกับการออกแบบระดับที่ดึงดูดสายตา",
+      "feature2Title": "เสียงประกอบที่ไพเราะ",
+      "feature2Description": "ดื่มด่ำไปกับเสียงประกอบในจังหวะ",
+      "feature3Title": "ระดับ Easy Demon",
+      "feature3Description": "ท้าทายตัวเองด้วยคะแนนความยาก 10 ดาว",
+      "feature4Title": "การเล่นเกมแพลตฟอร์ม",
+      "feature4Description": "เพลิดเพลินไปกับประสบการณ์การเล่นเกมแพลตฟอร์มจังหวะที่ตื่นเต้น"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "ขอแนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นของผู้เล่น"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

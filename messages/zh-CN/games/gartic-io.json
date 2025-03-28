@@ -1,0 +1,77 @@
+{
+  "gartic-io": {
+    "title": "Gartic.io：在线多人绘画和猜谜游戏",
+    "slogan": "绘画、猜谜，尽享乐趣！",
+    "description": "Gartic.io是一款令人兴奋的在线多人游戏，让创意与猜谜碰撞。玩家轮流绘画和猜测词语，完美地融合了乐趣和挑战。无论你是艺术家还是词汇爱好者，Gartic.io都能带给你无尽的娱乐。立即加入，免费畅玩！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "Gartic.io：在线绘画和猜谜",
+      "description": "体验Gartic.io带来的乐趣，与朋友或陌生人在线绘画、猜谜，尽享欢乐。这款适合所有年龄段的游戏，以一种创造性和引人入胜的方式测试你的绘画和猜谜技巧。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Gartic.io：终极绘画和猜谜游戏",
+      "whatIsTitle": "Gartic.io是什么？",
+      "whatIsDescription": "Gartic.io是一个在线多人游戏，玩家轮流绘画和猜测词语。这是一种有趣且富有创意的方式来测试你的绘画和猜谜技巧。",
+      "howToPlayTitle": "如何玩游戏",
+      "howToPlayStep1": "轮流绘画给你的单词。",
+      "howToPlayStep2": "其他玩家尝试猜测你在画什么。",
+      "howToPlayStep3": "正确猜测和创意绘画得分。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "多人乐趣",
+      "feature1Description": "与来自世界各地的好友或陌生人一起玩耍。",
+      "feature2Title": "创意绘画",
+      "feature2Description": "使用各种绘画工具表达你的艺术技能。",
+      "feature3Title": "词语猜谜",
+      "feature3Description": "用各种词语测试你的猜谜技能。",
+      "feature4Title": "无尽的娱乐",
+      "feature4Description": "享受无尽的乐趣和创造力。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

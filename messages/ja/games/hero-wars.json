@@ -1,0 +1,77 @@
+{
+  "hero-wars": {
+    "title": "ヒーローウォーズ - エピックファンタジーRPGアドベンチャー",
+    "slogan": "英雄を集め、闇を征服せよ！",
+    "description": "ヒーローウォーズで、混沌からドミニオンの世界を救う、アクション満点のRPGの壮大な冒険に乗り出しましょう。強力な英雄チームを集め、スキルをアップグレードし、スリリングな戦いに参加してください。今日から究極のファンタジーアドベンチャーを体験してください！",
+    "Loading": {
+      "title": "読み込み中…"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "ヒーローウォーズ™",
+      "description": "ドミニオンを救うために英雄たちを率いる、壮大なファンタジーRPGヒーローウォーズへ！ スキルをアップグレードし、戦術を練り、混沌を征服しましょう。今すぐ冒険を始めましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ヒーローウォーズ -究極のRPG体験",
+      "whatIsTitle": "ヒーローウォーズとは？",
+      "whatIsDescription": "ヒーローウォーズは、ファンタジー世界ドミニオンを闇と混沌から救うための壮大な冒険にあなたを連れて行く、アクション満点のRPGです。強力な英雄チームを集め、スキルをアップグレードし、強力な敵とスリリングな戦いに参加しましょう。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "強力な英雄チームを集めましょう。",
+      "howToPlayStep2": "英雄のスキルと装備をアップグレードしましょう。",
+      "howToPlayStep3": "戦略的な戦いを繰り広げ、敵を征服しましょう。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "エピックヒーロー",
+      "feature1Description": "多様な英雄のリストを募集して強化しましょう。",
+      "feature2Title": "戦略的な戦闘",
+      "feature2Description": "あなたの動きを計画し、強力な敵を倒しましょう。",
+      "feature3Title": "ファンタジーの世界",
+      "feature3Description": "ドミニオンの魔法の世界を探検しましょう。",
+      "feature4Title": "チームアップ",
+      "feature4Description": "友人と協力して、より大きな課題に取り組みましょう。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリ",
+      "noCategories": "カテゴリが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

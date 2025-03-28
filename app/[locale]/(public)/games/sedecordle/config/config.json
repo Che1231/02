@@ -1,0 +1,122 @@
+{
+  "name": "Sedecordle",
+  "pagePath": "/games/sedecordle",
+  "pageName": "sedecordle",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.sedecordle.com/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "CosmicKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicKraken87.png",
+      "content": "Sedecordle is such a brain workout! Solving multiple puzzles simultaneoulsy is crazy fun. Love it!"
+    },
+    {
+      "author": "SavageBroadsword_Z",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBroadsword_Z.png",
+      "content": "This charade game is somethin' else. So addictive. Can't stop playing... send help! LOL."
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Whoa, Sedecordle really tests your word skills. The varying difficulty levels keep me hooked!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Is it just me, or is Sedecordle, like, the best word game ever? It's way better than Wordle!"
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "Multiple levels? Simultaneous puzzles? Sedecordle got me good!"
+    },
+    {
+      "author": "PhantomLeviathan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomLeviathan99.png",
+      "content": "Okay, Sedecordle is seriously challenging. Solving those puzzles at the same time is tricky!"
+    },
+    {
+      "author": "AdjectiveRevolver_V",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AdjectiveRevolver_V.png",
+      "content": "Just when you thought Wordle was hard! Sedecordle's simultaneous puzzle-solving? Absolute MADNESS."
+    },
+    {
+      "author": "CyberPunk2078",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CyberPunk2078.png",
+      "content": "The varying difficulty makes it challenging! I haven't had this much fun with a word game in ages."
+    },
+    {
+      "author": "zZ_LightBlade_Zz",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/zZ_LightBlade_Zz.png",
+      "content": "Sedecordle is great. I've had a lot of fun playing; simultaneous puzzles... what a blast!"
+    },
+    {
+      "author": "StalkingPhoenix42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix42.png",
+      "content": "Sedecordle has varying difficulty? I'm in! Prepare to have your brain properly wrung out!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/sedecordle/sedecordle-m200x130.webp",
+  "page_path": "/games/sedecordle",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8scbnep00xvlywlqhr4xbkm",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T05:27:00.672Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 13:29:07"
+}

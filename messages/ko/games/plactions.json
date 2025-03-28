@@ -1,0 +1,77 @@
+{
+  "plactions": {
+    "title": "플레이 플랙션: 무료 온라인 액션 플랫폼 게임",
+    "slogan": "플랙션에서 점프, 등반, 그리고 전투를!",
+    "description": "플랙션은 정확성과 기술을 시험하는 액션 가득한 플랫폼 게임입니다. 짜릿한 점프, 등반, 그리고 전투 도전으로, 플랙션은 고전적인 게임플레이와 현대적인 장애물의 독특한 조합을 제공합니다. 다채로운 세계로 뛰어들고, 덩어리 형태의 우주를 어둠의 세력으로부터 구원하는 영웅이 되세요. 최고의 액션 경험을 준비하셨나요? 지금 플랙션을 플레이하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "이용 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친선 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "플랙션: 액션 플랫폼 게임",
+      "description": "액션 가득한 게임플레이가 특징인 도전적인 플랫폼 게임, 플랙션의 짜릿함을 경험하세요. 믿을 수 없는 도전을 통해 점프, 등반, 그리고 전투를 벌여보세요. 지금 플랙션을 플레이하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "플랙션: 액션 플랫폼 게임",
+      "whatIsTitle": "플랙션이란 무엇인가요?",
+      "whatIsDescription": "플랙션은 작은 영웅으로 변신하여 탐험하는, 다채롭고 도전적인 플랫폼 게임입니다. 짜릿한 점프, 등반, 그리고 전투 도전을 통해 덩어리 형태의 세계를 어둠의 세력으로부터 구원하세요.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "정확한 점프로 장애물을 극복하세요.",
+      "howToPlayStep2": "플랫폼을 오르내려 더 높은 지역에 도달하세요.",
+      "howToPlayStep3": "적을 물리쳐 길을 터고 세상을 구하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "액션 가득한 게임플레이",
+      "feature1Description": "짜릿한 점프, 등반, 전투 도전을 경험하세요.",
+      "feature2Title": "다채로운 세계",
+      "feature2Description": "장애물로 가득 찬 생생하고 덩어리 형태의 우주를 탐험하세요.",
+      "feature3Title": "영웅적인 임무",
+      "feature3Description": "세상을 어둠의 세력으로부터 구원하는 영웅이 되세요.",
+      "feature4Title": "현대적인 도전",
+      "feature4Description": "고전적인 게임플레이와 현대적인 게임플레이를 융합한 독특한 장애물을 정복하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "dordle": {
+    "title": "Dordle: Die ultimative Wort-Herausforderung",
+    "slogan": "Verdoppeln Sie die Wörter, verdoppeln Sie den Spaß",
+    "description": "Dordle ist eine spannende Variante von Wordle, die dem Gameplay einen einzigartigen Dreh verleiht. Während die grundlegenden Mechaniken gleich bleiben, fordert Dordle Sie heraus, nicht nur ein, sondern zwei Wörter gleichzeitig zu erraten, um Fortschritte zu erzielen. Lassen Sie sich jedoch von der scheinbaren Einfachheit nicht täuschen; dieses Spiel hat mehr zu bieten, als auf den ersten Blick erkennbar ist.",
+    "Loading": {
+      "title": "Wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzerklärung",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Nächste",
+      "previous": "Vorherige"
+    },
+    "HomeIframe": {
+      "title": "Dordle: Die ultimative Wort-Herausforderung",
+      "description": "Dordle ist eine spannende Variante von Wordle, die dem Gameplay einen einzigartigen Dreh verleiht. Während die grundlegenden Mechaniken gleich bleiben, fordert Dordle Sie heraus, nicht nur ein, sondern zwei Wörter gleichzeitig zu erraten, um Fortschritte zu erzielen. Lassen Sie sich jedoch von der scheinbaren Einfachheit nicht täuschen; dieses Spiel hat mehr zu bieten, als auf den ersten Blick erkennbar ist.",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Dordle: Die ultimative Wort-Herausforderung",
+      "whatIsTitle": "Was ist Dordle?",
+      "whatIsDescription": "Dordle ist eine spannende Variante von Wordle, die dem Gameplay einen einzigartigen Dreh verleiht. Während die grundlegenden Mechaniken gleich bleiben, fordert Dordle Sie heraus, nicht nur ein, sondern zwei Wörter gleichzeitig zu erraten, um Fortschritte zu erzielen. Lassen Sie sich jedoch von der scheinbaren Einfachheit nicht täuschen; dieses Spiel hat mehr zu bieten, als auf den ersten Blick erkennbar ist.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Raten Sie gleichzeitig zwei Wörter.",
+      "howToPlayStep2": "Verwenden Sie das Feedback, um Ihre Vermutungen zu verfeinern.",
+      "howToPlayStep3": "Machen Sie Fortschritte, indem Sie beide Wörter richtig erraten.",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
+      "feature1Title": "Verdoppelte Herausforderung",
+      "feature1Description": "Raten Sie gleichzeitig zwei Wörter für einen einzigartigen Dreh.",
+      "feature2Title": "Erweiterte Strategie",
+      "feature2Description": "Nutzen Sie das Feedback von beiden Wörtern, um Ihre Vermutungen zu verfeinern.",
+      "feature3Title": "Spannendes Gameplay",
+      "feature3Description": "Hält Sie mit seinen innovativen Mechanismen gefesselt.",
+      "feature4Title": "Für alle zugänglich",
+      "feature4Description": "Einfach zu erlernen, aber schwer zu meistern."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

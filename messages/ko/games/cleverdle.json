@@ -1,0 +1,77 @@
+{
+  "cleverdle": {
+    "title": "온라인 클레버들 플레이 - 무료 단어 퍼즐 게임",
+    "slogan": "클레버들로 단어 실력을 테스트하세요!",
+    "description": "클레버들은 어휘력과 논리적 사고를 시험하는 매혹적인 단어 퍼즐 게임입니다. 수백 가지 다양한 퍼즐로 클레버들은 오락과 정신적 운동의 독특한 조화를 제공합니다. 각 레벨은 단지 여섯 번의 추측으로 다섯 글자 단어를 풀기 위해 창의력과 전략적 사고를 필요로 합니다. 클레버들의 세계로 뛰어들어 신비와 발견으로 가득 찬 여정을 즐기세요. 지금 플레이하여 단어 실력을 향상시키세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "내용",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "Cleverdle™ - 무료 단어 퍼즐 게임",
+      "description": "클레버들은 어휘력과 논리적 능력을 시험하는 도전적인 단어 퍼즐 게임입니다. 지금 플레이하여 여섯 번의 추측으로 다섯 글자 단어를 풀어보세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Cleverdle™ - 최고의 단어 퍼즐 도전",
+      "whatIsTitle": "클레버들란 무엇인가?",
+      "whatIsDescription": "클레버들은 오락과 정신 운동을 결합한 단어 퍼즐 게임입니다. 플레이어는 다섯 글자 단어를 여섯 번의 추측으로 풀어 어휘력과 논리적 사고를 향상시킵니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "다섯 글자 단어를 추측하여 시작합니다.",
+      "howToPlayStep2": "색상 힌트를 사용하여 다음 추측을 개선하세요.",
+      "howToPlayStep3": "여섯 번의 시도 안에 단어를 풀고 이겨세요!",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "도전적인 퍼즐",
+      "feature1Description": "단어 실력을 시험하는 수백 가지 다양한 퍼즐이 있습니다.",
+      "feature2Title": "정신적 운동",
+      "feature2Description": "각 레벨을 통해 어휘력과 논리적 사고력을 향상시키세요.",
+      "feature3Title": "전략적 게임",
+      "feature3Description": "전략적인 사고를 사용하여 단지 여섯 번의 추측으로 다섯 글자 단어를 풀어보세요.",
+      "feature4Title": "몰입형 경험",
+      "feature4Description": "신비와 발견으로 가득 찬 클레버들 여정을 즐기세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 코멘트"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

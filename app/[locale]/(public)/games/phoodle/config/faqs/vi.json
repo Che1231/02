@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Cách nào để người mới bắt đầu chơi Phoodle và hiểu được cơ chế cơ bản của nó?",
+    "answer": "Để bắt đầu chơi Phoodle, trước tiên hãy tải game từ cửa hàng ứng dụng bạn muốn. Khi khởi chạy, bạn sẽ được hướng dẫn qua một hướng dẫn giải thích các cơ chế cốt lõi: đoán từ chính xác trong một số lần thử hạn chế. Mỗi lần đoán sẽ cung cấp phản hồi về độ chính xác và vị trí của chữ cái. Ví dụ, nếu bạn đoán \"TÁO\" và từ đúng là \"NHO\", các chữ cái \"T\" và \"Á\" có thể được tô màu vàng, cho biết chúng có trong từ nhưng ở vị trí sai. Phản hồi ngay lập tức này giúp bạn tinh chỉnh các lần đoán tiếp theo. [Ví dụ minh họa: Hãy nghĩ về nó như một trò chơi ô chữ, nơi mỗi lần đoán thu hẹp khả năng.]"
+  },
+  {
+    "question": "Những chiến lược tốt nhất để cải thiện độ chính xác trong việc đoán từ trong Phoodle sau 100 giờ chơi?",
+    "answer": "Sau 100 giờ chơi, bạn nên tập trung vào việc tối ưu hóa chiến lược đoán từ của mình. BƯỚC 1: Bắt đầu với một từ chứa sự pha trộn của các nguyên âm và phụ âm phổ biến, chẳng hạn như \"CẦU\". BƯỚC 2: Phân tích phản hồi để loại trừ các chữ cái và vị trí không thể. Ví dụ, nếu \"C\" không có trong từ, hãy tránh các từ chứa \"C\" trong các lần đoán tiếp theo. BƯỚC 3: Sử dụng phương pháp loại trừ để thu hẹp khả năng. Ví dụ, nếu bạn biết từ có chứa \"Ú\" nhưng không ở vị trí cuối cùng, hãy thử các từ như \"BÀN\" hoặc \"NHO\". [So sánh nhiều giải pháp: So sánh \"CẦU\" so với \"ÂM THANH\" làm từ khởi điểm có thể giúp bạn quyết định chiến lược nào hoạt động tốt nhất cho bạn.]"
+  },
+  {
+    "question": "Tại sao Phoodle giới hạn số lần đoán, và điều này ảnh hưởng đến gameplay như thế nào?",
+    "answer": "Phoodle giới hạn số lần đoán để thêm một lớp thách thức và chiến lược vào trò chơi. Hạn chế này buộc người chơi phải suy nghĩ cẩn trọng về mỗi lần đoán thay vì dựa trên sức mạnh thô. Ví dụ, nếu bạn chỉ có sáu lần đoán để đoán một từ năm chữ cái, mỗi lần đoán phải có nhiều thông tin nhất có thể. Giới hạn này cũng phản ánh các tình huống giải quyết vấn đề trong thế giới thực, nơi tài nguyên có hạn. [Ví dụ minh họa: Nó giống như giải một bí ẩn với những manh mối hạn chế; mỗi lần đoán phải chính xác và được cân nhắc kỹ lưỡng.]"
+  },
+  {
+    "question": "Hệ thống điểm số của Phoodle hoạt động như thế nào, và những yếu tố nào ảnh hưởng đến điểm số cuối cùng của bạn?",
+    "answer": "Hệ thống điểm của Phoodle dựa trên số lần thử bạn cần để đoán từ chính xác. Số lần thử ít hơn sẽ dẫn đến điểm số cao hơn. Ngoài ra, trò chơi có thể tính đến sự phức tạp của từ và thời gian cần để thực hiện mỗi lần đoán. Ví dụ, đoán \"NHO\" trong ba lần thử sẽ mang lại điểm số cao hơn so với việc đoán nó trong sáu lần thử. [Bảng so sánh cấu hình: Một bảng so sánh điểm số dựa trên số lần thử và độ phức tạp của từ có thể giúp người chơi hiểu cách tối đa hóa điểm số của họ.]"
+  },
+  {
+    "question": "Những yêu cầu kỹ thuật để chạy Phoodle trên các nền tảng khác nhau, và chúng có sự so sánh như thế nào?",
+    "answer": "Phoodle được thiết kế để nhẹ nhàng và tương thích với nhiều thiết bị. Đối với iOS, nó yêu cầu iOS 12.0 trở lên, và đối với Android, nó yêu cầu Android 6.0 trở lên. Thiết kế tối giản của game đảm bảo hiệu suất mượt mà ngay cả trên các thiết bị cũ hơn. Ví dụ, một iPhone 6s chạy iOS 12 có thể chạy Phoodle mà không gặp vấn đề gì, trong khi một điện thoại Android giá rẻ có 2GB RAM cũng hoạt động tốt. [Bảng so sánh cấu hình: Một bảng so sánh các yêu cầu kỹ thuật cho iOS và Android có thể giúp người chơi đảm bảo thiết bị của họ tương thích.]"
+  },
+  {
+    "question": "Làm thế nào để di chuyển tiến trình Phoodle của bạn từ một thiết bị này sang một thiết bị khác mà không mất dữ liệu?",
+    "answer": "Để di chuyển tiến trình Phoodle của bạn, hãy sử dụng tính năng lưu trên đám mây có sẵn trong cài đặt của game. BƯỚC 1: Trên thiết bị hiện tại của bạn, vào cài đặt và bật lưu trên đám mây. BƯỚC 2: Đăng nhập bằng cùng một tài khoản trên thiết bị mới của bạn. BƯỚC 3: Kích hoạt lưu trên đám mây một lần nữa để đồng bộ tiến trình của bạn. Ví dụ, nếu bạn ở cấp độ 20 trên thiết bị cũ, bạn sẽ bắt đầu ở cấp độ 20 trên thiết bị mới. [Sơ đồ quy trình: Sơ đồ quy trình minh họa quy trình di chuyển có thể giúp người chơi dễ dàng làm theo các bước.]"
+  },
+  {
+    "question": "Những tính năng ẩn hoặc trứng Phục sinh nào người chơi có thể khám phá trong Phoodle sau khi chơi nhiều?",
+    "answer": "Phoodle bao gồm một số tính năng ẩn và trứng Phục sinh dành cho những người chơi cống hiến. Một trong những tính năng đó là chế độ \"Từ Vàng\", được mở khóa sau 100 lần đoán đúng liên tiếp. Trong chế độ này, từ cần đoán được tô vàng, và người chơi nhận được điểm thưởng khi đoán đúng. Một trứng Phục sinh khác là \"Từ điển Bí mật\", có thể truy cập bằng cách vuốt sang trái ba lần trên màn hình chính. Từ điển này chứa các từ hiếm và khó hiểu có thể được sử dụng trong trò chơi. [Ví dụ minh họa: Việc khám phá các tính năng này giống như việc tìm kho báu ẩn trong một vùng đất mênh mông chưa được khám phá.]"
+  },
+  {
+    "question": "Thuật toán của Phoodle xác định độ khó của mỗi từ như thế nào, và người chơi có thể ảnh hưởng đến điều này không?",
+    "answer": "Thuật toán của Phoodle gán các mức độ khó cho các từ dựa trên độ dài, độ phức tạp và tần suất sử dụng trong tiếng Anh. Ví dụ, một từ năm chữ cái như \"NHO\" có thể được coi là dễ hơn so với một từ bảy chữ cái như \"ZYGOTIC\". Người chơi có thể ảnh hưởng đến độ khó bằng cách chọn các chế độ trò chơi khác nhau, chẳng hạn như \"Chế độ Dễ\" cho các từ ngắn hơn hoặc \"Chế độ Khó\" cho các từ dài hơn, phức tạp hơn. [Bảng so sánh cấu hình: Một bảng hiển thị các mức độ khó của từ trong các chế độ khác nhau có thể giúp người chơi lựa chọn thách thức phù hợp với trình độ của mình.]"
+  },
+  {
+    "question": "Những sai lầm phổ biến nhất mà người mới chơi mắc phải trong Phoodle, và làm thế nào để họ tránh chúng?",
+    "answer": "Những người mới chơi thường mắc phải sai lầm là đoán ngẫu nhiên các từ mà không có chiến lược, điều này làm phí phạm lượt đoán. Một sai lầm phổ biến khác là bỏ qua phản hồi được cung cấp sau mỗi lần đoán. Để tránh những sai lầm này, hãy luôn bắt đầu bằng một từ chứa sự pha trộn của các nguyên âm và phụ âm phổ biến, chẳng hạn như \"CẦU\". Hãy chú ý đến phản hồi; ví dụ, nếu \"A\" có trong từ nhưng không ở vị trí đầu tiên, hãy điều chỉnh lần đoán tiếp theo của bạn thích hợp. [So sánh nhiều giải pháp: So sánh các chiến lược đoán từ hiệu quả với các chiến lược không hiệu quả có thể giúp người mới chơi hiểu tầm quan trọng của một cách tiếp cận có cấu trúc.]"
+  },
+  {
+    "question": "Chế độ thách thức hàng ngày của Phoodle hoạt động như thế nào, và những lợi ích nào khi tham gia?",
+    "answer": "Chế độ thách thức hàng ngày của Phoodle đưa ra một từ duy nhất để đoán mỗi ngày. Chế độ này được thiết kế để kiểm tra kỹ năng của bạn và giữ cho trò chơi mới mẻ. Những lợi ích khi tham gia bao gồm kiếm điểm thưởng, mở khóa thành tích đặc biệt và cải thiện chiến lược đoán từ tổng thể. Ví dụ, đoán thành công từ hàng ngày \"ZYGOTIC\" có thể thưởng cho bạn 50 điểm thưởng và một huy hiệu đặc biệt. [Ví dụ minh họa: Thách thức hàng ngày giống như một bài kiểm tra mini để giữ cho tâm trí bạn sắc bén và sẵn sàng cho những câu đố tiếp theo.]"
+  }
+]

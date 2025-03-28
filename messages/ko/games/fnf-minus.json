@@ -1,0 +1,77 @@
+{
+  "fnf-minus": {
+    "title": "FNF 마이너스 - 무료 온라인 리듬 배틀 게임",
+    "slogan": "최소한의 시각 효과가 강렬한 리듬 배틀을 만납니다!",
+    "description": "최소한의 시각 효과가 강렬한 리듬 배틀이 펼쳐지는 FNF 마이너스에서 싸움에 참여하세요! 비트를 따라잡고 상대를 압도할 수 있을까요? FNF 마이너스는 춤추는 음악 파티를 초대합니다. 새로운 캐릭터 디자인, 도전적인 멜로디, 독특한 그래픽 스타일을 즐겨보세요. 지금 FNF 마이너스를 플레이하고 흥분을 경험하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친선 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "FNF 마이너스",
+      "description": "FNF 마이너스에서 최고의 리듬 배틀을 경험하세요. 새로운 캐릭터 디자인과 강렬한 비트로 자신을 테스트해보세요. 지금 플레이하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "FNF 마이너스",
+      "whatIsTitle": "FNF 마이너스는 무엇인가요?",
+      "whatIsDescription": "FNF 마이너스는 여자친구의 인정을 얻기 위해 랩 배틀을 벌이는 보이프렌드가 플레이어인 리듬 배틀 게임입니다. 새롭게 디자인된 캐릭터와 도전적인 멜로디를 즐겨보세요.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "비트에 맞춰 화살표 키를 사용하세요.",
+      "howToPlayStep2": "리듬을 유지하고 상대를 압도하세요.",
+      "howToPlayStep3": "독특한 그래픽 스타일과 도전적인 멜로디를 즐겨보세요.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "새로운 캐릭터 디자인",
+      "feature1Description": "모든 캐릭터는 자신의 체력 게이지 아이콘을 기반으로 새롭게 디자인되었습니다.",
+      "feature2Title": "도전적인 멜로디",
+      "feature2Description": "곡은 동일하지만 속도와 강도가 높아졌습니다.",
+      "feature3Title": "독특한 그래픽 스타일",
+      "feature3Description": "전체 그래픽 스타일이 변경되어 새로운 공간을 연출합니다.",
+      "feature4Title": "강렬한 리듬 배틀",
+      "feature4Description": "여자친구의 인정을 얻기 위해 랩 배틀에 참여하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

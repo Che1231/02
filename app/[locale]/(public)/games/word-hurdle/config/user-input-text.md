@@ -1,0 +1,1 @@
+Spatial reasoning and vocabulary skills are important in daily life. If you enjoy word games, you may have encountered some that test your quick thinking and intelligent responses. Word Hurdle is a straightforward yet challenging word game that can enhance your vocabulary and spatial reasoning abilities.

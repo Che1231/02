@@ -1,0 +1,77 @@
+{
+  "geometry-dash-cataclysm": {
+    "title": "線上遊玩幾何跑酷災變 - 極限惡魔關卡",
+    "slogan": "挑戰極限惡魔三部曲",
+    "description": "幾何跑酷災變是一個極具挑戰性的關卡，評分為10星，擁有3枚使用者硬幣。作為極限惡魔三部曲的第一集，它提供著高強度的遊戲玩法和獨特的體驗。潛入這個標誌性關卡，測試你的技能，並加入幾何跑酷社群。現在就玩幾何跑酷災變，接受挑戰！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "幾何跑酷災變",
+      "description": "體驗幾何跑酷災變的強烈挑戰，這個評級10星的關卡擁有3枚使用者硬幣。現在就開始遊玩，並加入社群！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "遊玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "幾何跑酷災變",
+      "whatIsTitle": "幾何跑酷災變是什麼？",
+      "whatIsDescription": "幾何跑酷災變是一個極具挑戰性的關卡，評分為10星，擁有3枚使用者硬幣。它是極限惡魔三部曲的第一集，提供獨特且高強度的遊戲體驗。",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "以精準的時間控制來穿越障礙物。",
+      "howToPlayStep2": "收集使用者硬幣以解鎖特殊功能。",
+      "howToPlayStep3": "完成關卡以獲得高分。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "極限挑戰",
+      "feature1Description": "透過評級為10星的關卡來測試你的技巧。",
+      "feature2Title": "使用者硬幣",
+      "feature2Description": "收集3枚使用者硬幣來強化你的遊戲體驗。",
+      "feature3Title": "標誌性關卡",
+      "feature3Description": "體驗極限惡魔三部曲的第一集。",
+      "feature4Title": "社群最愛",
+      "feature4Description": "加入幾何跑酷社群並分享你的進度。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到分類",
+      "viewMore": "檢視更多",
+      "page": "頁數"
+    }
+  }
+}

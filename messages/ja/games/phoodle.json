@@ -1,0 +1,77 @@
+{
+  "phoodle": {
+    "title": "オンラインPhoodleプレイ：無料のシェフをテーマにした単語パズルゲーム",
+    "slogan": "6回の試みで料理の単語を当ててください！",
+    "description": "Phoodleは、Wordleをヒントにしたシェフをテーマにした単語パズルゲームです。材料、調理法、有名なシェフに関連する5文字の単語を毎日挑戦してください。正しく当てて、興味深い料理の事実を解禁しましょう。無料でPhoodleをプレイして、あなたの料理の専門知識を試してみてください！",
+    "Loading": {
+      "title": "Phoodleを読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "Phoodle：シェフをテーマにした単語パズルゲーム",
+      "description": "Phoodleは、料理好きのためのプレイ可能なゲームです。6回の試みで5文字の料理の単語を当てて、毎日料理の課題を解禁しましょう。今すぐPhoodleをプレイしましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Phoodle：シェフをテーマにした単語パズル",
+      "whatIsTitle": "Phoodleとは？",
+      "whatIsDescription": "Phoodleは、Wordleをヒントにしたシェフをテーマにした単語パズルゲームです。プレイヤーは、6回の試行で5文字の料理に関連する単語を当てる必要があります。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "5文字の料理に関連する単語を推測します。",
+      "howToPlayStep2": "色の付いた文字からのヒントを使用して、推測を絞り込みます。",
+      "howToPlayStep3": "正しく推測することで、料理の事実を解禁しましょう！",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "日々の課題",
+      "feature1Description": "毎日新しい料理に関連する単語をお楽しみください。",
+      "feature2Title": "色分けされたヒント",
+      "feature2Description": "緑、黄色、灰色などのヒントを使用して、推測を導きます。",
+      "feature3Title": "無制限のプレイ可能性",
+      "feature3Description": "いつでもPhoodleをプレイして、無限の楽しさを体験してください。",
+      "feature4Title": "料理の事実",
+      "feature4Description": "各正解で興味深い料理のヒントを学びます。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームのコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

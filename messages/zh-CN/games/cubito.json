@@ -1,0 +1,77 @@
+{
+  "cubito": {
+    "title": "Cubito：开启挑战",
+    "slogan": "在Cubito中开启挑战！",
+    "description": "踏上Cubito的迷人冒险之旅，在那里，您将应对令人费解的谜题并巧妙地避开障碍。收集物品，克服挑战，并在充满炫目光彩立方体的世界中发现隐藏的秘密。沉浸在这款快速、色彩缤纷的旅程中，并测试您的反应能力以获得令人印象深刻的分数。准备好玩Cubito了吗？现在开始您的冒险！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "Cubito：开启挑战",
+      "description": "体验Cubito的刺激快感，这是一款节奏快速的冒险游戏，您可以在充满炫目光彩立方体的世界中收集物品、克服障碍并发现秘密。测试您的反应能力，沉浸在这场引人入胜的旅程中。现在玩Cubito，看看您能走多远！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Cubito：开启挑战",
+      "whatIsTitle": "Cubito是什么？",
+      "whatIsDescription": "Cubito是一款引人入胜的冒险游戏，玩家将穿梭于充满炫目光彩立方体的世界，收集物品、克服障碍，并发现隐藏的秘密。快速的游戏玩法需要敏捷的反应和高度的专注力才能取得令人印象深刻的成绩。",
+      "howToPlayTitle": "如何游戏",
+      "howToPlayStep1": "通过点击鼠标来导航您的角色在平台上移动。",
+      "howToPlayStep2": "通过按每个按键来改变跑道，以避开空隙和障碍。",
+      "howToPlayStep3": "收集物品并克服挑战以获得高分。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "快节奏的游戏玩法",
+      "feature1Description": "Cubito的游戏玩法旨在通过其快节奏的动作来测试您的反应能力和专注力。",
+      "feature2Title": "炫目光彩的立方体世界",
+      "feature2Description": "沉浸在由简单而富有挑战性的立方体组成的丰富多彩的世界中。",
+      "feature3Title": "便于记忆的轨道设计",
+      "feature3Description": "Cubito中的主要轨道在每次重播后保持不变，通过记忆帮助您提高性能。",
+      "feature4Title": "适应新的障碍",
+      "feature4Description": "注意新的障碍，并迅速适应以避免它们，并获得更高的分数。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "类别",
+      "noCategories": "未找到类别",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

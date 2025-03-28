@@ -1,0 +1,114 @@
+{
+  "recommended": [],
+  "categories": [
+    {
+      "name": "Giochi in Evidenza",
+      "path": "/c/featured",
+      "pageSize": 15,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Abbiamo selezionato i migliori giochi per te!"
+    },
+    {
+      "name": "Giochi Arcade",
+      "path": "/c/arcade-games",
+      "pageSize": 15,
+      "backgroundColor": "#d2e7ff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Emozionanti giochi arcade!",
+      "position": 2
+    },
+    {
+      "name": "Giochi d'Azione",
+      "path": "/c/action",
+      "pageSize": 15,
+      "backgroundColor": "#c1f8cf",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Emozionanti giochi d'azione!",
+      "position": 3
+    },
+    {
+      "name": "Giochi d'Avventura",
+      "path": "/c/adventure-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 4,
+      "description": "Emozionanti giochi d'avventura!"
+    },
+    {
+      "name": "Giochi Wordleverse",
+      "path": "/c/wordleverse-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 5,
+      "description": "Emozionanti giochi Wordleverse!"
+    },
+    {
+      "name": "Giochi .IO",
+      "path": "/c/io-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 6,
+      "description": "Emozionanti giochi .IO!"
+    },
+    {
+      "name": "Giochi Casual",
+      "path": "/c/casual-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 7,
+      "description": "Emozionanti giochi casuali!"
+    },
+    {
+      "name": "Giochi di Puzzle",
+      "path": "/c/puzzle-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 8,
+      "description": "Emozionanti giochi di puzzle!"
+    },
+    {
+      "name": "Giochi di Corse e Guida",
+      "path": "/c/racing-driving",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 9,
+      "description": "Emozionanti giochi di corse e guida!"
+    },
+    {
+      "name": "Giochi 3D",
+      "path": "/c/3d-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 10,
+      "description": "Emozionanti giochi 3D!"
+    },
+    {
+      "name": "Giochi Sportivi",
+      "path": "/c/sports-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 11,
+      "description": "Emozionanti giochi sportivi!"
+    }
+  ]
+}

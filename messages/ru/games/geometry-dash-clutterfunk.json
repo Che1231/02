@@ -1,0 +1,77 @@
+{
+  "geometry-dash-clutterfunk": {
+    "title": "Игра Geometry Dash Clutterfunk — бесплатная игра-платформер с ритмическим режимом",
+    "slogan": "Почувствуйте азарт Geometry Dash Clutterfunk!",
+    "description": "Geometry Dash Clutterfunk — это захватывающий уровень в популярной игре-платформере с ритмическим режимом Geometry Dash. Он предлагает игрокам захватывающий опыт благодаря своему увлекательному дизайну и пульсирующему саундтреку. Clutterfunk классифицируется как лёгкий демон-уровень, бросающий вызов игрокам с рейтингом сложности 10 звезд. Погрузитесь в динамичный игровой процесс Geometry Dash Clutterfunk и проверьте свои навыки сегодня же!",
+    "Loading": {
+      "title": "Загрузка Geometry Dash Clutterfunk..."
+    },
+    "Navbar": {
+      "title": "Навигация"
+    },
+    "Common": {
+      "createAt": "Создано",
+      "guide": "Руководство",
+      "privacyPolicy": "Политика конфиденциальности",
+      "termsOfServices": "Условия обслуживания",
+      "text": "Содержание",
+      "help": "Помощь",
+      "friendlyLinks": "Полезные ссылки",
+      "articleList": "Список статей",
+      "home": "Главная",
+      "next": "Далее",
+      "previous": "Предыдущий"
+    },
+    "HomeIframe": {
+      "title": "Geometry Dash Clutterfunk",
+      "description": "Почувствуйте завораживающий уровень Geometry Dash Clutterfunk, игры-платформера с ритмическим режимом, пульсирующим саундтреком и увлекательным дизайном.",
+      "iframeTitle": "Предварительный просмотр игры",
+      "fullscreenButton": "Полный экран",
+      "shareButton": "Поделиться",
+      "urlCopied": "Ссылка скопирована в буфер обмена!",
+      "downloadGame": "Скачать игру",
+      "playGame": "Играть"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Geometry Dash Clutterfunk",
+      "whatIsTitle": "Что такое Geometry Dash Clutterfunk?",
+      "whatIsDescription": "Geometry Dash Clutterfunk — это захватывающий уровень в популярной игре-платформере с ритмическим режимом Geometry Dash. Он предлагает игрокам захватывающий опыт благодаря своему увлекательному дизайну и пульсирующему саундтреку.",
+      "howToPlayTitle": "Как играть",
+      "howToPlayStep1": "Проходите уровень, перепрыгивая препятствия.",
+      "howToPlayStep2": "Синхронизируйте свои движения с ритмом саундтрека.",
+      "howToPlayStep3": "Завершите уровень, чтобы открыть новые вызовы.",
+      "keyFeaturesTitle": "Ключевые особенности",
+      "feature1Title": "Захватывающий дизайн",
+      "feature1Description": "Почувствуйте визуально привлекательный дизайн уровня.",
+      "feature2Title": "Пульсирующий саундтрек",
+      "feature2Description": "Погрузитесь в ритмический саундтрек.",
+      "feature3Title": "Лёгкий демон-уровень",
+      "feature3Description": "Проверьте себя с рейтингом сложности 10 звезд.",
+      "feature4Title": "Игровой процесс платформера",
+      "feature4Description": "Насладитесь захватывающим опытом игры-платформера с ритмическим режимом."
+    },
+    "HomeFAQs": {
+      "title": "Часто задаваемые вопросы"
+    },
+    "HomeRelatedVideo": {
+      "title": "Видео игры"
+    },
+    "HomeRecommendation": {
+      "title": "Рекомендации"
+    },
+    "HomeComments": {
+      "title": "Комментарии к игре"
+    },
+    "GamePage": {
+      "title": "Все игры",
+      "description": "Все игры",
+      "games": "Игры"
+    },
+    "CategoryPage": {
+      "categories": "Категории",
+      "noCategories": "Категории не найдены",
+      "viewMore": "Показать больше",
+      "page": "Страница"
+    }
+  }
+}

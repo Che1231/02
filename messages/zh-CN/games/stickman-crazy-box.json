@@ -1,0 +1,77 @@
+{
+  "stickman-crazy-box": {
+    "title": "《疯狂小木人盒子》：免费在线益智挑战",
+    "slogan": "引导你的小木人穿过烧脑的谜题，揭开盒子的秘密！",
+    "description": "沉浸在《疯狂小木人盒子》的令人上瘾的世界中，在充满挑战的谜题中穿梭，争夺最高分数。这款游戏融合了速度、策略和反应能力，为单人玩家或朋友提供了独特的游戏体验。选择各种迷你游戏，每个游戏都有其独特的规则和计分方法。无论你独自游戏还是与朋友组队（2v2），目标都只有一个：收集最多的奖杯并取得胜利！准备好迎接挑战了吗？现在就玩《疯狂小木人盒子》！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "《疯狂小木人盒子》",
+      "description": "体验《疯狂小木人盒子》的刺激，这款游戏结合了速度、策略和反应能力，在一系列烧脑的谜题中进行游戏。单人或与朋友一起在各种迷你游戏中竞争，每个游戏都有独特的规则和计分方式。收集最多的奖杯并取得胜利！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "《疯狂小木人盒子》",
+      "whatIsTitle": "什么是《疯狂小木人盒子》？",
+      "whatIsDescription": "《疯狂小木人盒子》是一款引人入胜的益智游戏，挑战你的速度、策略和反应能力。在各种迷你游戏中穿梭，每个游戏都有独特的规则和计分方法，并争夺最高分数。",
+      "howToPlayTitle": "如何游戏",
+      "howToPlayStep1": "从《疯狂小木人盒子》系列中选择一个迷你游戏。",
+      "howToPlayStep2": "引导你的小木人完成任务并得分。",
+      "howToPlayStep3": "与AI或朋友竞争，收集最多的奖杯并获胜！",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "上瘾的游戏玩法",
+      "feature1Description": "《疯狂小木人盒子》融合了速度、策略和反应能力，为所有玩家带来上瘾的游戏体验。",
+      "feature2Title": "各种迷你游戏",
+      "feature2Description": "选择各种迷你游戏，每个游戏都有其独特的规则和计分方法。",
+      "feature3Title": "单人和多人模式",
+      "feature3Description": "单独游戏或与朋友组队 (2 对 2)，争夺最高的得分和奖杯。",
+      "feature4Title": "竞技挑战",
+      "feature4Description": "测试你的技能，与强大的 AI 或朋友竞争，看看谁能够收集最多的奖杯并取得胜利。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "类别",
+      "noCategories": "未找到类别",
+      "viewMore": "查看更多",
+      "page": "页"
+    }
+  }
+}

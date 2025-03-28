@@ -1,0 +1,77 @@
+{
+  "dino-game": {
+    "title": "恐龍遊戲 - 奔跑、跳躍和生存！",
+    "slogan": "在恐龍遊戲中探索史前世界！",
+    "description": "加入恐龍遊戲，展開刺激的冒險，穿越危險的沙漠道路！控制你的恐龍跳過障礙物並避開碰撞。擁有復古像素風格和令人上癮的遊戲玩法，恐龍遊戲為所有玩家提供令人興奮的體驗。挑戰自己，看看你在這場永不停歇的跑酷遊戲中能跑多遠！",
+    "Loading": {
+      "title": "載入中…"
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "恐龍遊戲 - 奔跑、跳躍和生存！",
+      "description": "加入恐龍遊戲，展開刺激的冒險，穿越危險的沙漠道路！控制你的恐龍跳過障礙物並避開碰撞。擁有復古像素風格和令人上癮的遊戲玩法，恐龍遊戲為所有玩家提供令人興奮的體驗。挑戰自己，看看你在這場永不停歇的跑酷遊戲中能跑多遠！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "恐龍遊戲 - 奔跑、跳躍和生存！",
+      "whatIsTitle": "恐龍遊戲是什麼？",
+      "whatIsDescription": "恐龍遊戲是一款簡單卻令人上癮的遊戲，讓玩家在恐龍史前世界展開刺激的冒險！ 在這遊戲中，你將操控一隻小恐龍，在充滿挑戰和冒險的環境中進行旅程。",
+      "howToPlayTitle": "如何遊戲？",
+      "howToPlayStep1": "按向上箭頭鍵或空格鍵讓角色跳起來。",
+      "howToPlayStep2": "使用向下箭頭鍵讓小恐龍降低頭部。",
+      "howToPlayStep3": "避免障礙物，例如仙人掌和飛行生物，繼續奔跑。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "復古像素風格",
+      "feature1Description": "體驗復古像素圖形的懷舊魅力。",
+      "feature2Title": "簡單控制",
+      "feature2Description": "易於學習的控制讓所有玩家都能輕鬆上手。",
+      "feature3Title": "令人上癮的遊戲玩法",
+      "feature3Description": "挑戰自己，在永不停歇的跑酷遊戲中打破你的最高分！",
+      "feature4Title": "史前冒險",
+      "feature4Description": "展開一場刺激的旅程，穿越恐龍史前世界。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題集"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "查看更多",
+      "page": "頁碼"
+    }
+  }
+}

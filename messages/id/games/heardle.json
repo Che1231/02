@@ -1,0 +1,77 @@
+{
+  "heardle": {
+    "title": "Heardle: Tantangan Tebak Lagu Harian",
+    "slogan": "Uji Pengetahuan Musik Anda dengan Heardle",
+    "description": "Heardle adalah permainan tebak lagu harian yang menantang Anda untuk mengidentifikasi lagu-lagu populer dalam enam percobaan. Terinspirasi oleh Wordle, Heardle menawarkan sentuhan unik dengan berfokus pada musik. Dengan petunjuk minimal, Anda harus mengandalkan spontanitas musik dan pengetahuan genre untuk membangun deretan kemenangan yang mengesankan. Siap menguji keterampilan Anda? Mainkan Heardle sekarang!",
+    "Loading": {
+      "title": "Memuat Heardle..."
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Heardle: Tantangan Tebak Lagu Harian",
+      "description": "Tantang diri Anda dengan Heardle, permainan tebak lagu harian. Identifikasi lagu-lagu populer dalam enam percobaan dan tunjukkan pengetahuan musik Anda. Mainkan sekarang!",
+      "iframeTitle": "Pratinjau Permainan",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Permainan",
+      "playGame": "Mainkan Permainan"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Heardle: Tantangan Tebak Lagu Harian",
+      "whatIsTitle": "Apa itu Heardle?",
+      "whatIsDescription": "Heardle adalah permainan tebak lagu harian di mana pemain memiliki enam kesempatan untuk mengidentifikasi lagu hari itu. Ini merupakan twist musik dari permainan Wordle yang populer.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Dengarkan cuplikan lagu yang disediakan.",
+      "howToPlayStep2": "Tebak judul lagu atau artisnya.",
+      "howToPlayStep3": "Anda memiliki enam percobaan untuk menebak dengan benar.",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Tantangan Harian",
+      "feature1Description": "Lagu baru untuk ditebak setiap hari.",
+      "feature2Title": "Petunjuk Minimal",
+      "feature2Description": "Identifikasi lagu hanya dengan cuplikan yang singkat.",
+      "feature3Title": "Lagu-lagu Populer",
+      "feature3Description": "Memampilkan hits dari artis terkenal.",
+      "feature4Title": "Deretan Kemenangan",
+      "feature4Description": "Bangun deretan kemenangan Anda dengan menebak dengan benar."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Permainan"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Permainan",
+      "description": "Semua Permainan",
+      "games": "Permainan"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Selengkapnya",
+      "page": "Halaman"
+    }
+  }
+}

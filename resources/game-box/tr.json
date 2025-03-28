@@ -1,0 +1,114 @@
+{
+  "recommended": [],
+  "categories": [
+    {
+      "name": "Öne çıkan Oyunlar",
+      "path": "/c/featured",
+      "pageSize": 15,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Sizin için en iyi oyunları seçtik!"
+    },
+    {
+      "name": "Arcade Oyunları",
+      "path": "/c/arcade-games",
+      "pageSize": 15,
+      "backgroundColor": "#d2e7ff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Heyecan verici arcade oyunları!",
+      "position": 2
+    },
+    {
+      "name": "Aksiyon Oyunları",
+      "path": "/c/action",
+      "pageSize": 15,
+      "backgroundColor": "#c1f8cf",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Heyecan verici aksiyon oyunları!",
+      "position": 3
+    },
+    {
+      "name": "Macera Oyunları",
+      "path": "/c/adventure-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 4,
+      "description": "Heyecan verici macera oyunları!"
+    },
+    {
+      "name": "Wordleverse Oyunları",
+      "path": "/c/wordleverse-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 5,
+      "description": "Heyecan verici wordleverse oyunları!"
+    },
+    {
+      "name": ".IO Oyunları",
+      "path": "/c/io-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 6,
+      "description": "Heyecan verici .IO oyunları!"
+    },
+    {
+      "name": "Casual Oyunlar",
+      "path": "/c/casual-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 7,
+      "description": "Heyecan verici casual oyunlar!"
+    },
+    {
+      "name": "Bulmaca Oyunları",
+      "path": "/c/puzzle-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 8,
+      "description": "Heyecan verici bulmaca oyunları!"
+    },
+    {
+      "name": "Yarış ve Sürüş Oyunları",
+      "path": "/c/racing-driving",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 9,
+      "description": "Heyecan verici Yarış ve Sürüş oyunları!"
+    },
+    {
+      "name": "3D Oyunlar",
+      "path": "/c/3d-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 10,
+      "description": "Heyecan verici 3D oyunlar!"
+    },
+    {
+      "name": "Spor Oyunları",
+      "path": "/c/sports-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 11,
+      "description": "Heyecan verici spor oyunları!"
+    }
+  ]
+}

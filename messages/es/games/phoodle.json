@@ -1,0 +1,77 @@
+{
+  "phoodle": {
+    "title": "Juega a Phoodle en línea: Juego de rompecabezas de palabras con temática culinaria gratuito",
+    "slogan": "¡Adivina la palabra de comida en seis intentos!",
+    "description": "Phoodle es un juego de rompecabezas de palabras con temática culinaria inspirado en Wordle. Desafía tus conocimientos sobre comida con palabras de cinco letras diarias relacionadas con ingredientes, métodos de cocción o chefs renombrados. Adivina correctamente y desbloquea datos interesantes sobre la comida. ¡Juega a Phoodle ahora gratis y prueba tu experiencia culinaria!",
+    "Loading": {
+      "title": "Cargando Phoodle..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Phoodle: Juego de rompecabezas de palabras con temática de chef",
+      "description": "Phoodle ofrece jugabilidad ilimitada para los amantes de la comida. Adivina la palabra de comida de cinco letras en seis intentos y desbloquea desafíos culinarios diarios. ¡Juega a Phoodle ahora!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Phoodle: Rompecabezas de palabras con temática de Chef",
+      "whatIsTitle": "¿Qué es Phoodle?",
+      "whatIsDescription": "Phoodle es un juego de rompecabezas de palabras con tema de chef, inspirado en Wordle. Reta a los jugadores a adivinar una palabra de comida de cinco letras en seis intentos.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Adivina una palabra de comida de cinco letras.",
+      "howToPlayStep2": "Utiliza las pistas de las letras de colores para refinar tu conjetura.",
+      "howToPlayStep3": "¡Desbloquea datos sobre la comida al adivinar correctamente!",
+      "keyFeaturesTitle": "Características principales",
+      "feature1Title": "Desafíos diarios",
+      "feature1Description": "Disfruta de una nueva palabra relacionada con la comida todos los días.",
+      "feature2Title": "Pistas codificadas por colores",
+      "feature2Description": "Utiliza las pistas de verde, amarillo y gris para guiar tus conjeturas.",
+      "feature3Title": "Jugabilidad ilimitada",
+      "feature3Description": "Juega a Phoodle en cualquier momento para una diversión sin fin.",
+      "feature4Title": "Datos sobre la comida",
+      "feature4Description": "Aprende consejos culinarios interesantes con cada acertijo correcto."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

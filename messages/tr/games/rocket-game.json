@@ -1,0 +1,77 @@
+{
+  "rocket-game": {
+    "title": "Roket Oyunu: Heyecan Verici Uzay Macerası",
+    "slogan": "Roketinizi zorlu seviyeler boyunca yönlendirin ve yıldızlara doğru yükselin!",
+    "description": "Roket Oyunu sizi heyecan verici bir maceraya götürüyor! Roketinizi zorlu seviyeler boyunca yönlendirin ve yıldızlara doğru yükselirken engelleri aşın. Bu fizik tabanlı sürüş oyununda tehlikeli yollarda yolculuk ederken benzersiz deneyimler yaşayın. Bu benzersiz deneyimlere dalın ve boş zamanlarınızı daha heyecanlı hale getirin. Şimdi Roket Oyunu oynayın ve heyecanı yaşayın!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Roket Oyunu: Heyecan Verici Uzay Macerası",
+      "description": "Roketinizi zorlu seviyeler boyunca yönlendirin ve yıldızlara doğru yükselirken engellerden kaçının. Tehlikeli yollarda seyahat ederken benzersiz deneyimler yaşayın.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Roket Oyunu: Heyecan Verici Uzay Macerası",
+      "whatIsTitle": "Roket Oyunu Nedir?",
+      "whatIsDescription": "Roket Oyunu, tehlikeli yollarda seyahat etme deneyimlerine sahip fizik tabanlı bir sürüş oyunudur. Dik yamaçlar ve engebeli tepeler yolculuğunuzu daha nefes kesici hale getirecek.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Yukarı ok: Düz git; hızlanmak için basılı tutun.",
+      "howToPlayStep2": "Aşağı ok: genellikle ivme kazanmak için geri git.",
+      "howToPlayStep3": "BOŞLUK: roket modu, bu özel araç için 'ateşleme' kuvvetini ayarlamak için basılı tutun.",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Zorlu Seviyeler",
+      "feature1Description": "Karmaşık platformlar arasında gezinin ve engelleri aşın.",
+      "feature2Title": "Fizik Tabanlı Oyun",
+      "feature2Description": "Tehlikeli yollarda sürerken gerçekçi fizik deneyimleyin.",
+      "feature3Title": "Roket Modu",
+      "feature3Description": "Roket hızında aşımlar yapmak ve roket gibi fırlatmak için roket modunu kullanın",
+      "feature4Title": "Bağımlılık Yaratan Macera",
+      "feature4Description": "Oyunu bağımlılık haline getiren eşsiz deneyimlere dalın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiye Edilenler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Gör",
+      "page": "Sayfa"
+    }
+  }
+}

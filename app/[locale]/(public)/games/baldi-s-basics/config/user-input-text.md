@@ -1,0 +1,1 @@
+Baldi's Basics is an indie horror game that parodies educational games from the 1990s. Players take on the role of a student trapped inside a school, trying to solve math problems and collect items while evading the clutches of the eerie teacher, Baldi.

@@ -1,0 +1,77 @@
+{
+  "phoodle": {
+    "title": "Phoodle Online Oyunu: Ücretsiz Şef Temalı Kelime Bulmaca Oyunu",
+    "slogan": "Altı Denemede Yemek Kelimesini Tahmin Edin!",
+    "description": "Phoodle, Wordle'dan esinlenen şef temalı bir kelime bulmaca oyunudur. Malzemeler, yemek pişirme yöntemleri veya ünlü şeflerle ilgili günlük beş harfli kelimelerle yemek bilgilerinizi zorlayın. Doğru tahmin edin ve ilginç yemek bilgilerini açığa çıkarın. Şimdi ücretsiz Phoodle oynayın ve mutfak uzmanlığınızı test edin!",
+    "Loading": {
+      "title": "Phoodle Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Phoodle: Şef Temalı Kelime Bulmaca Oyunu",
+      "description": "Phoodle, yemek tutkunları için sınırsız oynanabilirlik sunuyor. Altı denemede beş harfli yemek kelimesini tahmin edin ve günlük mutfak zorluklarını açığa çıkarın. Şimdi Phoodle oynayın!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Phoodle: Şef Temalı Kelime Bulmaca",
+      "whatIsTitle": "Phoodle Nedir?",
+      "whatIsDescription": "Phoodle, Wordle'dan esinlenen şef temalı bir kelime bulmaca oyunudur. Oyuncuların altı denemede beş harfli bir yemek kelimesini tahmin etmelerini hedefler.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Beş harfli bir yemek kelimesini tahmin edin.",
+      "howToPlayStep2": "Renkli harflerden gelen ipuçlarını tahmininizi geliştirmek için kullanın.",
+      "howToPlayStep3": "Doğru tahmin ederek yemek bilgileri kazanın!",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Günlük Zorluklar",
+      "feature1Description": "Her gün yeni bir yemek kelimesi ile keyif alın.",
+      "feature2Title": "Renkli İpuçları",
+      "feature2Description": "Tahminlerinizi yönlendirmek için yeşil, sarı ve gri ipuçlarını kullanın.",
+      "feature3Title": "Sınırsız Oynanabilirlik",
+      "feature3Description": "Sonsuz eğlence için istediğiniz zaman Phoodle oynayın.",
+      "feature4Title": "Yemek Bilgileri",
+      "feature4Description": "Her doğru tahminle ilginç mutfak ipuçlarını öğrenin."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "rocket-game": {
+    "title": "Rocket Game: Emozionante Avventura Spaziale",
+    "slogan": "Pilota il tuo razzo attraverso livelli impegnativi e vola verso le stelle!",
+    "description": "Rocket Game ti catapulta in un'avventura emozionante! Pilota il tuo razzo attraverso livelli impegnativi ed evita gli ostacoli mentre voli verso le stelle. Questo gioco di guida basato sulla fisica offre esperienze uniche viaggiando su strade pericolose. Immergiti in queste esperienze uniche per rendere il tuo tempo libero più entusiasmante. Gioca a Rocket Game ora e goditi l'emozione!",
+    "Loading": {
+      "title": "Caricamento..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Crea In",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla privacy",
+      "termsOfServices": "Termini di servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Collegamenti Utili",
+      "articleList": "Elenco Articoli",
+      "home": "Home",
+      "next": "Successivo",
+      "previous": "Precedente"
+    },
+    "HomeIframe": {
+      "title": "Rocket Game: Emozionante Avventura Spaziale",
+      "description": "Pilota il tuo razzo attraverso livelli impegnativi ed evita gli ostacoli mentre voli verso le stelle. Vivi esperienze uniche viaggiando su strade pericolose.",
+      "iframeTitle": "Anteprima del Gioco",
+      "fullscreenButton": "Pieno Schermo",
+      "shareButton": "Condividi",
+      "urlCopied": "URL copiato negli appunti!",
+      "downloadGame": "Scarica il Gioco",
+      "playGame": "Gioca"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Rocket Game: Emozionante Avventura Spaziale",
+      "whatIsTitle": "Cos'è Rocket Game?",
+      "whatIsDescription": "Rocket Game è un gioco di guida basato sulla fisica con esperienze di viaggio su strade pericolose. Pendenze ripide e colline sconnesse renderanno il tuo viaggio ancora più spettacolare.",
+      "howToPlayTitle": "Come Giocare",
+      "howToPlayStep1": "Freccia SU: vai dritto; premi e tieni premuto per accelerare.",
+      "howToPlayStep2": "Freccia GIÙ: vai indietro, di solito per acquisire slancio.",
+      "howToPlayStep3": "BARRA SPAZIO: modalità razzo, premi e tieni premuto per regolare la forza di \"sparo\" per questo veicolo speciale.",
+      "keyFeaturesTitle": "Caratteristiche principali",
+      "feature1Title": "Livelli impegnativi",
+      "feature1Description": "Naviga tra piattaforme complesse e supera gli ostacoli.",
+      "feature2Title": "Gameplay basato sulla fisica",
+      "feature2Description": "Vivi la fisica realistica mentre guidi attraverso strade pericolose.",
+      "feature3Title": "Modalità razzo",
+      "feature3Description": "Utilizza la modalità razzo per salti di slancio e lanciarti via come un razzo.",
+      "feature4Title": "Avventura avvincente",
+      "feature4Description": "Immergiti in esperienze uniche che rendono il gioco avvincente."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Consigliati"
+    },
+    "HomeComments": {
+      "title": "Commenti sul Gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i Giochi",
+      "description": "Tutti i Giochi",
+      "games": "Giochi"
+    },
+    "CategoryPage": {
+      "categories": "Categorie",
+      "noCategories": "Categorie non trovate",
+      "viewMore": "Visualizza di più",
+      "page": "Pagina"
+    }
+  }
+}

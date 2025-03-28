@@ -1,0 +1,77 @@
+{
+  "super-hexagon": {
+    "title": "Siêu lục giác - Thử thách phản xạ của bạn với hành động nhịp nhàng",
+    "slogan": "Cảm nhận nhịp điệu, thoát khỏi các hình lục giác",
+    "description": "Siêu lục giác mang đến một trải nghiệm âm nhạc độc đáo, thử thách khả năng ứng biến của bạn. Di chuyển qua thế giới những hình lục giác xoay tròn, tránh các bức tường xuất hiện, và đắm chìm trong âm nhạc điện tử mạnh mẽ. Tốc độ trò chơi tăng dần liên tục, thử thách phản xạ và sự tập trung của bạn. Chơi ngay và xem bạn có thể trụ được bao lâu trong cuộc phiêu lưu nhịp điệu đầy thú vị này!",
+    "Loading": {
+      "title": "Đang tải Siêu lục giác..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo tại",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Siêu lục giác - Trò chơi trực tuyến miễn phí",
+      "description": "Trải nghiệm thử thách của Siêu lục giác, nơi nhịp điệu và phản xạ gặp nhau. Tránh các bức tường xuất hiện, cảm nhận nhịp điệu và sống sót trong trò chơi nhanh chóng này. Chơi ngay miễn phí!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào bộ nhớ tạm!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Siêu lục giác",
+      "whatIsTitle": "Siêu lục giác là gì?",
+      "whatIsDescription": "Siêu lục giác là một trò chơi dựa trên nhịp điệu, thử thách phản xạ và sự tập trung của bạn. Di chuyển qua thế giới các hình lục giác xoay tròn và tránh các bức tường xuất hiện để sống sót.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Sử dụng các phím mũi tên trái và phải để xoay hình lục giác.",
+      "howToPlayStep2": "Tránh các bức tường xuất hiện từ cạnh của các hình lục giác.",
+      "howToPlayStep3": "Giữ nhịp độ tăng dần và sống sót càng lâu càng tốt.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Gameplay nhịp điệu",
+      "feature1Description": "Đồng bộ chuyển động của bạn với nhịp điệu của âm nhạc để có trải nghiệm đắm chìm.",
+      "feature2Title": "Các cấp độ đầy thách thức",
+      "feature2Description": "Tốc độ trò chơi tăng liên tục, thử thách phản xạ và sự tập trung của bạn.",
+      "feature3Title": "Âm nhạc điện tử",
+      "feature3Description": "Âm nhạc điện tử mạnh mẽ và hấp dẫn làm tăng cường trải nghiệm chơi game.",
+      "feature4Title": "Thành tựu có thể mở khóa",
+      "feature4Description": "Thử thách bản thân để mở khóa thành tựu và nâng cao kỹ năng của bạn."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả trò chơi",
+      "description": "Tất cả trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

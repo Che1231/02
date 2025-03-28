@@ -1,0 +1,77 @@
+{
+  "astrodud-io": {
+    "title": "AstroDud.io - 免費線上 IO 遊戲",
+    "slogan": "生存、競爭、征服",
+    "description": "AstroDud.io 是一款令人興奮的免費線上 IO 遊戲，讓您與全球玩家對決。 挑戰充滿挑戰性的障礙賽道，盡力取得第一名並生存下來。體驗沉浸式的 3D 戰鬥場，測試您的技能並升級您的角色以掌控比賽。 準備好迎接最終挑戰了嗎？現在就玩 AstroDud.io！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導覽列"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "AstroDud.io",
+      "description": "玩 AstroDud.io，一款免費的 IO 遊戲，在刺激的障礙賽道上競爭。生存下去，率先完成，並在沉浸式的 3D 戰鬥場中升級您的角色。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "URL 已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "立即玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "AstroDud.io",
+      "whatIsTitle": "AstroDud.io 是什麼？",
+      "whatIsDescription": "AstroDud.io 是一款免費的 IO 遊戲，提供令人興奮的體驗。在充滿挑戰性的障礙賽道上與全球數千名玩家競爭。",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "在障礙賽道上移動。",
+      "howToPlayStep2": "與其他玩家競爭，爭取率先完成。",
+      "howToPlayStep3": "生存下來並升級您的角色以稱霸比賽。",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "沉浸式 3D 戰鬥場",
+      "feature1Description": "體驗提升遊戲體驗的沉浸式 3D 戰鬥場。",
+      "feature2Title": "全球競爭",
+      "feature2Description": "與來自全球各地的玩家進行即時競爭。",
+      "feature3Title": "角色升級",
+      "feature3Description": "升級您的角色以提高遊戲表現並稱霸比賽。",
+      "feature4Title": "具有挑戰性的障礙",
+      "feature4Description": "在經過設計，用於考驗您技能的各種具有挑戰性的障礙賽道上穿梭。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦遊戲"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲列表"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到任何分類",
+      "viewMore": "檢視更多",
+      "page": "頁碼"
+    }
+  }
+}

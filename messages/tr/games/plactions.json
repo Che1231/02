@@ -1,0 +1,77 @@
+{
+  "plactions": {
+    "title": "Plactions: Ücretsiz Çevrimiçi Aksiyon Platform Oyunu",
+    "slogan": "Plactions'ta Zıplayın, Tırmanıp Savaşın!",
+    "description": "Plactions, hassasiyetinizi ve becerilerinizi test eden, aksiyon dolu bir platform oyunudur. Heyecan verici zıplama, tırmanma ve dövüş meydan okumalarıyla Plactions, klasik oyun tarzı ile modern engellerin eşsiz bir karışımını sunmaktadır. Renkli bir dünyaya dalın ve blok evreni karanlık güçlerden kurtaran kahraman olun. En son aksiyon deneyimine hazır mısınız? Şimdi Plactions'ı oynayın!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Plactions: Aksiyon Platform Oyunu",
+      "description": "Aksiyon dolu oyun tarzıyla zorlu bir platform oyunu olan Plactions'ın heyecanını yaşayın. İnanılmaz meydan okumalardan geçmek için zıplayın, tırmanın ve savaşın. Şimdi Plactions'ı oynayın!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Plactions: Aksiyon Platform Oyunu",
+      "whatIsTitle": "Plactions Nedir?",
+      "whatIsDescription": "Plactions, minik bir kahramana dönüştüğünüz renkli ve zorlu bir platform oyunudur. Heyecan verici zıplama, tırmanma ve dövüş meydan okumalarıyla blok dünyayı karanlık güçlerden kurtarın.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Hassas zıplamalar kullanarak engellerden geçin.",
+      "howToPlayStep2": "Daha yüksek bölgelere ulaşmak için platformlara tırmanın.",
+      "howToPlayStep3": "Yolunuzu açmak ve dünyayı kurtarmak için düşmanlarla savaşın.",
+      "keyFeaturesTitle": "Ana Özellikler",
+      "feature1Title": "Aksiyon Dolu Oyun",
+      "feature1Description": "Heyecan verici zıplama, tırmanma ve dövüş meydan okumalarını yaşayın.",
+      "feature2Title": "Renkli Dünya",
+      "feature2Description": "Engellerle dolu canlı ve blok bir evreni keşfedin.",
+      "feature3Title": "Kahramanlık Misyonu",
+      "feature3Description": "Dünyayı karanlık güçlerden kurtaran kahraman olun.",
+      "feature4Title": "Modern Meydan Okumalar",
+      "feature4Description": "Klasik ve modern oyun tarzını birleştiren benzersiz engellere meydan okuyun."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

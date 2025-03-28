@@ -1,0 +1,78 @@
+{
+  "astrodud-io": {
+    "title": "AstroDud.io - 免费在线IO游戏",
+    "slogan": "生存、竞争、征服",
+    "description": "AstroDud.io 是一款令人兴奋的免费IO游戏，让你与全球玩家对抗。  克服具有挑战性的障碍赛道，力争获得第一名，并保持生存。 体验一个完全沉浸式的3D竞技场，测试你的技能，并升级你的角色来掌控比赛。准备好迎接终极挑战了吗？现在就玩 AstroDud.io！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建于",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "AstroDud.io",
+      "description": "玩AstroDud.io，一款免费的IO游戏，参加激动人心的障碍赛道比赛。 生存，获得第一，并在一个完全沉浸式的3D竞技场升级你的角色。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "玩游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "AstroDud.io",
+      "whatIsTitle": "AstroDud.io是什么？",
+      "whatIsDescription": "AstroDud.io是一款免费的IO游戏，提供令人振奋的体验。 在具有挑战性的障碍赛道中与全球数千名玩家竞争。",
+      "howToPlayTitle": "如何玩耍",
+      "howToPlayStep1": "穿越障碍赛道。",
+      "howToPlayStep2": "与其他玩家竞争，力争获得第一。",
+      "howToPlayStep3": "保持生存并升级你的角色以掌控比赛。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "沉浸式3D竞技场",
+      "feature1Description": "体验一个增强游戏体验的完全沉浸式3D竞技场。",
+      "feature2Title": "全球竞争",
+      "feature2Description": "与来自世界各地的玩家实时竞争。",
+      "feature3Title": "角色升级",
+      "feature3Description": "升级你的角色以提高性能并掌控比赛。",
+      "feature4Title": "具有挑战性的障碍",
+      "feature4Description": "在各种具有挑战性的障碍赛道中穿行，以测试你的技能。",
+      "moreFeaturesTitle": "更多功能"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏列表"
+    },
+    "CategoryPage": {
+      "categories": "游戏类别",
+      "noCategories": "未找到游戏类别",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

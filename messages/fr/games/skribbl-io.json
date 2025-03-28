@@ -1,0 +1,77 @@
+{
+  "skribbl-io": {
+    "title": "Jouer à Skribbl.io en ligne - Jeu de dessin et de devinette gratuit",
+    "slogan": "Libérez votre créativité avec Skribbl.io",
+    "description": "Découvrez le plaisir de la créativité et de l'imagination avec Skribbl.io, un jeu multijoueur en ligne de dessin et de devinette très populaire. Sur Skribbl.io, les joueurs se relaient pour dessiner un mot ou une phrase donnés, tandis que les autres tentent de le deviner à partir de l'œuvre créée. Exploitez la puissance de votre souris pour donner vie à votre imagination sur le canevas numérique pendant que vous dessinez, tandis que votre clavier devient le moyen de deviner les mots ou les phrases créés par vos coéquipiers. Laissez donc libre cours à votre créativité, relevez le défi de deviner et appréciez la communauté dynamique de Skribbl.io.",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Skribbl.io - Jeu de dessin et de devinette en ligne gratuit",
+      "description": "Rejoignez le plaisir avec Skribbl.io, où la créativité rencontre la devinette. Dessinez, devinez et appréciez la communauté dynamique de ce jeu en ligne populaire.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Skribbl.io - Jeu de dessin et de devinette en ligne gratuit",
+      "whatIsTitle": "Qu'est-ce que Skribbl.io ?",
+      "whatIsDescription": "Skribbl.io est un jeu multijoueur en ligne de dessin et de devinette très populaire où les joueurs se relaient pour dessiner un mot ou une phrase donnée, tandis que les autres tentent de le deviner à partir de l'œuvre créée.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Prenez tour à tour pour dessiner un mot ou une phrase donnés.",
+      "howToPlayStep2": "Les autres joueurs essaient de deviner le mot ou la phrase en se basant sur l'œuvre créée.",
+      "howToPlayStep3": "Utilisez votre clavier pour deviner les mots ou les phrases créés par vos coéquipiers.",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Amusements multijoueurs",
+      "feature1Description": "Jouez avec des amis ou des inconnus dans une communauté en ligne dynamique.",
+      "feature2Title": "Dessin créatif",
+      "feature2Description": "Libérez votre créativité en dessinant des mots ou des phrases.",
+      "feature3Title": "Défi de devinette",
+      "feature3Description": "Testez vos compétences en devinette avec les illustrations créées par les autres.",
+      "feature4Title": "Facile à jouer",
+      "feature4Description": "Gameplay simple et intuitif pour tous les âges."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

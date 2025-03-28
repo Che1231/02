@@ -1,0 +1,77 @@
+{
+  "papa-s-cupcakeria": {
+    "title": "파파스 컵케이크리아 온라인 플레이 - 무료 컵케이크 게임",
+    "slogan": "프로스트필드 타운에서 맛있는 컵케이크를 구워서 제공하세요",
+    "description": "파파스 컵케이크리아는 인기 있는 파파스 시리즈의 여덟 번째 작품입니다. 이 게임에서 당신은 프로스트필드 타운에 위치한 카페테리아의 웨이터 역할을 합니다. 자신의 주방에서 만든 그리고 구운 맛있는 컵케이크를 고객에게 제공하는 것이 당신의 임무입니다. 오늘 파파스 컵케이크리아에서 즐거운 제빵 및 서비스 경험을 해보세요!",
+    "Loading": {
+      "title": "로딩중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "파파스 컵케이크리아",
+      "description": "무료로 파파스 컵케이크리아 온라인을 플레이하고, 프로스트필드 타운에서 맛있는 컵케이크를 구워 제공하세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "파파스 컵케이크리아",
+      "whatIsTitle": "파파스 컵케이크리아는 무엇인가요?",
+      "whatIsDescription": "파파스 컵케이크리아는 카페테리아의 웨이터로서 고객에게 맛있는 컵케이크를 만들고 제공하는 재미있고 참여적인 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "고객 주문을 받고 컵케이크를 맞춤 설정하세요.",
+      "howToPlayStep2": "주방에서 컵케이크를 완벽하게 구우세요.",
+      "howToPlayStep3": "고객에게 컵케이크를 제공하고 팁을 얻으세요.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "맞춤형 컵케이크",
+      "feature1Description": "다양한 재료와 토핑을 선택하여 독특한 컵케이크를 제작하세요.",
+      "feature2Title": "상호 작용형 게임플레이",
+      "feature2Description": "컵케이크를 구워 제공하는 동안 재미있고 상호 작용적인 게임 환경에 참여하세요.",
+      "feature3Title": "고객 만족",
+      "feature3Description": "고객에게 맛있는 컵케이크를 제때 제공하여 고객 만족도를 높이세요.",
+      "feature4Title": "팁 획득",
+      "feature4Description": "훌륭한 서비스와 고객 만족을 통해 팁을 얻으세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

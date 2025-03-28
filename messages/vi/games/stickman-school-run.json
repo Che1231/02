@@ -1,0 +1,77 @@
+{
+  "stickman-school-run": {
+    "title": "Chạy Trốn Trường Học Stickman: Nhảy Vượt Quá Khó Khăn",
+    "slogan": "Bật nhanh qua địa hình khó khăn và vượt qua tất cả các cấp độ!",
+    "description": "Nhảy qua và vượt qua những trở ngại để cho cậu bé đạt được vị trí của người yêu mình trong Chạy Trốn Trường Học Stickman. Trò chơi có chủ đề trường học này mang đến lối chơi chạy và nhảy sáng tạo. Điều khiển một nhân vật Stickman, di chuyển qua các nền tảng và chướng ngại vật đầy thách thức. Với 100 cấp độ, mỗi cấp độ được thiết kế để thử thách sự linh hoạt và phản xạ nhanh của bạn, Chạy Trốn Trường Học Stickman sẽ giữ bạn tham gia và tập trung. Chơi ngay và trải nghiệm sự kết hợp giữa phép thuật và thách thức!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu nghị",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Chạy Trốn Trường Học Stickman",
+      "description": "Trải nghiệm sự hồi hộp của Chạy Trốn Trường Học Stickman, một trò chơi kết hợp sự sáng tạo và thách thức. Di chuyển qua 100 cấp độ, mỗi cấp độ cung cấp những chướng ngại vật và nền tảng độc đáo. Chơi ngay và xem liệu bạn có thể đạt được đích đến!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Màn hình toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Chạy Trốn Trường Học Stickman",
+      "whatIsTitle": "Chạy Trốn Trường Học Stickman là gì?",
+      "whatIsDescription": "Chạy Trốn Trường Học Stickman là một trò chơi có chủ đề trường học, nơi bạn điều khiển một nhân vật Stickman, di chuyển qua các nền tảng và chướng ngại vật đầy thử thách để gặp được người yêu của mình.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Nhấn phím mũi tên lên để nhân vật nhảy lên.",
+      "howToPlayStep2": "Giữ phím mũi tên lên để phóng to thước đo, đẩy các hộp cản trở ra khỏi đường đi .",
+      "howToPlayStep3": "Sử dụng phím mũi tên phải để nhân vật cuộn tròn, tránh va chạm với combo.",
+      "keyFeaturesTitle": "Tính năng chính",
+      "feature1Title": "100 Cấp Độ Thử Thách",
+      "feature1Description": "Mỗi cấp độ được thiết kế để thử thách sự linh hoạt và phản xạ nhanh của bạn.",
+      "feature2Title": "Bản đồ thay đổi động",
+      "feature2Description": "Bản đồ có thể thay đổi khi bạn chơi lại một cấp độ, cung cấp những thách thức mới mỗi lần.",
+      "feature3Title": "Lối chơi sáng tạo",
+      "feature3Description": "Điều khiển một nhân vật Stickman, di chuyển qua những chướng ngại vật và nền tảng độc đáo.",
+      "feature4Title": "Cơ chế hấp dẫn",
+      "feature4Description": "Sử dụng các lệnh khác nhau để vượt qua các loại chướng ngại vật khác nhau."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

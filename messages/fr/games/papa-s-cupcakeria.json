@@ -1,0 +1,77 @@
+{
+  "papa-s-cupcakeria": {
+    "title": "Jouer à Papa’s Cupcakeria en ligne - Jeu de Cupcakes Gratuit",
+    "slogan": "Préparez et servez de délicieux cupcakes dans la ville de Frostfield",
+    "description": "Papa’s Cupcakeria est le huitième opus de la populaire série Papa’s. Dans ce jeu, vous incarnez un serveur dans une cafétéria située dans la ville de Frostfield. Votre tâche consiste à servir à vos clients de délicieux cupcakes que vous créez et préparez dans votre propre cuisine. Découvrez le plaisir de la pâtisserie et de la vente dans Papa’s Cupcakeria dès aujourd’hui !",
+    "Loading": {
+      "title": "Chargement…"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d’utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Papa’s Cupcakeria",
+      "description": "Jouez à Papa’s Cupcakeria en ligne gratuitement et appréciez la préparation et la vente de délicieux cupcakes dans la ville de Frostfield.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Papa’s Cupcakeria",
+      "whatIsTitle": "Qu'est-ce que Papa’s Cupcakeria ?",
+      "whatIsDescription": "Papa’s Cupcakeria est un jeu amusant et captivant où vous jouez le rôle d'un serveur dans une cafétéria, créant et servant de délicieux cupcakes à vos clients.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Prenez les commandes des clients et personnalisez leurs cupcakes.",
+      "howToPlayStep2": "Préparez les cupcakes à la perfection dans votre cuisine.",
+      "howToPlayStep3": "Servez les cupcakes à vos clients et gagnez des pourboires.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Cupcakes personnalisables",
+      "feature1Description": "Créez des cupcakes uniques en choisissant parmi une variété d’ingrédients et de garnitures.",
+      "feature2Title": "Gameplay interactif",
+      "feature2Description": "Plongez dans une expérience de jeu amusante et interactive en préparant et en servant des cupcakes.",
+      "feature3Title": "Satisfaction client",
+      "feature3Description": "Gardez vos clients satisfaits en leur servant des cupcakes délicieux et à l’heure.",
+      "feature4Title": "Gagner des pourboires",
+      "feature4Description": "Gagnez des pourboires en offrant un excellent service et en satisfaisant vos clients."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

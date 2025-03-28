@@ -1,0 +1,77 @@
+{
+  "lava-bird": {
+    "title": "Juega a Lava Bird en línea: ¡Aventura de vuelo ardiente!",
+    "slogan": "¡Prueba tus reflejos en este juego de desplazamiento lateral abrasador!",
+    "description": "¡Embárcate en un vuelo ardiente con Lava Bird! Navega por una cueva de lava ardiente, esquiva obstáculos y derrota a los enemigos con bolas de fuego destructivas. Con dos emocionantes modos de juego, puedes jugar solo o desafiar a un amigo. ¡Experimenta la emoción de este juego de desplazamiento lateral 2D lleno de acción! ¡Juega a Lava Bird ahora y conquista los cielos de lava!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Condiciones de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amistosos",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Lava Bird: ¡Aventura de vuelo ardiente!",
+      "description": "Únete a Lava Bird en un vuelo ardiente a través de la cueva de lava. Esquiva obstáculos, dispara bolas de fuego y derrota a los enemigos en este emocionante juego de desplazamiento lateral 2D. ¡Juega ahora!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Lava Bird: ¡Aventura de vuelo ardiente!",
+      "whatIsTitle": "¿Qué es Lava Bird?",
+      "whatIsDescription": "Lava Bird es un juego de desplazamiento lateral 2D lleno de acción donde controlas un pájaro ardiente que navega por una peligrosa cueva de lava. Evita los obstáculos, dispara bolas de fuego y derrota a los enemigos para convertirte en el rey de los cielos de lava!",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Usa la barra espaciadora o haz clic para controlar al pájaro en modo individual.",
+      "howToPlayStep2": "En modo de dos jugadores, el Jugador 1 (pájaro rojo) usa la tecla W, y el Jugador 2 (pájaro azul) usa las flechas arriba.",
+      "howToPlayStep3": "Evita los obstáculos y derrota a los enemigos para obtener puntos. ¡El primer jugador en alcanzar cinco puntos gana!",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Vuelo ardiente",
+      "feature1Description": "Navega por una peligrosa cueva de lava llena de obstáculos y enemigos.",
+      "feature2Title": "Bolas de fuego destructivas",
+      "feature2Description": "Dispara bolas de fuego para destruir enemigos y despejar tu camino.",
+      "feature3Title": "Dos modos de juego",
+      "feature3Description": "Elige entre jugar solo o en un intenso combate cara a cara con un amigo.",
+      "feature4Title": "Controles fáciles",
+      "feature4Description": "Los controles sencillos e intuitivos hacen que todos los jugadores puedan disfrutar."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

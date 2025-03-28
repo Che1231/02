@@ -1,0 +1,77 @@
+{
+  "jacksmith": {
+    "title": "Jacksmith - Forger d'armes légendaires et d'armures de guerriers",
+    "slogan": "Devenez le plus grand héros forgeron !",
+    "description": "Plongez-vous dans l'univers de Jacksmith et transformez vos compétences de forgeron. Créez des armes puissantes, équipez vos guerriers et triomphez d'innombrables ennemis. Jacksmith propose une expérience de jeu unique où vous forgez des armes légendaires au lieu de cuisiner des plats. Améliorez votre boutique, remplissez les commandes des clients et gagnez des bonus. Prêt à forger les épées et les arcs les plus destructeurs ? Commencez votre périple de forgeron dès maintenant !",
+    "Loading": {
+      "title": "Chargement…"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste d'articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Jacksmith - Forgez des armes légendaires",
+      "description": "Jouez à Jacksmith et devenez le plus grand héros forgeron. Forgez des armes puissantes, équipez vos guerriers et triomphez de vos ennemis. Commencez votre aventure maintenant!",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Jacksmith - Forger des armes légendaires",
+      "whatIsTitle": "Qu'est-ce que Jacksmith ?",
+      "whatIsDescription": "Jacksmith est un jeu unique où vous devenez un héros forgeron, forgeant des armes puissantes pour vos guerriers. Transformez vos compétences en forgeron et triomphez d'innombrables ennemis.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Recevez les commandes des clients.",
+      "howToPlayStep2": "Satisfez les exigences pour gagner des bonus.",
+      "howToPlayStep3": "Améliorez votre boutique et créez les meilleures armes.",
+      "keyFeaturesTitle": "Principales fonctionnalités",
+      "feature1Title": "Forgez des armes légendaires",
+      "feature1Description": "Forgez de puissantes épées et arcs avec des matériaux rares.",
+      "feature2Title": "Équipez vos guerriers",
+      "feature2Description": "Équipez vos combattants des meilleures armes pour vaincre les ennemis.",
+      "feature3Title": "Améliorez votre boutique",
+      "feature3Description": "Améliorez votre forge pour créer de meilleures armes.",
+      "feature4Title": "Gagner des bonus",
+      "feature4Description": "Remplissez les commandes des clients et recevez des bonus et des récompenses."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

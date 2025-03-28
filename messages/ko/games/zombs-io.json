@@ -1,0 +1,77 @@
+{
+  "zombs-io": {
+    "title": "Zombs.io: 무료 온라인 좀비 생존 게임",
+    "slogan": "건설, 방어, 생존",
+    "description": "Zombs.io는 마인크래프트와 좀비 요소를 결합하여 흥미로운 타워 방어 IO 게임을 만듭니다. 기지를 건설하고 끊임없이 몰려오는 좀비로부터 보호하십시오. 기지를 강화하고 개선하여 점점 더 어려워지는 좀비의 공격에 대비하십시오. 생존 능력을 시험하고 몇 밤이나 버틸 수 있는지 확인하십시오. 친구들과 힘을 합쳐 함께 견고한 기지를 만드십시오. 하지만 파티에 참여하면 평소보다 더 많은 좀비가 나타날 수 있으니 주의하고 전략적인 계획을 세우십시오.",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "컨텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "Zombs.io: 무료 온라인 좀비 생존 게임",
+      "description": "Zombs.io는 마인크래프트와 좀비 요소를 결합하여 흥미로운 타워 방어 IO 게임을 만듭니다. 기지를 건설하고 끊임없이 몰려오는 좀비로부터 보호하십시오. 기지를 강화하고 개선하여 점점 더 어려워지는 좀비의 공격에 대비하십시오. 생존 능력을 시험하고 몇 밤이나 버틸 수 있는지 확인하십시오.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Zombs.io: 무료 온라인 좀비 생존 게임",
+      "whatIsTitle": "Zombs.io는 무엇인가요?",
+      "whatIsDescription": "Zombs.io는 마인크래프트와 좀비 요소를 결합하여 흥미로운 타워 방어 IO 게임을 만듭니다. 기지를 건설하고 끊임없이 몰려오는 좀비로부터 보호하십시오. 기지를 강화하고 개선하여 점점 더 어려워지는 좀비의 공격에 대비하십시오. 생존 능력을 시험하고 몇 밤이나 버틸 수 있는지 확인하십시오.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "기지를 건설하고 끊임없이 몰려오는 좀비로부터 보호하십시오.",
+      "howToPlayStep2": "기지를 강화하고 개선하여 점점 더 어려워지는 좀비의 공격에 대비하십시오.",
+      "howToPlayStep3": "생존 능력을 시험하고 몇 밤이나 버틸 수 있는지 확인하십시오.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "타워 방어 게임 플레이",
+      "feature1Description": "기지를 건설하고 끊임없이 몰려오는 좀비로부터 보호하십시오.",
+      "feature2Title": "기지 건설",
+      "feature2Description": "기지를 강화하고 개선하여 점점 더 어려워지는 좀비의 공격에 대비하십시오.",
+      "feature3Title": "생존 도전",
+      "feature3Description": "생존 능력을 시험하고 몇 밤이나 버틸 수 있는지 확인하십시오.",
+      "feature4Title": "멀티플레이 협동",
+      "feature4Description": "친구들과 힘을 합쳐 함께 견고한 기지를 만드십시오."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

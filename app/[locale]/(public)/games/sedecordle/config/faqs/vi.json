@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Cách bắt đầu chơi Sedecordle cho người mới bắt đầu?",
+    "answer": "Để bắt đầu chơi Sedecordle, hãy làm theo các bước sau: BƯỚC 1 - Truy cập trang web chính thức của Sedecordle hoặc tải ứng dụng. BƯỚC 2 - Nhấn vào \"Trò chơi mới\" để bắt đầu. BƯỚC 3 - Bạn sẽ thấy một lưới với 16 ô từ riêng lẻ của Wordle. Bắt đầu bằng cách đoán một từ 5 chữ cái cho ô đầu tiên. Ví dụ: nếu bạn đoán \"CRANE\" và các chữ cái chuyển sang màu xanh lá cây, có nghĩa là chúng chính xác. Lặp lại quy trình này cho tất cả 16 ô. [Ví dụ minh họa: Hãy tưởng tượng như đang giải 16 trò chơi Wordle nhỏ cùng lúc, mỗi trò góp phần vào thử thách lớn hơn của Sedecordle.]"
+  },
+  {
+    "question": "Những quy tắc cơ bản của Sedecordle mà mỗi người chơi mới cần biết là gì?",
+    "answer": "Những quy tắc cơ bản của Sedecordle rất đơn giản: 1) Bạn có 21 lượt thử để giải 16 ô Wordle. 2) Mỗi ô cần một từ 5 chữ cái. 3) Các chữ cái đúng vị trí sẽ chuyển sang màu xanh lá cây, các chữ cái đúng nhưng sai vị trí sẽ chuyển sang màu vàng, và các chữ cái sai sẽ chuyển sang màu xám. Ví dụ: nếu bạn đoán \"PLANT\" và \"P\" và \"T\" đúng, chúng sẽ chuyển sang màu xanh lá cây. [Bảng so sánh cấu hình: Sedecordle so với Wordle - Sedecordle có 16 ô so với 1 ô của Wordle, và 21 lượt thử so với 6 lượt thử của Wordle.]"
+  },
+  {
+    "question": "Những chiến thuật nào có thể giúp tôi cải thiện cách chơi Sedecordle khi mới bắt đầu?",
+    "answer": "Để cải thiện cách chơi Sedecordle, hãy áp dụng các chiến thuật sau: BƯỚC 1 - Bắt đầu với những từ 5 chữ cái phổ biến chứa nhiều nguyên âm, như \"AUDIO\". BƯỚC 2 - Sử dụng phản hồi từ mỗi lần đoán để loại trừ các chữ cái không thể cho các ô khác. BƯỚC 3 - Tập trung giải các ô dễ hơn trước để lấy đà. Ví dụ: nếu \"AUDIO\" có \"A\" và \"I\" đúng, hãy sử dụng thông tin này cho tất cả 16 ô. [So sánh nhiều phương án: Bắt đầu bằng \"AUDIO\" so với \"CRANE\" - \"AUDIO\" bao trùm nhiều nguyên âm hơn, có thể cung cấp nhiều thông tin hơn ban đầu.]"
+  },
+  {
+    "question": "Tại sao việc quản lý lượt thử hiệu quả trong Sedecordle lại quan trọng, và làm thế nào để thực hiện điều đó?",
+    "answer": "Việc quản lý lượt thử hiệu quả trong Sedecordle rất quan trọng vì bạn chỉ có 21 lượt thử để giải 16 ô. BƯỚC 1 - Phân bổ lượt thử dựa trên độ khó của mỗi ô, giải các ô dễ hơn trước. BƯỚC 2 - Sử dụng các chữ cái chung giữa các ô để tối đa hóa việc thu thập thông tin. BƯỚC 3 - Tránh các lần đoán trùng lặp bằng cách theo dõi các chữ cái bị loại bỏ. Ví dụ: nếu \"CRANE\" loại bỏ \"C\" và \"R\" ở nhiều ô, bạn có thể tập trung vào các chữ cái khác. [Biểu đồ luồng phân bổ lượt thử: Ô dễ → Chữ cái chung → Loại bỏ sự trùng lặp.]"
+  },
+  {
+    "question": "Những kỹ thuật nâng cao nào có thể giúp tôi giải các ô Sedecordle nhanh hơn?",
+    "answer": "Những kỹ thuật nâng cao để giải Sedecordle nhanh hơn bao gồm: BƯỚC 1 - Sử dụng phương pháp \"từ vựng\", duy trì danh sách các từ có thể cho mỗi ô. BƯỚC 2 - Áp dụng \"phân tích chéo giữa các ô\" để xác định các mẫu chữ cái chồng chéo. BƯỚC 3 -Ưu tiên các ô có nhiều ràng buộc nhất để giảm bớt sự không chắc chắn. Ví dụ: nếu ô 1 có \"A\" và \"E\" đã xác định, hãy sử dụng điều này để thu hẹp khả năng trong các ô 2-16. [Ví dụ minh họa: Hãy tưởng tượng như một trò chơi cờ vua, trong đó mỗi nước đi (đoán) ảnh hưởng đến nhiều bàn cờ (các ô) cùng một lúc.]"
+  },
+  {
+    "question": "Làm thế nào để tối ưu hóa chiến lược lựa chọn từ trong Sedecordle?",
+    "answer": "Việc tối ưu hóa chiến lược lựa chọn từ trong Sedecordle bao gồm: BƯỚC 1 - Chọn các từ bao phủ một phạm vi rộng các chữ cái và nguyên âm phổ biến. BƯỚC 2 - Sử dụng quá trình loại trừ để loại bỏ các từ không phù hợp với phản hồi. BƯỚC 3 - Sử dụng lại các chữ cái đã xác nhận ở các ô khác để giảm thiểu số lần đoán. Ví dụ: nếu \"AUDIO\" xác định \"A\" và \"I\", thì ưu tiên các từ chứa các chữ cái này trong các ô khác. [Bảng so sánh cấu hình: Chiến lược lựa chọn từ - Bao quát rộng so với tập trung hẹp, với ví dụ như \"AUDIO\" so với \"CRANE\".]"
+  },
+  {
+    "question": "Cơ chế tính điểm của Sedecordle dựa trên cơ sở nào?",
+    "answer": "Hệ thống tính điểm của Sedecordle dựa trên số lượt thử được sử dụng để giải tất cả 16 ô. Bạn càng sử dụng ít lượt thử, điểm số càng cao. Ví dụ: Giải tất cả các ô trong 15 lượt thử sẽ có điểm cao hơn so với việc giải trong 20 lượt thử. [Phân tích hệ thống: Cơ chế tính điểm - Mỗi lượt thử làm giảm điểm tiềm năng, và các lượt thử chưa sử dụng cộng thêm điểm thưởng. Công thức là: Điểm = (21 - Lượt thử đã dùng) * 10 + Thưởng.]"
+  },
+  {
+    "question": "Làm thế nào thuật toán tạo ô của Sedecordle đảm bảo tính công bằng và đa dạng?",
+    "answer": "Thuật toán tạo ô của Sedecordle đảm bảo tính công bằng và đa dạng bằng cách: 1) Ngẫu nhiên chọn các từ trong danh sách các từ 5 chữ cái phổ biến được chọn lọc. 2) Đảm bảo rằng mỗi ô độc lập nhưng có thể chia sẻ chữ cái với các ô khác. 3) Cân bằng độ khó bằng cách đưa vào cả các từ phổ biến và các từ ít phổ biến. Ví dụ: Ô 1 có thể có từ \"CRANE\" trong khi ô 2 có từ \"PLANT\", chia sẻ chữ cái \"A\". [Phân tích hệ thống: Thuật toán tạo ô - Chọn ngẫu nhiên + Các ô độc lập + Cân bằng độ khó.]"
+  },
+  {
+    "question": "Tôi có thể chuyển tiến độ của mình trong Sedecordle giữa các thiết bị khác nhau không?",
+    "answer": "Có, bạn có thể chuyển tiến độ của mình trong Sedecordle giữa các thiết bị. BƯỚC 1 - Đảm bảo rằng bạn đã đăng nhập vào cùng một tài khoản trên cả hai thiết bị. BƯỚC 2 - Sử dụng tính năng lưu trên đám mây để đồng bộ tiến độ của bạn. BƯỚC 3 - Nếu gặp sự cố, hãy xóa bộ nhớ cache và thử lại. Ví dụ: Tiến độ từ điện thoại của bạn có thể được truy cập trên máy tính bảng bằng cách đăng nhập vào cùng một tài khoản. [So sánh nhiều phương án: Đồng bộ trên đám mây so với lưu trữ thủ công - Đồng bộ trên đám mây tự động nhưng yêu cầu tài khoản, trong khi lưu trữ thủ công là ngoại tuyến nhưng ít thuận tiện hơn.]"
+  },
+  {
+    "question": "Có bất kỳ tính năng ẩn hoặc trứng phục sinh nào trong Sedecordle mà người chơi có thể không biết không?",
+    "answer": "Sedecordle bao gồm các tính năng ẩn như: 1) Chế độ tối để chơi tốt hơn vào ban đêm. 2) Thành tích ẩn để giải tất cả các ô trong thời gian kỷ lục. 3) Hiệu ứng đặc biệt khi hoàn thành tất cả 16 ô. Ví dụ: Hoàn thành tất cả các ô trong dưới 15 lượt thử sẽ kích hoạt hiệu ứng pháo hoa đặc biệt. [Khai thác trứng phục sinh: Tính năng ẩn - Chế độ tối, Thành tích ẩn, Hiệu ứng đặc biệt.]"
+  }
+]

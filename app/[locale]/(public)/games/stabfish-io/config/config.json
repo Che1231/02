@@ -1,0 +1,122 @@
+{
+  "name": "Stabfish.io",
+  "pagePath": "/games/stabfish-io",
+  "pageName": "stabfish-io",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://stabfish.io/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken87.png",
+      "content": "Stabfish.io is so addictive! The thrill of hunting down other fish while dodging tusks is insane. Perfect for quick gaming sessions!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "LOL, I keep getting stabbed but it's hilarious. Gotta admit, Stabfish.io is way more fun than I expected!"
+    },
+    {
+      "author": "CosmicKatanaX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicKatanaX.png",
+      "content": "Absolutely love the multiplayer chaos in Stabfish.io. The ocean feels so alive with all the fish battling it out!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Man, Stabfish.io is a blast! Collecting trophies and boosting my fish feels so satisfying. Highly recommend!"
+    },
+    {
+      "author": "PhantomRevolver99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomRevolver99.png",
+      "content": "Wow, the graphics and gameplay in Stabfish.io are surprisingly good for a free-to-play game. Totally hooked!"
+    },
+    {
+      "author": "SavageBlade_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBlade_X.png",
+      "content": "Stabfish.io is pure chaos in the best way possible. Dodging tusks while hunting others is so intense!"
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "This game is a gem! Stabfish.io keeps me coming back with its fast-paced action and competitive vibe."
+    },
+    {
+      "author": "NeonLeviathan42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonLeviathan42.png",
+      "content": "Stabfish.io is so much fun! The thrill of the hunt and the danger from other players make it super engaging."
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "LOL, I can't stop playing Stabfish.io! It's like underwater gladiator battles. So much chaos, so much fun!"
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "Stabfish.io is surprisingly strategic. You gotta plan your moves carefully to survive the tusk warfare!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/stabfishio/stabfish-m200x130.webp",
+  "page_path": "/games/stabfish-io",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8scegti010nlywlpg968vy7",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T05:29:12.102Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 13:39:49"
+}

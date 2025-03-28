@@ -1,0 +1,77 @@
+{
+  "redactle": {
+    "title": "Redactle - Ücretsiz Çevrimiçi Kelime Tahmin Oyunu",
+    "slogan": "Gizli Makaleyi Keşfedin - Şimdi Redactle Oynayın!",
+    "description": "Redactle, gizlenmiş bir Vikipedi makalesinin konusunu ortaya çıkarmaya çalışan bir gazete editörü olarak oynadığınız zorlu bir kelime tahmin oyunudur. Çoğu kelime gizlendiğinde, konuyu ve ilgili kelimeleri belirlemek için çıkarım becerilerinizi kullanmanız gerekir. Doğru kelimeleri ne kadar çok tahmin ederseniz, gizemin çözümüne o kadar yaklaşırsınız. Bulmaca meraklıları için mükemmel olan Redactle, benzersiz ve ilgi çekici bir oyun deneyimi sunar. Bugünden itibaren Redactle oynamaya başlayın ve bilginizi test edin!",
+    "Loading": {
+      "title": "Redactle Yükleniyor - Lütfen Bekleyin"
+    },
+    "Navbar": {
+      "title": "Gezinme"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Redactle - Ücretsiz Çevrimiçi Kelime Tahmin Oyunu",
+      "description": "Redactle, gizlenmiş bir Vikipedi makalesinin konusunu ortaya çıkarmaya çalışan bir gazete editörü olarak oynadığınız zorlu bir kelime tahmin oyunudur. Çoğu kelime gizlendiğinde, konuyu ve ilgili kelimeleri belirlemek için çıkarım becerilerinizi kullanmanız gerekir. Doğru kelimeleri ne kadar çok tahmin ederseniz, gizemin çözümüne o kadar yaklaşırsınız. Bulmaca meraklıları için mükemmel olan Redactle, benzersiz ve ilgi çekici bir oyun deneyimi sunar. Bugünden itibaren Redactle oynamaya başlayın ve bilginizi test edin!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Redactle - Ücretsiz Çevrimiçi Kelime Tahmin Oyunu",
+      "whatIsTitle": "Redactle Nedir?",
+      "whatIsDescription": "Redactle, gizlenmiş bir Vikipedi makalesinin konusunu ortaya çıkarmaya çalışan bir gazete editörü olarak oynadığınız zorlu bir kelime tahmin oyunudur. Çoğu kelime gizlendiğinde, konuyu ve ilgili kelimeleri belirlemek için çıkarım becerilerinizi kullanmanız gerekir.",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Gizli makalede olabileceğini düşündüğünüz kelimelerle başlayın.",
+      "howToPlayStep2": "Doğru bir kelime tahmin ettiğinizde, metindeki orijinal yerlerinde görünecektir.",
+      "howToPlayStep3": "Makalenin konusunu çıkarana kadar kelime tahmin etmeye devam edin. Doğru konuyu bulduğunuzda oyun biter.",
+      "keyFeaturesTitle": "Temel Özellikler",
+      "feature1Title": "Zorlu Oyun",
+      "feature1Description": "Redactle, bilginizi ve çıkarım becerilerinizi test eden benzersiz ve zorlu bir oyun deneyimi sunar.",
+      "feature2Title": "Gizli Makale",
+      "feature2Description": "Oyun, rastgele bir Vikipedi makalesindeki çoğu kelimeyi gizler ve sizinle çalışmak için yalnızca birkaç ipucu bırakır.",
+      "feature3Title": "Çıkarım Becerileri",
+      "feature3Description": "Gizli makaledeki konuyu ve ilgili kelimeleri belirlemek için çıkarım becerilerinizi kullanmanız gerekir.",
+      "feature4Title": "İlgi Çekici Deneyim",
+      "feature4Description": "Redactle, sizi daha fazlasını oynamaya teşvik eden ilgi çekici ve sürükleyici bir deneyim sunar."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

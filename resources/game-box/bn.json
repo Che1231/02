@@ -1,0 +1,114 @@
+{
+  "recommended": [],
+  "categories": [
+    {
+      "name": "হাইলাইট করা গেমস",
+      "path": "/c/featured",
+      "pageSize": 15,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "আপনার জন্য আমরা সেরা গেমস নির্বাচন করেছি!"
+    },
+    {
+      "name": "আর্কেড গেমস",
+      "path": "/c/arcade-games",
+      "pageSize": 15,
+      "backgroundColor": "#d2e7ff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "উত্তেজনাপূর্ণ আর্কেড গেমস!",
+      "position": 2
+    },
+    {
+      "name": "অ্যাকশন গেমস",
+      "path": "/c/action",
+      "pageSize": 15,
+      "backgroundColor": "#c1f8cf",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "উত্তেজনাপূর্ণ অ্যাকশন গেমস!",
+      "position": 3
+    },
+    {
+      "name": "সাহসিক গেমস",
+      "path": "/c/adventure-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 4,
+      "description": "উত্তেজনাপূর্ণ সাহসিক গেমস!"
+    },
+    {
+      "name": "ওয়ার্ডলেভার্স গেমস",
+      "path": "/c/wordleverse-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 5,
+      "description": "উত্তেজনাপূর্ণ ওয়ার্ডলেভার্স গেমস!"
+    },
+    {
+      "name": ".IO গেমস",
+      "path": "/c/io-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 6,
+      "description": "উত্তেজনাপূর্ণ .IO গেমস!"
+    },
+    {
+      "name": "আনুষ্ঠানিক গেমস",
+      "path": "/c/casual-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 7,
+      "description": "উত্তেজনাপূর্ণ আনুষ্ঠানিক গেমস!"
+    },
+    {
+      "name": "পাজেল গেমস",
+      "path": "/c/puzzle-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 8,
+      "description": "উত্তেজনাপূর্ণ পাজেল গেমস!"
+    },
+    {
+      "name": "রেসিং ও ড্রাইভিং",
+      "path": "/c/racing-driving",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 9,
+      "description": "উত্তেজনাপূর্ণ রেসিং ও ড্রাইভিং গেমস!"
+    },
+    {
+      "name": "3D গেমস",
+      "path": "/c/3d-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 10,
+      "description": "উত্তেজনাপূর্ণ 3D গেমস!"
+    },
+    {
+      "name": "স্পোর্টস গেমস",
+      "path": "/c/sports-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 11,
+      "description": "উত্তেজনাপূর্ণ স্পোর্টস গেমস!"
+    }
+  ]
+}

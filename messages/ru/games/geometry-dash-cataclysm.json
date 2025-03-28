@@ -1,0 +1,77 @@
+{
+  "geometry-dash-cataclysm": {
+    "title": "Игра Geometry Dash Cataclysm онлайн – экстремальный демон-уровень",
+    "slogan": "Вызов экстремальной трилогии демонов",
+    "description": "Geometry Dash Cataclysm – это чрезвычайно сложный уровень с рейтингом 10 звезд и 3 пользовательскими монетами. Как первая часть трилогии \"Экстремальные демоны\", она предлагает интенсивную игру и уникальный опыт. Погрузитесь в этот знаковый уровень, проверьте свои навыки и присоединитесь к сообществу Geometry Dash. Играйте в Geometry Dash Cataclysm прямо сейчас и примите вызов!",
+    "Loading": {
+      "title": "Загрузка..."
+    },
+    "Navbar": {
+      "title": "Навигация"
+    },
+    "Common": {
+      "createAt": "Создано",
+      "guide": "Руководство",
+      "privacyPolicy": "Политика конфиденциальности",
+      "termsOfServices": "Условие использования",
+      "text": "Контент",
+      "help": "Помощь",
+      "friendlyLinks": "Полезные ссылки",
+      "articleList": "Список статей",
+      "home": "Главная",
+      "next": "Следующая",
+      "previous": "Предыдущая"
+    },
+    "HomeIframe": {
+      "title": "Geometry Dash Cataclysm",
+      "description": "Испытайте интенсивный вызов Geometry Dash Cataclysm, уровня с рейтингом 10 звезд и 3 пользовательскими монетами. Играйте прямо сейчас и присоединяйтесь к сообществу!",
+      "iframeTitle": "Предварительный просмотр игры",
+      "fullscreenButton": "Полный экран",
+      "shareButton": "Поделиться",
+      "urlCopied": "Ссылка скопирована в буфер обмена!",
+      "downloadGame": "Скачать игру",
+      "playGame": "Играть"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Geometry Dash Cataclysm",
+      "whatIsTitle": "Что такое Geometry Dash Cataclysm?",
+      "whatIsDescription": "Geometry Dash Cataclysm – это чрезвычайно сложный уровень с рейтингом 10 звезд и 3 пользовательскими монетами. Это первая часть трилогии \"Экстремальные демоны\", предлагающая уникальный и интенсивный игровой опыт.",
+      "howToPlayTitle": "Как играть",
+      "howToPlayStep1": "Перемещайтесь через препятствия с точным таймингом.",
+      "howToPlayStep2": "Собирайте пользовательские монеты, чтобы разблокировать особые функции.",
+      "howToPlayStep3": "Завершите уровень, чтобы получить высокий результат.",
+      "keyFeaturesTitle": "Основные особенности",
+      "feature1Title": "Экстремальный вызов",
+      "feature1Description": "Проверьте свои навыки на уровне с рейтингом 10 звезд.",
+      "feature2Title": "Пользовательские монеты",
+      "feature2Description": "Собирайте 3 пользовательские монеты, чтобы улучшить игровой процесс.",
+      "feature3Title": "Знаковый уровень",
+      "feature3Description": "Погрузитесь в первую часть трилогии \"Экстремальные демоны\".",
+      "feature4Title": "Любимый уровень сообщества",
+      "feature4Description": "Присоединяйтесь к сообществу Geometry Dash и делитесь своим прогрессом."
+    },
+    "HomeFAQs": {
+      "title": "ЧАВО"
+    },
+    "HomeRelatedVideo": {
+      "title": "Видео игры"
+    },
+    "HomeRecommendation": {
+      "title": "Рекомендации"
+    },
+    "HomeComments": {
+      "title": "Комментарии к игре"
+    },
+    "GamePage": {
+      "title": "Все игры",
+      "description": "Все игры",
+      "games": "Игры"
+    },
+    "CategoryPage": {
+      "categories": "Категории",
+      "noCategories": "Категории не найдены",
+      "viewMore": "Показать больше",
+      "page": "Страница"
+    }
+  }
+}

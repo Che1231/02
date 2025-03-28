@@ -1,0 +1,77 @@
+{
+  "lava-bird": {
+    "title": "在线玩熔岩鸟 - 火焰飞行冒险游戏",
+    "slogan": "在这个炙热的横版游戏中测试你的反应能力！",
+    "description": "与熔岩鸟一起展开一场火焰飞行！在燃烧的熔岩洞穴中飞行，躲避障碍物，用毁灭性的火球击败敌人。有两个激动人心的游戏模式，你可以单人游戏或与朋友一起挑战。体验这款充满动作的2D横版游戏的刺激。现在玩熔岩鸟，征服熔岩天空！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "熔岩鸟 - 火焰飞行冒险",
+      "description": "加入熔岩鸟，在熔岩洞穴中进行一场火焰飞行。躲避障碍物、发射火球、击败敌人，在刺激的2D横版游戏中取得胜利。现在就玩！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "熔岩鸟 - 火焰飞行冒险",
+      "whatIsTitle": "熔岩鸟是什么？",
+      "whatIsDescription": "熔岩鸟是一款充满动作的2D横版游戏，你控制着一只火鸟在危险的熔岩洞穴中穿梭。躲避障碍物，发射火球，击败敌人，成为熔岩天空之王！",
+      "howToPlayTitle": "如何游戏",
+      "howToPlayStep1": "使用空格键或点击来控制单人模式中的鸟类。",
+      "howToPlayStep2": "在双人模式中，玩家1（红色鸟）使用W键，玩家2（蓝色鸟）使用向上箭头键。",
+      "howToPlayStep3": "躲避障碍物并击败敌人以获得分数。第一个达到五分的玩家获胜！",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "火焰飞行",
+      "feature1Description": "在充满障碍物和敌人的危险熔岩洞穴中穿梭。",
+      "feature2Title": "毁灭性的火球",
+      "feature2Description": "发射火球摧毁敌人，清除你的道路。",
+      "feature3Title": "两种游戏模式",
+      "feature3Description": "选择单人游戏或与朋友进行激烈的对抗。",
+      "feature4Title": "简单易用的操作",
+      "feature4Description": "简单直观的控制使所有玩家都能轻松地享受游戏乐趣。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页数"
+    }
+  }
+}

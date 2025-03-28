@@ -1,0 +1,77 @@
+{
+  "pundle": {
+    "title": "Pundle - Khám phá những câu đố vui nhộn và chinh phục những thử thách dễ thương",
+    "slogan": "Khám phá những câu đố vui nhộn và chinh phục những thử thách dễ thương trong trò chơi nền tảng tuyệt vời, Pundle!",
+    "description": "Pundle đến để thay đổi kỳ vọng của bạn! Không còn trò chơi xếp chữ truyền thống như Scrabble hay Boggle, Pundle là một trận chiến rực rỡ giữa trí tuệ và sự sáng tạo từ từ vựng. Đây là một trò chơi lấy cảm hứng từ Wordle, nơi những câu đùa là vũ khí và tiếng cười là niềm vui chiến thắng. Mỗi ngày, một câu đố mới sẽ thách thức bộ óc của bạn, yêu cầu bạn tạo ra những câu đùa hài hước nhất từ những gợi ý được cung cấp. Đừng chỉ làm nhiệm vụ nhàm chán là đoán từ; Pundle là về việc giải phóng những câu đùa sáng tạo bên trong bạn. Bạn càng sáng tạo và kỳ quái, những câu đùa của bạn càng nổi bật! Nhưng đừng quên, bạn chỉ có một số lần thử giới hạn trước khi tiếng cười ngọt ngào hoặc thất bại đến. Vì vậy, hãy chuẩn bị bút chì để kiểm tra những dự đoán của bạn, dọn sạch từ điển câu đùa của bạn và chuẩn bị để giành vị trí trong bảng xếp hạng. Việc tra cứu cần thiết để hỗ trợ vòng chơi hoàn toàn áp dụng được. Mục tiêu cuối cùng của bạn là chiến thắng!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Đọc"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Pundle - Chơi miễn phí trực tuyến",
+      "description": "Khám phá Pundle, một trò chơi từ vựng hấp dẫn nơi những câu đùa là vũ khí và tiếng cười là phần thưởng. Thử thách bộ óc của bạn hàng ngày với những câu đố sáng tạo và leo lên bảng xếp hạng. Chơi ngay và giải phóng sự sáng tạo từ vựng của bạn!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào bộ nhớ tạm!",
+      "downloadGame": "Tải game",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Pundle - Trò chơi câu đố từ vựng hoàn hảo",
+      "whatIsTitle": "Pundle là gì?",
+      "whatIsDescription": "Pundle là một trò chơi lấy cảm hứng từ Wordle, nơi bạn tạo ra những câu đùa hài hước nhất từ những gợi ý được cung cấp. Đó là một cuộc chiến về trí tuệ và sự sáng tạo từ vựng sẽ giữ cho bạn giải trí trong nhiều giờ.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Đoán từ dựa trên lời gợi ý được cung cấp.",
+      "howToPlayStep2": "Tạo câu đùa hài hước nhất từ từ đã đoán.",
+      "howToPlayStep3": "Gửi câu đùa của bạn và xem nó xếp hạng như thế nào!",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Thử thách hàng ngày",
+      "feature1Description": "Mỗi ngày, một câu đố mới sẽ thách thức bộ óc của bạn và kiểm tra sự sáng tạo của bạn.",
+      "feature2Title": "Những câu đùa sáng tạo",
+      "feature2Description": "Giải phóng trí tưởng tượng của bạn và tạo ra những câu đùa hài hước nhất để nổi bật.",
+      "feature3Title": "Số lần thử hạn chế",
+      "feature3Description": "Bạn chỉ có một số lần thử giới hạn trước khi tiếng cười ngọt ngào hoặc thất bại đến.",
+      "feature4Title": "Hình ảnh tuyệt đẹp",
+      "feature4Description": "Tận hưởng hình ảnh tuyệt đẹp và âm nhạc nền hấp dẫn giữ cho tế bào não của bạn hoạt động liên tục."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

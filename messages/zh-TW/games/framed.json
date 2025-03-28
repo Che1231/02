@@ -1,0 +1,77 @@
+{
+  "framed": {
+    "title": "框架 - 一款黑色風格的益智冒險遊戲",
+    "slogan": "重新排列、制定策略，解開謎團",
+    "description": "沉浸於框架，一款結合講故事與策略思考的迷人益智遊戲。 在這款黑色風格的冒險中，玩家透過重新排列漫畫面板來探索扣人心弦的故事。 憑藉其引人入勝的遊戲玩法和神秘的氛圍，框架提供獨特的體驗，挑戰您的思維並讓您保持投入。 現在就玩框架，揭開每個面板背後的秘密！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "框架 - 一款黑色風格的益智冒險遊戲",
+      "description": "體驗框架的刺激，一款黑色風格的益智遊戲，您需要重新排列漫畫面板來探索扣人心弦的故事。 現在就玩，沉浸於這款獨特的冒險！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "遊玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "框架 - 一款黑色風格的益智冒險遊戲",
+      "whatIsTitle": "框架是什麼？",
+      "whatIsDescription": "框架是一款迷人且引人入勝的益智遊戲，結合了講故事和策略思考。 在這款黑色風格的冒險中，玩家會發現一個充滿謎團的世界，他們必須重新排列漫畫面板來探索扣人心弦的故事。",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "重新排列漫畫面板以推進故事。",
+      "howToPlayStep2": "運用策略思維來解決謎題。",
+      "howToPlayStep3": "揭開每個面板背後的秘密。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "黑色風格的故事情節",
+      "feature1Description": "沉浸於受到黑色電影啟發的扣人心弦的故事中。",
+      "feature2Title": "策略益智解題",
+      "feature2Description": "憑藉策略思維挑戰您的思維。",
+      "feature3Title": "獨特的遊戲玩法",
+      "feature3Description": "體驗獨特的遊戲機制，重新排列漫畫面板。",
+      "feature4Title": "引人入勝的氛圍",
+      "feature4Description": "融入一個神秘且迷人的遊戲世界。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "檢視更多",
+      "page": "頁面"
+    }
+  }
+}

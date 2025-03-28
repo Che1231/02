@@ -1,0 +1,77 @@
+{
+  "coreball": {
+    "title": "Coreball : Maîtriser le rythme, conquérir le jeu",
+    "slogan": "Naviguez, synchronisez-vous, triompher",
+    "description": "Coreball est un jeu rythmique captivant qui met au défi votre synchronisation et votre précision. Avec plus de 100 niveaux, chacun exigeant une synchronisation parfaite, vous serez captivé dès le début. Que vous soyez un débutant ou un joueur expérimenté, Coreball offre un plaisir et un enthousiasme infinis. Jouez à Coreball maintenant et voyez si vous pouvez maîtriser le rythme !",
+    "Loading": {
+      "title": "Chargement de Coreball..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Coreball : Relevez le défi ultime du rythme",
+      "description": "Découvrez le frisson de Coreball, un jeu qui met à l'épreuve votre synchronisation et votre précision. Avec plus de 100 niveaux, Coreball offre un plaisir et une excitation constants. Jouez maintenant et voyez si vous pouvez maîtriser le rythme !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Coreball : Le Défi Rythmique",
+      "whatIsTitle": "Qu'est-ce que Coreball ?",
+      "whatIsDescription": "Coreball est un jeu basé sur le rythme où vous naviguez à travers les niveaux en synchronisant vos mouvements avec le rythme. Facile à démarrer mais difficile à maîtriser, il offre un plaisir infini à tous les joueurs.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Commencez par synchroniser vos mouvements avec le rythme du niveau.",
+      "howToPlayStep2": "Naviguez à travers les obstacles en maintenant un rythme régulier.",
+      "howToPlayStep3": "Progression à travers plus de 100 niveaux, de difficulté croissante.",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Gameplay basé sur le rythme",
+      "feature1Description": "Coreball met au défi votre synchronisation et votre précision grâce à sa mécanique unique basée sur le rythme.",
+      "feature2Title": "Plus de 100 niveaux",
+      "feature2Description": "Avec un vaste choix de niveaux, Coreball offre des défis et un plaisir infinis.",
+      "feature3Title": "Simple mais stimulant",
+      "feature3Description": "Facile à démarrer mais difficile à maîtriser, Coreball convient parfaitement aux joueurs de tous niveaux.",
+      "feature4Title": "Plaisir sans fin",
+      "feature4Description": "Coreball offre un divertissement sans fin grâce à son gameplay captivant et à sa difficulté croissante."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "gartic-io": {
+    "title": "Gartic.io: Online Multiplayer Drawing & Guessing Game",
+    "slogan": "Draw, Guess, and Have Fun!",
+    "description": "Gartic.io is an exciting online multiplayer game where creativity meets guessing. Players take turns drawing and guessing words, making it a perfect blend of fun and challenge. Whether you're an artist or a word enthusiast, Gartic.io offers endless entertainment. Join now and start playing for free!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Gartic.io: Draw & Guess Online",
+      "description": "Experience the thrill of Gartic.io, where you can draw, guess, and have fun with friends or strangers online. Perfect for all ages, this game tests your artistic and guessing skills in a creative and engaging way.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Gartic.io: The Ultimate Drawing & Guessing Game",
+      "whatIsTitle": "What is Gartic.io?",
+      "whatIsDescription": "Gartic.io is an online multiplayer game where players take turns drawing and guessing words. It's a fun and creative way to test your artistic and guessing skills.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Take turns drawing a word given to you.",
+      "howToPlayStep2": "Other players try to guess what you're drawing.",
+      "howToPlayStep3": "Score points for correct guesses and creative drawings.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Multiplayer Fun",
+      "feature1Description": "Play with friends or strangers from around the world.",
+      "feature2Title": "Creative Drawing",
+      "feature2Description": "Express your artistic skills with a variety of drawing tools.",
+      "feature3Title": "Word Guessing",
+      "feature3Description": "Test your guessing skills with a wide range of words.",
+      "feature4Title": "Endless Entertainment",
+      "feature4Description": "Enjoy endless rounds of fun and creativity."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

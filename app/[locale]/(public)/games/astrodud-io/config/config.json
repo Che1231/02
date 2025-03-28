@@ -1,0 +1,122 @@
+{
+  "name": "AstroDud.io",
+  "pagePath": "/games/astrodud-io",
+  "pageName": "astrodud-io",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://astrodud.io/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "NeonPhantom87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonPhantom87.png",
+      "content": "Wow, AstroDud.io is so much fun! The graphics are mind-blowing."
+    },
+    {
+      "author": "LethalBroadsword_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LethalBroadsword_X.png",
+      "content": "This game is insane! Can't believe how competitive it is."
+    },
+    {
+      "author": "CosmicPhoenix42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicPhoenix42.png",
+      "content": "Anyone else having a blast in AstroDud? I'm addicted!"
+    },
+    {
+      "author": "RevolverKraken_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/RevolverKraken_X.png",
+      "content": "Who knew 3D arenas could be so immersive?"
+    },
+    {
+      "author": "WildNeon89",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/WildNeon89.png",
+      "content": "Had some hilarious moments dodging obstacles here."
+    },
+    {
+      "author": "ShadowReaper87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/ShadowReaper87.png",
+      "content": "The obstacle course is a true test of skill!"
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "Loving the upgrade system – totally worth my time!"
+    },
+    {
+      "author": "PhoenixLagWarrior",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhoenixLagWarrior.png",
+      "content": "Just won my first match – so thrilled about the competition!"
+    },
+    {
+      "author": "KrakenSavageBlade",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/KrakenSavageBlade.png",
+      "content": "Absolutely love the global leaderboard!"
+    },
+    {
+      "author": "FoolX_DarkAura",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/FoolX_DarkAura.png",
+      "content": "Funny game – almost thought I was good at it!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/astrodud-io/astrodud-io-m200x130.webp",
+  "page_path": "/games/astrodud-io",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8scbco700xflywl1pp637sl",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T05:26:46.759Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 13:26:46"
+}

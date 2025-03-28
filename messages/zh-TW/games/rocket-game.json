@@ -1,0 +1,77 @@
+{
+  "rocket-game": {
+    "title": "火箭遊戲：刺激的太空冒險",
+    "slogan": "駕駛你的火箭，挑戰各個關卡，飛向星辰大海！",
+    "description": "火箭遊戲帶你踏上刺激的冒險之旅！駕駛你的火箭，挑戰各個關卡，避開障礙，飛向星辰大海。這款基於物理的駕駛遊戲，帶給你獨特的危險道路旅行體驗。沉浸在這些獨特的體驗中，讓你的閒暇時光更加精彩。現在就玩火箭遊戲，體驗刺激！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "火箭遊戲：刺激的太空冒險",
+      "description": "駕駛你的火箭，挑戰各個關卡，避開障礙，飛向星辰大海。體驗在危險道路上獨特的旅行經歷。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "火箭遊戲：刺激的太空冒險",
+      "whatIsTitle": "火箭遊戲是什麼？",
+      "whatIsDescription": "火箭遊戲是一款基於物理的駕駛遊戲，帶給你在危險道路上獨特的旅行體驗。陡峭的山坡和崎嶇的山丘將使你的旅程更加精彩。",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "↑方向鍵：前進；按住加速。",
+      "howToPlayStep2": "↓方向鍵：倒退；通常用於積累動量。",
+      "howToPlayStep3": "空格鍵：火箭模式，按住調整此特殊車輛的『發射』力道。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "具有挑戰性的關卡",
+      "feature1Description": "在複雜的平台上進行導航並克服障礙。",
+      "feature2Title": "基於物理的遊戲玩法",
+      "feature2Description": "在駕駛通過危險道路的過程中體驗逼真的物理效果。",
+      "feature3Title": "火箭模式",
+      "feature3Description": "使用火箭模式進行動量跳躍並像火箭一樣飛走。",
+      "feature4Title": "令人上癮的冒險",
+      "feature4Description": "沉浸在獨特的遊戲體驗中，讓遊戲令人上癮。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題集"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到分類",
+      "viewMore": "查看更多",
+      "page": "頁"
+    }
+  }
+}

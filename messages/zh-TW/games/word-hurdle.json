@@ -1,0 +1,77 @@
+{
+  "word-hurdle": {
+    "title": "字謎關卡：挑戰您的詞彙量與空間能力",
+    "slogan": "每次遊戲都提升您的詞彙力",
+    "description": "字謎關卡是一款引人入勝的字謎遊戲，考驗您的詞彙量和空間推理能力。 非常適合愛玩字謎遊戲的人，它提供了一個簡單而具挑戰性的體驗。 現在就玩字謎關卡，在享受樂趣的同時提升您的認知能力！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "字謎關卡：免費線上字謎遊戲",
+      "description": "字謎關卡是一款有趣且具有挑戰性的字謎遊戲，可提升您的詞彙量和空間推理能力。 現在就玩，看看您能走多遠！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "字謎關卡",
+      "whatIsTitle": "字謎關卡是什麼？",
+      "whatIsDescription": "字謎關卡是一款簡單而具挑戰性的字謎遊戲，可以提升您的詞彙量和空間推理能力。",
+      "howToPlayTitle": "如何玩遊戲",
+      "howToPlayStep1": "首先輸入一個單詞。",
+      "howToPlayStep2": "使用提示來猜出正確的單詞。",
+      "howToPlayStep3": "在時間限制內完成挑戰。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "詞彙增強",
+      "feature1Description": "每次遊戲都能提升您的詞彙量。",
+      "feature2Title": "空間推理",
+      "feature2Description": "挑戰您的空間推理能力。",
+      "feature3Title": "快速思考",
+      "feature3Description": "測試您的快速思考和智慧反應。",
+      "feature4Title": "有趣且引人入勝",
+      "feature4Description": "享受一個有趣且引人入勝的字謎遊戲體驗。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題集"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "檢視更多",
+      "page": "頁面"
+    }
+  }
+}

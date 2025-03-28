@@ -1,0 +1,122 @@
+{
+  "name": "Phoodle",
+  "pagePath": "/games/phoodle",
+  "pageName": "phoodle",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.phoodle.net/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken87.png",
+      "content": "This food-themed Wordle is kinda addictive! Love guessing those culinary terms. Green and yellow hints make it easier."
+    },
+    {
+      "author": "SavageBroadsword_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBroadsword_X.png",
+      "content": "Phoodle keeps my brain sharp! Didn't know so much about food, tbh. Definitely worth a try!"
+    },
+    {
+      "author": "Witcher4Food",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Food.png",
+      "content": "Is anyone else obsessed with Phoodle?  The daily food fact is my favorite part. So cool."
+    },
+    {
+      "author": "NoobChef9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobChef9000.png",
+      "content": "I suck at this, but learning cooking methods is fun! Six tries are never enough, man."
+    },
+    {
+      "author": "Xx_DarkShadow_xX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Xx_DarkShadow_xX.png",
+      "content": "Phoodle's a cool little puzzle. Unlimited playability? Hell yeah!"
+    },
+    {
+      "author": "PhantomPhoenix42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix42.png",
+      "content": "Okay, seriously addicted. What's today's culinary word?!  It's like Wordle but yummy."
+    },
+    {
+      "author": "AdjectiveKatana_A",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AdjectiveKatana_A.png",
+      "content": "The food tips after winning are awesome! Great twist on the Wordle formula."
+    },
+    {
+      "author": "CookingNoob9001",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CookingNoob9001.png",
+      "content": "Anyone else getting hungry playing Phoodle? I need snacks now, so tasty!"
+    },
+    {
+      "author": "CosmicLeviathan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicLeviathan99.png",
+      "content": "It's pretty challenging. Sometimes I feel so dumb, lol. Keep guessing tho!"
+    },
+    {
+      "author": "DescriptiveRevolver_B",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/DescriptiveRevolver_B.png",
+      "content": "This game is my jam! Learning about ingredients and food is so interesting."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/phoodle/phoodle-m200x130.webp",
+  "page_path": "/games/phoodle",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8scdqmk0103lywl1qicjcaf",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T05:28:38.155Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 13:37:22"
+}

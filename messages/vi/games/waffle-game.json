@@ -1,0 +1,77 @@
+{
+  "waffle-game": {
+    "title": "Trò chơi Waffle - Thử thách giải câu đố từ online miễn phí",
+    "slogan": "Thả sức khả năng giải từ của bạn với Trò chơi Waffle",
+    "description": "Khám phá trải nghiệm câu đố từ tuyệt vời nhất với Trò chơi Waffle! Hoàn hảo cho những người đam mê trò chơi từ, Trò chơi Waffle mang đến một thách thức độc đáo: tìm sáu từ ẩn trong bảng Waffle chỉ với 15 lần sắp xếp lại chữ cái. Cho dù bạn đang mở rộng vốn từ vựng của mình hay tìm kiếm một bài tập cho trí óc, Trò chơi Waffle được thiết kế cho mọi lứa tuổi và trình độ kỹ năng. Chơi ngay và thử khả năng giải từ của bạn!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước"
+    },
+    "HomeIframe": {
+      "title": "Trò chơi Waffle - Thử thách giải câu đố từ online miễn phí",
+      "description": "Trải nghiệm cảm giác hồi hộp của Trò chơi Waffle, một câu đố từ cuốn hút thách thức bạn tìm sáu từ ẩn trong bảng Waffle. Với 15 lần sắp xếp lại chữ cái, đây là trò chơi hoàn hảo cho những người đam mê từ vựng mọi lứa tuổi. Chơi ngay và thử kỹ năng của bạn!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào clipboard!",
+      "downloadGame": "Tải game",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Trò chơi Waffle - Thử thách giải câu đố từ online miễn phí",
+      "whatIsTitle": "Trò chơi Waffle là gì?",
+      "whatIsDescription": "Trò chơi Waffle là một trò chơi đoán từ hấp dẫn thách thức người chơi tìm sáu từ ẩn trong bảng Waffle. Với 15 lần sắp xếp lại chữ cái, nó mang đến một trải nghiệm câu đố từ độc đáo và thú vị.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Bắt đầu bằng cách xem xét bảng Waffle để xác định các từ tiềm năng.",
+      "howToPlayStep2": "Sắp xếp lại các chữ cái trong 15 lần di chuyển cho phép để tạo thành các từ chính xác.",
+      "howToPlayStep3": "Hoàn thành câu đố bằng cách tìm tất cả sáu từ ẩn trong bảng Waffle.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Thách thức nhiều từ",
+      "feature1Description": "Tìm sáu từ ẩn trong bảng Waffle để có trải nghiệm giải câu đố phức tạp hơn.",
+      "feature2Title": "Số lần di chuyển giới hạn",
+      "feature2Description": "Chỉ được phép sắp xếp lại chữ cái 15 lần, tăng thêm thách thức.",
+      "feature3Title": "Cho mọi lứa tuổi",
+      "feature3Description": "Trò chơi Waffle được thiết kế để được mọi người chơi ở mọi lứa tuổi và trình độ kỹ năng thưởng thức.",
+      "feature4Title": "Mở rộng vốn từ vựng",
+      "feature4Description": "Nâng cao vốn từ vựng tiếng Anh của bạn trong khi thưởng thức trò chơi."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

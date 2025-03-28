@@ -1,0 +1,77 @@
+{
+  "sedecordle": {
+    "title": "Jouer à Sedecordle en ligne - Jeu de puzzle de mots gratuit",
+    "slogan": "Découvrez des mots cachés avec Sedecordle",
+    "description": "Sedecordle est un jeu de devinettes captivant qui met au défi les joueurs de découvrir des mots cachés.  Semblable à Wordle, il propose plusieurs niveaux de difficulté variable et permet de résoudre des énigmes simultanément. Plongez-vous dans Sedecordle dès aujourd'hui et vivez le frisson de la découverte de mots !",
+    "Loading": {
+      "title": "Chargement de Sedecordle..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Sedecordle™ - Jeu de puzzle de mots en ligne gratuit",
+      "description": "Relevez le défi avec Sedecordle, un jeu de puzzle de mots captivant. Découvrez des mots cachés sur plusieurs niveaux de difficulté variable. Jouez dès maintenant et profitez de l'expérience ultime de la découverte de mots !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sedecordle - Défi de puzzle de mots",
+      "whatIsTitle": "Qu'est-ce que Sedecordle ?",
+      "whatIsDescription": "Sedecordle est un jeu de devinettes captivant qui met au défi les joueurs de découvrir des mots cachés.  Semblable à Wordle, il propose plusieurs niveaux de difficulté variable et permet de résoudre des énigmes simultanément.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Commencez par sélectionner un niveau de difficulté.",
+      "howToPlayStep2": "Devinez le mot caché en saisissant des lettres.",
+      "howToPlayStep3": "Terminez le puzzle pour débloquer le niveau suivant.",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Plusieurs niveaux",
+      "feature1Description": "Profitez de différents niveaux de difficulté pour garder le défi frais.",
+      "feature2Title": "Résolution simultanée d'énigmes",
+      "feature2Description": "Résolvez plusieurs énigmes en même temps pour une expérience améliorée.",
+      "feature3Title": "Gameplay captivant",
+      "feature3Description": "Restez diverti avec des mécanismes de découverte de mots captivants.",
+      "feature4Title": "Gratuit à jouer",
+      "feature4Description": "Accédez à toutes les fonctionnalités sans aucun coût."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

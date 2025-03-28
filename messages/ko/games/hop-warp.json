@@ -1,0 +1,77 @@
+{
+  "hop-warp": {
+    "title": "호프 워프 - 점프, 워프, 그리고 정복!",
+    "slogan": "탐색, 변형, 그리고 탐험!",
+    "description": "호프 워프의 정신 번쩍이는 모험에 뛰어들어 어려운 레벨을 점프하고, 워프하며 정복하세요. 차원 간 탐험의 기술을 마스터하고, 각 라운드를 완료하기 위해 별을 모으세요. 벽을 통과하여 이동할 수 있도록 반짝이는 별로 변신하는 독특한 게임 플레이를 경험하세요. 전략적인 기술에 도전할 준비가 되셨나요? 지금 호프 워프를 플레이하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "내용",
+      "help": "도움말",
+      "friendlyLinks": "유용한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "호프 워프 - 무료 온라인 게임",
+      "description": "호프 워프에서 점프, 워프, 그리고 정복하세요! 어려운 레벨을 탐색하고, 워프 기술을 마스터하고, 최고의 차원 간 탐험가가 되세요. 지금 플레이하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "호프 워프",
+      "whatIsTitle": "호프 워프란 무엇인가요?",
+      "whatIsDescription": "호프 워프는 작은 캐릭터가 닫힌 미로를 탐색하는 모험입니다. 차원이 충돌하고 반짝이는 별로 변신하여 모든 별을 모으는 정신적인 플랫포머를 경험하세요.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "이동: 화살표 키 또는 WASD 키를 사용하세요.",
+      "howToPlayStep2": "변형: X 키 또는 스페이스바를 눌러 별로 변신하세요.",
+      "howToPlayStep3": "참고: 빨간색 벽과 영역은 변형을 차단합니다.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "독특한 게임 플레이",
+      "feature1Description": "점프와 워프를 통해 각 레벨의 모든 별을 모으세요.",
+      "feature2Title": "모양 변형",
+      "feature2Description": "벽을 통과하고 복잡한 미로를 탐색할 수 있도록 반짝이는 별로 변신하세요.",
+      "feature3Title": "전략적 도전",
+      "feature3Description": "제한된 변형을 전략적으로 사용하여 각 레벨을 완료하세요.",
+      "feature4Title": "매력적인 레벨",
+      "feature4Description": "숙련도와 창의력을 시험하도록 설계된 정신적인 레벨을 탐험하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

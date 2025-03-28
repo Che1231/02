@@ -1,0 +1,77 @@
+{
+  "astrodud-io": {
+    "title": "AstroDud.io - Free Online IO Game",
+    "slogan": "Survive, Compete, Conquer",
+    "description": "AstroDud.io is a thrilling free-to-play IO game where you face off against players worldwide. Navigate challenging obstacle courses, strive to finish first, and stay alive. Experience a fully immersive 3D arena, test your skills, and upgrade your character to dominate the competition. Ready for the ultimate challenge? Play AstroDud.io now!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "AstroDud.io",
+      "description": "Play AstroDud.io, a free-to-play IO game, and compete in thrilling obstacle courses. Survive, finish first, and upgrade your character in a fully immersive 3D arena.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "AstroDud.io",
+      "whatIsTitle": "What is AstroDud.io?",
+      "whatIsDescription": "AstroDud.io is a free-to-play IO game offering an exhilarating experience. Compete against thousands of players worldwide in challenging obstacle courses.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Navigate through the obstacle course.",
+      "howToPlayStep2": "Compete against other players to finish first.",
+      "howToPlayStep3": "Stay alive and upgrade your character to dominate the competition.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Immersive 3D Arena",
+      "feature1Description": "Experience a fully immersive 3D arena that enhances your gameplay.",
+      "feature2Title": "Global Competition",
+      "feature2Description": "Compete against players from across the globe in real-time.",
+      "feature3Title": "Character Upgrades",
+      "feature3Description": "Upgrade your character to improve performance and dominate the competition.",
+      "feature4Title": "Challenging Obstacles",
+      "feature4Description": "Navigate through a variety of challenging obstacle courses designed to test your skills."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

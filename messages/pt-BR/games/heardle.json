@@ -1,0 +1,77 @@
+{
+  "heardle": {
+    "title": "Heardle: Desafio Diário de Adivinhar Músicas",
+    "slogan": "Teste seu Conhecimento Musical com Heardle",
+    "description": "Heardle é um jogo musical diário de adivinhação que desafia você a identificar músicas populares em apenas seis tentativas. Inspirado pelo Wordle, Heardle oferece um toque único ao se concentrar na música. Com dicas mínimas, você precisará confiar em sua espontaneidade musical e conhecimento de gêneros para construir uma sequência de vitórias impressionante. Pronto para testar suas habilidades? Jogue Heardle agora!",
+    "Loading": {
+      "title": "Carregando Heardle..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Amigáveis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Heardle: Desafio Diário de Adivinhar Músicas",
+      "description": "Desafie-se com o Heardle, um jogo diário de adivinhação musical. Identifique músicas populares em seis tentativas e mostre seu conhecimento musical. Jogue agora!",
+      "iframeTitle": "Pré-visualização do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Heardle: Desafio Diário de Adivinhar Músicas",
+      "whatIsTitle": "O que é o Heardle?",
+      "whatIsDescription": "Heardle é um jogo musical diário de adivinhação onde os jogadores têm seis chances para identificar a música do dia. É uma versão musical do popular jogo Wordle.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Ouça o trecho da música fornecido.",
+      "howToPlayStep2": "Adivinhe o título da música ou o artista.",
+      "howToPlayStep3": "Você tem seis tentativas para adivinhar corretamente.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Desafios Diários",
+      "feature1Description": "Uma nova música para adivinhar todos os dias.",
+      "feature2Title": "Dicas Mínimas",
+      "feature2Description": "Identifique músicas com apenas um pequeno trecho.",
+      "feature3Title": "Faixas Populares",
+      "feature3Description": "Apresentando sucessos de artistas renomados.",
+      "feature4Title": "Sequências de Vitórias",
+      "feature4Description": "Construa sua sequência de vitórias adivinhando corretamente."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

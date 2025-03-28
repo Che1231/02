@@ -1,0 +1,77 @@
+{
+  "sedecordle": {
+    "title": "Chơi Sedecordle trực tuyến - Trò chơi giải đố từ vựng miễn phí",
+    "slogan": "Khám phá từ vựng ẩn với Sedecordle",
+    "description": "Sedecordle là một trò chơi hóa thân cuốn hút thách thức người chơi tìm ra từ vựng ẩn. Giống như Wordle, nó có nhiều cấp độ khó khác nhau và cho phép giải nhiều câu đố cùng lúc. Tham gia Sedecordle ngay hôm nay và trải nghiệm niềm thú vị khám phá từ vựng!",
+    "Loading": {
+      "title": "Đang tải Sedecordle..."
+    },
+    "Navbar": {
+      "title": "Điều hướng"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước"
+    },
+    "HomeIframe": {
+      "title": "Sedecordle™ - Trò chơi giải đố từ vựng trực tuyến miễn phí",
+      "description": "Thử thách bản thân với Sedecordle, một trò chơi giải đố từ vựng cuốn hút. Khám phá từ vựng ẩn qua nhiều cấp độ khó độ khác nhau. Chơi ngay và tận hưởng trải nghiệm khám phá từ vựng tuyệt vời!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Màn hình toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào clipboard!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sedecordle - Thách thức giải đố từ vựng",
+      "whatIsTitle": "Sedecordle là gì?",
+      "whatIsDescription": "Sedecordle là một trò chơi hóa thân cuốn hút thách thức người chơi tìm ra từ vựng ẩn. Giống như Wordle, nó có nhiều cấp độ khó khác nhau và cho phép giải nhiều câu đố cùng lúc.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Bắt đầu bằng cách chọn cấp độ khó.",
+      "howToPlayStep2": "Đoán từ vựng ẩn bằng cách nhập chữ cái.",
+      "howToPlayStep3": "Hoàn thành câu đố để mở khóa cấp độ tiếp theo.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Nhiều cấp độ",
+      "feature1Description": "Tận hưởng nhiều cấp độ khó khác nhau để giữ cho thử thách luôn mới mẻ.",
+      "feature2Title": "Nhiều câu đố cùng lúc",
+      "feature2Description": "Giải nhiều câu đố cùng lúc để có trải nghiệm được nâng cao.",
+      "feature3Title": "Gameplay hấp dẫn",
+      "feature3Description": "Giữ sự giải trí với các cơ chế khám phá từ vựng cuốn hút.",
+      "feature4Title": "Miễn phí chơi",
+      "feature4Description": "Truy cập tất cả các tính năng mà không mất phí."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Khuyến nghị"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

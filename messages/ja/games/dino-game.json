@@ -1,0 +1,77 @@
+{
+  "dino-game": {
+    "title": "恐竜ゲーム - 走れ、飛び上がれ、生き残れ！",
+    "slogan": "恐竜ゲームで、古代の世界を探検！",
+    "description": "恐竜ゲームに参加して、危険な砂漠の道を冒険に出かけましょう。恐竜を操作して障害物を飛び越え、衝突を避けましょう。レトロなピクセルスタイルと中毒性のあるゲームプレイで、恐竜ゲームはすべてのプレイヤーにとってスリリングな体験を提供します。このノンストップランニングゲームで、どれだけ遠くまで行けるか挑戦してみましょう！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "恐竜ゲーム - 走れ、飛び上がれ、生き残れ！",
+      "description": "恐竜ゲームに参加して、危険な砂漠の道を冒険に出かけましょう。恐竜を操作して障害物を飛び越え、衝突を避けましょう。レトロなピクセルスタイルと中毒性のあるゲームプレイで、恐竜ゲームはすべてのプレイヤーにとってスリリングな体験を提供します。このノンストップランニングゲームで、どれだけ遠くまで行けるか挑戦してみましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "恐竜ゲーム - 走れ、飛び上がれ、生き残れ！",
+      "whatIsTitle": "恐竜ゲームとは？",
+      "whatIsDescription": "恐竜ゲームは、シンプルでありながら中毒性のあるゲームで、プレイヤーを恐竜の古代の世界へのスリリングな冒険へと導きます！このゲームでは、小さな恐竜を挑戦的で冒険的な環境の中を旅させることになります。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "上矢印キーまたはスペースキーを押して、キャラクターをジャンプさせます。",
+      "howToPlayStep2": "下矢印キーを使って小さな恐竜の頭を下げます。",
+      "howToPlayStep3": "サボテンや飛ぶ生き物などの障害物を避け、走り続けましょう。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "レトロなピクセルスタイル",
+      "feature1Description": "懐かしさ漂うレトロなピクセルグラフィックスをお楽しみください。",
+      "feature2Title": "シンプルな操作",
+      "feature2Description": "誰でも簡単に操作できるため、ゲームに参加できます。",
+      "feature3Title": "中毒性のあるゲームプレイ",
+      "feature3Description": "このノンストップランニングゲームで、自分の最高スコアを更新しましょう。",
+      "feature4Title": "古代の冒険",
+      "feature4Description": "恐竜の古代の世界を冒険に出かけましょう。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームのコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりませんでした",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

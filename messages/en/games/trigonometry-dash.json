@@ -1,0 +1,77 @@
+{
+  "trigonometry-dash": {
+    "title": "Trigonometry Dash: Geometry Adventure Game",
+    "slogan": "Conquer Complex Geometric Maps with Trigonometry Dash",
+    "description": "Trigonometry Dash offers a unique platformer experience where you navigate through geometric challenges. With four game modes and customizable pace, enjoy a thrilling adventure. Play Trigonometry Dash now and explore the geometric world!",
+    "Loading": {
+      "title": "Loading Trigonometry Dash..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Trigonometry Dash",
+      "description": "Trigonometry Dash invites you to experience a unique geometric adventure. Navigate through complex maps, avoid obstacles, and reach the finish line. Play now and enjoy the challenge!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Trigonometry Dash",
+      "whatIsTitle": "What is Trigonometry Dash?",
+      "whatIsDescription": "Trigonometry Dash is a platformer game that combines geometry and adventure. With unique gameplay and diverse modes, it offers a challenging yet enjoyable experience.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Use arrow keys to navigate the cube.",
+      "howToPlayStep2": "Avoid obstacles and find the path to the finish line.",
+      "howToPlayStep3": "Enjoy the game at your own pace and explore the geometric world.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Customizable Pace",
+      "feature1Description": "Control the pace of the game and enjoy the adventure your way.",
+      "feature2Title": "Four Game Modes",
+      "feature2Description": "Choose from normal, time attack, monster, and blind modes.",
+      "feature3Title": "Checkpoints",
+      "feature3Description": "Restart from the last checkpoint instead of starting over.",
+      "feature4Title": "Mirror Mode",
+      "feature4Description": "Experience a unique challenge with special portals in mirror mode."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

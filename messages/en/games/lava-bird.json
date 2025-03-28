@@ -1,0 +1,77 @@
+{
+  "lava-bird": {
+    "title": "Play Lava Bird Online - Fiery Flight Adventure Game",
+    "slogan": "Test your reflexes in this scorching side-scroller!",
+    "description": "Embark on a fiery flight with Lava Bird! Navigate through a burning lava cave, dodge obstacles, and defeat enemies with destructive fireballs. With two exciting game modes, you can either go solo or challenge a friend. Experience the thrill of this action-packed 2D side-scroller. Play Lava Bird now and conquer the lava skies!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Lava Bird - Fiery Flight Adventure",
+      "description": "Join Lava Bird in a fiery flight through the lava cave. Dodge obstacles, shoot fireballs, and defeat enemies in this thrilling 2D side-scroller. Play now!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Lava Bird - Fiery Flight Adventure",
+      "whatIsTitle": "What is Lava Bird?",
+      "whatIsDescription": "Lava Bird is an action-packed 2D side-scroller where you control a fiery bird navigating through a dangerous lava cave. Avoid obstacles, shoot fireballs, and defeat enemies to become the king of the lava skies!",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Use the spacebar or click to control the bird in single-player mode.",
+      "howToPlayStep2": "In two-player mode, Player 1 (red bird) uses the W key, and Player 2 (blue bird) uses the up arrow keys.",
+      "howToPlayStep3": "Avoid obstacles and defeat enemies to score points. The first player to reach five points wins!",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Fiery Flight",
+      "feature1Description": "Navigate through a dangerous lava cave filled with obstacles and enemies.",
+      "feature2Title": "Destructive Fireballs",
+      "feature2Description": "Shoot fireballs to destroy enemies and clear your path.",
+      "feature3Title": "Two Game Modes",
+      "feature3Description": "Choose between solo play or intense hand-to-hand combat with a friend.",
+      "feature4Title": "Easy Controls",
+      "feature4Description": "Simple and intuitive controls make it easy for all players to enjoy."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

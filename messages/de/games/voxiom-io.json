@@ -1,0 +1,77 @@
+{
+  "voxiom-io": {
+    "title": "Voxiom.io spielen – Kostenloser Online-Mehrspieler-Shooter",
+    "slogan": "Engagiere dich in intensiven Mehrspieler-Schlachten in Voxiom.io!",
+    "description": "Voxiom.io vereint die Essenz von Minecraft mit spannenden Schießereien. Zerlege die Umgebung, schmiede fortschrittliche Waffen und überlebe das eindringende giftige Gas. Erlebe Crafting, Bauen und Kampf mit leistungsstarken Schusswaffen. Kannst du als einziger Überlebender hervorgehen? Spiele Voxiom.io jetzt kostenlos!",
+    "Loading": {
+      "title": "Wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Leitfaden",
+      "privacyPolicy": "Datenschutzerklärung",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Voxiom.io",
+      "description": "Erlebe den ultimativen Mehrspielershooter in Voxiom.io. Überlebe, fertige und baue deinen Weg zum Sieg!",
+      "iframeTitle": "Spielvorauschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel spielen"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Voxiom.io",
+      "whatIsTitle": "Was ist Voxiom.io?",
+      "whatIsDescription": "Voxiom.io ist ein browserbasierter Shooter, der Crafting, Bauen und intensive Mehrspieler-Schießereien kombiniert. Überlebe das giftige Gas und entstehe als letzter Spieler!",
+      "howToPlayTitle": "So spielst du",
+      "howToPlayStep1": "Zerlege die Umgebung, um Ressourcen zu sammeln.",
+      "howToPlayStep2": "Schmiede fortschrittliche Waffen, um im Kampf einen Vorteil zu erzielen.",
+      "howToPlayStep3": "Überlebe das eindringende giftige Gas und sei der letzte stehende Spieler.",
+      "keyFeaturesTitle": "Schlüsselfeatures",
+      "feature1Title": "Crafting & Bauen",
+      "feature1Description": "Verwende Ressourcen, um Waffen zu fertigen und Strukturen zu bauen.",
+      "feature2Title": "Mehrspieler-Schlachten",
+      "feature2Description": "Engagiere dich in intensiven Schießereien mit Spielern weltweit.",
+      "feature3Title": "Giftiges Gas",
+      "feature3Description": "Überlebe den schrumpfenden Spielbereich und überdauere deine Gegner.",
+      "feature4Title": "Leistungsstarke Schusswaffen",
+      "feature4Description": "Bediene eine Vielzahl an fortschrittlichen Waffen, um die Schlacht zu dominieren."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

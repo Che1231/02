@@ -1,0 +1,77 @@
+{
+  "stabfish-io": {
+    "title": "Jouer à Stabfish.io en ligne - Aventure océanique multijoueur gratuite",
+    "slogan": "Plongez dans les profondeurs et dominez l'océan !",
+    "description": "Stabfish.io est un jeu io immersif et passionnant, gratuit et jouable en ligne, qui vous plonge dans les profondeurs de l'océan en tant que formidable créature aquatique.  Engagez-vous dans une arène multijoueur regorgeant de poissons avec des défenses mortelles, alors que vous chassez votre proie et évitez les piqûres dangereuses des joueurs adverses. Collectez les poissons vaincus comme trophées, dévorez des aliments nutritifs pour obtenir des bonus, et établissez votre domination sur la vaste mer. Rejoignez Stabfish.io maintenant et vivez la bataille sous-marine ultime !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Stabfish.io",
+      "description": "Plongez dans les profondeurs et dominez l'océan dans Stabfish.io !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Stabfish.io",
+      "whatIsTitle": "Qu'est-ce que Stabfish.io ?",
+      "whatIsDescription": "Stabfish.io est un jeu io immersif et passionnant, gratuit et jouable en ligne, qui vous plonge dans les profondeurs de l'océan en tant que formidable créature aquatique.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Chassez votre proie et évitez les piqûres dangereuses des joueurs adverses.",
+      "howToPlayStep2": "Collectionnez les poissons vaincus comme trophées et dévorez des aliments nutritifs pour obtenir des bonus.",
+      "howToPlayStep3": "Établissez votre domination sur la vaste mer et devenez le prédateur ultime.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Arène multijoueur",
+      "feature1Description": "Engagez-vous dans une arène multijoueur regorgeant de poissons avec des défenses mortelles.",
+      "feature2Title": "Collection de trophées",
+      "feature2Description": "Collectionnez les poissons vaincus comme trophées pour montrer votre domination.",
+      "feature3Title": "Nourriture nutritive",
+      "feature3Description": "Dévorez des aliments nutritifs pour obtenir des bonus et améliorer vos aptitudes.",
+      "feature4Title": "Domination océanique",
+      "feature4Description": "Établissez votre domination sur la vaste mer et devenez le prédateur ultime."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

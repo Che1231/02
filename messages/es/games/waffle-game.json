@@ -1,0 +1,77 @@
+{
+  "waffle-game": {
+    "title": "Juego Waffle - Desafío de rompecabezas de palabras en línea gratuito",
+    "slogan": "Desata tus habilidades para resolver palabras con Waffle Game",
+    "description": "Descubre la experiencia definitiva de rompecabezas de palabras con Waffle Game. Perfecto para los entusiastas de los juegos de palabras, Waffle Game ofrece un desafío único: encuentra seis palabras ocultas dentro de un tablero Waffle con solo 15 cambios de letras. Ya sea que estés expandiendo tu vocabulario o buscando un entrenamiento mental, Waffle Game está diseñado para todas las edades y niveles de habilidad. ¡Juega ahora y pon a prueba tus habilidades para resolver palabras!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Waffle Game - Desafío de rompecabezas de palabras en línea gratuito",
+      "description": "Experimenta la emoción de Waffle Game, un cautivador rompecabezas de palabras que te desafía a encontrar seis palabras ocultas dentro de un tablero Waffle. Con 15 cambios de letras, es el juego perfecto para entusiastas de las palabras de todas las edades. ¡Juega ahora y pon a prueba tus habilidades!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Waffle Game - Desafío de rompecabezas de palabras en línea gratuito",
+      "whatIsTitle": "¿Qué es Waffle Game?",
+      "whatIsDescription": "Waffle Game es un juego atractivo de adivinanza de palabras que desafía a los jugadores a encontrar seis palabras ocultas dentro de un tablero Waffle. Con 15 cambios de letras, ofrece una experiencia de rompecabezas de palabras única y emocionante.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Comienza examinando el tablero Waffle para identificar posibles palabras.",
+      "howToPlayStep2": "Reorganiza las letras dentro de los 15 movimientos permitidos para formar las palabras correctas.",
+      "howToPlayStep3": "Completa el rompecabezas encontrando las seis palabras ocultas dentro del tablero Waffle.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Desafío de varias palabras",
+      "feature1Description": "Encuentra seis palabras ocultas dentro del tablero Waffle para una experiencia de rompecabezas más compleja.",
+      "feature2Title": "Movimientos limitados",
+      "feature2Description": "Solo se permiten 15 cambios de letras, lo que aumenta el desafío.",
+      "feature3Title": "Para todas las edades",
+      "feature3Description": "Waffle Game está diseñado para que lo disfruten jugadores de todas las edades y niveles de habilidad.",
+      "feature4Title": "Expansión de vocabulario",
+      "feature4Description": "Mejora tu vocabulario en español mientras disfrutas del juego."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

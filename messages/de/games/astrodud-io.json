@@ -1,0 +1,77 @@
+{
+  "astrodud-io": {
+    "title": "AstroDud.io – Kostenloses Online-IO-Spiel",
+    "slogan": "Überleben, Wettbewerb, Erobern",
+    "description": "AstroDud.io ist ein spannendes kostenloses IO-Spiel, bei dem Sie gegen Spieler weltweit antreten. Navigieren Sie durch herausfordernde Hindernisparcours, streben Sie den ersten Platz an und bleiben Sie am Leben. Erleben Sie eine vollständig immersive 3D-Arena, testen Sie Ihr Können und verbessern Sie Ihren Charakter, um die Konkurrenz zu dominieren. Sind Sie bereit für die ultimative Herausforderung? Spielen Sie jetzt AstroDud.io!",
+    "Loading": {
+      "title": "Wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "AstroDud.io",
+      "description": "Spielen Sie AstroDud.io, ein kostenloses IO-Spiel, und treten Sie in spannenden Hindernisparcours an. Überleben Sie, erreichen Sie den ersten Platz und verbessern Sie Ihren Charakter in einer vollständig immersiven 3D-Arena.",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "AstroDud.io",
+      "whatIsTitle": "Was ist AstroDud.io?",
+      "whatIsDescription": "AstroDud.io ist ein kostenloses IO-Spiel, das ein mitreißendes Erlebnis bietet. Treten Sie gegen Tausende von Spielern weltweit in herausfordernden Hindernisparcours an.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Navigieren Sie durch den Hindernisparcours.",
+      "howToPlayStep2": "Treten Sie gegen andere Spieler an, um Erster zu werden.",
+      "howToPlayStep3": "Bleiben Sie am Leben und verbessern Sie Ihren Charakter, um die Konkurrenz zu beherrschen.",
+      "keyFeaturesTitle": "Wichtige Merkmale",
+      "feature1Title": "Immersive 3D-Arena",
+      "feature1Description": "Erleben Sie eine vollständig immersive 3D-Arena, die Ihr Spielerlebnis verstärkt.",
+      "feature2Title": "Globaler Wettbewerb",
+      "feature2Description": "Treten Sie gegen Spieler aus aller Welt in Echtzeit an.",
+      "feature3Title": "Charakterverbesserungen",
+      "feature3Description": "Verbessern Sie Ihren Charakter, um Ihre Leistung zu steigern und die Konkurrenz zu dominieren.",
+      "feature4Title": "Herausfordernde Hindernisse",
+      "feature4Description": "Navigieren Sie durch eine Vielzahl von herausfordernden Hindernisparcours, die Ihr Können auf die Probe stellen."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

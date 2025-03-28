@@ -1,0 +1,77 @@
+{
+  "zombs-io": {
+    "title": "Zombs.io : Jeu de survie contre les zombies en ligne gratuit",
+    "slogan": "Construire, défendre, survivre",
+    "description": "Zombs.io combine les éléments de Minecraft et des zombies pour créer un jeu excitant de défense de tourelles. Construisez votre base et protégez-la des vagues incessantes de zombies. Améliorez et renforcez votre base pour résister aux vagues de plus en plus difficiles. Mettez vos compétences de survie à l'épreuve et voyez combien de nuits vous pouvez tenir. Rejoignez-vous avec vos amis pour créer une base formidable ensemble. Cependant, gardez à l'esprit qu'être en groupe attire plus de zombies que d'habitude. Faites preuve de prudence et de planification stratégique lorsque vous faites équipe avec des amis.",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Zombs.io : Jeu de survie contre les zombies en ligne gratuit",
+      "description": "Zombs.io combine les éléments de Minecraft et des zombies pour créer un jeu excitant de défense de tourelles. Construisez votre base et protégez-la des vagues incessantes de zombies. Améliorez et renforcez votre base pour résister aux vagues de plus en plus difficiles. Mettez vos compétences de survie à l'épreuve et voyez combien de nuits vous pouvez tenir.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Zombs.io : Jeu de survie contre les zombies en ligne gratuit",
+      "whatIsTitle": "Qu'est-ce que Zombs.io ?",
+      "whatIsDescription": "Zombs.io combine les éléments de Minecraft et des zombies pour créer un jeu excitant de défense de tourelles. Construisez votre base et protégez-la des vagues incessantes de zombies. Améliorez et renforcez votre base pour résister aux vagues de plus en plus difficiles. Mettez vos compétences de survie à l'épreuve et voyez combien de nuits vous pouvez tenir.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Construisez votre base et protégez-la des vagues incessantes de zombies.",
+      "howToPlayStep2": "Améliorez et renforcez votre base pour résister aux vagues de plus en plus difficiles.",
+      "howToPlayStep3": "Mettez vos compétences de survie à l'épreuve et voyez combien de nuits vous pouvez tenir.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Gameplay de défense de tourelles",
+      "feature1Description": "Construisez votre base et protégez-la des vagues incessantes de zombies.",
+      "feature2Title": "Construction de base",
+      "feature2Description": "Améliorez et renforcez votre base pour résister aux vagues de plus en plus difficiles.",
+      "feature3Title": "Défi de survie",
+      "feature3Description": "Mettez vos compétences de survie à l'épreuve et voyez combien de nuits vous pouvez tenir.",
+      "feature4Title": "Coopération multijoueur",
+      "feature4Description": "Rejoignez-vous avec vos amis pour créer une base formidable ensemble."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

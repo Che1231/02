@@ -1,0 +1,77 @@
+{
+  "redactle": {
+    "title": "Redactle - Jogo de adivinhação de palavras online gratuito",
+    "slogan": "Desvende o artigo oculto - Jogue Redactle agora!",
+    "description": "Redactle é um jogo desafiador de adivinhação de palavras, onde você joga como um editor de jornal tentando descobrir o tema de um artigo oculto da Wikipédia. Com a maioria das palavras ocultas, você deve usar suas habilidades de dedução para identificar o assunto e as palavras-chave relacionadas. Quanto mais palavras você adivinhar corretamente, mais perto estará de resolver o mistério. Perfeito para entusiastas de quebra-cabeças, o Redactle oferece uma experiência de jogo única e envolvente. Comece a jogar Redactle hoje e teste seus conhecimentos!",
+    "Loading": {
+      "title": "Carregando Redactle - Aguarde"
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Amigáveis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Redactle - Jogo de adivinhação de palavras online gratuito",
+      "description": "Redactle é um jogo desafiador de adivinhação de palavras, onde você joga como um editor de jornal tentando descobrir o tema de um artigo oculto da Wikipédia. Com a maioria das palavras ocultas, você deve usar suas habilidades de dedução para identificar o assunto e as palavras-chave relacionadas. Quanto mais palavras você adivinhar corretamente, mais perto estará de resolver o mistério. Perfeito para entusiastas de quebra-cabeças, o Redactle oferece uma experiência de jogo única e envolvente. Comece a jogar Redactle hoje e teste seus conhecimentos!",
+      "iframeTitle": "Pré-visualização do jogo",
+      "fullscreenButton": "Tela cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Redactle - Jogo de adivinhação de palavras online gratuito",
+      "whatIsTitle": "O que é Redactle?",
+      "whatIsDescription": "Redactle é um jogo desafiador de adivinhação de palavras, onde você joga como um editor de jornal tentando descobrir o tema de um artigo oculto da Wikipédia. Com a maioria das palavras ocultas, você deve usar suas habilidades de dedução para identificar o assunto e as palavras-chave relacionadas.",
+      "howToPlayTitle": "Como jogar",
+      "howToPlayStep1": "Comece adivinhando palavras que você acha que podem estar no artigo oculto.",
+      "howToPlayStep2": "Quando você adivinhar uma palavra corretamente, ela aparecerá em todos os lugares onde foi usada originalmente no texto.",
+      "howToPlayStep3": "Continue adivinhando palavras até que possa deduzir o tema do artigo. Quando encontrar o tema certo, o jogo termina.",
+      "keyFeaturesTitle": "Principais características",
+      "feature1Title": "Jogabilidade desafiadora",
+      "feature1Description": "Redactle oferece uma experiência de jogo única e desafiadora que testa seus conhecimentos e habilidades de dedução.",
+      "feature2Title": "Artigo oculto",
+      "feature2Description": "O jogo esconde a maioria das palavras em um artigo aleatório da Wikipédia, deixando você com apenas algumas pistas para trabalhar.",
+      "feature3Title": "Habilidades de dedução",
+      "feature3Description": "Você deve usar suas habilidades de dedução para identificar o assunto e as palavras-chave relacionadas no artigo oculto.",
+      "feature4Title": "Experiência envolvente",
+      "feature4Description": "Redactle proporciona uma experiência envolvente e imersiva que o mantém voltando por mais."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do jogo"
+    },
+    "GamePage": {
+      "title": "Todos os jogos",
+      "description": "Todos os jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

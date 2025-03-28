@@ -1,0 +1,77 @@
+{
+  "cleverdle": {
+    "title": "Juega a Cleverdle en línea: juego de rompecabezas de palabras gratuito",
+    "slogan": "¡Pon a prueba tus habilidades de palabras con Cleverdle!",
+    "description": "Cleverdle es un cautivador juego de rompecabezas de palabras que desafía tu vocabulario y pensamiento lógico. Con cientos de rompecabezas diversos, Cleverdle ofrece una combinación única de entretenimiento y ejercicio mental. Cada nivel requiere creatividad y pensamiento estratégico para resolver palabras de cinco letras en solo seis intentos. Sumérgete en el mundo de Cleverdle y disfruta de un viaje lleno de misterio y descubrimiento. ¡Juega ahora y mejora tus habilidades de palabras!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Cleverdle™ - Juego de rompecabezas de palabras gratuito",
+      "description": "Cleverdle es un desafiante juego de rompecabezas de palabras que pone a prueba tu vocabulario y habilidades lógicas. ¡Juega ahora y resuelve palabras de cinco letras en seis intentos!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Cleverdle™ - El desafío de rompecabezas de palabras definitivo",
+      "whatIsTitle": "¿Qué es Cleverdle?",
+      "whatIsDescription": "Cleverdle es un juego de rompecabezas de palabras que combina entretenimiento con ejercicio mental. Desafía a los jugadores a resolver palabras de cinco letras en seis intentos, mejorando el vocabulario y el pensamiento lógico.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Comienza adivinando una palabra de cinco letras.",
+      "howToPlayStep2": "Usa las pistas de color para mejorar tus siguientes intentos.",
+      "howToPlayStep3": "¡Resuelve la palabra en seis intentos para ganar!",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Rompecabezas desafiantes",
+      "feature1Description": "Cientos de rompecabezas diversos para poner a prueba tus habilidades con las palabras.",
+      "feature2Title": "Ejercicio mental",
+      "feature2Description": "Mejora tu vocabulario y pensamiento lógico con cada nivel.",
+      "feature3Title": "Jugabilidad estratégica",
+      "feature3Description": "Resuelve palabras de cinco letras en solo seis intentos utilizando el pensamiento estratégico.",
+      "feature4Title": "Experiencia atractiva",
+      "feature4Description": "Disfruta de un viaje lleno de misterio y descubrimiento en Cleverdle."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "redactle": {
+    "title": "Redactle - Permainan Menebak Kata Berbasis Online Gratis",
+    "slogan": "Ungkap Artikel Tersembunyi - Mainkan Redactle Sekarang!",
+    "description": "Redactle adalah permainan menebak kata yang menantang di mana Anda berperan sebagai editor surat kabar yang mencoba mengungkap topik artikel Wikipedia tersembunyi. Dengan sebagian besar kata tersembunyi, Anda harus menggunakan kemampuan penalaran Anda untuk mengidentifikasi subjek dan kata kunci terkait. Semakin banyak kata yang Anda tebak dengan benar, semakin dekat Anda untuk memecahkan misteri tersebut. Sempurna untuk para penggemar teka-teki, Redactle menawarkan pengalaman bermain game yang unik dan menarik. Mulailah bermain Redactle hari ini dan uji pengetahuan Anda!",
+    "Loading": {
+      "title": "Memuat Redactle - Harap Tunggu"
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Redactle - Permainan Menebak Kata Berbasis Online Gratis",
+      "description": "Redactle adalah permainan menebak kata yang menantang di mana Anda berperan sebagai editor surat kabar yang mencoba mengungkap topik artikel Wikipedia tersembunyi. Dengan sebagian besar kata tersembunyi, Anda harus menggunakan kemampuan penalaran Anda untuk mengidentifikasi subjek dan kata kunci terkait. Semakin banyak kata yang Anda tebak dengan benar, semakin dekat Anda untuk memecahkan misteri tersebut. Sempurna untuk para penggemar teka-teki, Redactle menawarkan pengalaman bermain game yang unik dan menarik. Mulailah bermain Redactle hari ini dan uji pengetahuan Anda!",
+      "iframeTitle": "Pratinjau Permainan",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Permainan",
+      "playGame": "Mainkan Permainan"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Redactle - Permainan Menebak Kata Berbasis Online Gratis",
+      "whatIsTitle": "Apa Itu Redactle?",
+      "whatIsDescription": "Redactle adalah permainan menebak kata yang menantang di mana Anda berperan sebagai editor surat kabar yang mencoba mengungkap topik artikel Wikipedia tersembunyi. Dengan sebagian besar kata tersembunyi, Anda harus menggunakan kemampuan penalaran Anda untuk mengidentifikasi subjek dan kata kunci terkait.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Mulailah dengan menebak kata-kata yang menurut Anda mungkin ada dalam artikel tersembunyi.",
+      "howToPlayStep2": "Saat Anda menebak kata dengan benar, kata tersebut akan muncul di semua tempat kata tersebut digunakan dalam teks.",
+      "howToPlayStep3": "Lanjutkan menebak kata-kata sampai Anda dapat menyimpulkan topik artikel tersebut. Bila Anda menemukan topik yang tepat, permainan berakhir.",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Gameplay yang Menantang",
+      "feature1Description": "Redactle menawarkan pengalaman bermain game yang unik dan menantang yang menguji pengetahuan dan kemampuan penalaran Anda.",
+      "feature2Title": "Artikel Tersembunyi",
+      "feature2Description": "Permainan menyembunyikan sebagian besar kata dalam artikel Wikipedia acak, hanya menyisakan beberapa petunjuk untuk Anda.",
+      "feature3Title": "Kemampuan Penalaran",
+      "feature3Description": "Anda harus menggunakan kemampuan penalaran Anda untuk mengidentifikasi subjek dan kata kunci terkait dalam artikel tersembunyi.",
+      "feature4Title": "Pengalaman Menarik",
+      "feature4Description": "Redactle memberikan pengalaman yang menarik dan mendalam yang membuat Anda kembali lagi."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Permainan"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Permainan",
+      "description": "Semua Permainan",
+      "games": "Permainan"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Lebih Banyak",
+      "page": "Halaman"
+    }
+  }
+}

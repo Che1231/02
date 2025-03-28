@@ -1,0 +1,122 @@
+{
+  "name": "World's Hardest Game",
+  "pagePath": "/games/world-s-hardest-game",
+  "pageName": "world-s-hardest-game",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://mathmasterz.com/assets/mainstorage/worldshardestgame.html",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "CosmicPhoenix89",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicPhoenix89.png",
+      "content": "Wow! This game really lives up to its name as World's Hardest Game. Took me ages to beat the second level!"
+    },
+    {
+      "author": "FeralBlade_Xxx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/FeralBlade_Xxx.png",
+      "content": "This is such a mind-bender! My patience has been tested so many times in World's Hardest Game."
+    },
+    {
+      "author": "xX_PhoenixRisen_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_PhoenixRisen_Xx.png",
+      "content": "I love the challenge it offers but my reflexes get me stuck every time. Any tips on how to improve, guys?"
+    },
+    {
+      "author": "NeonLeviathan42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonLeviathan42.png",
+      "content": "The progression difficulty in this game is insane! Loved every minute trying to solve the puzzles."
+    },
+    {
+      "author": "StalkingGriffin87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingGriffin87.png",
+      "content": "Had so many close calls! But this game is seriously addictive. Can't stop coming back for more."
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "Super fun yet incredibly hard! Had no idea problem-solving would be this intense in World's Hardest Game."
+    },
+    {
+      "author": "RevolverPhantom_99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/RevolverPhantom_99.png",
+      "content": "Just when you think you've nailed it, another twist! The game tests your limits for sure."
+    },
+    {
+      "author": "SavageKatanaX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatanaX.png",
+      "content": "The reflex test here is brutal! Every movement counts in this challenging game."
+    },
+    {
+      "author": "PhantomReaper87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomReaper87.png",
+      "content": "This has got to be one of the most challenging games out there. But man, is it exciting!"
+    },
+    {
+      "author": "NeonKraken69",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonKraken69.png",
+      "content": "Toughest game I've played in years. The problem-solving aspect keeps me hooked though!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/world-s-hardest-game/world-s-hardest-game-m200x130.webp",
+  "page_path": "/games/world-s-hardest-game",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8scd6qe00znlywl1ki69bfd",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T05:28:12.373Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 13:35:56"
+}

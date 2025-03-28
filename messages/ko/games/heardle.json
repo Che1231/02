@@ -1,0 +1,77 @@
+{
+  "heardle": {
+    "title": "헤어들: 매일 추리하는 노래 챌린지",
+    "slogan": "헤어들로 음악 지식을 테스트하세요",
+    "description": "헤어들은 단 6번의 시도로 인기 있는 노래를 맞춰야 하는 매일의 음악 추리 게임입니다. 워드들의 영감을 받아 헤어들은 음악에 초점을 맞춘 독특한 요소를 제공합니다. 최소한의 힌트로, 당신은 훌륭한 연승을 구축하기 위해 음악적 자발성과 장르 지식에 의존해야 합니다. 당신의 기술을 테스트할 준비가 되셨나요? 지금 헤어들을 플레이하세요!",
+    "Loading": {
+      "title": "헤어들 로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "유용한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "헤어들: 매일 추리하는 노래 챌린지",
+      "description": "매일 음악 추리 게임인 헤어들로 자신을 테스트하세요. 6번의 시도 안에 인기 있는 노래를 맞추고 당신의 음악 지식을 보여주세요. 지금 플레이하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "헤어들: 매일 추리하는 노래 챌린지",
+      "whatIsTitle": "헤어들이란 무엇인가요?",
+      "whatIsDescription": "헤어들은 매일 플레이어가 하루의 노래를 6번의 기회 안에 맞춰야 하는 음악 추리 게임입니다. 인기 게임인 워드의 음악 버전입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "제공된 노래 짧은 음악 조각을 들어보세요.",
+      "howToPlayStep2": "노래 제목이나 아티스트를 추측하세요.",
+      "howToPlayStep3": "정답을 맞추기 위해 6번의 시도가 주어집니다.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "매일 챌린지",
+      "feature1Description": "매일 새로운 노래를 추측하세요.",
+      "feature2Title": "최소한의 힌트",
+      "feature2Description": "짧은 음악 조각만으로 노래를 식별하세요.",
+      "feature3Title": "인기 곡",
+      "feature3Description": "유명 아티스트의 히트곡이 포함되어 있습니다.",
+      "feature4Title": "연승",
+      "feature4Description": "정답을 맞춰 연승을 이어가세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

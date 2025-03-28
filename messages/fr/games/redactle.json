@@ -1,0 +1,77 @@
+{
+  "redactle": {
+    "title": "Redactle - Jeu de devinette de mots en ligne gratuit",
+    "slogan": "Découvrez l'article caché - Jouez à Redactle maintenant !",
+    "description": "Redactle est un jeu de devinette de mots stimulant où vous incarnez un rédacteur de journal essayant de découvrir le sujet d'un article Wikipédia caché. La plupart des mots étant masqués, vous devez utiliser vos capacités de déduction pour identifier le sujet et les mots-clés associés. Plus vous devinez correctement de mots, plus vous vous approchez de la résolution du mystère. Parfait pour les passionnés de puzzles, Redactle offre une expérience de jeu unique et captivante. Commencez à jouer à Redactle aujourd'hui et testez vos connaissances !",
+    "Loading": {
+      "title": "Chargement de Redactle - Veuillez patienter"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens utiles",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Redactle - Jeu de devinette de mots en ligne gratuit",
+      "description": "Redactle est un jeu de devinette de mots stimulant où vous incarnez un rédacteur de journal essayant de découvrir le sujet d'un article Wikipédia caché. La plupart des mots étant masqués, vous devez utiliser vos capacités de déduction pour identifier le sujet et les mots-clés associés. Plus vous devinez correctement de mots, plus vous vous approchez de la résolution du mystère. Parfait pour les passionnés de puzzles, Redactle offre une expérience de jeu unique et captivante. Commencez à jouer à Redactle aujourd'hui et testez vos connaissances !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Redactle - Jeu de devinette de mots en ligne gratuit",
+      "whatIsTitle": "Qu'est-ce que Redactle ?",
+      "whatIsDescription": "Redactle est un jeu de devinette de mots stimulant où vous incarnez un rédacteur de journal essayant de découvrir le sujet d'un article Wikipédia caché. La plupart des mots étant masqués, vous devez utiliser vos capacités de déduction pour identifier le sujet et les mots-clés associés.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Commencez par deviner des mots que vous pensez pouvoir faire partie de l'article caché.",
+      "howToPlayStep2": "Lorsque vous devinez un mot correctement, il apparaîtra à tous les endroits où il était initialement utilisé dans le texte.",
+      "howToPlayStep3": "Continuez à deviner des mots jusqu'à ce que vous puissiez déduire le sujet de l'article. Lorsque vous trouvez le bon sujet, le jeu se termine.",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Gameplay stimulant",
+      "feature1Description": "Redactle offre une expérience de jeu unique et stimulante qui met à l'épreuve vos connaissances et vos capacités de déduction.",
+      "feature2Title": "Article caché",
+      "feature2Description": "Le jeu masque la plupart des mots d'un article Wikipédia aléatoire, ne vous laissant que quelques indices pour travailler.",
+      "feature3Title": "Déduction",
+      "feature3Description": "Vous devez utiliser vos compétences en déduction pour identifier le sujet et les mots-clés associés dans l'article caché.",
+      "feature4Title": "Expérience captivante",
+      "feature4Description": "Redactle offre une expérience immersive et captivante qui vous incite à revenir pour plus."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

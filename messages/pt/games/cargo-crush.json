@@ -1,0 +1,77 @@
+{
+  "cargo-crush": {
+    "title": "Cargo Crush - Jogo online gratuito de arrumação de carga",
+    "slogan": "Esmague os limites, Domine o Porto!",
+    "description": "Experimente o desafio de organizar mercadorias em Cargo Crush! Este jogo casual envolvente testa a sua precisão e habilidade ao controlar e descarregar contentores de carga. Alinhe os mais rápidos, resolva obstáculos e torne-se o mestre do porto. Preparado para uma aventura? Jogue Cargo Crush agora!",
+    "Loading": {
+      "title": "Carregando..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links amigáveis",
+      "articleList": "Lista de Artigos",
+      "home": "Página inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Cargo Crush - Jogo online gratuito",
+      "description": "Jogue Cargo Crush e experimente o maior desafio de arrumação de carga! Controle e descarregue contentores de carga com precisão e habilidade. Está pronto para esmagar os limites e dominar o porto?",
+      "iframeTitle": "Pré-visualização do jogo",
+      "fullscreenButton": "Ecrã inteiro",
+      "shareButton": "Partilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Cargo Crush",
+      "whatIsTitle": "O que é Cargo Crush?",
+      "whatIsDescription": "Cargo Crush é um jogo casual em que você organiza e descarrega contentores de carga com precisão e habilidade. É uma batalha contra o tempo e desafios dramáticos!",
+      "howToPlayTitle": "Como jogar",
+      "howToPlayStep1": "Controle os contentores de carga com precisão.",
+      "howToPlayStep2": "Alinhe os mais rápidos para resolver obstáculos.",
+      "howToPlayStep3": "Torne-se o mestre do porto!",
+      "keyFeaturesTitle": "Principais características",
+      "feature1Title": "Controle de precisão",
+      "feature1Description": "Controle os contentores de carga com precisão e habilidade.",
+      "feature2Title": "Desafios de tempo",
+      "feature2Description": "Lutem contra o tempo e os desafios dramáticos.",
+      "feature3Title": "Jogabilidade envolvente",
+      "feature3Description": "Experimente uma experiência de jogo casual envolvente e divertida.",
+      "feature4Title": "Domine o porto",
+      "feature4Description": "Torne-se o mestre do porto resolvendo todos os obstáculos."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendados"
+    },
+    "HomeComments": {
+      "title": "Comentários do jogo"
+    },
+    "GamePage": {
+      "title": "Todos os jogos",
+      "description": "Todos os jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhumas categorias encontradas",
+      "viewMore": "Ver mais",
+      "page": "Página"
+    }
+  }
+}

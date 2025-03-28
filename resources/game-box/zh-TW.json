@@ -1,0 +1,114 @@
+{
+  "recommended": [],
+  "categories": [
+    {
+      "name": "精選遊戲",
+      "path": "/c/featured",
+      "pageSize": 15,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "我們已為您精選最佳遊戲！"
+    },
+    {
+      "name": "街機遊戲",
+      "path": "/c/arcade-games",
+      "pageSize": 15,
+      "backgroundColor": "#d2e7ff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "令人興奮的街機遊戲！",
+      "position": 2
+    },
+    {
+      "name": "動作遊戲",
+      "path": "/c/action",
+      "pageSize": 15,
+      "backgroundColor": "#c1f8cf",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "令人興奮的動作遊戲！",
+      "position": 3
+    },
+    {
+      "name": "冒險遊戲",
+      "path": "/c/adventure-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 4,
+      "description": "令人興奮的冒險遊戲！"
+    },
+    {
+      "name": "Wordleverse 遊戲",
+      "path": "/c/wordleverse-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 5,
+      "description": "令人興奮的 Wordleverse 遊戲！"
+    },
+    {
+      "name": ".IO 遊戲",
+      "path": "/c/io-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 6,
+      "description": "令人興奮的 .IO 遊戲！"
+    },
+    {
+      "name": "休閒遊戲",
+      "path": "/c/casual-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 7,
+      "description": "令人興奮的休閒遊戲！"
+    },
+    {
+      "name": "益智遊戲",
+      "path": "/c/puzzle-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 8,
+      "description": "令人興奮的益智遊戲！"
+    },
+    {
+      "name": "賽車與駕駛",
+      "path": "/c/racing-driving",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 9,
+      "description": "令人興奮的賽車與駕駛遊戲！"
+    },
+    {
+      "name": "3D 遊戲",
+      "path": "/c/3d-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 10,
+      "description": "令人興奮的 3D 遊戲！"
+    },
+    {
+      "name": "運動遊戲",
+      "path": "/c/sports-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 11,
+      "description": "令人興奮的運動遊戲！"
+    }
+  ]
+}

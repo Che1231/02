@@ -1,0 +1,77 @@
+{
+  "gun-mayhem-redux": {
+    "title": "Gun Mayhem Redux - Jeu de tir multijoueur",
+    "slogan": "Frappez vos adversaires avec une variété d’armes et de bonus !",
+    "description": "Gun Mayhem Redux est un jeu de tir multijoueur rapide qui vous défie de devenir un tireur d’élite professionnel. Avec des séries de jeu dramatiques et féroces, vous devez détruire vos adversaires en utilisant une improvisation flexible et des attaques efficaces. Débloquez des boîtes mystérieuses pour renforcer vos armes et continuez à combiner des stratégies d'esquive et d'attaque. Jouez à Gun Mayhem Redux dès maintenant et vivez le frisson !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d’utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens utiles",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Gun Mayhem Redux - Jeu de tir multijoueur",
+      "description": "Rejoignez le jeu de tir multijoueur rapide Gun Mayhem Redux et frappez vos adversaires avec une variété d’armes et de bonus. Vivez des affrontements dramatiques et féroces, et devenez un tireur d’élite professionnel. Jouez maintenant !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Gun Mayhem Redux - Jeu de tir multijoueur",
+      "whatIsTitle": "Qu'est-ce que Gun Mayhem Redux ?",
+      "whatIsDescription": "Gun Mayhem Redux est un jeu de tir multijoueur rapide où vous devez détruire vos adversaires en utilisant une variété d’armes et de bonus. Le jeu vous défie de devenir un tireur d’élite professionnel avec des affrontements intenses et dramatiques.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Utilisez une variété d’armes et de bonus pour frapper vos adversaires.",
+      "howToPlayStep2": "Débloquez des boîtes mystérieuses pour renforcer vos armes.",
+      "howToPlayStep3": "Enchaînez les mouvements pour combiner efficacement esquives et attaques.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Jeu de tir multijoueur rapide",
+      "feature1Description": "Découvrez des affrontements dramatiques et féroces dans un environnement de jeu multijoueur.",
+      "feature2Title": "Variété d’armes et de bonus",
+      "feature2Description": "Frappez vos adversaires avec une large gamme d’armes et de bonus.",
+      "feature3Title": "Défi de tireur d’élite professionnel",
+      "feature3Description": "Relevez le défi de devenir un tireur d’élite professionnel dans des combats intenses.",
+      "feature4Title": "Improvisation flexible",
+      "feature4Description": "Utilisez une improvisation flexible pour exécuter des attaques et des stratégies efficaces."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

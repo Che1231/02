@@ -1,0 +1,77 @@
+{
+  "word-hurdle": {
+    "title": "단어 장벽: 어휘력과 공간적 능력 테스트",
+    "slogan": "매번 플레이하며 단어 능력 향상",
+    "description": "단어 장벽은 어휘력과 공간적 추론 능력을 시험하는 매혹적인 단어 게임입니다. 단어 게임 애호가들에게 적합하며, 간편하지만 도전적인 경험을 제공합니다. 지금 단어 장벽을 플레이하고 재미있게 인지 능력을 향상시켜보세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "내용",
+      "help": "도움말",
+      "friendlyLinks": "유용한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "단어 장벽: 무료 온라인 단어 게임",
+      "description": "단어 장벽은 어휘력과 공간적 추론 능력을 향상시키는 재미있고 도전적인 단어 게임입니다. 지금 플레이하고 얼마나 멀리 갈 수 있는지 확인하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "단어 장벽",
+      "whatIsTitle": "단어 장벽이란?",
+      "whatIsDescription": "단어 장벽은 간편하지만 도전적인 단어 게임으로 어휘력과 공간적 추론 능력을 향상시킬 수 있습니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "먼저 단어를 입력하세요.",
+      "howToPlayStep2": "힌트를 사용하여 올바른 단어를 추측하세요.",
+      "howToPlayStep3": "시간 제한 내에 도전 과제를 완료하세요.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "어휘력 향상",
+      "feature1Description": "매 게임마다 어휘력을 향상시키세요.",
+      "feature2Title": "공간적 추론",
+      "feature2Description": "공간적 추론 능력을 테스트하세요.",
+      "feature3Title": "빠른 사고",
+      "feature3Description": "빠르고 지능적인 반응으로 빠른 사고력을 시험하세요.",
+      "feature4Title": "재미있고 몰입도 높음",
+      "feature4Description": "재미있고 몰입도 높은 단어 게임 경험을 즐기세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

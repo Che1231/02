@@ -1,0 +1,77 @@
+{
+  "zombs-io": {
+    "title": "Zombs.io: Ücretsiz Çevrimiçi Zombi Hayatta Kalma Oyunu",
+    "slogan": "İnşa Et, Savun, Hayatta Kal",
+    "description": "Zombs.io, heyecan verici bir kule savunma IO oyununu oluşturmak için Minecraft ve zombilerden öğeler birleştirir. Üsünüzü inşa edin ve acımasız zombi dalgalarından koruyun. Üsünüzü geliştirerek ve güçlendirerek giderek zorlaşan dalgalara dayanıklı hale getirin. Hayatta kalma becerilerinizi test edin ve kaç gece dayanabileceğinizi görün. Arkadaşlarınızla güçleri birleştirerek birlikte güçlü bir üs oluşturun. Ancak, bir partide olmak normalden daha fazla zombi çektiğini unutmayın. Arkadaşlarınızla bir araya gelirken dikkatli ve stratejik planlama yapın.",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinme"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Zombs.io: Ücretsiz Çevrimiçi Zombi Hayatta Kalma Oyunu",
+      "description": "Zombs.io, heyecan verici bir kule savunma IO oyununu oluşturmak için Minecraft ve zombilerden öğeler birleştirir. Üsünüzü inşa edin ve acımasız zombi dalgalarından koruyun. Üsünüzü geliştirerek ve güçlendirerek giderek zorlaşan dalgalara dayanıklı hale getirin. Hayatta kalma becerilerinizi test edin ve kaç gece dayanabileceğinizi görün.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Zombs.io: Ücretsiz Çevrimiçi Zombi Hayatta Kalma Oyunu",
+      "whatIsTitle": "Zombs.io Nedir?",
+      "whatIsDescription": "Zombs.io, heyecan verici bir kule savunma IO oyununu oluşturmak için Minecraft ve zombilerden öğeler birleştirir. Üsünüzü inşa edin ve acımasız zombi dalgalarından koruyun. Üsünüzü geliştirerek ve güçlendirerek giderek zorlaşan dalgalara dayanıklı hale getirin. Hayatta kalma becerilerinizi test edin ve kaç gece dayanabileceğinizi görün.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Üsünüzü inşa edin ve acımasız zombi dalgalarından koruyun.",
+      "howToPlayStep2": "Üsünüzü geliştirerek ve güçlendirerek giderek zorlaşan dalgalara dayanıklı hale getirin.",
+      "howToPlayStep3": "Hayatta kalma becerilerinizi test edin ve kaç gece dayanabileceğinizi görün.",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Kule Savunma Oyunu",
+      "feature1Description": "Üsünüzü inşa edin ve acımasız zombi dalgalarından koruyun.",
+      "feature2Title": "Üs İnşaatı",
+      "feature2Description": "Üsünüzü geliştirerek ve güçlendirerek giderek zorlaşan dalgalara dayanıklı hale getirin.",
+      "feature3Title": "Hayatta Kalma Zorluğu",
+      "feature3Description": "Hayatta kalma becerilerinizi test edin ve kaç gece dayanabileceğinizi görün.",
+      "feature4Title": "Çok Oyunculu İşbirliği",
+      "feature4Description": "Arkadaşlarınızla güçleri birleştirerek birlikte güçlü bir üs oluşturun."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

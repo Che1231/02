@@ -1,0 +1,77 @@
+{
+  "blob-opera": {
+    "title": "Blob Opera - Ücretsiz Çevrimiçi Müzik Oyunu",
+    "slogan": "Opera Şaheserinizi Oluşturun",
+    "description": "Blob Opera, toplarla opera bestelemenize olanak tanıyan benzersiz bir müzik oyunudur. Uyumlu melodiler oluşturmak için topları sürükleyip ayarlayın. Tüm beceri seviyeleri için mükemmel olan Blob Opera, müziği keşfetmek için eğlenceli ve yaratıcı bir yoldur. Bugünden itibaren Blob Opera'yı oynamaya başlayın ve iç dünyanızdaki besteciyi ortaya çıkarın!",
+    "Loading": {
+      "title": "Blob Opera Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Blob Opera - Ücretsiz Çevrimiçi Müzik Oyunu",
+      "description": "Blob Opera, toplarla opera bestelemenize olanak tanıyan benzersiz bir müzik oyunudur. Uyumlu melodiler oluşturmak için topları sürükleyip ayarlayın. Tüm beceri seviyeleri için mükemmel olan Blob Opera, müziği keşfetmek için eğlenceli ve yaratıcı bir yoldur. Bugünden itibaren Blob Opera'yı oynamaya başlayın ve iç dünyanızdaki besteciyi ortaya çıkarın!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Blob Opera - Ücretsiz Çevrimiçi Müzik Oyunu",
+      "whatIsTitle": "Blob Opera Nedir?",
+      "whatIsDescription": "Blob Opera, David Li tarafından Google Sanatlar ve Kültür ile işbirliği içinde oluşturulan bir müzik oyunudur. Dört opera sanatçısının sesleri üzerinde eğitilmiş bir makine öğrenimi modeli kullanarak, herkesin keyif alabileceği pratik ve eğlenceli bir müzik oyunu üretmektedir.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Topların belirli perdelere ulaşmasına yardımcı olmak için fareyi sürükleyin.",
+      "howToPlayStep2": "Uygun melodiler oluşturmak için topları ayarlayın.",
+      "howToPlayStep3": "Farklı müzik stilleri keşfedin ve kendi operanızı oluşturun.",
+      "keyFeaturesTitle": "Temel Özellikler",
+      "feature1Title": "Etkileşimli Müzik Oluşturma",
+      "feature1Description": "Blob Opera, topları ayarlayarak etkileşimli olarak müzik oluşturmanıza olanak tanır.",
+      "feature2Title": "Makine Öğrenimi Modeli",
+      "feature2Description": "Oyun, opera sanatçıları sesleri üzerinde eğitilmiş bir makine öğrenimi modeli kullanır.",
+      "feature3Title": "Oynaması Kolay",
+      "feature3Description": "Blob Opera, tüm beceri seviyeleri için mükemmel, anlaşılması ve oynanması kolaydır.",
+      "feature4Title": "Yaratıcı Keşif",
+      "feature4Description": "Farklı müzik stilleri keşfedin ve kendi benzersiz operanızı oluşturun."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Come iniziare a giocare a Sedecordle da principiante?",
+    "answer": "Per iniziare a giocare a Sedecordle, segui questi passaggi: PASSO 1 - Visita il sito ufficiale di Sedecordle o scarica l'app. PASSO 2 - Clicca su \"Nuova partita\" per iniziare. PASSO 3 - Vedrai una griglia con 16 singoli puzzle di Wordle. Inizia indovinando una parola di 5 lettere per il primo puzzle. Esempio: se indovini \"GRANA\" e le lettere diventano verdi, significa che sono corrette. Ripeti questo processo per tutti i 16 puzzle. [Analogia: immagina di risolvere 16 mini-Wordle contemporaneamente, ciascuno che contribuisce alla sfida del Sedecordle più grande.]"
+  },
+  {
+    "question": "Quali sono le regole di base di Sedecordle che ogni nuovo giocatore dovrebbe conoscere?",
+    "answer": "Le regole di base di Sedecordle sono semplici: 1) Hai 21 tentativi per risolvere 16 puzzle di Wordle. 2) Ogni puzzle richiede una parola di 5 lettere. 3) Le lettere corrette nella posizione corretta diventano verdi, le lettere corrette nella posizione sbagliata diventano gialle e le lettere errate diventano grigie. Esempio: se indovini \"PIANTA\" e \"P\" e \"A\" sono corrette, diventeranno verdi. [Tabella di confronto: Sedecordle vs. Wordle - Sedecordle ha 16 puzzle vs. il Wordle ne ha 1, e 21 tentativi vs. 6 del Wordle.]"
+  },
+  {
+    "question": "Quali strategie possono aiutarmi a migliorare il mio gameplay di Sedecordle da principiante?",
+    "answer": "Per migliorare il tuo gameplay di Sedecordle, queste strategie sono utili: PASSO 1 - Inizia con parole comuni di 5 lettere che contengono molte vocali, come \"AUDIO\". PASSO 2 - Usa i feedback di ogni tentativo per eliminare le lettere impossibili per altri puzzle. PASSO 3 - Concentrati sulla risoluzione dei puzzle più facili per acquisire slancio. Esempio: se \"AUDIO\" risulta avere \"A\" e \"O\" corrette, utilizza queste informazioni in tutti i 16 puzzle. [Confronto tra diverse strategie: iniziare con \"AUDIO\" vs. \"GRANA\" - \"AUDIO\" copre più vocali, che possono essere più informative inizialmente.]"
+  },
+  {
+    "question": "Perché è importante gestire i tentativi in modo efficiente in Sedecordle e come posso farlo?",
+    "answer": "Gestire i tentativi in modo efficiente in Sedecordle è fondamentale perché hai solo 21 tentativi per risolvere 16 puzzle. PASSO 1 - Assegna i tentativi in base alla difficoltà del puzzle; risolvi quelli più facili per primi. PASSO 2 - Usa le lettere condivise tra i puzzle per massimizzare il guadagno di informazioni. PASSO 3 - Evita tentativi ridondanti tenendo traccia delle lettere eliminate. Esempio: se \"GRANA\" elimina \"G\" e \"R\" in più puzzle, puoi concentrarti su altre lettere. [Diagramma di flusso: Assegnazione tentativi - Puzzle facili → Lettere condivise → Elimina le ridondanze.]"
+  },
+  {
+    "question": "Quali tecniche avanzate possono aiutarmi a risolvere i puzzle di Sedecordle più velocemente?",
+    "answer": "Le tecniche avanzate per risolvere Sedecordle più velocemente includono: PASSO 1 - Usa un approccio \"banca parole\", mantenendo un elenco di parole possibili per ogni puzzle. PASSO 2 - Applica l'analisi \"tra puzzle\" per identificare i modelli di lettere sovrapposti. PASSO 3 - Priorizza i puzzle con le più restrizioni per ridurre l'incertezza. Esempio: se il Puzzle 1 ha \"A\" ed \"E\" confermati, usalo per restringere le possibilità nei Puzzle 2-16. [Analogia: immagina una partita a scacchi in cui ogni mossa (tentativo) influenza più tavoliere (puzzle) simultaneamente.]"
+  },
+  {
+    "question": "Come posso ottimizzare la mia strategia di selezione di parole in Sedecordle?",
+    "answer": "Ottimizzare la selezione di parole in Sedecordle comporta: PASSO 1 - Scegli parole che coprono un'ampia gamma di lettere comuni e vocali. PASSO 2 - Usa il processo di eliminazione per scartare le parole che non si adattano al feedback. PASSO 3 - Riusa le lettere confermate tra i puzzle per ridurre al minimo i tentativi. Esempio: se \"AUDIO\" conferma \"A\" e \"I\", privilegia le parole che contengono queste lettere in altri puzzle. [Tabella di confronto: Strategia di selezione parole - Copertura ampia vs. Fuoco ristretto, con esempi come \"AUDIO\" vs. \"GRANA\".]"
+  },
+  {
+    "question": "Quali sono i meccanismi sottostanti al sistema di punteggio di Sedecordle?",
+    "answer": "Il sistema di punteggio di Sedecordle si basa sul numero di tentativi utilizzati per risolvere tutti i 16 puzzle. Meno tentativi usi, più alto è il tuo punteggio. Esempio: risolvere tutti i puzzle in 15 tentativi ottiene un punteggio più alto rispetto a risolverli in 20 tentativi. [Analisi del sistema: Meccanismi di punteggio - Ogni tentativo riduce il potenziale punteggio, e i tentativi non utilizzati aggiungono punti bonus. La formula è: Punteggio = (21 - Tentativi Usati) * 10 + Bonus.]"
+  },
+  {
+    "question": "Come garantisce l'algoritmo di generazione dei puzzle di Sedecordle equità e varietà?",
+    "answer": "L'algoritmo di generazione dei puzzle di Sedecordle garantisce equità e varietà: 1) Seleziona casualmente parole da un elenco curato di parole comuni di 5 lettere. 2) Assicura che ogni puzzle sia indipendente ma possa condividere lettere con gli altri. 3) Bilancia la difficoltà includendo parole comuni e meno comuni. Esempio: il Puzzle 1 potrebbe avere \"GRANA\" mentre il Puzzle 2 ha \"PIANTA\", condividendo la lettera \"A\". [Analisi del sistema: Algoritmo di generazione puzzle - Selezione casuale + Puzzle indipendenti + Bilancia difficoltà.]"
+  },
+  {
+    "question": "Posso trasferire i miei progressi di Sedecordle tra dispositivi diversi?",
+    "answer": "Sì, puoi trasferire i tuoi progressi di Sedecordle tra i dispositivi diversi. PASSO 1 - Assicurati di essere loggato con lo stesso account su entrambi i dispositivi. PASSO 2 - Usa la funzione di salvataggio cloud per sincronizzare i tuoi progressi. PASSO 3 - Se incontri problemi, svuota la cache e riprova. Esempio: i progressi dal tuo telefono possono essere accessibili sul tuo tablet accedendo allo stesso account. [Confronto tra diverse strategie: Sincronizzazione Cloud vs. Salvataggio manuale - La sincronizzazione Cloud è automatica ma richiede un account, mentre il Salvataggio manuale è offline ma meno pratico.]"
+  },
+  {
+    "question": "Ci sono caratteristiche nascoste o uova di Pasqua in Sedecordle che i giocatori potrebbero non conoscere?",
+    "answer": "Sedecordle include caratteristiche nascoste come: 1) Una modalità \"Scuro\" per una migliore esperienza di gioco notturno. 2) Obiettivi nascosti per risolvere tutti i puzzle in tempo record. 3) Animazioni speciali al completamento di tutti i 16 puzzle. Esempio: completare tutti i puzzle in meno di 15 tentativi attiva un'animazione speciale a forma di fuochi d'artificio. [Ricerca di uova di Pasqua: Caratteristiche nascoste - Modalità Scura, Obiettivi nascosti, Animazioni speciali.]"
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "war-brokers": {
+    "title": "워 브로커 플레이 - 무료 온라인 FPS 게임, 군사 차량 포함",
+    "slogan": "워 브로커로 전장을 지배하세요",
+    "description": "워 브로커의 액션으로 가득 찬 .io FPS 게임 세계에 몰입하세요. 흥미진진한 임무를 수행하고, 무기와 차량을 사용자 지정하고, 동료들과 협력하여 승리를 거머쥐세요. 이 역동적인 전장에서 전차, 헬리콥터, 장갑차의 힘을 경험하세요. 지금 워 브로커를 플레이하고 전략적 기술을 발휘하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인 정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "내용",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "워 브로커",
+      "description": "역동적인 .io FPS 게임인 워 브로커로 격렬한 전투에 참여하세요. 무기를 사용자 지정하고 플레이어와 팀을 이루며 군사 차량으로 전장을 지배하세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "워 브로커",
+      "whatIsTitle": "워 브로커는 무엇인가요?",
+      "whatIsDescription": "워 브로커는 다양한 군사 차량과 무기를 사용하여 액션으로 가득 찬 임무에 참여하는 열정적인 .io FPS 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "플레이 스타일에 맞는 차량과 무기를 선택하세요.",
+      "howToPlayStep2": "팀원들과 협력하여 임무를 완료하세요.",
+      "howToPlayStep3": "전장을 지배하고 팀의 승리를 확보하세요.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "사용자 지정 무기고",
+      "feature1Description": "전략적 접근 방식에 맞춰 무기와 차량을 맞춤 설정하세요.",
+      "feature2Title": "팀 협력",
+      "feature2Description": "상대방을 제압하기 위해 팀원들과 긴밀히 협력하세요.",
+      "feature3Title": "역동적인 임무",
+      "feature3Description": "숙련도와 전술을 시험하는 다양한 임무에 참여하세요.",
+      "feature4Title": "군사 차량",
+      "feature4Description": "전장을 지배하기 위해 강력한 전차, 헬리콥터, 장갑차를 지휘하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

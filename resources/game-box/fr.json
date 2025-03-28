@@ -1,0 +1,114 @@
+{
+  "recommended": [],
+  "categories": [
+    {
+      "name": "Jeux phares",
+      "path": "/c/featured",
+      "pageSize": 15,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Nous avons sélectionné les meilleurs jeux pour vous !"
+    },
+    {
+      "name": "Jeux d'arcade",
+      "path": "/c/arcade-games",
+      "pageSize": 15,
+      "backgroundColor": "#d2e7ff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Des jeux d'arcade palpitants !",
+      "position": 2
+    },
+    {
+      "name": "Jeux d'action",
+      "path": "/c/action",
+      "pageSize": 15,
+      "backgroundColor": "#c1f8cf",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Des jeux d'action palpitants !",
+      "position": 3
+    },
+    {
+      "name": "Jeux d'aventure",
+      "path": "/c/adventure-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 4,
+      "description": "Des jeux d'aventure palpitants !"
+    },
+    {
+      "name": "Jeux Wordleverse",
+      "path": "/c/wordleverse-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 5,
+      "description": "Des jeux Wordleverse palpitants !"
+    },
+    {
+      "name": "Jeux .IO",
+      "path": "/c/io-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 6,
+      "description": "Des jeux .IO palpitants !"
+    },
+    {
+      "name": "Jeux décontractés",
+      "path": "/c/casual-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 7,
+      "description": "Des jeux décontractés palpitants !"
+    },
+    {
+      "name": "Jeux de réflexion",
+      "path": "/c/puzzle-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 8,
+      "description": "Des jeux de réflexion palpitants !"
+    },
+    {
+      "name": "Jeux de course et de conduite",
+      "path": "/c/racing-driving",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 9,
+      "description": "Des jeux de course et de conduite palpitants !"
+    },
+    {
+      "name": "Jeux 3D",
+      "path": "/c/3d-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 10,
+      "description": "Des jeux 3D palpitants !"
+    },
+    {
+      "name": "Jeux sportifs",
+      "path": "/c/sports-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 11,
+      "description": "Des jeux sportifs palpitants !"
+    }
+  ]
+}

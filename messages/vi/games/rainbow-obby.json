@@ -1,0 +1,77 @@
+{
+  "rainbow-obby": {
+    "title": "Trò chơi phiêu lưu trực tuyến Rainbow Obby miễn phí",
+    "slogan": "Một thế giới đầy màu sắc đang chờ đón bạn!",
+    "description": "Rainbow Obby mở ra một thế giới đầy màu sắc với những thử thách parkour. Hãy bắt đầu cuộc phiêu lưu với những nền tảng cầu vồng và những cú ngoặt nghèo. Chọn từ bốn chế độ chơi độc đáo và trải nghiệm sự hồi hộp của trò chơi nền tảng hấp dẫn nhất. Chơi Rainbow Obby ngay bây giờ và đắm chìm trong niềm vui đầy màu sắc!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Định hướng"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Rainbow Obby",
+      "description": "Trải nghiệm thế giới đầy màu sắc của Rainbow Obby với lối chơi parkour đầy thách thức. Chọn từ bốn chế độ chơi độc đáo và tận hưởng cuộc phiêu lưu đầy màu sắc!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải game",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Rainbow Obby",
+      "whatIsTitle": "Rainbow Obby là gì?",
+      "whatIsDescription": "Rainbow Obby là một trò chơi nền tảng đầy màu sắc với những thử thách phức tạp và lối chơi parkour đầy màu sắc. Người chơi sẽ bắt đầu cuộc phiêu lưu với những nền tảng cầu vồng và những trải nghiệm độc đáo.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Chọn chế độ chơi của bạn từ bốn tùy chọn có sẵn.",
+      "howToPlayStep2": "Di chuyển qua các nền tảng cầu vồng và tránh các chướng ngại vật.",
+      "howToPlayStep3": "Hoàn thành khóa học và đạt điểm số cao nhất!",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Bốn chế độ chơi",
+      "feature1Description": "Chọn từ bốn chế độ chơi độc đáo, mỗi chế độ có bộ quy tắc và thử thách riêng.",
+      "feature2Title": "Parkour đầy màu sắc",
+      "feature2Description": "Trải nghiệm lối chơi parkour tuyệt đẹp với những nền tảng cầu vồng rực rỡ.",
+      "feature3Title": "Các chướng ngại vật đầy thách thức",
+      "feature3Description": "Đứng trước những thử thách khó khăn và những cú ngoặt nghèo đầy hồi hộp.",
+      "feature4Title": "Cuộc phiêu lưu hấp dẫn",
+      "feature4Description": "Tham gia một cuộc phiêu lưu thú vị cùng nhân vật Obby, đam mê những thử thách."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video game"
+    },
+    "HomeRecommendation": {
+      "title": "Khuyến nghị"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

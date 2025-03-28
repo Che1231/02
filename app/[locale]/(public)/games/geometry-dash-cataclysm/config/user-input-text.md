@@ -1,0 +1,1 @@
+Geometry Dash Cataclysm is an extremely challenging level with a rating of 10 stars and 3 user coins. It holds a special place in the Geometry Dash community and is considered the first episode of the Extreme Demons trilogy, which includes Bloodbath and aftermath.

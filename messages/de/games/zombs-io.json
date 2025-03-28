@@ -1,0 +1,77 @@
+{
+  "zombs-io": {
+    "title": "Zombs.io: Kostenloses Online-Zombie-Überlebens-Spiel",
+    "slogan": "Bauen, Verteidigen, Überleben",
+    "description": "Zombs.io kombiniert Elemente von Minecraft und Zombies zu einem aufregenden Tower-Defense-IO-Spiel. Bauen Sie Ihre Basis und schützen Sie sie vor unaufhaltsamen Zombiewellen. Verbessern und befestigen Sie Ihre Basis, um den immer anspruchsvolleren Wellen standzuhalten. Testen Sie Ihre Überlebensfähigkeiten und sehen Sie, wie viele Nächte Sie durchhalten können. Arbeiten Sie mit Freunden zusammen, um gemeinsam eine beeindruckende Basis zu schaffen. Bedenken Sie jedoch, dass ein Team mehr Zombies anzieht als üblich. Seien Sie vorsichtig und planen Sie strategisch, während Sie mit Freunden zusammenspielen.",
+    "Loading": {
+      "title": "Wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Leitfaden",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Zombs.io: Kostenloses Online-Zombie-Überlebens-Spiel",
+      "description": "Zombs.io kombiniert Elemente von Minecraft und Zombies zu einem aufregenden Tower-Defense-IO-Spiel. Bauen Sie Ihre Basis und schützen Sie sie vor unaufhaltsamen Zombiewellen. Verbessern und befestigen Sie Ihre Basis, um den immer anspruchsvolleren Wellen standzuhalten. Testen Sie Ihre Überlebensfähigkeiten und sehen Sie, wie viele Nächte Sie durchhalten können.",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel spielen"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Zombs.io: Kostenloses Online-Zombie-Überlebens-Spiel",
+      "whatIsTitle": "Was ist Zombs.io?",
+      "whatIsDescription": "Zombs.io kombiniert Elemente von Minecraft und Zombies zu einem aufregenden Tower-Defense-IO-Spiel. Bauen Sie Ihre Basis und schützen Sie sie vor unaufhaltsamen Zombiewellen. Verbessern und befestigen Sie Ihre Basis, um den immer anspruchsvolleren Wellen standzuhalten. Testen Sie Ihre Überlebensfähigkeiten und sehen Sie, wie viele Nächte Sie durchhalten können.",
+      "howToPlayTitle": "Spielanleitung",
+      "howToPlayStep1": "Bauen Sie Ihre Basis und schützen Sie sie vor unaufhaltsamen Zombiewellen.",
+      "howToPlayStep2": "Verbessern und befestigen Sie Ihre Basis, um den immer anspruchsvolleren Wellen standzuhalten.",
+      "howToPlayStep3": "Testen Sie Ihre Überlebensfähigkeiten und sehen Sie, wie viele Nächte Sie durchhalten können.",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
+      "feature1Title": "Tower-Defense-Gameplay",
+      "feature1Description": "Bauen Sie Ihre Basis und schützen Sie sie vor unaufhaltsamen Zombiewellen.",
+      "feature2Title": "Basisbau",
+      "feature2Description": "Verbessern und befestigen Sie Ihre Basis, um den immer anspruchsvolleren Wellen standzuhalten.",
+      "feature3Title": "Überlebensherausforderung",
+      "feature3Description": "Testen Sie Ihre Überlebensfähigkeiten und sehen Sie, wie viele Nächte Sie durchhalten können.",
+      "feature4Title": "Mehrspieler-Koop",
+      "feature4Description": "Arbeiten Sie mit Freunden zusammen, um gemeinsam eine beeindruckende Basis zu schaffen."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

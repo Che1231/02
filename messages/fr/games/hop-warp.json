@@ -1,0 +1,77 @@
+{
+  "hop-warp": {
+    "title": "Hop Warp - Sauter, se déformer et conquérir !",
+    "slogan": "Naviguez, transformez-vous et explorez !",
+    "description": "Plongez-vous dans l'aventure déroutante de Hop Warp, où vous sautez, vous déformez et vous battez pour surmonter des niveaux périlleux. Maîtrisez l'art de l'exploration interdimensionnelle et collectionnez des étoiles pour terminer chaque niveau. Vivez une expérience de jeu unique en vous transformant en une étoile scintillante pour naviguer à travers les murs. Prêt à relever le défi de vos compétences tactiques ? Jouez à Hop Warp maintenant !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amicaux",
+      "articleList": "Liste d'articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Hop Warp - Jeu en ligne gratuit",
+      "description": "Sautez, déformez-vous et conquérir dans Hop Warp ! Naviguez dans des niveaux périlleux, maîtrisez l'art de la déformation et devenez l'explorateur ultime de l'espace interdimensionnel. Jouez maintenant !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Hop Warp",
+      "whatIsTitle": "Qu'est-ce que Hop Warp ?",
+      "whatIsDescription": "Hop Warp est une aventure d'un petit personnage qui navigue dans des labyrinthes fermés. Découvrez un jeu de plateforme captivant où les dimensions se heurtent et se transforment en une étoile scintillante pour collecter toutes les étoiles.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Déplacement : utiliser les flèches directionnelles ou les touches WASD.",
+      "howToPlayStep2": "Transformation : appuyez sur la touche X ou la barre d'espace pour vous transformer en étoile.",
+      "howToPlayStep3": "Remarque : les murs et les zones rouges empêchent les transformations.",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Mécanique de jeu unique",
+      "feature1Description": "Collectionnez toutes les étoiles de chaque niveau en sautant et en vous déformant à travers les dimensions.",
+      "feature2Title": "Transformation de forme",
+      "feature2Description": "Transformez-vous en une étoile scintillante pour traverser les murs et naviguer dans des labyrinthes complexes.",
+      "feature3Title": "Défi tactique",
+      "feature3Description": "Utilisez stratégiquement les transformations limitées pour terminer chaque niveau.",
+      "feature4Title": "Niveaux engageants",
+      "feature4Description": "Explorez des niveaux déroutants conçus pour tester vos compétences et votre créativité."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

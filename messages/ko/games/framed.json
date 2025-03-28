@@ -1,0 +1,77 @@
+{
+  "framed": {
+    "title": "프레임드 - 밤의 도시를 배경으로 한 퍼즐 어드벤처",
+    "slogan": "재배열하고 전략을 세우고 미스터리를 풀어내세요",
+    "description": "이야기와 전략적 사고를 결합한 매혹적인 퍼즐 게임, 프레임드에 뛰어들세요. 이 밤의 도시를 배경으로 한 모험에서 플레이어는 만화 패널을 재배열하여 흥미진진한 이야기를 탐험합니다. 매혹적인 게임플레이와 신비로운 분위기가 당신의 마음을 격렬하게 시험하고 몰입하게 만들어 줄 것입니다. 지금 프레임드를 플레이하고 각 패널에 숨겨진 비밀을 밝혀내세요!",
+    "Loading": {
+      "title": "불러오는 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호 정책",
+      "termsOfServices": "서비스 이용 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "프레임드 - 밤의 도시를 배경으로 한 퍼즐 어드벤처",
+      "description": "만화 패널을 재배열하여 매혹적인 이야기를 탐험하는 밤의 도시를 테마로 한 퍼즐 게임, 프레임드의 짜릿함을 경험하세요. 지금 플레이하고 이 독특한 모험에 몰입하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "프레임드 - 밤의 도시를 배경으로 한 퍼즐 어드벤처",
+      "whatIsTitle": "프레임드는 무엇인가요?",
+      "whatIsDescription": "프레임드는 이야기와 전략적 사고를 결합한 매혹적이고 매력적인 퍼즐 게임입니다. 이 밤의 도시를 배경으로 한 모험에서 플레이어는 신비로운 세계에 놓여 만화 패널을 재배열하여 흥미진진한 이야기를 탐험해야 합니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "만화 패널을 재배열하여 이야기를 진행합니다.",
+      "howToPlayStep2": "전략적 사고를 활용하여 퍼즐을 풉니다.",
+      "howToPlayStep3": "각 패널에 숨겨진 비밀을 밝혀냅니다.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "밤의 도시를 배경으로 한 이야기",
+      "feature1Description": "밤의 도시 영화를 테마로 한 흥미진진한 이야기에 몰입하세요.",
+      "feature2Title": "전략적인 퍼즐 풀이",
+      "feature2Description": "전략적 사고를 요구하는 퍼즐로 마음을 시험하세요.",
+      "feature3Title": "독특한 게임플레이",
+      "feature3Description": "만화 패널을 재배열하는 독특한 게임 메커니즘을 경험하세요.",
+      "feature4Title": "매혹적인 분위기",
+      "feature4Description": "신비롭고 매혹적인 게임 세계에 빠져보세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "rainbow-obby": {
+    "title": "Rainbow Obby: Kostenloses Online-Abenteuer-Spiel",
+    "slogan": "Eine farbenfrohe Welt erwartet dich!",
+    "description": "Rainbow Obby öffnet eine lebendige Welt voller Parkour-Herausforderungen. Begib dich auf ein Abenteuer mit bunten Plattformen und atemberaubenden Wendungen. Wähle aus vier einzigartigen Spielmodi und erlebe den Nervenkitzel des spannendsten Plattformspiels. Spiele jetzt Rainbow Obby und tauche ein in den farbenfrohen Spaß!",
+    "Loading": {
+      "title": "Wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Leitfaden",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Rainbow Obby",
+      "description": "Erlebe die lebendige Welt von Rainbow Obby mit seinem herausfordernden Parkour-Gameplay. Wähle aus vier einzigartigen Modi und genieße das farbenfrohe Abenteuer!",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Rainbow Obby",
+      "whatIsTitle": "Was ist Rainbow Obby?",
+      "whatIsDescription": "Rainbow Obby ist ein lebendiges Plattformspiel voller kniffliger Herausforderungen und farbenfrohem Parkour-Gameplay. Die Spieler begeben sich auf ein Abenteuer mit bunten Plattformen und einzigartigen Erlebnissen.",
+      "howToPlayTitle": "So spielst du",
+      "howToPlayStep1": "Wähle deinen Spielmodus aus den vier verfügbaren Optionen.",
+      "howToPlayStep2": "Navigiere durch die bunten Plattformen und vermeide Hindernisse.",
+      "howToPlayStep3": "Durchlaufe den Parcours und erreiche die höchste Punktzahl!",
+      "keyFeaturesTitle": "Schlüsselmerkmale",
+      "feature1Title": "Vier Spielmodi",
+      "feature1Description": "Wähle aus vier einzigartigen Spielmodi, jeder mit eigenen Regeln und Herausforderungen.",
+      "feature2Title": "Bunte Parkour-Action",
+      "feature2Description": "Erlebe atemberaubendes Parkour-Gameplay mit lebendigen bunten Plattformen.",
+      "feature3Title": "Herausfordernde Hindernisse",
+      "feature3Description": "Steige kniffligen Herausforderungen und atemberaubenden Wendungen entgegen.",
+      "feature4Title": "Ein spannendes Abenteuer",
+      "feature4Description": "Begib dich auf ein aufregendes Abenteuer mit dem Charakter Obby, der Herausforderungen liebt."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spiel Kommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

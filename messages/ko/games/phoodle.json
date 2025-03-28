@@ -1,0 +1,77 @@
+{
+  "phoodle": {
+    "title": "플후들 온라인 플레이: 무료 요리사 테마 단어 퍼즐 게임",
+    "slogan": "6번의 시도 안에 음식 단어를 맞춰보세요!",
+    "description": "플후들은 워드를 참고하여 제작된 요리사 테마 단어 퍼즐 게임입니다. 재료, 요리 방법 또는 유명 요리사와 관련된 매일 5글자 단어로 식품 지식에 도전하세요. 정답을 맞히면 흥미로운 음식 정보를 해제하세요. 지금 플후들을 무료로 플레이하고 요리 전문 지식을 테스트해보세요!",
+    "Loading": {
+      "title": "플후들 로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "컨텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "플후들: 요리사 테마 단어 퍼즐 게임",
+      "description": "플후들은 음식 애호가들을 위한 무제한 플레이가 가능합니다. 6번의 시도 안에 5글자 음식 단어를 맞춰 매일 요리 도전 과제를 해제하세요. 지금 플후들을 플레이하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "플후들: 요리사 테마 단어 퍼즐",
+      "whatIsTitle": "플후들은 무엇인가요?",
+      "whatIsDescription": "플후들은 워드를 참고하여 제작된 요리사 테마 단어 퍼즐 게임으로, 플레이어는 6번의 시도 안에 5글자의 음식 관련 단어를 맞춰야 합니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "5글자의 음식 관련 단어를 추측해보세요.",
+      "howToPlayStep2": "색깔 표시 힌트를 사용하여 추측을 정제하세요.",
+      "howToPlayStep3": "정답을 맞히면 음식 정보를 해제하세요!",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "매일 도전",
+      "feature1Description": "매일 새로운 음식 관련 단어를 즐겨보세요.",
+      "feature2Title": "색상별 힌트",
+      "feature2Description": "녹색, 노란색, 회색 힌트를 사용하여 추측을 안내하세요.",
+      "feature3Title": "무제한 플레이 가능",
+      "feature3Description": "언제든지 플후들을 플레이하고 즐거움을 만끽하세요.",
+      "feature4Title": "음식 정보",
+      "feature4Description": "각 정답을 맞힐 때마다 흥미로운 요리 팁을 배우세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 동영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 코멘트"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

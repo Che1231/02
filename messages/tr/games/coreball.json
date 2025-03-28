@@ -1,0 +1,77 @@
+{
+  "coreball": {
+    "title": "Coreball: Ritimi Ustalar, Oyunu Fethedin",
+    "slogan": "Yönlendirin, Senkronize Edin, Zafer Kazanın",
+    "description": "Coreball, zamanlamanızı ve hassasiyetinizi zorlayan büyüleyici bir ritim tabanlı oyundur. Her biri mükemmel senkronizasyon gerektiren 100'den fazla seviyeyle, başlangıçtan itibaren kendinizi oyunun içine çekileceksiniz. Başlangıç seviyesindeki bir oyuncu olun veya deneyimli bir oyuncu, Coreball sonsuz eğlence ve heyecan sunuyor. Şimdi Coreball oynayın ve ritimi ustalaştırıp ustalık gösterebilir misiniz!",
+    "Loading": {
+      "title": "Coreball Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "kılavuz",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Coreball: En Son Ritim Zorluğunu Oyna",
+      "description": "Zamanlamanızı ve hassasiyetinizi test eden Coreball oyununun heyecanını yaşayın. 100'den fazla seviyeyle Coreball sonsuz eğlence ve heyecan sunmaktadır. Şimdi oynayın ve ritimde ustalaşıp ustalık gösterebilir misiniz!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Coreball: Ritim Zorluğu",
+      "whatIsTitle": "Coreball Nedir?",
+      "whatIsDescription": "Coreball, hareketlerinizi ritimle senkronize ederek seviyelerden geçmenizi sağlayan bir ritim tabanlı oyundur. Başlamak kolaydır ancak ustalaşması zordur, tüm oyuncular için sonsuz eğlence sunar.",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Seviyenin ritmiyle hareketlerinizi senkronize ederek başlayın.",
+      "howToPlayStep2": "Dengeli bir hız koruyarak engellerden geçin.",
+      "howToPlayStep3": "Her biri artan zorlukta 100'den fazla seviyeden geçin.",
+      "keyFeaturesTitle": "Temel Özellikler",
+      "feature1Title": "Ritim Tabanlı Oyun",
+      "feature1Description": "Coreball, benzersiz ritim tabanlı mekaniği ile zamanlamanızı ve hassasiyetinizi zorlar.",
+      "feature2Title": "100'den Fazla Seviye",
+      "feature2Description": "Geniş bir dizi seviyeyle Coreball sonsuz zorluk ve eğlence sunar.",
+      "feature3Title": "Basit Ancak Zorlayıcı",
+      "feature3Description": "Başlaması kolay ancak ustalaşması zor olan Coreball, her beceri seviyesindeki oyuncu için mükemmeldir.",
+      "feature4Title": "Sonsuz Eğlence",
+      "feature4Description": "Coreball, sürükleyici oyun oynanışı ve artan zorluklarıyla sonsuz eğlence sağlar."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Öneriler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

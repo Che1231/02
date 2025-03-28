@@ -1,0 +1,77 @@
+{
+  "fnf-vs-touhou": {
+    "title": "애니메이션 세계의 FNF 대 란마 - 웅장한 음악 대결",
+    "slogan": "리듬 비트로 란마 유니버스를 도전하세요!",
+    "description": "매혹적인 애니메이션 세계인 란마에서 펼쳐지는 짜릿한 음악 대결, FNF 대 란마에 몰입하세요. 매혹적인 리듬으로 강력한 캐릭터들과 맞서고 최고 점수를 획득하세요. 생생한 비주얼과 매력적인 음악으로 잊을 수 없는 경험을 선사합니다. 반응 속도와 음악 감각을 테스트할 준비가 되셨나요? 지금 FNF 대 란마를 플레이하고 승리의 여정을 시작하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인 정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "컨텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "FNF 대 란마 - 지금 플레이하세요!",
+      "description": "FNF 대 란마에서 웅장한 음악 대결에 참여하세요. 강력한 캐릭터들을 상대로 리듬 실력으로 최고 점수를 획득하세요. 지금 바로 여정을 시작하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "FNF 대 란마",
+      "whatIsTitle": "FNF 대 란마는 무엇인가요?",
+      "whatIsDescription": "FNF 대 란마는 란마 프로젝트 시리즈에서 영감을 받은 극적인 음악 대결 게임입니다. 귀여운 캐릭터들이 매력적인 외모와 뛰어난 전투 기술을 갖춘 아름다운 애니메이션 세계로 들어가세요. 생생한 비주얼과 멋진 음악으로 오랫동안 매료될 것입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "보이프렌드 역할을 하여 강력한 상대들을 도전하세요.",
+      "howToPlayStep2": "녹색 점수 표시 줄을 유지하기 위해 음표를 따라하세요.",
+      "howToPlayStep3": "노래가 끝날 때까지 녹색 색상을 유지하여 승리하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "생생한 애니메이션 세계",
+      "feature1Description": "란마 프로젝트 시리즈에서 영감을 받은 다채롭고 생생한 애니메이션 세계에 몰입하세요.",
+      "feature2Title": "매혹적인 리듬",
+      "feature2Description": "반응 속도를 시험하는 예측 불가능한 음악 리듬에 도전하세요.",
+      "feature3Title": "웅장한 음악 대결",
+      "feature3Description": "끊임없이 긴장감을 유지하는 웅장한 음악 전투로 강력한 캐릭터들과 맞서세요.",
+      "feature4Title": "잊을 수 없는 경험",
+      "feature4Description": "시간을 잊게 만드는 밝은 비주얼 디자인과 멋진 음악 스타일을 즐기세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

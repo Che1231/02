@@ -1,0 +1,77 @@
+{
+  "flagle": {
+    "title": "Flagle – Die Flaggenrätsel & Länderkunde",
+    "slogan": "Erweitern Sie Ihr Weltwissen mit Flagle",
+    "description": "Flagle ist ein edukatives Ratespiel, das Sie herausfordert, versteckte Flaggen zu identifizieren und dabei Länder kennenzulernen. Mit sechs Versuchen lüften Sie Stück für Stück die Flagge und erhalten geografische Hinweise, um Ihre Fähigkeiten zu verbessern. Flagle macht das Erlernen der Geographie unterhaltsam und ansprechend. Spielen Sie noch heute Flagle und erkunden Sie die Welt!",
+    "Loading": {
+      "title": "Wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Flagle – Flaggenrätsel",
+      "description": "Flagle ist ein edukatives Ratespiel, das Sie herausfordert, versteckte Flaggen zu identifizieren und dabei Länder kennenzulernen. Mit sechs Versuchen lüften Sie Stück für Stück die Flagge und erhalten geografische Hinweise, um Ihre Fähigkeiten zu verbessern.",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Flagle – Flaggenrätsel",
+      "whatIsTitle": "Was ist Flagle?",
+      "whatIsDescription": "Flagle ist ein edukatives Ratespiel, das entwickelt wurde, um Ihr Wissen über Länder und die Welt zu erweitern. Raten Sie die versteckte Flagge und erhalten Sie geografische Hinweise, um Ihre Fähigkeiten zu verbessern.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Erraten Sie das Land, dessen Flagge versteckt ist.",
+      "howToPlayStep2": "Verwenden Sie nicht mehr als sechs Versuche.",
+      "howToPlayStep3": "Entdecken Sie mit jedem erfolglosen Versuch einen weiteren Teil der versteckten Flagge.",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
+      "feature1Title": "Edukativ",
+      "feature1Description": "Flagle hilft Ihnen, Länder und ihre Flaggen kennenzulernen.",
+      "feature2Title": "Herausfordernd",
+      "feature2Description": "Erraten Sie die versteckte Flagge in sechs Versuchen oder weniger.",
+      "feature3Title": "Interaktiv",
+      "feature3Description": "Erhalten Sie geografische Hinweise, die Ihre Vermutungen leiten.",
+      "feature4Title": "Ansprechend",
+      "feature4Description": "Flagle macht das Erlernen der Geographie unterhaltsam und interaktiv."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "hero-wars": {
+    "title": "Kahramanlar Savaşı - Epik Fantastik RPG Macera",
+    "slogan": "Kahramanları Topla, Karanlığı Yık!",
+    "description": "Kahramanlar Savaşı'nda, Dominion diyarını kaossu kurtarmak için aksiyon dolu bir RPG macerasına atılın. Güçlü kahramanlardan oluşan bir takım kurun, becerilerini geliştirin ve heyecan verici savaşlara katılın. Bugün en mükemmel fantastik macerayı yaşayın!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinme"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Kahramanlar Savaşı™",
+      "description": "Kahramanlar Savaşı'na dalın, Dominion'u kurtarmak için kahramanları yöneteceğiniz epik bir fantastik RPG. Becerileri geliştirin, savaşları stratejik planlayın ve kaosa karşı zafer kazanmaya çalışın. Şimdi maceranıza başlayın!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Kahramanlar Savaşı - En İyi RPG Deneyimi",
+      "whatIsTitle": "Kahramanlar Savaşı Nedir?",
+      "whatIsDescription": "Kahramanlar Savaşı, sizi fantastik Dominion diyarını karanlık ve kaostan kurtarmak için epik bir yolculuğa çıkaran aksiyon dolu bir RPG. Güçlü kahramanlardan oluşan bir takım kurun, becerilerini geliştirin ve güçlü düşmanlara karşı heyecan verici savaşlara katılın.",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Güçlü kahramanlardan oluşan bir takım kurun.",
+      "howToPlayStep2": "Kahramanlarınızın becerilerini ve ekipmanlarını yükseltin.",
+      "howToPlayStep3": "Düşmanları yenmek için stratejik savaşlara girin.",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Epik Kahramanlar",
+      "feature1Description": "Çeşitli kahramanlardan oluşan bir kadroyu işe alın ve geliştirin.",
+      "feature2Title": "Stratejik Savaşlar",
+      "feature2Description": "Hareketlerinizi planlayın ve güçlü düşmanları yenin.",
+      "feature3Title": "Fantastik Diyar",
+      "feature3Description": "Dominion'un büyülü dünyasını keşfedin.",
+      "feature4Title": "Takım Halinde Oyna",
+      "feature4Description": "Daha büyük zorlukları aşmak için arkadaşlarınızla güç birliğine girin."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiye Edilenler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

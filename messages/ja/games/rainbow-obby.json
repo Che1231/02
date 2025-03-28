@@ -1,0 +1,77 @@
+{
+  "rainbow-obby": {
+    "title": "虹彩迷宫：免费在线冒险游戏",
+    "slogan": "一个充满活力的世界在等待！",
+    "description": "虹彩迷宫开启了一个充满活力的跑酷挑战世界。踏上彩虹平台和惊险转折的冒险之旅。从四种独特的游戏模式中选择，体验最引人入胜的平台游戏带来的刺激。现在就玩虹彩迷宫，沉浸在五彩缤纷的乐趣中！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建于",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一个",
+      "previous": "上一个"
+    },
+    "HomeIframe": {
+      "title": "虹彩迷宫",
+      "description": "体验充满活力的虹彩迷宫世界及其具有挑战性的跑酷游戏玩法。从四种独特模式中选择，享受充满活力的冒险！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "虹彩迷宫",
+      "whatIsTitle": "什么是虹彩迷宫？",
+      "whatIsDescription": "虹彩迷宫是一款充满棘手挑战和充满活力的跑酷游戏。玩家将踏上彩虹平台的冒险之旅，体验独特的游戏体验。",
+      "howToPlayTitle": "如何玩耍",
+      "howToPlayStep1": "从四个可用的选项中选择你的游戏模式。",
+      "howToPlayStep2": "在彩虹平台上进行导航并避开障碍物。",
+      "howToPlayStep3": "完成关卡，获得最高分数！",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "四种游戏模式",
+      "feature1Description": "从四种独特的游戏模式中选择，每种模式都有其独特的规则和挑战。",
+      "feature2Title": "色彩缤纷的跑酷",
+      "feature2Description": "体验彩虹平台带来的视觉冲击的跑酷游戏。",
+      "feature3Title": "具有挑战性的障碍",
+      "feature3Description": "面对棘手的挑战和令人心惊肉跳的转折点。",
+      "feature4Title": "引人入胜的冒险",
+      "feature4Description": "踏上与充满挑战精神的角色Obby一起进行的激动人心的冒险。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "类别",
+      "noCategories": "未找到类别",
+      "viewMore": "查看更多",
+      "page": "页"
+    }
+  }
+}

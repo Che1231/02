@@ -1,0 +1,77 @@
+{
+  "sedecordle": {
+    "title": "Sedecordleオンラインプレイ - 無料のワードパズルゲーム",
+    "slogan": "Sedecordleで隠された単語を発見",
+    "description": "Sedecordleは、プレイヤーが隠された単語を発見する挑戦的なジェスチャーゲームです。Wordleと同様に、さまざまな難易度レベルを備えており、同時パズル解決が可能です。今日のSedecordleに挑戦して、単語発見の興奮を体験してください！",
+    "Loading": {
+      "title": "Sedecordle読み込み中…"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "関連ウェブサイト",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "Sedecordle™ - 無料オンラインワードパズル",
+      "description": "さまざまな難易度レベルの複数の段階で隠された単語を発見する、魅力的なワードパズルゲームSedecordleで自分を試してみてください。今すぐプレイして、究極の単語発見体験をお楽しみください！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "フルスクリーン",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sedecordle - ワードパズルチャレンジ",
+      "whatIsTitle": "Sedecordleとは何ですか？",
+      "whatIsDescription": "Sedecordleは、プレイヤーが隠された単語を発見する挑戦的なジェスチャーゲームです。Wordleと同様に、さまざまな難易度レベルを備えており、同時パズル解決が可能です。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "難易度レベルを選択することから始めます。",
+      "howToPlayStep2": "アルファベットを入力して、隠された単語を推測します。",
+      "howToPlayStep3": "パズルを完成させて次のレベルに進みます。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "複数の難易度レベル",
+      "feature1Description": "新鮮な挑戦を続けるために、さまざまな難易度レベルをお楽しみください。",
+      "feature2Title": "同時パズル",
+      "feature2Description": "より充実した体験のために、複数のパズルを同時に解いてください。",
+      "feature3Title": "魅力的なゲームプレイ",
+      "feature3Description": "魅惑的な単語発見メカニズムで、楽しさを保ちます。",
+      "feature4Title": "無料プレイ",
+      "feature4Description": "すべての機能に無料でアクセスできます。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム一覧"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリ",
+      "noCategories": "カテゴリが見つかりませんでした",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

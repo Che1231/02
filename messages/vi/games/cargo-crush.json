@@ -1,0 +1,77 @@
+{
+  "cargo-crush": {
+    "title": "Trò chơi sắp xếp hàng hóa Cargo Crush - Trò chơi trực tuyến miễn phí",
+    "slogan": "Đập tan giới hạn, làm chủ cảng!",
+    "description": "Hãy trải nghiệm thử thách sắp xếp hàng hóa trong Cargo Crush! Trò chơi giải trí nhẹ nhàng này sẽ thử thách sự chính xác và kỹ năng của bạn khi bạn điều khiển và dỡ hàng hóa từ các container. Xếp hàng nhanh nhất, giải quyết các trở ngại và trở thành người làm chủ cảng. Bạn đã sẵn sàng cho một cuộc phiêu lưu? Chơi Cargo Crush ngay bây giờ!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Đường dẫn"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Cargo Crush - Trò chơi trực tuyến miễn phí",
+      "description": "Chơi Cargo Crush và trải nghiệm thử thách sắp xếp hàng hóa tối thượng! Điều khiển và dỡ hàng hóa từ các container một cách chính xác và khéo léo. Bạn có sẵn sàng để đập tan giới hạn và làm chủ cảng không?",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải xuống trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Cargo Crush",
+      "whatIsTitle": "Cargo Crush là gì?",
+      "whatIsDescription": "Cargo Crush là một trò chơi giải trí nhẹ nhàng nơi bạn sắp xếp và dỡ hàng hóa từ các container với sự chính xác và khéo léo. Đó là một cuộc chiến với thời gian và những thử thách đầy kịch tính!",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Điều khiển các container hàng hóa một cách chính xác.",
+      "howToPlayStep2": "Xếp hàng nhanh nhất để giải quyết các trở ngại.",
+      "howToPlayStep3": "Trở thành người làm chủ cảng!",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Điều khiển chính xác",
+      "feature1Description": "Điều khiển các container hàng hóa một cách chính xác và khéo léo.",
+      "feature2Title": "Thử thách thời gian",
+      "feature2Description": "Đấu tranh với thời gian và những thử thách đầy kịch tính.",
+      "feature3Title": "Gameplay hấp dẫn",
+      "feature3Description": "Tận hưởng trải nghiệm trò chơi giải trí nhẹ nhàng và thú vị.",
+      "feature4Title": "Làm chủ cảng",
+      "feature4Description": "Trở thành người làm chủ cảng bằng cách giải quyết tất cả các trở ngại."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Nhận xét trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các thể loại",
+      "noCategories": "Không tìm thấy thể loại nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

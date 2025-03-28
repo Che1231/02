@@ -1,0 +1,77 @@
+{
+  "cleverdle": {
+    "title": "Cleverdle online spielen - kostenloses Wortspiel",
+    "slogan": "Testen Sie Ihr Wortspiel mit Cleverdle!",
+    "description": "Cleverdle ist ein faszinierendes Wortspiel, das Ihr Vokabular und logisches Denken herausfordert. Mit Hunderten von verschiedenen Rätseln bietet Cleverdle eine einzigartige Mischung aus Unterhaltung und geistiger Übung. Jede Stufe erfordert Kreativität und strategisches Denken, um fünfbuchstabige Wörter in nur sechs Versuchen zu lösen. Tauchen Sie ein in die Welt von Cleverdle und erleben Sie eine Reise voller Geheimnisse und Entdeckungen. Spielen Sie jetzt und verbessern Sie Ihre Wortschatzkenntnisse!",
+    "Loading": {
+      "title": "Lädt..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Cleverdle™ - Kostenloses Wortspiel",
+      "description": "Cleverdle ist ein herausforderndes Wortspiel, das Ihr Vokabular und logische Fähigkeiten testet. Spielen Sie jetzt und lösen Sie fünfbuchstabige Wörter in sechs Versuchen!",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Cleverdle™ - Die ultimative Wortspiel-Herausforderung",
+      "whatIsTitle": "Was ist Cleverdle?",
+      "whatIsDescription": "Cleverdle ist ein Wortspiel, das Unterhaltung mit geistiger Übung kombiniert. Es fordert die Spieler heraus, fünfbuchstabige Wörter in sechs Versuchen zu lösen und so Vokabular und logisches Denken zu verbessern.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Beginnen Sie mit dem Raten eines fünfbuchstabigen Wortes.",
+      "howToPlayStep2": "Nutzen Sie die Farbhinführungen, um Ihre nächsten Versuche zu verfeinern.",
+      "howToPlayStep3": "Lösen Sie das Wort innerhalb von sechs Versuchen, um zu gewinnen!",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
+      "feature1Title": "Herausfordernde Rätsel",
+      "feature1Description": "Hunderte von verschiedenen Rätseln, um Ihre Wortschatzfähigkeiten zu testen.",
+      "feature2Title": "Geistige Übung",
+      "feature2Description": "Verbessern Sie Ihr Vokabular und logisches Denken bei jeder Stufe.",
+      "feature3Title": "Strategisches Gameplay",
+      "feature3Description": "Lösen Sie fünfbuchstabige Wörter in nur sechs Versuchen mit strategischem Denken.",
+      "feature4Title": "Einprägsames Erlebnis",
+      "feature4Description": "Erleben Sie eine Reise voller Geheimnisse und Entdeckungen in Cleverdle."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

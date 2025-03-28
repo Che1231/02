@@ -1,0 +1,77 @@
+{
+  "lava-bird": {
+    "title": "Gioca a Lava Bird Online - Feroce Avventura di Volo",
+    "slogan": "Metti alla prova i tuoi riflessi in questo frenetico gioco d'azione!",
+    "description": "Intraprendi un volo infuocato con Lava Bird! Naviga attraverso una grotta lavica infuocata, schiva gli ostacoli e sconfiggi i nemici con palle di fuoco distruttive. Con due emozionanti modalità di gioco, puoi giocare da solo o sfidare un amico. Vivi l'emozione di questo frenetico gioco d'azione 2D. Gioca a Lava Bird ora e conquista i cieli di lava!",
+    "Loading": {
+      "title": "Caricamento..."
+    },
+    "Navbar": {
+      "title": "Navigazione"
+    },
+    "Common": {
+      "createAt": "Creato il",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla privacy",
+      "termsOfServices": "Termini di servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Link utili",
+      "articleList": "Elenco articoli",
+      "home": "Home",
+      "next": "Successivo",
+      "previous": "Precedente"
+    },
+    "HomeIframe": {
+      "title": "Lava Bird - Epica Avventura di Volo",
+      "description": "Unisciti a Lava Bird in un volo infuocato attraverso la grotta di lava. Schiva gli ostacoli, spara palle di fuoco e sconfiggi i nemici in questo emozionante gioco d'azione 2D. Gioca ora!",
+      "iframeTitle": "Anteprima del gioco",
+      "fullscreenButton": "Schermo intero",
+      "shareButton": "Condividi",
+      "urlCopied": "URL copiato negli appunti!",
+      "downloadGame": "Scarica il gioco",
+      "playGame": "Gioca"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Lava Bird - Avventura di Volo Infuocato",
+      "whatIsTitle": "Cos'è Lava Bird?",
+      "whatIsDescription": "Lava Bird è un frenetico gioco d'azione 2D in cui controlli un uccello di fuoco che naviga attraverso una pericolosa grotta di lava. Evita gli ostacoli, spara palle di fuoco e sconfiggi i nemici per diventare il re dei cieli di lava!",
+      "howToPlayTitle": "Come Giocare",
+      "howToPlayStep1": "Usa lo spazio o clicca per controllare l'uccello in modalità giocatore singolo.",
+      "howToPlayStep2": "In modalità a due giocatori, il Giocatore 1 (uccello rosso) usa il tasto W, e il Giocatore 2 (uccello blu) usa le frecce in alto.",
+      "howToPlayStep3": "Evita gli ostacoli e sconfiggi i nemici per accumulare punti. Il primo giocatore ad arrivare a cinque punti vince!",
+      "keyFeaturesTitle": "Caratteristiche principali",
+      "feature1Title": "Volo Infuocato",
+      "feature1Description": "Naviga attraverso una pericolosa grotta di lava piena di ostacoli e nemici.",
+      "feature2Title": "Palle di Fuoco Distruttive",
+      "feature2Description": "Spara palle di fuoco per distruggere i nemici e aprire la tua strada.",
+      "feature3Title": "Due Modalità di Gioco",
+      "feature3Description": "Scegli tra la modalità giocatore singolo o l'intensa lotta uno contro uno con un amico.",
+      "feature4Title": "Controlli Semplici",
+      "feature4Description": "Controlli semplici e intuitivi rendono facile per tutti i giocatori godersi il gioco."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Raccomandati"
+    },
+    "HomeComments": {
+      "title": "Commenti sul gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i giochi",
+      "description": "Tutti i giochi",
+      "games": "Giochi"
+    },
+    "CategoryPage": {
+      "categories": "Categorie",
+      "noCategories": "Nessuna categoria trovata",
+      "viewMore": "Visualizza altro",
+      "page": "Pagina"
+    }
+  }
+}

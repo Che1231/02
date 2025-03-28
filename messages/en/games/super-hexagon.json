@@ -1,0 +1,77 @@
+{
+  "super-hexagon": {
+    "title": "Super Hexagon - Challenge Your Reflexes with Rhythmic Action",
+    "slogan": "Feel the Beat, Escape the Hexas",
+    "description": "Super Hexagon offers a unique musical experience that challenges your improvisation skills. Navigate through a world of revolving hexagons, avoid incoming walls, and immerse yourself in powerful electronic music. The game's pace increases continuously, testing your reflexes and concentration. Play now and see how long you can survive in this thrilling rhythm-based adventure!",
+    "Loading": {
+      "title": "Loading Super Hexagon..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Super Hexagon - Free Online Game",
+      "description": "Experience the challenge of Super Hexagon, where rhythm and reflexes meet. Avoid incoming walls, feel the beat, and survive in this fast-paced game. Play now for free!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Super Hexagon",
+      "whatIsTitle": "What is Super Hexagon?",
+      "whatIsDescription": "Super Hexagon is a rhythm-based game that tests your reflexes and concentration. Navigate through a world of revolving hexagons and avoid incoming walls to survive.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Use the left and right arrow keys to rotate the hexagon.",
+      "howToPlayStep2": "Avoid walls that appear from the edges of the hexagons.",
+      "howToPlayStep3": "Keep up with the increasing pace and survive as long as possible.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Rhythmic Gameplay",
+      "feature1Description": "Sync your moves with the beat of the music for an immersive experience.",
+      "feature2Title": "Challenging Levels",
+      "feature2Description": "The game's pace increases continuously, testing your reflexes and concentration.",
+      "feature3Title": "Electronic Music",
+      "feature3Description": "Powerful and attractive electronic music enhances the gameplay experience.",
+      "feature4Title": "Unlockable Achievements",
+      "feature4Description": "Challenge yourself to unlock achievements and improve your skills."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

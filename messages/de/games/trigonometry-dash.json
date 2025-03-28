@@ -1,0 +1,77 @@
+{
+  "trigonometry-dash": {
+    "title": "Trigonometriedash: Geometrieabflugspiel",
+    "slogan": "Erobern Sie komplexe geometrische Karten mit Trigonometry Dash",
+    "description": "Trigonometry Dash bietet ein einzigartiges Platformerlebnis, bei dem Sie sich durch geometrische Herausforderungen navigieren. Mit vier Spielmodi und anpassbarer Geschwindigkeit erleben Sie ein aufregendes Abenteuer. Spielen Sie jetzt Trigonometry Dash und erkunden Sie die geometrische Welt!",
+    "Loading": {
+      "title": "Trigonometry Dash wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzerklärung",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Nächste",
+      "previous": "Vorherige"
+    },
+    "HomeIframe": {
+      "title": "Trigonometry Dash",
+      "description": "Trigonometry Dash lädt Sie zu einem einzigartigen geometrischen Abenteuer ein. Navigieren Sie durch komplexe Karten, umgehen Sie Hindernisse und erreichen Sie die Ziellinie. Spielen Sie jetzt und genießen Sie die Herausforderung!",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Trigonometry Dash",
+      "whatIsTitle": "Was ist Trigonometry Dash?",
+      "whatIsDescription": "Trigonometry Dash ist ein Platformer-Spiel, das Geometrie und Abenteuer kombiniert. Mit einzigartigen Gameplay-Mechaniken und verschiedenen Modi bietet es ein herausforderndes, aber dennoch unterhaltsames Erlebnis.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Verwenden Sie die Pfeiltasten, um den Würfel zu steuern.",
+      "howToPlayStep2": "Umgehen Sie Hindernisse und finden Sie den Weg zur Ziellinie.",
+      "howToPlayStep3": "Genießen Sie das Spiel in Ihrem eigenen Tempo und erkunden Sie die geometrische Welt.",
+      "keyFeaturesTitle": "Haupteigenschaften",
+      "feature1Title": "Anpassbare Geschwindigkeit",
+      "feature1Description": "Steuern Sie die Spielgeschwindigkeit und erleben Sie das Abenteuer nach Ihren Wünschen.",
+      "feature2Title": "Vier Spielmodi",
+      "feature2Description": "Wählen Sie zwischen Normal-, Zeitangriffs-, Monster- und Blindmodus.",
+      "feature3Title": "Kontrollpunkte",
+      "feature3Description": "Starten Sie das Spiel an den letzten Kontrollpunkten, anstatt von vorne zu beginnen.",
+      "feature4Title": "Spiegelmodus",
+      "feature4Description": "Erleben Sie eine einzigartige Herausforderung mit speziellen Portalen im Spiegelmodus."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

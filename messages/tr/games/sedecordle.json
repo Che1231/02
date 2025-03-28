@@ -1,0 +1,77 @@
+{
+  "sedecordle": {
+    "title": "Sedecordle Çevrimiçi Oyna - Ücretsiz Kelime Bulmaca Oyunu",
+    "slogan": "Sedecordle ile Gizlenmiş Kelimeleri Ortaya Çıkarın",
+    "description": "Sedecordle, gizlenmiş kelimeleri ortaya çıkarmak için oyuncuları zorlayan etkileşimli bir benzetme oyunudur. Wordle'a benzer şekilde, değişen zorluk derecelerinde birden fazla seviyeye sahiptir ve aynı anda bulmaca çözmeye olanak tanır. Bugün Sedecordle'a dalın ve kelime keşfinin heyecanını yaşayın!",
+    "Loading": {
+      "title": "Sedecordle Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Sedecordle™ - Ücretsiz Çevrimiçi Kelime Bulmaca",
+      "description": "Değişen zorluk derecelerinde birden fazla seviyede gizlenmiş kelimeleri ortaya çıkarın. Şimdi oynayın ve en iyi kelime keşfi deneyimini yaşayın!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sedecordle - Kelime Bulmaca Zorlaması",
+      "whatIsTitle": "Sedecordle Nedir?",
+      "whatIsDescription": "Sedecordle, gizlenmiş kelimeleri ortaya çıkarmak için oyuncuları zorlayan etkileşimli bir bulmaca oyunudur. Wordle'a benzer şekilde, değişen zorluk derecelerinde birden fazla seviyeye sahiptir ve aynı anda bulmaca çözmeye olanak tanır.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Önce bir zorluk seviyesi seçin.",
+      "howToPlayStep2": "Harfleri girerek gizlenmiş kelimeyi tahmin edin.",
+      "howToPlayStep3": "Bulmacayı tamamlayarak sonraki seviyeyi açın.",
+      "keyFeaturesTitle": "Temel Özellikler",
+      "feature1Title": "Birden Fazla Seviye",
+      "feature1Description": "Zorluğu taze tutmak için çeşitli zorluk seviyelerinden yararlanın.",
+      "feature2Title": "Aynı Anda Bulmacalar",
+      "feature2Description": "Geliştirilmiş bir deneyim için birden fazla bulmacayı aynı anda çözün.",
+      "feature3Title": "Etkileyici Oyun",
+      "feature3Description": "Büyülü kelime keşif mekanizmalarıyla eğlenmeye devam edin.",
+      "feature4Title": "Ücretsiz Oyna",
+      "feature4Description": "Tüm özelliklere ücret ödemeden erişin."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Hiçbir kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

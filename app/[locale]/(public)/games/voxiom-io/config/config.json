@@ -1,0 +1,122 @@
+{
+  "name": "Voxiom.io",
+  "pagePath": "/games/voxiom-io",
+  "pageName": "voxiom-io",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://voxiom.io/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomKraken87.png",
+      "content": "Voxiom.io is insane! The mix of Minecraft-style building and intense gunfights is pure genius. Can't stop playing!"
+    },
+    {
+      "author": "NeonRevolver_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonRevolver_X.png",
+      "content": "Just crafted my first advanced weapon in Voxiom.io. The crafting system is so satisfying!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Who knew combining Minecraft with a shooter would work this well? Voxiom.io is a blast!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "I keep getting wrecked in Voxiom.io, but it's so addictive. The poisonous gas adds so much tension!"
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "The environment destruction in Voxiom.io is next level. You can literally dismantle everything!"
+    },
+    {
+      "author": "CosmicPhoenix99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicPhoenix99.png",
+      "content": "Voxiom.io is the perfect blend of creativity and chaos. Building forts while dodging bullets is epic!"
+    },
+    {
+      "author": "SavageKatana_42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatana_42.png",
+      "content": "Just survived my first match in Voxiom.io. The adrenaline rush is real!"
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "Voxiom.io is surprisingly deep for a browser game. The crafting and combat mechanics are top-notch."
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "Despite some lag, Voxiom.io is a ton of fun. The gunfights are intense and the building adds a unique twist."
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "Voxiom.io is a wild ride! The combination of crafting and shooting is something I never knew I needed."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/voxiom-io/voxiom-io-m200x130.webp",
+  "page_path": "/games/voxiom-io",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8scbcl900xblywl0hbp444k",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T05:26:46.650Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 13:26:46"
+}

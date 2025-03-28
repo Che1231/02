@@ -1,0 +1,77 @@
+{
+  "trigonometry-dash": {
+    "title": "Гра Trigonometry Dash: Геометрична пригодницька гра",
+    "slogan": "Завойовуйте складні геометричні карти з Trigonometry Dash",
+    "description": "Trigonometry Dash пропонує унікальний досвід платформера, де ви навігатуєтеся геометричними викликами. З чотирма режимами гри та налаштовуваним темпом насолоджуйтеся захоплюючою пригодою. Спробуйте Trigonometry Dash зараз і дослідіть геометричний світ!",
+    "Loading": {
+      "title": "Завантаження Trigonometry Dash..."
+    },
+    "Navbar": {
+      "title": "Навіг."
+    },
+    "Common": {
+      "createAt": "Створено в",
+      "guide": "Посібник",
+      "privacyPolicy": "Політика конфіденційності",
+      "termsOfServices": "Умови надання послуг",
+      "text": "Контент",
+      "help": "Допомога",
+      "friendlyLinks": "Дружні посилання",
+      "articleList": "Список статей",
+      "home": "Головна",
+      "next": "Наступний",
+      "previous": "Попередній"
+    },
+    "HomeIframe": {
+      "title": "Trigonometry Dash",
+      "description": "Trigonometry Dash запрошує вас до унікальної геометричної пригоди. Навігатуйте складними картами, ухиляйтеся від перешкод та досягніть фінішної мети. Грайте зараз і насолоджуйтесь викликом!",
+      "iframeTitle": "Попередній перегляд гри",
+      "fullscreenButton": "Екран повного екрану",
+      "shareButton": "Поділитися",
+      "urlCopied": "Посилання скопійовано в буфер обміну!",
+      "downloadGame": "Завантажити гру",
+      "playGame": "Грати"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Trigonometry Dash",
+      "whatIsTitle": "Що таке Trigonometry Dash?",
+      "whatIsDescription": "Trigonometry Dash – це гра-платформер, що поєднує геометрію та пригоду. З унікальною гравлею та різноманітними режимами вона пропонує складний, але приємний досвід.",
+      "howToPlayTitle": "Як грати",
+      "howToPlayStep1": "Використовуйте стрілки клавіатури, щоб керувати кубом.",
+      "howToPlayStep2": "Ухиляйтеся від перешкод та знайдіть шлях до фінішу.",
+      "howToPlayStep3": "Насолоджуйтеся грою у власному темпі та досліджуйте геометричний світ.",
+      "keyFeaturesTitle": "Ключові особливості",
+      "feature1Title": "Налаштовуваний темп",
+      "feature1Description": "Керуйте темпом гри та насолоджуйтеся пригодою своїм способом.",
+      "feature2Title": "Чотири режими гри",
+      "feature2Description": "Виберіть режим: звичайний, на час, монстр та режим «сліпий».",
+      "feature3Title": "Контрольні точки",
+      "feature3Description": "Починайте заново з останньої контрольної точки, а не з початку.",
+      "feature4Title": "Режим дзеркала",
+      "feature4Description": "Досвідьте унікальний виклик зі спеціальними порталами в режимі дзеркала."
+    },
+    "HomeFAQs": {
+      "title": "Часті питання"
+    },
+    "HomeRelatedVideo": {
+      "title": "Відео гри"
+    },
+    "HomeRecommendation": {
+      "title": "Рекомендації"
+    },
+    "HomeComments": {
+      "title": "Коментарі до гри"
+    },
+    "GamePage": {
+      "title": "Всі ігри",
+      "description": "Всі ігри",
+      "games": "Ігри"
+    },
+    "CategoryPage": {
+      "categories": "Категорії",
+      "noCategories": "Категорії не знайдено",
+      "viewMore": "Переглянути більше",
+      "page": "Сторінка"
+    }
+  }
+}

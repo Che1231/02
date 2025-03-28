@@ -1,0 +1,77 @@
+{
+  "cleverdle": {
+    "title": "在线玩 Cleverdle - 免费文字益智游戏",
+    "slogan": "用你的词汇技巧来测试 Cleverdle！",
+    "description": "Cleverdle 是一款引人入胜的文字益智游戏，挑战你的词汇量和逻辑思维。凭借数百个不同的谜题，Cleverdle 提供了独特的娱乐和脑力锻炼方式。每个关卡都需要创造力和策略性思维才能在六次猜测中解出五个字母的单词。沉浸在 Cleverdle 的世界中，享受充满神秘和发现的旅程。现在开始游戏，提升你的词汇技巧！",
+    "Loading": {
+      "title": "正在加载..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一个",
+      "previous": "上一个"
+    },
+    "HomeIframe": {
+      "title": "Cleverdle™ - 免费文字益智游戏",
+      "description": "Cleverdle 是一款具有挑战性的文字益智游戏，测试你的词汇量和逻辑技能。现在开始游戏，在六次猜测中解出五个字母的单词！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL 已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Cleverdle™ - 最终文字益智挑战",
+      "whatIsTitle": "Cleverdle 是什么？",
+      "whatIsDescription": "Cleverdle 是一款结合娱乐和脑力锻炼的文字益智游戏。它挑战玩家在六次猜测中解出五个字母的单词，从而提高词汇量和逻辑思维能力。",
+      "howToPlayTitle": "如何玩游戏",
+      "howToPlayStep1": "首先猜测一个五个字母的单词。",
+      "howToPlayStep2": "使用颜色提示来改进你的下一次猜测。",
+      "howToPlayStep3": "在六次尝试内解出单词即可获胜！",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "具有挑战性的谜题",
+      "feature1Description": "数百个不同的谜题来测试你的词汇技巧。",
+      "feature2Title": "脑力锻炼",
+      "feature2Description": "每个关卡都能提升你的词汇量和逻辑思维能力。",
+      "feature3Title": "策略性游戏玩法",
+      "feature3Description": "使用策略性思维，在仅六次猜测中解出五个字母的单词。",
+      "feature4Title": "引人入胜的体验",
+      "feature4Description": "在 Cleverdle 中享受充满神秘和发现的旅程。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页"
+    }
+  }
+}

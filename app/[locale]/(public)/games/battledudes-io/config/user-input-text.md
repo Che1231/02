@@ -1,0 +1,1 @@
+BattleDudes.io is an engaging multiplayer io game set in a dynamic 2D environment. Engage in fierce battles against other players using a wide range of weaponry, including guns, tanks, and powerful destructive forces. With a variety of maps and game modes available, you'll never run out of thrilling challenges. Login to the game to earn experience points and level up your skills.

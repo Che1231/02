@@ -1,0 +1,77 @@
+{
+  "hop-warp": {
+    "title": "Hop Warp - Nhảy, Biến Hình và Chiến Thắng!",
+    "slogan": "Điều hướng, Biến đổi và Khám phá!",
+    "description": "Tận hưởng cuộc phiêu lưu đầy thú vị của Hop Warp, nơi bạn nhảy, biến hình và chinh phục những cấp độ đầy thách thức. Làm chủ nghệ thuật khám phá không gian khác chiều và thu thập những ngôi sao để hoàn thành mỗi vòng chơi. Trải nghiệm lối chơi độc đáo khi bạn biến hình thành một ngôi sao lấp lánh để di chuyển xuyên qua các bức tường. Sẵn sàng thử thách kỹ năng chiến thuật của bạn chưa? Chơi Hop Warp ngay bây giờ!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Hop Warp - Trò chơi trực tuyến miễn phí",
+      "description": "Nhảy, biến hình và chinh phục trong Hop Warp! Điều hướng qua các cấp độ đầy thách thức, làm chủ nghệ thuật biến hình và trở thành nhà thám hiểm không gian khác chiều đích thực. Chơi ngay bây giờ!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào bộ nhớ tạm!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Hop Warp",
+      "whatIsTitle": "Hop Warp là gì?",
+      "whatIsDescription": "Hop Warp là một cuộc phiêu lưu của một nhân vật nhỏ đang điều hướng trong các mê cung kín. Trải nghiệm trò chơi hành động phiêu lưu trong đó các chiều không gian giao nhau và biến hình thành một ngôi sao lấp lánh để thu thập tất cả các ngôi sao.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Di chuyển: Sử dụng phím mũi tên hoặc WASD.",
+      "howToPlayStep2": "Biến đổi: Nhấn phím X hoặc phím cách để biến hình thành một ngôi sao.",
+      "howToPlayStep3": "Lưu ý: Bức tường và khu vực màu đỏ cản trở việc biến hình.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Lối chơi độc đáo",
+      "feature1Description": "Thu thập tất cả các ngôi sao trong mỗi cấp độ bằng cách nhảy và biến hình qua các chiều không gian.",
+      "feature2Title": "Biến đổi hình dạng",
+      "feature2Description": "Biến hình thành một ngôi sao lấp lánh để di chuyển qua các bức tường và điều hướng các mê cung phức tạp.",
+      "feature3Title": "Thử thách chiến thuật",
+      "feature3Description": "Sử dụng chiến thuật biến đổi hạn chế để hoàn thành mỗi cấp độ.",
+      "feature4Title": "Các cấp độ hấp dẫn",
+      "feature4Description": "Khám phá các cấp độ đầy thú vị được thiết kế để thử thách kỹ năng và trí tưởng tượng của bạn."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Khuyến cáo"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

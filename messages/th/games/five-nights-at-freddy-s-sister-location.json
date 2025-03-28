@@ -1,0 +1,77 @@
+{
+  "five-nights-at-freddy-s-sister-location": {
+    "title": "เล่น Five Nights at Freddy's Sister Location ออนไลน์ - เกมผีดิบเอาชีวิตรอด",
+    "slogan": "รอดชีวิตในคืนที่พิซซ่าเวิลด์ของซิร์คัสเบบบี้",
+    "description": "Five Nights at Freddy's Sister Location เป็นเกมผีดิบเอาชีวิตรอดที่น่าตื่นเต้น คุณจะรับบทบาทเป็นช่างเทคนิคที่พิซซ่าเวิลด์ของซิร์คัสเบบบี้ สำรวจห้องที่น่าขนลุก ทำงานให้เสร็จ และหลีกเลี่ยงการโจมตีจากหุ่นยนต์ตัวการ์ตูน สัมผัสประสบการณ์การผจญภัยที่ขับเคลื่อนด้วยเรื่องราวและการเล่นเกมที่มีความเข้มข้น เล่น Five Nights at Freddy's Sister Location ตอนนี้และทดสอบทักษะการเอาชีวิตรอดของคุณ!",
+    "Loading": {
+      "title": "กำลังโหลด..."
+    },
+    "Navbar": {
+      "title": "แถบนำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์ที่เป็นมิตร",
+      "articleList": "รายการบทความ",
+      "home": "หน้าหลัก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "Five Nights at Freddy's Sister Location",
+      "description": "รอดชีวิตในคืนที่พิซซ่าเวิลด์ของซิร์คัสเบบบี้ในเกมผีดิบที่น่าตื่นเต้นนี้ สำรวจ ทำงานให้เสร็จ และหลีกเลี่ยงการโจมตีจากหุ่นยนต์ตัวการ์ตูน เล่น Five Nights at Freddy's Sister Location ตอนนี้!",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ไปยังคลิปบอร์ดเรียบร้อยแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Five Nights at Freddy's Sister Location",
+      "whatIsTitle": "Five Nights at Freddy's Sister Location คืออะไร?",
+      "whatIsDescription": "Five Nights at Freddy's Sister Location คือเกมผีดิบเอาชีวิตรอดที่ผู้เล่นรับบทบาทเป็นช่างเทคนิคที่พิซซ่าเวิลด์ของซิร์คัสเบบบี้เผชิญหน้ากับตัวละครหุ่นยนต์ในประสบการณ์ที่ขับเคลื่อนด้วยเรื่องราว",
+      "howToPlayTitle": "วิธีการเล่น",
+      "howToPlayStep1": "เดินผ่านห้องต่างๆ ในพิซซ่าเวิลด์ของซิร์คัสเบบบี้",
+      "howToPlayStep2": "ทำงานที่มอบหมายให้คุณในฐานะช่างเทคนิค",
+      "howToPlayStep3": "หลีกเลี่ยงการถูกโจมตีจากหุ่นยนต์ตัวการ์ตูนเพื่อเอาชีวิตรอด",
+      "keyFeaturesTitle": "คุณสมบัติหลัก",
+      "feature1Title": "การเล่นเกมที่ขับเคลื่อนด้วยเรื่องราว",
+      "feature1Description": "สัมผัสประสบการณ์การผจญภัยที่เต็มไปด้วยเรื่องราวพร้อมกับความท้าทายในการเอาชีวิตรอดที่เข้มข้น",
+      "feature2Title": "การสำรวจ",
+      "feature2Description": "สำรวจห้องที่น่าขนลุกและค้นพบความลับของพิซซ่าเวิลด์ของซิร์คัสเบบบี้",
+      "feature3Title": "การพบกับหุ่นยนต์ตัวการ์ตูน",
+      "feature3Description": "เผชิญหน้ากับตัวละครหุ่นยนต์ตัวการ์ตูนที่น่ากลัวและหลีกเลี่ยงการโจมตีของพวกมัน",
+      "feature4Title": "กลไกการเอาชีวิตรอด",
+      "feature4Description": "ใช้ความฉลาดและทักษะของคุณเพื่อเอาชีวิตรอดในคืนนี้และทำงานของคุณให้เสร็จ"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "เกมแนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นเกี่ยวกับเกม"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

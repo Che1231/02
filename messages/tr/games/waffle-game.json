@@ -1,0 +1,77 @@
+{
+  "waffle-game": {
+    "title": "Waffle Oyunu - Ücretsiz Çevrimiçi Kelime Bulmaca Zorlaması",
+    "slogan": "Waffle Oyunu ile Kelime Çözme Becerilerinizi Serbest Bırakın",
+    "description": "Waffle Oyunu ile en son kelime bulmaca deneyimini keşfedin! Kelime oyunları meraklıları için mükemmel olan Waffle Oyunu, sadece 15 harf yeniden düzenlemeyle Waffle tahtası içinde altı gizli kelime bulmayı gerektiren eşsiz bir zorluk sunuyor. Sözlüğünüzü genişletiyor veya zihinsel bir egzersiz arıyorsanız, Waffle Oyunu tüm yaş grupları ve beceri düzeyleri için tasarlanmıştır. Şimdi oynayın ve kelime çözme yeteneklerinizi test edin!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti Çubuğu"
+    },
+    "Common": {
+      "createAt": "Oluşturma Tarihi",
+      "guide": "Kılavuz",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Waffle Oyunu - Ücretsiz Çevrimiçi Kelime Bulmaca Zorlaması",
+      "description": "Waffle Oyunu'nun heyecanını yaşayın, sizi Waffle tahtası içinde altı gizli kelime bulmaya meydan okuyan büyüleyici bir kelime bulmacası. 15 harf yeniden düzenlemeyle, tüm yaş gruplarındaki kelime meraklıları için mükemmel bir oyundur. Şimdi oynayın ve becerilerinizi test edin!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Waffle Oyunu - Ücretsiz Çevrimiçi Kelime Bulmaca Zorlaması",
+      "whatIsTitle": "Waffle Oyunu Nedir?",
+      "whatIsDescription": "Waffle Oyunu, oyuncuları Waffle tahtası içinde altı gizli kelime bulmaya zorlayan etkileşimli bir kelime bulmaca oyunudur. 15 harf yeniden düzenlemeyle, eşsiz ve heyecan verici bir kelime bulmaca deneyimi sunar.",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Potansiyel kelimeleri belirlemek için Waffle tahtasına bakarak başlayın.",
+      "howToPlayStep2": "İzin verilen 15 hamle içinde harfleri yeniden düzenleyerek doğru kelimeleri oluşturun.",
+      "howToPlayStep3": "Waffle tahtası içindeki altı gizli kelimeyi bulmayı tamamlayarak bulmacayı çözün.",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Çoklu Kelime Zorluğu",
+      "feature1Description": "Waffle tahtası içindeki altı gizli kelimeyi bulmak için daha karmaşık bir bulmaca deneyimi yaşayın.",
+      "feature2Title": "Sınırlı Hamle",
+      "feature2Description": "Sadece 15 harf yeniden düzenleme izni verilerek zorluk daha da artırılıyor.",
+      "feature3Title": "Tüm Yaş Grupları İçin",
+      "feature3Description": "Waffle Oyunu, tüm yaş gruplarındaki ve beceri düzeylerindeki oyuncular için tasarlanmıştır.",
+      "feature4Title": "Sözlük Genişlemesi",
+      "feature4Description": "Oyunu oynarken İngilizce sözlüğünüzü geliştirin."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "stickman-school-run": {
+    "title": "《跳跃的木棍学园》：克服障碍",
+    "slogan": "在充满挑战的地形中疾驰，通关所有关卡！",
+    "description": "在《跳跃的木棍学园》中跳跃，克服障碍，让男孩到达他心爱女孩的位置。这款以学校为主题的游戏，提供了充满创意的跑酷和跳跃玩法。控制一个木偶人，在充满挑战的平台和障碍物中穿梭。100 个关卡，每个关卡都旨在考验你的灵活性和反应速度，《跳跃的木棍学园》让你保持专注和投入。现在开始游戏，体验魔法与挑战的结合！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一个",
+      "previous": "上一个"
+    },
+    "HomeIframe": {
+      "title": "《跳跃的木棍学园》",
+      "description": "体验《跳跃的木棍学园》带来的刺激，这款游戏融合了创意和挑战。在 100 个关卡中穿梭，每个关卡都提供独特的障碍物和平台。现在开始游戏，看看你是否能到达终点！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL 已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "《跳跃的木棍学园》",
+      "whatIsTitle": "《跳跃的木棍学园》是什么？",
+      "whatIsDescription": "《跳跃的木棍学园》是一款以学校为主题的游戏，你控制一个木偶人，在充满挑战的平台和障碍物中穿梭，最终到达他心爱女孩的位置。",
+      "howToPlayTitle": "如何游戏",
+      "howToPlayStep1": "按下向上箭头键让角色跳跃。",
+      "howToPlayStep2": "按住向上箭头键放大尺子，推开妨碍你的盒子。",
+      "howToPlayStep3": "使用右箭头键使角色旋转，避免与组合发生碰撞。",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "100 个充满挑战的关卡",
+      "feature1Description": "每个关卡都旨在考验你的灵活性和反应速度。",
+      "feature2Title": "动态地图变化",
+      "feature2Description": "当你重玩关卡时，地图可能会发生变化，每次都带来新的挑战。",
+      "feature3Title": "富有创意的游戏玩法",
+      "feature3Description": "控制木偶人，在独特的障碍物和平台中穿梭。",
+      "feature4Title": "引人入胜的游戏机制",
+      "feature4Description": "使用不同的指令克服各种各样的障碍。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

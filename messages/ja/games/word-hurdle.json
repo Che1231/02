@@ -1,0 +1,77 @@
+{
+  "word-hurdle": {
+    "title": "ワードハドル：語彙力と空間能力に挑戦",
+    "slogan": "プレイするたびに語彙力を強化",
+    "description": "ワードハドルは、語彙力と空間推論能力を試す魅力的なワードゲームです。ワードゲーム愛好家にとって最適で、シンプルでありながら挑戦的な体験を提供します。今すぐワードハドルをプレイして、楽しみながら認知能力を高めてください！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "ワードハドル：無料オンラインワードゲーム",
+      "description": "ワードハドルは、語彙力と空間推論能力を強化する、楽しくて挑戦的なワードゲームです。今すぐプレイして、どれだけのことができるか見てみましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ワードハドル",
+      "whatIsTitle": "ワードハドルとは？",
+      "whatIsDescription": "ワードハドルは、語彙力と空間推論能力を高めることができる、シンプルでありながら挑戦的なワードゲームです。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "まず、単語を入力します。",
+      "howToPlayStep2": "手がかりを使って正しい単語を推測します。",
+      "howToPlayStep3": "時間制限内に挑戦を完了します。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "語彙力強化",
+      "feature1Description": "各ゲームで語彙力を向上させます。",
+      "feature2Title": "空間推論",
+      "feature2Description": "空間推論能力に挑戦します。",
+      "feature3Title": "スピーディーな思考",
+      "feature3Description": "素早い思考力と知的な反応をテストします。",
+      "feature4Title": "楽しく魅力的なゲーム",
+      "feature4Description": "楽しく魅力的なワードゲーム体験をお楽しみください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

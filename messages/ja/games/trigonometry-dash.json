@@ -1,0 +1,77 @@
+{
+  "trigonometry-dash": {
+    "title": "トリゴノメトリ・ダッシュ：幾何学アドベンチャーゲーム",
+    "slogan": "トリゴノメトリ・ダッシュで複雑な幾何学マップを制覇",
+    "description": "トリゴノメトリ・ダッシュは、幾何学的な課題を進むユニークなプラットフォーマー体験を提供します。4つのゲームモードとカスタマイズ可能なペースで、スリリングな冒険をお楽しみください。 今すぐトリゴノメトリ・ダッシュをプレイして、幾何学的な世界を探検しましょう！",
+    "Loading": {
+      "title": "トリゴノメトリ・ダッシュを読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "トリゴノメトリ・ダッシュ",
+      "description": "トリゴノメトリ・ダッシュは、ユニークな幾何学的冒険を提供します。複雑なマップを進み、障害物を避け、ゴールを目指しましょう。今すぐプレイして、挑戦を楽しんでください！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "トリゴノメトリ・ダッシュ",
+      "whatIsTitle": "トリゴノメトリ・ダッシュとは？",
+      "whatIsDescription": "トリゴノメトリ・ダッシュは、幾何学と冒険を組み合わせたプラットフォーマーゲームです。ユニークなゲーム性と多様なモードで、挑戦的でかつ楽しい体験を提供します。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "矢印キーを使って立方体を移動します。",
+      "howToPlayStep2": "障害物を避け、ゴールまでの道を発見します。",
+      "howToPlayStep3": "自分のペースでゲームを楽しみ、幾何学的な世界を探検してください。",
+      "keyFeaturesTitle": "主な特長",
+      "feature1Title": "カスタマイズ可能なペース",
+      "feature1Description": "ゲームのペースをコントロールし、自分のペースで冒険を楽しめます。",
+      "feature2Title": "4つのゲームモード",
+      "feature2Description": "通常、タイムアタック、モンスター、ブラインドモードから選択できます。",
+      "feature3Title": "チェックポイント",
+      "feature3Description": "最初からやり直すのではなく、最後のチェックポイントから再開できます。",
+      "feature4Title": "ミラーモード",
+      "feature4Description": "ミラーモードでは、特別なポータルを使ったユニークな挑戦を体験できます。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "推奨ゲーム"
+    },
+    "HomeComments": {
+      "title": "ゲームのコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム一覧"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリ",
+      "noCategories": "カテゴリが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

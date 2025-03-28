@@ -1,0 +1,77 @@
+{
+  "lava-bird": {
+    "title": "Lava-Vogel spielen Online – Feurige Flugabenteuer-Spiel",
+    "slogan": "Testen Sie Ihre Reaktionen in diesem sengenden Side-Scroller!",
+    "description": "Begeben Sie sich auf einen feurigen Flug mit dem Lava-Vogel! Navigieren Sie durch eine brennende Lavahöhle, weichen Sie Hindernissen aus und besiegen Sie Feinde mit zerstörerischen Feuerbällen. Mit zwei spannenden Spielmodi können Sie entweder alleine spielen oder mit einem Freund antreten. Erleben Sie den Nervenkitzel dieses actionreichen 2D-Side-Scrollers. Spielen Sie Lava-Vogel jetzt und erobern Sie den Lavahimmel!",
+    "Loading": {
+      "title": "Lädt..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Lava-Vogel – Feuriges Flugabenteuer",
+      "description": "Schließen Sie sich dem Lava-Vogel auf einem feurigen Flug durch die Lavahöhle an. Meistern Sie Hindernisse, schießen Sie Feuerbälle und besiegen Sie Feinde in diesem aufregenden 2D-Side-Scroller. Spielen Sie jetzt!",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Lava-Vogel – Feuriges Flugabenteuer",
+      "whatIsTitle": "Was ist Lava-Vogel?",
+      "whatIsDescription": "Lava-Vogel ist ein actiongeladener 2D-Side-Scroller, in dem Sie einen feuerspeienden Vogel steuern, der sich durch eine gefährliche Lavahöhle navigiert. Vermeiden Sie Hindernisse, schießen Sie Feuerbälle und besiegen Sie Feinde, um der König des Lavah Himmels zu werden!",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Benutzen Sie die Leertaste oder klicken Sie, um den Vogel im Einzelspielermodus zu steuern.",
+      "howToPlayStep2": "Im Zwei-Spieler-Modus verwendet Spieler 1 (roter Vogel) den W-Schlüssel und Spieler 2 (blauer Vogel) die Pfeiltaste nach oben.",
+      "howToPlayStep3": "Meiden Sie Hindernisse und besiegen Sie Feinde, um Punkte zu erzielen. Der erste Spieler, der fünf Punkte erreicht, gewinnt!",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
+      "feature1Title": "Feuriger Flug",
+      "feature1Description": "Navigieren Sie durch eine gefährliche Lavahöhle, die mit Hindernissen und Feinden gefüllt ist.",
+      "feature2Title": "Zerstörerische Feuerbälle",
+      "feature2Description": "Schießen Sie Feuerbälle, um Feinde zu vernichten und Ihren Weg freizumachen.",
+      "feature3Title": "Zwei Spielmodi",
+      "feature3Description": "Wählen Sie zwischen Solospiel oder intensivem Kampf mit einem Freund.",
+      "feature4Title": "Einfache Steuerung",
+      "feature4Description": "Einfache und intuitive Steuerung machen es allen Spielern leicht, Spaß zu haben."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "can-your-pet": {
+    "title": "Evcil Hayvanınız Mümkün mü? - Sanal Evcil Hayvan Oyunu",
+    "slogan": "Canlı Hayvanınızı Aygıtınızda Canlı Hayvanınız İle Yetiştirin",
+    "description": "Canlı Hayvanınız ile güzel ve şaşırtıcı bir sanal dünyaya dalın. Sevimli bir civcivi besleyin, mutlu tutun ve beklenmedik olaylar keşfedin. Bu benzersiz sanal evcil hayvan oyununu keşfederken eğlenceli ve neşeli zamanlardan tad alın. Şimdi Canlı Hayvanınız'ı oynamaya başlayın!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Kılavuz",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Canlı Hayvanınız Mümkün mü? - Sanal Evcil Hayvan Oyunu",
+      "description": "Canlı Hayvanınız'da sevimli bir civcivle bir evcil hayvan yetiştirme deneyimine sahip olun. Evcil hayvanınızı mutlu tutmak için besleyin, temizleyin ve oynayın.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Canlı Hayvanınız Mümkün mü? - Sanal Evcil Hayvan Oyunları",
+      "whatIsTitle": "Canlı Hayvanınız Mümkün mü?",
+      "whatIsDescription": "Canlı Hayvanınız Mümkün mü? sevimli bir civcivi büyüttüğünüz bir sanal evcil hayvan oyunudur. Oynadıkça onunla ilgilenin ve beklenmedik olayları keşfedin.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Civcivi doymuş ve mutlu tutmak için besleyin.",
+      "howToPlayStep2": "Civcivi temiz tutmak için duş alın.",
+      "howToPlayStep3": "Civcivi eğlendirmek için farklı oyuncaklarla oynayın.",
+      "keyFeaturesTitle": "Ana Özellikler",
+      "feature1Title": "Evcil Hayvanınıza Bakın",
+      "feature1Description": "Evcil hayvanınızı sağlıklı ve mutlu tutmak için besleyin ve temizleyin.",
+      "feature2Title": "Evcil Hayvanınızı Güzelleştirin",
+      "feature2Description": "Evcil hayvanınızı sevimli veya şık aksesuarlarla hazırlayın.",
+      "feature3Title": "Evcil Hayvanınızla Oynayın",
+      "feature3Description": "Evcil hayvanınızla oynamak ve eğlendirmek için farklı oyuncakları kullanın.",
+      "feature4Title": "Beklenmedik Olayları Keşfedin",
+      "feature4Description": "Oyunu keşfederek beklenmedik olayları ve gizemleri ortaya çıkarın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiye Ettiklerimiz"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

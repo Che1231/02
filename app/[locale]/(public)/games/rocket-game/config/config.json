@@ -1,0 +1,122 @@
+{
+  "name": "Rocket Game",
+  "pagePath": "/games/rocket-game",
+  "pageName": "rocket-game",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://webglmath.github.io/blumgi-rocket/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "CosmicKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicKraken87.png",
+      "content": "This game is totally out of this world! Rocket Game really takes you on an epic adventure through those tricky levels."
+    },
+    {
+      "author": "NeonRevolver_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonRevolver_X.png",
+      "content": "The momentum jumps are insane! I love how you can launch yourself like a rocket in Rocket Game. Absolutely mind-blowing!"
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "I was totally sweating trying to make those tricky turns! This game has got me hooked. Rocket Game is seriously one tough nut to crack."
+    },
+    {
+      "author": "PhantomPhoenix99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix99.png",
+      "content": "Wow, the physics in Rocket Game are fantastic! I feel like I'm actually navigating through those steep slopes."
+    },
+    {
+      "author": "NoobMaster87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster87.png",
+      "content": "I can't believe how fun Rocket Game is! Steering and using momentum to fly forward is such a cool mechanic. Totally addicted!"
+    },
+    {
+      "author": "StealthSword_66",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StealthSword_66.png",
+      "content": "This game is all about skill and timing. I keep stumbling over those bumpier sections, but it’s still super thrilling!"
+    },
+    {
+      "author": "StalkingDragunova",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingDragunova.png",
+      "content": "Rocket Game is the most exciting physics-based game I've played! It's so different from other driving games I've tried."
+    },
+    {
+      "author": "LevianThane42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LevianThane42.png",
+      "content": "I didn’t expect the game’s difficulty to ramp up so quickly. Each level has its own unique obstacles. Rocket Game keeps me on my toes!"
+    },
+    {
+      "author": "SavageBlade_XX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBlade_XX.png",
+      "content": "This game is seriously addicting! Rocket Game’s momentum jumps are insane. Gotta love the thrill of the jump."
+    },
+    {
+      "author": "PotionMisfit89",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMisfit89.png",
+      "content": "I’m always surprised by the unexpected challenges in Rocket Game. It keeps the experience fresh!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/rocket-game/rocket-game2-m200x130.webp",
+  "page_path": "/games/rocket-game",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8scbcsy00xnlywl8p8lrknn",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T05:26:46.929Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 13:28:09"
+}

@@ -1,0 +1,77 @@
+{
+  "phoodle": {
+    "title": "Jeu Phoodle en ligne : jeu de puzzle de mots sur le thème du chef, gratuit",
+    "slogan": "Devinez le mot alimentaire en six essais !",
+    "description": "Phoodle est un jeu de puzzle de mots sur le thème du chef, inspiré de Wordle. Mettez vos connaissances culinaires à l'épreuve avec des mots à cinq lettres quotidiens liés aux ingrédients, aux méthodes de cuisson ou aux chefs renommés. Devinez correctement et débloquez des faits culinaires intéressants. Jouez à Phoodle gratuitement et testez votre expertise culinaire !",
+    "Loading": {
+      "title": "Chargement de Phoodle..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Phoodle : Jeu de puzzle de mots sur le thème du chef",
+      "description": "Phoodle offre une jouabilité illimitée aux amateurs de cuisine. Devinez le mot alimentaire à cinq lettres en six essais et débloquez les défis culinaires quotidiens. Jouez à Phoodle dès maintenant !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Phoodle : Jeu de puzzle de mots sur le thème du chef",
+      "whatIsTitle": "Qu'est-ce que Phoodle ?",
+      "whatIsDescription": "Phoodle est un jeu de puzzle de mots sur le thème du chef, inspiré de Wordle. Il met les joueurs au défi de deviner un mot alimentaire à cinq lettres en six tentatives.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Devinez un mot alimentaire à cinq lettres.",
+      "howToPlayStep2": "Utilisez les indices des lettres colorées pour affiner votre supposition.",
+      "howToPlayStep3": "Débloquez des faits culinaires en devinant correctement !",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Défis quotidiens",
+      "feature1Description": "Profitez d'un nouveau mot alimentaire chaque jour.",
+      "feature2Title": "Indices à code couleur",
+      "feature2Description": "Utilisez les indices vert, jaune et gris pour guider vos suppositions.",
+      "feature3Title": "Jouabilité illimitée",
+      "feature3Description": "Jouez à Phoodle à tout moment pour un plaisir sans fin.",
+      "feature4Title": "Faits culinaires",
+      "feature4Description": "Apprenez des conseils culinaires intéressants avec chaque bonne réponse."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

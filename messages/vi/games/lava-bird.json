@@ -1,0 +1,77 @@
+{
+  "lava-bird": {
+    "title": "Trò chơi Chim Lửa trực tuyến - Cuộc phiêu lưu bay lửa",
+    "slogan": "Kiểm tra phản xạ của bạn trong trò chơi cuộn ngang nóng bỏng này!",
+    "description": "Khởi hành một chuyến bay lửa với Chim Lửa! Điều hướng qua hang động dung nham đang cháy, né tránh chướng ngại vật và đánh bại kẻ thù bằng những quả cầu lửa hủy diệt. Với hai chế độ chơi thú vị, bạn có thể chơi một mình hoặc thách thức bạn bè. Trải nghiệm cảm giác hồi hộp của trò chơi hành động 2D cuộn ngang này. Chơi Chim Lửa ngay bây giờ và chinh phục bầu trời dung nham!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Hàng hải"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu nghị",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước"
+    },
+    "HomeIframe": {
+      "title": "Chim Lửa - Cuộc phiêu lưu bay lửa",
+      "description": "Tham gia vào chuyến bay lửa của Chim Lửa xuyên qua hang động dung nham. Né tránh chướng ngại vật, bắn quả cầu lửa và đánh bại kẻ thù trong trò chơi cuộn ngang 2D hấp dẫn này. Chơi ngay bây giờ!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Chim Lửa - Cuộc phiêu lưu bay lửa",
+      "whatIsTitle": "Chim Lửa là gì?",
+      "whatIsDescription": "Chim Lửa là một trò chơi hành động cuộn ngang 2D nơi bạn điều khiển một chú chim lửa di chuyển qua hang động dung nham nguy hiểm. Tránh chướng ngại vật, bắn quả cầu lửa và đánh bại kẻ thù để trở thành vị vua của bầu trời dung nham!",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Sử dụng phím cách hoặc nhấp chuột để điều khiển chú chim trong chế độ một người chơi.",
+      "howToPlayStep2": "Trong chế độ hai người chơi, Người chơi 1 (con chim màu đỏ) sử dụng phím W, và Người chơi 2 (con chim màu xanh lam) sử dụng phím mũi tên lên.",
+      "howToPlayStep3": "Tránh chướng ngại vật và đánh bại kẻ thù để kiếm điểm. Người chơi đầu tiên đạt được năm điểm sẽ thắng!",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Bay lửa",
+      "feature1Description": "Điều hướng qua hang động dung nham nguy hiểm với đầy chướng ngại vật và kẻ thù.",
+      "feature2Title": "Quả cầu lửa hủy diệt",
+      "feature2Description": "Bắn quả cầu lửa để tiêu diệt kẻ thù và mở đường cho mình.",
+      "feature3Title": "Hai chế độ chơi",
+      "feature3Description": "Chọn giữa chơi một mình hoặc giao chiến với bạn bè trong một trận chiến gay cấn.",
+      "feature4Title": "Các điều khiển dễ dàng",
+      "feature4Description": "Các điều khiển đơn giản và trực quan giúp tất cả người chơi dễ dàng thưởng thức."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Khuyến nghị"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các loại",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

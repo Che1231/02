@@ -1,0 +1,77 @@
+{
+  "redactle": {
+    "title": "Redactle - Trò chơi đoán từ trực tuyến miễn phí",
+    "slogan": "Khám phá bài viết ẩn - Chơi Redactle ngay bây giờ!",
+    "description": "Redactle là một trò chơi đoán từ đầy thử thách trong đó bạn vào vai một biên tập viên báo chí cố gắng tìm ra chủ đề của một bài viết Wikipedia ẩn. Với hầu hết các từ bị ẩn đi, bạn phải sử dụng khả năng suy luận để xác định chủ đề và các từ khóa liên quan. Bạn càng đoán đúng nhiều từ, bạn càng đến gần với việc giải mã bí ẩn. Hoàn hảo cho những người đam mê giải đố, Redactle mang đến trải nghiệm chơi game độc đáo và hấp dẫn. Bắt đầu chơi Redactle ngay hôm nay và thử thách kiến thức của bạn!",
+    "Loading": {
+      "title": "Đang tải Redactle - Vui lòng chờ"
+    },
+    "Navbar": {
+      "title": "Đọc"
+    },
+    "Common": {
+      "createAt": "Tạo tại",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Giúp đỡ",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Redactle - Trò chơi đoán từ trực tuyến miễn phí",
+      "description": "Redactle là một trò chơi đoán từ đầy thử thách trong đó bạn vào vai một biên tập viên báo chí cố gắng tìm ra chủ đề của một bài viết Wikipedia ẩn. Với hầu hết các từ bị ẩn đi, bạn phải sử dụng khả năng suy luận để xác định chủ đề và các từ khóa liên quan. Bạn càng đoán đúng nhiều từ, bạn càng đến gần với việc giải mã bí ẩn. Hoàn hảo cho những người đam mê giải đố, Redactle mang đến trải nghiệm chơi game độc đáo và hấp dẫn. Bắt đầu chơi Redactle ngay hôm nay và thử thách kiến thức của bạn!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào clipboard!",
+      "downloadGame": "Tải game",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Redactle - Trò chơi đoán từ trực tuyến miễn phí",
+      "whatIsTitle": "Redactle là gì?",
+      "whatIsDescription": "Redactle là một trò chơi đoán từ đầy thử thách trong đó bạn vào vai một biên tập viên báo chí cố gắng tìm ra chủ đề của một bài viết Wikipedia ẩn. Với hầu hết các từ bị ẩn đi, bạn phải sử dụng khả năng suy luận để xác định chủ đề và các từ khóa liên quan.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Bắt đầu bằng cách đoán những từ bạn nghĩ có thể có trong bài viết ẩn.",
+      "howToPlayStep2": "Khi bạn đoán đúng một từ, nó sẽ xuất hiện ở tất cả các vị trí trong văn bản.",
+      "howToPlayStep3": "Tiếp tục đoán từ cho đến khi bạn có thể suy luận chủ đề của bài viết. Khi bạn tìm ra chủ đề đúng, trò chơi kết thúc.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Gameplay đầy thử thách",
+      "feature1Description": "Redactle mang đến trải nghiệm chơi game độc đáo và đầy thử thách, kiểm tra kiến thức và khả năng suy luận của bạn.",
+      "feature2Title": "Bài viết ẩn",
+      "feature2Description": "Trò chơi ẩn hầu hết các từ trong một bài viết Wikipedia ngẫu nhiên, chỉ để lại cho bạn một vài manh mối để làm việc.",
+      "feature3Title": "Khả năng suy luận",
+      "feature3Description": "Bạn phải sử dụng khả năng suy luận của mình để xác định chủ đề và các từ khóa liên quan trong bài viết ẩn.",
+      "feature4Title": "Trải nghiệm hấp dẫn",
+      "feature4Description": "Redactle mang đến trải nghiệm hấp dẫn và cuốn hút, khiến bạn muốn quay lại chơi thêm."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

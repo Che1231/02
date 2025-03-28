@@ -1,0 +1,1 @@
+Dordle is an exciting variation of Wordle that adds a unique twist to the gameplay. While the basic mechanics remain the same, Dordle challenges you to guess not just one, but two words simultaneously in order to progress. But don't be fooled by the apparent simplicity; there's more to this game than meets the eye.

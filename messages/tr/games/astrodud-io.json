@@ -1,0 +1,77 @@
+{
+  "astrodud-io": {
+    "title": "AstroDud.io - Ücretsiz Çevrimiçi IO Oyunu",
+    "slogan": "Hayatta Kal, Yarış, Fetih Et",
+    "description": "AstroDud.io, dünya çapındaki oyunculara karşı mücadele ettiğiniz heyecan verici bir ücretsiz IO oyunudur. Zorlu engelli parkurlarda gezinerek, ilk bitirmeye çalışın ve hayatta kalın. Tamamen gerçekçi bir 3B arenada deneyim yaşayın, becerilerinizi test edin ve karakterinizi yükselterek rekabeti hakimiyet altına alın. En büyük meydan okumaya hazır mısınız? Şimdi AstroDud.io'yu oynayın!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Rehber",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "AstroDud.io",
+      "description": "AstroDud.io, ücretsiz bir IO oyununu oynayın ve heyecan verici engelli parkurlarda yarışın. Hayatta kalın, birinci olun ve tamamen gerçekçi bir 3B arenada karakterinizi yükseltin.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "AstroDud.io",
+      "whatIsTitle": "AstroDud.io Nedir?",
+      "whatIsDescription": "AstroDud.io, heyecan verici bir deneyim sunan ücretsiz bir IO oyunudur. Dünya çapındaki binlerce oyuncuyla zorlu engelli parkurlarda yarışın.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Engelli parkurda gezinin.",
+      "howToPlayStep2": "Diğer oyuncularla yarışarak birinci olun.",
+      "howToPlayStep3": "Hayatta kalın ve karakterinizi yükselterek rekabeti hakimiyet altına alın.",
+      "keyFeaturesTitle": "Ana Özellikler",
+      "feature1Title": "Gerçekçi 3B Arena",
+      "feature1Description": "Oyun deneyiminizi geliştirmek için tamamen gerçekçi bir 3B arenada deneyim yaşayın.",
+      "feature2Title": "Dünya Çapında Yarışma",
+      "feature2Description": "Gerçek zamanlı olarak dünya çapındaki oyuncularla yarışın.",
+      "feature3Title": "Karakter Yükseltmeleri",
+      "feature3Description": "Performansınızı artırmak ve rekabeti hakimiyet altına almak için karakterinizi yükseltin.",
+      "feature4Title": "Zorlu Engeller",
+      "feature4Description": "Becerinizi test etmek için tasarlanan çeşitli zorlu engelli parkurlarda gezinin."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Hiç kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

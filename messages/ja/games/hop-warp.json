@@ -1,0 +1,77 @@
+{
+  "hop-warp": {
+    "title": "ホップ・ワープ - ジャンプ、ワープ、そして征服！",
+    "slogan": "ナビゲート、変形、そして探検！",
+    "description": "ホップ・ワープの心揺さぶる冒険へ飛び込みましょう。そこでは、ジャンプ、ワープ、そして困難なレベルを征服します。多次元の探検の技術を習得し、各ラウンドを完了するために星を集めましょう。輝きを放つ星に変形して壁をすり抜けて進む、独自のゲームプレイを体験してください。戦略的なスキルに挑戦する準備はできていますか？ 今すぐホップ・ワープをプレイ！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "ホップ・ワープ - 無料オンラインゲーム",
+      "description": "ホップ・ワープでジャンプ、ワープ、そして征服！困難なレベルをナビゲートし、ワープの技術を習得し、究極の多次元探検家になりましょう。今すぐプレイ！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ホップ・ワープ",
+      "whatIsTitle": "ホップ・ワープとは？",
+      "whatIsDescription": "ホップ・ワープは、小さなキャラクターが閉ざされた迷路を移動する冒険です。次元が衝突し、輝きを放つ星に変形してすべての星を集める、心揺さぶるプラットフォーマーを体験してください。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "移動：矢印キーまたはWASDキーを使用します。",
+      "howToPlayStep2": "変形：Xキーまたはスペースキーを押して星に変形します。",
+      "howToPlayStep3": "注記：赤い壁とエリアは変形をブロックします。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "ユニークなゲームプレイ",
+      "feature1Description": "ジャンプとワープで各レベルのすべての星を集めてください。",
+      "feature2Title": "形態変化",
+      "feature2Description": "壁を移動し、複雑な迷路をナビゲートするためにきらめく星に変形します。",
+      "feature3Title": "戦略的な挑戦",
+      "feature3Description": "制限のある変形を戦略的に使用して各レベルをクリアします。",
+      "feature4Title": "魅力的なレベル",
+      "feature4Description": "あなたのスキルと創造性を試すように設計された、心揺さぶるレベルを探検してください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

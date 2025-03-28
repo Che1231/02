@@ -1,0 +1,77 @@
+{
+  "redactle": {
+    "title": "Redactle – Kostenloses Online-Wort-Erraten-Spiel spielen",
+    "slogan": "Entdecken Sie den verborgenen Artikel – Spielen Sie jetzt Redactle!",
+    "description": "Redactle ist ein herausforderndes Wort-Erraten-Spiel, bei dem Sie als Zeitungsredakteur spielen und versuchen, das Thema eines versteckten Wikipedia-Artikels aufzudecken. Da die meisten Wörter verborgen sind, müssen Sie Ihre Schlussfolgerungskompetenzen einsetzen, um das Thema und die zugehörigen Schlüsselwörter zu identifizieren. Je mehr Wörter Sie richtig erraten, desto näher kommen Sie der Lösung des Rätsels. Perfekt für Rätselfans, bietet Redactle ein einzigartiges und fesselndes Spielerlebnis. Beginnen Sie noch heute mit Redactle und testen Sie Ihr Wissen!",
+    "Loading": {
+      "title": "Redactle lädt – Bitte warten"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Redactle – Kostenloses Online-Wort-Erraten-Spiel spielen",
+      "description": "Redactle ist ein herausforderndes Wort-Erraten-Spiel, bei dem Sie als Zeitungsredakteur spielen und versuchen, das Thema eines versteckten Wikipedia-Artikels aufzudecken. Da die meisten Wörter verborgen sind, müssen Sie Ihre Schlussfolgerungskompetenzen einsetzen, um das Thema und die zugehörigen Schlüsselwörter zu identifizieren. Je mehr Wörter Sie richtig erraten, desto näher kommen Sie der Lösung des Rätsels. Perfekt für Rätselfans, bietet Redactle ein einzigartiges und fesselndes Spielerlebnis. Beginnen Sie noch heute mit Redactle und testen Sie Ihr Wissen!",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Redactle – Kostenloses Online-Wort-Erraten-Spiel spielen",
+      "whatIsTitle": "Was ist Redactle?",
+      "whatIsDescription": "Redactle ist ein herausforderndes Wort-Erraten-Spiel, bei dem Sie als Zeitungsredakteur spielen und versuchen, das Thema eines versteckten Wikipedia-Artikels aufzudecken. Da die meisten Wörter verborgen sind, müssen Sie Ihre Schlussfolgerungskompetenzen einsetzen, um das Thema und die zugehörigen Schlüsselwörter zu identifizieren.",
+      "howToPlayTitle": "Wie man spielt",
+      "howToPlayStep1": "Beginnen Sie mit dem Raten von Wörtern, die Ihrer Meinung nach im versteckten Artikel vorkommen könnten.",
+      "howToPlayStep2": "Wenn Sie ein Wort richtig erraten haben, wird es an allen Stellen angezeigt, an denen es im Text ursprünglich verwendet wurde.",
+      "howToPlayStep3": "Fahren Sie mit dem Raten von Wörtern fort, bis Sie das Thema des Artikels erschließen können. Wenn Sie das richtige Thema gefunden haben, endet das Spiel.",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
+      "feature1Title": "Herausforderndes Gameplay",
+      "feature1Description": "Redactle bietet ein einzigartiges und anspruchsvolles Spielerlebnis, das Ihr Wissen und Ihre Schlussfolgerungskompetenzen testet.",
+      "feature2Title": "Versteckter Artikel",
+      "feature2Description": "Das Spiel verbirgt die meisten Wörter in einem zufälligen Wikipedia-Artikel, sodass Sie nur wenige Hinweise zur Verfügung haben.",
+      "feature3Title": "Schlussfolgerungskompetenzen",
+      "feature3Description": "Sie müssen Ihre Schlussfolgerungskompetenzen einsetzen, um das Thema und die zugehörigen Schlüsselwörter im versteckten Artikel zu identifizieren.",
+      "feature4Title": "Fesselndes Erlebnis",
+      "feature4Description": "Redactle bietet ein fesselndes und eindringliches Erlebnis, das Sie immer wieder zum Spielen zurückkehren lässt."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

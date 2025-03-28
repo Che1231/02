@@ -1,0 +1,122 @@
+{
+  "name": "Papa’s Cupcakeria",
+  "pagePath": "/games/papa-s-cupcakeria",
+  "pageName": "papa-s-cupcakeria",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.gameslol.net/data/waflash/index.php?g=109",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "NeonKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonKraken87.png",
+      "content": "OMG, this game is addictive! Serving cupcakes is surprisingly fun. Who knew?"
+    },
+    {
+      "author": "SavageKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatana_X.png",
+      "content": "Frostfield town looks cool! But making those cupcakes is tough work, lol."
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "I'm hooked! Papa's Cupcakeria is the best in the series. Gotta serve 'em all!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Is it just me, or are these customers super picky? These cupcakes better be worth it!"
+    },
+    {
+      "author": "xX_DarkAuRA_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAuRA_Xx.png",
+      "content": "Making cupcakes in your own kitchen? What a concept! I give it a ten outta ten!"
+    },
+    {
+      "author": "StalkingPhoenix42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix42.png",
+      "content": "The cupcake customization is insane which is what makes Papa's Cupcakeria great!"
+    },
+    {
+      "author": "PhantomLeviathan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomLeviathan99.png",
+      "content": "Serving cupcakes in Frostfield town? Sounds chilly. The game is quite the experience!"
+    },
+    {
+      "author": "AdjectiveRevolver_Variant",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AdjectiveRevolver_Variant.png",
+      "content": "Whoa! Creating and baking cupcakes is so much fun. Recommend this game!"
+    },
+    {
+      "author": "GrindingGollum",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/GrindingGollum.png",
+      "content": "Papa's Cupcakeria, baking is hectic! Why must they want so many toppings?"
+    },
+    {
+      "author": "leetHaxxor",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/leetHaxxor.png",
+      "content": "Serving delicious cupcakes is my new passion. Maybe I'll start my own bakery IRL."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/papa-s-cupcakeria/papa-s-cupcakeria-m200x130.webp",
+  "page_path": "/games/papa-s-cupcakeria",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8scfmku011plywlzbw051km",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T05:30:06.221Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 13:44:36"
+}

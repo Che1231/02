@@ -1,0 +1,77 @@
+{
+  "rocket-game": {
+    "title": "Trò chơi tên lửa: Cuộc phiêu lưu vũ trụ đầy hồi hộp",
+    "slogan": "Điều khiển tên lửa của bạn qua các cấp độ đầy thách thức và vươn tới những vì sao!",
+    "description": "Trò chơi tên lửa đưa bạn vào một cuộc phiêu lưu thú vị! Điều khiển tên lửa của bạn qua các cấp độ đầy thử thách và tránh chướng ngại vật khi bạn vươn tới những vì sao. Trò chơi lái xe dựa trên vật lý này mang đến những trải nghiệm độc đáo khi di chuyển trên những cung đường nguy hiểm. Hãy đắm mình trong những trải nghiệm độc đáo này để làm cho thời gian giải trí của bạn thêm phần thú vị. Chơi Trò chơi tên lửa ngay bây giờ và tận hưởng cảm giác hồi hộp!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Trò chơi tên lửa: Cuộc phiêu lưu vũ trụ đầy hồi hộp",
+      "description": "Điều khiển tên lửa của bạn qua các cấp độ đầy thách thức và tránh chướng ngại vật khi bạn vươn tới những vì sao. Tận hưởng những trải nghiệm độc đáo khi di chuyển trên những con đường nguy hiểm.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Màn hình toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải game",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Trò chơi tên lửa: Cuộc phiêu lưu vũ trụ đầy hồi hộp",
+      "whatIsTitle": "Trò chơi tên lửa là gì?",
+      "whatIsDescription": "Trò chơi tên lửa là một trò chơi lái xe dựa trên vật lý với những trải nghiệm di chuyển trên những con đường nguy hiểm. Những sườn dốc và những ngọn đồi gồ ghề sẽ làm cho hành trình của bạn thêm phần ngoạn mục.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Mũi tên lên: đi thẳng; giữ để tăng tốc.",
+      "howToPlayStep2": "Mũi tên xuống: lùi lại, thường để lấy đà.",
+      "howToPlayStep3": "PHÍM SPACEBAR: chế độ tên lửa, giữ để điều chỉnh lực \"bắn\" cho phương tiện đặc biệt này.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Các cấp độ đầy thách thức",
+      "feature1Description": "Điều hướng qua các nền tảng phức tạp và vượt qua các chướng ngại vật.",
+      "feature2Title": "Gameplay dựa trên vật lý",
+      "feature2Description": "Trải nghiệm vật lý chân thực khi bạn lái xe trên những cung đường nguy hiểm.",
+      "feature3Title": "Chế độ tên lửa",
+      "feature3Description": "Sử dụng chế độ tên lửa để thực hiện các cú nhảy lấy đà và phóng đi như một tên lửa.",
+      "feature4Title": "Phiêu lưu gây nghiện",
+      "feature4Description": "Tận hưởng những trải nghiệm độc đáo tạo nên sự nghiện game."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

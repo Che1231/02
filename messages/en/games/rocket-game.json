@@ -1,0 +1,77 @@
+{
+  "rocket-game": {
+    "title": "Rocket Game: Thrilling Space Adventure",
+    "slogan": "Pilot your rocket through challenging levels and soar towards the stars!",
+    "description": "Rocket Game pushes you into an exciting adventure! Pilot your rocket through challenging levels and avoid obstacles as you soar towards the stars. This physics-based driving game offers unique experiences traveling through dangerous roads. Immerse yourself in these unique experiences to make your leisure time more exciting. Play Rocket Game now and enjoy the thrill!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Rocket Game: Thrilling Space Adventure",
+      "description": "Pilot your rocket through challenging levels and avoid obstacles as you soar towards the stars. Enjoy unique experiences traveling through dangerous roads.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Rocket Game: Thrilling Space Adventure",
+      "whatIsTitle": "What is Rocket Game?",
+      "whatIsDescription": "Rocket Game is a physics-based driving game with experiences traveling through dangerous roads. Steep slopes and bumpy hills will make your journey even more spectacular.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "UP arrow: go straight; press and hold to accelerate.",
+      "howToPlayStep2": "DOWN arrow: going backwards, usually to gain momentum.",
+      "howToPlayStep3": "SPACEBAR: rocket mode, press and hold to adjust the 'firing' force for this special vehicle.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Challenging Levels",
+      "feature1Description": "Navigate through complex platforms and overcome obstacles.",
+      "feature2Title": "Physics-Based Gameplay",
+      "feature2Description": "Experience realistic physics as you drive through dangerous roads.",
+      "feature3Title": "Rocket Mode",
+      "feature3Description": "Use rocket mode to make momentum jumps and shoot away like a rocket.",
+      "feature4Title": "Addictive Adventure",
+      "feature4Description": "Immerse yourself in unique experiences that make the game addictive."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

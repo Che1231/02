@@ -1,0 +1,77 @@
+{
+  "flagle": {
+    "title": "Flagle - Devinez le drapeau et apprenez la géographie",
+    "slogan": "Élargissez vos connaissances du monde avec Flagle",
+    "description": "Flagle est un jeu de devinette éducatif qui vous met au défi d'identifier les drapeaux cachés tout en apprenant sur les pays. Avec six essais, découvrez le drapeau morceau par morceau et recevez des indices géographiques pour améliorer vos compétences. Flagle rend l'apprentissage de la géographie amusant et captivant. Commencez à jouer à Flagle dès aujourd'hui et explorez le monde !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Flagle - Devinez le drapeau",
+      "description": "Flagle est un jeu de devinette éducatif qui vous met au défi d'identifier les drapeaux cachés tout en apprenant sur les pays. Avec six essais, découvrez le drapeau morceau par morceau et recevez des indices géographiques pour améliorer vos compétences.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Flagle - Devinez le drapeau",
+      "whatIsTitle": "Qu'est-ce que Flagle ?",
+      "whatIsDescription": "Flagle est un jeu de devinette éducatif conçu pour élargir vos connaissances sur les pays et le monde. Devinez le drapeau caché et recevez des indices géographiques pour améliorer vos compétences.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Devinez le pays dont le drapeau est caché.",
+      "howToPlayStep2": "N'utilisez pas plus de six essais.",
+      "howToPlayStep3": "Débloquez une autre partie du drapeau caché à chaque tentative infructueuse.",
+      "keyFeaturesTitle": "Fonctionnalités clés",
+      "feature1Title": "Éducatif",
+      "feature1Description": "Flagle vous aide à en apprendre davantage sur les pays et leurs drapeaux.",
+      "feature2Title": "Défiant",
+      "feature2Description": "Devinez le drapeau caché en six tentatives ou moins.",
+      "feature3Title": "Interactif",
+      "feature3Description": "Recevez des indices géographiques pour guider vos suppositions.",
+      "feature4Title": "Captivant",
+      "feature4Description": "Flagle rend l'apprentissage de la géographie amusant et interactif."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

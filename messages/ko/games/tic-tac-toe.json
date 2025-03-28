@@ -1,0 +1,77 @@
+{
+  "tic-tac-toe": {
+    "title": "온라인 틱택토 게임 | 클래식 X와 O 게임",
+    "slogan": "틱택토의 시간 초월적인 재미를 만끽하세요!",
+    "description": "틱택토, 또는 십자선과 십자표로도 알려진 틱택토는 모든 연령대의 사람들이 즐기는 클래식하고 인기 있는 게임입니다. 3x3 격자판에서 진행되는 간단하지만 매력적인 게임으로, 가로, 세로 또는 대각선으로 세 개의 일치하는 기호(X 또는 O)를 만드는 것이 목표입니다. 지금 틱택토를 플레이하고 친구들과 도전하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "유용한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "틱택토 | 클래식 X와 O 게임",
+      "description": "온라인으로 클래식 틱택토 게임을 플레이하세요. 친구들과 도전하여 먼저 세 개를 일렬로 맞추는 사람이 승리하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "틱택토 | 클래식 X와 O 게임",
+      "whatIsTitle": "틱택토란 무엇인가요?",
+      "whatIsDescription": "틱택토, 또는 십자선과 십자표로도 알려진 틱택토는 모든 연령대의 사람들이 즐기는 클래식하고 인기 있는 게임입니다. 3x3 격자판에서 진행되는 간단하지만 매력적인 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "두 명의 플레이어는 차례로 자신의 기호(X 또는 O)를 격자판의 빈 칸에 배치합니다.",
+      "howToPlayStep2": "보통 첫 번째 플레이어는 X로 시작하고 두 번째 플레이어는 O로 이어집니다.",
+      "howToPlayStep3": "한 플레이어가 성공적으로 세 개의 기호를 일렬로 맞추거나, 격자판의 모든 칸이 채워질 때까지 게임이 계속됩니다. 이 경우 무승부로 끝납니다.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "간단한 규칙",
+      "feature1Description": "모든 연령대가 쉽게 배우고 플레이할 수 있습니다.",
+      "feature2Title": "빠른 게임 플레이",
+      "feature2Description": "짧은 휴식 시간에 적합한 빠르고 박진감 넘치는 게임입니다.",
+      "feature3Title": "전략적 사고",
+      "feature3Description": "플레이어가 미리 생각하고 자신의 수를 계획하도록 장려합니다.",
+      "feature4Title": "끊임없는 재미",
+      "feature4Description": "다양한 상대와 함께 반복 플레이 가능하고 항상 도전적인 게임입니다."
+    },
+    "HomeFAQs": {
+      "title": "자주하는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

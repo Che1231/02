@@ -1,0 +1,77 @@
+{
+  "cubito": {
+    "title": "Cubito: Desvendando o Desafio",
+    "slogan": "Desvende o desafio em Cubito!",
+    "description": "Embarque numa cativante aventura em Cubito, onde você navegará por quebra-cabeças desafiadores e superará obstáculos. Colete itens, supere desafios e descubra segredos escondidos em um mundo de cubos deslumbrantes. Mergulhe nesta jornada colorida e rápida, testando seus reflexos para alcançar pontuações impressionantes. Preparado para jogar Cubito? Inicie sua aventura agora!",
+    "Loading": {
+      "title": "Carregando..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Úteis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Cubito: Desvendando o Desafio",
+      "description": "Experimente a emoção de Cubito, um jogo de aventura frenético onde você coleta itens, supera obstáculos e descobre segredos em um mundo de cubos deslumbrantes. Teste seus reflexos e mergulhe nesta jornada cativante. Jogue Cubito agora e veja até onde você pode ir!",
+      "iframeTitle": "Pré-visualização do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Cubito: Desvendando o Desafio",
+      "whatIsTitle": "O que é Cubito?",
+      "whatIsDescription": "Cubito é um jogo de aventura cativante onde os jogadores navegam por um mundo de cubos deslumbrantes, coletando itens, superando obstáculos e descobrindo segredos ocultos. O gameplay frenético exige reflexos rápidos e alta concentração para obter pontuações impressionantes.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Navegue por sua personagem pelas plataformas clicando no mouse.",
+      "howToPlayStep2": "Evite lacunas e obstáculos mudando de faixa com cada pressionamento de tecla.",
+      "howToPlayStep3": "Colete itens e supere desafios para atingir pontuações altas.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Gameplay Frenético",
+      "feature1Description": "O gameplay de Cubito é projetado para testar seus reflexos e concentração com sua ação rápida.",
+      "feature2Title": "Mundo de Cubos Deslumbrantes",
+      "feature2Description": "Mergulhe em um mundo colorido e diverso feito de cubos simples, mas desafiadores.",
+      "feature3Title": "Design de Caminhos Memorizáveis",
+      "feature3Description": "O caminho principal em Cubito permanece o mesmo após cada repetição, ajudando você a melhorar seu desempenho através da memorização.",
+      "feature4Title": "Adaptação a Novos Obstáculos",
+      "feature4Description": "Preste atenção aos novos obstáculos e adapte-se rapidamente para evitá-los e alcançar pontuações mais altas."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "tic-tac-toe": {
+    "title": "Mainkan Tic Tac Toe Online | Permainan X dan O Klasik",
+    "slogan": "Nikmati kesenangan klasik Tic Tac Toe!",
+    "description": "Tic Tac Toe, juga dikenal sebagai Nol dan Salib, adalah permainan klasik dan populer yang dinikmati oleh orang-orang dari segala usia. Ini adalah permainan yang sederhana namun menarik dimainkan di kotak 3x3. Tujuannya adalah untuk membuat garis tiga simbol yang sama (baik X atau O) secara horizontal, vertikal, atau diagonal. Mainkan Tic Tac Toe sekarang dan tantang teman-teman Anda!",
+    "Loading": {
+      "title": "Memuat..."
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Tic Tac Toe | Permainan X dan O Klasik",
+      "description": "Mainkan permainan klasik Tic Tac Toe secara online. Tantang teman-teman Anda dan lihat siapa yang bisa mendapatkan tiga baris terlebih dahulu!",
+      "iframeTitle": "Pratinjau Permainan",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Permainan",
+      "playGame": "Mainkan Permainan"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Tic Tac Toe | Permainan X dan O Klasik",
+      "whatIsTitle": "Apa itu Tic Tac Toe?",
+      "whatIsDescription": "Tic Tac Toe, juga dikenal sebagai Nol dan Salib, adalah permainan klasik dan populer yang dinikmati oleh orang-orang dari segala usia. Ini adalah permainan yang sederhana namun menarik dimainkan di kotak 3x3.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Dua pemain bergantian menempatkan simbol pilihan mereka (X atau O) pada kotak kosong di kotak.",
+      "howToPlayStep2": "Pemain pertama biasanya memulai dengan X, dan pemain kedua mengikuti dengan O.",
+      "howToPlayStep3": "Permainan berlanjut hingga satu pemain berhasil membentuk garis tiga simbol atau semua kotak di kotak terisi, yang menghasilkan seri.",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Aturan Sederhana",
+      "feature1Description": "Mudah dipelajari dan dimainkan, membuatnya dapat diakses oleh semua usia.",
+      "feature2Title": "Gameplay Cepat",
+      "feature2Description": "Cepat dan sempurna untuk waktu istirahat singkat.",
+      "feature3Title": "Berpikir Strategis",
+      "feature3Description": "Mendorong pemain untuk memikirkan ke depan dan merencanakan langkah-langkah mereka.",
+      "feature4Title": "Keseruan Tanpa Akhir",
+      "feature4Description": "Dapat dimainkan ulang dan selalu menantang dengan lawan yang berbeda."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Permainan"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Permainan",
+      "description": "Semua Permainan",
+      "games": "Permainan"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Selengkapnya",
+      "page": "Halaman"
+    }
+  }
+}

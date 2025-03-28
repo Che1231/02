@@ -1,0 +1,77 @@
+{
+  "rainbow-obby": {
+    "title": "Rainbow Obby: Juego de aventura online gratuito",
+    "slogan": "¡Un mundo de colores te espera!",
+    "description": "Rainbow Obby te presenta un vibrante mundo de desafíos de parkour. Embárcate en una aventura con plataformas de arcoíris y giros impresionantes. Elige entre cuatro modos de juego únicos y experimenta la emoción del juego de plataformas más atractivo. ¡Juega a Rainbow Obby ahora y sumérgete en la diversión colorida!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Rainbow Obby",
+      "description": "Experimenta el vibrante mundo de Rainbow Obby con su desafiante juego de parkour. Elige entre cuatro modos únicos y disfruta de la aventura colorida!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Rainbow Obby",
+      "whatIsTitle": "¿Qué es Rainbow Obby?",
+      "whatIsDescription": "Rainbow Obby es un vibrante juego de plataformas lleno de desafíos complejos y un colorido juego de parkour. Los jugadores se embarcarán en una aventura con plataformas de arcoíris y experiencias únicas.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Elige tu modo de juego de las cuatro opciones disponibles.",
+      "howToPlayStep2": "Navega por las plataformas de arcoíris y evita los obstáculos.",
+      "howToPlayStep3": "¡Completa el recorrido y alcanza la puntuación más alta!",
+      "keyFeaturesTitle": "Características principales",
+      "feature1Title": "Cuatro Modos de juego",
+      "feature1Description": "Elige entre cuatro modos de juego únicos, cada uno con sus propias reglas y desafíos.",
+      "feature2Title": "Parkour colorido",
+      "feature2Description": "Experimenta un asombroso juego de parkour con vibrantes plataformas de arcoíris.",
+      "feature3Title": "Obstáculos desafiantes",
+      "feature3Description": "Enfréntate a desafíos complejos y giros impresionantes.",
+      "feature4Title": "Aventura atractiva",
+      "feature4Description": "Embárcate en una emocionante aventura con el personaje Obby, apasionado por los desafíos."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

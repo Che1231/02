@@ -1,0 +1,77 @@
+{
+  "flagle": {
+    "title": "Flagle - Đoán Lá Cờ & Học Địa Lý",
+    "slogan": "Mở Rộng Kiến Thức Thế Giới Của Bạn với Flagle",
+    "description": "Flagle là một trò chơi đố vui giáo dục thử thách bạn xác định lá cờ ẩn giấu đồng thời tìm hiểu về các quốc gia. Với sáu lượt đoán, hãy khám phá từng phần của lá cờ và nhận được gợi ý địa lý để nâng cao kỹ năng của bạn. Flagle mang lại cho việc học địa lý niềm vui và sự hấp dẫn. Bắt đầu chơi Flagle ngay hôm nay và khám phá thế giới!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Đường dẫn"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Flagle - Đoán Lá Cờ",
+      "description": "Flagle là một trò chơi đố vui giáo dục thử thách bạn xác định lá cờ ẩn giấu đồng thời tìm hiểu về các quốc gia. Với sáu lượt đoán, hãy khám phá từng phần của lá cờ và nhận được gợi ý địa lý để nâng cao kỹ năng của bạn.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải xuống trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Flagle - Đoán Lá Cờ",
+      "whatIsTitle": "Flagle là gì?",
+      "whatIsDescription": "Flagle là một trò chơi đố vui giáo dục được thiết kế để mở rộng kiến thức của bạn về các quốc gia và thế giới. Đoán lá cờ ẩn giấu và nhận được gợi ý địa lý để nâng cao kỹ năng của bạn.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Đoán quốc gia có lá cờ bị ẩn.",
+      "howToPlayStep2": "Không được vượt quá sáu lượt đoán.",
+      "howToPlayStep3": "Mở khóa một phần của lá cờ ẩn giấu với mỗi lần đoán sai.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Giáo dục",
+      "feature1Description": "Flagle giúp bạn tìm hiểu về các quốc gia và lá cờ của họ.",
+      "feature2Title": "Thử thách",
+      "feature2Description": "Đoán lá cờ ẩn giấu trong sáu lần đoán hoặc ít hơn.",
+      "feature3Title": "Tương tác",
+      "feature3Description": "Nhận gợi ý địa lý để hướng dẫn các lần đoán của bạn.",
+      "feature4Title": "Hấp dẫn",
+      "feature4Description": "Flagle làm cho việc học địa lý trở nên vui vẻ và tương tác."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả trò chơi",
+      "description": "Tất cả trò chơi",
+      "games": "Trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "fruita-crush": {
+    "title": "Fruita Crush: Juego de emparejamiento de frutas gratuito en línea",
+    "slogan": "¡Explota con diversión jugosa!",
+    "description": "¡Fruita Crush estalla con diversión jugosa! Pon a prueba tus habilidades de emparejamiento en una vibrante cascada de frutas. ¿Puedes conquistar este juego deliciosamente adictivo? Fruita Crush te da la bienvenida a un viaje para explorar tierras hermosas con desafíos creativos. Harás rondas de rompecabezas con frutas frescas. La tarea del jugador es lograr el puntaje requerido con un número limitado de turnos. Necesitas crear una combinación de tres o más objetos idénticos colocados uno al lado del otro. Con una combinación de cuatro o más frutas, puedes crear elementos como bombas, detonadores horizontales o verticales y la capacidad de clonar entidades. Cuando se acaban los movimientos y todavía hay estos elementos en el tablero principal del juego, se activarán automáticamente y aumentarán tu puntuación. Solo puedes desbloquear el siguiente nivel cuando completes la misión en la ronda anterior. Fruita Crush te lleva en un emocionante viaje a través de impresionantes paisajes de tierras diversas. Desde exuberantes colinas verdes hasta desiertos abrasadores y selvas peligrosas, cada lugar tiene sus propios desafíos únicos que te esperan. Entonces, ¿cómo pasar cada nivel y convertirte en un maestro en este juego? El secreto reside en la estrategia para calcular tus movimientos. Aprovecha cada poderosa mega-aplastamiento para aplastar múltiples objetivos a la vez, crea increíbles combinaciones y domina este mundo de frutas. Al usar tu inteligencia y organización, podrás desafiar cualquier dificultad y conquistar cada nivel de una manera épica.",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Fruita Crush: Juego de emparejamiento de frutas gratuito en línea",
+      "description": "¡Fruita Crush estalla con diversión jugosa! Pon a prueba tus habilidades de emparejamiento en una vibrante cascada de frutas. ¿Puedes conquistar este juego deliciosamente adictivo? Fruita Crush te da la bienvenida a un viaje para explorar tierras hermosas con desafíos creativos. Harás rondas de rompecabezas con frutas frescas. La tarea del jugador es lograr el puntaje requerido con un número limitado de turnos. Necesitas crear una combinación de tres o más objetos idénticos colocados uno al lado del otro. Con una combinación de cuatro o más frutas, puedes crear elementos como bombas, detonadores horizontales o verticales y la capacidad de clonar entidades. Cuando se acaban los movimientos y todavía hay estos elementos en el tablero principal del juego, se activarán automáticamente y aumentarán tu puntuación. Solo puedes desbloquear el siguiente nivel cuando completes la misión en la ronda anterior. Fruita Crush te lleva en un emocionante viaje a través de impresionantes paisajes de tierras diversas. Desde exuberantes colinas verdes hasta desiertos abrasadores y selvas peligrosas, cada lugar tiene sus propios desafíos únicos que te esperan. Entonces, ¿cómo pasar cada nivel y convertirte en un maestro en este juego? El secreto reside en la estrategia para calcular tus movimientos. Aprovecha cada poderosa mega-aplastamiento para aplastar múltiples objetivos a la vez, crea increíbles combinaciones y domina este mundo de frutas. Al usar tu inteligencia y organización, podrás desafiar cualquier dificultad y conquistar cada nivel de una manera épica.",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Fruita Crush: Juego de emparejamiento de frutas gratuito en línea",
+      "whatIsTitle": "¿Qué es Fruita Crush?",
+      "whatIsDescription": "Fruita Crush es un juego de rompecabezas deliciosamente adictivo en el que emparejas frutas para obtener puntuaciones altas y desbloquear nuevos niveles.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Usa el ratón para intercambiar las posiciones de las frutas entre sí.",
+      "howToPlayStep2": "Ten en cuenta que el movimiento solo es válido si el cambio puede obtener puntos.",
+      "howToPlayStep3": "Observa el número de movimientos restantes para elaborar una estrategia inteligente.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Diversión jugosa",
+      "feature1Description": "Combina frutas y crea combinaciones para una diversión explosiva.",
+      "feature2Title": "Desafíos creativos",
+      "feature2Description": "Explora tierras hermosas con desafíos únicos.",
+      "feature3Title": "Combinaciones poderosas",
+      "feature3Description": "Crea bombas, detonadores y clona entidades para obtener puntuaciones altas.",
+      "feature4Title": "Aventura emocionante",
+      "feature4Description": "Viaja a través de impresionantes paisajes y conquista cada nivel."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

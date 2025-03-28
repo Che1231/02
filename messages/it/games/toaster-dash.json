@@ -1,0 +1,77 @@
+{
+  "toaster-dash": {
+    "title": "Toaster Dash: Avventura di Forno Veloce",
+    "slogan": "Avventura nel mondo dei dolci!",
+    "description": "Toaster Dash offre un emozionante gioco d'azione veloce in cui controlli un tostapane fulmineo. Con grafiche adorabili e un gameplay coinvolgente, Toaster Dash promette intrattenimento ottimale. Evita gli ostacoli, raccogli gli ingredienti e migliora il tuo tostapane per diventare un maestro cuoco. Pronto a sfornare?",
+    "Loading": {
+      "title": "Caricamento..."
+    },
+    "Navbar": {
+      "title": "Navigazione"
+    },
+    "Common": {
+      "createAt": "Creato il",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla privacy",
+      "termsOfServices": "Termini di servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Collegamenti utili",
+      "articleList": "Elenco articoli",
+      "home": "Home",
+      "next": "Avanti",
+      "previous": "Precedente"
+    },
+    "HomeIframe": {
+      "title": "Toaster Dash™",
+      "description": "Toaster Dash è un gioco d'azione veloce in cui controlli un tostapane fulmineo. Evita gli ostacoli, raccogli gli ingredienti e migliora il tuo tostapane per diventare un maestro cuoco. Pronto a sfornare?",
+      "iframeTitle": "Anteprima del gioco",
+      "fullscreenButton": "Schermo intero",
+      "shareButton": "Condividi",
+      "urlCopied": "URL copiato negli appunti!",
+      "downloadGame": "Scarica il gioco",
+      "playGame": "Gioca"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Toaster Dash™",
+      "whatIsTitle": "Cos'è Toaster Dash?",
+      "whatIsDescription": "Toaster Dash è un gioco d'azione veloce in cui controlli un tostapane fulmineo. Evita gli ostacoli, raccogli gli ingredienti e migliora il tuo tostapane per diventare un maestro cuoco.",
+      "howToPlayTitle": "Come giocare",
+      "howToPlayStep1": "Sposta il tostapane a destra, sinistra, su o giù per eseguire diverse azioni.",
+      "howToPlayStep2": "Evita gli ostacoli come forchette, ciambelle appuntite e altro.",
+      "howToPlayStep3": "Raccogli tutte le fette di pane, marmellata, burro e altri ingredienti per ottenere un punteggio elevato.",
+      "keyFeaturesTitle": "Caratteristiche principali",
+      "feature1Title": "Grafiche adorabili",
+      "feature1Description": "Goditi suoni realistici e un gameplay irresistibilmente coinvolgente.",
+      "feature2Title": "Livelli impegnativi",
+      "feature2Description": "Sfreccia attraverso livelli impegnativi con un tostapane in corsa.",
+      "feature3Title": "Sistema di aggiornamento",
+      "feature3Description": "Utilizza i punti guadagnati per migliorare il tostapane e completare i livelli più velocemente.",
+      "feature4Title": "Maestro Cuoco",
+      "feature4Description": "Diventa un maestro cuoco geniale completando missioni e ottimizzando il tuo punteggio."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Raccomandazioni"
+    },
+    "HomeComments": {
+      "title": "Commenti al gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i giochi",
+      "description": "Tutti i giochi",
+      "games": "Giochi"
+    },
+    "CategoryPage": {
+      "categories": "Categorie",
+      "noCategories": "Nessuna categoria trovata",
+      "viewMore": "Visualizza altro",
+      "page": "Pagina"
+    }
+  }
+}

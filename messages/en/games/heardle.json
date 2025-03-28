@@ -1,0 +1,77 @@
+{
+  "heardle": {
+    "title": "Heardle: Guess the Song Daily Challenge",
+    "slogan": "Test Your Music Knowledge with Heardle",
+    "description": "Heardle is a daily music guessing game that challenges you to identify popular songs in just six tries. Inspired by Wordle, Heardle offers a unique twist by focusing on music. With minimal cues, you’ll need to rely on your musical spontaneity and genre knowledge to build an impressive winning streak. Ready to test your skills? Play Heardle now!",
+    "Loading": {
+      "title": "Loading Heardle..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Heardle: Guess the Song Daily Challenge",
+      "description": "Challenge yourself with Heardle, a daily music guessing game. Identify popular songs in six tries and showcase your musical knowledge. Play now!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Heardle: Guess the Song Daily Challenge",
+      "whatIsTitle": "What is Heardle?",
+      "whatIsDescription": "Heardle is a daily music guessing game where players have six chances to identify the song of the day. It’s a musical twist on the popular Wordle game.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Listen to the song snippet provided.",
+      "howToPlayStep2": "Guess the song title or artist.",
+      "howToPlayStep3": "You have six tries to guess correctly.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Daily Challenges",
+      "feature1Description": "A new song to guess every day.",
+      "feature2Title": "Minimal Cues",
+      "feature2Description": "Identify songs with just a short snippet.",
+      "feature3Title": "Popular Tracks",
+      "feature3Description": "Featuring hits from renowned artists.",
+      "feature4Title": "Winning Streaks",
+      "feature4Description": "Build your streak by guessing correctly."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

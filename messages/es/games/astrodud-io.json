@@ -1,0 +1,77 @@
+{
+  "astrodud-io": {
+    "title": "AstroDud.io - Juego IO en línea gratuito",
+    "slogan": "Sobrevive, compite, conquista",
+    "description": "AstroDud.io es un emocionante juego IO gratuito para jugar en el que te enfrentas a jugadores de todo el mundo. Navega por desafiantes cursos de obstáculos, lucha por llegar primero y mantente con vida. Experimenta un área 3D totalmente inmersiva, prueba tus habilidades y mejora tu personaje para dominar la competencia. ¿Preparado para el desafío definitivo? ¡Juega ahora a AstroDud.io!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces de interés",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "AstroDud.io",
+      "description": "Juega a AstroDud.io, un juego IO gratuito para jugar, y compite en emocionantes cursos de obstáculos. Sobrevive, llega primero y mejora tu personaje en una arena 3D totalmente inmersiva.",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "AstroDud.io",
+      "whatIsTitle": "¿Qué es AstroDud.io?",
+      "whatIsDescription": "AstroDud.io es un juego IO gratuito para jugar que ofrece una experiencia emocionante. Compite contra miles de jugadores de todo el mundo en desafiantes cursos de obstáculos.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Navega por el curso de obstáculos.",
+      "howToPlayStep2": "Compite contra otros jugadores para llegar primero.",
+      "howToPlayStep3": "Mantente con vida y mejora tu personaje para dominar la competencia.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Arena 3D inmersiva",
+      "feature1Description": "Experimenta una arena 3D totalmente inmersiva que mejora tu experiencia de juego.",
+      "feature2Title": "Competencia global",
+      "feature2Description": "Compite contra jugadores de todo el mundo en tiempo real.",
+      "feature3Title": "Mejoras de personaje",
+      "feature3Description": "Mejora tu personaje para mejorar el rendimiento y dominar la competencia.",
+      "feature4Title": "Obstáculos desafiantes",
+      "feature4Description": "Navega por una variedad de desafiantes cursos de obstáculos diseñados para probar tus habilidades."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

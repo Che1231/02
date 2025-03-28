@@ -1,0 +1,77 @@
+{
+  "pundle": {
+    "title": "Pundle – Entwirr lustige Rätsel und meistere niedliche Herausforderungen",
+    "slogan": "Entwirr lustige Rätsel und meistere niedliche Herausforderungen im atemberaubenden Plattformspiel Pundle!",
+    "description": "Pundle ist da, um Ihre Erwartungen neu zu definieren! Nicht mehr traditionelles Scrabble oder Boggle, Pundle ist ein glorreicher Kampf zwischen Intelligenz und Wortkreativität. Dies ist ein Wordle-inspirierter Wettbewerb, bei dem Wortspiele die Waffen und Gelächter der Sieg sind. Jeden Tag wird ein neues Rätsel Ihr Gehirn fordern und Sie auffordern, die witzigsten Wortspiele aus den gegebenen Hinweisen zu kreieren. Tun Sie nicht einfach die langweilige Aufgabe, Wörter zu erraten; bei Pundle geht es darum, die kreativen Wortspiele in Ihnen freizusetzen. Je kreativer und ausgefallener Sie sind, desto mehr werden sich Ihre Wortspiele hervorheben! Vergessen Sie aber nicht, dass Sie nur eine begrenzte Anzahl von Versuchen haben, bevor süßes Gelächter oder der Misserfolg zuschlagen. Bereiten Sie also Ihre Bleistifte vor, um Ihre Vermutungen zu testen, räumen Sie Ihr Wortspielwörterbuch aus und bereiten Sie sich darauf vor, die Rangliste zu erobern. Die benötigten Nachschlagewerke zur Unterstützung der Runde sind uneingeschränkt anwendbar. Ihr ultimatives Ziel ist der Sieg!",
+    "Loading": {
+      "title": "Wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Nächstes",
+      "previous": "Vorheriges"
+    },
+    "HomeIframe": {
+      "title": "Pundle – Kostenlos online spielen",
+      "description": "Entdecken Sie Pundle, ein faszinierendes Wortspiel, bei dem Wortspiele Ihre Waffen und Gelächter Ihre Belohnung sind. Fordern Sie Ihr Gehirn täglich mit kreativen Rätseln heraus und klettern Sie in der Rangliste nach oben. Spielen Sie jetzt und entfesseln Sie Ihre Wortkreativität!",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel spielen"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Pundle – Das ultimative Wortspiel",
+      "whatIsTitle": "Was ist Pundle?",
+      "whatIsDescription": "Pundle ist ein Wordle-inspiriertes Spiel, bei dem Sie die lustigsten Wortspiele aus den gegebenen Hinweisen erstellen. Ein Kampf aus Intelligenz und Wortkreativität, der Sie stundenlang unterhalten wird.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Raten Sie das Wort basierend auf dem angegebenen Hinweis.",
+      "howToPlayStep2": "Erstellen Sie das witzigste Wortspiel aus dem erratenen Wort.",
+      "howToPlayStep3": "Senden Sie Ihr Wortspiel und sehen Sie, wie es sich einordnet!",
+      "keyFeaturesTitle": "Schlüsselmerkmale",
+      "feature1Title": "Tägliche Herausforderungen",
+      "feature1Description": "Jeden Tag wartet ein neues Rätsel darauf, Ihr Gehirn herauszufordern und Ihre Kreativität zu testen.",
+      "feature2Title": "Kreative Wortspiele",
+      "feature2Description": "Entfesseln Sie Ihre Kreativität und erstellen Sie die witzigsten Wortspiele, um sich abzuheben.",
+      "feature3Title": "Begrenzte Versuche",
+      "feature3Description": "Sie haben nur eine begrenzte Anzahl von Versuchen, bevor süßes Gelächter oder der Misserfolg zuschlagen.",
+      "feature4Title": "Atemberaubende Grafiken",
+      "feature4Description": "Genießen Sie atemberaubende Grafiken und fesselnde Hintergrundmusik, die Ihre Gehirnzellen in Bewegung hält."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "skribbl-io": {
+    "title": "Chơi Skribbl.io Trực tuyến - Trò chơi vẽ và đoán miễn phí",
+    "slogan": "Thả sức sáng tạo với Skribbl.io",
+    "description": "Trải nghiệm niềm vui sáng tạo và trí tưởng tượng với Skribbl.io, một trò chơi vẽ và đoán hình ảnh trực tuyến đa người chơi rất phổ biến. Trong Skribbl.io, người chơi luân phiên vẽ một từ hoặc cụm từ đã cho, trong khi những người khác cố gắng đoán nó dựa trên tác phẩm nghệ thuật được tạo ra. Sử dụng chuột để đưa trí tưởng tượng của bạn lên nền tảng kỹ thuật số khi bạn vẽ, và bàn phím sẽ là lối vào để đoán các từ hoặc cụm từ mà những người chơi khác tạo ra. Vì vậy, hãy để sức sáng tạo của bạn bay bổng, chấp nhận thách thức đoán và tận hưởng cộng đồng sôi động của Skribbl.io.",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Đọc"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Skribbl.io - Trò chơi vẽ và đoán hình ảnh trực tuyến miễn phí",
+      "description": "Tham gia trò chơi vui nhộn với Skribbl.io, nơi sự sáng tạo gặp gỡ việc đoán. Vẽ, đoán và tận hưởng cộng đồng sôi động của trò chơi trực tuyến phổ biến này.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải game xuống",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Skribbl.io - Trò chơi vẽ và đoán hình ảnh trực tuyến miễn phí",
+      "whatIsTitle": "Skribbl.io là gì?",
+      "whatIsDescription": "Skribbl.io là một trò chơi vẽ và đoán hình ảnh trực tuyến đa người chơi rất phổ biến, trong đó người chơi luân phiên nhau vẽ một từ hoặc cụm từ đã cho, trong khi những người khác cố gắng đoán nó dựa trên tác phẩm nghệ thuật được tạo ra.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Luân phiên nhau vẽ một từ hoặc cụm từ đã cho.",
+      "howToPlayStep2": "Người chơi khác cố gắng đoán từ hoặc cụm từ dựa trên tác phẩm nghệ thuật được tạo ra.",
+      "howToPlayStep3": "Sử dụng bàn phím của bạn để đoán các từ hoặc cụm từ mà những người chơi khác tạo ra.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Vui nhộn đa người chơi",
+      "feature1Description": "Chơi với bạn bè hoặc người lạ trong một cộng đồng trực tuyến sôi động.",
+      "feature2Title": "Vẽ sáng tạo",
+      "feature2Description": "Thả sức sáng tạo bằng cách vẽ các từ hoặc cụm từ.",
+      "feature3Title": "Thử thách đoán",
+      "feature3Description": "Kiểm tra kỹ năng đoán của bạn với tác phẩm nghệ thuật được tạo ra bởi những người khác.",
+      "feature4Title": "Dễ chơi",
+      "feature4Description": "Gameplay đơn giản và trực quan dành cho mọi lứa tuổi."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video game"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

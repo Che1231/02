@@ -1,0 +1,77 @@
+{
+  "lava-bird": {
+    "title": "溶岩鳥 - 火焰飛行冒險遊戲",
+    "slogan": "在這炎熱的側卷軸遊戲中，測試你的反應能力！",
+    "description": "與溶岩鳥一起展開一場火焰飛行！在燃燒的熔岩洞穴中飛行，避開障礙物，並用毀滅性的火球擊敗敵人。憑藉兩個令人興奮的遊戲模式，您可以單人遊戲或與朋友挑戰。體驗這款充滿動作的 2D 側卷軸遊戲的刺激。現在就玩溶岩鳥，征服熔岩天空！",
+    "Loading": {
+      "title": "讀取中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "創建於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "溶岩鳥 - 火焰飛行冒險",
+      "description": "加入熔岩鳥，在熔岩洞穴中展開一場火焰飛行。躲避障礙物，射出火球，並擊敗敵人，在這個刺激的 2D 側卷軸遊戲中成為熔岩天空之王。現在就玩！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "溶岩鳥 - 火焰飛行冒險",
+      "whatIsTitle": "溶岩鳥是什麼？",
+      "whatIsDescription": "溶岩鳥是一款充滿動作的 2D 側卷軸遊戲，您控制一隻火焰鳥，在危險的熔岩洞穴中穿梭。避開障礙物、射出火球並擊敗敵人，以成為熔岩天空之王！",
+      "howToPlayTitle": "如何遊戲？",
+      "howToPlayStep1": "在單人模式下，使用空格鍵或點擊來控制鳥類。",
+      "howToPlayStep2": "在雙人模式中，玩家 1（紅色鳥）使用 W 鍵，玩家 2（藍色鳥）使用向上箭頭鍵。",
+      "howToPlayStep3": "躲避障礙物並擊敗敵人以獲得分數。率先達到五分者獲勝！",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "火焰飛行",
+      "feature1Description": "在充滿障礙物和敵人的危險熔岩洞穴中穿梭飛行。",
+      "feature2Title": "毀滅性火球",
+      "feature2Description": "射出火球摧毀敵人，掃除你的道路。",
+      "feature3Title": "兩種遊戲模式",
+      "feature3Description": "選擇單人遊戲或與朋友進行激烈的近身戰鬥。",
+      "feature4Title": "簡單的操作",
+      "feature4Description": "簡單直觀的操作讓所有玩家都能輕鬆享受。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲視頻"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到分類",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

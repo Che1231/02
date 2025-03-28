@@ -1,0 +1,77 @@
+{
+  "bad-time-simulator": {
+    "title": "Bad Time 시뮬레이터 - 무료 온라인 게임",
+    "slogan": "최고의 실력을 발휘하세요!",
+    "description": "Bad Time 시뮬레이터는 끊임없는 도전과 까다로운 장애물로 가득 찬 세계로 당신을 초대합니다. 반응 속도와 기술을 시험하는 빠르게 전개되는 게임 플레이를 경험하세요. 위험을 피하고 장애물을 회피하며 일반, 연습, 무한 모드와 같은 모드를 정복하세요. 지금 Bad Time 시뮬레이터를 플레이하고 얼마나 버틸 수 있는지 확인하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "Bad Time 시뮬레이터",
+      "description": "반응 속도와 기술을 시험하는 빠르게 전개되는 게임 Bad Time 시뮬레이터에 뛰어들어보세요. 장애물을 피하고 에너지를 절약하며 다양한 모드를 정복하세요. 지금 플레이하고 한계를 시험해보세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Bad Time 시뮬레이터",
+      "whatIsTitle": "Bad Time 시뮬레이터는 무엇인가요?",
+      "whatIsDescription": "Bad Time 시뮬레이터는 끊임없는 도전과 까다로운 장애물로 가득 찬 세계로 당신을 초대하는 빠르게 전개되는 게임입니다. 작은 심장을 조종하고 위험을 피하며 기술의 한계를 시험해보세요.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "화살표 키를 사용하여 심장의 이동을 제어합니다.",
+      "howToPlayStep2": "장애물과 공격을 피해 에너지를 절약하고 진행합니다.",
+      "howToPlayStep3": "게임의 속도에 적응하고 멋진 점수를 만들어 보세요!",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "다양한 모드",
+      "feature1Description": "일반, 연습, 무한, 단일 공격 또는 사용자 지정 공격 모드에서 플레이하세요.",
+      "feature2Title": "도전적인 장애물",
+      "feature2Description": "다양한 까다로운 장애물과 위험을 헤쳐나가세요.",
+      "feature3Title": "빠르게 전개되는 게임 플레이",
+      "feature3Description": "반응 속도와 기술을 시험하는 쉴 새 없는 속도를 경험하세요.",
+      "feature4Title": "몰입형 모험",
+      "feature4Description": "긴장감 넘치고 흥미진진한 모험에 몰입하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

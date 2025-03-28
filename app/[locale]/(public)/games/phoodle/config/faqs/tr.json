@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Phoodle oyununa yeni başlayan biri nasıl başlayabilir ve temel mekaniklerini nasıl anlayabilir?",
+    "answer": "Phoodle oyununa başlamak için önce tercih ettiğiniz uygulama mağazasından oyunu indirin. Başlattığınızda, temel mekanikleri açıklayan bir eğitime yönlendirileceksiniz: sınırlı deneme sayısı içinde doğru kelimeyi tahmin etmek. Her tahmin, harf doğruluğu ve yerleşimini kontrol eder. Örneğin, 'ELMA' tahmin ederseniz ve doğru kelime 'ÜZÜM' ise, 'E' ve 'L' harfleri sarı renkte vurgulanmış olabilir, bu da kelimede olmalarını ama yanlış yerde olduklarını gösterir. Bu anlık geri bildirim, sonraki tahminlerinizi iyileştirmenize yardımcı olur. [Örneklendirme: Bir kelime bulmacası gibi düşünün, her tahmin olasılıkları daraltır.]"
+  },
+  {
+    "question": "100 saatlik oyun oynadıktan sonra Phoodle'da tahmin doğruluğunuzu geliştirmek için en iyi stratejiler nelerdir?",
+    "answer": "100 saatlik oyun oynadıktan sonra tahmin stratejinizi optimize etmeye odaklanmalısınız. ADIM 1: Ortak ünlü ve ünsüzlerin bir karışımını içeren bir kelime ile başlayın, örneğin 'KREMA'. ADIM 2: Geri bildirimleri analiz ederek, imkansız harfleri ve yerleri ortadan kaldırın. Örneğin, 'K' harfi kelimede yoksa, gelecekteki tahminlerde 'K' içeren kelimelerden kaçının. ADIM 3: Olasılıkları daraltmak için eleme yöntemini kullanın. Örneğin, kelimede 'E' harfinin olduğunu ancak son konumda olmadığını biliyorsanız, 'MASA' veya 'ÜZÜM' gibi kelimeleri deneyin. [Çeşitli stratejiler karşılaştırma: 'KREMA' ile 'SES' kelimeleri arasındaki başlangıç kelimeleri karşılaştırmak, hangi stratejinin sizin için en iyi çalıştığını belirlemenize yardımcı olabilir.]"
+  },
+  {
+    "question": "Phoodle neden tahmin sayısını sınırlandırır ve bu oyun oynanışını nasıl etkiler?",
+    "answer": "Phoodle, oyuna bir strateji katmanı eklemek ve oyunun zorluğunu artırmak için tahmin sayısını sınırlar. Bu kısıtlama, oyuncuları kaba kuvvete dayanmak yerine her tahmin hakkında eleştirel düşünmeye zorlar. Örneğin, beş harfli bir kelimeyi tahmin etmek için sadece altı denemeniz varsa, her tahmin mümkün olduğunca bilgilendirici olmalıdır. Bu sınırlama, gerçek dünya problem çözme senaryolarını da yansıtmaktadır, burada kaynaklar sınırlıdır. [Örneklendirme: Sınırlı ipucuyla bir gizemi çözmeye benzemektedir; her tahmin kesin ve dikkatlice düşünülmelidir.]"
+  },
+  {
+    "question": "Phoodle'ın puanlama sistemi nasıl çalışır ve son puanınızı hangi faktörler etkiler?",
+    "answer": "Phoodle'ın puanlama sistemi, doğru kelimeyi tahmin etmek için ne kadar deneme yaptığınıza dayanır. Daha az deneme, daha yüksek puan demektir. Ek olarak, oyun kelime karmaşıklığını ve her tahmini yapmak için geçen süreyi de dikkate alabilir. Örneğin, 'ÜZÜM' kelimesini üç denemede tahmin etmek, altı denemede tahmin etmekten daha yüksek bir puan getirir. [Tablo karşılaştırma: Denemelere ve kelime karmaşıklığına göre puanları karşılaştıran bir tablo, oyuncuların puanlarını nasıl en üst düzeye çıkaracaklarını anlamalarına yardımcı olabilir.]"
+  },
+  {
+    "question": "Farklı platformlarda Phoodle'ı çalıştırmak için teknik gereksinimler nelerdir ve nasıl karşılaştırılabilirler?",
+    "answer": "Phoodle, çeşitli cihazlarla uyumlu ve hafif olarak tasarlanmıştır. iOS için iOS 12.0 veya üstü, Android için Android 6.0 veya üstü gerekir. Oyunun minimal tasarımı, eski cihazlar üzerinde bile sorunsuz performans sağlar. Örneğin, iOS 12 çalıştıran bir iPhone 6s, Phoodle'ı sorunsuz çalıştırabilirken, 2 GB RAM'e sahip bir bütçe Android telefonu da iyi performans sergiler. [Tablo karşılaştırma: iOS ve Android için teknik gereksinimlerin karşılaştırmalı bir tablosu, oyuncuların cihazlarının uyumlu olup olmadığını kontrol etmelerine yardımcı olabilir.]"
+  },
+  {
+    "question": "Verileri kaybetmeden bir cihazdan diğerine Phoodle ilerlemenizi nasıl taşıyabilirsiniz?",
+    "answer": "Phoodle ilerlemenizi taşımak için oyunda bulunan bulut kaydetme özelliğini kullanın. ADIM 1: Mevcut cihazınızda ayarlar menüsüne gidip bulut kaydetmeyi etkinleştirin. ADIM 2: Yeni cihazınızda aynı hesapla giriş yapın. ADIM 3: İlerlemeyi eşitlemek için bulut kaydetmeyi tekrar etkinleştirin. Örneğin, eski cihazınızda 20. seviyedeydiyseniz, yeni cihazınızda 20. seviyeden başlarsınız. [Akış şeması: Adımları takip etmeyi kolaylaştırmak için göç sürecini gösteren bir akış şeması.]"
+  },
+  {
+    "question": "Geniş çaplı oyun oynadıktan sonra Phoodle'da keşfedilebilecek gizli özellikler veya yumurtalar nelerdir?",
+    "answer": "Phoodle, özverili oyuncular için çeşitli gizli özellikler ve yumurtalar içerir. Bu özelliklerden biri, 100 ardışık doğru tahmin yapıldıktan sonra açılan 'Altın Kelime' modudur. Bu modda, tahmin edilecek kelime altın renkte vurgulanır ve oyuncular doğru tahmin ettikleri için bonus puan alır. Başka bir yumurta, ana menüde üç kez sola kaydırıldığında erişilebilen 'Gizli Sözlük'tür. Bu sözlük, oyunda kullanılabilecek nadir ve anlaşılmaz kelimeler içerir. [Örneklendirme: Bu özellikleri keşfetmek, geniş, keşfedilmemiş bir alanda gizli hazineler bulmaya benzer.]"
+  },
+  {
+    "question": "Phoodle algoritması her kelimenin zorluk seviyesini nasıl belirler ve oyuncular bunu etkileyebilir mi?",
+    "answer": "Phoodle algoritması, kelimelerin zorluk seviyelerini, uzunluklarına, karmaşıklıklarına ve İngilizce dilinde kullanım sıklıklarına göre belirler. Örneğin, 'ÜZÜM' gibi beş harfli bir kelime, 'ZIGOTO' gibi yedi harfli bir kelimeden daha kolay olarak kabul edilebilir. Oyuncular, çeşitli oyun modlarını seçerek zorluk seviyesini etkileyebilirler, örneğin kısa kelimeler için 'Kolay Mod' veya daha uzun ve karmaşık kelimeler için 'Zor Mod'. [Tablo karşılaştırma: Farklı modlardaki kelime zorluk seviyelerini gösteren bir tablo, oyuncuların beceri seviyelerine uygun zorluğu seçmelerine yardımcı olabilir.]"
+  },
+  {
+    "question": "Phoodle oyununda yeni oyuncuların en yaygın hataları nelerdir ve bunlardan nasıl kaçınabilirler?",
+    "answer": "Yeni oyuncular genellikle bir strateji olmadan rastgele kelimeler tahmin ederek denemeleri boşa harcıyorlar. Başka bir yaygın hata, her tahmin sonrasında verilen geri bildirimleri göz ardı etmektir. Bu hatalardan kaçınmak için, 'KREMA' gibi ortak ünlü ve ünsüzlerin bir karışımını içeren bir kelime ile başlayın. Geri bildirimlere dikkat edin; örneğin, 'A' harfinin kelimede ama ilk konumda olmadığını biliyorsanız, sonraki tahminlerinizi buna göre ayarlayın. [Çeşitli stratejiler karşılaştırma: Etkili ve etkisiz tahmin stratejilerini karşılaştırmak, yeni oyuncuların yapılandırılmış bir yaklaşımın önemini anlamalarına yardımcı olabilir.]"
+  },
+  {
+    "question": "Phoodle'ın günlük meydan okuma modu nasıl çalışır ve katılmanın faydaları nelerdir?",
+    "answer": "Phoodle'ın günlük meydan okuma modu, oyunculara her gün tahmin edilecek özgün bir kelime sunar. Bu mod, becerilerinizi test etmek ve oyunun canlı kalmasını sağlamak için tasarlanmıştır. Katılmanın faydaları arasında bonus puan kazanmak, özel başarılar elde etmek ve genel tahmin stratejinizi geliştirmek yer alır. Örneğin, günlük sözcük 'ZIGOTO'yu başarıyla tahmin etmek, size 50 bonus puan ve özel bir rozet verebilir. [Örneklendirme: Günlük meydan okuma, zihninizi keskin tutan ve sizi sonraki bulmaca için hazırlayan küçük bir sınav gibidir.]"
+  }
+]

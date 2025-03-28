@@ -1,0 +1,77 @@
+{
+  "flagle": {
+    "title": "Flagle - Tebak Bendera & Pelajari Geografi",
+    "slogan": "Perluas Pengetahuan Dunia Anda dengan Flagle",
+    "description": "Flagle adalah permainan tebak-tebakan edukasi yang menantang Anda untuk mengidentifikasi bendera tersembunyi sambil mempelajari tentang negara-negara. Dengan enam kali percobaan, ungkapkan bendera sedikit demi sedikit dan dapatkan petunjuk geografis untuk meningkatkan keterampilan Anda. Flagle membuat pembelajaran geografi menyenangkan dan menarik. Mulailah memainkan Flagle hari ini dan jelajahi dunia!",
+    "Loading": {
+      "title": "Memuat..."
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Flagle - Tebak Bendera",
+      "description": "Flagle adalah permainan tebak-tebakan edukatif yang menantang Anda untuk mengidentifikasi bendera tersembunyi sambil mempelajari tentang negara-negara. Dengan enam kali percobaan, ungkapkan bendera sedikit demi sedikit dan dapatkan petunjuk geografis untuk meningkatkan keterampilan Anda.",
+      "iframeTitle": "Pratinjau Permainan",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke papan klip!",
+      "downloadGame": "Unduh Permainan",
+      "playGame": "Mainkan Permainan"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Flagle - Tebak Bendera",
+      "whatIsTitle": "Apa itu Flagle?",
+      "whatIsDescription": "Flagle adalah permainan tebak-tebakan edukatif yang dirancang untuk memperluas pengetahuan Anda tentang negara-negara dan dunia. Tebak bendera tersembunyi dan dapatkan petunjuk geografis untuk meningkatkan keterampilan Anda.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Tebak negara yang benderanya tersembunyi.",
+      "howToPlayStep2": "Gunakan tidak lebih dari enam kali percobaan.",
+      "howToPlayStep3": "Buka bagian lain dari bendera yang tersembunyi dengan setiap tebakan yang gagal.",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Pendidikan",
+      "feature1Description": "Flagle membantu Anda mempelajari tentang negara-negara dan benderanya.",
+      "feature2Title": "Menantang",
+      "feature2Description": "Tebak bendera tersembunyi dalam enam kali percobaan atau kurang.",
+      "feature3Title": "Interaktif",
+      "feature3Description": "Dapatkan petunjuk geografis untuk memandu tebakan Anda.",
+      "feature4Title": "Menarik",
+      "feature4Description": "Flagle membuat pembelajaran geografi menyenangkan dan interaktif."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Permainan"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Permainan",
+      "description": "Semua Permainan",
+      "games": "Permainan"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Lainnya",
+      "page": "Halaman"
+    }
+  }
+}

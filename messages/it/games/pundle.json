@@ -1,0 +1,77 @@
+{
+  "pundle": {
+    "title": "Pundle - Svelare divertenti enigmi e affrontare sfide divertenti",
+    "slogan": "Svelate divertenti enigmi e affrontate sfide divertenti nel fantastico platformer Pundle!",
+    "description": "Pundle è qui per ridefinire le vostre aspettative! Non più il tradizionale Scrabble o Boggle, Pundle è una gloriosa battaglia tra intelligenza e creatività di parole. Questo è un gioco ispirato a Wordle, dove le parole spiritose sono le armi e il divertimento è la gioia della vittoria. Ogni giorno, un nuovo enigma metterà alla prova il vostro cervello, chiedendovi di creare le battute più spiritose a partire dagli indizi forniti. Non limitatevi a indovinare parole noiose; Pundle si concentra su come sfogare la vostra creatività con giochi di parole. Più siete creativi e bizzarri, più le vostre battute spiritose risalteranno! Ma non dimenticate di avere un numero limitato di tentativi prima che arrivi il riso o la sconfitta. Quindi, preparate le vostre matite per mettere alla prova le vostre ipotesi, ripulite il vostro vocabolario di giochi di parole e preparatevi a vincere la classifica. Le ricerche necessarie per supportare la partita sono pienamente applicabili. L'obiettivo finale è la vittoria!",
+    "Loading": {
+      "title": "Caricamento..."
+    },
+    "Navbar": {
+      "title": "Navigazione"
+    },
+    "Common": {
+      "createAt": "Creato alle",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla privacy",
+      "termsOfServices": "Termini di servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Collegamenti utili",
+      "articleList": "Elenco articoli",
+      "home": "Home",
+      "next": "Prossimo",
+      "previous": "Precedente"
+    },
+    "HomeIframe": {
+      "title": "Pundle - Gioca online gratuitamente",
+      "description": "Scoprite Pundle, un avvincente gioco di parole in cui le battute spiritose sono le vostre armi e il divertimento è la vostra ricompensa. Mettete alla prova il vostro cervello ogni giorno con enigmi creativi e scalate la classifica. Gioca ora e liberati della tua creatività con le parole!",
+      "iframeTitle": "Anteprima del gioco",
+      "fullscreenButton": "Schermo intero",
+      "shareButton": "Condividi",
+      "urlCopied": "URL copiato negli appunti!",
+      "downloadGame": "Scarica il gioco",
+      "playGame": "Gioca!"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Pundle - Il gioco di enigmi a parole definitivo",
+      "whatIsTitle": "Cos'è Pundle?",
+      "whatIsDescription": "Pundle è un gioco ispirato a Wordle in cui si creano le battute più spiritose partendo dagli indizi forniti. È una battaglia di intelligenza e creatività con le parole che vi terrà intrattenuti per ore.",
+      "howToPlayTitle": "Come giocare",
+      "howToPlayStep1": "Indovina la parola in base all'indizio fornito.",
+      "howToPlayStep2": "Crea la battuta più spiritosa dalla parola indovinata.",
+      "howToPlayStep3": "Invia la tua battuta e guarda la sua posizione nella classifica!",
+      "keyFeaturesTitle": "Caratteristiche principali",
+      "feature1Title": "Sfide quotidiane",
+      "feature1Description": "Ogni giorno, un nuovo enigma metterà alla prova il tuo cervello e testerà la tua creatività.",
+      "feature2Title": "Battute spiritose",
+      "feature2Description": "Sfoggia la tua creatività e crea le battute più spiritose per distinguerti.",
+      "feature3Title": "Tentativi limitati",
+      "feature3Description": "Hai solo un numero limitato di tentativi prima che arrivi il riso o la sconfitta.",
+      "feature4Title": "Grafica stupenda",
+      "feature4Description": "Goditi una grafica sbalorditiva e una musica di sottofondo coinvolgente che manterranno le tue cellule cerebrali al lavoro senza sosta."
+    },
+    "HomeFAQs": {
+      "title": "Domande frequenti"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Raccomandazioni"
+    },
+    "HomeComments": {
+      "title": "Commenti gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i giochi",
+      "description": "Tutti i giochi",
+      "games": "Giochi"
+    },
+    "CategoryPage": {
+      "categories": "Categorie",
+      "noCategories": "Nessuna categoria trovata",
+      "viewMore": "Visualizza altro",
+      "page": "Pagina"
+    }
+  }
+}

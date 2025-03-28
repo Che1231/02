@@ -1,0 +1,77 @@
+{
+  "colorup": {
+    "title": "ColorUp: Trò chơi phiêu lưu leo trèo 3D sáng tạo",
+    "slogan": "Mỗi nét vẽ đều là một cuộc phiêu lưu!",
+    "description": "Khám phá thế giới sống động trong ColorUp, giải các câu đố đầy màu sắc và đắm chìm trong niềm vui sáng tạo! Trò chơi leo trèo 3D này thách thức bạn nhảy lên độ cao 1076 mét với những cú nhảy và sự phối hợp ngoạn mục. Trải nghiệm đồ họa tuyệt đẹp, âm thanh thư giãn và lối chơi hồi hộp. Bắt đầu cuộc phiêu lưu đầy màu sắc của bạn ngay hôm nay!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Ngày tạo",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "ColorUp: Trò chơi phiêu lưu leo trèo 3D sáng tạo",
+      "description": "Nhảy vào thế giới sống động của ColorUp! Giải các câu đố, thu thập trang phục và chinh phục những bậc thang đầy màu sắc trong trò chơi leo trèo 3D đầy hồi hộp này. Bắt đầu cuộc phiêu lưu của bạn ngay bây giờ!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Màn hình toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải game",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ColorUp: Trò chơi phiêu lưu leo trèo 3D sáng tạo",
+      "whatIsTitle": "ColorUp là gì?",
+      "whatIsDescription": "ColorUp là một trò chơi leo trèo 3D sống động, nơi bạn điều khiển nhân vật trong một thị trấn lễ hội, nhảy qua những bậc thang đầy màu sắc và thu thập các vật phẩm để mở khóa những bí ẩn.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Sử dụng chuột để quan sát xung quanh và điều chỉnh hướng của mình.",
+      "howToPlayStep2": "Sử dụng các phím mũi tên để điều hướng nhân vật của bạn.",
+      "howToPlayStep3": "Nhấn phím cách để nhảy lên bậc thang.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Đồ họa 3D tuyệt đẹp",
+      "feature1Description": "Trải nghiệm gam màu rực rỡ và hình ảnh sống động trong từng cảnh.",
+      "feature2Title": "Âm thanh thư giãn",
+      "feature2Description": "Tận hưởng âm thanh yên bình làm tăng thêm bầu không khí của trò chơi.",
+      "feature3Title": "Leo trèo hồi hộp",
+      "feature3Description": "Vươn tới những kỹ thuật để vượt qua những cú nhảy và sự phối hợp đầy thách thức.",
+      "feature4Title": "Trang phục sưu tầm được",
+      "feature4Description": "Thu thập các vật phẩm để thay đổi diện mạo của nhân vật."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video game"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận game"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

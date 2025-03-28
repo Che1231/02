@@ -1,0 +1,77 @@
+{
+  "hero-wars": {
+    "title": "Hero Wars - Petualangan RPG Fantasi Epik",
+    "slogan": "Kumpulkan Pahlawan, Taklukkan Kegelapan!",
+    "description": "Mulailah perjalanan epik di Hero Wars, RPG aksi di mana Anda menyelamatkan kerajaan Dominion dari kekacauan. Kumpulkan tim pahlawan perkasa, tingkatkan keterampilan mereka, dan terlibat dalam pertempuran menegangkan. Alami petualangan fantasi terbaik hari ini!",
+    "Loading": {
+      "title": "Memuat..."
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Hero Wars™",
+      "description": "Jelajahi Hero Wars, RPG fantasi epik di mana Anda memimpin para pahlawan untuk menyelamatkan Dominion. Tingkatkan keterampilan, strategi pertempuran, dan taklukkan kekacauan. Mulailah petualangan Anda sekarang!",
+      "iframeTitle": "Pratinjau Gim",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Gim",
+      "playGame": "Mainkan Gim"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Hero Wars - Pengalaman RPG Terbaik",
+      "whatIsTitle": "Apa Itu Hero Wars?",
+      "whatIsDescription": "Hero Wars adalah RPG aksi yang membawa Anda dalam perjalanan epik untuk menyelamatkan dunia fantasi Dominion dari kegelapan dan kekacauan. Kumpulkan tim pahlawan perkasa, tingkatkan keterampilan mereka, dan terlibat dalam pertempuran menegangkan melawan musuh yang kuat.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Kumpulkan tim pahlawan perkasa.",
+      "howToPlayStep2": "Tingkatkan keterampilan dan peralatan para pahlawan Anda.",
+      "howToPlayStep3": "Terlibat dalam pertempuran strategis untuk menaklukkan musuh.",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Pahlawan Epik",
+      "feature1Description": "Rekrut dan tingkatkan berbagai pahlawan.",
+      "feature2Title": "Pertempuran Strategis",
+      "feature2Description": "Rencanakan langkah Anda dan kalahkan musuh yang kuat.",
+      "feature3Title": "Dunia Fantasi",
+      "feature3Description": "Jelajahi dunia magis Dominion.",
+      "feature4Title": "Bergabung",
+      "feature4Description": "Bergandengan tangan dengan teman untuk menghadapi tantangan yang lebih besar."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Gim"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Gim"
+    },
+    "GamePage": {
+      "title": "Semua Gim",
+      "description": "Semua Gim",
+      "games": "Gim"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Lebih Banyak",
+      "page": "Halaman"
+    }
+  }
+}

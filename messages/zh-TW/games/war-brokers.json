@@ -1,0 +1,77 @@
+{
+  "war-brokers": {
+    "title": "玩戰略：免費線上FPS軍事車輛遊戲",
+    "slogan": "在戰場上掌控戰局：戰略戰爭",
+    "description": "沉浸在戰略戰爭的充滿動作的世界中，一款緊張的.io FPS 遊戲。參與刺激的任務，自定義武器和車輛，並與隊友合作以取得勝利。體驗坦克、直升機和裝甲運兵車在這個動態戰場上的力量。現在就玩戰略戰爭，釋放你的戰略技能！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立日期",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友善連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "戰略戰爭",
+      "description": "參與戰略戰爭的激烈戰鬥，一款動態的.io FPS 遊戲。自定義你的武器庫，與玩家組隊，並駕駛軍事車輛掌控戰場。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "戰略戰爭",
+      "whatIsTitle": "什麼是戰略戰爭？",
+      "whatIsDescription": "戰略戰爭是一款緊張的.io FPS 遊戲，玩家使用各種軍事車輛和武器參與充滿動作的任務。",
+      "howToPlayTitle": "如何玩？",
+      "howToPlayStep1": "選擇適合你的遊戲風格的車輛和武器。",
+      "howToPlayStep2": "與隊友合作完成任務。",
+      "howToPlayStep3": "掌控戰場，為你的團隊取得勝利。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "可自定義的武器庫",
+      "feature1Description": "根據你的戰略方法，定制你的武器和車輛。",
+      "feature2Title": "團隊合作",
+      "feature2Description": "密切配合你的隊友，以戰勝對手。",
+      "feature3Title": "動態任務",
+      "feature3Description": "參與各種測試你的技能和策略的任務。",
+      "feature4Title": "軍事車輛",
+      "feature4Description": "指揮強大的坦克、直升機和裝甲運兵車，以掌控戰場。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

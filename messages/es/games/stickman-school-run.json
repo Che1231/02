@@ -1,0 +1,77 @@
+{
+  "stickman-school-run": {
+    "title": "Stickman School Run: Salta y supera los obstáculos",
+    "slogan": "¡Corre a través de terrenos difíciles y supera todos los niveles!",
+    "description": "Salta y supera los obstáculos para que el chico llegue a la posición de su amada en Stickman School Run. Este juego con temática escolar ofrece una jugabilidad creativa de correr y saltar. Controla a un stickman, navegando a través de plataformas y obstáculos desafiantes. Con 100 niveles, cada uno diseñado para poner a prueba tu flexibilidad y reacciones rápidas, Stickman School Run te mantiene comprometido y concentrado. ¡Juega ahora y experimenta la mezcla de magia y desafío!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Stickman School Run",
+      "description": "Experimenta la emoción de Stickman School Run, un juego que combina creatividad y desafío. Navega a través de 100 niveles, cada uno con obstáculos y plataformas únicas. ¡Juega ahora y descubre si puedes llegar hasta el final!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Stickman School Run",
+      "whatIsTitle": "¿Qué es Stickman School Run?",
+      "whatIsDescription": "Stickman School Run es un juego con temática escolar en el que controlas a un stickman, navegando a través de plataformas y obstáculos desafiantes para llegar a su novia.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Presiona la flecha hacia arriba para hacer que el personaje salte.",
+      "howToPlayStep2": "Mantén presionada la flecha hacia arriba para acercar la regla, empujando las cajas que se interponen en el camino.",
+      "howToPlayStep3": "Usa la flecha hacia la derecha para girar al personaje, evitando las colisiones con la combinación.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "100 niveles desafiantes",
+      "feature1Description": "Cada nivel está diseñado para poner a prueba tu flexibilidad y reacciones rápidas.",
+      "feature2Title": "Cambios dinámicos en el mapa",
+      "feature2Description": "Los mapas pueden cambiar cuando vuelves a jugar un nivel, ofreciendo nuevos desafíos cada vez.",
+      "feature3Title": "Jugabilidad creativa",
+      "feature3Description": "Controla a un stickman, navegando a través de obstáculos y plataformas únicos.",
+      "feature4Title": "Mecánicas atractivas",
+      "feature4Description": "Utiliza diferentes comandos para superar varios tipos de obstáculos."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

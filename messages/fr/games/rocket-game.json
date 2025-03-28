@@ -1,0 +1,77 @@
+{
+  "rocket-game": {
+    "title": "Jeu de fusée : aventure spatiale palpitante",
+    "slogan": "Pilotez votre fusée à travers des niveaux stimulants et montez vers les étoiles !",
+    "description": "Rocket Game vous plonge dans une aventure passionnante ! Pilotez votre fusée à travers des niveaux stimulants et évitez les obstacles tout en vous dirigeant vers les étoiles. Ce jeu de conduite basé sur la physique offre des expériences uniques en voyageant sur des routes dangereuses. Plongez-vous dans ces expériences uniques pour rendre vos moments de détente plus excitants. Jouez à Rocket Game maintenant et vivez le frisson !",
+    "Loading": {
+      "title": "Chargement…"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Jeu de fusée : aventure spatiale palpitante",
+      "description": "Pilotez votre fusée à travers des niveaux stimulants et évitez les obstacles tout en vous dirigeant vers les étoiles. Profitez d'expériences uniques sur des routes dangereuses.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Jeu de fusée : aventure spatiale palpitante",
+      "whatIsTitle": "Qu'est-ce que Rocket Game ?",
+      "whatIsDescription": "Rocket Game est un jeu de conduite basé sur la physique proposant des expériences sur des routes dangereuses. Des pentes raides et des collines accidentées rendront votre voyage encore plus spectaculaire.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Flèche HAUT : avancer; maintenir pour accélérer.",
+      "howToPlayStep2": "Flèche BAS : reculer, généralement pour prendre de l'élan.",
+      "howToPlayStep3": "Barre d’espace : mode fusée, maintenir pour ajuster la force de \"tir\" de ce véhicule spécial.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Niveaux stimulants",
+      "feature1Description": "Naviguez sur des plates-formes complexes et surmontez les obstacles.",
+      "feature2Title": "Gameplay basé sur la physique",
+      "feature2Description": "Découvrez une physique réaliste pendant que vous conduisez sur des routes dangereuses.",
+      "feature3Title": "Mode fusée",
+      "feature3Description": "Utilisez le mode fusée pour effectuer des sauts d'élan et vous propulser comme une fusée.",
+      "feature4Title": "Aventure addictive",
+      "feature4Description": "Plongez-vous dans des expériences uniques qui rendent le jeu addictif."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires de jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

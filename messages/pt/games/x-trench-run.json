@@ -1,0 +1,77 @@
+{
+  "x-trench-run": {
+    "title": "X Trench Run - Jogo de Simulação Espacial de Ritmo Rápido",
+    "slogan": "Navegue, Evite, Destrua - Domine o Cosmo!",
+    "description": "Experimente a emoção do X Trench Run, um jogo de simulação espacial de ritmo acelerado onde você navega por obstáculos cósmicos traiçoeiros. Sua missão é destruir uma estrutura espacial maciça enquanto evita colisões e torres. Com jogabilidade repleta de ação e níveis desafiadores, o X Trench Run oferece emoção sem fim. Jogue agora e junte-se à batalha cósmica!",
+    "Loading": {
+      "title": "Carregando..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Amigáveis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "X Trench Run - Jogo de Simulação Espacial de Ritmo Rápido",
+      "description": "Navegue pelo espaço, evite obstáculos e destrua a estrutura maciça no X Trench Run. Jogue agora e experimente a ação!",
+      "iframeTitle": "Prévia do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "X Trench Run",
+      "whatIsTitle": "O que é o X Trench Run?",
+      "whatIsDescription": "X Trench Run é um jogo de simulação espacial de ritmo acelerado onde você navega por obstáculos e destrói uma estrutura maciça no espaço.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Evite obstáculos e torres para continuar vivo.",
+      "howToPlayStep2": "Use suas armas para destruir a estrutura maciça.",
+      "howToPlayStep3": "Complete os desafios para alcançar níveis mais altos.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Jogabilidade de Ritmo Acelerado",
+      "feature1Description": "Navegue pelo espaço com ação e velocidade intensas.",
+      "feature2Title": "Obstáculos Desaftadores",
+      "feature2Description": "Evite obstáculos e torres complicados para sobreviver.",
+      "feature3Title": "Batalha Cósmica",
+      "feature3Description": "Destrua a estrutura maciça e conquiste o cosmo.",
+      "feature4Title": "Múltiplas Armas",
+      "feature4Description": "Use uma variedade de armas para se proteger e proteger o universo."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

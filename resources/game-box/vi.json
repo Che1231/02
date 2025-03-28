@@ -1,0 +1,114 @@
+{
+  "recommended": [],
+  "categories": [
+    {
+      "name": "Các trò chơi được đề xuất",
+      "path": "/c/featured",
+      "pageSize": 15,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Chúng tôi đã chọn những trò chơi hay nhất cho bạn!"
+    },
+    {
+      "name": "Trò chơi Arcade",
+      "path": "/c/arcade-games",
+      "pageSize": 15,
+      "backgroundColor": "#d2e7ff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Những trò chơi arcade thú vị!",
+      "position": 2
+    },
+    {
+      "name": "Trò chơi hành động",
+      "path": "/c/action",
+      "pageSize": 15,
+      "backgroundColor": "#c1f8cf",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Những trò chơi hành động thú vị!",
+      "position": 3
+    },
+    {
+      "name": "Trò chơi phiêu lưu",
+      "path": "/c/adventure-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 4,
+      "description": "Những trò chơi phiêu lưu thú vị!"
+    },
+    {
+      "name": "Trò chơi Wordleverse",
+      "path": "/c/wordleverse-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 5,
+      "description": "Những trò chơi Wordleverse thú vị!"
+    },
+    {
+      "name": "Trò chơi .IO",
+      "path": "/c/io-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 6,
+      "description": "Những trò chơi .IO thú vị!"
+    },
+    {
+      "name": "Trò chơi Casual",
+      "path": "/c/casual-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 7,
+      "description": "Những trò chơi Casual thú vị!"
+    },
+    {
+      "name": "Trò chơi Puzzle",
+      "path": "/c/puzzle-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 8,
+      "description": "Những trò chơi Puzzle thú vị!"
+    },
+    {
+      "name": "Trò chơi đua xe & lái xe",
+      "path": "/c/racing-driving",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 9,
+      "description": "Những trò chơi đua xe & lái xe thú vị!"
+    },
+    {
+      "name": "Trò chơi 3D",
+      "path": "/c/3d-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 10,
+      "description": "Những trò chơi 3D thú vị!"
+    },
+    {
+      "name": "Trò chơi thể thao",
+      "path": "/c/sports-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 11,
+      "description": "Những trò chơi thể thao thú vị!"
+    }
+  ]
+}

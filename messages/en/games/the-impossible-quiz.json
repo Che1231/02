@@ -1,0 +1,77 @@
+{
+  "the-impossible-quiz": {
+    "title": "The Impossible Quiz - Free Online Trivia Game with Tricky Questions",
+    "slogan": "Challenge Your Mind with The Impossible Quiz",
+    "description": "The Impossible Quiz is a challenging online trivia game with very hard questions. The questions often have hidden meanings, tricks, and wordplay, so you'll need to think creatively. Each question has four possible answers, but only one is correct. There are a total of 110 questions to tackle. Play The Impossible Quiz now and test your skills!",
+    "Loading": {
+      "title": "Loading The Impossible Quiz..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "The Impossible Quiz",
+      "description": "Play The Impossible Quiz, a challenging trivia game with tricky questions and creative thinking required.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "The Impossible Quiz",
+      "whatIsTitle": "What is The Impossible Quiz?",
+      "whatIsDescription": "The Impossible Quiz is a challenging online trivia game with very hard questions. The questions often have hidden meanings, tricks, and wordplay, so you'll need to think creatively.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Answer each question by selecting one of the four possible answers.",
+      "howToPlayStep2": "Think creatively as questions may have hidden meanings or tricks.",
+      "howToPlayStep3": "Complete all 110 questions to finish the quiz.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Challenging Questions",
+      "feature1Description": "The Impossible Quiz features very hard questions that require creative thinking.",
+      "feature2Title": "Hidden Meanings",
+      "feature2Description": "Many questions have hidden meanings, tricks, and wordplay.",
+      "feature3Title": "Multiple Choice",
+      "feature3Description": "Each question has four possible answers, but only one is correct.",
+      "feature4Title": "110 Questions",
+      "feature4Description": "The Impossible Quiz includes a total of 110 questions to tackle."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+World's Hardest Game is a popular and challenging puzzle game that lives up to its name by offering a formidable gaming experience. The game tests players' reflexes, patience, and problem-solving abilities through a series of progressively difficult levels.

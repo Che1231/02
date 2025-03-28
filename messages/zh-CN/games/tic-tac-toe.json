@@ -1,0 +1,77 @@
+{
+  "tic-tac-toe": {
+    "title": "在线玩井字棋 | 经典的 X 和 O 游戏",
+    "slogan": "享受井字棋的永恒乐趣！",
+    "description": "井字棋，也称为圈圈叉叉，是一款经典且受各个年龄段人群喜爱的游戏。它是一款简单而引人入胜的游戏，在一个 3x3 格子的棋盘上进行。目标是在水平、垂直或对角线上创建三个相同符号（X 或 O）的连线。现在玩井字棋，挑战你的朋友！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建于",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一步",
+      "previous": "上一步"
+    },
+    "HomeIframe": {
+      "title": "井字棋 | 经典的 X 和 O 游戏",
+      "description": "在线玩经典的井字棋游戏。挑战你的朋友，看看谁先得到三个连珠！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL 已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "玩游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "井字棋 | 经典的 X 和 O 游戏",
+      "whatIsTitle": "井字棋是什么？",
+      "whatIsDescription": "井字棋，也称为圈圈叉叉，是一款经典且受各个年龄段人群喜爱的游戏。它是一款简单而引人入胜的游戏，在一个 3x3 格子的棋盘上进行。",
+      "howToPlayTitle": "游戏玩法",
+      "howToPlayStep1": "两名玩家轮流将自己选择的符号 (X 或 O) 放置在棋盘的空格中。",
+      "howToPlayStep2": "第一个玩家通常先用 X，第二个玩家随后用 O。",
+      "howToPlayStep3": "游戏继续，直到一名玩家成功形成三连线，或者棋盘上的所有格子都被填满，结果是平局。",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "简单的规则",
+      "feature1Description": "易于学习和游戏，使各个年龄段的人都能玩。",
+      "feature2Title": "快速游戏",
+      "feature2Description": "节奏快，非常适合短时间的休息。",
+      "feature3Title": "战略思考",
+      "feature3Description": "鼓励玩家预先考虑并计划他们的行动。",
+      "feature4Title": "无穷乐趣",
+      "feature4Description": "可重复玩，并且与不同的对手对抗总是有挑战性。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "类别",
+      "noCategories": "未找到类别",
+      "viewMore": "查看更多",
+      "page": "页"
+    }
+  }
+}

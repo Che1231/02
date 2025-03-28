@@ -1,0 +1,77 @@
+{
+  "dinosaur-game": {
+    "title": "Gioco del Dinosauro Online - Avventura Endless Runner",
+    "slogan": "Salta, corri, sopravvivi!",
+    "description": "Dinosaur Game, noto anche come Chrome Dino o T-Rex Runner, è un popolare gioco endless runner a scorrimento orizzontale. Gioca offline su Google Chrome e controlla un T-Rex pixelato per navigare in un paesaggio desertico pieno di cactus e pterodattili volanti. Sopravvivi il più a lungo possibile saltando sopra o accovacciandoti sotto gli ostacoli. Prova Dinosaur Game ora e domina questa avvincente avventura arcade!",
+    "Loading": {
+      "title": "Caricamento..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Creato Alle",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla Privacy",
+      "termsOfServices": "Termini di Servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Link Utili",
+      "articleList": "Elenco Articoli",
+      "home": "Home",
+      "next": "Successivo",
+      "previous": "Precedente"
+    },
+    "HomeIframe": {
+      "title": "Gioco del Dinosauro",
+      "description": "Dinosaur Game, noto anche come Chrome Dino o T-Rex Runner, è un popolare gioco endless runner a scorrimento orizzontale. Gioca offline su Google Chrome e controlla un T-Rex pixelato per navigare in un paesaggio desertico pieno di cactus e pterodattili volanti. Sopravvivi il più a lungo possibile saltando sopra o accovacciandoti sotto gli ostacoli. Prova Dinosaur Game ora e domina questa avvincente avventura arcade!",
+      "iframeTitle": "Anteprima del Gioco",
+      "fullscreenButton": "Schermo intero",
+      "shareButton": "Condividi",
+      "urlCopied": "URL copiato negli appunti!",
+      "downloadGame": "Scarica il Gioco",
+      "playGame": "Gioca"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Gioco del Dinosauro",
+      "whatIsTitle": "Cos'è Dinosaur Game?",
+      "whatIsDescription": "Dinosaur Game, noto anche come Chrome Dino o T-Rex Runner, è un popolare gioco endless runner a scorrimento orizzontale che può essere giocato offline su Google Chrome. Controlla un T-Rex pixelato e naviga in un paesaggio desertico pieno di cactus e pterodattili volanti.",
+      "howToPlayTitle": "Come Giocare",
+      "howToPlayStep1": "Premi il tasto spazio per saltare sopra i cactus.",
+      "howToPlayStep2": "Premi la freccia in basso per accovacciarti sotto i pterodattili volanti.",
+      "howToPlayStep3": "Sopravvivi il più a lungo possibile per ottenere un punteggio elevato.",
+      "keyFeaturesTitle": "Caratteristiche Principali",
+      "feature1Title": "Design Minimalista",
+      "feature1Description": "Goditi uno stile artistico pixelato pulito e semplice.",
+      "feature2Title": "Gameplay Avvincente",
+      "feature2Description": "Vivi divertimento senza fine con ostacoli impegnativi.",
+      "feature3Title": "Difficoltà in Crescita",
+      "feature3Description": "Il gioco diventa più difficile man mano che avanzi, mantenendoti impegnato.",
+      "feature4Title": "Gioco Offline",
+      "feature4Description": "Gioca a Dinosaur Game in qualsiasi momento, anche senza connessione internet."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Consigliati"
+    },
+    "HomeComments": {
+      "title": "Commenti al Gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i Giochi",
+      "description": "Tutti i Giochi",
+      "games": "Giochi"
+    },
+    "CategoryPage": {
+      "categories": "Categorie",
+      "noCategories": "Nessuna categoria trovata",
+      "viewMore": "Visualizza di Più",
+      "page": "Pagina"
+    }
+  }
+}

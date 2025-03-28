@@ -1,0 +1,77 @@
+{
+  "stickman-school-run": {
+    "title": "Stickman School Run : Saut et Dépassement des Obstacles",
+    "slogan": "Frappez à travers un terrain accidenté et terminez tous les niveaux !",
+    "description": "Sautez et surmontez les obstacles pour permettre au garçon d’atteindre sa bien-aimée dans Stickman School Run. Ce jeu sur le thème de l'école offre un gameplay de course et de saut créatif. Contrôlez un homme-bâton, en vous déplaçant sur des plateformes et des obstacles difficiles. Avec 100 niveaux, chacun conçu pour tester votre souplesse et vos réactions rapides, Stickman School Run vous maintient engagé et concentré. Jouez maintenant et découvrez un mélange de magie et de défi !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer À",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de Confidentialité",
+      "termsOfServices": "Conditions d'Utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des Articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Stickman School Run",
+      "description": "Découvrez le frisson de Stickman School Run, un jeu qui allie créativité et défi. Naviguez à travers 100 niveaux, chacun proposant des obstacles et des plateformes uniques. Jouez maintenant et voyez si vous pouvez atteindre la fin !",
+      "iframeTitle": "Aperçu du Jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le Jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Stickman School Run",
+      "whatIsTitle": "Qu'est-ce que Stickman School Run ?",
+      "whatIsDescription": "Stickman School Run est un jeu sur le thème de l'école où vous contrôlez un homme-bâton, en vous déplaçant sur des plateformes et des obstacles difficiles pour atteindre sa petite amie.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Appuyez sur la flèche du haut pour faire sauter le personnage.",
+      "howToPlayStep2": "Maintenez la flèche du haut enfoncée pour zoomer sur la règle, repoussant les boîtes qui se mettent en travers.",
+      "howToPlayStep3": "Utilisez la flèche de droite pour faire faire un mouvement au personnage, évitant les collisions avec le combo.",
+      "keyFeaturesTitle": "Principales Caractéristiques",
+      "feature1Title": "100 Niveaux Défiant",
+      "feature1Description": "Chaque niveau est conçu pour tester votre souplesse et vos réactions rapides.",
+      "feature2Title": "Changements Dynamiques de la Carte",
+      "feature2Description": "Les cartes peuvent changer lorsque vous rejouez un niveau, offrant de nouveaux défis à chaque fois.",
+      "feature3Title": "Gameplay Créatif",
+      "feature3Description": "Contrôlez un homme-bâton, en vous déplaçant sur des obstacles et des plateformes uniques.",
+      "feature4Title": "Mécaniques Captivantes",
+      "feature4Description": "Utilisez différentes commandes pour surmonter différents types d'obstacles."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux Questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du Jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires de Jeu"
+    },
+    "GamePage": {
+      "title": "Tous les Jeux",
+      "description": "Tous les Jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir Plus",
+      "page": "Page"
+    }
+  }
+}

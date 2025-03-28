@@ -1,0 +1,77 @@
+{
+  "cubito": {
+    "title": "キュビト：挑戦を開封する",
+    "slogan": "キュビトで挑戦を開封しましょう！",
+    "description": "魅力的な冒険に乗り出し、キュビトの世界で、心を揺さぶるパズルに乗りこなし、障害をかわしてください。鮮やかな立方体の世界でアイテムを集め、挑戦に打ち勝ち、隠された秘密を発見しましょう。テンポの良いカラフルな旅に没頭し、反射神経を試して素晴らしいスコアを獲得してください。キュビトで遊ぶ準備はできましたか？今すぐ冒険を始めましょう！",
+    "Loading": {
+      "title": "読み込み中…"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "キュビト：挑戦を開封する",
+      "description": "テンポの速い冒険ゲーム、キュビトのスリルを体験してください。鮮やかな立方体の世界でアイテムを集め、障害を克服し、秘密を発見してください。反射神経を試して、この魅力的な旅に没頭しましょう。今すぐキュビトをプレイして、どれだけ遠くまで行けるか見てください！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "キュビト：挑戦を開封する",
+      "whatIsTitle": "キュビトとは？",
+      "whatIsDescription": "キュビトは、プレイヤーが鮮やかな立方体の世界を移動し、アイテムを集め、障害を克服し、隠された秘密を発見する魅力的な冒険ゲームです。テンポの速いゲームプレイは、高い反射神経と集中力を必要とし、素晴らしいスコアを獲得するために欠かせません。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "マウスをクリックしてキャラクターをプラットフォーム上を移動してください。",
+      "howToPlayStep2": "各キーを押すことでレーンを切り替えて、隙間や障害物を避けましょう。",
+      "howToPlayStep3": "高得点を獲得するために、アイテムを集め、挑戦を乗り越えてください。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "テンポの速いゲームプレイ",
+      "feature1Description": "キュビトのゲームプレイは、テンポの速いアクションで、あなたの反射神経と集中力を試すように設計されています。",
+      "feature2Title": "鮮やかな立方体の世界",
+      "feature2Description": "シンプルでありながら挑戦的な立方体で構成された、カラフルで多様な世界に没頭してください。",
+      "feature3Title": "覚えやすいトラックデザイン",
+      "feature3Description": "キュビトのメイントラックは、各リプレイ後も変わりません。記憶を通してパフォーマンスを向上させるのに役立ちます。",
+      "feature4Title": "新しい障害への適応",
+      "feature4Description": "新しい障害に注意し、それらを避けて高得点を獲得するためにすばやく適応してください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

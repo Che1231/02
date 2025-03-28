@@ -1,0 +1,77 @@
+{
+  "gartic-io": {
+    "title": "Gartic.io：オンラインマルチプレイヤーの描画＆単語当てゲーム",
+    "slogan": "描画して、当てて、楽しんで！",
+    "description": "Gartic.ioは、創造性と単語当てもが融合した、エキサイティングなオンラインマルチプレイヤーゲームです。プレイヤーは交互に描画して、単語を当てることで、楽しくて挑戦的なゲーム体験を提供します。アーティストであろうと、語彙力豊かな方であろうと、Gartic.ioは無限のエンターテイメントを提供します。今すぐ参加して、無料でプレイを始めましょう！",
+    "Loading": {
+      "title": "読み込み中…"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "Gartic.io：オンラインで描画＆単語当て",
+      "description": "Gartic.ioの興奮体験を！オンラインで友達や他人と描画、単語当てをして楽しんでください。あらゆる年齢層に最適なこのゲームは、創造的で魅力的な方法であなたの芸術的才能と単語当てるスキルを試します。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Gartic.io：究極の描画＆単語当てゲーム",
+      "whatIsTitle": "Gartic.ioとは何ですか？",
+      "whatIsDescription": "Gartic.ioは、プレイヤーが交互に描画して単語を当てるオンラインマルチプレイヤーゲームです。芸術的才能と単語当てるスキルを試す、楽しくクリエイティブな方法です。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "あなたに与えられた単語を描画します。",
+      "howToPlayStep2": "他のプレイヤーは、あなたが描いているものを当てます。",
+      "howToPlayStep3": "正しい推測と創造的な描画でポイントを獲得します。",
+      "keyFeaturesTitle": "主な機能",
+      "feature1Title": "マルチプレイヤーの楽しみ",
+      "feature1Description": "世界中からの友達や他人とプレイします。",
+      "feature2Title": "創造的な描画",
+      "feature2Description": "様々な描画ツールを使ってあなたの芸術性を表現します。",
+      "feature3Title": "単語当て",
+      "feature3Description": "幅広い単語であなたの単語当てるスキルを試します。",
+      "feature4Title": "無限のエンターテイメント",
+      "feature4Description": "無限のラウンドの楽しく創造的な楽しみを体験してください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームのビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームのコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

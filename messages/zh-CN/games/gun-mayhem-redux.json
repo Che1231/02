@@ -1,0 +1,77 @@
+{
+  "gun-mayhem-redux": {
+    "title": "枪战狂潮重制版 - 多人射击游戏",
+    "slogan": "用各种武器和道具轰炸你的对手！",
+    "description": "《枪战狂潮重制版》是一款快节奏的多人射击游戏，挑战你成为一名专业的枪手。 通过紧张刺激的战斗，你需要灵活运用技巧，实施有效的攻击来击败对手。开启神秘宝箱来强化你的武器，不断移动来结合躲避和攻击策略。现在就玩《枪战狂潮重制版》，体验刺激的快感！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一个",
+      "previous": "上一个"
+    },
+    "HomeIframe": {
+      "title": "枪战狂潮重制版 - 多人射击游戏",
+      "description": "加入快节奏的多人射击游戏《枪战狂潮重制版》，用各种武器和道具轰炸你的对手。体验紧张刺激的战斗，成为一名专业的枪手。现在就玩！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "枪战狂潮重制版 - 多人射击游戏",
+      "whatIsTitle": "枪战狂潮重制版是什么？",
+      "whatIsDescription": "《枪战狂潮重制版》是一款快节奏的多人射击游戏，你需要运用各种武器和道具来消灭对手。 游戏挑战你成为一名专业的枪手，并经历紧张刺激的战斗。",
+      "howToPlayTitle": "如何玩耍",
+      "howToPlayStep1": "使用各种武器和道具轰炸你的对手。",
+      "howToPlayStep2": "开启神秘宝箱来强化你的武器。",
+      "howToPlayStep3": "不断移动来结合躲避和攻击策略。",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "快节奏多人射击游戏",
+      "feature1Description": "在一个多人射击环境中体验紧张刺激的战斗。",
+      "feature2Title": "各种武器和道具",
+      "feature2Description": "用各种武器和道具轰炸你的对手。",
+      "feature3Title": "成为一名专业的枪手",
+      "feature3Description": "在紧张激烈的游戏中挑战自己成为专业的枪手。",
+      "feature4Title": "灵活的临场发挥",
+      "feature4Description": "灵活运用技巧实施有效的攻击和策略。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页"
+    }
+  }
+}

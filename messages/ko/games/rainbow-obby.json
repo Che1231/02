@@ -1,0 +1,77 @@
+{
+  "rainbow-obby": {
+    "title": "무지개 옵비: 무료 온라인 모험 게임",
+    "slogan": "색깔있는 세계가 당신을 기다립니다!",
+    "description": "무지개 옵비는 활기찬 세계의 파쿠르 챌린지로 열려 있습니다. 무지개 플랫폼과 숨막히는 반전을 갖고 모험을 시작하세요. 네 가지 독특한 게임 모드 중에서 선택하고 가장 매력적인 플랫폼 게임의 짜릿함을 경험하세요. 지금 무지개 옵비를 플레이하고 다채로운 재미에 푹 빠지세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인 정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "무지개 옵비",
+      "description": "도전적인 파쿠르 게임플레이로 무지개 옵비의 활기찬 세계를 경험하세요. 네 가지 독특한 모드 중에서 선택하고 다채로운 모험을 즐기세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "무지개 옵비",
+      "whatIsTitle": "무지개 옵비는 무엇인가요?",
+      "whatIsDescription": "무지개 옵비는 어려운 챌린지와 화려한 파쿠르 게임플레이가 가득한 활기찬 플랫폼 게임입니다. 플레이어는 무지개 플랫폼과 독특한 경험으로 모험을 떠납니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "네 가지 사용 가능한 옵션 중에서 게임 모드를 선택하세요.",
+      "howToPlayStep2": "무지개 플랫폼을 따라 이동하고 장애물을 피하세요.",
+      "howToPlayStep3": "코스를 완료하고 최고 점수를 달성하세요!",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "네 가지 게임 모드",
+      "feature1Description": "각각 고유한 규칙과 챌린지가 있는 네 가지 독특한 게임 모드 중에서 선택하세요.",
+      "feature2Title": "색채 넘치는 파쿠르",
+      "feature2Description": "화려한 무지개 플랫폼으로 눈부신 파쿠르 게임플레이를 경험하세요.",
+      "feature3Title": "도전적인 장애물",
+      "feature3Description": "까다로운 챌린지와 숨막히는 반전과 회전에 직면하세요.",
+      "feature4Title": "매력적인 모험",
+      "feature4Description": "도전을 좋아하는 캐릭터 옵비와 함께 흥미진진한 모험을 떠나세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 코멘트"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

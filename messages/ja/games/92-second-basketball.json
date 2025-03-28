@@ -1,0 +1,77 @@
+{
+  "92-second-basketball": {
+    "title": "92秒バスケットボール - 無料オンラインスポーツゲーム",
+    "slogan": "92秒バスケットボールで、スポーツゲームの世界における究極のアライメント能力を披露してください。",
+    "description": "92秒バスケットボールは、バスケットにボールをシュートしてポイントを獲得する、ユニークで楽しいスポーツゲームです。プレイヤーのスキルと集中力を試すように設計されたこのゲームは、高速でスリリングな体験を提供します。プレイヤーの課題は、92秒以内に必要なポイントを獲得することです。各成功したシュートで、ポイントと時間が加算され、時間制限内で可能な限り高いスコアを目指します。今すぐ92秒バスケットボールをプレイして、素晴らしいダンクでプロバスケットボール選手になりましょう！",
+    "Loading": {
+      "title": "読み込み中…"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "サービス利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "92秒バスケットボール",
+      "description": "92秒バスケットボールは、バスケットにボールをシュートしてポイントを獲得する、ユニークで楽しいスポーツゲームです。今すぐプレイしてスキルをテストしてください！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "フルスクリーン",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "92秒バスケットボール",
+      "whatIsTitle": "92秒バスケットボールとは？",
+      "whatIsDescription": "92秒バスケットボールは、バスケットにボールをシュートしてポイントを獲得する、ユニークで楽しいスポーツゲームです。プレイヤーのスキルと集中力を試すように設計されたこのゲームは、高速でスリリングな体験を提供します。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "ボールが静止しているときにシュートします。",
+      "howToPlayStep2": "矢印を使用して方向とシュート力を調整します。",
+      "howToPlayStep3": "バスケットにボールをシュートしてポイントを獲得します。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "高速なゲームプレイ",
+      "feature1Description": "可能な限り多くのポイントを獲得するために、スリリングな92秒間のチャレンジを体験してください。",
+      "feature2Title": "スキルベースのメカニズム",
+      "feature2Description": "ゲームをマスターするための、アライメントとシュートスキルのテスト。",
+      "feature3Title": "時間延長",
+      "feature3Description": "各成功したシュートで、ゲームをエキサイティングに保つために、クロックに時間が加算されます。",
+      "feature4Title": "魅力的なループ",
+      "feature4Description": "時間制限内で可能な限り高いスコアを目指してください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

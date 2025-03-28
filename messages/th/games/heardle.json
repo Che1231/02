@@ -1,0 +1,77 @@
+{
+  "heardle": {
+    "title": "Heardle: การท้าทายการเดาเพลงประจำวัน",
+    "slogan": "ทดสอบความรู้ทางดนตรีของคุณด้วย Heardle",
+    "description": "Heardle เป็นเกมส์เดาเพลงประจำวัน ที่ท้าทายให้คุณระบุเพลงยอดนิยมในเพียงหกครั้ง Heardle ได้รับแรงบันดาลใจจาก Wordle โดยเน้นไปที่ดนตรี ด้วยการบอกเบาะแสเพียงเล็กน้อย คุณจะต้องพึ่งพาความคิดสร้างสรรค์ทางด้านดนตรีและความรู้ด้านประเภทดนตรี เพื่อสร้างสถิติชนะที่น่าประทับใจ พร้อมที่จะทดสอบทักษะของคุณหรือยัง เล่น Heardle ตอนนี้!",
+    "Loading": {
+      "title": "กำลังโหลด Heardle..."
+    },
+    "Navbar": {
+      "title": "แถบนำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์ที่เป็นมิตร",
+      "articleList": "รายการบทความ",
+      "home": "หน้าแรก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "Heardle: การท้าทายการเดาเพลงประจำวัน",
+      "description": "ท้าทายตัวเองด้วย Heardle เกมส์เดาเพลงประจำวัน ระบุเพลงยอดนิยมในหกครั้งและแสดงความรู้ด้านดนตรีของคุณ เล่นเลย!",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ไปยังคลิปบอร์ดแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Heardle: การท้าทายการเดาเพลงประจำวัน",
+      "whatIsTitle": "Heardle คืออะไร?",
+      "whatIsDescription": "Heardle เป็นเกมส์เดาเพลงประจำวัน  โดยผู้เล่นมีโอกาสหกครั้งในการระบุเพลงของวัน  เป็นการนำเสนอเกมส์ Wordle ที่เป็นเอกลักษณ์ในเรื่องดนตรี",
+      "howToPlayTitle": "วิธีการเล่น",
+      "howToPlayStep1": "ฟังตัวอย่างเพลงที่ให้มา",
+      "howToPlayStep2": "เดาชื่อเพลงหรือศิลปิน",
+      "howToPlayStep3": "คุณมีโอกาสเดาหกครั้งในการเดาให้ถูกต้อง",
+      "keyFeaturesTitle": "คุณสมบัติหลัก",
+      "feature1Title": "การท้าทายประจำวัน",
+      "feature1Description": "เพลงใหม่ให้เดาทุกวัน",
+      "feature2Title": "เบาะแสน้อย",
+      "feature2Description": "ระบุเพลงด้วยตัวอย่างสั้น ๆ",
+      "feature3Title": "เพลงฮิต",
+      "feature3Description": "มีเพลงฮิตจากศิลปินชื่อดัง",
+      "feature4Title": "สถิติชนะ",
+      "feature4Description": "สร้างสถิติชนะของคุณโดยการเดาให้ถูกต้อง"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วีดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นเกี่ยวกับการเล่นเกม"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

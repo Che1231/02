@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Como começar a jogar Sedecordle como um iniciante completo?",
+    "answer": "Para começar a jogar Sedecordle, siga estas etapas: ETAPA 1 - Visite o site oficial do Sedecordle ou baixe o aplicativo. ETAPA 2 - Clique em 'Novo Jogo' para começar. ETAPA 3 - Você verá uma grade com 16 quebra-cabeças individuais do Wordle. Comece adivinhando uma palavra de 5 letras para o primeiro quebra-cabeça. Exemplo: Se você adivinhar 'GRUA' e as letras ficarem verdes, significa que estão corretas. Repita esse processo para todos os 16 quebra-cabeças. [Exemplo: Pense nisso como resolver 16 mini-Wordles simultaneamente, cada um contribuindo para o desafio maior do Sedecordle.]"
+  },
+  {
+    "question": "Quais são as regras básicas do Sedecordle que todo novo jogador deve conhecer?",
+    "answer": "As regras básicas do Sedecordle são diretas: 1) Você tem 21 tentativas para resolver 16 quebra-cabeças do Wordle. 2) Cada quebra-cabeça requer uma palavra de 5 letras para adivinhar. 3) Letras corretas na posição correta ficam verdes, letras corretas na posição errada ficam amarelas e letras incorretas ficam cinzas. Exemplo: Se você adivinhar 'PLANTA' e 'P' e 'A' estiverem corretas, elas ficarão verdes. [Tabela de Referência: Sedecordle x Wordle - Sedecordle tem 16 quebra-cabeças x Wordle tem 1, e 21 tentativas x Wordle tem 6.]"
+  },
+  {
+    "question": "Quais estratégias podem me ajudar a melhorar meu jogo Sedecordle como iniciante?",
+    "answer": "Melhorar seu jogo Sedecordle envolve estas estratégias: ETAPA 1 - Comece com palavras de 5 letras comuns que contêm muitas vogais, como 'ÁUDIO'. ETAPA 2 - Use o feedback de cada tentativa para eliminar letras impossíveis para outros quebra-cabeças. ETAPA 3 - Concentre-se em resolver quebra-cabeças mais fáceis primeiro para ganhar impulso. Exemplo: Se 'ÁUDIO' revelar que 'A' e 'I' estão corretas, use essa informação em todos os 16 quebra-cabeças. [Comparação de Soluções: Começar com 'ÁUDIO' vs. 'GRUA' - 'ÁUDIO' abrange mais vogais, o que pode ser mais informativo inicialmente.]"
+  },
+  {
+    "question": "Por que é importante gerenciar as tentativas de forma eficiente no Sedecordle e como posso fazer isso?",
+    "answer": "Gerenciar as tentativas de forma eficiente no Sedecordle é crucial porque você só tem 21 tentativas para resolver 16 quebra-cabeças. ETAPA 1 - Aloque tentativas com base na dificuldade do quebra-cabeça; resolva os mais fáceis primeiro. ETAPA 2 - Use letras compartilhadas entre os quebra-cabeças para maximizar o ganho de informações. ETAPA 3 - Evite tentativas redundantes, acompanhando as letras eliminadas. Exemplo: Se 'GRUA' eliminar 'G' e 'R' em vários quebra-cabeças, você pode se concentrar em outras letras. [Fluxograma: Fluxo de Alocação de Tentativas - Quebra-cabeças Fáceis → Letras Compartilhadas → Eliminar Redundâncias.]"
+  },
+  {
+    "question": "Quais técnicas avançadas podem me ajudar a resolver os quebra-cabeças Sedecordle mais rápido?",
+    "answer": "Técnicas avançadas para resolver o Sedecordle mais rápido incluem: ETAPA 1 - Use uma abordagem de 'banco de palavras', mantendo uma lista de palavras possíveis para cada quebra-cabeça. ETAPA 2 - Implemente 'análise cruzada de quebra-cabeças' para identificar padrões de letras sobrepostos. ETAPA 3 - Priorize quebra-cabeças com mais restrições para reduzir a incerteza. Exemplo: Se o Quebra-cabeça 1 tiver 'A' e 'E' confirmadas, use isso para reduzir as possibilidades nos Quebra-cabeças de 2 a 16. [Exemplo: Pense nisso como um jogo de xadrez onde cada jogada (adivinhação) influencia múltiplos tabuleiros (quebra-cabeças) simultaneamente.]"
+  },
+  {
+    "question": "Como posso otimizar minha estratégia de seleção de palavras no Sedecordle?",
+    "answer": "Otimizar a seleção de palavras no Sedecordle envolve: ETAPA 1 - Escolha palavras que abrangem uma ampla gama de letras e vogais comuns. ETAPA 2 - Use o processo de eliminação para descartar palavras que não se encaixam no feedback. ETAPA 3 - Reutilize letras confirmadas em vários quebra-cabeças para minimizar as tentativas. Exemplo: Se 'ÁUDIO' confirmar 'A' e 'I', priorize palavras que contenham essas letras em outros quebra-cabeças. [Tabela de Referência: Estratégia de Seleção de Palavras - Ampla Abrangeência vs. Foco Estreito, com exemplos como 'ÁUDIO' vs. 'GRUA'.]"
+  },
+  {
+    "question": "Quais são os mecanismos subjacentes ao sistema de pontuação do Sedecordle?",
+    "answer": "O sistema de pontuação do Sedecordle baseia-se no número de tentativas usadas para resolver todos os 16 quebra-cabeças. Quanto menos tentativas forem usadas, maior será a sua pontuação. Exemplo: Resolver todos os quebra-cabeças em 15 tentativas pontuará mais alto do que resolvê-los em 20 tentativas. [Análise do Sistema: Mecanismo de Pontuação - Cada tentativa reduz sua pontuação potencial, e tentativas não usadas adicionam pontos de bônus. A fórmula é: Pontuação = (21 - Tentativas Usadas) * 10 + Bônus.]"
+  },
+  {
+    "question": "Como o algoritmo de geração de quebra-cabeças do Sedecordle garante justiça e variedade?",
+    "answer": "O algoritmo de geração de quebra-cabeças do Sedecordle garante justiça e variedade: 1) Seleciona aleatoriamente palavras de uma lista selecionada de palavras de 5 letras comuns. 2) Garante que cada quebra-cabeça seja independente, mas possa compartilhar letras com outros. 3) Equilibra a dificuldade, incluindo palavras comuns e menos comuns. Exemplo: O Quebra-cabeça 1 pode ter 'GRUA' enquanto o Quebra-cabeça 2 tem 'PLANTA', compartilhando a letra 'A'. [Análise do Sistema: Algoritmo de Geração de Quebra-cabeças - Seleção Aleatória + Quebra-cabeças Independentes + Equilíbrio de Dificuldades.]"
+  },
+  {
+    "question": "Posso transferir meu progresso no Sedecordle entre dispositivos diferentes?",
+    "answer": "Sim, você pode transferir seu progresso no Sedecordle entre dispositivos. ETAPA 1 - Certifique-se de que você esteja logado na mesma conta em ambos os dispositivos. ETAPA 2 - Use o recurso de salvamento na nuvem para sincronizar seu progresso. ETAPA 3 - Se encontrar problemas, limpe o cache e tente novamente. Exemplo: O progresso do seu telefone pode ser acessível no seu tablet ao fazer login na mesma conta. [Comparação de Soluções: Sincronização na Nuvem vs. Salvamento Manual - A sincronização na nuvem é automática, mas requer uma conta, enquanto o salvamento manual é offline, mas menos conveniente.]"
+  },
+  {
+    "question": "Existem recursos ocultos ou ovos de Páscoa no Sedecordle que os jogadores podem não conhecer?",
+    "answer": "O Sedecordle inclui recursos ocultos como: 1) Um 'Modo Escuro' para uma melhor experiência noturna. 2) Conquistas ocultas por resolver todos os quebra-cabeças em tempo recorde. 3) Animações especiais ao completar todos os 16 quebra-cabeças. Exemplo: Completar todos os quebra-cabeças em menos de 15 tentativas aciona uma animação especial de fogos de artifício. [Descobrindo o Segredo: Recursos Ocultos - Modo Escuro, Conquistas Ocultas, Animações Especiais.]"
+  }
+]

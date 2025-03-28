@@ -1,0 +1,77 @@
+{
+  "redactle": {
+    "title": "Redactle - Play Free Online Word-Guessing Game",
+    "slogan": "Uncover the Hidden Article - Play Redactle Now!",
+    "description": "Redactle is a challenging word-guessing game where you play as a newspaper editor trying to uncover the topic of a hidden Wikipedia article. With most words hidden, you must use your deduction skills to identify the subject and related keywords. The more words you guess correctly, the closer you get to solving the mystery. Perfect for puzzle enthusiasts, Redactle offers a unique and engaging gameplay experience. Start playing Redactle today and test your knowledge!",
+    "Loading": {
+      "title": "Loading Redactle - Please Wait"
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Redactle - Play Free Online Word-Guessing Game",
+      "description": "Redactle is a challenging word-guessing game where you play as a newspaper editor trying to uncover the topic of a hidden Wikipedia article. With most words hidden, you must use your deduction skills to identify the subject and related keywords. The more words you guess correctly, the closer you get to solving the mystery. Perfect for puzzle enthusiasts, Redactle offers a unique and engaging gameplay experience. Start playing Redactle today and test your knowledge!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Redactle - Play Free Online Word-Guessing Game",
+      "whatIsTitle": "What is Redactle?",
+      "whatIsDescription": "Redactle is a challenging word-guessing game where you play as a newspaper editor trying to uncover the topic of a hidden Wikipedia article. With most words hidden, you must use your deduction skills to identify the subject and related keywords.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Start by guessing words that you think might be in the hidden article.",
+      "howToPlayStep2": "When you guess a word correctly, it will appear in all the places it was originally used in the text.",
+      "howToPlayStep3": "Continue guessing words until you can deduce the topic of the article. When you find the right topic, the game ends.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Challenging Gameplay",
+      "feature1Description": "Redactle offers a unique and challenging gameplay experience that tests your knowledge and deduction skills.",
+      "feature2Title": "Hidden Article",
+      "feature2Description": "The game hides most words in a random Wikipedia article, leaving you with only a few cues to work with.",
+      "feature3Title": "Deduction Skills",
+      "feature3Description": "You must use your deduction skills to identify the subject and related keywords in the hidden article.",
+      "feature4Title": "Engaging Experience",
+      "feature4Description": "Redactle provides an engaging and immersive experience that keeps you coming back for more."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

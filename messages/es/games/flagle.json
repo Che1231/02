@@ -1,0 +1,77 @@
+{
+  "flagle": {
+    "title": "Flagle - Adivina la Bandera y Aprende Geografía",
+    "slogan": "Expande tus conocimientos del mundo con Flagle",
+    "description": "Flagle es un juego educativo de adivinanza que te desafía a identificar banderas ocultas mientras aprendes sobre los países. Con seis intentos, descubre la bandera pieza por pieza y recibe pistas geográficas para mejorar tus habilidades. Flagle hace que aprender geografía sea divertido e interesante. ¡Empieza a jugar a Flagle hoy y explora el mundo!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Términos de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Flagle - Adivina la Bandera",
+      "description": "Flagle es un juego educativo de adivinanza que te desafía a identificar banderas ocultas mientras aprendes sobre los países. Con seis intentos, descubre la bandera pieza por pieza y recibe pistas geográficas para mejorar tus habilidades.",
+      "iframeTitle": "Vista Previa del Juego",
+      "fullscreenButton": "Pantalla Completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar Juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Flagle - Adivina la Bandera",
+      "whatIsTitle": "¿Qué es Flagle?",
+      "whatIsDescription": "Flagle es un juego educativo de adivinanza diseñado para ampliar tus conocimientos sobre países y el mundo. Adivina la bandera oculta y recibe pistas geográficas para mejorar tus habilidades.",
+      "howToPlayTitle": "¿Cómo jugar?",
+      "howToPlayStep1": "Adivina el país cuya bandera está oculta.",
+      "howToPlayStep2": "Utiliza no más de seis intentos.",
+      "howToPlayStep3": "Desbloquea otra parte de la bandera oculta con cada intento fallido.",
+      "keyFeaturesTitle": "Características Clave",
+      "feature1Title": "Educativo",
+      "feature1Description": "Flagle te ayuda a aprender sobre países y sus banderas.",
+      "feature2Title": "Desafiante",
+      "feature2Description": "Adivina la bandera oculta en seis intentos o menos.",
+      "feature3Title": "Interactivo",
+      "feature3Description": "Recibe pistas geográficas para guiar tus conjeturas.",
+      "feature4Title": "Atractivo",
+      "feature4Description": "Flagle hace que aprender geografía sea divertido e interactivo."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del Juego"
+    },
+    "GamePage": {
+      "title": "Todos los Juegos",
+      "description": "Todos los Juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

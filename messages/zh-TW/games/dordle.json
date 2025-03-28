@@ -1,0 +1,75 @@
+{
+  "dordle": {
+    "title": "Dordle：終極字謎挑戰",
+    "slogan": "雙倍字詞，雙倍樂趣",
+    "description": "Dordle 是一款令人興奮的 Wordle 變體，為遊戲玩法增添獨特元素。雖然基本機制保持不變，但 Dordle 挑戰玩家同時猜測兩個單詞才能取得進展。但別被表面上的簡單所迷惑，這個遊戲遠比想像中更具挑戰性。",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航",
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友好連結",
+      "articleList": "文章列表",
+      "home": "主頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "Dordle：終極字謎挑戰",
+      "description": "Dordle 是一款令人興奮的 Wordle 變體，為遊戲玩法增添獨特元素。雖然基本機制保持不變，但 Dordle 挑戰玩家同時猜測兩個單詞才能取得進展。但別被表面上的簡單所迷惑，這個遊戲遠比想像中更具挑戰性。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Dordle：終極字謎挑戰",
+      "whatIsTitle": "Dordle 是什麼？",
+      "whatIsDescription": "Dordle 是一款令人興奮的 Wordle 變體，為遊戲玩法增添獨特元素。雖然基本機制保持不變，但 Dordle 挑戰玩家同時猜測兩個單詞才能取得進展。但別被表面上的簡單所迷惑，這個遊戲遠比想像中更具挑戰性。",
+      "howToPlayTitle": "如何遊戲？",
+      "howToPlayStep1": "同時猜測兩個單詞。",
+      "howToPlayStep2": "利用反饋精煉你的猜測。",
+      "howToPlayStep3": "正確猜出兩個單詞即可取得進展。",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "雙倍的挑戰",
+      "feature1Description": "同時猜測兩個單詞，體驗獨特的遊戲體驗。",
+      "feature2Title": "增強的策略",
+      "feature2Description": "利用兩個單詞的反饋精煉你的猜測。",
+      "feature3Title": "引人入勝的遊戲體驗",
+      "feature3Description": "其創新的遊戲機制讓您欲罷不能。",
+      "feature4Title": "適合所有玩家",
+      "feature4Description": "容易上手，但卻難以精通。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

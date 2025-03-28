@@ -1,0 +1,77 @@
+{
+  "tic-tac-toe": {
+    "title": "Gioca a Tic Tac Toe Online | Gioco Classico X e O",
+    "slogan": "Vivi il divertimento senza tempo di Tic Tac Toe!",
+    "description": "Tic Tac Toe, noto anche come Morra Cinese, è un gioco classico e popolare apprezzato da persone di tutte le età. È un gioco semplice ma coinvolgente giocato su una griglia di 3x3 caselle. L'obiettivo è creare una linea di tre simboli identici (X o O) orizzontalmente, verticalmente o diagonalmente. Gioca a Tic Tac Toe ora e sfida i tuoi amici!",
+    "Loading": {
+      "title": "Caricamento..."
+    },
+    "Navbar": {
+      "title": "Navigazione"
+    },
+    "Common": {
+      "createAt": "Crea Alle",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla Privacy",
+      "termsOfServices": "Termini di Servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Collegamenti Utili",
+      "articleList": "Elenco Articoli",
+      "home": "Home",
+      "next": "Successivo",
+      "previous": "Precedente"
+    },
+    "HomeIframe": {
+      "title": "Tic Tac Toe | Gioco Classico X e O",
+      "description": "Gioca al gioco classico di Tic Tac Toe online. Sfida i tuoi amici e scopri chi può ottenere tre in fila per primo!",
+      "iframeTitle": "Anteprima del Gioco",
+      "fullscreenButton": "Schermo intero",
+      "shareButton": "Condividi",
+      "urlCopied": "URL copiato negli appunti!",
+      "downloadGame": "Scarica Gioco",
+      "playGame": "Gioca"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Tic Tac Toe | Gioco Classico X e O",
+      "whatIsTitle": "Cos'è Tic Tac Toe?",
+      "whatIsDescription": "Tic Tac Toe, noto anche come Morra Cinese, è un gioco classico e popolare apprezzato da persone di tutte le età. È un gioco semplice ma coinvolgente giocato su una griglia di 3x3 caselle.",
+      "howToPlayTitle": "Come Giocare",
+      "howToPlayStep1": "Due giocatori si alternano nel posizionare il loro simbolo scelto (X o O) su una casella vuota della griglia.",
+      "howToPlayStep2": "Il primo giocatore di solito inizia con X, e il secondo giocatore segue con O.",
+      "howToPlayStep3": "Il gioco continua fino a quando un giocatore forma una linea di tre simboli o tutte le caselle della griglia sono piene, risultando in un pareggio.",
+      "keyFeaturesTitle": "Caratteristiche Principali",
+      "feature1Title": "Regole Semplici",
+      "feature1Description": "Facile da imparare e giocare, accessibile a tutte le età.",
+      "feature2Title": "Gameplay Veloce",
+      "feature2Description": "Rapido e perfetto per brevi pause.",
+      "feature3Title": "Pensiero Strategico",
+      "feature3Description": "Incoraggia i giocatori a pensare in anticipo e pianificare le loro mosse.",
+      "feature4Title": "Divertimento Infinito",
+      "feature4Description": "Riproducibile e sempre una sfida con diversi avversari."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Raccomandati"
+    },
+    "HomeComments": {
+      "title": "Commenti al Gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i Giochi",
+      "description": "Tutti i Giochi",
+      "games": "Giochi"
+    },
+    "CategoryPage": {
+      "categories": "Categorie",
+      "noCategories": "Nessuna categoria trovata",
+      "viewMore": "Visualizza di Più",
+      "page": "Pagina"
+    }
+  }
+}

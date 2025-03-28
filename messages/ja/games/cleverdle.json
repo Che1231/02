@@ -1,0 +1,77 @@
+{
+  "cleverdle": {
+    "title": "オンライン クレバードル - 無料のワードパズルゲーム",
+    "slogan": "クレバードルであなたの語彙力を試してみてください！",
+    "description": "クレバードルは、語彙力と論理的思考力を試す、魅惑的なワードパズルゲームです。数百種類の多様なパズルで、クレバードルはエンターテイメントと精神的なトレーニングを独特の組み合わせで提供します。各レベルでは、6回の推測で5文字の単語を解くために創造性と戦略的な思考が必要です。クレバードルの世界に入り込み、謎と発見に満ちた旅を楽しんでください。今すぐプレイして、あなたの語彙力を向上させましょう！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "クレバードル™ - 無料のワードパズルゲーム",
+      "description": "クレバードルは、語彙力と論理的思考力を試す、挑戦的なワードパズルゲームです。今すぐプレイして、6回の推測で5文字の単語を解きましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "クレバードル™ -究極のワードパズルチャレンジ",
+      "whatIsTitle": "クレバードルとは？",
+      "whatIsDescription": "クレバードルは、エンターテイメントと脳トレを組み合わせたワードパズルゲームです。プレイヤーは6回の推測で5文字の単語を解き、語彙力と論理的思考力を向上させます。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "まず、5文字の単語を推測します。",
+      "howToPlayStep2": "色のヒントを使って、次の推測を絞り込みます。",
+      "howToPlayStep3": "6回の試み以内に単語を解いて勝利してください！",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "挑戦的なパズル",
+      "feature1Description": "あなたの語彙力を試す、数百種類の多様なパズルがあります。",
+      "feature2Title": "脳トレ",
+      "feature2Description": "各レベルで語彙力と論理的思考力を向上させます。",
+      "feature3Title": "戦略的なゲームプレイ",
+      "feature3Description": "戦略的な思考を使って、わずか6回の推測で5文字の単語を解きます。",
+      "feature4Title": "魅力的な体験",
+      "feature4Description": "クレバードルで、謎と発見に満ちた旅をお楽しみください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

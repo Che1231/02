@@ -1,0 +1,77 @@
+{
+  "recoil": {
+    "title": "Recoil: Geri tepmeyi ustalaşın ve savaş alanını ele geçirin",
+    "slogan": "Recoil, sıradan bir nişancı oyunu değil. Patlatmaya hazır olun!",
+    "description": "Recoil, sizi eşsiz nişancı oyun mekaniğiyle renkli bir oyun dünyasına götürüyor. Geri tepmeyi ustalaşın, çılgınca seviyelerden geçin ve savaş alanını ele geçirin. Beceri ve yaratıcılığın birleşimi size muhteşem bir zafer getirecektir. Kesin fiziğe dayalı oyun mekaniği karşılaşacağınız en büyük zorluk da olabilir. Zirveyi fethetmeye hazır mısınız? Şimdi Recoil'i oynayın!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Zamanı",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Recoil",
+      "description": "Fiziğe dayalı zorluklarla dolu, eşsiz bir nişancı oyunu Recoil'in heyecanını yaşayın. Her atışta ustalaşın ve zaferi elde edin!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Recoil",
+      "whatIsTitle": "Recoil Nedir?",
+      "whatIsDescription": "Recoil, beceri ve stratejiyi birleştiren hızlı tempolu bir nişancı oyunudur. Geri tepmeyi ustalaşın ve savaş alanında hakimiyet kurun!",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Geri tepmeyi hesaba katarak dikkatlice nişan alın.",
+      "howToPlayStep2": "Zorlu seviyelerde ilerlemek için becerilerinizi kullanın.",
+      "howToPlayStep3": "Fiziğe dayalı oyun mekaniğini ustalaşarak zaferi elde edin.",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Eşsiz Nişancı Mekaniği",
+      "feature1Description": "Geri tepmeyi ustalaşmanın heyecanını yaşayın.",
+      "feature2Title": "Renkli Oyun Dünyası",
+      "feature2Description": "Kendinizi canlı ve dinamik bir ortamda bulun.",
+      "feature3Title": "Fiziğe Dayalı Zorluklar",
+      "feature3Description": "Kesin fiziğe dayalı oyun mekaniğiyle yüzleşin ve üstesinden gelin.",
+      "feature4Title": "Beceri ve Strateji",
+      "feature4Description": "Zaferi elde etmek için beceri ve zekayı birleştirin."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Hiç kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

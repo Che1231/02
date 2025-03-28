@@ -1,0 +1,77 @@
+{
+  "toaster-dash": {
+    "title": "Toaster Dash: Aventura de Horneado de Ritmo Rápido",
+    "slogan": "¡Aventura en el mundo de los pasteles!",
+    "description": "Toaster Dash ofrece un emocionante juego de acción de ritmo rápido donde controlas un tostador ultrarrápido. Con gráficos adorables y una jugabilidad atractiva, Toaster Dash promete la máxima diversión. Evita los obstáculos, recoge ingredientes y mejora tu tostador para convertirte en un chef maestro. ¿Listo para tostarlo todo?",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Toaster Dash™",
+      "description": "Toaster Dash es un juego de acción de ritmo rápido donde controlas un tostador ultrarrápido. Evita los obstáculos, recoge ingredientes y mejora tu tostador para convertirte en un chef maestro. ¿Listo para tostarlo todo?",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Toaster Dash™",
+      "whatIsTitle": "¿Qué es Toaster Dash?",
+      "whatIsDescription": "Toaster Dash es un juego de acción de ritmo rápido donde controlas un tostador ultrarrápido. Evita los obstáculos, recoge ingredientes y mejora tu tostador para convertirte en un chef maestro.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Mueve el tostador a la derecha, a la izquierda, arriba o abajo para realizar diferentes tareas.",
+      "howToPlayStep2": "Evita obstáculos como tenedores, rosquillas con púas y más.",
+      "howToPlayStep3": "Recoge todas las rebanadas de pan, mermelada, mantequilla y otros ingredientes de cocina para obtener una puntuación alta.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Gráficos adorables",
+      "feature1Description": "Disfruta de sonidos realistas y una jugabilidad irresistiblemente atractiva.",
+      "feature2Title": "Niveles desafiantes",
+      "feature2Description": "Deslízate por niveles desafiantes con un tostador en movimiento.",
+      "feature3Title": "Sistema de mejora",
+      "feature3Description": "Usa los puntos ganados para mejorar el tostador y completar los niveles más rápido.",
+      "feature4Title": "Chef maestro",
+      "feature4Description": "Conviértete en un genio chef maestro completando misiones y optimizando tu puntuación."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

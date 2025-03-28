@@ -1,0 +1,77 @@
+{
+  "super-hexagon": {
+    "title": "Super Hexágono - Desafía tus reflejos con acción rítmica",
+    "slogan": "Siente el ritmo, escapa de los hexágonos",
+    "description": "Super Hexágono ofrece una experiencia musical única que desafía tus habilidades de improvisación. Navega a través de un mundo de hexágonos giratorios, evita las paredes entrantes y sumérgete en una poderosa música electrónica. El ritmo del juego aumenta continuamente, poniendo a prueba tus reflejos y concentración. ¡Juega ahora y observa cuánto tiempo puedes sobrevivir en esta emocionante aventura basada en el ritmo!",
+    "Loading": {
+      "title": "Cargando Super Hexágono..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Super Hexágono - Juego en línea gratuito",
+      "description": "Experimenta el desafío de Super Hexágono, donde el ritmo y los reflejos se unen. Evita las paredes entrantes, siente el ritmo y sobrevive en este juego de ritmo rápido. ¡Juega ahora gratis!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Super Hexágono",
+      "whatIsTitle": "¿Qué es Super Hexágono?",
+      "whatIsDescription": "Super Hexágono es un juego basado en el ritmo que pone a prueba tus reflejos y concentración. Navega por un mundo de hexágonos giratorios y evita las paredes entrantes para sobrevivir.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Usa las teclas de flecha izquierda y derecha para girar el hexágono.",
+      "howToPlayStep2": "Evita las paredes que aparecen desde los bordes de los hexágonos.",
+      "howToPlayStep3": "Mantente al ritmo del aumento del ritmo y sobrevive el mayor tiempo posible.",
+      "keyFeaturesTitle": "Características principales",
+      "feature1Title": "Jugabilidad rítmica",
+      "feature1Description": "Sincroniza tus movimientos con el ritmo de la música para una experiencia inmersiva.",
+      "feature2Title": "Niveles desafiantes",
+      "feature2Description": "El ritmo del juego aumenta continuamente, lo que pone a prueba tus reflejos y concentración.",
+      "feature3Title": "Música electrónica",
+      "feature3Description": "Una música electrónica potente mejora la experiencia de juego.",
+      "feature4Title": "Logros desbloqueables",
+      "feature4Description": "Desafíate a ti mismo para desbloquear logros y mejorar tus habilidades."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

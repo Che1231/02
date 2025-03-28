@@ -1,0 +1,77 @@
+{
+  "stickman-school-run": {
+    "title": "스틱맨 학교 달리기: 점프 & 장애물 극복",
+    "slogan": "까다로운 지형을 질주하고 모든 레벨을 클리어하세요!",
+    "description": "스틱맨 학교 달리기에서 소년이 연인의 위치에 도달할 수 있도록 점프하고 장애물을 극복하세요. 이 학교 테마 게임은 창의적인 달리기 및 점프 게임플레이를 제공합니다. 스틱맨을 조종하여 까다로운 플랫폼과 장애물을 탐색하세요. 100개의 레벨은 각각 유연성과 빠른 반응 속도를 시험하도록 설계되어 스틱맨 학교 달리기를 계속해서 집중시킵니다. 지금 플레이하고 마법과 도전의 조화를 경험하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "스틱맨 학교 달리기",
+      "description": "창의력과 도전을 결합한 스틱맨 학교 달리기의 짜릿함을 경험하세요. 각각 고유한 장애물과 플랫폼을 제공하는 100개의 레벨을 탐색하세요. 지금 플레이하고 끝까지 도달할 수 있을지 확인하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "스틱맨 학교 달리기",
+      "whatIsTitle": "스틱맨 학교 달리기는 무엇인가요?",
+      "whatIsDescription": "스틱맨 학교 달리기는 스틱맨을 조종하여 까다로운 플랫폼과 장애물을 탐색하여 여자친구에게 도달하는 학교 테마 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "캐릭터를 위로 뛰게 하려면 위쪽 화살표 키를 누르세요.",
+      "howToPlayStep2": "방해가 되는 상자를 밀어내려면 위쪽 화살표 키를 누른 상태로 유지하세요.",
+      "howToPlayStep3": "콤보 충돌을 피하기 위해 오른쪽 화살표 키를 사용하여 캐릭터를 회전시키세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "100개의 도전적인 레벨",
+      "feature1Description": "각 레벨은 유연성과 빠른 반응 속도를 시험하도록 설계되었습니다.",
+      "feature2Title": "동적인 지도 변화",
+      "feature2Description": "레벨을 다시 플레이할 때 지도가 변경되어 매번 새로운 도전을 제공합니다.",
+      "feature3Title": "창의적인 게임플레이",
+      "feature3Description": "고유한 장애물과 플랫폼을 탐색하면서 스틱맨을 조종하세요.",
+      "feature4Title": "매력적인 메커니즘",
+      "feature4Description": "다양한 유형의 장애물을 극복하기 위해 서로 다른 명령을 사용하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

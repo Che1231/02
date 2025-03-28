@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Comment commencer à jouer à Sedecordle en tant que débutant complet ?",
+    "answer": "Pour commencer à jouer à Sedecordle, suivez ces étapes : ÉTAPE 1 – Visitez le site Web officiel de Sedecordle ou téléchargez l'application. ÉTAPE 2 – Cliquez sur \"Nouveau jeu\" pour commencer. ÉTAPE 3 – Vous verrez une grille avec 16 grilles de Wordle individuelles. Commencez par deviner un mot de 5 lettres pour le premier jeu.  Exemple : Si vous devinez \"GRUE\" et que les lettres deviennent vertes, cela signifie qu'elles sont correctes. Répétez ce processus pour les 16 jeux. [Exemple : Imaginez que vous résolvez 16 mini-Wordles simultanément, chacun contribuant au défi plus large de Sedecordle.]"
+  },
+  {
+    "question": "Quelles sont les règles de base de Sedecordle que tout nouveau joueur doit connaître ?",
+    "answer": "Les règles de base de Sedecordle sont simples : 1) Vous avez 21 essais pour résoudre 16 jeux de Wordle. 2) Chaque jeu nécessite une devinette de 5 lettres. 3) Les lettres correctes à la bonne place deviennent vertes, les lettres correctes à la mauvaise place deviennent jaunes et les lettres incorrectes deviennent grises. Exemple : Si vous devinez \"PLANTE\" et que \"P\" et \"T\" sont correctes, elles deviendront vertes. [Tableau de comparaison : Sedecordle vs. Wordle – Sedecordle comporte 16 jeux contre 1 pour Wordle, et 21 essais contre 6 pour Wordle.]"
+  },
+  {
+    "question": "Quelles stratégies peuvent m'aider à améliorer mon jeu Sedecordle en tant que débutant ?",
+    "answer": "Pour améliorer votre jeu Sedecordle, adoptez ces stratégies : ÉTAPE 1 – Commencez par des mots de 5 lettres courants contenant de nombreuses voyelles, comme \"AUDIO\". ÉTAPE 2 – Utilisez les commentaires de chaque devinette pour éliminer les lettres impossibles pour les autres jeux. ÉTAPE 3 – Concentrez-vous sur la résolution des jeux les plus faciles d'abord pour gagner de l'élan. Exemple : Si \"AUDIO\" s'avère avoir \"A\" et \"I\" correctes, utilisez ces informations pour tous les 16 jeux. [Comparaison de plusieurs solutions : commencer par \"AUDIO\" vs. \"CRANE\" – \"AUDIO\" couvre plus de voyelles, ce qui peut être plus informatif au départ.]"
+  },
+  {
+    "question": "Pourquoi est-il important de gérer les tentatives efficacement dans Sedecordle, et comment puis-je le faire ?",
+    "answer": "Gérer efficacement les tentatives dans Sedecordle est crucial car vous n'avez que 21 tentatives pour résoudre 16 jeux. ÉTAPE 1 – Allouez les tentatives en fonction de la difficulté du jeu ; résolvez d'abord les plus faciles. ÉTAPE 2 – Utilisez les lettres partagées entre les jeux pour maximiser le gain d'informations. ÉTAPE 3 – Évitez les devinettes redondantes en suivant les lettres éliminées. Exemple : Si \"GRUE\" élimine \"G\" et \"R\" dans plusieurs jeux, vous pouvez vous concentrer sur d'autres lettres. [Schéma de flux d'allocation d'essais : Jeux faciles → Lettres partagées → Éliminer les redondances.]"
+  },
+  {
+    "question": "Quelles techniques avancées peuvent m'aider à résoudre les jeux Sedecordle plus rapidement ?",
+    "answer": "Les techniques avancées pour résoudre plus rapidement les jeux Sedecordle incluent : ÉTAPE 1 – Utilisez une approche \"banque de mots\", en conservant une liste de mots possibles pour chaque jeu. ÉTAPE 2 – Mettez en œuvre une \"analyse croisée des jeux\" pour identifier les motifs de lettres qui se chevauchent. ÉTAPE 3 – Privilégiez les jeux ayant le plus de contraintes pour réduire l'incertitude. Exemple : Si le jeu 1 a \"A\" et \"E\" confirmés, utilisez cela pour réduire les possibilités dans les jeux 2 à 16. [Exemple : Imaginez une partie d'échecs où chaque coup (devinette) influence plusieurs échiquiers (jeux) simultanément.]"
+  },
+  {
+    "question": "Comment puis-je optimiser ma stratégie de sélection de mots dans Sedecordle ?",
+    "answer": "L'optimisation de la sélection de mots dans Sedecordle implique : ÉTAPE 1 – Choisissez des mots qui couvrent un large éventail de lettres et de voyelles courantes. ÉTAPE 2 – Utilisez le processus d'élimination pour éliminer les mots qui ne correspondent pas aux commentaires. ÉTAPE 3 – Réutilisez les lettres confirmées entre les jeux pour minimiser les devinettes. Exemple : Si \"AUDIO\" confirme \"A\" et \"I\", privilégiez les mots contenant ces lettres dans les autres jeux. [Tableau de comparaison : Stratégie de sélection de mots – Couverture large vs. Focalisation étroite, avec des exemples comme \"AUDIO\" vs. \"CRANE\".]"
+  },
+  {
+    "question": "Quels sont les mécanismes sous-jacents du système de notation de Sedecordle ?",
+    "answer": "Le système de notation de Sedecordle est basé sur le nombre de tentatives utilisées pour résoudre les 16 jeux. Moins vous utilisez de tentatives, plus votre score est élevé. Exemple : Résoudre tous les jeux en 15 tentatives obtient un score plus élevé que de les résoudre en 20 tentatives. [Analyse du système : Mécanismes de notation – Chaque tentative réduit votre score potentiel, et les tentatives inutilisées ajoutent des points bonus. La formule est : Score = (21 – Tentatives utilisées) x 10 + Bonus.]"
+  },
+  {
+    "question": "Comment l'algorithme de génération de jeux de Sedecordle garantit-il l'équité et la variété ?",
+    "answer": "L'algorithme de génération de jeux de Sedecordle garantit l'équité et la variété en : 1) Sélectionnant aléatoirement des mots d'une liste sélectionnée de mots de 5 lettres courants. 2) Assurant que chaque jeu est indépendant mais peut partager des lettres avec d'autres. 3) Équilibrant la difficulté en incluant des mots à la fois courants et moins courants. Exemple : Le jeu 1 pourrait avoir \"GRUE\" tandis que le jeu 2 a \"PLANTE\", partageant la lettre \"A\". [Analyse du système : Algorithme de génération de jeux – Sélection aléatoire + Jeux indépendants + Équilibre de la difficulté.]"
+  },
+  {
+    "question": "Puis-je transférer mes progrès Sedecordle entre différents appareils ?",
+    "answer": "Oui, vous pouvez transférer vos progrès Sedecordle entre différents appareils. ÉTAPE 1 – Assurez-vous que vous êtes connecté au même compte sur les deux appareils. ÉTAPE 2 – Utilisez la fonction de sauvegarde dans le cloud pour synchroniser vos progrès. ÉTAPE 3 – Si vous rencontrez des problèmes, supprimez les données en cache et réessayez. Exemple : Vos progrès depuis votre téléphone peuvent être accessibles sur votre tablette en vous connectant au même compte. [Comparaison de plusieurs solutions : Synchronisation dans le cloud vs. Sauvegarde manuelle – La synchronisation dans le cloud est automatique mais nécessite un compte, tandis que la sauvegarde manuelle est hors connexion mais moins pratique.]"
+  },
+  {
+    "question": "Existe-t-il des fonctionnalités cachées ou des œufs de Pâques dans Sedecordle que les joueurs pourraient ignorer ?",
+    "answer": "Sedecordle inclut des fonctionnalités cachées comme : 1) Un \"mode sombre\" pour une meilleure expérience de jeu nocturne. 2) Des réalisations cachées pour résoudre tous les jeux en un temps record. 3) Des animations spéciales lors de la résolution des 16 jeux. Exemple : La résolution de tous les jeux en moins de 15 tentatives déclenche une animation spéciale de feux d'artifice. [Recherche d'œufs de Pâques : Fonctionnalités cachées – Mode sombre, Réalisations cachées, Animations spéciales.]"
+  }
+]

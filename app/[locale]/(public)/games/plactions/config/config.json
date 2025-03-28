@@ -1,0 +1,122 @@
+{
+  "name": "Plactions",
+  "pagePath": "/games/plactions",
+  "pageName": "plactions",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://freetoplayz.github.io/plactions/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "CosmicKraken99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicKraken99.png",
+      "content": "OMG, Plactions is super fun! The challenges are crazy, but the platforming is so smooth. Definitely worth checking out!"
+    },
+    {
+      "author": "SavageKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatana_X.png",
+      "content": "This game, Plactions, is actually pretty good! The jumping and climbing is really addictive!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "I'm loving Plactions! It's got that classic gameplay feel but with modern challenges.  Anyone else finding it tough?"
+    },
+    {
+      "author": "NoobMaster42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster42.png",
+      "content": "This game Plactions is quite something, right? The action-paced platformer gameplay is insane, i'm hooked!"
+    },
+    {
+      "author": "xX_NeonRevolver_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_NeonRevolver_Xx.png",
+      "content": "Just tried Plactions and it's great! The developers built an awesome game to test players skills!"
+    },
+    {
+      "author": "PhantomLeviathan87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomLeviathan87.png",
+      "content": "Seriously, the challenges in Plactions are unbelievable.  This makes me rage, but I keep playing!"
+    },
+    {
+      "author": "StalkingPhoenix42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix42.png",
+      "content": "Plactions game is simple and good, the platformer is a must try experience!"
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "Those dark forces don't stand a chance against this tiny hero, what a great game!"
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "The gameplay and level designs in Plactions are incredible, everything is so good and the action really moves!"
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "Okay, I was skeptical, but Plactions is actually really good!  Prepare for thrilling jumping, climbing, and fighting in this one!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/plactions/plactions1-m200x130.webp",
+  "page_path": "/games/plactions",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8scdr1r010hlywljtbs3x5t",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T05:28:38.703Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 13:38:53"
+}

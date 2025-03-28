@@ -1,0 +1,122 @@
+{
+  "name": "Zombs.io",
+  "pagePath": "/games/zombs-io",
+  "pageName": "zombs-io",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://zombsroyale.io/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomLeviathan42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomLeviathan42.png",
+      "content": "Dude, I'm totally hooked on Zombs.io! Building my base is so addictive. Those zombie waves get insane, though. Gotta upgrade fast or you're toast!"
+    },
+    {
+      "author": "SavageKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatana_X.png",
+      "content": "Zombs.io is a blast! Love teaming up with friends to build a mega-base. Just be ready, partying DOES attract more zombies! Haha!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "This game, Zombs.io, man, the wave defense part is wild. Seriously, been playing all night. Anyone else find building this base so satisfying?"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Ugh, those zombies in Zombs.io are relentless! You can build stuff, right? Minecraft meets zombies, cool concept, but I keep getting wrecked. My base is doomed."
+    },
+    {
+      "author": "xX_CosmicKatana_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_CosmicKatana_Xx.png",
+      "content": "Zombs.io is a pretty fun tower defense game! I love the fact it combines Minecraft with zombies - super original. Getting to the higher waves is tough though!"
+    },
+    {
+      "author": "StalkingPhoenix87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix87.png",
+      "content": "Finally found a fun game! Building my base in Zombs.io is the best. I love trying to survive the waves of Zombies. Recommend giving it a go!"
+    },
+    {
+      "author": "N3oN_Broadsword",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/N3oN_Broadsword.png",
+      "content": "This game is epic! The way you can fortify your base in Zombs.io is awesome. Definitely recommend checking it out! You might need your friends."
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "Is it just me, or is teaming up with friends in Zombs.io super fun? More Zombies...yes... but also more fun. It's a great time!"
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "I didn't expect to love Zombs.io so much! It really does a great job, can't wait for the different building items to come to the game."
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "Okay, Zombs.io is seriously addictive. Just when you think you've survived, another wave hits! It's a constant test of your skills and base-building skills!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/zombs-io/zombs-io-m200x130.webp",
+  "page_path": "/games/zombs-io",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8scbnh800y1lywl0n4nq1vc",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T05:27:00.764Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 13:29:41"
+}

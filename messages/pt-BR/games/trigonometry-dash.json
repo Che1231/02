@@ -1,0 +1,77 @@
+{
+  "trigonometry-dash": {
+    "title": "Trigonometria Dash: Um Jogo de Aventura Geométrica",
+    "slogan": "Domine complexas mapeamentos geométricos com o Trigonometria Dash",
+    "description": "O Trigonometria Dash proporciona uma experiência única de plataforma onde você navega por desafios geométricos. Com quatro modos de jogo e ritmo personalizável, aprecie uma aventura emocionante. Jogue o Trigonometria Dash agora e explore o mundo geométrico!",
+    "Loading": {
+      "title": "Carregando o Trigonometria Dash..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Úteis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Trigonometria Dash",
+      "description": "O Trigonometria Dash convida você a experimentar uma aventura geométrica única. Navegue por mapas complexos, evite obstáculos e alcance a linha de chegada. Jogue agora e aproveite o desafio!",
+      "iframeTitle": "Pré-visualização do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Trigonometria Dash",
+      "whatIsTitle": "O que é o Trigonometria Dash?",
+      "whatIsDescription": "O Trigonometria Dash é um jogo de plataforma que combina geometria e aventura. Com jogabilidade única e modos diversos, oferece uma experiência desafiadora e agradável.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Use as setas do teclado para navegar pelo cubo.",
+      "howToPlayStep2": "Evite obstáculos e encontre o caminho até a linha de chegada.",
+      "howToPlayStep3": "Aproveite o jogo no seu próprio ritmo e explore o mundo geométrico.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Ritmo Personalizável",
+      "feature1Description": "Controle o ritmo do jogo e aprecie a aventura à sua maneira.",
+      "feature2Title": "Quatro Modos de Jogo",
+      "feature2Description": "Escolha entre os modos normal, ataque de tempo, monstro e cego.",
+      "feature3Title": "Pontos de Controle",
+      "feature3Description": "Reinicie do último ponto de controle em vez de começar do zero.",
+      "feature4Title": "Modo Espelho",
+      "feature4Description": "Experimente um desafio único com portais especiais no modo espelho."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

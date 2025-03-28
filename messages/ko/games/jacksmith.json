@@ -1,0 +1,77 @@
+{
+  "jacksmith": {
+    "title": "제작 전설 무기와 용병 장비 - 잭스미스",
+    "slogan": "최고의 대장간 영웅이 되십시오!",
+    "description": "잭스미스의 세계로 들어가 손재주를 발휘해 보세요. 강력한 무기를 만들고 용병을 장비하여 적들을 물리치세요. 잭스미스는 요리 대신 전설적인 무기를 만드는 독특한 게임 경험을 제공합니다. 상점을 업그레이드하고 고객 주문을 처리하여 보너스를 획득하세요. 가장 파괴적인 검과 활을 제작할 준비가 되셨나요? 지금 바로 대장간 여정을 시작하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "제작 전설 무기 - 잭스미스",
+      "description": "잭스미스를 플레이하고 최고의 대장간 영웅이 되십시오. 강력한 무기를 제작하고 용병을 장비하여 적을 물리치세요. 지금 바로 여정을 시작하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "제작 전설 무기 - 잭스미스",
+      "whatIsTitle": "잭스미스는 무엇인가요?",
+      "whatIsDescription": "잭스미스는 용병을 위한 강력한 무기를 제작하는 대장간 영웅이 되는 독특한 게임입니다. 손재주를 발휘하고 적들을 물리치세요.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "고객 주문을 받으세요.",
+      "howToPlayStep2": "요구 사항을 충족하여 보너스를 받으세요.",
+      "howToPlayStep3": "상점을 업그레이드하고 최고의 무기를 제작하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "전설 무기 제작",
+      "feature1Description": "희귀 재료로 강력한 검과 활을 제작하세요.",
+      "feature2Title": "용병 장비",
+      "feature2Description": "용병들을 최고의 무기로 무장시켜 적을 물리치세요.",
+      "feature3Title": "상점 업그레이드",
+      "feature3Description": "대장간 상점을 개선하여 더욱 강력한 무기를 제작하세요.",
+      "feature4Title": "보너스 획득",
+      "feature4Description": "고객 주문을 처리하여 보너스와 팁을 받으세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

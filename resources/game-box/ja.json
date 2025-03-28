@@ -1,0 +1,114 @@
+{
+  "recommended": [],
+  "categories": [
+    {
+      "name": "おすすめゲーム",
+      "path": "/c/featured",
+      "pageSize": 15,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "あなたにおすすめのゲームを選りすぐりました！"
+    },
+    {
+      "name": "アーケードゲーム",
+      "path": "/c/arcade-games",
+      "pageSize": 15,
+      "backgroundColor": "#d2e7ff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "エキサイティングなアーケードゲーム！",
+      "position": 2
+    },
+    {
+      "name": "アクションゲーム",
+      "path": "/c/action",
+      "pageSize": 15,
+      "backgroundColor": "#c1f8cf",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "エキサイティングなアクションゲーム！",
+      "position": 3
+    },
+    {
+      "name": "アドベンチャーゲーム",
+      "path": "/c/adventure-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 4,
+      "description": "エキサイティングなアドベンチャーゲーム！"
+    },
+    {
+      "name": "ワードルバースゲーム",
+      "path": "/c/wordleverse-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 5,
+      "description": "エキサイティングなワードルバースゲーム！"
+    },
+    {
+      "name": ".IOゲーム",
+      "path": "/c/io-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 6,
+      "description": "エキサイティングな.IOゲーム！"
+    },
+    {
+      "name": "カジュアルゲーム",
+      "path": "/c/casual-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 7,
+      "description": "エキサイティングなカジュアルゲーム！"
+    },
+    {
+      "name": "パズルゲーム",
+      "path": "/c/puzzle-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 8,
+      "description": "エキサイティングなパズルゲーム！"
+    },
+    {
+      "name": "レース＆ドライブゲーム",
+      "path": "/c/racing-driving",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 9,
+      "description": "エキサイティングなレース＆ドライブゲーム！"
+    },
+    {
+      "name": "3Dゲーム",
+      "path": "/c/3d-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 10,
+      "description": "エキサイティングな3Dゲーム！"
+    },
+    {
+      "name": "スポーツゲーム",
+      "path": "/c/sports-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 11,
+      "description": "エキサイティングなスポーツゲーム！"
+    }
+  ]
+}

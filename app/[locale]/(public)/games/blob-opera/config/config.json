@@ -1,0 +1,122 @@
+{
+  "name": "Blob Opera",
+  "pagePath": "/games/blob-opera",
+  "pageName": "blob-opera",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://blobopera.io/game/blob-opera",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomPhoenix99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix99.png",
+      "content": "Blob Opera? So fun! Dragging those funny blobs to hit the right pitch is such a blast!"
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/ctrlAltdefeat.png",
+      "content": "Wow, I didn't know opera could be so silly and enjoyable! Must try Blob Opera."
+    },
+    {
+      "author": "StalkingGriffin87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/stalkinggriffin87.png",
+      "content": "This game is like a symphony in my browser! Dragging blobs to make beautiful sounds is awesome! Love it!"
+    },
+    {
+      "author": "NeonRevolver_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/neonrevolver_x.png",
+      "content": "I never thought a music game could be this creative! Extending blobs to make that sound louder is genius."
+    },
+    {
+      "author": "CosmicLeviathan42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/cosmicleviathan42.png",
+      "content": "Blob Opera is a trip man! Dragging those blobs around was so much fun. Had me laughing!"
+    },
+    {
+      "author": "LootGoblin89",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/lootgoblin89.png",
+      "content": "Blob Opera is super easy to pick up. I dragged the blobs around and made some amazing tunes!"
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_darkaura_Xx.png",
+      "content": "So funny! You gotta drag those blobs to make music. Totally unexpected but great experience!"
+    },
+    {
+      "author": "SavageKatana42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/savagekatana42.png",
+      "content": "Who knew singing was this entertaining? Drag the blobs, make the music. Simple yet brilliant!"
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/potionmishap.png",
+      "content": "Blob Opera is a surprise hit! Got to control blobs to hit the right note. Who doesn’t love that?!"
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/lagwarriorXX.png",
+      "content": "Blob Opera surprised me! Easy to play, drag blobs for music. So cool, can’t wait to show my friends!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/blob-opera/blob-opera-m200x130.webp",
+  "page_path": "/games/blob-opera",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8scfmoy011vlywl521uspft",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T05:30:06.369Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 13:44:59"
+}

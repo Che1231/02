@@ -1,0 +1,77 @@
+{
+  "toaster-dash": {
+    "title": "Toaster Dash: Fast-Paced Baking Adventure",
+    "slogan": "Adventure in the world of cakes!",
+    "description": "Toaster Dash offers a thrilling fast-paced action game where you control a lightning-fast toaster. With adorable graphics and engaging gameplay, Toaster Dash promises ultimate entertainment. Avoid obstacles, collect ingredients, and upgrade your toaster to become a master chef. Ready to toast it up?",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Toaster Dash™",
+      "description": "Toaster Dash is a fast-paced action game where you control a lightning-fast toaster. Avoid obstacles, collect ingredients, and upgrade your toaster to become a master chef. Ready to toast it up?",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Toaster Dash™",
+      "whatIsTitle": "What is Toaster Dash?",
+      "whatIsDescription": "Toaster Dash is a fast-paced action game where you control a lightning-fast toaster. Avoid obstacles, collect ingredients, and upgrade your toaster to become a master chef.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Move the toaster right, left, up, or down to perform different tasks.",
+      "howToPlayStep2": "Avoid obstacles like forks, spiked donuts, and more.",
+      "howToPlayStep3": "Collect all the slices of bread, jam, butter, and other cooking ingredients to score high.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Adorable Graphics",
+      "feature1Description": "Enjoy lifelike sounds and irresistibly engaging gameplay.",
+      "feature2Title": "Challenging Levels",
+      "feature2Description": "Zip through challenging levels with a running toaster.",
+      "feature3Title": "Upgrade System",
+      "feature3Description": "Use points earned to upgrade the toaster and complete levels faster.",
+      "feature4Title": "Master Chef",
+      "feature4Description": "Become a genius master chef by completing missions and optimizing your score."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

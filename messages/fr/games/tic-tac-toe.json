@@ -1,0 +1,77 @@
+{
+  "tic-tac-toe": {
+    "title": "Jouer au Morpion en ligne | Jeu Classique X et O",
+    "slogan": "Profitez du plaisir intemporel du Morpion!",
+    "description": "Le Morpion, également connu sous le nom de Jeu des Guichets, est un jeu classique et populaire apprécié par les personnes de tous âges. C'est un jeu simple mais captivant joué sur une grille de 3x3 cases. L'objectif est de créer une ligne de trois symboles identiques (soit X ou O) horizontalement, verticalement ou en diagonale. Jouez au Morpion maintenant et défiez vos amis !",
+    "Loading": {
+      "title": "Chargement…"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste d'articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Morpion | Jeu Classique X et O",
+      "description": "Jouez au jeu classique du Morpion en ligne. Défiez vos amis et voyez qui peut obtenir trois symboles alignés en premier !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer au jeu"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Morpion | Jeu Classique X et O",
+      "whatIsTitle": "Qu'est-ce que le Morpion ?",
+      "whatIsDescription": "Le Morpion, également connu sous le nom de Jeu des Guichets, est un jeu classique et populaire apprécié par les personnes de tous âges. C'est un jeu simple mais captivant joué sur une grille de 3x3 cases.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Deux joueurs prennent tour à tour pour placer leur symbole choisi (X ou O) sur une case vide de la grille.",
+      "howToPlayStep2": "Le premier joueur commence généralement avec X, et le deuxième joueur suit avec O.",
+      "howToPlayStep3": "Le jeu continue jusqu'à ce qu'un joueur forme une ligne de trois symboles ou que toutes les cases de la grille soient remplies, ce qui entraîne un match nul.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Règles simples",
+      "feature1Description": "Facile à apprendre et à jouer, ce qui le rend accessible à tous les âges.",
+      "feature2Title": "Gameplay rapide",
+      "feature2Description": "Rythmé et parfait pour les courtes pauses.",
+      "feature3Title": "Pensée stratégique",
+      "feature3Description": "Encourage les joueurs à anticiper et à planifier leurs coups.",
+      "feature4Title": "Divertissement sans fin",
+      "feature4Description": "Rejouable et toujours un défi avec différents adversaires."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Afficher plus",
+      "page": "Page"
+    }
+  }
+}

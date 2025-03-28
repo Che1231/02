@@ -1,0 +1,77 @@
+{
+  "phoodle": {
+    "title": "線上玩 Phoodle：免費廚師主題字謎遊戲",
+    "slogan": "猜猜食物字謎，最多六次！",
+    "description": "Phoodle 是一款以廚師為主題的字謎遊戲，靈感來自 Wordle。每日挑戰您對食材、烹飪方法或知名廚師的五個字母詞彙知識。猜對即可解鎖有趣的飲食知識。現在免費玩 Phoodle，測試您的廚藝專業知識！",
+    "Loading": {
+      "title": "正在載入 Phoodle..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友善連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "Phoodle：廚師主題字謎遊戲",
+      "description": "Phoodle 提供無盡的遊戲樂趣給美食愛好者。在六次嘗試中猜出五個字母的食物詞彙，並解鎖每日廚藝挑戰。現在就玩 Phoodle！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Phoodle：廚師主題字謎",
+      "whatIsTitle": "Phoodle 是什麼？",
+      "whatIsDescription": "Phoodle 是一款以廚師為主題的字謎遊戲，靈感來自 Wordle。它挑戰玩家在六次嘗試中猜出與食物相關的五個字母詞彙。",
+      "howToPlayTitle": "如何玩？",
+      "howToPlayStep1": "猜一個與食物相關的五個字母詞彙。",
+      "howToPlayStep2": "使用彩色字母的提示來精確您的猜測。",
+      "howToPlayStep3": "猜對即可解鎖食物知識！",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "每日挑戰",
+      "feature1Description": "每天都有一個新的與食物相關的詞彙。",
+      "feature2Title": "彩色提示",
+      "feature2Description": "使用綠色、黃色和灰色提示來指導您的猜測。",
+      "feature3Title": "無限可玩性",
+      "feature3Description": "隨時玩 Phoodle，享受無盡的樂趣。",
+      "feature4Title": "食物知識",
+      "feature4Description": "每次猜對都能學習有趣的烹飪技巧。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

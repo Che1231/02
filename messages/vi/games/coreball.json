@@ -1,0 +1,77 @@
+{
+  "coreball": {
+    "title": "Coreball: Làm chủ nhịp điệu, chinh phục trò chơi",
+    "slogan": "Điều hướng, Đồng bộ, Chiến thắng",
+    "description": "Coreball là một trò chơi nhịp điệu hấp dẫn thử thách khả năng nhịp điệu và độ chính xác của bạn. Với hơn 100 cấp độ, mỗi cấp độ đòi hỏi sự đồng bộ hoàn hảo, bạn sẽ bị cuốn hút ngay từ đầu. Cho dù bạn là người chơi mới hay đã có kinh nghiệm, Coreball mang đến niềm vui và sự phấn khích vô tận. Hãy chơi Coreball ngay bây giờ và xem liệu bạn có thể làm chủ nhịp điệu hay không!",
+    "Loading": {
+      "title": "Đang tải Coreball..."
+    },
+    "Navbar": {
+      "title": "Điều hướng"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Coreball: Trải nghiệm thử thách nhịp điệu tối thượng",
+      "description": "Cảm nhận niềm phấn khích của Coreball, một trò chơi thử thách khả năng nhịp điệu và độ chính xác của bạn. Với hơn 100 cấp độ, Coreball mang đến niềm vui và sự phấn khích vô tận. Chơi ngay bây giờ và xem liệu bạn có thể làm chủ nhịp điệu hay không!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Màn hình toàn cảnh",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào bộ nhớ tạm!",
+      "downloadGame": "Tải game",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Coreball: Thử thách nhịp điệu",
+      "whatIsTitle": "Coreball là gì?",
+      "whatIsDescription": "Coreball là một trò chơi dựa trên nhịp điệu, nơi bạn điều hướng qua các cấp độ bằng cách đồng bộ các chuyển động của mình với nhịp điệu. Nó rất dễ bắt đầu nhưng khó chinh phục, mang đến niềm vui vô tận cho tất cả người chơi.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Bắt đầu bằng cách đồng bộ các chuyển động của bạn với nhịp điệu của cấp độ.",
+      "howToPlayStep2": "Điều hướng qua các chướng ngại vật bằng cách duy trì nhịp điệu ổn định.",
+      "howToPlayStep3": "Tiến lên qua hơn 100 cấp độ, mỗi cấp độ ngày càng khó hơn.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Gameplay dựa trên nhịp điệu",
+      "feature1Description": "Coreball thử thách khả năng nhịp điệu và độ chính xác của bạn với cơ chế nhịp điệu độc đáo.",
+      "feature2Title": "Hơn 100 cấp độ",
+      "feature2Description": "Với một loạt các cấp độ rộng lớn, Coreball mang đến những thử thách và niềm vui vô tận.",
+      "feature3Title": "Đơn giản nhưng đầy thách thức",
+      "feature3Description": "Dễ bắt đầu nhưng khó chinh phục, Coreball phù hợp với người chơi mọi trình độ.",
+      "feature4Title": "Niềm vui vô tận",
+      "feature4Description": "Coreball mang lại niềm vui giải trí vô tận với gameplay hấp dẫn và độ khó ngày càng tăng."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video game"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận game"
+    },
+    "GamePage": {
+      "title": "Tất cả các game",
+      "description": "Tất cả các game",
+      "games": "Các game"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

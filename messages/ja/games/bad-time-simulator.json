@@ -1,0 +1,77 @@
+{
+  "bad-time-simulator": {
+    "title": "バッドタイムシミュレーター - 無料オンラインゲーム",
+    "slogan": "あなたのスキルを限界まで押し上げます！",
+    "description": "バッドタイムシミュレーターは、容赦ない挑戦と厄介な障害の世界にあなたを投げ込みます。あなたの反応速度とスキルを試す速いペースのゲームプレイを体験してください。危険を回避し、障害を避けて、ノーマル、練習、エンドレスなどのモードを征服しましょう。今すぐバッドタイムシミュレーターをプレイして、生き残れるかどうか見てみましょう！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "バッドタイムシミュレーター",
+      "description": "反応速度とスキルに挑戦する、速いペースのゲーム、バッドタイムシミュレーターに没頭しましょう。障害を回避し、エネルギーを節約し、さまざまなモードを制覇しましょう。今すぐプレイして、あなたの限界に挑戦してください！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "フルスクリーン",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "バッドタイムシミュレーター",
+      "whatIsTitle": "バッドタイムシミュレーターとは？",
+      "whatIsDescription": "バッドタイムシミュレーターは、容赦ない挑戦と厄介な障害の世界に没頭させる、速いペースのゲームです。小さな心臓を操作し、危険を避け、スキルを限界まで押し上げます。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "矢印キーを使って、あなたの心臓の移動を制御します。",
+      "howToPlayStep2": "障害物や攻撃を避け、エネルギーを節約し、進みます。",
+      "howToPlayStep3": "ゲームのリズムに慣れて、素晴らしいスコアを達成しましょう！",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "複数のモード",
+      "feature1Description": "ノーマル、練習、エンドレス、シングルアタック、またはカスタムアタックモードでプレイします。",
+      "feature2Title": "挑戦的な障害物",
+      "feature2Description": "さまざまな厄介な障害物や危険を乗り越えます。",
+      "feature3Title": "速いペースのゲームプレイ",
+      "feature3Description": "あなたの反応速度とスキルを試す、息を呑むようなペースを体験してください。",
+      "feature4Title": "没入型の冒険",
+      "feature4Description": "スリリングでエキサイティングな冒険に没頭しましょう。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリ",
+      "noCategories": "カテゴリが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

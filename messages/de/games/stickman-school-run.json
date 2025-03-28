@@ -1,0 +1,77 @@
+{
+  "stickman-school-run": {
+    "title": "Stickman Schullauf: Springen & Hindernisse überwinden",
+    "slogan": "Durch schwieriges Gelände stürzen und alle Level bestehen!",
+    "description": "Springen Sie über Hindernisse, damit der Junge in Stickman Schullauf die Position seiner Geliebten erreicht. Dieses spiel, das auf eine Schule Bezug nimmt, bietet kreatives Laufen und Springen. Steuern Sie einen Stehmann und navigieren Sie durch herausfordernde Plattformen und Hindernisse. Mit 100 Levels, die jeweils Ihre Flexibilität und Schnelligkeit testen, hält Stickman Schullauf Sie gebannt und konzentriert. Spielen Sie jetzt und erleben Sie die Mischung aus Magie und Herausforderung!",
+    "Loading": {
+      "title": "Lädt..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Stickman Schullauf",
+      "description": "Erleben Sie den Nervenkitzel von Stickman Schullauf, einem Spiel, das Kreativität und Herausforderung vereint. Navigieren Sie durch 100 Level, die jeweils einzigartige Hindernisse und Plattformen bieten. Spielen Sie jetzt und sehen Sie, ob Sie es bis zum Ende schaffen!",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Stickman Schullauf",
+      "whatIsTitle": "Was ist Stickman Schullauf?",
+      "whatIsDescription": "Stickman Schullauf ist ein spiel, das auf einer Schule aufbaut, in dem Sie einen Stehmann steuern und durch herausfordernde Plattformen und Hindernisse navigieren, um seine Freundin zu erreichen.",
+      "howToPlayTitle": "Spielanleitung",
+      "howToPlayStep1": "Drücken Sie die Aufwärts-Pfeiltaste, um den Charakter hochzuspringen.",
+      "howToPlayStep2": "Halten Sie die Aufwärts-Pfeiltaste gedrückt, um die Figur zu vergrößern, um Hindernisse zu beseitigen.",
+      "howToPlayStep3": "Benutzen Sie die rechte Pfeiltaste, um den Charakter zu drehen, um Kollisionen mit dem Combo zu vermeiden.",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
+      "feature1Title": "100 herausfordernde Level",
+      "feature1Description": "Jedes Level ist darauf ausgelegt, Ihre Flexibilität und Schnelligkeit zu testen.",
+      "feature2Title": "Dynamische Kartenänderungen",
+      "feature2Description": "Karten können sich beim erneuten Spielen eines Levels ändern und bieten jedes Mal neue Herausforderungen.",
+      "feature3Title": "Kreatives Gameplay",
+      "feature3Description": "Steuern Sie einen Stehmann und navigieren Sie durch einzigartige Hindernisse und Plattformen.",
+      "feature4Title": "Engagierende Mechanik",
+      "feature4Description": "Verwenden Sie verschiedene Befehle, um verschiedene Hindernisse zu überwinden."
+    },
+    "HomeFAQs": {
+      "title": "Häufig gestellte Fragen"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

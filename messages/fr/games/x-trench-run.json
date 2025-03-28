@@ -1,0 +1,77 @@
+{
+  "x-trench-run": {
+    "title": "Course de X Trench - Jeu de simulation spatiale trépidant",
+    "slogan": "Naviguez, évitez, détruisez - Conquérez le cosmos !",
+    "description": "Découvrez l'excitation de X Trench Run, un jeu de simulation spatiale trépidant où vous naviguez à travers des obstacles cosmiques périlleux. Votre mission est de détruire une immense structure spatiale tout en évitant les collisions et les tourelles. Avec un gameplay palpitant et des niveaux stimulants, X Trench Run offre une excitation sans fin. Jouez maintenant et rejoignez la bataille cosmique !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Course de X Trench - Jeu de simulation spatiale trépidant",
+      "description": "Naviguez dans l'espace, évitez les obstacles et détruisez l'immense structure dans X Trench Run. Jouez dès maintenant et vivez l'action !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Course de X Trench",
+      "whatIsTitle": "Qu'est-ce que X Trench Run ?",
+      "whatIsDescription": "X Trench Run est un jeu de simulation spatiale trépidant où vous naviguez à travers les obstacles et détruisez une immense structure dans l'espace.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Évitez les obstacles et les tourelles pour survivre.",
+      "howToPlayStep2": "Utilisez vos armes pour détruire l'immense structure.",
+      "howToPlayStep3": "Réalisez les défis pour atteindre des niveaux supérieurs.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Gameplay trépidant",
+      "feature1Description": "Naviguez dans l'espace avec une action et une rapidité intenses.",
+      "feature2Title": "Obstacles stimulants",
+      "feature2Description": "Évitez les obstacles et les tourelles complexes pour survivre.",
+      "feature3Title": "Bataille cosmique",
+      "feature3Description": "Détruisez l'immense structure et conquérir le cosmos.",
+      "feature4Title": "Plusieurs armes",
+      "feature4Description": "Utilisez une variété d'armes pour vous protéger et protéger l'univers."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

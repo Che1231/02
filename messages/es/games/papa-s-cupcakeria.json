@@ -1,0 +1,77 @@
+{
+  "papa-s-cupcakeria": {
+    "title": "Juega a Papa’s Cupcakeria en línea: juego gratuito de magdalenas",
+    "slogan": "Hornea y sirve deliciosas magdalenas en la ciudad de Frostfield",
+    "description": "Papa’s Cupcakeria es la octava entrega de la popular serie Papa’s. En este juego, interpretas a un camarero en una cafetería ubicada en la ciudad de Frostfield. Tu tarea es servir a tus clientes deliciosas magdalenas que creas y horneas en tu propia cocina. ¡Experimenta la diversión de hornear y servir en Papa’s Cupcakeria hoy mismo!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Menú"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces de interés",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Papa’s Cupcakeria",
+      "description": "Juega a Papa’s Cupcakeria en línea gratis y disfruta horneando y sirviendo deliciosas magdalenas en la ciudad de Frostfield.",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Papa’s Cupcakeria",
+      "whatIsTitle": "¿Qué es Papa’s Cupcakeria?",
+      "whatIsDescription": "Papa’s Cupcakeria es un juego divertido e interactivo donde interpretas a un camarero en una cafetería, creando y sirviendo deliciosas magdalenas a tus clientes.",
+      "howToPlayTitle": "¿Cómo jugar?",
+      "howToPlayStep1": "Toma los pedidos de los clientes y personaliza sus magdalenas.",
+      "howToPlayStep2": "Hornea las magdalenas a la perfección en tu cocina.",
+      "howToPlayStep3": "Sirve las magdalenas a tus clientes y gana propinas.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Magdalenas personalizables",
+      "feature1Description": "Crea magdalenas únicas eligiendo entre una variedad de ingredientes y coberturas.",
+      "feature2Title": "Jugabilidad interactiva",
+      "feature2Description": "Disfruta una experiencia de juego divertida e interactiva mientras horneas y sirves magdalenas.",
+      "feature3Title": "Satisfacción del cliente",
+      "feature3Description": "Mantén contentos a tus clientes sirviéndoles deliciosas magdalenas a tiempo.",
+      "feature4Title": "Gana propinas",
+      "feature4Description": "Gana propinas ofreciendo un servicio excelente y satisfaciendo a tus clientes."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendados"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

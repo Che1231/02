@@ -1,0 +1,42 @@
+[
+  {
+    "pregunta": "¿Cómo empezar a jugar a Sedecordle como principiante absoluto?",
+    "respuesta": "Para empezar a jugar a Sedecordle, sigue estos pasos: PASO 1 - Visita el sitio web oficial de Sedecordle o descarga la aplicación. PASO 2 - Haz clic en 'Nuevo juego' para empezar. PASO 3 - Verás una cuadrícula con 16 rompecabezas individuales de Wordle. Empieza adivinando una palabra de 5 letras para el primer rompecabezas. Ejemplo: Si adivinas 'GRUA' y las letras se vuelven verdes, significa que son correctas. Repite este proceso para los 16 rompecabezas. [Explicación analógica: Piensa en ello como resolver 16 mini-Wordles simultáneamente, cada uno contribuyendo al desafío más amplio de Sedecordle.]"
+  },
+  {
+    "pregunta": "¿Cuáles son las reglas básicas de Sedecordle que todo nuevo jugador debería conocer?",
+    "respuesta": "Las reglas básicas de Sedecordle son sencillas: 1) Tienes 21 intentos para resolver 16 rompecabezas de Wordle. 2) Cada rompecabezas requiere una palabra de 5 letras. 3) Las letras correctas en la posición correcta se vuelven verdes, las letras correctas en la posición incorrecta se vuelven amarillas y las letras incorrectas se vuelven grises. Ejemplo: Si adivinas 'PLANTA' y 'P' y 'A' son correctas, se volverán verdes. [Tabla de comparación: Sedecordle vs. Wordle - Sedecordle tiene 16 rompecabezas frente a 1 de Wordle, y 21 intentos frente a 6 de Wordle.]"
+  },
+  {
+    "pregunta": "¿Qué estrategias pueden ayudarme a mejorar mi juego de Sedecordle como principiante?",
+    "respuesta": "Mejorar tu juego de Sedecordle implica estas estrategias: PASO 1 - Empieza con palabras comunes de 5 letras que contienen muchas vocales, como 'AUDIO'. PASO 2 - Usa la retroalimentación de cada intento para eliminar letras imposibles para otros rompecabezas. PASO 3 - Concéntrate en resolver primero los rompecabezas más fáciles para ganar impulso. Ejemplo: Si 'AUDIO' resulta tener 'A' e 'I' correctas, usa esta información en los 16 rompecabezas. [Comparación de varias opciones: Empezar con 'AUDIO' vs. 'GRUA' - 'AUDIO' cubre más vocales, lo que puede ser más informativo inicialmente.]"
+  },
+  {
+    "pregunta": "¿Por qué es importante gestionar los intentos de forma eficiente en Sedecordle y cómo puedo hacerlo?",
+    "respuesta": "Gestionar los intentos de forma eficiente en Sedecordle es crucial porque solo tienes 21 intentos para resolver 16 rompecabezas. PASO 1 - Asigna los intentos en función de la dificultad del rompecabezas; resuelve primero los más fáciles. PASO 2 - Usa las letras compartidas entre los rompecabezas para maximizar la ganancia de información. PASO 3 - Evita los intentos redundantes haciendo un seguimiento de las letras eliminadas. Ejemplo: Si 'GRUA' elimina 'G' y 'R' en varios rompecabezas, puedes concentrarte en otras letras. [Diagrama de flujo de asignación de intentos: Rompecabezas fáciles → Letras compartidas → Eliminar redundancias.]"
+  },
+  {
+    "pregunta": "¿Qué técnicas avanzadas pueden ayudarme a resolver los rompecabezas de Sedecordle más rápido?",
+    "respuesta": "Las técnicas avanzadas para resolver Sedecordle más rápido incluyen: PASO 1 - Usa un enfoque de 'banco de palabras', manteniendo una lista de palabras posibles para cada rompecabezas. PASO 2 - Implementa el 'análisis de rompecabezas cruzados' para identificar patrones de letras superpuestas. PASO 3 - Prioriza los rompecabezas con más limitaciones para reducir la incertidumbre. Ejemplo: Si el rompecabezas 1 tiene 'A' y 'E' confirmadas, úsalas para reducir las posibilidades en los rompecabezas 2-16. [Explicación analógica: Piensa en ello como un juego de ajedrez donde cada movimiento (intento) influye en varios tableros (rompecabezas) simultáneamente.]"
+  },
+  {
+    "pregunta": "¿Cómo puedo optimizar mi estrategia de selección de palabras en Sedecordle?",
+    "respuesta": "Optimizar la selección de palabras en Sedecordle implica: PASO 1 - Elige palabras que cubran una amplia gama de letras y vocales comunes. PASO 2 - Usa el proceso de eliminación para descartar palabras que no se ajusten a la retroalimentación. PASO 3 - Reutiliza las letras confirmadas en los rompecabezas para minimizar los intentos. Ejemplo: Si 'AUDIO' confirma 'A' e 'I', prioriza las palabras que contienen estas letras en otros rompecabezas. [Tabla de comparación: Estrategia de selección de palabras - Cobertura amplia vs. Enfoque estrecho, con ejemplos como 'AUDIO' vs. 'GRUA']. "
+  },
+  {
+    "pregunta": "¿Cuáles son los mecanismos subyacentes del sistema de puntuación de Sedecordle?",
+    "respuesta": "El sistema de puntuación de Sedecordle se basa en el número de intentos utilizados para resolver los 16 rompecabezas. Cuantos menos intentos uses, mayor será tu puntuación. Ejemplo: Resolver todos los rompecabezas en 15 intentos obtiene una puntuación mayor que resolverlos en 20 intentos. [Análisis del sistema: Mecanismos de puntuación - Cada intento reduce tu puntuación potencial, y los intentos no utilizados añaden puntos de bonificación. La fórmula es: Puntuación = (21 - Intentos Utilizados) * 10 + Bonificación.]"
+  },
+  {
+    "pregunta": "¿Cómo asegura el algoritmo de generación de rompecabezas de Sedecordle la equidad y la variedad?",
+    "respuesta": "El algoritmo de generación de rompecabezas de Sedecordle asegura la equidad y la variedad al: 1) Seleccionar aleatoriamente palabras de una lista seleccionada de palabras comunes de 5 letras. 2) Asegurarse de que cada rompecabezas es independiente pero puede compartir letras con otros. 3) Equilibrar la dificultad incluyendo palabras comunes y menos comunes. Ejemplo: El rompecabezas 1 podría tener 'GRUA' mientras que el rompecabezas 2 tiene 'PLANTA', compartiendo la letra 'A'. [Análisis del sistema: Algoritmo de generación de rompecabezas - Selección aleatoria + Rompecabezas independientes + Equilibrio de la dificultad.]"
+  },
+  {
+    "pregunta": "¿Puedo transferir mi progreso en Sedecordle entre diferentes dispositivos?",
+    "respuesta": "Sí, puedes transferir tu progreso en Sedecordle entre dispositivos. PASO 1 - Asegúrate de haber iniciado sesión en la misma cuenta en ambos dispositivos. PASO 2 - Usa la función de guardado en la nube para sincronizar tu progreso. PASO 3 - Si encuentras problemas, borra la caché e inténtalo de nuevo. Ejemplo: El progreso de tu teléfono se puede acceder en tu tableta iniciando sesión en la misma cuenta. [Comparación de opciones: Sincronización en la nube vs. Guardado manual - La sincronización en la nube es automática pero requiere una cuenta, mientras que el guardado manual es sin conexión pero menos conveniente.]"
+  },
+  {
+    "pregunta": "¿Existen alguna función oculta o huevos de pascua en Sedecordle de los que los jugadores podrían no saber?",
+    "respuesta": "Sedecordle incluye funciones ocultas como: 1) Un 'Modo oscuro' para una mejor jugabilidad nocturna. 2) Logros ocultos por resolver todos los rompecabezas en tiempo récord. 3) Animaciones especiales al completar los 16 rompecabezas. Ejemplo: Completar todos los rompecabezas en menos de 15 intentos activa una animación especial de fuegos artificiales. [Descubriendo huevos de Pascua: Funciones ocultas - Modo oscuro, Logros ocultos, Animaciones especiales.]"
+  }
+]

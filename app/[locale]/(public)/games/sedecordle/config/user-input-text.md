@@ -1,0 +1,1 @@
+Sedecordle is an engaging charade game that challenges players to uncover hidden words. Similar to Wordle, it features multiple levels of varying difficulty and allows for simultaneous puzzle-solving.

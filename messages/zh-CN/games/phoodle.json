@@ -1,0 +1,77 @@
+{
+  "phoodle": {
+    "title": "在线玩Phoodle：免费的厨师主题单词益智游戏",
+    "slogan": "猜猜食物单词（6次机会）！",
+    "description": "Phoodle是一款受Wordle启发的厨师主题单词益智游戏。每天挑战与食材、烹饪方法或著名厨师相关的五个字母单词。猜对即可解锁有趣的食品知识。现在免费玩Phoodle，测试你的烹饪专业知识！",
+    "Loading": {
+      "title": "正在加载Phoodle..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一步",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "Phoodle：厨师主题单词益智游戏",
+      "description": "Phoodle为美食爱好者提供无限的可玩性。在六次尝试中猜出五个字母的食物单词，并解锁每日烹饪挑战。现在玩Phoodle！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Phoodle：厨师主题单词益智游戏",
+      "whatIsTitle": "Phoodle是什么？",
+      "whatIsDescription": "Phoodle是一款受Wordle启发的厨师主题单词益智游戏。它挑战玩家在六次尝试中猜出与食物相关的五个字母单词。",
+      "howToPlayTitle": "如何玩游戏",
+      "howToPlayStep1": "猜一个与食物相关的五个字母单词。",
+      "howToPlayStep2": "利用彩色字母的提示来完善你的猜测。",
+      "howToPlayStep3": "猜对后解锁食品知识！",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "每日挑战",
+      "feature1Description": "每天享受一个新的与食物相关的单词。",
+      "feature2Title": "彩色提示",
+      "feature2Description": "使用绿色、黄色和灰色提示来指导你的猜测。",
+      "feature3Title": "无限可玩性",
+      "feature3Description": "随时玩Phoodle，享受无止境的乐趣。",
+      "feature4Title": "食品知识",
+      "feature4Description": "每次猜对都能学习有趣的烹饪技巧。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页"
+    }
+  }
+}

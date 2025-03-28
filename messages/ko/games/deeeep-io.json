@@ -1,0 +1,77 @@
+{
+  "deeeep-io": {
+    "title": "디이프.아이오 탐험: 무료 온라인 수중 생존 게임",
+    "slogan": "생존, 진화, 정복",
+    "description": "위험천만한 디이프.아이오의 세계로 뛰어들어 생존 기술을 시험해보세요. 새로운 생물체로 진화하고 명예로운 순위표에 자리잡기 위해 짜릿한 수중 모험을 경험하세요. 다양한 생물, 먹이원, 그리고 다채로운 지형을 갖춘 디이프.아이오는 흥미진진한 경험을 제공합니다. 지금 플레이하고 살아남을 수 있을지 확인해보세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "이용약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "디이프.아이오",
+      "description": "최고의 수중 생존 게임을 경험하세요. 디이프.아이오에서 진화하고, 생존하고, 정복하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "디이프.아이오",
+      "whatIsTitle": "디이프.아이오는 무엇인가요?",
+      "whatIsDescription": "디이프.아이오는 새로운 생물체로 진화하고, 다양한 지형을 탐험하고, 순위표에 자리잡기 위해 경쟁하는 수중 생존 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "작은 생물체로 시작하여 먹이를 먹고 성장하세요.",
+      "howToPlayStep2": "더 강력한 생물체로 진화하여 더 오래 생존하세요.",
+      "howToPlayStep3": "다른 플레이어와 경쟁하여 순위표 맨 위에 오르세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "다양한 생물체",
+      "feature1Description": "각기 다른 능력을 가진 다양한 생물체 중에서 선택하세요.",
+      "feature2Title": "다이나믹한 지형",
+      "feature2Description": "다양한 수중 환경을 탐험하고 이를 이용하여 이점을 얻으세요.",
+      "feature3Title": "생존 도전",
+      "feature3Description": "경쟁적인 수중 생존 게임에서 당신의 기술을 시험해보세요.",
+      "feature4Title": "순위표",
+      "feature4Description": "다른 플레이어와 경쟁하여 순위표 맨 위 자리를 노려보세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

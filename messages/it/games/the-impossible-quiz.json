@@ -1,0 +1,77 @@
+{
+  "the-impossible-quiz": {
+    "title": "Il Quiz Impossibile - Gioco di Trivia Online Gratuito con Domande Complesse",
+    "slogan": "Metti alla prova la tua Mente con Il Quiz Impossibile",
+    "description": "Il Quiz Impossibile è un gioco di trivia online impegnativo con domande molto difficili. Le domande spesso hanno significati nascosti, inganni e giochi di parole, quindi avrai bisogno di pensare in modo creativo. Ogni domanda ha quattro possibili risposte, ma solo una è corretta. Ci sono un totale di 110 domande da affrontare. Gioca a Il Quiz Impossibile ora e metti alla prova le tue abilità!",
+    "Loading": {
+      "title": "Caricamento del Quiz Impossibile..."
+    },
+    "Navbar": {
+      "title": "Navigazione"
+    },
+    "Common": {
+      "createAt": "Creato il",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla Privacy",
+      "termsOfServices": "Termini di Servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Collegamenti Utili",
+      "articleList": "Elenco Articoli",
+      "home": "Home",
+      "next": "Successivo",
+      "previous": "Precedente"
+    },
+    "HomeIframe": {
+      "title": "Il Quiz Impossibile",
+      "description": "Gioca al Quiz Impossibile, un gioco di trivia impegnativo con domande intricate e che richiedono un pensiero creativo.",
+      "iframeTitle": "Anteprima del Gioco",
+      "fullscreenButton": "Schermo intero",
+      "shareButton": "Condividi",
+      "urlCopied": "URL copiato negli appunti!",
+      "downloadGame": "Scarica il Gioco",
+      "playGame": "Gioca"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Il Quiz Impossibile",
+      "whatIsTitle": "Cos'è Il Quiz Impossibile?",
+      "whatIsDescription": "Il Quiz Impossibile è un gioco di trivia online impegnativo con domande molto difficili. Le domande spesso hanno significati nascosti, inganni e giochi di parole, quindi avrai bisogno di pensare in modo creativo.",
+      "howToPlayTitle": "Come Giocare",
+      "howToPlayStep1": "Rispondi a ogni domanda selezionando una delle quattro possibili risposte.",
+      "howToPlayStep2": "Pensa in modo creativo, in quanto le domande potrebbero avere significati nascosti o inganni.",
+      "howToPlayStep3": "Completa tutte le 110 domande per completare il quiz.",
+      "keyFeaturesTitle": "Caratteristiche Principali",
+      "feature1Title": "Domande Impegnative",
+      "feature1Description": "Il Quiz Impossibile presenta domande molto difficili che richiedono un ragionamento creativo.",
+      "feature2Title": "Significati Nascosti",
+      "feature2Description": "Molte domande presentano significati nascosti, inganni e giochi di parole.",
+      "feature3Title": "Scelta Multipla",
+      "feature3Description": "Ogni domanda ha quattro possibili risposte, ma solo una è corretta.",
+      "feature4Title": "110 Domande",
+      "feature4Description": "Il Quiz Impossibile include un totale di 110 domande da affrontare."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Consigliati"
+    },
+    "HomeComments": {
+      "title": "Commenti del Gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i Giochi",
+      "description": "Tutti i Giochi",
+      "games": "Giochi"
+    },
+    "CategoryPage": {
+      "categories": "Categorie",
+      "noCategories": "Nessuna categoria trovata",
+      "viewMore": "Visualizza di Più",
+      "page": "Pagina"
+    }
+  }
+}

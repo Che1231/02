@@ -1,0 +1,77 @@
+{
+  "sedecordle": {
+    "title": "Juega a Sedecordle en línea: juego de rompecabezas de palabras gratuito",
+    "slogan": "Descubre palabras ocultas con Sedecordle",
+    "description": "Sedecordle es un juego de adivinanzas atractivo que desafía a los jugadores a descubrir palabras ocultas. Similar a Wordle, presenta múltiples niveles de dificultad variable y permite la resolución simultánea de acertijos. ¡Sumérgete en Sedecordle hoy y experimenta la emoción del descubrimiento de palabras!",
+    "Loading": {
+      "title": "Cargando Sedecordle..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Sedecordle™ - Rompecabezas de palabras en línea gratuito",
+      "description": "Desafíate a ti mismo con Sedecordle, un cautivador juego de rompecabezas de palabras. Descubre palabras ocultas en múltiples niveles de dificultad variable. ¡Juega ahora y disfruta de la mejor experiencia de descubrimiento de palabras!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sedecordle - Desafío de rompecabezas de palabras",
+      "whatIsTitle": "¿Qué es Sedecordle?",
+      "whatIsDescription": "Sedecordle es un juego de adivinanzas atractivo que desafía a los jugadores a descubrir palabras ocultas. Similar a Wordle, presenta múltiples niveles de dificultad variable y permite la resolución simultánea de acertijos.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Comienza seleccionando un nivel de dificultad.",
+      "howToPlayStep2": "Adivina la palabra oculta ingresando letras.",
+      "howToPlayStep3": "Completa el rompecabezas para desbloquear el siguiente nivel.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Múltiples niveles",
+      "feature1Description": "Disfruta de una variedad de niveles de dificultad para mantener el desafío fresco.",
+      "feature2Title": "Acertijos simultáneos",
+      "feature2Description": "Resuelve varios rompecabezas a la vez para una experiencia mejorada.",
+      "feature3Title": "Jugabilidad atractiva",
+      "feature3Description": "Mantente entretenido con cautivadoras mecánicas de descubrimiento de palabras.",
+      "feature4Title": "Gratis para jugar",
+      "feature4Description": "Accede a todas las funciones sin costo alguno."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios de juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

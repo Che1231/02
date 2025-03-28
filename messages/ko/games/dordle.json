@@ -1,0 +1,77 @@
+{
+  "dordle": {
+    "title": "Dordle: 단어 챌린지 최고봉",
+    "slogan": "단어를 두 배로 즐거움을 두 배로",
+    "description": "Dordle은 게임 플레이에 독특한 변화를 더하는 Wordle의 흥미로운 변형입니다. 기본적인 메커니즘은 동일하지만, Dordle은 진행하기 위해 동시에 두 개의 단어를 추측하도록 합니다. 그러나 명백한 단순함에 속지 마세요. 이 게임에는 눈에 보이는 것 이상이 있습니다.",
+    "Loading": {
+      "title": "불러오는 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인 정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "Dordle: 단어 챌린지 최고봉",
+      "description": "Dordle은 게임 플레이에 독특한 변화를 더하는 Wordle의 흥미로운 변형입니다. 기본적인 메커니즘은 동일하지만, Dordle은 진행하기 위해 동시에 두 개의 단어를 추측하도록 합니다. 그러나 명백한 단순함에 속지 마세요. 이 게임에는 눈에 보이는 것 이상이 있습니다.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Dordle: 단어 챌린지 최고봉",
+      "whatIsTitle": "Dordle이란 무엇인가요?",
+      "whatIsDescription": "Dordle은 게임 플레이에 독특한 변화를 더하는 Wordle의 흥미로운 변형입니다. 기본적인 메커니즘은 동일하지만, Dordle은 진행하기 위해 동시에 두 개의 단어를 추측하도록 합니다. 그러나 명백한 단순함에 속지 마세요. 이 게임에는 눈에 보이는 것 이상이 있습니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "동시에 두 개의 단어를 추측합니다.",
+      "howToPlayStep2": "피드백을 사용하여 추측을 개선합니다.",
+      "howToPlayStep3": "두 단어를 모두 정확히 추측하여 진행합니다.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "도전 두 배",
+      "feature1Description": "독특한 변화를 위해 동시에 두 개의 단어를 추측합니다.",
+      "feature2Title": "강화된 전략",
+      "feature2Description": "두 단어 모두의 피드백을 사용하여 추측을 개선합니다.",
+      "feature3Title": "몰입형 게임 플레이",
+      "feature3Description": "혁신적인 메커니즘으로 몰입도를 높입니다.",
+      "feature4Title": "모두를 위한 접근성",
+      "feature4Description": "학습하기는 쉽지만 마스터하기는 어렵습니다."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

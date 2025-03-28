@@ -1,0 +1,77 @@
+{
+  "x-trench-run": {
+    "title": "X Trench Run - Hızlı Tempolu Uzay Simülasyon Oyunu",
+    "slogan": "Yol Alın, Kaçının, Yok Edin - Kozmosu Fethedin!",
+    "description": "X Trench Run'ın heyecan verici hızlı tempolu uzay simülasyon oyununda tehlikeli kozmik engeller arasında yol alın. Göreviniz, çarpışmalardan ve kulelerden kaçınırken devasa bir uzay yapısını yok etmektir. Hareketli oyun deneyimi ve zorlu seviyelerle X Trench Run sonsuz heyecan sunar. Şimdi oynayın ve kozmik mücadeleye katılın!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "X Trench Run - Hızlı Tempolu Uzay Simülasyon Oyunu",
+      "description": "Uzayda yol alın, engellerden kaçının ve X Trench Run'da devasa yapıyı yok edin. Şimdi oynayın ve hareketi deneyimleyin!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "X Trench Run",
+      "whatIsTitle": "X Trench Run Nedir?",
+      "whatIsDescription": "X Trench Run, engeller arasında yol alıp uzayda devasa bir yapıyı yok ettiğiniz hızlı tempolu bir uzay simülasyon oyunudur.",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Hayatta kalmak için engellerden ve kulelerden kaçının.",
+      "howToPlayStep2": "Devasa yapıyı yok etmek için silahlarınızı kullanın.",
+      "howToPlayStep3": "Daha yüksek seviyelere ulaşmak için zorlukları tamamlayın.",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Hızlı Tempolu Oyun",
+      "feature1Description": "Uzayda yoğun aksiyon ve hızla yol alın.",
+      "feature2Title": "Zorlu Engeller",
+      "feature2Description": "Hayatta kalmak için pürüzlü engellerden ve kulelerden kaçının.",
+      "feature3Title": "Kozmik Savaş",
+      "feature3Description": "Devasa yapıyı yok edin ve kozmosu fethedin.",
+      "feature4Title": "Çoklu Silahlar",
+      "feature4Description": "Kendinizi ve evreni korumak için çeşitli silahları kullanın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Hiç kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

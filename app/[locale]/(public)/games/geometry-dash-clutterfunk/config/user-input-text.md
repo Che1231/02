@@ -1,0 +1,1 @@
+Geometry Dash Clutterfunk is an electrifying level in the popular rhythm-based platforming game, Geometry Dash. It offers players an exhilarating experience with its captivating design and pulsating soundtrack. Clutterfunk is categorized as an easy demon level, challenging players with its 10-star difficulty rating.

@@ -1,0 +1,77 @@
+{
+  "curve-ball-3d": {
+    "title": "커브볼 3D - 무료 온라인 아케이드 스포츠 게임",
+    "slogan": "네온 테니스 경기에서 기술을 시험하세요",
+    "description": "커브볼 3D는 숙련된 상대를 물리치기 위해 공을 휘두르고 치는 중독성 있는 아케이드 경험을 제공합니다. 이 1인칭 테니스 게임에서 한정된 네온 공간에서 최고 점수를 목표로 합니다. 각 라운드는 3,000점으로 시작하여 시간이 지남에 따라 감소합니다. 더 빠르게 이기면 더 높은 점수를 얻을 수 있습니다! 라운드당 시도 횟수가 5회에 불과하므로 예측할 수 없는 공에 집중하고 적응해야 합니다. 반사 신경을 테스트할 준비가 되셨습니까? 지금 바로 커브볼 3D를 플레이하세요!",
+    "Loading": {
+      "title": "커브볼 3D 로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "내용",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "커브볼 3D™",
+      "description": "커브볼 3D는 네온 테니스 경기에서 숙련된 상대와 경쟁하는 흥미진진한 아케이드 스포츠 게임입니다. 가상 라켓을 사용하여 블록하고 반격하여 최고 점수를 목표로 합니다. 독특한 점수 메커니즘과 증가하는 난이도로 이 게임은 집중력과 반사 신경을 테스트합니다. 지금 바로 커브볼 3D를 플레이하고 흥분을 경험하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "커브볼 3D™",
+      "whatIsTitle": "커브볼 3D는 무엇인가요?",
+      "whatIsDescription": "커브볼 3D는 네온 테니스 경기에서 숙련된 상대를 물리치기 위해 공을 휘두르고 치는 중독성 있는 아케이드 스포츠 게임입니다. 예측할 수 없는 공에 적응하고 난이도를 높여 최고 점수를 목표로 합니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "마우스를 사용하여 라켓을 공 위치로 이동하고 서브 키를 누릅니다.",
+      "howToPlayStep2": "공의 방향을 관찰하여 함정 방패를 제어하고 상대의 공격을 막습니다.",
+      "howToPlayStep3": "상대방이 막을 수 없는 위치에 공을 치면 점수를 얻습니다.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "독창적인 점수 시스템",
+      "feature1Description": "각 라운드는 3,000점으로 시작하여 시간이 지남에 따라 감소합니다. 더 빨리 이기면 더 높은 점수를 얻을 수 있습니다!",
+      "feature2Title": "증가하는 난이도",
+      "feature2Description": "각 레벨에서 게임 속도가 빨라지면서 집중력과 반사 신경을 시험합니다.",
+      "feature3Title": "제한된 시도 횟수",
+      "feature3Description": "실패를 막기 위해 라운드당 5회의 시도만 허용되어 난이도를 더합니다.",
+      "feature4Title": "네온 테니스 경기",
+      "feature4Description": "매력적인 스포츠 게임으로 한정된 네온 공간에서 1인칭 테니스 경험을 제공합니다."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

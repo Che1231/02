@@ -1,0 +1,77 @@
+{
+  "voxiom-io": {
+    "title": "Play Voxiom.io - Free Online Multiplayer Shooter",
+    "slogan": "Engage in intense multiplayer battles in Voxiom.io!",
+    "description": "Voxiom.io combines the essence of Minecraft with thrilling gunfights. Dismantle the environment, forge advanced weaponry, and survive the encroaching poisonous gas. Experience crafting, building, and combat with powerful firearms. Can you emerge as the sole survivor? Play Voxiom.io now for free!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Voxiom.io",
+      "description": "Experience the ultimate multiplayer shooter in Voxiom.io. Survive, craft, and build your way to victory!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Voxiom.io",
+      "whatIsTitle": "What is Voxiom.io?",
+      "whatIsDescription": "Voxiom.io is a browser-based shooter that combines crafting, building, and intense multiplayer gunfights. Survive the poisonous gas and emerge as the last player standing!",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Dismantle the environment to gather resources.",
+      "howToPlayStep2": "Forge advanced weaponry to gain an edge in combat.",
+      "howToPlayStep3": "Survive the encroaching poisonous gas and be the last player standing.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Crafting & Building",
+      "feature1Description": "Use resources to craft weapons and build structures.",
+      "feature2Title": "Multiplayer Battles",
+      "feature2Description": "Engage in intense gunfights with players worldwide.",
+      "feature3Title": "Poisonous Gas",
+      "feature3Description": "Survive the shrinking play area and outlast your opponents.",
+      "feature4Title": "Powerful Firearms",
+      "feature4Description": "Wield a variety of advanced weapons to dominate the battlefield."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "word-hurdle": {
+    "title": "Word Hurdle : Défi à votre vocabulaire et vos compétences spatiales",
+    "slogan": "Améliorez votre vocabulaire à chaque partie",
+    "description": "Word Hurdle est un jeu de mots captivant qui met à l'épreuve votre vocabulaire et vos capacités de raisonnement spatial. Parfait pour les amateurs de jeux de mots, il offre une expérience simple mais stimulante. Jouez à Word Hurdle dès maintenant et boostez vos capacités cognitives tout en vous amusant !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste d'articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Word Hurdle : Jeu de mots en ligne gratuit",
+      "description": "Word Hurdle est un jeu de mots amusant et stimulant qui améliore votre vocabulaire et vos compétences en raisonnement spatial. Jouez maintenant et voyez jusqu'où vous pouvez aller !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Word Hurdle",
+      "whatIsTitle": "Qu'est-ce que Word Hurdle ?",
+      "whatIsDescription": "Word Hurdle est un jeu de mots simple mais stimulant qui peut améliorer votre vocabulaire et vos compétences en raisonnement spatial.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Commencez par saisir un mot.",
+      "howToPlayStep2": "Utilisez les indices pour deviner le mot correct.",
+      "howToPlayStep3": "Terminez le défi dans le délai imparti.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Amélioration du vocabulaire",
+      "feature1Description": "Améliorez votre vocabulaire à chaque partie.",
+      "feature2Title": "Raisonnement spatial",
+      "feature2Description": "Défiez vos compétences en raisonnement spatial.",
+      "feature3Title": "Réflexion rapide",
+      "feature3Description": "Testez votre rapidité de réflexion et vos réponses intelligentes.",
+      "feature4Title": "Amusant et captivant",
+      "feature4Description": "Profitez d'une expérience de jeu de mots amusante et captivante."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

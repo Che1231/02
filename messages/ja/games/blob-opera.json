@@ -1,0 +1,77 @@
+{
+  "blob-opera": {
+    "title": "Blob Opera - 無料オンライン音楽ゲーム",
+    "slogan": "あなたのオペラ傑作を創造しましょう",
+    "description": "Blob Operaは、ブロブを使ってオペラを作曲できる、ユニークな音楽ゲームです。ブロブをドラッグして調整し、調和のとれたメロディーを創造してください。あらゆるスキルレベルの方に最適で、Blob Operaは、音楽を楽しく創造的に探求する素晴らしい方法を提供します。本日Blob Operaをプレイして、あなたの内なる作曲家を解き放ちましょう！",
+    "Loading": {
+      "title": "Blob Operaを読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "Blob Opera - 無料オンライン音楽ゲーム",
+      "description": "Blob Operaは、ブロブを使ってオペラを作曲できる、ユニークな音楽ゲームです。ブロブをドラッグして調整し、調和のとれたメロディーを創造してください。あらゆるスキルレベルの方に最適で、Blob Operaは、音楽を楽しく創造的に探求する素晴らしい方法を提供します。本日Blob Operaをプレイして、あなたの内なる作曲家を解き放ちましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Blob Opera - 無料オンライン音楽ゲーム",
+      "whatIsTitle": "Blob Operaとは何ですか？",
+      "whatIsDescription": "Blob Operaは、David Li氏とGoogle Arts & Cultureとの共同開発による音楽ゲームです。4人のオペラ歌手の声で訓練された機械学習モデルを用いて、誰もが楽しめる実用的で楽しい音楽ゲームを実現しました。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "マウスをドラッグして、ブロブが特定のピッチに到達するのを手伝ってください。",
+      "howToPlayStep2": "ブロブを調整して、調和のとれたメロディーを創造してください。",
+      "howToPlayStep3": "さまざまな音楽スタイルを探求し、独自のオペラを創造してください。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "インタラクティブな音楽創造",
+      "feature1Description": "Blob Operaでは、ブロブを調整することで、インタラクティブに音楽を創造できます。",
+      "feature2Title": "機械学習モデル",
+      "feature2Description": "このゲームは、オペラ歌手の声で訓練された機械学習モデルを使用しています。",
+      "feature3Title": "簡単操作",
+      "feature3Description": "Blob Operaは、あらゆるスキルレベルの方に最適な、理解しやすくプレイできるゲームです。",
+      "feature4Title": "創造的な探求",
+      "feature4Description": "さまざまな音楽スタイルを探求し、あなただけのユニークなオペラを創造してください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "コメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "vex-4": {
+    "title": "Vex 4 - Juego de Aventura Online Gratis",
+    "slogan": "Escápate, Navega, Conquista",
+    "description": "Vex 4 es la cuarta entrega emocionante de la serie Vex, ofreciendo un desafío aún mayor. Tu objetivo en Vex 4 es escapar de cada nivel navegando a través de obstáculos con correr, saltar, deslizarte e incluso nadar. El juego sigue siendo familiar, permitiéndote utilizar diferentes movimientos como escalar paredes. Una nueva adición es el grabador fantasma, que te permite registrar tus movimientos en los niveles. Es una función opcional, pero es bastante genial probarla. El juego se ve y se juega prácticamente igual que antes, con controles que utilizan WASD o las teclas de flecha según tu preferencia. ¡Prepárate para una aventura emocionante en Vex 4!",
+    "Loading": {
+      "title": "Cargando Vex 4..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Términos de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Vex 4 - Juego de Aventura Online Gratis",
+      "description": "Vex 4 es la cuarta entrega emocionante de la serie Vex, ofreciendo un desafío aún mayor. Tu objetivo en Vex 4 es escapar de cada nivel navegando a través de obstáculos con correr, saltar, deslizarte e incluso nadar. El juego sigue siendo familiar, permitiéndote utilizar diferentes movimientos como escalar paredes. Una nueva adición es el grabador fantasma, que te permite registrar tus movimientos en los niveles. Es una función opcional, pero es bastante genial probarla. El juego se ve y se juega prácticamente igual que antes, con controles que utilizan WASD o las teclas de flecha según tu preferencia. ¡Prepárate para una aventura emocionante en Vex 4!",
+      "iframeTitle": "Vista Previa del Juego",
+      "fullscreenButton": "Pantalla Completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar Juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Vex 4 - Juego de Aventura Online Gratis",
+      "whatIsTitle": "¿Qué es Vex 4?",
+      "whatIsDescription": "Vex 4 es la cuarta entrega emocionante de la serie Vex, ofreciendo un desafío aún mayor. Tu objetivo en Vex 4 es escapar de cada nivel navegando a través de obstáculos con correr, saltar y deslizarte.",
+      "howToPlayTitle": "¿Cómo Jugar?",
+      "howToPlayStep1": "Navega a través de los obstáculos corriendo, saltando y deslizándote.",
+      "howToPlayStep2": "Utiliza diferentes movimientos como escalar paredes para escapar de cada nivel.",
+      "howToPlayStep3": "Prueba el grabador fantasma para registrar tus movimientos en los niveles.",
+      "keyFeaturesTitle": "Características Clave",
+      "feature1Title": "Niveles Desafíanos",
+      "feature1Description": "Escapa de cada nivel navegando a través de varios obstáculos.",
+      "feature2Title": "Grabador Fantasma",
+      "feature2Description": "Registra tus movimientos en los niveles con esta función opcional.",
+      "feature3Title": "Jugabilidad Familiar",
+      "feature3Description": "Utiliza diferentes movimientos como escalar paredes para escapar de cada nivel.",
+      "feature4Title": "Controles Personalizables",
+      "feature4Description": "Juega con WASD o las teclas de flecha según tu preferencia."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas Frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del Juego"
+    },
+    "GamePage": {
+      "title": "Todos los Juegos",
+      "description": "Todos los Juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver Más",
+      "page": "Página"
+    }
+  }
+}

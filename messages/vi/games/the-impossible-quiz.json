@@ -1,0 +1,77 @@
+{
+  "the-impossible-quiz": {
+    "title": "Câu đố không thể - Trò chơi đố vui trực tuyến miễn phí với câu hỏi khó",
+    "slogan": "Thách thức trí tuệ của bạn với Câu đố không thể",
+    "description": "Câu đố không thể là một trò chơi đố vui trực tuyến đầy thử thách với những câu hỏi rất khó. Các câu hỏi thường có ý nghĩa ẩn giấu, mẹo và chơi chữ, vì vậy bạn cần phải tư duy sáng tạo. Mỗi câu hỏi có bốn đáp án khả thi, nhưng chỉ có một đáp án đúng. Có tổng cộng 110 câu hỏi để giải quyết. Hãy chơi Câu đố không thể ngay bây giờ và thử thách kỹ năng của bạn!",
+    "Loading": {
+      "title": "Đang tải Câu đố không thể..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Câu đố không thể",
+      "description": "Chơi Câu đố không thể, một trò chơi đố vui đầy thử thách với những câu hỏi khó và đòi hỏi tư duy sáng tạo.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào bộ nhớ tạm!",
+      "downloadGame": "Tải game",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Câu đố không thể",
+      "whatIsTitle": "Câu đố không thể là gì?",
+      "whatIsDescription": "Câu đố không thể là một trò chơi đố vui trực tuyến đầy thử thách với những câu hỏi rất khó. Các câu hỏi thường có ý nghĩa ẩn giấu, mẹo và chơi chữ, vì vậy bạn cần phải tư duy sáng tạo.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Trả lời mỗi câu hỏi bằng cách chọn một trong bốn đáp án khả thi.",
+      "howToPlayStep2": "Suy nghĩ sáng tạo vì các câu hỏi có thể có ý nghĩa ẩn giấu hoặc mẹo.",
+      "howToPlayStep3": "Hoàn thành tất cả 110 câu hỏi để hoàn thành bài kiểm tra.",
+      "keyFeaturesTitle": "Tính năng chính",
+      "feature1Title": "Câu hỏi đầy thử thách",
+      "feature1Description": "Câu đố không thể có những câu hỏi rất khó đòi hỏi tư duy sáng tạo.",
+      "feature2Title": "Ý nghĩa ẩn giấu",
+      "feature2Description": "Nhiều câu hỏi có ý nghĩa ẩn giấu, mẹo và chơi chữ.",
+      "feature3Title": "Đa lựa chọn",
+      "feature3Description": "Mỗi câu hỏi có bốn đáp án khả thi, nhưng chỉ có một đáp án đúng.",
+      "feature4Title": "110 câu hỏi",
+      "feature4Description": "Câu đố không thể bao gồm tổng cộng 110 câu hỏi để giải quyết."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Thể loại",
+      "noCategories": "Không tìm thấy thể loại nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

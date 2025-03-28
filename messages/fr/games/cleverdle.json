@@ -1,0 +1,77 @@
+{
+  "cleverdle": {
+    "title": "Jouer à Cleverdle en ligne - Jeu de puzzle de mots gratuit",
+    "slogan": "Mettez vos compétences en matière de mots à l'épreuve avec Cleverdle !",
+    "description": "Cleverdle est un jeu captivant de puzzle de mots qui met au défi votre vocabulaire et votre pensée logique. Avec des centaines de puzzles variés, Cleverdle offre un mélange unique de divertissement et d'exercice mental. Chaque niveau nécessite de la créativité et une pensée stratégique pour résoudre des mots de cinq lettres en seulement six essais. Plongez-vous dans le monde de Cleverdle et profitez d'un voyage rempli de mystère et de découverte. Jouez maintenant et améliorez vos compétences en matière de mots !",
+    "Loading": {
+      "title": "Chargement…"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amicaux",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Cleverdle™ - Jeu de puzzle de mots gratuit",
+      "description": "Cleverdle est un jeu de puzzle de mots stimulant qui met à l'épreuve votre vocabulaire et vos capacités logiques. Jouez maintenant et résolvez des mots de cinq lettres en six essais !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer au jeu"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Cleverdle™ - Le défi ultime des puzzles de mots",
+      "whatIsTitle": "Qu'est-ce que Cleverdle ?",
+      "whatIsDescription": "Cleverdle est un jeu de puzzle de mots qui allie divertissement et exercice mental. Il met les joueurs au défi de résoudre des mots de cinq lettres en six essais, améliorant ainsi le vocabulaire et la pensée logique.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Commencez par deviner un mot de cinq lettres.",
+      "howToPlayStep2": "Utilisez les indices de couleur pour affiner vos prochaines suppositions.",
+      "howToPlayStep3": "Résolvez le mot en six tentatives pour gagner !",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Des puzzles stimulants",
+      "feature1Description": "Des centaines de puzzles variés pour mettre à l'épreuve vos compétences en matière de mots.",
+      "feature2Title": "Exercice mental",
+      "feature2Description": "Améliorez votre vocabulaire et votre pensée logique à chaque niveau.",
+      "feature3Title": "Gameplay stratégique",
+      "feature3Description": "Résolvez des mots de cinq lettres en seulement six essais grâce à une pensée stratégique.",
+      "feature4Title": "Expérience captivante",
+      "feature4Description": "Découvrez un voyage rempli de mystère et de découverte dans Cleverdle."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

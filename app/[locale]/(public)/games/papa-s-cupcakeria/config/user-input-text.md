@@ -1,0 +1,1 @@
+Papa's Cupcakeria is the eighth installment in the popular Papa's series. In this game, you play as a waiter in a cafeteria located in Frostfield town. Your task is to serve your customers delicious cupcakes that you create and bake in your own kitchen.

@@ -1,0 +1,77 @@
+{
+  "ev-io": {
+    "title": "Ev.ioオンラインゲームをプレイ - 無料のマルチプレイヤーFPSゲーム",
+    "slogan": "Ev.ioで未来的な戦いに参加しましょう",
+    "description": "Ev.ioは、未来的なアリーナを舞台にしたスリリングなマルチプレイヤーFPSゲームです。Halo、Destiny、Quakeにインスパイアされた戦略的なレベルデザインにより、Ev.ioはさまざまな武器と能力を提供します。簡単なクリックで戦いに参加し、戦場であなたのスキルを披露しましょう。 今すぐEv.ioをプレイして、究極のFPSチャレンジを体験してください！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "Ev.io",
+      "description": "Ev.ioで未来的なFPS戦いに参加しましょう。戦略的なレベルデザインと多様な武器により、Ev.ioは没入型のマルチプレイヤー体験を提供します。 今すぐプレイして戦場で支配しましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "フルスクリーン",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Ev.io",
+      "whatIsTitle": "Ev.ioとは？",
+      "whatIsDescription": "Ev.ioは、未来的なアリーナ内でマルチプレイヤーの戦いに参加できるFPSゲームです。このゲームは、Halo、Destiny、Quakeを彷彿とさせる戦略的なレベルデザインを取り入れています。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "武器と能力を選択しましょう。",
+      "howToPlayStep2": "マルチプレイヤー戦に参加しましょう。",
+      "howToPlayStep3": "あなたのスキルを披露し、戦場で支配しましょう。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "未来的なアリーナ",
+      "feature1Description": "視覚的に素晴らしい未来的なアリーナで戦いましょう。",
+      "feature2Title": "様々な武器",
+      "feature2Description": "あなたのプレイスタイルに合った幅広い武器の中から選択しましょう。",
+      "feature3Title": "戦略的なレベルデザイン",
+      "feature3Description": "戦略を重視して設計されたレベルを体験しましょう。",
+      "feature4Title": "マルチプレイヤーバトル",
+      "feature4Description": "世界中のプレイヤーと激しいマルチプレイヤーバトルに参加しましょう。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

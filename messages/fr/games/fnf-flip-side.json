@@ -1,0 +1,77 @@
+{
+  "fnf-flip-side": {
+    "title": "FNF Flip-Side : Jeu de rythme de bataille en ligne gratuit",
+    "slogan": "Testez vos réflexes et maîtrisez le rythme !",
+    "description": "Plongez-vous dans FNF Flip-Side et testez vos réflexes dans cette bataille rythmique. Préparez-vous à traverser les sauts et les chutes pour devenir un maître ! FNF Flip-Side propose des batailles de rap stimulantes avec de nouveaux personnages et des mélodies imprévisibles, poussant vos compétences à un nouveau niveau. Êtes-vous prêt pour un virage inattendu et passionnant ? Jouez à FNF Flip-Side maintenant et vivez le défi ultime du rythme !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amicaux",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "FNF Flip-Side",
+      "description": "Plongez-vous dans FNF Flip-Side et testez vos réflexes dans cette bataille rythmique. Préparez-vous à traverser les sauts et les chutes pour devenir un maître !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "FNF Flip-Side",
+      "whatIsTitle": "Qu'est-ce que FNF Flip-Side ?",
+      "whatIsDescription": "FNF Flip-Side est le jeu de bataille rythmique ultime où tout est retourné ! Affrontez de nouveaux personnages et des mélodies imprévisibles dans des batailles de rap stimulantes.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Testez vos réflexes et maîtrisez le rythme.",
+      "howToPlayStep2": "Traversez les sauts et les chutes pour devenir un maître.",
+      "howToPlayStep3": "Affrontez de nouveaux personnages et des mélodies imprévisibles dans des batailles de rap stimulantes.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Batailles de rap stimulantes",
+      "feature1Description": "Participez à des batailles de rap intenses qui repoussent vos compétences à leurs limites.",
+      "feature2Title": "Nouveaux personnages",
+      "feature2Description": "Rencontrez de nouveaux personnages avec des styles et des défis uniques.",
+      "feature3Title": "Mélodies imprévisibles",
+      "feature3Description": "Découvrez une variété de mélodies qui vous maintiennent en alerte.",
+      "feature4Title": "Gameplay à l'envers",
+      "feature4Description": "Tout est retourné, offrant une expérience nouvelle et passionnante."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

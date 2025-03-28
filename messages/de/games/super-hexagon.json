@@ -1,0 +1,77 @@
+{
+  "super-hexagon": {
+    "title": "Super Hexagon – Fordere Ihre Reflexe mit rhythmischer Action",
+    "slogan": "Spüren Sie den Beat, entkommen Sie den Hexas",
+    "description": "Super Hexagon bietet ein einzigartiges Musikerlebnis, das Ihre Improvisationsfähigkeiten herausfordert. Navigieren Sie durch eine Welt rotierender Sechsecke, vermeiden Sie hereinrasende Wände und tauchen Sie ein in kraftvolle elektronische Musik. Das Tempo des Spiels erhöht sich kontinuierlich und testet Ihre Reflexe und Konzentration. Spielen Sie jetzt und sehen Sie, wie lange Sie in diesem aufregenden rhythmischen Abenteuer überleben können!",
+    "Loading": {
+      "title": "Super Hexagon wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Super Hexagon – Kostenloses Online-Spiel",
+      "description": "Erleben Sie die Herausforderung von Super Hexagon, wo Rhythmus und Reflexe aufeinandertreffen. Vermeiden Sie hereinrasende Wände, spüren Sie den Beat und überleben Sie in diesem rasanten Spiel. Spielen Sie jetzt kostenlos!",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Super Hexagon",
+      "whatIsTitle": "Was ist Super Hexagon?",
+      "whatIsDescription": "Super Hexagon ist ein rhythmisches Spiel, das Ihre Reflexe und Konzentration auf die Probe stellt. Navigieren Sie durch eine Welt rotierender Sechsecke und vermeiden Sie hereinrasende Wände, um zu überleben.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Verwenden Sie die linken und rechten Pfeiltasten, um das Sechseck zu drehen.",
+      "howToPlayStep2": "Vermeiden Sie Wände, die von den Kanten der Sechsecke erscheinen.",
+      "howToPlayStep3": "Halten Sie mit dem zunehmenden Tempo Schritt und überleben Sie so lange wie möglich.",
+      "keyFeaturesTitle": "Wichtige Merkmale",
+      "feature1Title": "Rhythmischer Spielablauf",
+      "feature1Description": "Synchronisieren Sie Ihre Bewegungen mit dem Beat der Musik für ein intensives Erlebnis.",
+      "feature2Title": "Herausfordernde Level",
+      "feature2Description": "Das Tempo des Spiels erhöht sich kontinuierlich und testet Ihre Reflexe und Konzentration.",
+      "feature3Title": "Elektronische Musik",
+      "feature3Description": "Kraftvolle und ansprechende elektronische Musik verstärkt das Spielerlebnis.",
+      "feature4Title": "Freischaltbare Erfolge",
+      "feature4Description": "Fordern Sie sich selbst heraus, Erfolge freizuschalten und Ihre Fähigkeiten zu verbessern."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

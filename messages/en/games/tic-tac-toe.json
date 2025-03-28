@@ -1,0 +1,77 @@
+{
+  "tic-tac-toe": {
+    "title": "Play Tic Tac Toe Online | Classic X and O Game",
+    "slogan": "Enjoy the timeless fun of Tic Tac Toe!",
+    "description": "Tic Tac Toe, also known as Noughts and Crosses, is a classic and popular game enjoyed by people of all ages. It is a simple yet engaging game played on a grid of 3x3 squares. The objective is to create a line of three matching symbols (either X or O) horizontally, vertically, or diagonally. Play Tic Tac Toe now and challenge your friends!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Tic Tac Toe | Classic X and O Game",
+      "description": "Play the classic game of Tic Tac Toe online. Challenge your friends and see who can get three in a row first!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Tic Tac Toe | Classic X and O Game",
+      "whatIsTitle": "What is Tic Tac Toe?",
+      "whatIsDescription": "Tic Tac Toe, also known as Noughts and Crosses, is a classic and popular game enjoyed by people of all ages. It is a simple yet engaging game played on a grid of 3x3 squares.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Two players take turns placing their chosen symbol (X or O) on an empty square of the grid.",
+      "howToPlayStep2": "The first player usually starts with X, and the second player follows with O.",
+      "howToPlayStep3": "The game continues until one player successfully forms a line of three symbols or all the squares on the grid are filled, resulting in a draw.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Simple Rules",
+      "feature1Description": "Easy to learn and play, making it accessible to all ages.",
+      "feature2Title": "Quick Gameplay",
+      "feature2Description": "Fast-paced and perfect for short breaks.",
+      "feature3Title": "Strategic Thinking",
+      "feature3Description": "Encourages players to think ahead and plan their moves.",
+      "feature4Title": "Endless Fun",
+      "feature4Description": "Replayable and always a challenge with different opponents."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

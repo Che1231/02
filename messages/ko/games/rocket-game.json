@@ -1,0 +1,77 @@
+{
+  "rocket-game": {
+    "title": "로켓 게임: 짜릿한 우주 모험",
+    "slogan": "도전적인 레벨을 헤쳐나가 로켓을 조종하고 별빛 아래로 날아오르세요!",
+    "description": "로켓 게임은 당신을 흥미진진한 모험으로 이끕니다! 도전적인 레벨을 헤쳐나가 장애물을 피하며 별빛 아래로 날아오르세요. 이 물리 기반 드라이빙 게임은 위험한 도로를 통과하는 독특한 경험을 선사합니다. 이러한 독특한 경험에 몰입하여 여가 시간을 더욱 즐겁게 만드세요. 지금 로켓 게임을 플레이하고 짜릿함을 만끽하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친선 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "로켓 게임: 짜릿한 우주 모험",
+      "description": "도전적인 레벨을 헤쳐나가 장애물을 피하며 별빛 아래로 날아오르세요. 위험한 도로를 통과하는 독특한 경험을 즐기세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "로켓 게임: 짜릿한 우주 모험",
+      "whatIsTitle": "로켓 게임이란 무엇인가요?",
+      "whatIsDescription": "로켓 게임은 위험한 도로를 통과하는 경험이 특징인 물리 기반 드라이빙 게임입니다. 가파른 언덕과 울퉁불퉁한 언덕은 당신의 여정을 더욱 특별하게 만들 것입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "위쪽 화살표: 직진; 누르고 있으면 가속합니다.",
+      "howToPlayStep2": "아래쪽 화살표: 후진, 일반적으로 가속도를 얻기 위해.",
+      "howToPlayStep3": "스페이스바: 로켓 모드, 누르고 있으면 이 특별한 차량의 '발사' 힘을 조정합니다.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "도전적인 레벨",
+      "feature1Description": "복잡한 플랫폼을 탐색하고 장애물을 극복하십시오.",
+      "feature2Title": "물리 기반 게임 플레이",
+      "feature2Description": "위험한 도로를 달리면서 현실적인 물리학을 경험하세요.",
+      "feature3Title": "로켓 모드",
+      "feature3Description": "로켓 모드를 사용하여 추진력 점프를 하고 로켓처럼 날아가세요.",
+      "feature4Title": "중독성 있는 모험",
+      "feature4Description": "중독성 있는 게임을 만드는 독특한 경험에 몰입하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "deeeep-io": {
+    "title": "潜入 Deeep.io：免费在线海底生存游戏",
+    "slogan": "生存，进化，征服",
+    "description": "潜入 Deeep.io 险峻的海底世界，检验你的生存技能。体验肾上腺素飙升的海底冒险，进化成新的生物，争夺辉煌排行榜的席位。多样化的生物、食物来源和地形，Deeep.io 提供了激动人心的体验。现在就玩，看看你是否能生存下来！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "Deeeep.io",
+      "description": "体验终极海底生存游戏。在 Deeep.io 中进化、生存并征服！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL 已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Deeeep.io",
+      "whatIsTitle": "什么是 Deeep.io？",
+      "whatIsDescription": "Deeeep.io 是一个海底生存游戏，你将进化成新的生物，探索各种地形，并争夺排行榜的席位。",
+      "howToPlayTitle": "如何玩？",
+      "howToPlayStep1": "从一个小生物开始，吃食物来长大。",
+      "howToPlayStep2": "进化成更强大的生物来生存更久。",
+      "howToPlayStep3": "与其他玩家竞争，争取排行榜榜首。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "多样化的生物",
+      "feature1Description": "从各种不同的生物中选择，每个生物都有独特的技能。",
+      "feature2Title": "动态地形",
+      "feature2Description": "在各种各样的海底环境中穿行，并利用地形来发挥你的优势。",
+      "feature3Title": "生存挑战",
+      "feature3Description": "在竞争激烈的海底生存游戏中检验你的技能。",
+      "feature4Title": "排行榜",
+      "feature4Description": "与其他玩家竞争，争取在排行榜上名列前茅。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

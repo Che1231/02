@@ -1,0 +1,77 @@
+{
+  "dinosaur-game": {
+    "title": "Play Dinosaur Game Online - Endless Runner Adventure",
+    "slogan": "Jump, Run, Survive!",
+    "description": "Dinosaur Game, also known as Chrome Dino or T-Rex Runner, is a popular side-scrolling endless runner game. Play offline on Google Chrome and control a pixelated T-Rex to navigate a desert landscape filled with cacti and flying pterodactyls. Survive as long as possible by jumping over or crouching under obstacles. Try Dinosaur Game now and master this engaging arcade adventure!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Dinosaur Game",
+      "description": "Dinosaur Game, also known as Chrome Dino or T-Rex Runner, is a popular side-scrolling endless runner game. Play offline on Google Chrome and control a pixelated T-Rex to navigate a desert landscape filled with cacti and flying pterodactyls. Survive as long as possible by jumping over or crouching under obstacles. Try Dinosaur Game now and master this engaging arcade adventure!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Dinosaur Game",
+      "whatIsTitle": "What is Dinosaur Game?",
+      "whatIsDescription": "Dinosaur Game, also known as Chrome Dino or T-Rex Runner, is a popular side-scrolling endless runner game that can be played offline on Google Chrome. Control a pixelated T-Rex and navigate a desert landscape filled with cacti and flying pterodactyls.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Press the spacebar to jump over cacti.",
+      "howToPlayStep2": "Press the down arrow to crouch under flying pterodactyls.",
+      "howToPlayStep3": "Survive as long as possible to achieve a high score.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Minimalist Design",
+      "feature1Description": "Enjoy a clean and simple pixelated art style.",
+      "feature2Title": "Addictive Gameplay",
+      "feature2Description": "Experience endless fun with challenging obstacles.",
+      "feature3Title": "Increasing Difficulty",
+      "feature3Description": "The game gets harder as you progress, keeping you engaged.",
+      "feature4Title": "Offline Play",
+      "feature4Description": "Play Dinosaur Game anytime, even without an internet connection."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "super-hexagon": {
+    "title": "超级六边形——用节奏行动挑战你的反应",
+    "slogan": "感受节奏，逃离六边形",
+    "description": "超级六边形提供了一种独特的音乐体验，挑战你的即兴技巧。在旋转的六边形世界中穿梭，躲避来袭的墙壁，沉浸在强烈的电子音乐中。游戏的节奏不断加快，考验你的反应和专注力。现在就玩，看看你能在这款刺激的节奏冒险游戏中坚持多久！",
+    "Loading": {
+      "title": "加载超级六边形..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一个",
+      "previous": "上一个"
+    },
+    "HomeIframe": {
+      "title": "超级六边形——免费在线游戏",
+      "description": "体验超级六边形的挑战，节奏与反应在这里相遇。躲避来袭的墙壁，感受节奏，在这款快节奏游戏中生存。现在免费玩！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "超级六边形",
+      "whatIsTitle": "超级六边形是什么？",
+      "whatIsDescription": "超级六边形是一款基于节奏的游戏，考验你的反应能力和专注力。在旋转的六边形世界中穿梭，躲避来袭的墙壁以求生存。",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "使用左右箭头键旋转六边形。",
+      "howToPlayStep2": "避免从六边形边缘出现的墙壁。",
+      "howToPlayStep3": "保持节奏不断加快，并尽可能地生存更久。",
+      "keyFeaturesTitle": "关键特性",
+      "feature1Title": "节奏游戏",
+      "feature1Description": "将你的动作与音乐节奏同步，获得沉浸式体验。",
+      "feature2Title": "具有挑战性的关卡",
+      "feature2Description": "游戏的节奏不断加快，考验你的反应和专注力。",
+      "feature3Title": "电子音乐",
+      "feature3Description": "强劲动感的电子音乐提升游戏体验。",
+      "feature4Title": "可解锁成就",
+      "feature4Description": "挑战自己，解锁成就，提升技能。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

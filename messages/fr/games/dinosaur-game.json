@@ -1,0 +1,77 @@
+{
+  "dinosaur-game": {
+    "title": "Jouer au jeu des dinosaures en ligne - Aventure de course sans fin",
+    "slogan": "Sauter, courir, survivre !",
+    "description": "Le jeu des dinosaures, également connu sous le nom de Dino Chrome ou T-Rex Runner, est un populaire jeu de course sans fin à défilement latéral. Jouez hors ligne sur Google Chrome et contrôlez un T-Rex pixelisé pour naviguer dans un paysage désertique rempli de cactus et de ptérodactyles volants. Survivez le plus longtemps possible en sautant par-dessus ou en se baissant sous les obstacles. Essayez le jeu des dinosaures maintenant et maîtrisez cette aventure d'arcade stimulante !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Jeu des dinosaures",
+      "description": "Le jeu des dinosaures, également connu sous le nom de Dino Chrome ou T-Rex Runner, est un populaire jeu de course sans fin à défilement latéral. Jouez hors ligne sur Google Chrome et contrôlez un T-Rex pixelisé pour naviguer dans un paysage désertique rempli de cactus et de ptérodactyles volants. Survivez le plus longtemps possible en sautant par-dessus ou en vous baissant sous les obstacles. Essayez le jeu des dinosaures maintenant et maîtrisez cette aventure d'arcade stimulante !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Jeu des dinosaures",
+      "whatIsTitle": "Qu'est-ce que le jeu des dinosaures ?",
+      "whatIsDescription": "Le jeu des dinosaures, également connu sous le nom de Dino Chrome ou T-Rex Runner, est un jeu de course sans fin à défilement latéral populaire, jouable hors ligne sur Google Chrome. Contrôlez un T-Rex pixelisé et naviguez dans un paysage désertique rempli de cactus et de ptérodactyles volants.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Appuyez sur la barre d'espace pour sauter par-dessus les cactus.",
+      "howToPlayStep2": "Appuyez sur la flèche du bas pour vous baisser sous les ptérodactyles volants.",
+      "howToPlayStep3": "Survivez le plus longtemps possible pour obtenir un score élevé.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Design minimaliste",
+      "feature1Description": "Profitez d'un style artistique pixelisé propre et simple.",
+      "feature2Title": "Gameplay addictif",
+      "feature2Description": "Découvrez un plaisir sans fin avec des obstacles stimulants.",
+      "feature3Title": "Difficulté croissante",
+      "feature3Description": "Le jeu devient plus difficile au fur et à mesure que vous progressez, vous gardant engagé.",
+      "feature4Title": "Jeu hors ligne",
+      "feature4Description": "Jouez au jeu des dinosaures à tout moment, même sans connexion Internet."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

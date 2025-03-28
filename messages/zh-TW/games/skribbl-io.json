@@ -1,0 +1,77 @@
+{
+  "skribbl-io": {
+    "title": "線上玩 Skribbl.io - 免費繪圖猜字遊戲",
+    "slogan": "用 Skribbl.io 展現您的創意",
+    "description": "體驗 Skribbl.io 帶來的創意與想像力，這是一款廣受歡迎的線上多人繪圖猜字遊戲。在 Skribbl.io 中，玩家輪流繪製給定的單字或詞組，而其他玩家則嘗試根據繪圖猜出答案。運用滑鼠將想像力融入數位畫布，繪製圖案，同時使用鍵盤猜出其他玩家繪製的單字或詞組。盡情發揮您的創意，迎接猜字挑戰，並加入 Skribbl.io 的熱鬧社群。",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導覽列"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "Skribbl.io - 免費線上繪圖猜字遊戲",
+      "description": "加入 Skribbl.io 的樂趣，讓創意與猜字遊戲碰撞。繪圖、猜字，並享受這個熱門線上遊戲社群的熱鬧氣氛。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Skribbl.io - 免費線上繪圖猜字遊戲",
+      "whatIsTitle": "Skribbl.io 是什麼？",
+      "whatIsDescription": "Skribbl.io 是一款廣受歡迎的線上多人繪圖猜字遊戲，玩家輪流繪製給定的單字或詞組，其他玩家則嘗試根據繪圖猜出答案。",
+      "howToPlayTitle": "如何遊戲？",
+      "howToPlayStep1": "輪流繪製給定的單字或詞組。",
+      "howToPlayStep2": "其他玩家嘗試根據繪圖猜出單字或詞組。",
+      "howToPlayStep3": "使用鍵盤猜出其他玩家繪製的單字或詞組。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "多人遊戲樂趣",
+      "feature1Description": "與朋友或陌生人在熱鬧的線上社群中遊戲。",
+      "feature2Title": "創意繪圖",
+      "feature2Description": "透過繪製單字或詞組盡情展現您的創意。",
+      "feature3Title": "猜字挑戰",
+      "feature3Description": "透過其他玩家的繪圖測試您的猜字技巧。",
+      "feature4Title": "簡單易玩",
+      "feature4Description": "簡單直觀的遊戲玩法，適合所有年齡層。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "檢視更多",
+      "page": "頁面"
+    }
+  }
+}

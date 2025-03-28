@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Como um iniciante pode começar a jogar Phoodle e compreender sua mecânica básica?",
+    "answer": "Para começar a jogar Phoodle, primeiro baixe o jogo da sua loja de aplicativos preferida. Ao iniciar, você será guiado por um tutorial que explica as mecânicas principais: adivinhar a palavra correta em um número limitado de tentativas. Cada tentativa fornece feedback sobre a correção e posição das letras. Por exemplo, se você adivinhar 'MAÇÃ' e a palavra correta for 'UVA', as letras 'M' e 'Ç' podem ser destacadas em amarelo, indicando que estão na palavra, mas na posição errada. Esse feedback imediato o ajuda a aprimorar as tentativas subsequentes. [Exemplo: Pense nisso como um jogo de palavras cruzadas onde cada tentativa restringe as possibilidades.]"
+  },
+  {
+    "question": "Quais são as melhores estratégias para melhorar a precisão das suas adivinhações no Phoodle após 100 horas de jogo?",
+    "answer": "Após 100 horas de jogo, você deve se concentrar em otimizar sua estratégia de adivinhação. PASSO 1: Comece com uma palavra que contenha uma mistura de vogais e consoantes comuns, como 'GUINCHO'. PASSO 2: Analise o feedback para eliminar as letras e posições impossíveis. Por exemplo, se 'G' não estiver na palavra, evite palavras que contenham 'G' em tentativas futuras. PASSO 3: Use o processo de eliminação para restringir as possibilidades. Por exemplo, se você sabe que a palavra contém 'I' mas não na última posição, tente palavras como 'MÚSICA' ou 'UVA'. [Comparação de opções: Comparar 'GUINCHO' versus 'ÁUDIO' como palavras iniciais pode ajudá-lo a decidir qual estratégia funciona melhor para você.]"
+  },
+  {
+    "question": "Por que o Phoodle limita o número de tentativas e como isso afeta a jogabilidade?",
+    "answer": "O Phoodle limita o número de tentativas para adicionar uma camada de desafio e estratégia ao jogo. Essa restrição obriga os jogadores a pensar criticamente sobre cada tentativa, em vez de confiar na força bruta. Por exemplo, se você tiver apenas seis tentativas para adivinhar uma palavra de cinco letras, cada tentativa deve ser o mais informativa possível. Essa limitação também reflete cenários do mundo real de resolução de problemas onde os recursos são finitos. [Exemplo: É como resolver um mistério com dicas limitadas; cada tentativa deve ser precisa e bem pensada.]"
+  },
+  {
+    "question": "Como funciona o sistema de pontuação do Phoodle e quais fatores influenciam sua pontuação final?",
+    "answer": "O sistema de pontuação do Phoodle é baseado no número de tentativas necessárias para adivinhar a palavra correta. Menos tentativas resultam em uma pontuação mais alta. Além disso, o jogo pode levar em consideração a complexidade da palavra e o tempo gasto em cada tentativa. Por exemplo, adivinhar 'UVA' em três tentativas resultaria em uma pontuação maior do que adivinhar em seis tentativas. [Tabela de comparação: Uma tabela comparando as pontuações com base nas tentativas e na complexidade da palavra pode ajudar os jogadores a entender como maximizar sua pontuação.]"
+  },
+  {
+    "question": "Quais são os requisitos técnicos para executar o Phoodle em diferentes plataformas e como eles se comparam?",
+    "answer": "O Phoodle foi projetado para ser leve e compatível com uma ampla variedade de dispositivos. Para iOS, requer iOS 12.0 ou posterior, e para Android, requer Android 6.0 ou posterior. O design minimalista do jogo garante um desempenho suave até mesmo em dispositivos mais antigos. Por exemplo, um iPhone 6s com iOS 12 pode executar o Phoodle sem problemas, enquanto um telefone Android básico com 2 GB de RAM também funciona bem. [Tabela de comparação: Uma tabela comparativa dos requisitos técnicos para iOS e Android pode ajudar jogadores a garantir que seu dispositivo seja compatível.]"
+  },
+  {
+    "question": "Como você pode migrar seu progresso no Phoodle de um dispositivo para outro sem perder dados?",
+    "answer": "Para migrar seu progresso no Phoodle, utilize o recurso de salvamento na nuvem disponível nas configurações do jogo. PASSO 1: Em seu dispositivo atual, vá para as configurações e ative o salvamento na nuvem. PASSO 2: Faça login com a mesma conta em seu novo dispositivo. PASSO 3: Ative o salvamento na nuvem novamente para sincronizar seu progresso. Por exemplo, se você estivesse no nível 20 em seu antigo dispositivo, começará no nível 20 no seu novo dispositivo. [Diagrama de fluxo: Um fluxograma ilustrando o processo de migração pode facilitar para jogadores seguirem os passos.]"
+  },
+  {
+    "question": "Quais recursos ocultos ou ovos de Páscoa os jogadores podem descobrir no Phoodle após uma jogatina extensa?",
+    "answer": "O Phoodle inclui vários recursos ocultos e ovos de Páscoa para jogadores dedicados. Um desses recursos é o modo 'Palavra Dourada', que se desbloqueia após 100 tentativas corretas consecutivas. Neste modo, a palavra a adivinhar é destacada em dourado, e os jogadores recebem pontos de bônus por adivinhá-la corretamente. Outro ovo de Páscoa é o 'Dicionário Secreto', acessível deslizando para a esquerda três vezes no menu principal. Este dicionário contém palavras raras e obscuras que podem ser usadas no jogo. [Exemplo: Descobrir esses recursos é como encontrar tesouros escondidos em um território vasto e inexplorado.]"
+  },
+  {
+    "question": "Como o algoritmo do Phoodle determina a dificuldade de cada palavra e os jogadores podem influenciar isso?",
+    "answer": "O algoritmo do Phoodle atribui níveis de dificuldade às palavras com base em seu comprimento, complexidade e frequência de uso na língua portuguesa. Por exemplo, uma palavra de cinco letras como 'UVA' pode ser considerada mais fácil do que uma palavra de sete letras como 'ZIGOTO'. Os jogadores podem influenciar a dificuldade escolhendo diferentes modos de jogo, como 'Modo Fácil' para palavras mais curtas ou 'Modo Difícil' para palavras mais longas e complexas. [Tabela de comparação: Uma tabela mostrando os níveis de dificuldade da palavra em diferentes modos pode ajudar os jogadores a escolher o desafio certo para seu nível de habilidade.]"
+  },
+  {
+    "question": "Quais são os erros mais comuns cometidos por novos jogadores no Phoodle e como eles podem evitá-los?",
+    "answer": "Novos jogadores frequentemente cometem o erro de adivinhar palavras aleatoriamente sem uma estratégia, o que desperdiça tentativas. Outro erro comum é ignorar o feedback fornecido após cada tentativa. Para evitar esses erros, comece sempre com uma palavra que contenha uma mistura de vogais e consoantes comuns, como 'GUINCHO'. Preste muita atenção ao feedback; por exemplo, se 'A' estiver na palavra, mas não na primeira posição, ajuste sua próxima tentativa de acordo. [Comparação de opções: Comparar estratégias de adivinhação eficazes versus ineficazes pode ajudar novos jogadores a entender a importância de uma abordagem estruturada.]"
+  },
+  {
+    "question": "Como funciona o modo de desafio diário do Phoodle e quais são os benefícios de participar?",
+    "answer": "O modo de desafio diário do Phoodle apresenta aos jogadores uma palavra única para adivinhar a cada dia. Este modo foi projetado para testar suas habilidades e manter o jogo novo. Os benefícios da participação incluem ganhar pontos extras, desbloquear conquistas especiais e melhorar sua estratégia geral de adivinhação. Por exemplo, adivinhar corretamente a palavra do desafio diário 'ZIGOTO' pode recompensá-lo com 50 pontos extras e uma medalha especial. [Exemplo: O desafio diário é como um mini-exame que mantém sua mente afiada e pronta para o próximo quebra-cabeça.]"
+  }
+]

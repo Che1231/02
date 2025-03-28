@@ -1,0 +1,77 @@
+{
+  "t-rex-ai": {
+    "title": "Juega al juego T-Rex AI en línea: una aventura gratuita de dinosaurios.",
+    "slogan": "¡Adéntrate en el mundo prehistórico y corre sin fin!",
+    "description": "T-Rex AI te invita a una emocionante aventura prehistórica. Maneja a tu dinosaurio por peligrosas carreteras del desierto repletas de obstáculos impredecibles. Con controles sencillos y un juego desafiante, T-Rex AI ofrece una experiencia única e interesante. Descubre la función \"Bot Activado\" y observa qué hace que este juego destaque. ¡Juega a T-Rex AI ahora y pon a prueba tus reflejos!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "T-Rex AI - Aventura en juego de dinosaurios",
+      "description": "Experimenta la emoción de T-Rex AI, un juego de correr sin fin ambientado en la época prehistórica. Evita los obstáculos y pon a prueba tus reflejos en esta aventura desafiante e impredecible.",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "T-Rex AI - Aventura en juego de dinosaurios",
+      "whatIsTitle": "¿Qué es T-Rex AI?",
+      "whatIsDescription": "T-Rex AI es un juego de correr sin fin en el que controlas un dinosaurio que navega por un desierto lleno de obstáculos impredecibles. El juego es fácil de jugar, pero desafiante de dominar.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Usa la barra espaciadora o la flecha hacia arriba para hacer que tu dinosaurio salte.",
+      "howToPlayStep2": "Presiona la flecha hacia abajo para bajar la cabeza de tu dinosaurio y evitar los obstáculos a gran altura.",
+      "howToPlayStep3": "Mantente concentrado y prepárate para improvisar a medida que el juego se acelera.",
+      "keyFeaturesTitle": "Características principales",
+      "feature1Title": "Gráficos sencillos",
+      "feature1Description": "T-Rex AI presenta gráficos sencillos que ayudan a evitar las distracciones del fondo.",
+      "feature2Title": "Obstáculos impredecibles",
+      "feature2Description": "Los obstáculos en T-Rex AI son extremadamente impredecibles, lo que hace que el juego sea más desafiante.",
+      "feature3Title": "Bot activado",
+      "feature3Description": "Descubre la exclusiva función \"Bot activado\" que añade una capa extra de emoción al juego.",
+      "feature4Title": "Diversión infinita",
+      "feature4Description": "Con su juego interminable, T-Rex AI ofrece horas de diversión y entretenimiento."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

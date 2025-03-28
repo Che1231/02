@@ -1,0 +1,77 @@
+{
+  "ev-io": {
+    "title": "Chơi Ev.io Trực tuyến - Trò chơi FPS nhiều người chơi miễn phí",
+    "slogan": "Tham gia các trận chiến tương lai với Ev.io",
+    "description": "Ev.io là một trò chơi FPS nhiều người chơi hồi hộp diễn ra trong một đấu trường tương lai. Với thiết kế mức độ chiến lược lấy cảm hứng từ Halo, Destiny và Quake, Ev.io cung cấp nhiều loại vũ khí và khả năng. Tham gia trận chiến bằng một cú nhấp chuột đơn giản và thể hiện kỹ năng của bạn trên chiến trường. Chơi Ev.io ngay bây giờ và trải nghiệm thử thách FPS cuối cùng!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu nghị",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Ev.io",
+      "description": "Tham gia trận chiến FPS tương lai trong Ev.io. Với thiết kế mức độ chiến lược và nhiều loại vũ khí, Ev.io mang đến trải nghiệm nhiều người chơi đắm chìm. Chơi ngay bây giờ và thống trị chiến trường!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Ev.io",
+      "whatIsTitle": "Ev.io là gì?",
+      "whatIsDescription": "Ev.io là một trò chơi FPS nơi bạn có thể tham gia các trận chiến nhiều người chơi trong một đấu trường tương lai. Trò chơi kết hợp thiết kế mức độ chiến lược gợi nhớ đến Halo, Destiny và Quake.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Chọn vũ khí và khả năng của bạn.",
+      "howToPlayStep2": "Tham gia trận chiến nhiều người chơi.",
+      "howToPlayStep3": "Thể hiện kỹ năng của bạn và thống trị chiến trường.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Đấu trường tương lai",
+      "feature1Description": "Tranh đấu trong một đấu trường tương lai ngoạn mục về mặt hình ảnh.",
+      "feature2Title": "Đa dạng vũ khí",
+      "feature2Description": "Chọn từ nhiều loại vũ khí phù hợp với phong cách chơi của bạn.",
+      "feature3Title": "Thiết kế mức độ chiến lược",
+      "feature3Description": "Trải nghiệm các cấp độ được thiết kế với chiến lược trong tâm trí.",
+      "feature4Title": "Trận chiến nhiều người chơi",
+      "feature4Description": "Tham gia các trận chiến nhiều người chơi căng thẳng với người chơi trên khắp thế giới."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Khuyến cáo"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

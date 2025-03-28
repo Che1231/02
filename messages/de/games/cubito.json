@@ -1,0 +1,77 @@
+{
+  "cubito": {
+    "title": "Cubito: Die Herausforderung entfalten",
+    "slogan": "Entfalte die Herausforderung in Cubito!",
+    "description": "Begeben Sie sich auf ein fesselndes Abenteuer in Cubito, wo Sie knifflige Rätsel lösen und Hindernisse überwinden. Sammeln Sie Gegenstände, meistern Sie Herausforderungen und entdecken Sie verborgene Geheimnisse in einer Welt aus faszinierenden Würfeln. Tauchen Sie ein in diese rasante, farbenfrohe Reise und testen Sie Ihre Reaktionsfähigkeit, um beeindruckende Punktzahlen zu erreichen. Bereit, Cubito zu spielen? Beginnen Sie jetzt Ihr Abenteuer!",
+    "Loading": {
+      "title": "Wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Cubito: Die Herausforderung entfalten",
+      "description": "Erleben Sie den Nervenkitzel von Cubito, einem rasanten Abenteuer-Spiel, in dem Sie Gegenstände sammeln, Hindernisse überwinden und Geheimnisse in einer Welt aus faszinierenden Würfeln entdecken. Testen Sie Ihre Reaktionsfähigkeit und tauchen Sie ein in dieses fesselnde Abenteuer. Spielen Sie jetzt Cubito und sehen Sie, wie weit Sie kommen!",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Cubito: Die Herausforderung entfalten",
+      "whatIsTitle": "Was ist Cubito?",
+      "whatIsDescription": "Cubito ist ein fesselndes Abenteuer-Spiel, in dem Spieler durch eine Welt aus faszinierenden Würfeln navigieren, Gegenstände sammeln, Hindernisse überwinden und verborgene Geheimnisse entdecken. Das rasante Gameplay erfordert schnelle Reaktionen und Konzentration, um beeindruckende Punktzahlen zu erzielen.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Steuern Sie Ihren Charakter durch Plattformen, indem Sie mit der Maus klicken.",
+      "howToPlayStep2": "Vermeiden Sie Lücken und Hindernisse, indem Sie mit jedem Tastendruck die Fahrspur wechseln.",
+      "howToPlayStep3": "Sammeln Sie Gegenstände und meistern Sie Herausforderungen, um hohe Punktzahlen zu erzielen.",
+      "keyFeaturesTitle": "Wichtige Merkmale",
+      "feature1Title": "Rasantes Gameplay",
+      "feature1Description": "Das Gameplay von Cubito ist darauf ausgelegt, Ihre Reaktionsfähigkeit und Konzentration mit seinen rasanten Aktionen zu testen.",
+      "feature2Title": "Faszinierende Würfelwelt",
+      "feature2Description": "Tauchen Sie ein in eine farbenfrohe und vielfältige Welt, die aus einfachen, aber herausfordernden Würfeln besteht.",
+      "feature3Title": "Erinnerungsfähige Streckenentwurf",
+      "feature3Description": "Die Hauptstrecke in Cubito bleibt nach jeder Wiederholung gleich, wodurch Sie Ihre Leistung durch das Auswendiglernen verbessern können.",
+      "feature4Title": "An neue Hindernisse anpassen",
+      "feature4Description": "Achten Sie auf neue Hindernisse und passen Sie sich schnell an, um sie zu vermeiden und höhere Punktzahlen zu erzielen."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

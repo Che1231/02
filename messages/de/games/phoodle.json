@@ -1,0 +1,77 @@
+{
+  "phoodle": {
+    "title": "Phoodle Online spielen: Kostenloses Küchen-Wort-Rätselspiel",
+    "slogan": "Erraten Sie das Lebensmittelwort in sechs Versuchen!",
+    "description": "Phoodle ist ein Küchen-Wort-Rätselspiel, inspiriert von Wordle. Fordern Sie Ihr Wissen über Lebensmittel mit täglichen fünfbuchstabigen Wörtern zu Zutaten, Kochmethoden oder berühmten Köchen heraus. Raten Sie richtig und schalten Sie interessante Lebensmittel-Fakten frei. Spielen Sie jetzt kostenlos Phoodle und testen Sie Ihr kulinarisches Fachwissen!",
+    "Loading": {
+      "title": "Phoodle wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Leitfaden",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Nächster",
+      "previous": "Vorheriger"
+    },
+    "HomeIframe": {
+      "title": "Phoodle: Küchen-Wort-Rätselspiel",
+      "description": "Phoodle bietet unlimitierte Spielmöglichkeiten für Lebensmittel-Enthusiasten. Erraten Sie das fünfbuchstabige Lebensmittelwort in sechs Versuchen und schalten Sie tägliche kulinarische Herausforderungen frei. Spielen Sie jetzt Phoodle!",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel spielen"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Phoodle: Küchen-Wort-Rätsel",
+      "whatIsTitle": "Was ist Phoodle?",
+      "whatIsDescription": "Phoodle ist ein Küchen-Wort-Rätselspiel, inspiriert von Wordle. Es fordert die Spieler heraus, ein fünfbuchstabiges, lebensmittelbezogenes Wort in sechs Versuchen zu erraten.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Erraten Sie ein fünfbuchstabiges, lebensmittelbezogenes Wort.",
+      "howToPlayStep2": "Verwenden Sie Hinweise aus farbigen Buchstaben, um Ihre Vermutung zu verfeinern.",
+      "howToPlayStep3": "Schalten Sie Lebensmittel-Fakten frei, indem Sie richtig erraten!",
+      "keyFeaturesTitle": "Wichtigste Funktionen",
+      "feature1Title": "Tägliche Herausforderungen",
+      "feature1Description": "Genießen Sie täglich ein neues lebensmittelbezogenes Wort.",
+      "feature2Title": "Farbcodierte Hinweise",
+      "feature2Description": "Nutzen Sie grüne, gelbe und graue Hinweise, um Ihre Vermutungen zu lenken.",
+      "feature3Title": "Unbegrenzte Spielbarkeit",
+      "feature3Description": "Spielen Sie Phoodle jederzeit für endlosen Spaß.",
+      "feature4Title": "Lebensmittel-Fakten",
+      "feature4Description": "Erfahren Sie mit jedem richtigen Tipp interessante kulinarische Tipps."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

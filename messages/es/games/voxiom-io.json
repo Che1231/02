@@ -1,0 +1,77 @@
+{
+  "voxiom-io": {
+    "title": "Juega a Voxiom.io: Tirador multijugador en línea gratuito",
+    "slogan": "¡Participa en intensas batallas multijugador en Voxiom.io!",
+    "description": "¡Voxiom.io combina la esencia de Minecraft con emocionantes tiroteos multijugador! Desmantela el entorno, forja armas avanzadas y sobrevive al gas venenoso que se acerca. Experimenta la creación, la construcción y el combate con potentes armas de fuego. ¿Puedes emerger como el único superviviente? ¡Juega a Voxiom.io ahora gratis!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Voxiom.io",
+      "description": "¡Experimenta el último juego de disparos multijugador en Voxiom.io! ¡Sobrevive, crea y construye tu camino hacia la victoria!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Voxiom.io",
+      "whatIsTitle": "¿Qué es Voxiom.io?",
+      "whatIsDescription": "Voxiom.io es un juego de disparos basado en navegador que combina la creación, la construcción y emocionantes tiroteos multijugador. ¡Sobrevive al gas venenoso y emerge como el último jugador!",
+      "howToPlayTitle": "¿Cómo jugar?",
+      "howToPlayStep1": "Desmantela el entorno para recolectar recursos.",
+      "howToPlayStep2": "Forja armas avanzadas para obtener ventaja en el combate.",
+      "howToPlayStep3": "Sobrevive al gas venenoso que se acerca y sé el último jugador.",
+      "keyFeaturesTitle": "Características principales",
+      "feature1Title": "Creación y construcción",
+      "feature1Description": "Utiliza los recursos para fabricar armas y construir estructuras.",
+      "feature2Title": "Batallas multijugador",
+      "feature2Description": "Participa en intensos tiroteos con jugadores de todo el mundo.",
+      "feature3Title": "Gas venenoso",
+      "feature3Description": "Sobrevive al área de juego que se reduce y supera a tus oponentes.",
+      "feature4Title": "Armas de fuego potentes",
+      "feature4Description": "Utiliza una variedad de armas avanzadas para dominar el campo de batalla."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "coreball": {
+    "title": "コアボール：リズムをマスターし、ゲームを制覇する",
+    "slogan": "ナビゲート、同期、勝利",
+    "description": "コアボールは、タイミングと正確さを試される魅力的なリズムベースのゲームです。100を超えるレベルで、それぞれ完璧な同期が必要になります。最初から夢中になるでしょう。初心者であろうと熟練者であろうと、コアボールは尽きることのない楽しさと興奮を提供します。今すぐコアボールをプレイして、リズムをマスターできるかどうか見てみましょう！",
+    "Loading": {
+      "title": "コアボールを読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "コアボール：究極のリズムチャレンジをプレイ",
+      "description": "タイミングと正確さを試すコアボールの興奮を体験してください。100を超えるレベルで、コアボールは尽きることのない楽しさと興奮を提供します。今すぐプレイして、リズムをマスターできるかどうか見てみましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "コアボール：リズムチャレンジ",
+      "whatIsTitle": "コアボールとは？",
+      "whatIsDescription": "コアボールは、ビートに合わせて動きを同期させることでレベルを進んでいくリズムベースのゲームです。始めるのは簡単ですが、マスターするのは困難で、すべてのプレイヤーにとって尽きない楽しさを提供します。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "まず、レベルのリズムに合わせて動きを同期させます。",
+      "howToPlayStep2": "安定したペースを維持することで障害物を回避します。",
+      "howToPlayStep3": "100を超えるレベルを、難易度が増していく順に進みます。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "リズムベースのゲームプレイ",
+      "feature1Description": "コアボールは、独特のリズムベースのメカニズムで、あなたのタイミングと正確さを試します。",
+      "feature2Title": "100を超えるレベル",
+      "feature2Description": "多様なレベルで、コアボールは無限の挑戦と楽しさを提供します。",
+      "feature3Title": "シンプルでありながら挑戦的",
+      "feature3Description": "始めるのは簡単ですが、マスターするのは難しい、コアボールはすべてのスキルレベルのプレイヤーに最適です。",
+      "feature4Title": "尽きない楽しみ",
+      "feature4Description": "コアボールは、魅力的なゲームプレイと難易度の上昇により、無限のエンターテイメントを提供します。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

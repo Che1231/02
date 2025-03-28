@@ -1,0 +1,77 @@
+{
+  "word-hurdle": {
+    "title": "字谜：挑战你的词汇量和空间推理能力",
+    "slogan": "每次游戏都能提升你的词汇量",
+    "description": "字谜是一款引人入胜的文字游戏，它会测试你的词汇量和空间推理能力。非常适合文字游戏爱好者，它提供了一种简单而富有挑战性的体验。现在玩字谜游戏，同时提升你的认知能力，还能享受乐趣！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一个",
+      "previous": "上一个"
+    },
+    "HomeIframe": {
+      "title": "字谜：免费在线文字游戏",
+      "description": "字谜是一款有趣且具有挑战性的文字游戏，它可以增强你的词汇量和空间推理能力。现在开始玩，看看你能走多远！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "字谜游戏",
+      "whatIsTitle": "什么是字谜游戏？",
+      "whatIsDescription": "字谜游戏是一款简单而具有挑战性的文字游戏，它可以增强你的词汇量和空间推理能力。",
+      "howToPlayTitle": "如何游戏",
+      "howToPlayStep1": "首先输入一个单词。",
+      "howToPlayStep2": "使用提示来猜测正确的单词。",
+      "howToPlayStep3": "在规定的时间内完成挑战。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "词汇提升",
+      "feature1Description": "每次游戏都提升你的词汇量。",
+      "feature2Title": "空间推理",
+      "feature2Description": "挑战你的空间推理能力。",
+      "feature3Title": "快速思维",
+      "feature3Description": "测试你的快速思维和智力反应。",
+      "feature4Title": "有趣且引人入胜",
+      "feature4Description": "享受一个有趣且引人入胜的文字游戏体验。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

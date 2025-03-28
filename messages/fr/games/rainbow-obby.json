@@ -1,0 +1,77 @@
+{
+  "rainbow-obby": {
+    "title": "Rainbow Obby : Jeu d'aventure en ligne gratuit",
+    "slogan": "Un monde coloré vous attend !",
+    "description": "Rainbow Obby dévoile un monde vibrant de défis de parkour. Embarquez pour une aventure avec des plateformes arc-en-ciel et des rebondissements palpitants. Choisissez parmi quatre modes de jeu uniques et vivez le frisson du jeu de plateforme le plus captivant. Jouez à Rainbow Obby maintenant et plongez-vous dans le plaisir coloré !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Rainbow Obby",
+      "description": "Découvrez le monde vibrant de Rainbow Obby avec son gameplay de parkour stimulant. Choisissez parmi quatre modes uniques et profitez de l'aventure colorée !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Rainbow Obby",
+      "whatIsTitle": "Qu'est-ce que Rainbow Obby ?",
+      "whatIsDescription": "Rainbow Obby est un jeu de plateforme vibrant rempli de défis complexes et d'un gameplay de parkour coloré. Les joueurs s'embarqueront dans une aventure avec des plates-formes arc-en-ciel et des expériences uniques.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Choisissez votre mode de jeu parmi les quatre options disponibles.",
+      "howToPlayStep2": "Naviguez sur les plates-formes arc-en-ciel et évitez les obstacles.",
+      "howToPlayStep3": "Parcourez le parcours et obtenez le meilleur score !",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Quatre modes de jeu",
+      "feature1Description": "Choisissez parmi quatre modes de jeu uniques, chacun avec son propre ensemble de règles et de défis.",
+      "feature2Title": "Parkour coloré",
+      "feature2Description": "Découvrez un gameplay de parkour époustouflant avec des plates-formes arc-en-ciel vibrantes.",
+      "feature3Title": "Obstacles stimulants",
+      "feature3Description": "Affrontez des défis complexes et des rebondissements palpitants.",
+      "feature4Title": "Aventure captivante",
+      "feature4Description": "Embarquez pour une aventure passionnante avec le personnage Obby, passionné par les défis."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

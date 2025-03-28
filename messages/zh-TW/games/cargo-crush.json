@@ -1,0 +1,77 @@
+{
+  "cargo-crush": {
+    "title": "貨運撞擊 - 免費線上貨運安排遊戲",
+    "slogan": "突破極限，掌控港口！",
+    "description": "體驗貨運撞擊的挑戰！在這個引人入勝的休閒遊戲中，控制和卸載貨櫃，測試你的精準度和技巧。排隊最快、解決障礙，成為港口大師。準備好冒險了嗎？現在就玩貨運撞擊！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "貨運撞擊 - 免費線上遊戲",
+      "description": "玩貨運撞擊，體驗究極的貨運安排挑戰！精準控制和卸載貨櫃。準備好突破極限，掌控港口嗎？",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "遊玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "貨運撞擊",
+      "whatIsTitle": "貨運撞擊是什麼？",
+      "whatIsDescription": "貨運撞擊是一款休閒遊戲，你需要精準地安排和卸載貨櫃。這是一個與時間賽跑，面對重重挑戰的遊戲！",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "精準控制貨櫃。",
+      "howToPlayStep2": "排隊最快，解決障礙。",
+      "howToPlayStep3": "成為港口大師！",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "精準控制",
+      "feature1Description": "精準控制貨櫃。",
+      "feature2Title": "時間挑戰",
+      "feature2Description": "挑戰時間和重重難關。",
+      "feature3Title": "引人入勝的遊戲體驗",
+      "feature3Description": "享受引人入勝且愉快的休閒遊戲體驗。",
+      "feature4Title": "掌控港口",
+      "feature4Description": "透過解決所有障礙，掌控港口。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到分類",
+      "viewMore": "檢視更多",
+      "page": "頁數"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "dinosaur-game": {
+    "title": "恐竜ゲームオンラインプレイ - 無限ランナーアドベンチャー",
+    "slogan": "ジャンプ、走れ、生き延びろ！",
+    "description": "恐竜ゲーム（クロム恐竜またはT-レックスランナーとしても知られる）は、人気のあるサイドスクロール型無限ランナーゲームです。Google Chromeでオフラインでプレイし、ピクセル化されたT-レックスを操り、サボテンや飛ぶプテラノドンが満載の砂漠地帯を移動します。障害物をジャンプして越えるか、潜りくぐって可能な限り長く生き残ります。今すぐ恐竜ゲームに挑戦し、この魅力的なアーケードアドベンチャーをマスターしてください！",
+    "Loading": {
+      "title": "読み込み中…"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "恐竜ゲーム",
+      "description": "恐竜ゲーム（クロム恐竜またはT-レックスランナーとしても知られる）は、人気のあるサイドスクロール型無限ランナーゲームです。Google Chromeでオフラインでプレイし、ピクセル化されたT-レックスを操り、サボテンや飛ぶプテラノドンが満載の砂漠地帯を移動します。障害物をジャンプして越えるか、潜りくぐって可能な限り長く生き残ります。今すぐ恐竜ゲームに挑戦し、この魅力的なアーケードアドベンチャーをマスターしてください！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "恐竜ゲーム",
+      "whatIsTitle": "恐竜ゲームとは？",
+      "whatIsDescription": "恐竜ゲーム（クロム恐竜またはT-レックスランナーとしても知られる）は、Google Chromeでオフラインでプレイできる人気のあるサイドスクロール型無限ランナーゲームです。ピクセル化されたT-レックスを操作し、サボテンや飛ぶプテラノドンが満載の砂漠地帯を移動します。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "サボテンをジャンプして越えます。",
+      "howToPlayStep2": "飛ぶプテラノドンを潜り抜けます。",
+      "howToPlayStep3": "可能な限り長く生き残り、高得点を目指します。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "ミニマリストデザイン",
+      "feature1Description": "シンプルで洗練されたピクセルアートスタイルをお楽しみください。",
+      "feature2Title": "中毒性のあるゲームプレイ",
+      "feature2Description": "挑戦的な障害物で無限の楽しみを体験してください。",
+      "feature3Title": "難易度アップ",
+      "feature3Description": "ゲームを進めるにつれて難易度が増し、飽きさせません。",
+      "feature4Title": "オフラインプレイ",
+      "feature4Description": "インターネット接続なしでもいつでも恐竜ゲームをプレイできます。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームのコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリ",
+      "noCategories": "カテゴリが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

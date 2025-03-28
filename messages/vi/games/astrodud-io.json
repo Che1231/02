@@ -1,0 +1,77 @@
+{
+  "astrodud-io": {
+    "title": "AstroDud.io - Trò chơi IO trực tuyến miễn phí",
+    "slogan": "Sống sót, Cạnh tranh, Chiến thắng",
+    "description": "AstroDud.io là một trò chơi IO miễn phí đầy thú vị, nơi bạn đối đầu với người chơi trên toàn thế giới. Di chuyển qua những chướng ngại vật đầy thách thức, phấn đấu hoàn thành đầu tiên và sống sót. Trải nghiệm sân chơi 3D hoàn toàn nhập vai, thử thách kỹ năng của bạn và nâng cấp nhân vật của bạn để thống trị cuộc thi. Bạn đã sẵn sàng cho thử thách tối thượng chưa? Chơi AstroDud.io ngay bây giờ!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Điều hướng"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "AstroDud.io",
+      "description": "Chơi AstroDud.io, một trò chơi IO miễn phí, và tranh tài trong các chướng ngại vật đầy kịch tính. Sống sót, hoàn thành đầu tiên và nâng cấp nhân vật của bạn trong một sân chơi 3D hoàn toàn nhập vai.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "AstroDud.io",
+      "whatIsTitle": "AstroDud.io là gì?",
+      "whatIsDescription": "AstroDud.io là một trò chơi IO miễn phí mang lại trải nghiệm phấn khích. Cạnh tranh với hàng ngàn người chơi trên toàn cầu trong các chướng ngại vật đầy thách thức.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Di chuyển qua chướng ngại vật.",
+      "howToPlayStep2": "Cạnh tranh với người chơi khác để hoàn thành trước tiên.",
+      "howToPlayStep3": "Sống sót và nâng cấp nhân vật của bạn để thống trị cuộc thi.",
+      "keyFeaturesTitle": "Tính năng chính",
+      "feature1Title": "Sân chơi 3D nhập vai",
+      "feature1Description": "Trải nghiệm sân chơi 3D hoàn toàn nhập vai nâng cao trải nghiệm chơi game của bạn.",
+      "feature2Title": "Cạnh tranh toàn cầu",
+      "feature2Description": "Cạnh tranh với người chơi trên toàn cầu theo thời gian thực.",
+      "feature3Title": "Nâng cấp nhân vật",
+      "feature3Description": "Nâng cấp nhân vật của bạn để cải thiện hiệu suất và thống trị cuộc thi.",
+      "feature4Title": "Những chướng ngại vật đầy thách thức",
+      "feature4Description": "Di chuyển qua nhiều chướng ngại vật đầy thách thức được thiết kế để thử thách kỹ năng của bạn."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

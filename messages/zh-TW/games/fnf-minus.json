@@ -1,0 +1,77 @@
+{
+  "fnf-minus": {
+    "title": "FNF Minus - 免費線上節奏對戰遊戲",
+    "slogan": "極簡視覺遇上激烈的節奏對戰！",
+    "description": "準備好與 FNF Minus 對戰，極簡視覺遇上激烈的節奏對戰！你能跟上節奏擊敗你的對手嗎？FNF Minus 邀請你參加一場永不停止的音樂派對。享受全新的角色設計、具挑戰性的旋律和獨特的圖形風格。現在就玩 FNF Minus，體驗刺激！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導覽"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "FNF Minus",
+      "description": "在 FNF Minus 体验终极节拍对战。用全新的角色设计和激烈的节拍挑战自我。现在就玩！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "FNF Minus",
+      "whatIsTitle": "FNF Minus 是什麼？",
+      "whatIsDescription": "FNF Minus 是一款節奏對戰遊戲，您將扮演 Boyfriend，參加說唱對決，贏得女友的青睞。享受全新的角色設計和具挑戰性的旋律。",
+      "howToPlayTitle": "如何遊戲",
+      "howToPlayStep1": "使用方向鍵來匹配節奏。",
+      "howToPlayStep2": "跟上節奏，超越你的對手。",
+      "howToPlayStep3": "享受獨特的圖形風格和具挑戰性的旋律。",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "全新角色設計",
+      "feature1Description": "每個角色都會根據他們的血條圖示進行改裝。",
+      "feature2Title": "具挑戰性的旋律",
+      "feature2Description": "歌曲保持不變，但速度和強度有所提升。",
+      "feature3Title": "獨特的圖形風格",
+      "feature3Description": "整個圖形風格都改變了，創造了一個新的空間。",
+      "feature4Title": "激烈的節奏對戰",
+      "feature4Description": "進行說唱對決，贏得女友的青睞。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "未找到類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

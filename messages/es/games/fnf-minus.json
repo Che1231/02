@@ -1,0 +1,77 @@
+{
+  "fnf-minus": {
+    "title": "FNF Minus - Juego de Batalla Rítmica Online Gratis",
+    "slogan": "¡Gráficos minimalistas se encuentran con batallas rítmicas intensas!",
+    "description": "¡Prepárate para la batalla en FNF Minus, donde los gráficos minimalistas se encuentran con batallas rítmicas intensas! ¿Puedes mantener el ritmo y superar a tus oponentes? FNF Minus te invita a una fiesta musical que nunca deja de bailar. Disfruta de nuevos diseños de personajes, melodías desafiantes y un estilo gráfico único. ¡Juega a FNF Minus ahora y experimenta la emoción!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Términos de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "FNF Minus",
+      "description": "Experimenta la batalla rítmica definitiva en FNF Minus. Desafíate a ti mismo con nuevos diseños de personajes y ritmos intensos. ¡Juega ahora!",
+      "iframeTitle": "Vista Previa del Juego",
+      "fullscreenButton": "Pantalla Completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar Juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "FNF Minus",
+      "whatIsTitle": "¿Qué es FNF Minus?",
+      "whatIsDescription": "FNF Minus es un juego de batalla rítmica donde juegas como Boyfriend, participando en batallas de rap para ganar la aprobación de Girlfriend. Disfruta de nuevos diseños de personajes y melodías desafiantes.",
+      "howToPlayTitle": "Cómo Jugar",
+      "howToPlayStep1": "Usa las teclas de flecha para sincronizar con el ritmo.",
+      "howToPlayStep2": "Mantén el ritmo para superar a tus oponentes.",
+      "howToPlayStep3": "Disfruta del estilo gráfico único y las melodías desafiantes.",
+      "keyFeaturesTitle": "Características Clave",
+      "feature1Title": "Nuevos Diseños de Personajes",
+      "feature1Description": "Cada personaje recibe un cambio de imagen basado en el ícono de su barra de vida.",
+      "feature2Title": "Melodías Desafianantes",
+      "feature2Description": "Las canciones siguen siendo las mismas pero con mayor velocidad e intensidad.",
+      "feature3Title": "Estilo Gráfico Único",
+      "feature3Description": "Todo el estilo gráfico cambia, creando un nuevo espacio.",
+      "feature4Title": "Intensas Batallas Rítmicas",
+      "feature4Description": "Participa en batallas de rap para ganar la aprobación de Girlfriend."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas Frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del Juego"
+    },
+    "GamePage": {
+      "title": "Todos los Juegos",
+      "description": "Todos los Juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver Más",
+      "page": "Página"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "waffle-game": {
+    "title": "Jeu Waffle - Défi de mots croisés en ligne gratuit",
+    "slogan": "Débloquez vos compétences en résolution de mots avec Waffle Game",
+    "description": "Découvrez l'expérience ultime de puzzle de mots avec Waffle Game ! Parfait pour les passionnés de jeux de mots, Waffle Game propose un défi unique : trouver six mots cachés dans un plateau Waffle avec seulement 15 réarrangements de lettres. Que vous souhaitiez enrichir votre vocabulaire ou rechercher un entraînement mental, Waffle Game est conçu pour tous les âges et tous les niveaux de compétence. Jouez dès maintenant et testez vos capacités de résolution de mots !",
+    "Loading": {
+      "title": "Chargement…"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste d'articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Jeu Waffle - Défi de mots croisés en ligne gratuit",
+      "description": "Découvrez le frisson de Waffle Game, un puzzle de mots captivant qui vous met au défi de trouver six mots cachés dans un tableau Waffle. Avec 15 réarrangements de lettres, c'est le jeu parfait pour les passionnés de mots de tous les âges. Jouez maintenant et testez vos compétences !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Jeu Waffle - Défi de mots croisés en ligne gratuit",
+      "whatIsTitle": "Qu'est-ce que Waffle Game ?",
+      "whatIsDescription": "Waffle Game est un jeu captivant de recherche de mots qui met les joueurs au défi de trouver six mots cachés dans un plateau Waffle. Avec 15 réarrangements de lettres, il offre une expérience unique et passionnante de puzzle de mots.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Commencez par examiner le tableau Waffle pour identifier les mots potentiels.",
+      "howToPlayStep2": "Réarrangez les lettres dans les 15 déplacements autorisés pour former les mots corrects.",
+      "howToPlayStep3": "Complétez le puzzle en trouvant les six mots cachés dans le tableau Waffle.",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Défi de recherche de mots multiples",
+      "feature1Description": "Trouvez six mots cachés dans le tableau Waffle pour une expérience de puzzle plus complexe.",
+      "feature2Title": "Déplacements limités",
+      "feature2Description": "Seuls 15 réarrangements de lettres sont autorisés, ce qui ajoute à la difficulté.",
+      "feature3Title": "Pour tous les âges",
+      "feature3Description": "Waffle Game est conçu pour être apprécié par les joueurs de tous âges et de tous niveaux.",
+      "feature4Title": "Amélioration du vocabulaire",
+      "feature4Description": "Améliorez votre vocabulaire anglais tout en appréciant le jeu."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

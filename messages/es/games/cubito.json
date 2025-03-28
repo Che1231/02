@@ -1,0 +1,77 @@
+{
+  "cubito": {
+    "title": "Cubito: Desbloquea el Reto",
+    "slogan": "¡Desbloquea el desafío en Cubito!",
+    "description": "Embárcate en una cautivadora aventura en Cubito, donde navegarás por rompecabezas mentales y superarás obstáculos. Recoge objetos, supera desafíos y descubre secretos ocultos en un mundo de cubos deslumbrantes. Sumérgete en este viaje vibrante y de ritmo rápido, pon a prueba tus reflejos para lograr puntuaciones impresionantes. ¿Preparado para jugar a Cubito? ¡Empieza tu aventura ahora!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Términos de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Cubito: Desbloquea el Reto",
+      "description": "Experimenta la emoción de Cubito, un juego de aventuras de ritmo rápido donde recoges objetos, superas obstáculos y descubres secretos en un mundo de cubos deslumbrantes. Pon a prueba tus reflejos y sumérgete en esta cautivadora aventura. ¡Juega a Cubito ahora y mira hasta dónde puedes llegar!",
+      "iframeTitle": "Vista Previa del Juego",
+      "fullscreenButton": "Pantalla Completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar Juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Cubito: Desbloquea el Reto",
+      "whatIsTitle": "¿Qué es Cubito?",
+      "whatIsDescription": "Cubito es un juego de aventura cautivador donde los jugadores navegan por un mundo de cubos deslumbrantes, recolectando objetos, superando obstáculos y descubriendo secretos ocultos. El juego de ritmo rápido requiere reflejos rápidos y alta concentración para lograr puntuaciones impresionantes.",
+      "howToPlayTitle": "Cómo Jugar",
+      "howToPlayStep1": "Navega por las plataformas con tu personaje haciendo clic con el ratón.",
+      "howToPlayStep2": "Evita los huecos y obstáculos cambiando de carril con cada pulsación de tecla.",
+      "howToPlayStep3": "Recoge objetos y supera desafíos para lograr puntuaciones altas.",
+      "keyFeaturesTitle": "Características Clave",
+      "feature1Title": "Jugabilidad de Ritmo Rápido",
+      "feature1Description": "La jugabilidad de Cubito está diseñada para poner a prueba tus reflejos y concentración con su acción frenética.",
+      "feature2Title": "Deslumbrante Mundo de Cubos",
+      "feature2Description": "Sumérgete en un mundo colorido y diverso creado por cubos simples pero desafiantes.",
+      "feature3Title": "Diseño de Pistas Memorizables",
+      "feature3Description": "La pista principal en Cubito permanece igual después de cada reproducción, lo que te ayuda a mejorar tu rendimiento a través de la memorización.",
+      "feature4Title": "Adaptación a Nuevos Obstáculos",
+      "feature4Description": "Presta atención a los nuevos obstáculos y adapta rápidamente tu estrategia para evitarlos y lograr puntuaciones más altas."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas Frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios de Juego"
+    },
+    "GamePage": {
+      "title": "Todos los Juegos",
+      "description": "Todos los Juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver Más",
+      "page": "Página"
+    }
+  }
+}

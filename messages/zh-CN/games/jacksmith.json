@@ -1,0 +1,77 @@
+{
+  "jacksmith": {
+    "title": "杰克史密斯 -  打造传奇武器，武装勇士",
+    "slogan": "成为终极铁匠英雄！",
+    "description": "踏入杰克史密斯的世界，提升你的锻造技巧。创造强大的武器，武装你的勇士，征服一波又一波的敌人。杰克史密斯提供独特的游戏体验，让你锻造传奇武器，而不是烹饪菜肴。升级你的店铺，完成客户订单，并赚取奖励。准备好打造最具破坏力的剑和弓了吗？现在开始你的铁匠之旅！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一个",
+      "previous": "上一个"
+    },
+    "HomeIframe": {
+      "title": "杰克史密斯 - 打造传奇武器",
+      "description": "玩杰克史密斯，成为终极铁匠英雄。打造强大的武器，武装你的勇士，征服敌人。现在开始你的旅程！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "杰克史密斯 - 打造传奇武器",
+      "whatIsTitle": "什么是杰克史密斯？",
+      "whatIsDescription": "杰克史密斯是一款独特的角色扮演游戏，让你化身为铁匠英雄，为勇士打造强大的武器。磨练你的锻造技能，征服一波又一波的敌人。",
+      "howToPlayTitle": "如何游戏？",
+      "howToPlayStep1": "接收客户订单。",
+      "howToPlayStep2": "满足要求以赚取奖励。",
+      "howToPlayStep3": "升级你的店铺并创造最好的武器。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "打造传奇武器",
+      "feature1Description": "运用稀有材料锻造强大的剑和弓。",
+      "feature2Title": "武装你的勇士",
+      "feature2Description": "为你的战士配备最好的武器来征服敌人。",
+      "feature3Title": "升级你的店铺",
+      "feature3Description": "提升你的铁匠铺以创造更好的武器。",
+      "feature4Title": "赚取奖励",
+      "feature4Description": "完成客户订单并获得奖励和额外收益。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏列表"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

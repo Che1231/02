@@ -1,0 +1,77 @@
+{
+  "toaster-dash": {
+    "title": "Toaster Dash: Actionreiche Backabenteuer",
+    "slogan": "Abenteuer in der Welt der Kuchen!",
+    "description": "Toaster Dash bietet ein mitreißendes Action-Spiel mit hohem Tempo, in dem Sie einen blitzschnellen Toaster steuern.  Mit niedlichen Grafiken und fesselndem Gameplay verspricht Toaster Dash ultimative Unterhaltung. Vermeiden Sie Hindernisse, sammeln Sie Zutaten und verbessern Sie Ihren Toaster, um ein Meisterkoch zu werden.  Bereit, es zu braten?",
+    "Loading": {
+      "title": "Lädt..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Toaster Dash™",
+      "description": "Toaster Dash ist ein schnelles Actionspiel, in dem Sie einen blitzschnellen Toaster steuern. Vermeiden Sie Hindernisse, sammeln Sie Zutaten und verbessern Sie Ihren Toaster, um ein Meisterkoch zu werden.  Bereit, es zu braten?",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Toaster Dash™",
+      "whatIsTitle": "Was ist Toaster Dash?",
+      "whatIsDescription": "Toaster Dash ist ein schnelles Actionspiel, in dem Sie einen blitzschnellen Toaster steuern. Vermeiden Sie Hindernisse, sammeln Sie Zutaten und verbessern Sie Ihren Toaster, um ein Meisterkoch zu werden.",
+      "howToPlayTitle": "Spielanleitung",
+      "howToPlayStep1": "Bewegen Sie den Toaster nach rechts, links, oben oder unten, um verschiedene Aufgaben auszuführen.",
+      "howToPlayStep2": "Vermeiden Sie Hindernisse wie Gabeln, mit Steinen besetzte Donuts und mehr.",
+      "howToPlayStep3": "Sammeln Sie alle Scheiben Brot, Marmelade, Butter und andere Kochzutaten, um hohe Punktzahlen zu erzielen.",
+      "keyFeaturesTitle": "Schlüsselmerkmale",
+      "feature1Title": "Niedliche Grafiken",
+      "feature1Description": "Genießen Sie lebensechte Sounds und unwiderstehlich fesselndes Gameplay.",
+      "feature2Title": "Herausfordernde Level",
+      "feature2Description": "Spielen Sie durch anspruchsvolle Level mit einem laufenden Toaster.",
+      "feature3Title": "Upgrade-System",
+      "feature3Description": "Verwenden Sie die verdienten Punkte, um den Toaster zu verbessern und Level schneller abzuschließen.",
+      "feature4Title": "Meisterkoch",
+      "feature4Description": "Werden Sie ein genialer Meisterkoch, indem Sie Missionen abschließen und Ihre Punktzahl optimieren."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "pundle": {
+    "title": "펀들 - 재미있는 퍼즐 풀고 귀여운 도전에 승리하다",
+    "slogan": "놀라운 플랫폼 게임 펀들에서 재미있는 퍼즐을 풀고 귀여운 도전에 승리하세요!",
+    "description": "펀들은 당신의 기대를 새롭게 포장해 놓았습니다! 이제 더 이상 전통적인 스크래블이나 보글게임이 아닙니다. 펀들은 지능과 단어 창의성 사이의 영광스러운 전투입니다. 워드 게임인  Wordle에서 영감을 받았는데, 농담이 무기이고 웃음이 승리의 기쁨입니다. 매일 새로운 퍼즐이 당신의 두뇌를 도전하고, 제공된 단서에서 가장 재미있는 농담을 만들도록 요청합니다. 단어를 추측하는 지루한 작업만 하지 마세요. 펀들은 당신 안의 창의적인 농담을 풀어내는 것에 관한 게임입니다. 당신이 얼마나 창의적이고 기발할수록, 당신의 농담은 더욱 돋보일 것입니다! 하지만 달콤한 웃음이나 실패가 찾아오기 전에 시도 횟수가 제한되어 있다는 것을 잊지 마세요. 따라서, 당신의 추측을 테스트하고, 농담 사전을 정리하고, 순위를 차지할 준비를 하십시오. 라운드를 지원하기 위해 필요한 참조는 완전히 적용 가능합니다. 당신의 궁극적인 목표는 승리입니다!",
+    "Loading": {
+      "title": "로딩중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인 정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "컨텐츠",
+      "help": "도움말",
+      "friendlyLinks": "유용한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "펀들 - 무료 온라인 게임 플레이",
+      "description": "펀들은 당신의 무기가 농담이고 보상이 웃음인 매혹적인 단어 게임입니다. 매일 창의적인 퍼즐로 두뇌를 도전하고 순위를 올리세요. 지금 플레이하고 당신의 단어 창의성을 펼치세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "펀들 - 최고의 단어 퍼즐 게임",
+      "whatIsTitle": "펀들은 무엇인가요?",
+      "whatIsDescription": "펀들은 제공된 단서로 가장 재미있는 농담을 만드는 Wordle 게임과 유사한 게임입니다. 수 시간 동안 당신을 즐겁게 해줄 지능과 단어 창의성의 전투입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "제공된 단서를 바탕으로 단어를 추측하세요.",
+      "howToPlayStep2": "추측한 단어로 가장 재미있는 농담을 만들어 보세요.",
+      "howToPlayStep3": "농담을 제출하고 순위를 확인하세요!",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "매일 도전",
+      "feature1Description": "매일 새로운 퍼즐이 당신의 두뇌를 도전하고 창의성을 시험할 것입니다.",
+      "feature2Title": "창의적인 농담",
+      "feature2Description": "창의력을 발휘하여 돋보일 최고의 농담을 만들어 보세요.",
+      "feature3Title": "제한된 시도 횟수",
+      "feature3Description": "달콤한 웃음이나 실패가 찾아오기 전에 시도 횟수가 제한되어 있습니다.",
+      "feature4Title": "압도적인 시각 효과",
+      "feature4Description": "끊임없이 당신의 두뇌 세포를 움직이도록 하는 압도적인 시각 효과와 매력적인 배경 음악을 즐기세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

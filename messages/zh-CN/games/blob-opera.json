@@ -1,0 +1,77 @@
+{
+  "blob-opera": {
+    "title": "Blob Opera - 免费在线音乐游戏",
+    "slogan": "创作你的歌剧杰作",
+    "description": "Blob Opera 是一款独特的音乐游戏，让你用 Blob 创作歌剧。拖动和调整 Blob 来创造和谐的旋律。Blob Opera 适合所有技能水平，它提供了一种有趣且富有创造力的方式来探索音乐。现在开始玩 Blob Opera，释放你内心的作曲家！",
+    "Loading": {
+      "title": "正在加载 Blob Opera..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一步",
+      "previous": "上一步"
+    },
+    "HomeIframe": {
+      "title": "Blob Opera - 免费在线音乐游戏",
+      "description": "Blob Opera 是一款独特的音乐游戏，让你用 Blob 创作歌剧。拖动和调整 Blob 来创造和谐的旋律。Blob Opera 适合所有技能水平，它提供了一种有趣且富有创造力的方式来探索音乐。现在开始玩 Blob Opera，释放你内心的作曲家！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL 已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Blob Opera - 免费在线音乐游戏",
+      "whatIsTitle": "Blob Opera 是什么？",
+      "whatIsDescription": "Blob Opera 是一款由 David Li 与 Google 艺术与文化合作开发的音乐游戏。它使用经过四位歌剧歌手声音训练的机器学习模型，制作了一个任何人都可以享受的实用且有趣的音乐游戏。",
+      "howToPlayTitle": "如何游戏",
+      "howToPlayStep1": "拖动鼠标帮助 Blob 达到特定音高。",
+      "howToPlayStep2": "调整 Blob 来创造和谐的旋律。",
+      "howToPlayStep3": "探索不同的音乐风格，并创作你自己的歌剧。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "互动音乐创作",
+      "feature1Description": "Blob Opera 允许您通过调整 Blob 来进行互动式音乐创作。",
+      "feature2Title": "机器学习模型",
+      "feature2Description": "该游戏使用经过歌剧演唱者声音训练的机器学习模型。",
+      "feature3Title": "易于游戏",
+      "feature3Description": "Blob Opera 易于理解和游戏，适合所有技能水平。",
+      "feature4Title": "创意探索",
+      "feature4Description": "探索不同的音乐风格，并创作你自己的独特歌剧。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

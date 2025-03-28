@@ -1,0 +1,77 @@
+{
+  "toaster-dash": {
+    "title": "烤麵包機衝刺：快節奏烘焙冒險",
+    "slogan": "在蛋糕世界展開冒險！",
+    "description": "烤麵包機衝刺提供一場刺激的快節奏動作遊戲，您控制著速度驚人的烤麵包機。可愛的畫面和引人入勝的遊戲玩法，保證您獲得極致娛樂。避開障礙，收集食材，升級您的烤麵包機，成為大師級廚師。準備好烤出美味佳餚了嗎？",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "烤麵包機衝刺™",
+      "description": "烤麵包機衝刺是一款快節奏動作遊戲，您控制著速度驚人的烤麵包機。避開障礙，收集食材，升級您的烤麵包機，成為大師級廚師。準備好烤出美味佳餚了嗎？",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "遊玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "烤麵包機衝刺™",
+      "whatIsTitle": "烤麵包機衝刺是什麼？",
+      "whatIsDescription": "烤麵包機衝刺是一款快節奏動作遊戲，您控制著速度驚人的烤麵包機。避開障礙，收集食材，升級您的烤麵包機，成為大師級廚師。",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "左右移動烤麵包機，執行不同的任務。",
+      "howToPlayStep2": "避開叉子、帶刺甜甜圈等障礙物。",
+      "howToPlayStep3": "收集所有麵包片、果醬、奶油和其他烹飪食材以獲得高分。",
+      "keyFeaturesTitle": "主要特點",
+      "feature1Title": "可愛的圖形",
+      "feature1Description": "享受逼真的音效和引人入勝的遊戲玩法。",
+      "feature2Title": "具有挑戰性的關卡",
+      "feature2Description": "在跑步的烤麵包機中挑戰具有挑戰性的關卡。",
+      "feature3Title": "升級系統",
+      "feature3Description": "使用獲得的分數升級烤麵包機，並更快地完成關卡。",
+      "feature4Title": "廚藝大師",
+      "feature4Description": "通過完成任務和優化您的分數，成為天才廚藝大師。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "檢視更多",
+      "page": "頁面"
+    }
+  }
+}

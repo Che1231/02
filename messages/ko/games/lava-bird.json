@@ -1,0 +1,77 @@
+{
+  "lava-bird": {
+    "title": "플레이 라바 버드 온라인 - 불꽃 비행 모험 게임",
+    "slogan": "이 뜨거운 측면 스크롤러에서 반사 신경을 테스트하세요!",
+    "description": "라바 버드와 함께 불꽃 비행을 시작하세요! 타오르는 용암 동굴을 따라가고, 장애물을 피하고, 파괴적인 불덩이로 적을 물리치세요. 두 가지 흥미로운 게임 모드에서 솔로 모드를 선택하거나 친구와 도전할 수 있습니다. 이 액션이 가득한 2D 측면 스크롤러의 짜릿함을 경험하세요. 지금 라바 버드를 플레이하고 용암 하늘을 정복하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "라바 버드 - 불꽃 비행 모험",
+      "description": "용암 동굴을 통해 불꽃 비행을 하는 라바 버드에 참여하세요. 장애물을 피하고, 불덩이를 쏘고, 이 짜릿한 2D 측면 스크롤러에서 적을 물리치세요. 지금 플레이하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "라바 버드 - 불꽃 비행 모험",
+      "whatIsTitle": "라바 버드는 무엇인가요?",
+      "whatIsDescription": "라바 버드는 위험한 용암 동굴을 항해하는 불꽃 새를 제어하는 액션이 가득한 2D 측면 스크롤러입니다. 장애물을 피하고, 불덩이를 쏘고, 적을 물리쳐 용암 하늘의 왕이 되세요!",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "스페이스바 또는 클릭하여 싱글 플레이 모드에서 새를 제어합니다.",
+      "howToPlayStep2": "투 플레이 모드에서는 플레이어 1(빨간색 새)이 W 키를, 플레이어 2(파란색 새)가 위쪽 화살표 키를 사용합니다.",
+      "howToPlayStep3": "장애물을 피하고 적을 물리쳐 점수를 얻으세요. 5점을 먼저 얻은 플레이어가 승리합니다!",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "불꽃 비행",
+      "feature1Description": "장애물과 적이 가득한 위험한 용암 동굴을 항해하세요.",
+      "feature2Title": "파괴적인 불덩이",
+      "feature2Description": "불덩이를 쏘아 적을 파괴하고 길을 터세요.",
+      "feature3Title": "두 가지 게임 모드",
+      "feature3Description": "솔로 플레이 또는 친구와 치열한 격투를 즐길 수 있는 두 가지 게임 모드를 선택하세요.",
+      "feature4Title": "간편한 조작",
+      "feature4Description": "간단하고 직관적인 조작으로 모든 플레이어가 쉽게 즐길 수 있습니다."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

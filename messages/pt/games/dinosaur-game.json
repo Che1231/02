@@ -1,0 +1,77 @@
+{
+  "dinosaur-game": {
+    "title": "Jogo do Dinossauro Online - Aventura de Corrida Infinita",
+    "slogan": "Pule, Corra, Sobreviva!",
+    "description": "O Jogo do Dinossauro, também conhecido como Chrome Dino ou T-Rex Runner, é um popular jogo de corrida sem fim de rolagem lateral. Jogue offline no Google Chrome e controle um T-Rex pixelado para navegar por um cenário desértico cheio de cactos e pterodáctilos voadores. Sobreviva o máximo possível pulando sobre ou agachado sob obstáculos. Experimente o Jogo do Dinossauro agora e domine esta envolvente aventura de arcade!",
+    "Loading": {
+      "title": "Carregando..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Amigáveis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Jogo do Dinossauro",
+      "description": "O Jogo do Dinossauro, também conhecido como Chrome Dino ou T-Rex Runner, é um popular jogo de corrida sem fim de rolagem lateral. Jogue offline no Google Chrome e controle um T-Rex pixelado para navegar por um cenário desértico cheio de cactos e pterodáctilos voadores. Sobreviva o máximo possível pulando sobre ou agachado sob obstáculos. Experimente o Jogo do Dinossauro agora e domine esta envolvente aventura de arcade!",
+      "iframeTitle": "Pré-visualização do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Jogo do Dinossauro",
+      "whatIsTitle": "O que é o Jogo do Dinossauro?",
+      "whatIsDescription": "O Jogo do Dinossauro, também conhecido como Chrome Dino ou T-Rex Runner, é um popular jogo de corrida sem fim de rolagem lateral que pode ser jogado offline no Google Chrome. Controle um T-Rex pixelado e navegue por um cenário desértico cheio de cactos e pterodáctilos voadores.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Pressione a barra de espaço para pular sobre os cactos.",
+      "howToPlayStep2": "Pressione a tecla seta para baixo para se agachar sob os pterodáctilos voadores.",
+      "howToPlayStep3": "Sobreviva o máximo possível para alcançar uma pontuação alta.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Design Minimalista",
+      "feature1Description": "Desfrute de um estilo de arte pixelado limpo e simples.",
+      "feature2Title": "Jogabilidade Adictiva",
+      "feature2Description": "Experimente diversão infinita com obstáculos desafiadores.",
+      "feature3Title": "Dificuldade Crescente",
+      "feature3Description": "O jogo fica mais difícil à medida que você progride, mantendo você engajado.",
+      "feature4Title": "Jogo Offline",
+      "feature4Description": "Jogue o Jogo do Dinossauro a qualquer hora, mesmo sem conexão com a internet."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

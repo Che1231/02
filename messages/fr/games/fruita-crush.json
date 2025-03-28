@@ -1,0 +1,77 @@
+{
+  "fruita-crush": {
+    "title": "Fruita Crush : Jeu de correspondance de fruits en ligne gratuit",
+    "slogan": "Explosez de plaisir juteux !",
+    "description": "Fruita Crush explose de plaisir juteux ! Mettez vos compétences de correspondance à l'épreuve sur une cascade vibrante de fruits. Pouvez-vous vaincre ce jeu délicieusement addictif ? Fruita Crush vous invite à un voyage à la découverte de magnifiques paysages avec des défis créatifs. Vous effectuerez des séries de casse-tête avec des fruits frais. La tâche du joueur est d'atteindre le score requis avec un nombre limité de tours. Vous devez créer un combo de trois objets identiques ou plus placés côte à côte. Avec un combo de quatre fruits ou plus, vous pouvez créer des objets tels que des bombes, des détonateurs horizontaux ou verticaux, et la possibilité de cloner des entités. Lorsque le nombre de coups est épuisé et qu'il reste des objets sur le plateau de jeu principal, ils s'activent automatiquement et augmentent votre score. Vous ne pouvez débloquer le niveau suivant que lorsque vous avez terminé la mission du tour précédent. Fruita Crush vous emmène dans un voyage palpitant à travers des paysages époustouflants de terres diverses. Des collines luxuriantes et vertes aux déserts brûlants en passant par des jungles dangereuses, chaque endroit a ses propres défis uniques qui vous attendent. Alors, comment réussir chaque niveau et devenir un maître de ce jeu ? Le secret réside dans la stratégie de calcul de vos coups. Profitez de chaque puissant mega-écrasement pour écraser plusieurs cibles à la fois, créer des combos incroyables et maîtriser ce monde des fruits. En utilisant votre intelligence et votre agencement, vous serez capable de relever tous les défis et de conquérir tous les niveaux de manière épique.",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Fruita Crush : Jeu de correspondance de fruits en ligne gratuit",
+      "description": "Fruita Crush explose de plaisir juteux ! Mettez vos compétences de correspondance à l'épreuve sur une cascade vibrante de fruits. Pouvez-vous vaincre ce jeu délicieusement addictif ? Fruita Crush vous invite à un voyage à la découverte de magnifiques paysages avec des défis créatifs. Vous effectuerez des séries de casse-tête avec des fruits frais. La tâche du joueur est d'atteindre le score requis avec un nombre limité de tours. Vous devez créer un combo de trois objets identiques ou plus placés côte à côte. Avec un combo de quatre fruits ou plus, vous pouvez créer des objets tels que des bombes, des détonateurs horizontaux ou verticaux, et la possibilité de cloner des entités. Lorsque le nombre de coups est épuisé et qu'il reste des objets sur le plateau de jeu principal, ils s'activent automatiquement et augmentent votre score. Vous ne pouvez débloquer le niveau suivant que lorsque vous avez terminé la mission du tour précédent. Fruita Crush vous emmène dans un voyage palpitant à travers des paysages époustouflants de terres diverses. Des collines luxuriantes et vertes aux déserts brûlants en passant par des jungles dangereuses, chaque endroit a ses propres défis uniques qui vous attendent. Alors, comment réussir chaque niveau et devenir un maître de ce jeu ? Le secret réside dans la stratégie de calcul de vos coups. Profitez de chaque puissant mega-écrasement pour écraser plusieurs cibles à la fois, créer des combos incroyables et maîtriser ce monde des fruits. En utilisant votre intelligence et votre agencement, vous serez capable de relever tous les défis et de conquérir tous les niveaux de manière épique.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Fruita Crush : Jeu de correspondance de fruits en ligne gratuit",
+      "whatIsTitle": "Qu'est-ce que Fruita Crush ?",
+      "whatIsDescription": "Fruita Crush est un jeu de casse-tête délicieusement addictif où vous associez des fruits pour atteindre des scores élevés et débloquer de nouveaux niveaux.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Utilisez la souris pour échanger les positions des fruits entre eux.",
+      "howToPlayStep2": "Notez que le mouvement n'est valide que si le changement peut permettre d'obtenir des points.",
+      "howToPlayStep3": "Observez le nombre de coups restant pour élaborer une stratégie intelligente.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Plaisir juteux",
+      "feature1Description": "Associez des fruits et créez des combos pour un plaisir explosif.",
+      "feature2Title": "Défis créatifs",
+      "feature2Description": "Explorez de magnifiques paysages avec des défis uniques.",
+      "feature3Title": "Combos puissants",
+      "feature3Description": "Créez des bombes, des détonateurs et des clones d'entités pour des scores élevés.",
+      "feature4Title": "Voyage palpitant",
+      "feature4Description": "Parcourez des paysages époustouflants et surmontez chaque niveau."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

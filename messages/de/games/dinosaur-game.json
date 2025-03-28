@@ -1,0 +1,77 @@
+{
+  "dinosaur-game": {
+    "title": "Dino-Spiel online spielen - Endlosläufer-Abenteuer",
+    "slogan": "Springen, Rennen, Überleben!",
+    "description": "Das Dino-Spiel, auch bekannt als Chrome Dino oder T-Rex Runner, ist ein beliebtes Side-Scrolling-Endlosläufer-Spiel. Spielen Sie offline in Google Chrome und steuern Sie einen pixelartigen T-Rex, um sich durch eine Wüstenlandschaft mit Kakteen und fliegenden Pterodaktylen zu bewegen. Überleben Sie so lange wie möglich, indem Sie über oder unter Hindernissen springen oder sich ducken. Probieren Sie das Dino-Spiel jetzt aus und meistern Sie dieses fesselnde Arcade-Abenteuer!",
+    "Loading": {
+      "title": "Lädt..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Leitfaden",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Dino-Spiel",
+      "description": "Das Dino-Spiel, auch bekannt als Chrome Dino oder T-Rex Runner, ist ein beliebtes Side-Scrolling-Endlosläufer-Spiel. Spielen Sie offline in Google Chrome und steuern Sie einen pixelartigen T-Rex, um sich durch eine Wüstenlandschaft mit Kakteen und fliegenden Pterodaktylen zu bewegen. Überleben Sie so lange wie möglich, indem Sie über oder unter Hindernissen springen oder sich ducken. Probieren Sie das Dino-Spiel jetzt aus und meistern Sie dieses fesselnde Arcade-Abenteuer!",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Dino-Spiel",
+      "whatIsTitle": "Was ist das Dino-Spiel?",
+      "whatIsDescription": "Das Dino-Spiel, auch bekannt als Chrome Dino oder T-Rex Runner, ist ein beliebtes Side-Scrolling-Endlosläufer-Spiel, das offline in Google Chrome gespielt werden kann. Steuern Sie einen pixelartigen T-Rex und navigieren Sie durch eine Wüstenlandschaft mit Kakteen und fliegenden Pterodaktylen.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Drücken Sie die Leertaste, um über Kakteen zu springen.",
+      "howToPlayStep2": "Drücken Sie die nach unten Zeigertasten, um sich unter fliegenden Pterodaktylen zu ducken.",
+      "howToPlayStep3": "Überleben Sie so lange wie möglich, um eine hohe Punktzahl zu erreichen.",
+      "keyFeaturesTitle": "Haupteigenschaften",
+      "feature1Title": "Minimalistisches Design",
+      "feature1Description": "Genießen Sie einen klaren und einfachen pixelartigen Kunststil.",
+      "feature2Title": "Suchtendes Gameplay",
+      "feature2Description": "Erleben Sie endlosen Spaß mit herausfordernden Hindernissen.",
+      "feature3Title": "Zunehmende Schwierigkeit",
+      "feature3Description": "Das Spiel wird schwieriger, während Sie Fortschritte machen und Sie gefordert bleiben.",
+      "feature4Title": "Offline-Spiel",
+      "feature4Description": "Spielen Sie das Dino-Spiel jederzeit, auch ohne Internetverbindung."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

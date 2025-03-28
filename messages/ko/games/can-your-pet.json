@@ -1,0 +1,77 @@
+{
+  "can-your-pet": {
+    "title": "애완동물 게임 - 가상 애완동물 놀이 Can Your Pet?",
+    "slogan": "Can Your Pet?로 기기에서 바로 애완동물을 키우세요.",
+    "description": "Can Your Pet?과 함께 사랑스럽고 놀라운 가상 세계에 몰입하세요. 귀여운 닭을 돌보고 행복하게 유지하며 예상치 못한 반전을 발견하세요. 이 독특한 가상 애완동물 게임을 통해 즐겁고 재미있는 시간을 보내세요. 지금 Can Your Pet? 게임을 시작하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "내용",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "Can Your Pet? - 가상 애완 게임",
+      "description": "Can Your Pet?에서 귀여운 닭을 키우는 경험을 만끽하세요. 애완동물을 먹이고, 청결하게 유지하고, 놀아주어 행복하게 하세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Can Your Pet? - 가상 애완 게임",
+      "whatIsTitle": "Can Your Pet?는 무엇인가요?",
+      "whatIsDescription": "Can Your Pet?는 귀여운 닭을 키우는 가상 애완동물 게임입니다. 애완동물을 돌보고 게임을 플레이하면서 예상치 못한 반전을 발견하세요.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "닭이 배가 부르고 행복하게 하려면 닭을 먹이세요.",
+      "howToPlayStep2": "닭을 청결하게 하려면 목욕시키세요.",
+      "howToPlayStep3": "다양한 장난감으로 닭과 놀아주어 즐겁게 해주세요.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "애완동물 돌보기",
+      "feature1Description": "애완동물의 건강과 행복을 유지하기 위해 먹이고 청결하게 관리하세요.",
+      "feature2Title": "애완동물 꾸미기",
+      "feature2Description": "귀엽거나 멋진 액세서리로 애완동물을 꾸며주세요.",
+      "feature3Title": "애완동물과 놀기",
+      "feature3Description": "다양한 장난감을 활용하여 애완동물과 함께 즐겁게 놀아주세요.",
+      "feature4Title": "예상치 못한 것을 발견하기",
+      "feature4Description": "게임을 탐험하여 예상치 못한 반전과 비밀을 찾아보세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

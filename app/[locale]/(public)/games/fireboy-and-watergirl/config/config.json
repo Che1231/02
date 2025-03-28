@@ -1,0 +1,68 @@
+{
+  "name": "Fireboy and Watergirl",
+  "pagePath": "/games/fireboy-and-watergirl",
+  "pageName": "fireboy-and-watergirl",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://webglmath.github.io/fireboy-and-watergirl-1/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "",
+      "role": "",
+      "content": "",
+      "avatar": ""
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAACCCAYAAAADm4eUAAABCUlEQVR42u3TMQEAAAQAMF4ZNNT/V8Dv2TosK6YDOKUgIAgIAoKAICAICAKCgCAgCCAICAKCgCAgCAgCgoAgIAgIIggIAoKAICAICAKCgCAgCAgCCAKCgCAgCAgCgoAgIAgIAoIAgoAgIAgIAoKAICAICAKCAIKAICAICAKCgCAgCAgCgoAggCAgCAgCgoAgIAgIAoKAIIAgIAgIAoKAICAICAKCgCAgCCAICAKCgCAgCAgCgoAgIAgIIggIAoKAICAICAKCgCAgCAgCCAKCgCAgCAgCgoAgIAgIAoIIAoKAICAICAKCgCAgCAgCggCCgCAgCAgCgoAgIAgIAoKAIIAgIAgIAoLAtwXRREoljqc3BAAAAABJRU5ErkJggg==",
+  "page_path": "/games/fireboy-and-watergirl",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8scd6tb00ztlywl110our1m",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T05:28:12.478Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 13:36:23"
+}

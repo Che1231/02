@@ -1,0 +1,1 @@
+Framed is an intriguing and captivating puzzle game that combines storytelling and strategic thinking. In this noir-inspired adventure, players find themselves in a world of mystery, where they must rearrange comic book panels to navigate through a thrilling narrative.

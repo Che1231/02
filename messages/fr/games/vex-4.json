@@ -1,0 +1,77 @@
+{
+  "vex-4": {
+    "title": "Vex 4 - Jeu d'aventure en ligne gratuit",
+    "slogan": "Échappez-vous, Naviguez, Vainquez",
+    "description": "Vex 4 est le quatrième et passionnant opus de la série Vex, offrant un défi encore plus grand. Votre objectif dans Vex 4 est de sortir de chaque niveau en vous déplaçant à travers les obstacles en courant, sautant, glissant et même en nageant. Le gameplay reste familier, vous permettant d'utiliser diverses techniques comme l'escalade de mur. Une nouvelle fonctionnalité est l'enregistreur fantôme, qui vous permet d'enregistrer vos mouvements dans les niveaux. C'est une fonctionnalité optionnelle, mais c'est assez cool à essayer. Le jeu ressemble et se joue à peu près comme avant, avec des commandes utilisant soit WASD ou les flèches, selon votre préférence. Préparez-vous pour une aventure exaltante dans Vex 4 !",
+    "Loading": {
+      "title": "Chargement de Vex 4..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Vex 4 - Jeu d'aventure en ligne gratuit",
+      "description": "Vex 4 est le quatrième et passionnant opus de la série Vex, offrant un défi encore plus grand. Votre objectif dans Vex 4 est de sortir de chaque niveau en vous déplaçant à travers les obstacles en courant, sautant, glissant et même en nageant. Le gameplay reste familier, vous permettant d'utiliser diverses techniques comme l'escalade de mur. Une nouvelle fonctionnalité est l'enregistreur fantôme, qui vous permet d'enregistrer vos mouvements dans les niveaux. C'est une fonctionnalité optionnelle, mais c'est assez cool à essayer. Le jeu ressemble et se joue à peu près comme avant, avec des commandes utilisant soit WASD ou les flèches, selon votre préférence. Préparez-vous pour une aventure exaltante dans Vex 4 !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Vex 4 - Jeu d'aventure en ligne gratuit",
+      "whatIsTitle": "Qu'est-ce que Vex 4 ?",
+      "whatIsDescription": "Vex 4 est le quatrième et passionnant opus de la série Vex, offrant un défi encore plus grand. Votre objectif dans Vex 4 est de sortir de chaque niveau en vous déplaçant à travers les obstacles en courant, sautant et glissant.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Naviguez à travers les obstacles en courant, sautant et glissant.",
+      "howToPlayStep2": "Utilisez diverses techniques comme l'escalade de murs pour sortir de chaque niveau.",
+      "howToPlayStep3": "Essayez l'enregistreur fantôme pour enregistrer vos mouvements dans les niveaux.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Niveaux stimulants",
+      "feature1Description": "Sortez de chaque niveau en naviguant à travers divers obstacles.",
+      "feature2Title": "Enregistreur fantôme",
+      "feature2Description": "Enregistrez vos mouvements dans les niveaux grâce à cette fonction optionnelle.",
+      "feature3Title": "Gameplay familier",
+      "feature3Description": "Utilisez diverses techniques comme l'escalade de murs pour sortir de chaque niveau.",
+      "feature4Title": "Commandes personnalisables",
+      "feature4Description": "Jouez avec WASD ou les touches de direction selon votre préférence."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

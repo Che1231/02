@@ -1,0 +1,77 @@
+{
+  "trigonometry-dash": {
+    "title": "Trigonometri Dash: Permainan Petualangan Geometri",
+    "slogan": "Taklukkan Peta Geometri Kompleks dengan Trigonometry Dash",
+    "description": "Trigonometry Dash menawarkan pengalaman platformer unik di mana Anda menavigasi melalui tantangan geometri. Dengan empat mode permainan dan kecepatan yang dapat disesuaikan, nikmati petualangan yang menegangkan. Mainkan Trigonometry Dash sekarang dan jelajahi dunia geometri!",
+    "Loading": {
+      "title": "Memuat Trigonometry Dash..."
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Buat Di",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Syarat Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Trigonometri Dash",
+      "description": "Trigonometry Dash mengajak Anda untuk mengalami petualangan geometri yang unik. Navigasi melalui peta yang kompleks, hindari rintangan, dan capai garis finish. Mainkan sekarang dan nikmati tantangannya!",
+      "iframeTitle": "Pratinjau Permainan",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Permainan",
+      "playGame": "Mainkan Permainan"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Trigonometri Dash",
+      "whatIsTitle": "Apa itu Trigonometry Dash?",
+      "whatIsDescription": "Trigonometry Dash adalah permainan platformer yang menggabungkan geometri dan petualangan. Dengan gameplay unik dan beragam mode, ia menawarkan pengalaman yang menantang namun menyenangkan.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Gunakan tombol panah untuk menavigasi kubus.",
+      "howToPlayStep2": "Hindari rintangan dan temukan jalan menuju garis finish.",
+      "howToPlayStep3": "Nikmati permainan dengan kecepatan Anda sendiri dan jelajahi dunia geometri.",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Kecepatan Dapat Disesuaikan",
+      "feature1Description": "Kendalikan kecepatan permainan dan nikmati petualangan dengan cara Anda sendiri.",
+      "feature2Title": "Empat Mode Permainan",
+      "feature2Description": "Pilih dari mode normal, serangan waktu, monster, dan buta.",
+      "feature3Title": "Titik Kontrol",
+      "feature3Description": "Mulailah lagi dari poin kontrol terakhir alih-alih memulai dari awal.",
+      "feature4Title": "Mode Cermin",
+      "feature4Description": "Alami tantangan unik dengan portal khusus dalam mode cermin."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Permainan"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Permainan",
+      "description": "Semua Permainan",
+      "games": "Permainan"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Lebih Banyak",
+      "page": "Halaman"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "t-rex-ai": {
+    "title": "T-Rex AI 온라인 플레이 - 무료 공룡 게임 모험",
+    "slogan": "선사 시대 세계로 들어가서 끝없이 달려보세요!",
+    "description": "T-Rex AI는 흥미진진한 선사 시대 모험을 초대합니다. 예측 불가능한 장애물로 가득 찬 위험한 사막 길을 공룡으로 움직여보세요. 간단한 조작과 도전적인 게임 플레이로 T-Rex AI는 독특하고 매력적인 경험을 제공합니다. \"봇 활성화\" 기능을 발견하고 이 게임을 특별하게 만드는 것을 확인해보세요. 지금 T-Rex AI를 플레이하고 반사 신경을 테스트해보세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "T-Rex AI - 공룡 게임 모험",
+      "description": "선사 시대를 배경으로 한 끝없이 이어지는 런 게임, T-Rex AI의 스릴을 경험하세요. 장애물을 피하고 이 도전적이고 예측 불가능한 모험에서 반사 신경을 테스트하세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "T-Rex AI - 공룡 게임 모험",
+      "whatIsTitle": "T-Rex AI는 무엇인가요?",
+      "whatIsDescription": "예측 불가능한 장애물로 가득 찬 사막을 이동하는 공룡을 조종하는 무한 런 게임입니다. 게임은 플레이하기 쉽지만 마스터하기는 어렵습니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "공룡을 점프시키려면 스페이스바 또는 위쪽 화살표 키를 사용하세요.",
+      "howToPlayStep2": "높은 곳의 장애물을 피하려면 아래쪽 화살표 키를 눌러 공룡의 머리를 내려주세요.",
+      "howToPlayStep3": "집중하고 게임 속도가 빨라지는 만큼 즉흥적인 대응 준비를 하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "간단한 그래픽",
+      "feature1Description": "T-Rex AI는 배경 산만함을 방지하는 데 도움이 되는 간단한 그래픽을 제공합니다.",
+      "feature2Title": "예측 불가능한 장애물",
+      "feature2Description": "T-Rex AI의 장애물은 매우 예측 불가능하여 게임을 더욱 어렵게 만듭니다.",
+      "feature3Title": "봇 활성화",
+      "feature3Description": "게임에 흥미진진한 또 다른 층을 추가하는 독특한 \"봇 활성화\" 기능을 발견하세요.",
+      "feature4Title": "끝없는 즐거움",
+      "feature4Description": "끊임없는 게임 플레이로 T-Rex AI는 수많은 즐거움과 즐거움을 제공합니다."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

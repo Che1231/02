@@ -1,0 +1,122 @@
+{
+  "name": "Cubito",
+  "pagePath": "/games/cubito",
+  "pageName": "cubito",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://buckshotroulettee.github.io/game/cubito/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken87.png",
+      "content": "OMG, the puzzles in Cubito are mind-bending! I got hooked right in. Gotta collect those items!"
+    },
+    {
+      "author": "SavageKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatana_X.png",
+      "content": "This Cubito game is surprisingly addictive. The pace is super fast, but the design is kinda neat. Gotta focus!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Cubito uses simple blocks, but the challenge is absolutely unbelievable. It's a fun time waster, ngl."
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "I love the fast rounds in Cubito—perfect for a quick gaming session!  It is awesome!"
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "The platforms and obstacles in Cubito are really fun; definitely keeps you on your toes, haha!"
+    },
+    {
+      "author": "PhantomPhoenix42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix42.png",
+      "content": "Cubito is a blast! The gameplay is focused on execution which is pretty fun. Can't stop playin'."
+    },
+    {
+      "author": "CosmicBroadsword_99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicBroadsword_99.png",
+      "content": "If you're into block games, check out Cubito! The game is great, very addictive!"
+    },
+    {
+      "author": "NeonLeviathan",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonLeviathan.png",
+      "content": "Cubito's repetitive design actually helps improve the game play after each replay. I really enjoy those features!"
+    },
+    {
+      "author": "StalkingPhoenix",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix.png",
+      "content": "Collecting items in Cubito is so satisfying! The pace is too fast but I love it."
+    },
+    {
+      "author": "PhantomRevolver",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomRevolver.png",
+      "content": "Why isn't everyone playing Cubito? It's a fun game, seriously, what are you waiting for?"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/cubito/cubito-m200x130.webp",
+  "page_path": "/games/cubito",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8scc1qd00yllywls4zb8dyi",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T05:27:19.236Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 13:32:12"
+}

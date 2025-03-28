@@ -1,0 +1,77 @@
+{
+  "fnf-flip-side": {
+    "title": "FNF Flip-Side：無料オンラインリズムバトルゲーム",
+    "slogan": "あなたの反射神経とリズムをマスターしてください！",
+    "description": "FNF Flip-Sideに参加し、このリズムバトルであなたの反射神経を試してください。マスターになるために、フリップとドロップを駆け抜けましょう！FNF Flip-Sideは、新しいキャラクタと予測できないメロディーが登場する挑戦的なラップバトルを提供し、あなたのスキルを新たなレベルに引き上げます。驚くべきそしてスリリングな出来事の準備はできていますか？今すぐFNF Flip-Sideをプレイして、究極のリズムチャレンジを体験してください！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "FNF Flip-Side",
+      "description": "FNF Flip-Sideに参加し、このリズムバトルであなたの反射神経を試してください。マスターになるために、フリップとドロップを駆け抜けましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "FNF Flip-Side",
+      "whatIsTitle": "FNF Flip-Sideとは？",
+      "whatIsDescription": "FNF Flip-Sideは、すべてがひっくり返ってしまう究極のリズムバトルゲームです！挑戦的なラップバトルで、新しいキャラクターと予測できないメロディーに立ち向かいましょう。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "あなたの反射神経とリズムをマスターしてください。",
+      "howToPlayStep2": "マスターになるために、フリップとドロップを駆け抜けましょう。",
+      "howToPlayStep3": "挑戦的なラップバトルで、新しいキャラクターと予測できないメロディーに立ち向かいましょう。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "挑戦的なラップバトル",
+      "feature1Description": "あなたのスキルを極限まで高める、激しいラップバトルに参加しましょう。",
+      "feature2Title": "新しいキャラクター",
+      "feature2Description": "ユニークなスタイルと課題を持つ新しいキャラクターに出会います。",
+      "feature3Title": "予測できないメロディー",
+      "feature3Description": "あなたを常に緊張させ続ける、様々なメロディーを体験してください。",
+      "feature4Title": "ひっくり返ったゲームプレイ",
+      "feature4Description": "すべてがひっくり返され、新鮮でスリリングな体験が提供されます。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

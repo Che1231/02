@@ -1,0 +1,77 @@
+{
+  "hop-warp": {
+    "title": "Hop Warp - ¡Salta, desplázate y conquista!",
+    "slogan": "¡Navega, transforma y explora!",
+    "description": "¡Sumérgete en la aventura fascinante de Hop Warp, donde saltas, te desplazas y conquistas niveles peligrosos! Domina el arte de la exploración interdimensional y colecciona estrellas para completar cada ronda. Experimenta una jugabilidad única al transformarte en una estrella brillante para navegar a través de paredes. ¿Listo para desafiar tus habilidades tácticas? ¡Juega a Hop Warp ahora!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Hop Warp - Juego online gratuito",
+      "description": "¡Salta, desplázate y conquista en Hop Warp! Navega por niveles peligrosos, domina el arte del desplazamiento y conviértete en el explorador interdimensional definitivo. ¡Juega ahora!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Hop Warp",
+      "whatIsTitle": "¿Qué es Hop Warp?",
+      "whatIsDescription": "Hop Warp es una aventura de un pequeño personaje que navega por laberintos cerrados. Experimenta un juego de plataformas fascinante donde las dimensiones chocan y se transforman en una estrella brillante para recoger todas las estrellas.",
+      "howToPlayTitle": "¿Cómo jugar?",
+      "howToPlayStep1": "Movimiento: Usa las flechas o las teclas WASD.",
+      "howToPlayStep2": "Cambio: Presiona la tecla X o la barra espaciadora para transformarte en una estrella.",
+      "howToPlayStep3": "Nota: Las paredes y áreas rojas bloquean las transformaciones.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Jugabilidad única",
+      "feature1Description": "Recoge todas las estrellas de cada nivel saltando y desplazándote por las dimensiones.",
+      "feature2Title": "Transformación de forma",
+      "feature2Description": "Transfórmate en una estrella brillante para moverte a través de paredes y navegar por laberintos complejos.",
+      "feature3Title": "Desafío táctico",
+      "feature3Description": "Utiliza estratégicamente las transformaciones limitadas para completar cada nivel.",
+      "feature4Title": "Niveles atractivos",
+      "feature4Description": "Explora niveles fascinantes diseñados para poner a prueba tus habilidades creativas."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video de juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

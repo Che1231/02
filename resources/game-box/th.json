@@ -1,0 +1,114 @@
+{
+  "recommended": [],
+  "categories": [
+    {
+      "name": "เกมเด่น",
+      "path": "/c/featured",
+      "pageSize": 15,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "เราได้คัดสรรเกมที่ดีที่สุดสำหรับคุณแล้ว!"
+    },
+    {
+      "name": "เกมอาร์เคด",
+      "path": "/c/arcade-games",
+      "pageSize": 15,
+      "backgroundColor": "#d2e7ff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "เกมอาร์เคดสุดตื่นเต้น!",
+      "position": 2
+    },
+    {
+      "name": "เกมแอ็คชั่น",
+      "path": "/c/action",
+      "pageSize": 15,
+      "backgroundColor": "#c1f8cf",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "เกมแอ็คชั่นสุดตื่นเต้น!",
+      "position": 3
+    },
+    {
+      "name": "เกมผจญภัย",
+      "path": "/c/adventure-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 4,
+      "description": "เกมผจญภัยสุดตื่นเต้น!"
+    },
+    {
+      "name": "เกม Wordleverse",
+      "path": "/c/wordleverse-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 5,
+      "description": "เกม Wordleverse สุดตื่นเต้น!"
+    },
+    {
+      "name": "เกม .IO",
+      "path": "/c/io-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 6,
+      "description": "เกม .IO สุดตื่นเต้น!"
+    },
+    {
+      "name": "เกมสบายๆ",
+      "path": "/c/casual-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 7,
+      "description": "เกมสบายๆ สุดตื่นเต้น!"
+    },
+    {
+      "name": "เกมปริศนา",
+      "path": "/c/puzzle-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 8,
+      "description": "เกมปริศนาสุดตื่นเต้น!"
+    },
+    {
+      "name": "เกมแข่งรถ และขับรถ",
+      "path": "/c/racing-driving",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 9,
+      "description": "เกมแข่งรถและขับรถสุดตื่นเต้น!"
+    },
+    {
+      "name": "เกม 3 มิติ",
+      "path": "/c/3d-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 10,
+      "description": "เกม 3 มิติสุดตื่นเต้น!"
+    },
+    {
+      "name": "เกมกีฬา",
+      "path": "/c/sports-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 11,
+      "description": "เกมกีฬาสุดตื่นเต้น!"
+    }
+  ]
+}

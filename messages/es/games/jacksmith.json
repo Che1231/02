@@ -1,0 +1,77 @@
+{
+  "jacksmith": {
+    "title": "Jacksmith - Crea Armas Legendarias y Arma a tus Guerreros",
+    "slogan": "¡Conviértete en el Héroe Herrero Supremo!",
+    "description": "Adéntrate en el mundo de Jacksmith y transforma tus habilidades artesanales. Crea armas poderosas, arma a tus guerreros y conquista olas de enemigos. Jacksmith ofrece una experiencia de juego única en la que forjas armas legendarias en lugar de cocinar. Mejora tu tienda, cumple con los pedidos de los clientes y gana bonificaciones. ¿Listo para fabricar las espadas y arcos más destructivos? ¡Empieza tu viaje de herrero ahora mismo!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Términos de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Jacksmith - Crea Armas Legendarias",
+      "description": "Juega a Jacksmith y conviértete en el héroe herrero definitivo. Crea armas poderosas, arma a tus guerreros y derrota a los enemigos. ¡Comienza tu viaje ahora!",
+      "iframeTitle": "Vista Previa del Juego",
+      "fullscreenButton": "Pantalla Completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar Juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Jacksmith - Crea Armas Legendarias",
+      "whatIsTitle": "¿Qué es Jacksmith?",
+      "whatIsDescription": "Jacksmith es un juego único en el que te conviertes en un héroe herrero, creando armas poderosas para guerreros. Transforma tus habilidades artesanales y conquista oleadas de enemigos.",
+      "howToPlayTitle": "Cómo Jugar",
+      "howToPlayStep1": "Recibe pedidos de clientes.",
+      "howToPlayStep2": "Cumple con los requisitos para ganar bonificaciones.",
+      "howToPlayStep3": "Mejora tu tienda y crea las mejores armas.",
+      "keyFeaturesTitle": "Características Principales",
+      "feature1Title": "Crea Armas Legendarias",
+      "feature1Description": "Forja poderosas espadas y arcos con materiales raros.",
+      "feature2Title": "Arma a tus Guerreros",
+      "feature2Description": "Equipa a tus guerreros con las mejores armas para conquistar a los enemigos.",
+      "feature3Title": "Mejora tu Tienda",
+      "feature3Description": "Mejora tu herrería para crear mejores armas.",
+      "feature4Title": "Gana Bonificaciones",
+      "feature4Description": "Cumple con los pedidos de los clientes y recibe bonificaciones y consejos."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas Frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del Juego"
+    },
+    "GamePage": {
+      "title": "Todos los Juegos",
+      "description": "Todos los Juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver Más",
+      "page": "Página"
+    }
+  }
+}

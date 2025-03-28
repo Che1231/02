@@ -1,0 +1,77 @@
+{
+  "rocket-game": {
+    "title": "Rocket Game: Aventura Espacial Empolgante",
+    "slogan": "Pilotos seu foguete através de níveis desafiadores e voe em direção às estrelas!",
+    "description": "Rocket Game te leva em uma aventura emocionante! Piloto seu foguete através de níveis desafiadores e evite obstáculos enquanto voa em direção às estrelas. Este jogo de direção baseado em física oferece experiências únicas ao viajar por estradas perigosas. Mergulhe nessas experiências únicas para tornar seu tempo de lazer mais emocionante. Jogue Rocket Game agora e aproveite a emoção!",
+    "Loading": {
+      "title": "Carregando..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Amigáveis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Rocket Game: Aventura Espacial Empolgante",
+      "description": "Piloto seu foguete através de níveis desafiadores e evite obstáculos enquanto voa em direção às estrelas. Desfrute de experiências únicas ao viajar por estradas perigosas.",
+      "iframeTitle": "Pré-visualização do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Rocket Game: Aventura Espacial Empolgante",
+      "whatIsTitle": "O que é Rocket Game?",
+      "whatIsDescription": "Rocket Game é um jogo de direção baseado em física com experiências ao viajar por estradas perigosas. Encostas íngremes e colinas acidentadas tornarão sua jornada ainda mais espetacular.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Seta para cima: vá em frente; pressione e segure para acelerar.",
+      "howToPlayStep2": "Seta para baixo: andar para trás, geralmente para ganhar impulso.",
+      "howToPlayStep3": "Barra de Espaço: modo foguete, pressione e segure para ajustar a força de \"fogo\" deste veículo especial.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Níveis Desafadores",
+      "feature1Description": "Navegue por plataformas complexas e supere obstáculos.",
+      "feature2Title": "Jogabilidade Baseada em Física",
+      "feature2Description": "Experimente física realista enquanto dirige por estradas perigosas.",
+      "feature3Title": "Modo Foguete",
+      "feature3Description": "Use o modo foguete para fazer saltos de impulso e disparar como um foguete.",
+      "feature4Title": "Aventura Adictiva",
+      "feature4Description": "Mergulhe em experiências únicas que tornam o jogo viciante."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "pundle": {
+    "title": "Pundle - Découvrir des énigmes amusantes et relever des défis câlins",
+    "slogan": "Développez des énigmes amusantes et surmontez les défis câlins dans le superbe jeu de plateforme Pundle !",
+    "description": "Pundle est là pour repenser vos attentes ! Plus de Scrabble ou de Boggle traditionnels, Pundle est une glorieuse bataille entre l'intelligence et la créativité verbale. Il s'agit d'un match inspiré de Wordle, où les jeux de mots sont les armes et le rire est la joie de la victoire. Chaque jour, une nouvelle énigme stimulera votre cerveau, vous demandant de créer les jeux de mots les plus amusants à partir des indices fournis. Ne vous contentez pas de deviner des mots ennuyeux ; Pundle consiste à libérer les jeux de mots créatifs qui sommeillent en vous. Plus vous êtes créatif et original, plus vos jeux de mots se démarqueront ! Mais n'oubliez pas que vous avez un nombre limité d'essais avant que le rire doux ou l'échec ne survienne. Préparez donc vos crayons pour tester vos suppositions, nettoyez votre dictionnaire de jeux de mots et préparez-vous à gagner les classements. Les recherches nécessaires pour prendre en charge le tour sont entièrement applicables. Votre objectif ultime est la victoire !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Pundle - Jouez gratuitement en ligne",
+      "description": "Découvrez Pundle, un jeu de mots captivant où les jeux de mots sont vos armes et le rire votre récompense. Mettez votre cerveau au défi quotidiennement avec des énigmes créatives et gravissez les échelons du classement. Jouez maintenant et libérez votre créativité verbale !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Pundle - Le jeu ultime de puzzle de mots",
+      "whatIsTitle": "Qu'est-ce que Pundle ?",
+      "whatIsDescription": "Pundle est un jeu inspiré de Wordle où vous créez les jeux de mots les plus amusants à partir des indices fournis. Il s'agit d'une bataille d'intelligence et de créativité verbale qui vous divertira pendant des heures.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Devinez le mot en fonction de l'indice fourni.",
+      "howToPlayStep2": "Créez le jeu de mots le plus drôle à partir du mot deviné.",
+      "howToPlayStep3": "Soumettez votre jeu de mots et observez son classement !",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Défis quotidiens",
+      "feature1Description": "Chaque jour, une nouvelle énigme stimulera votre cerveau et mettra votre créativité à l'épreuve.",
+      "feature2Title": "Jeux de mots créatifs",
+      "feature2Description": "Libérez votre créativité et créez les jeux de mots les plus amusants pour vous démarquer.",
+      "feature3Title": "Essais limités",
+      "feature3Description": "Vous n'avez qu'un nombre limité d'essais avant que le rire doux ou l'échec ne survienne.",
+      "feature4Title": "Visuels superbes",
+      "feature4Description": "Profitez de superbes visuels et d'une musique d'arrière-plan captivante qui maintiennent vos cellules cérébrales en action sans arrêt."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

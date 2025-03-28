@@ -1,0 +1,77 @@
+{
+  "rocket-game": {
+    "title": "Juego de Cohetes: Aventura Espacial Emocionante",
+    "slogan": "¡Piloa tu cohete a través de niveles desafiantes y vuela hacia las estrellas!",
+    "description": "¡El Juego de Cohetes te sumerge en una emocionante aventura! ¡Piloa tu cohete a través de niveles desafiantes y evita obstáculos mientras vuela hacia las estrellas! Este juego de conducción basado en física ofrece experiencias únicas viajando por carreteras peligrosas. Sumérgete en estas experiencias únicas para hacer tu tiempo libre más emocionante. ¡Juega a Rocket Game ahora y disfruta de la emoción!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Términos de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Juego de Cohetes: Aventura Espacial Emocionante",
+      "description": "Piloa tu cohete a través de niveles desafiantes y evita obstáculos mientras vuela hacia las estrellas. Disfruta de experiencias únicas viajando por peligrosas carreteras.",
+      "iframeTitle": "Vista Previa del Juego",
+      "fullscreenButton": "Pantalla Completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar Juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Juego de Cohetes: Aventura Espacial Emocionante",
+      "whatIsTitle": "¿Qué es Rocket Game?",
+      "whatIsDescription": "Rocket Game es un juego de conducción basado en física con experiencias de viaje por carreteras peligrosas. Las pendientes pronunciadas y las colinas accidentadas harán que tu viaje sea aún más espectacular.",
+      "howToPlayTitle": "Cómo Jugar",
+      "howToPlayStep1": "Flecha ARRIBA: ir recto; pulsa y mantén para acelerar.",
+      "howToPlayStep2": "Flecha ABAJO: retroceder, generalmente para ganar impulso.",
+      "howToPlayStep3": "Barra ESPACIO: modo cohete, pulsa y mantén para ajustar la fuerza de \"disparo\" de este vehículo especial.",
+      "keyFeaturesTitle": "Características Clave",
+      "feature1Title": "Niveles Desafurantes",
+      "feature1Description": "Navega por plataformas complejas y supera obstáculos.",
+      "feature2Title": "Jugabilidad Basada en Física",
+      "feature2Description": "Experimenta la física realista mientras conduces por carreteras peligrosas.",
+      "feature3Title": "Modo Cohete",
+      "feature3Description": "Usa el modo cohete para realizar saltos de impulso y dispararte como un cohete.",
+      "feature4Title": "Adictiva Aventura",
+      "feature4Description": "Sumérgete en experiencias únicas que hacen que el juego sea adictivo."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas Frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del Juego"
+    },
+    "GamePage": {
+      "title": "Todos los Juegos",
+      "description": "Todos los Juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver Más",
+      "page": "Página"
+    }
+  }
+}

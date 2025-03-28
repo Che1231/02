@@ -1,0 +1,77 @@
+{
+  "gun-mayhem-redux": {
+    "title": "총격전 폭발 - 멀티플레이 슈팅 게임",
+    "slogan": "다양한 무기와 강화 아이템으로 상대를 격파하세요!",
+    "description": "총격전 폭발은 프로 사수가 되기 위한 도전을 던지는 빠르고 박진감 넘치는 멀티플레이 슈팅 게임입니다. 극적인 대결을 통해 유연한 응변과 효과적인 공격으로 상대를 제압해야 합니다. 신비한 상자를 열어 무기를 강화하고, 능숙하게 회피와 공격 전략을 조합하세요. 지금 총격전 폭발을 플레이하고 짜릿한 경험을 만끽하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "내용",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "총격전 폭발 - 멀티플레이 슈팅 게임",
+      "description": "빠르고 박진감 넘치는 멀티플레이 슈팅 게임, 총격전 폭발에 참여하여 다양한 무기와 강화 아이템으로 상대를 공격하세요. 극적인 대결을 통해 프로 사수가 되어 보세요. 지금 플레이하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "총격전 폭발 - 멀티플레이 슈팅 게임",
+      "whatIsTitle": "총격전 폭발이란?",
+      "whatIsDescription": "총격전 폭발은 다양한 무기와 강화 아이템을 사용하여 상대를 제압하는 빠르고 박진감 넘치는 멀티플레이 슈팅 게임입니다. 극적인 대결을 통해 프로 사수가 되는 것을 목표로 합니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "다양한 무기와 강화 아이템을 사용하여 상대를 공격하세요.",
+      "howToPlayStep2": "신비한 상자를 열어 무기를 강화하세요.",
+      "howToPlayStep3": "지속적인 이동과 회피, 공격 전략을 조합하여 승리하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "빠르고 박진감 넘치는 멀티플레이 슈팅",
+      "feature1Description": "멀티플레이 슈팅 환경에서 극적인 대결을 경험하세요.",
+      "feature2Title": "다양한 무기 및 강화 아이템",
+      "feature2Description": "다양한 무기와 강화 아이템으로 상대를 격파하세요.",
+      "feature3Title": "프로 사수 도전",
+      "feature3Description": "강렬한 게임 플레이를 통해 프로 사수가 되는 것을 목표로 하세요.",
+      "feature4Title": "유연한 응변",
+      "feature4Description": "유연한 응변과 전략을 통해 효과적인 공격을 실시하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 코멘트"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

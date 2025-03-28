@@ -1,0 +1,77 @@
+{
+  "sedecordle": {
+    "title": "線上玩 Sedecordle - 免費字謎遊戲",
+    "slogan": "透過 Sedecordle 揭開隱藏的字詞",
+    "description": "Sedecordle 是一款引人入勝的猜字遊戲，挑戰玩家揭開隱藏的字詞。類似 Wordle，它有多個不同難度的關卡，並允許同時解題。立即加入 Sedecordle，體驗詞彙發現的樂趣！",
+    "Loading": {
+      "title": "載入 Sedecordle..."
+    },
+    "Navbar": {
+      "title": "導覽"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "Sedecordle™ - 免費線上字謎遊戲",
+      "description": "透過 Sedecordle，這個引人入勝的字謎遊戲，挑戰自我，解開多個不同難度級別的隱藏字詞。現在就玩，享受終極字詞發現體驗！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sedecordle - 字謎挑戰",
+      "whatIsTitle": "Sedecordle 是什麼？",
+      "whatIsDescription": "Sedecordle 是一款引人入勝的猜字遊戲，挑戰玩家揭開隱藏的字詞。類似 Wordle，它有多個不同難度的關卡，並允許同時解題。",
+      "howToPlayTitle": "如何玩遊戲",
+      "howToPlayStep1": "首先選擇一個難度級別。",
+      "howToPlayStep2": "透過輸入字母來猜測隱藏的字詞。",
+      "howToPlayStep3": "完成謎題以解鎖下一關。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "多個難度級別",
+      "feature1Description": "享受各種難度級別，保持挑戰新鮮感。",
+      "feature2Title": "同時解題",
+      "feature2Description": "同時解決多個謎題，提升遊戲體驗。",
+      "feature3Title": "引人入勝的遊戲體驗",
+      "feature3Description": "透過引人入勝的詞彙發現機制保持娛樂。",
+      "feature4Title": "免費遊戲",
+      "feature4Description": "免費使用所有功能。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

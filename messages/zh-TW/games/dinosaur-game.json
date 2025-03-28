@@ -1,0 +1,77 @@
+{
+  "dinosaur-game": {
+    "title": "線上恐龍遊戲 - 無盡奔跑冒險",
+    "slogan": "跳躍、奔跑、生存！",
+    "description": "恐龍遊戲，也稱為 Chrome 恐龍或霸王龍跑者，是一款廣受歡迎的橫向卷軸式無盡奔跑遊戲。在 Google Chrome 上離線遊玩，控制一隻像素化的霸王龍，穿過充滿仙人掌和飛翔翼龍的沙漠地形。跳過或躲避障礙物，盡可能地生存下去。現在就體驗恐龍遊戲，並掌握這款引人入勝的街機冒險！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友善連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "恐龍遊戲",
+      "description": "恐龍遊戲，也稱為 Chrome 恐龍或霸王龍跑者，是一款廣受歡迎的橫向卷軸式無盡奔跑遊戲。在 Google Chrome 上離線遊玩，控制一隻像素化的霸王龍，穿過充滿仙人掌和飛翔翼龍的沙漠地形。跳過或躲避障礙物，盡可能地生存下去。現在就體驗恐龍遊戲，並掌握這款引人入勝的街機冒險！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "URL 已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "恐龍遊戲",
+      "whatIsTitle": "什麼是恐龍遊戲？",
+      "whatIsDescription": "恐龍遊戲，也稱為 Chrome 恐龍或霸王龍跑者，是一款可以在 Google Chrome 上離線遊玩的流行橫向卷軸式無盡奔跑遊戲。控制一隻像素化的霸王龍，穿過充滿仙人掌和飛翔翼龍的沙漠地形。",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "按空格鍵跳過仙人掌。",
+      "howToPlayStep2": "按向下箭頭鍵躲避飛翔翼龍。",
+      "howToPlayStep3": "盡可能地生存以獲得高分。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "簡約設計",
+      "feature1Description": "享受乾淨簡潔的像素化藝術風格。",
+      "feature2Title": "令人上癮的遊戲玩法",
+      "feature2Description": "體驗充滿挑戰性的障礙物，享受無盡的樂趣。",
+      "feature3Title": "越來越難的難度",
+      "feature3Description": "遊戲難度隨遊戲進度提升，保持您的參與度。",
+      "feature4Title": "離線遊玩",
+      "feature4Description": "隨時隨地玩恐龍遊戲，即使沒有網路連線也能進行遊戲。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "astrodud-io": {
+    "title": "AstroDud.io - 무료 온라인 IO 게임",
+    "slogan": "생존, 경쟁, 정복",
+    "description": "전 세계 플레이어와 맞붙는 흥미진진한 무료 플레이 IO 게임인 AstroDud.io입니다. 난관 코스를 탐색하고, 우선순위를 유지하고, 살아남으세요. 완전히 몰입적인 3D 경기장에서 자신의 기술을 시험하고, 캐릭터를 업그레이드하여 경쟁에서 우위를 점하십시오. 최고의 도전에 준비가 되셨습니까? 지금 AstroDud.io에서 플레이하세요!",
+    "Loading": {
+      "title": "불러오는 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "AstroDud.io",
+      "description": "무료 플레이 IO 게임인 AstroDud.io를 플레이하고 흥미진진한 장애물 코스에서 경쟁하세요. 완전히 몰입적인 3D 경기장에서 살아남고, 우선 순위를 유지하고, 캐릭터를 업그레이드하세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "AstroDud.io",
+      "whatIsTitle": "AstroDud.io는 무엇인가요?",
+      "whatIsDescription": "AstroDud.io는 짜릿한 경험을 제공하는 무료 플레이 IO 게임입니다. 전 세계 수천 명의 플레이어와 난관 코스에서 경쟁하세요.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "장애물 코스를 탐색하세요.",
+      "howToPlayStep2": "다른 플레이어와 경쟁하여 우선 순위를 유지하세요.",
+      "howToPlayStep3": "살아남고 캐릭터를 업그레이드하여 경쟁에서 우위를 점하세요.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "몰입형 3D 경기장",
+      "feature1Description": "게임 플레이를 향상시키는 완전히 몰입적인 3D 경기장을 경험하세요.",
+      "feature2Title": "글로벌 경쟁",
+      "feature2Description": "전 세계 플레이어와 실시간으로 경쟁하세요.",
+      "feature3Title": "캐릭터 업그레이드",
+      "feature3Description": "캐릭터를 업그레이드하여 성능을 향상시키고 경쟁에서 우위를 점하세요.",
+      "feature4Title": "어려운 장애물",
+      "feature4Description": "기술을 시험하기 위해 고안된 다양한 난관 코스를 탐색하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

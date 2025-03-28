@@ -1,0 +1,77 @@
+{
+  "cleverdle": {
+    "title": "Chơi Cleverdle Trực tuyến - Trò chơi đố chữ miễn phí",
+    "slogan": "Đặt kỹ năng từ vựng của bạn vào thử thách với Cleverdle!",
+    "description": "Cleverdle là một trò chơi đố chữ cuốn hút thách thức vốn từ vựng và tư duy logic của bạn. Với hàng trăm câu đố đa dạng, Cleverdle cung cấp sự kết hợp độc đáo giữa giải trí và rèn luyện trí óc. Mỗi cấp độ đòi hỏi sự sáng tạo và tư duy chiến lược để giải các từ năm chữ cái chỉ trong sáu lượt đoán. Hãy tham gia vào thế giới của Cleverdle và tận hưởng hành trình đầy bí ẩn và khám phá. Chơi ngay và nâng cao kỹ năng từ vựng của bạn!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Cleverdle™ - Trò chơi đố chữ miễn phí",
+      "description": "Cleverdle là một trò chơi đố chữ đầy thử thách kiểm tra vốn từ vựng và kỹ năng logic của bạn. Chơi ngay và giải các từ năm chữ cái trong sáu lượt đoán!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào bộ nhớ tạm!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Cleverdle™ - Thử thách đố chữ tối thượng",
+      "whatIsTitle": "Cleverdle là gì?",
+      "whatIsDescription": "Cleverdle là một trò chơi đố chữ kết hợp giải trí và rèn luyện trí óc. Nó thách thức người chơi giải các từ năm chữ cái trong sáu lượt đoán, nâng cao vốn từ vựng và tư duy logic.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Bắt đầu bằng cách đoán một từ năm chữ cái.",
+      "howToPlayStep2": "Sử dụng các gợi ý màu sắc để tinh chỉnh các lượt đoán tiếp theo của bạn.",
+      "howToPlayStep3": "Giải từ trong sáu lần thử để chiến thắng!",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Câu đố đầy thách thức",
+      "feature1Description": "Hàng trăm câu đố đa dạng để thử thách kỹ năng từ vựng của bạn.",
+      "feature2Title": "Rèn luyện trí óc",
+      "feature2Description": "Nâng cao vốn từ vựng và tư duy logic của bạn với mỗi cấp độ.",
+      "feature3Title": "Gameplay chiến lược",
+      "feature3Description": "Giải các từ năm chữ cái chỉ trong sáu lượt đoán bằng tư duy chiến lược.",
+      "feature4Title": "Trải nghiệm cuốn hút",
+      "feature4Description": "Tận hưởng hành trình đầy bí ẩn và khám phá trong Cleverdle."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Khuyến nghị"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

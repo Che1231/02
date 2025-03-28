@@ -1,0 +1,77 @@
+{
+  "rainbow-obby": {
+    "title": "เกม Rainbow Obby: เกมผจญภัยออนไลน์ฟรี",
+    "slogan": "โลกสีรุ้งรอคุณอยู่!",
+    "description": "Rainbow Obby เปิดโลกสีสันของความท้าทายการเล่น Parkour  ออกเดินทางผจญภัยกับแพลตฟอร์มสีรุ้งและความตื่นเต้นสุดระทึก เลือกจากโหมดการเล่นที่แตกต่างกันสี่แบบและสัมผัสกับความตื่นเต้นของเกมแพลตฟอร์มที่น่าดึงดูดที่สุด เล่น Rainbow Obby ตอนนี้และดื่มด่ำไปกับความสนุกสนานสีสัน!",
+    "Loading": {
+      "title": "กำลังโหลด..."
+    },
+    "Navbar": {
+      "title": "แถบนำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์เพื่อน",
+      "articleList": "รายการบทความ",
+      "home": "หน้าแรก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "Rainbow Obby",
+      "description": "สัมผัสโลกสีสันของ Rainbow Obby พร้อมกับการเล่น Parkour ที่ท้าทาย เลือกจากโหมดการเล่นที่แปลกใหม่สี่แบบและเพลิดเพลินไปกับการผจญภัยสีสัน!",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "URL คัดลอกเข้าที่คลิปบอร์ดแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Rainbow Obby",
+      "whatIsTitle": "Rainbow Obby คืออะไร?",
+      "whatIsDescription": "Rainbow Obby เป็นเกมแพลตฟอร์มสีสันสดใสเต็มไปด้วยความท้าทายและการเล่น Parkour สีสัน ผู้เล่นจะออกเดินทางผจญภัยกับแพลตฟอร์มสีรุ้งและประสบการณ์ที่ไม่เหมือนใคร",
+      "howToPlayTitle": "วิธีการเล่น",
+      "howToPlayStep1": "เลือกโหมดการเล่นจากสี่ตัวเลือกที่มีให้",
+      "howToPlayStep2": "นำทางผ่านแพลตฟอร์มสีรุ้งและหลีกเลี่ยงอุปสรรค",
+      "howToPlayStep3": "เสร็จสิ้นหลักสูตรและทำคะแนนสูงสุด!",
+      "keyFeaturesTitle": "คุณสมบัติหลัก",
+      "feature1Title": "สี่โหมดการเล่น",
+      "feature1Description": "เลือกจากโหมดการเล่นที่แตกต่างกันสี่แบบ แต่ละโหมดมีกฎและความท้าทายที่ไม่เหมือนใคร",
+      "feature2Title": "Parkour สีสัน",
+      "feature2Description": "สัมผัสประสบการณ์การเล่น Parkour ที่งดงามด้วยแพลตฟอร์มสีรุ้งที่สดใส",
+      "feature3Title": "อุปสรรคที่ท้าทาย",
+      "feature3Description": "เผชิญกับความท้าทายที่ซับซ้อนและความตื่นเต้นสุดระทึก",
+      "feature4Title": "การผจญภัยที่น่าดึงดูด",
+      "feature4Description": "ออกเดินทางผจญภัยที่น่าตื่นเต้นไปกับตัวละคร Obby ที่หลงใหลในความท้าทาย"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นของผู้เล่น"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

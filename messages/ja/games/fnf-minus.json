@@ -1,0 +1,77 @@
+{
+  "fnf-minus": {
+    "title": "FNF Minus - フリーオンラインリズムバトルゲーム",
+    "slogan": "ミニマリストのビジュアルが激しいリズムバトルと出会います！",
+    "description": "ミニマリストのビジュアルが激しいリズムバトルに出会うFNFマイナスで戦いに備えましょう！ビートを維持し、対戦相手を凌駕できますか？FNFマイナスのミュージカルパーティーは、ダンスを止めません。新しいキャラクターデザイン、挑戦的なメロディー、そして独特のグラフィックスタイルをお楽しみください。今すぐFNFマイナスをプレイして、そのスリルを体験してください！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "FNFマイナス",
+      "description": "FNFマイナスで究極のリズムバトルを体験してください。新しいキャラクターデザインと激しいビートで自分自身に挑戦してください。今すぐプレイ！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "フルスクリーン",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "FNFマイナス",
+      "whatIsTitle": "FNFマイナスとは？",
+      "whatIsDescription": "FNFマイナスは、Boyfriendとしてプレイして、Girlfriendの承認を得るためにラップバトルを行うリズムバトルゲームです。新しいキャラクターデザインと挑戦的なメロディーをお楽しみください。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "矢印キーを使ってビートに合わせます。",
+      "howToPlayStep2": "リズムを維持して対戦相手を凌駕します。",
+      "howToPlayStep3": "独特のグラフィックスタイルと挑戦的なメロディーをお楽しみください。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "新しいキャラクターデザイン",
+      "feature1Description": "それぞれのキャラクターは、ヘルスバーアイコンに基づいて一新されます。",
+      "feature2Title": "挑戦的なメロディー",
+      "feature2Description": "曲は同じですが、速度と強度が増加します。",
+      "feature3Title": "独特のグラフィックスタイル",
+      "feature3Description": "グラフィック全体のスタイルが変わり、新しい空間を生み出されます。",
+      "feature4Title": "激しいリズムバトル",
+      "feature4Description": "Girlfriendの承認を得るためにラップバトルに参加してください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "super-hexagon": {
+    "title": "슈퍼 헥사곤 - 리듬 액션으로 반사 신경 테스트",
+    "slogan": "비트를 느끼고 헥사곤에서 탈출하세요",
+    "description": "슈퍼 헥사곤은 즉흥 연주 능력을 테스트하는 독특한 음악 체험을 제공합니다. 회전하는 육각형 세계를 탐험하며 나타나는 벽을 피하고 강력한 전자 음악에 몰입하세요. 게임의 속도는 지속적으로 증가하여 반사 신경과 집중력을 시험합니다. 지금 플레이하고 이 짜릿한 리듬 기반 모험에서 얼마나 오래 버틸 수 있는지 확인하세요!",
+    "Loading": {
+      "title": "슈퍼 헥사곤 로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인 정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "슈퍼 헥사곤 - 무료 온라인 게임",
+      "description": "리듬과 반사 신경이 만나는 슈퍼 헥사곤의 도전을 경험하세요. 나타나는 벽을 피하고, 비트를 느끼며, 이 빠르게 진행되는 게임에서 살아남으세요. 지금 무료로 플레이하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "슈퍼 헥사곤",
+      "whatIsTitle": "슈퍼 헥사곤이란 무엇인가요?",
+      "whatIsDescription": "슈퍼 헥사곤은 반사 신경과 집중력을 테스트하는 리듬 기반 게임입니다. 회전하는 육각형 세계를 탐험하고 나타나는 벽을 피해 살아남으세요.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "왼쪽 및 오른쪽 화살표 키를 사용하여 육각형을 회전시킵니다.",
+      "howToPlayStep2": "육각형 가장자리에서 나타나는 벽을 피하세요.",
+      "howToPlayStep3": "증가하는 속도에 맞춰 최대한 오래 살아남으세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "리듬 게임플레이",
+      "feature1Description": "몰입형 경험을 위해 음악의 박자와 동기화하여 움직이세요.",
+      "feature2Title": "도전적인 레벨",
+      "feature2Description": "게임의 속도는 지속적으로 증가하여 반사 신경과 집중력을 시험합니다.",
+      "feature3Title": "전자 음악",
+      "feature3Description": "강력하고 매력적인 전자 음악이 게임 경험을 향상시킵니다.",
+      "feature4Title": "획득 가능한 업적",
+      "feature4Description": "업적을 해제하고 기술을 향상시키기 위해 스스로에 도전하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

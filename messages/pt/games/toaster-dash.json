@@ -1,0 +1,77 @@
+{
+  "toaster-dash": {
+    "title": "Toaster Dash: Uma Aventura de Assar Rápida e Empolgante",
+    "slogan": "Aventura no mundo dos bolos!",
+    "description": "Toaster Dash oferece um jogo de ação frenético e emocionante onde você controla um toasteiro ultrarrápido. Com gráficos adoráveis e jogabilidade envolvente, Toaster Dash promete entretenimento máximo. Evite obstáculos, colete ingredientes e melhore seu toasteiro para se tornar um mestre cozinheiro. Você está pronto para tostá-lo?",
+    "Loading": {
+      "title": "Carregando..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Úteis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Toaster Dash™",
+      "description": "Toaster Dash é um jogo de ação frenético onde você controla um toasteiro ultrarrápido. Evite obstáculos, colete ingredientes e melhore seu toasteiro para se tornar um mestre cozinheiro. Você está pronto para tostá-lo?",
+      "iframeTitle": "Prévia do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Toaster Dash™",
+      "whatIsTitle": "O que é Toaster Dash?",
+      "whatIsDescription": "Toaster Dash é um jogo de ação frenético onde você controla um toasteiro ultrarrápido. Evite obstáculos, colete ingredientes e melhore seu toasteiro para se tornar um mestre cozinheiro.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Mova o toasteiro para a direita, esquerda, cima ou baixo para executar diferentes tarefas.",
+      "howToPlayStep2": "Evite obstáculos como garfos, rosquinhas com espinhos e muito mais.",
+      "howToPlayStep3": "Colete todas as fatias de pão, geleia, manteiga e outros ingredientes de cozinha para obter uma pontuação alta.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Gráficos Adoráveis",
+      "feature1Description": "Desfrute de sons realistas e jogabilidade irresistivelmente envolvente.",
+      "feature2Title": "Níveis Desafadores",
+      "feature2Description": "Deslize por níveis desafiadores com um toasteiro em movimento.",
+      "feature3Title": "Sistema de Aprimoramento",
+      "feature3Description": "Use os pontos ganhos para aprimorar o toasteiro e concluir níveis mais rapidamente.",
+      "feature4Title": "Mestre Cozinheiro",
+      "feature4Description": "Se torne um mestre cozinheiro de gênio, completando missões e otimizando sua pontuação."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

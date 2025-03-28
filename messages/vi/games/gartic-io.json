@@ -1,0 +1,77 @@
+{
+  "gartic-io": {
+    "title": "Trò chơi vẽ và đoán từ trực tuyến Gartic.io",
+    "slogan": "Vẽ, đoán và cùng vui vẻ!",
+    "description": "Gartic.io là một trò chơi trực tuyến nhiều người chơi thú vị nơi sự sáng tạo gặp gỡ khả năng đoán. Người chơi luân phiên vẽ và đoán từ, tạo nên sự kết hợp hoàn hảo giữa niềm vui và thử thách. Cho dù bạn là một nghệ sĩ hay một người đam mê từ vựng, Gartic.io mang đến sự giải trí vô tận. Hãy tham gia ngay và chơi miễn phí!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo vào",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Gartic.io: Vẽ và đoán từ trực tuyến",
+      "description": "Cảm nhận sự hồi hộp của Gartic.io, nơi bạn có thể vẽ, đoán và cùng vui chơi với bạn bè hoặc người lạ trực tuyến. Hoàn hảo cho mọi lứa tuổi, trò chơi này thử thách kỹ năng vẽ và đoán của bạn theo cách sáng tạo và hấp dẫn.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Màn hình toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải xuống trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Gartic.io: Trò chơi vẽ và đoán từ hoàn hảo",
+      "whatIsTitle": "Gartic.io là gì?",
+      "whatIsDescription": "Gartic.io là một trò chơi trực tuyến nhiều người chơi trong đó người chơi luân phiên vẽ và đoán từ. Đó là một cách vui vẻ và sáng tạo để thử thách khả năng vẽ và đoán của bạn.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Luân phiên vẽ một từ được đưa ra cho bạn.",
+      "howToPlayStep2": "Người chơi khác cố gắng đoán bạn đang vẽ gì.",
+      "howToPlayStep3": "Nhận điểm cho các câu trả lời chính xác và bản vẽ sáng tạo.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Vui chơi nhiều người",
+      "feature1Description": "Chơi với bạn bè hoặc người lạ trên khắp thế giới.",
+      "feature2Title": "Vẽ sáng tạo",
+      "feature2Description": "Thể hiện kỹ năng nghệ thuật của bạn với nhiều công cụ vẽ đa dạng.",
+      "feature3Title": "Đoán từ",
+      "feature3Description": "Thử thách kỹ năng đoán của bạn với nhiều từ khác nhau.",
+      "feature4Title": "Giải trí không giới hạn",
+      "feature4Description": "Tận hưởng những vòng chơi đầy niềm vui và sáng tạo không giới hạn."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

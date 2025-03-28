@@ -1,0 +1,77 @@
+{
+  "world-s-hardest-game": {
+    "title": "세계 최고난도 게임 - 온라인 최종 퍼즐 도전",
+    "slogan": "반사 신경과 문제 해결 능력을 테스트하세요",
+    "description": "세계 최고난도 게임은 이름처럼 어려운 퍼즐 게임으로, 난이도가 점점 높아지는 수준으로 뛰어난 게임 경험을 제공합니다. 반사 신경, 인내심, 문제 해결 능력을 시험하며, 세계 최고난도 게임을 지금 플레이해 최종 퍼즐 도전에 도전해 보세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일자",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "세계 최고난도 게임™",
+      "description": "세계 최고난도 게임으로 최종 퍼즐 도전을 경험하세요. 이 흥미진진하고 도전적인 게임에서 반사 신경과 문제 해결 능력을 테스트하세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "세계 최고난도 게임",
+      "whatIsTitle": "세계 최고난도 게임이란 무엇인가?",
+      "whatIsDescription": "세계 최고난도 게임은 난이도가 점점 높아지는 일련의 레벨을 통해 반사 신경, 인내심, 문제 해결 능력을 시험하는 인기 있고 도전적인 퍼즐 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "도전적인 레벨을 탐색하기 위해 반사 신경을 활용하세요.",
+      "howToPlayStep2": "퍼즐을 풀고 다음 단계로 진행하세요.",
+      "howToPlayStep3": "게임을 완성하기 위해 인내심과 끈기를 발휘하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "도전적인 레벨",
+      "feature1Description": "스킬을 시험하는 점점 어려워지는 레벨을 통해 진행하세요.",
+      "feature2Title": "반사 신경 테스트",
+      "feature2Description": "빠른 속도의 게임 플레이로 반사 신경을 향상시키세요.",
+      "feature3Title": "문제 해결",
+      "feature3Description": "장애물을 극복하기 위해 문제 해결 능력을 활용하세요.",
+      "feature4Title": "몰입형 게임 플레이",
+      "feature4Description": "재미있고 몰입적인 퍼즐 게임 경험을 즐기세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

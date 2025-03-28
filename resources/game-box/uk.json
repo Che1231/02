@@ -1,0 +1,114 @@
+{
+  "recommended": [],
+  "categories": [
+    {
+      "name": "Виділені ігри",
+      "path": "/c/featured",
+      "pageSize": 15,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Ми вибрали для вас найкращі ігри!"
+    },
+    {
+      "name": "Аркадні ігри",
+      "path": "/c/arcade-games",
+      "pageSize": 15,
+      "backgroundColor": "#d2e7ff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Захоплюючі аркадні ігри!",
+      "position": 2
+    },
+    {
+      "name": "Ігри в дії",
+      "path": "/c/action",
+      "pageSize": 15,
+      "backgroundColor": "#c1f8cf",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Захоплюючі ігри в дії!",
+      "position": 3
+    },
+    {
+      "name": "Ігри-пригоди",
+      "path": "/c/adventure-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 4,
+      "description": "Захоплюючі ігри-пригоди!"
+    },
+    {
+      "name": "Ігри Wordleverse",
+      "path": "/c/wordleverse-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 5,
+      "description": "Захоплюючі ігри Wordleverse!"
+    },
+    {
+      "name": "Ігри .IO",
+      "path": "/c/io-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 6,
+      "description": "Захоплюючі ігри .IO!"
+    },
+    {
+      "name": "Легкі ігри",
+      "path": "/c/casual-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 7,
+      "description": "Захоплюючі легкі ігри!"
+    },
+    {
+      "name": "Логічні ігри",
+      "path": "/c/puzzle-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 8,
+      "description": "Захоплюючі логічні ігри!"
+    },
+    {
+      "name": "Гоночні та ігри про водіння",
+      "path": "/c/racing-driving",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 9,
+      "description": "Захоплюючі гоночні та ігри про водіння!"
+    },
+    {
+      "name": "3D ігри",
+      "path": "/c/3d-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 10,
+      "description": "Захоплюючі 3D ігри!"
+    },
+    {
+      "name": "Ігри спортивного жанру",
+      "path": "/c/sports-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 11,
+      "description": "Захоплюючі ігри спортивного жанру!"
+    }
+  ]
+}

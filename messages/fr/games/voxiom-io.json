@@ -1,0 +1,77 @@
+{
+  "voxiom-io": {
+    "title": "Jouer à Voxiom.io - Jeu de tir multijoueur en ligne gratuit",
+    "slogan": "Engagez-vous dans des batailles multijoueur intenses dans Voxiom.io !",
+    "description": "Voxiom.io combine l'essence de Minecraft avec des combats acharnés à l'arme à feu. Démantirez l'environnement, forgez des armes avancées et survivez au gaz toxique qui s'étend. Découvrez la fabrication, la construction et le combat avec de puissantes armes à feu. Pouvez-vous émerger comme le seul survivant ? Jouez maintenant à Voxiom.io gratuitement !",
+    "Loading": {
+      "title": "Chargement…"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Voxiom.io",
+      "description": "Découvrez le jeu de tir multijoueur ultime dans Voxiom.io. Survivez, créez et construisez votre chemin vers la victoire !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Voxiom.io",
+      "whatIsTitle": "Qu'est-ce que Voxiom.io ?",
+      "whatIsDescription": "Voxiom.io est un jeu de tir basé sur le navigateur qui combine la fabrication, la construction et des combats multijoueurs acharnés à l'arme à feu. Survivez au gaz toxique et émergez comme le dernier joueur debout !",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Démantirez l'environnement pour rassembler des ressources.",
+      "howToPlayStep2": "Forgez des armes avancées pour obtenir un avantage au combat.",
+      "howToPlayStep3": "Survivez au gaz toxique qui s'étend et soyez le dernier joueur debout.",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Fabrication et construction",
+      "feature1Description": "Utilisez les ressources pour fabriquer des armes et construire des structures.",
+      "feature2Title": "Batailles multijoueur",
+      "feature2Description": "Engagez-vous dans des combats acharnés à l'arme à feu avec des joueurs du monde entier.",
+      "feature3Title": "Gaz toxique",
+      "feature3Description": "Survivez à la diminution de la zone de jeu et surclassez vos adversaires.",
+      "feature4Title": "Armes à feu puissantes",
+      "feature4Description": "Maniez une variété d'armes avancées pour dominer le champ de bataille."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

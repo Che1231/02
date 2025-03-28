@@ -1,0 +1,77 @@
+{
+  "92-second-basketball": {
+    "title": "92秒籃球 - 免費線上運動遊戲",
+    "slogan": "在92秒籃球運動遊戲世界中展現您卓越的協調能力。",
+    "description": "92秒籃球是一款獨特且有趣的運動遊戲，您將面臨投籃得分挑戰。 這個遊戲設計用於測試玩家的技能和專注力，提供快速且刺激的體驗。 玩家的任務是在92秒內得分。 每成功投籃一次，您將獲得分數並延長計時器，創造一個刺激的循環，讓您在時間限制內盡可能獲得最高分。 現在就玩92秒籃球，成為一位擁有精彩灌籃動作的職業籃球員！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導覽列"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "92秒籃球",
+      "description": "92秒籃球是一款獨特且有趣的運動遊戲，您將面臨投籃得分挑戰。 現在開始遊戲，測試您的技能！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "92秒籃球",
+      "whatIsTitle": "什麼是92秒籃球？",
+      "whatIsDescription": "92秒籃球是一款獨特且有趣的運動遊戲，您將面臨投籃得分挑戰。 這個遊戲設計用於測試玩家的技能和專注力，提供快速且刺激的體驗。",
+      "howToPlayTitle": "如何遊戲？",
+      "howToPlayStep1": "當球靜止時投擲。",
+      "howToPlayStep2": "使用箭頭調整方向和投擲力道。",
+      "howToPlayStep3": "將球投進籃框得分。",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "快速節奏的遊戲玩法",
+      "feature1Description": "體驗 92 秒的刺激挑戰，盡可能獲得高分。",
+      "feature2Title": "基於技能的遊戲機制",
+      "feature2Description": "測試您的協調和投擲技能以精通遊戲。",
+      "feature3Title": "時間延長",
+      "feature3Description": "每次成功投籃都會延長計時器，讓遊戲保持刺激。",
+      "feature4Title": "引人入勝的循環",
+      "feature4Description": "嘗試在時間限制內獲得最高分。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題集"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲列表"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到任何類別",
+      "viewMore": "檢視更多",
+      "page": "頁碼"
+    }
+  }
+}

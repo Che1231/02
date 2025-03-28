@@ -1,0 +1,77 @@
+{
+  "flagle": {
+    "title": "Flagle - Guess the Flag & Learn Geography",
+    "slogan": "Expand Your World Knowledge with Flagle",
+    "description": "Flagle is an educational guessing game that challenges you to identify hidden flags while learning about countries. With six attempts, uncover the flag piece by piece and receive geographical hints to improve your skills. Flagle makes learning geography fun and engaging. Start playing Flagle today and explore the world!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Flagle - Guess the Flag",
+      "description": "Flagle is an educational guessing game that challenges you to identify hidden flags while learning about countries. With six attempts, uncover the flag piece by piece and receive geographical hints to improve your skills.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Flagle - Guess the Flag",
+      "whatIsTitle": "What is Flagle?",
+      "whatIsDescription": "Flagle is an educational guessing game designed to expand your knowledge about countries and the world. Guess the hidden flag and receive geographical hints to improve your skills.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Guess the country whose flag is hidden.",
+      "howToPlayStep2": "Use no more than six attempts.",
+      "howToPlayStep3": "Unlock another part of the hidden flag with each unsuccessful guess.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Educational",
+      "feature1Description": "Flagle helps you learn about countries and their flags.",
+      "feature2Title": "Challenging",
+      "feature2Description": "Guess the hidden flag in six attempts or less.",
+      "feature3Title": "Interactive",
+      "feature3Description": "Receive geographical hints to guide your guesses.",
+      "feature4Title": "Engaging",
+      "feature4Description": "Flagle makes learning geography fun and interactive."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

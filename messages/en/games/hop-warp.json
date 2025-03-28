@@ -1,0 +1,77 @@
+{
+  "hop-warp": {
+    "title": "Hop Warp - Jump, Warp, and Conquer!",
+    "slogan": "Navigate, Transform, and Explore!",
+    "description": "Dive into the mind-bending adventure of Hop Warp, where you jump, warp, and conquer treacherous levels. Master the art of interdimensional exploration and collect stars to complete each round. Experience unique gameplay as you transform into a sparkling star to navigate through walls. Ready to challenge your tactical skills? Play Hop Warp now!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Hop Warp - Free Online Game",
+      "description": "Jump, warp, and conquer in Hop Warp! Navigate treacherous levels, master the art of warping, and become the ultimate interdimensional explorer. Play now!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Hop Warp",
+      "whatIsTitle": "What is Hop Warp?",
+      "whatIsDescription": "Hop Warp is an adventure of a small character navigating closed mazes. Experience a mind-bending platformer where dimensions collide and transform into a sparkling star to collect all the stars.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Move: Use the arrow or WASD keys.",
+      "howToPlayStep2": "Change: Press the X key or spacebar to transform into a star.",
+      "howToPlayStep3": "Note: Red walls and areas block transformations.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Unique Gameplay",
+      "feature1Description": "Collect all the stars in each level by jumping and warping through dimensions.",
+      "feature2Title": "Shape Transformation",
+      "feature2Description": "Transform into a sparkling star to move through walls and navigate complex mazes.",
+      "feature3Title": "Tactical Challenge",
+      "feature3Description": "Strategically use limited transformations to complete each level.",
+      "feature4Title": "Engaging Levels",
+      "feature4Description": "Explore mind-bending levels designed to test your skills and creativity."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

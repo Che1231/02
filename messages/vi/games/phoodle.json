@@ -1,0 +1,77 @@
+{
+  "phoodle": {
+    "title": "Trò chơi Phoodle trực tuyến: Trò chơi đố chữ có chủ đề đầu bếp miễn phí",
+    "slogan": "Đoán từ món ăn trong sáu lần thử!",
+    "description": "Phoodle là một trò chơi đố chữ có chủ đề đầu bếp lấy cảm hứng từ Wordle. Thử thách kiến thức ẩm thực của bạn với các từ năm chữ cái hàng ngày liên quan đến nguyên liệu, phương pháp nấu ăn hoặc các đầu bếp nổi tiếng. Đoán đúng và mở khóa các sự kiện ẩm thực thú vị. Chơi Phoodle ngay bây giờ miễn phí và thử thách chuyên môn ẩm thực của bạn!",
+    "Loading": {
+      "title": "Đang tải Phoodle..."
+    },
+    "Navbar": {
+      "title": "Đọc"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu nghị",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Phoodle: Trò chơi đố chữ có chủ đề đầu bếp",
+      "description": "Phoodle mang đến khả năng chơi không giới hạn cho những người đam mê ẩm thực. Đoán từ món ăn năm chữ cái trong sáu lần thử và mở khóa các thách thức ẩm thực hàng ngày. Chơi Phoodle ngay bây giờ!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải trò chơi xuống",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Phoodle: Trò chơi đố chữ có chủ đề đầu bếp",
+      "whatIsTitle": "Phoodle là gì?",
+      "whatIsDescription": "Phoodle là một trò chơi đố chữ có chủ đề đầu bếp lấy cảm hứng từ Wordle. Nó thách thức người chơi đoán một từ món ăn năm chữ cái trong sáu lần thử.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Đoán một từ món ăn năm chữ cái.",
+      "howToPlayStep2": "Sử dụng gợi ý bằng màu sắc để làm rõ sự đoán của bạn.",
+      "howToPlayStep3": "Mở khóa sự kiện ẩm thực bằng cách đoán đúng!",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Thách thức hàng ngày",
+      "feature1Description": "Mỗi ngày đều có một từ món ăn mới.",
+      "feature2Title": "Gợi ý có màu",
+      "feature2Description": "Sử dụng các gợi ý màu xanh lá cây, màu vàng và màu xám để hướng dẫn các sự đoán của bạn.",
+      "feature3Title": "Khả năng chơi không giới hạn",
+      "feature3Description": "Chơi Phoodle bất cứ lúc nào để có niềm vui không giới hạn.",
+      "feature4Title": "Sự kiện ẩm thực",
+      "feature4Description": "Học các mẹo ẩm thực thú vị với mỗi lần đoán đúng."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Khuyến nghị"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

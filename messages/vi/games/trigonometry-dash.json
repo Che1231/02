@@ -1,0 +1,77 @@
+{
+  "trigonometry-dash": {
+    "title": "Trò chơi mạo hiểm hình học Trigonometry Dash",
+    "slogan": "Khám phá các bản đồ hình học phức tạp với Trigonometry Dash",
+    "description": "Trigonometry Dash mang đến trải nghiệm platformer độc đáo, nơi bạn di chuyển qua các thử thách hình học. Với bốn chế độ chơi và tốc độ tùy chỉnh, hãy tận hưởng một cuộc phiêu lưu thú vị. Chơi Trigonometry Dash ngay bây giờ và khám phá thế giới hình học!",
+    "Loading": {
+      "title": "Đang tải Trigonometry Dash..."
+    },
+    "Navbar": {
+      "title": "Điều hướng"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Trigonometry Dash",
+      "description": "Trigonometry Dash mời bạn trải nghiệm một cuộc phiêu lưu hình học độc đáo. Di chuyển qua các bản đồ phức tạp, tránh chướng ngại vật và đạt đến đích. Chơi ngay bây giờ và tận hưởng thử thách!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Trigonometry Dash",
+      "whatIsTitle": "Trigonometry Dash là gì?",
+      "whatIsDescription": "Trigonometry Dash là một trò chơi platformer kết hợp hình học và phiêu lưu. Với lối chơi độc đáo và nhiều chế độ đa dạng, nó mang lại trải nghiệm đầy thử thách nhưng thú vị.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Sử dụng các phím mũi tên để điều khiển khối lập phương.",
+      "howToPlayStep2": "Tránh chướng ngại vật và tìm đường đến đích.",
+      "howToPlayStep3": "Tận hưởng trò chơi với tốc độ của riêng bạn và khám phá thế giới hình học.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Tốc độ tùy chỉnh",
+      "feature1Description": "Điều chỉnh tốc độ của trò chơi và tận hưởng hành trình theo cách của bạn.",
+      "feature2Title": "Bốn chế độ chơi",
+      "feature2Description": "Chọn chế độ bình thường, thời gian, quái vật và mù.",
+      "feature3Title": "Điểm kiểm tra",
+      "feature3Description": "Khởi động lại từ điểm kiểm tra cuối cùng thay vì bắt đầu lại từ đầu.",
+      "feature4Title": "Chế độ gương",
+      "feature4Description": "Trải nghiệm thử thách độc đáo với cổng đặc biệt trong chế độ gương."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các loại",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

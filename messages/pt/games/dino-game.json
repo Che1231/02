@@ -1,0 +1,77 @@
+{
+  "dino-game": {
+    "title": "Jogo Dino - Corra, Pule e Sobreviva!",
+    "slogan": "Explore o Mundo Pré-Histórico no Dino Jogo!",
+    "description": "Junte-se ao Dino Jogo e embarque numa emocionante aventura por estradas desérticas perigosas. Controle seu dinossauro para pular sobre obstáculos e evitar colisões. Com seu estilo pixel retro e jogabilidade viciante, o Dino Jogo oferece uma experiência emocionante para todos os jogadores. Desafie-se a ver até onde você pode ir neste jogo de corrida sem parar!",
+    "Loading": {
+      "title": "Carregando..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Amigáveis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Jogo Dino - Corra, Pule e Sobreviva!",
+      "description": "Junte-se ao Dino Jogo e embarque numa emocionante aventura por estradas desérticas perigosas. Controle seu dinossauro para pular sobre obstáculos e evitar colisões. Com seu estilo pixel retro e jogabilidade viciante, o Dino Jogo oferece uma experiência emocionante para todos os jogadores. Desafie-se a ver até onde você pode ir neste jogo de corrida sem parar!",
+      "iframeTitle": "Visualização do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Jogo Dino - Corra, Pule e Sobreviva!",
+      "whatIsTitle": "O que é Dino Jogo?",
+      "whatIsDescription": "Dino Jogo é um jogo simples, mas viciante, que leva os jogadores numa emocionante aventura no mundo pré-histórico dos dinossauros! Neste jogo, você irá controlar um pequeno dinossauro numa jornada por um ambiente desafiador e aventureiro.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Pressione a tecla de seta para cima ou a barra de espaço para fazer o personagem pular.",
+      "howToPlayStep2": "Use a tecla de seta para baixo para fazer o pequeno dinossauro abaixar a cabeça.",
+      "howToPlayStep3": "Evite obstáculos como cactos e criaturas voadoras para continuar correndo.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Estilo Pixel Retro",
+      "feature1Description": "Experimente o charme nostálgico de gráficos pixel retro.",
+      "feature2Title": "Controles Simples",
+      "feature2Description": "Controles fáceis de aprender tornam o jogo acessível a todos.",
+      "feature3Title": "Jogabilidade Viciante",
+      "feature3Description": "Desafie-se a bater seu recorde neste jogo de corrida sem parar.",
+      "feature4Title": "Aventura Pré-Histórica",
+      "feature4Description": "Embarque numa emocionante jornada pelo mundo pré-histórico dos dinossauros."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

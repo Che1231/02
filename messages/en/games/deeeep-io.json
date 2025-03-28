@@ -1,0 +1,77 @@
+{
+  "deeeep-io": {
+    "title": "Dive into Deeep.io: Free Online Underwater Survival Game",
+    "slogan": "Survive, Evolve, Conquer",
+    "description": "Dive into the treacherous world of Deeep.io and test your survival skills. Experience an adrenaline-pumping underwater adventure as you evolve into new creatures and aim for a place on the illustrious leaderboard. With a variety of creatures, food sources, and diverse terrain, Deeep.io offers a thrilling experience. Play now and see if you can survive!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Deeeep.io",
+      "description": "Experience the ultimate underwater survival game. Evolve, survive, and conquer in Deeep.io!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Deeeep.io",
+      "whatIsTitle": "What is Deeep.io?",
+      "whatIsDescription": "Deeeep.io is an underwater survival game where you evolve into new creatures, navigate diverse terrains, and compete for a spot on the leaderboard.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Start as a small creature and eat food to grow.",
+      "howToPlayStep2": "Evolve into more powerful creatures to survive longer.",
+      "howToPlayStep3": "Compete with other players and aim for the top of the leaderboard.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Diverse Creatures",
+      "feature1Description": "Choose from a wide variety of creatures, each with unique abilities.",
+      "feature2Title": "Dynamic Terrain",
+      "feature2Description": "Navigate through diverse underwater environments and use them to your advantage.",
+      "feature3Title": "Survival Challenge",
+      "feature3Description": "Test your skills in a competitive underwater survival game.",
+      "feature4Title": "Leaderboard",
+      "feature4Description": "Compete with other players and aim for the top spot on the leaderboard."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

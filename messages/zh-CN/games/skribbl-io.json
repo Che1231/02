@@ -1,0 +1,77 @@
+{
+  "skribbl-io": {
+    "title": "在线玩 Skribbl.io - 免费绘画和猜字游戏",
+    "slogan": "用 Skribbl.io 释放您的创造力",
+    "description": "体验 Skribbl.io 的创意和想象力带来的乐趣，这是一个非常受欢迎的在线多人绘画和猜字游戏。在 Skribbl.io 中，玩家轮流绘画给定的词语或短语，其他人则试图根据绘画作品来猜测它。利用鼠标的力量将您的想象力带到数字画布上进行绘画，同时键盘成为猜测您同伴玩家创作的单词或短语的途径。因此，尽情发挥您的创造力，迎接猜测的挑战，并享受 Skribbl.io 的充满活力的社区。",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航栏"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一个",
+      "previous": "上一个"
+    },
+    "HomeIframe": {
+      "title": "Skribbl.io - 免费在线绘画和猜字游戏",
+      "description": "加入 Skribbl.io 的乐趣，创意与猜测相遇。绘画、猜测，并享受这个热门在线游戏的充满活力社区。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL 已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Skribbl.io - 免费在线绘画和猜字游戏",
+      "whatIsTitle": "Skribbl.io 是什么？",
+      "whatIsDescription": "Skribbl.io 是一款非常受欢迎的在线多人绘画和猜字游戏，玩家轮流绘画给定的词语或短语，其他人则尝试根据绘画作品猜测它。",
+      "howToPlayTitle": "如何玩游戏",
+      "howToPlayStep1": "轮流绘画给定的词语或短语。",
+      "howToPlayStep2": "其他玩家尝试根据绘画作品猜测词语或短语。",
+      "howToPlayStep3": "使用键盘猜测您同伴玩家创作的词语或短语。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "多人游戏乐趣",
+      "feature1Description": "在充满活力的在线社区中与朋友或陌生人一起玩游戏。",
+      "feature2Title": "创意绘画",
+      "feature2Description": "通过绘画词语或短语释放您的创造力。",
+      "feature3Title": "猜测挑战",
+      "feature3Description": "用其他玩家创作的绘画作品测试你的猜测技巧。",
+      "feature4Title": "易于上手",
+      "feature4Description": "简单直观的玩法，适合所有年龄段。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏列表"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}
