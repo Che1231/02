@@ -24,6 +24,31 @@
       "visible": true,
       "url": "/games/tower-of-destiny",
       "position": 5
+    },
+    {
+      "visible": true,
+      "url": "/games/suika-game",
+      "position": 6
+    },
+    {
+      "visible": true,
+      "url": "/games/fun-water-sorting",
+      "position": 7
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-bakeria",
+      "position": 8
+    },
+    {
+      "visible": true,
+      "url": "/games/build-royale",
+      "position": 9
+    },
+    {
+      "visible": true,
+      "url": "/games/sausage-flip",
+      "position": 10
     }
   ],
   "categories": [
@@ -37,13 +62,13 @@
       "description": "Selecionámos os melhores jogos para si!"
     },
     {
-      "name": "Jogos Arcade",
+      "name": "Jogos de Arcade",
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
-      "displayStyle": "vertical",
+      "displayStyle": "horizontal",
       "icon": "",
-      "description": "Jogos arcade emocionantes!",
+      "description": "Jogos de arcade emocionantes!",
       "position": 2
     },
     {
@@ -51,7 +76,7 @@
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
-      "displayStyle": "vertical",
+      "displayStyle": "horizontal",
       "icon": "",
       "description": "Jogos de ação emocionantes!",
       "position": 3
@@ -74,17 +99,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 5,
-      "description": "Jogos emocionantes do Wordleverse!"
-    },
-    {
-      "name": "Cozinha",
-      "path": "/c/cooking",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "",
-      "position": 6,
-      "description": "Jogos emocionantes de cozinha!"
+      "description": "Jogos emocionantes de Wordleverse!"
     },
     {
       "name": "Jogos .IO",
@@ -93,8 +108,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 7,
-      "description": "Jogos emocionantes .IO!"
+      "position": 6,
+      "description": "Jogos .IO emocionantes!"
     },
     {
       "name": "Jogos de Puzzle",
@@ -103,18 +118,28 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 8,
-      "description": "Jogos emocionantes de puzzle!"
+      "position": 7,
+      "description": "Jogos de puzzle emocionantes!"
     },
     {
-      "name": "Corrida e Condução",
+      "name": "Corridas e Condução",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
+      "position": 8,
+      "description": "Jogos de Corridas e Condução emocionantes!"
+    },
+    {
+      "name": "Cozinha",
+      "path": "/c/cooking",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
       "position": 9,
-      "description": "Jogos emocionantes de corrida e condução!"
+      "description": "Jogos de cozinha emocionantes!"
     },
     {
       "name": "Jogos Casuais",

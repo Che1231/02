@@ -24,6 +24,31 @@
       "visible": true,
       "url": "/games/tower-of-destiny",
       "position": 5
+    },
+    {
+      "visible": true,
+      "url": "/games/suika-game",
+      "position": 6
+    },
+    {
+      "visible": true,
+      "url": "/games/fun-water-sorting",
+      "position": 7
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-bakeria",
+      "position": 8
+    },
+    {
+      "visible": true,
+      "url": "/games/build-royale",
+      "position": 9
+    },
+    {
+      "visible": true,
+      "url": "/games/sausage-flip",
+      "position": 10
     }
   ],
   "categories": [
@@ -34,16 +59,16 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "",
-      "description": "我們已為您精選了最佳遊戲！"
+      "description": "我們已為您精選最佳遊戲！"
     },
     {
       "name": "街機遊戲",
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
-      "displayStyle": "vertical",
+      "displayStyle": "horizontal",
       "icon": "",
-      "description": "令人興奮的街機遊戲！",
+      "description": "刺激的街機遊戲！",
       "position": 2
     },
     {
@@ -51,9 +76,9 @@
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
-      "displayStyle": "vertical",
+      "displayStyle": "horizontal",
       "icon": "",
-      "description": "令人興奮的動作遊戲！",
+      "description": "刺激的動作遊戲！",
       "position": 3
     },
     {
@@ -64,7 +89,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 4,
-      "description": "令人興奮的冒險遊戲！"
+      "description": "刺激的冒險遊戲！"
     },
     {
       "name": "Wordleverse 遊戲",
@@ -74,17 +99,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 5,
-      "description": "令人興奮的 Wordleverse 遊戲！"
-    },
-    {
-      "name": "烹飪遊戲",
-      "path": "/c/cooking",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "",
-      "position": 6,
-      "description": "令人興奮的烹飪遊戲！"
+      "description": "刺激的 Wordleverse 遊戲！"
     },
     {
       "name": ".IO 遊戲",
@@ -93,8 +108,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 7,
-      "description": "令人興奮的 .IO 遊戲！"
+      "position": 6,
+      "description": "刺激的 .IO 遊戲！"
     },
     {
       "name": "益智遊戲",
@@ -103,8 +118,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 8,
-      "description": "令人興奮的益智遊戲！"
+      "position": 7,
+      "description": "刺激的益智遊戲！"
     },
     {
       "name": "賽車與駕駛",
@@ -113,8 +128,18 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
+      "position": 8,
+      "description": "刺激的賽車與駕駛遊戲！"
+    },
+    {
+      "name": "烹飪遊戲",
+      "path": "/c/cooking",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
       "position": 9,
-      "description": "令人興奮的賽車與駕駛遊戲！"
+      "description": "刺激的烹飪遊戲！"
     },
     {
       "name": "休閒遊戲",
@@ -124,7 +149,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 10,
-      "description": "令人興奮的休閒遊戲！"
+      "description": "刺激的休閒遊戲！"
     },
     {
       "name": "運動遊戲",
@@ -134,7 +159,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 11,
-      "description": "令人興奮的運動遊戲！"
+      "description": "刺激的運動遊戲！"
     },
     {
       "name": "3D 遊戲",
@@ -144,7 +169,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 12,
-      "description": "令人興奮的 3D 遊戲！"
+      "description": "刺激的 3D 遊戲！"
     }
   ]
 }

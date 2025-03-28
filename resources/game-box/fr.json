@@ -24,6 +24,31 @@
       "visible": true,
       "url": "/games/tower-of-destiny",
       "position": 5
+    },
+    {
+      "visible": true,
+      "url": "/games/suika-game",
+      "position": 6
+    },
+    {
+      "visible": true,
+      "url": "/games/fun-water-sorting",
+      "position": 7
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-bakeria",
+      "position": 8
+    },
+    {
+      "visible": true,
+      "url": "/games/build-royale",
+      "position": 9
+    },
+    {
+      "visible": true,
+      "url": "/games/sausage-flip",
+      "position": 10
     }
   ],
   "categories": [
@@ -41,7 +66,7 @@
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
-      "displayStyle": "vertical",
+      "displayStyle": "horizontal",
       "icon": "",
       "description": "Des jeux d'arcade passionnants !",
       "position": 2
@@ -51,7 +76,7 @@
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
-      "displayStyle": "vertical",
+      "displayStyle": "horizontal",
       "icon": "",
       "description": "Des jeux d'action passionnants !",
       "position": 3
@@ -77,23 +102,13 @@
       "description": "Des jeux Wordleverse passionnants !"
     },
     {
-      "name": "Cuisine",
-      "path": "/c/cooking",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "",
-      "position": 6,
-      "description": "Des jeux de cuisine passionnants !"
-    },
-    {
       "name": "Jeux .IO",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 7,
+      "position": 6,
       "description": "Des jeux .IO passionnants !"
     },
     {
@@ -103,7 +118,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 8,
+      "position": 7,
       "description": "Des jeux de puzzle passionnants !"
     },
     {
@@ -113,8 +128,18 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 9,
+      "position": 8,
       "description": "Des jeux de course et de conduite passionnants !"
+    },
+    {
+      "name": "Jeux de cuisine",
+      "path": "/c/cooking",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 9,
+      "description": "Des jeux de cuisine passionnants !"
     },
     {
       "name": "Jeux décontractés",

@@ -24,24 +24,49 @@
       "visible": true,
       "url": "/games/tower-of-destiny",
       "position": 5
+    },
+    {
+      "visible": true,
+      "url": "/games/suika-game",
+      "position": 6
+    },
+    {
+      "visible": true,
+      "url": "/games/fun-water-sorting",
+      "position": 7
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-bakeria",
+      "position": 8
+    },
+    {
+      "visible": true,
+      "url": "/games/build-royale",
+      "position": 9
+    },
+    {
+      "visible": true,
+      "url": "/games/sausage-flip",
+      "position": 10
     }
   ],
   "categories": [
     {
-      "name": "Trò chơi được chọn lọc",
+      "name": "Trò chơi được đề xuất",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "",
-      "description": "Chúng tôi đã chọn lọc những trò chơi tốt nhất cho bạn!"
+      "description": "Chúng tôi đã chọn những trò chơi hay nhất cho bạn!"
     },
     {
       "name": "Trò chơi Arcade",
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
-      "displayStyle": "vertical",
+      "displayStyle": "horizontal",
       "icon": "",
       "description": "Những trò chơi arcade thú vị!",
       "position": 2
@@ -51,9 +76,9 @@
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
-      "displayStyle": "vertical",
+      "displayStyle": "horizontal",
       "icon": "",
-      "description": "Những trò chơi hành động thú vị!",
+      "description": "Những trò chơi hành động hấp dẫn!",
       "position": 3
     },
     {
@@ -77,23 +102,13 @@
       "description": "Những trò chơi Wordleverse thú vị!"
     },
     {
-      "name": "Nấu ăn",
-      "path": "/c/cooking",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "",
-      "position": 6,
-      "description": "Những trò chơi nấu ăn thú vị!"
-    },
-    {
       "name": "Trò chơi .IO",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 7,
+      "position": 6,
       "description": "Những trò chơi .IO thú vị!"
     },
     {
@@ -103,7 +118,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 8,
+      "position": 7,
       "description": "Những trò chơi giải đố thú vị!"
     },
     {
@@ -113,18 +128,28 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 9,
+      "position": 8,
       "description": "Những trò chơi đua xe & lái xe thú vị!"
     },
     {
-      "name": "Trò chơi đơn giản",
+      "name": "Trò chơi nấu ăn",
+      "path": "/c/cooking",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 9,
+      "description": "Những trò chơi nấu ăn thú vị!"
+    },
+    {
+      "name": "Trò chơi giải trí",
       "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 10,
-      "description": "Những trò chơi đơn giản thú vị!"
+      "description": "Những trò chơi giải trí thú vị!"
     },
     {
       "name": "Trò chơi thể thao",

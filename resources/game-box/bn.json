@@ -24,24 +24,49 @@
       "visible": true,
       "url": "/games/tower-of-destiny",
       "position": 5
+    },
+    {
+      "visible": true,
+      "url": "/games/suika-game",
+      "position": 6
+    },
+    {
+      "visible": true,
+      "url": "/games/fun-water-sorting",
+      "position": 7
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-bakeria",
+      "position": 8
+    },
+    {
+      "visible": true,
+      "url": "/games/build-royale",
+      "position": 9
+    },
+    {
+      "visible": true,
+      "url": "/games/sausage-flip",
+      "position": 10
     }
   ],
   "categories": [
     {
-      "name": "বৈশিষ্ট্যপূর্ণ গেমস",
+      "name": "বৈশিষ্ট্যপূর্ণ গেম",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "",
-      "description": "আপনার জন্য আমরা সেরা গেমস নির্বাচন করেছি!"
+      "description": "আমরা আপনার জন্য সেরা গেমগুলি নির্বাচন করেছি!"
     },
     {
       "name": "আর্কেড গেমস",
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
-      "displayStyle": "vertical",
+      "displayStyle": "horizontal",
       "icon": "",
       "description": "উত্তেজনাপূর্ণ আর্কেড গেমস!",
       "position": 2
@@ -51,20 +76,20 @@
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
-      "displayStyle": "vertical",
+      "displayStyle": "horizontal",
       "icon": "",
       "description": "উত্তেজনাপূর্ণ অ্যাকশন গেমস!",
       "position": 3
     },
     {
-      "name": "সাহসিক গেমস",
+      "name": "সাহসিক গেম",
       "path": "/c/adventure-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 4,
-      "description": "উত্তেজনাপূর্ণ সাহসিক গেমস!"
+      "description": "উত্তেজনাপূর্ণ সাহসিক গেম!"
     },
     {
       "name": "ওয়ার্ডলেভার্স গেমস",
@@ -77,24 +102,14 @@
       "description": "উত্তেজনাপূর্ণ ওয়ার্ডলেভার্স গেমস!"
     },
     {
-      "name": "রান্না",
-      "path": "/c/cooking",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "",
-      "position": 6,
-      "description": "উত্তেজনাপূর্ণ রান্না গেমস!"
-    },
-    {
-      "name": "ডট আইও গেমস",
+      "name": ".IO গেমস",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 7,
-      "description": "উত্তেজনাপূর্ণ ডট আইও গেমস!"
+      "position": 6,
+      "description": "উত্তেজনাপূর্ণ .IO  গেমস!"
     },
     {
       "name": "পাজল গেমস",
@@ -103,7 +118,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 8,
+      "position": 7,
       "description": "উত্তেজনাপূর্ণ পাজল গেমস!"
     },
     {
@@ -113,38 +128,48 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 9,
+      "position": 8,
       "description": "উত্তেজনাপূর্ণ রেসিং ও ড্রাইভিং গেমস!"
     },
     {
-      "name": "আনুষ্ঠানিক গেমস",
+      "name": "রান্নাঘর",
+      "path": "/c/cooking",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 9,
+      "description": "উত্তেজনাপূর্ণ রান্নাঘর গেমস!"
+    },
+    {
+      "name": "আরামদায়ক গেমস",
       "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 10,
-      "description": "উত্তেজনাপূর্ণ আনুষ্ঠানিক গেমস!"
+      "description": "উত্তেজনাপূর্ণ আরামদায়ক গেমস!"
     },
     {
-      "name": "ক্রীড়া গেমস",
+      "name": "খেলাধুলার খেলা",
       "path": "/c/sports-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 11,
-      "description": "উত্তেজনাপূর্ণ ক্রীড়া গেমস!"
+      "description": "উত্তেজনাপূর্ণ খেলাধুলার খেলা!"
     },
     {
-      "name": "থ্রিডি গেমস",
+      "name": "3D গেমস",
       "path": "/c/3d-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 12,
-      "description": "উত্তেজনাপূর্ণ থ্রিডি গেমস!"
+      "description": "উত্তেজনাপূর্ণ 3D গেমস!"
     }
   ]
 }

@@ -24,6 +24,31 @@
       "visible": true,
       "url": "/games/tower-of-destiny",
       "position": 5
+    },
+    {
+      "visible": true,
+      "url": "/games/suika-game",
+      "position": 6
+    },
+    {
+      "visible": true,
+      "url": "/games/fun-water-sorting",
+      "position": 7
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-bakeria",
+      "position": 8
+    },
+    {
+      "visible": true,
+      "url": "/games/build-royale",
+      "position": 9
+    },
+    {
+      "visible": true,
+      "url": "/games/sausage-flip",
+      "position": 10
     }
   ],
   "categories": [
@@ -41,7 +66,7 @@
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
-      "displayStyle": "vertical",
+      "displayStyle": "horizontal",
       "icon": "",
       "description": "¡Juegos de arcade emocionantes!",
       "position": 2
@@ -51,7 +76,7 @@
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
-      "displayStyle": "vertical",
+      "displayStyle": "horizontal",
       "icon": "",
       "description": "¡Juegos de acción emocionantes!",
       "position": 3
@@ -77,23 +102,13 @@
       "description": "¡Juegos de wordleverse emocionantes!"
     },
     {
-      "name": "Cocina",
-      "path": "/c/cooking",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "",
-      "position": 6,
-      "description": "¡Juegos de cocina emocionantes!"
-    },
-    {
       "name": "Juegos .IO",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 7,
+      "position": 6,
       "description": "¡Juegos .IO emocionantes!"
     },
     {
@@ -103,18 +118,28 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 8,
+      "position": 7,
       "description": "¡Juegos de rompecabezas emocionantes!"
     },
     {
-      "name": "Juegos de Carreras y Conduccion",
+      "name": "Juegos de Carreras y Conducción",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
+      "position": 8,
+      "description": "¡Juegos de Carreras y Conducción emocionantes!"
+    },
+    {
+      "name": "Juegos de Cocina",
+      "path": "/c/cooking",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
       "position": 9,
-      "description": "¡Juegos de carreras y conducción emocionantes!"
+      "description": "¡Juegos de cocina emocionantes!"
     },
     {
       "name": "Juegos Casuales",

@@ -24,6 +24,31 @@
       "visible": true,
       "url": "/games/tower-of-destiny",
       "position": 5
+    },
+    {
+      "visible": true,
+      "url": "/games/suika-game",
+      "position": 6
+    },
+    {
+      "visible": true,
+      "url": "/games/fun-water-sorting",
+      "position": 7
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-bakeria",
+      "position": 8
+    },
+    {
+      "visible": true,
+      "url": "/games/build-royale",
+      "position": 9
+    },
+    {
+      "visible": true,
+      "url": "/games/sausage-flip",
+      "position": 10
     }
   ],
   "categories": [
@@ -34,14 +59,14 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "",
-      "description": "あなたにおすすめのゲームを選りすぐりました！"
+      "description": "あなたに最適なゲームを選りすぐりました！"
     },
     {
       "name": "アーケードゲーム",
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
-      "displayStyle": "vertical",
+      "displayStyle": "horizontal",
       "icon": "",
       "description": "エキサイティングなアーケードゲーム！",
       "position": 2
@@ -51,7 +76,7 @@
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
-      "displayStyle": "vertical",
+      "displayStyle": "horizontal",
       "icon": "",
       "description": "エキサイティングなアクションゲーム！",
       "position": 3
@@ -77,24 +102,14 @@
       "description": "エキサイティングなワードルバースゲーム！"
     },
     {
-      "name": "料理ゲーム",
-      "path": "/c/cooking",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "",
-      "position": 6,
-      "description": "エキサイティングな料理ゲーム！"
-    },
-    {
-      "name": ".IOゲーム",
+      "name": "．IOゲーム",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 7,
-      "description": "エキサイティングな.IOゲーム！"
+      "position": 6,
+      "description": "エキサイティングな．IOゲーム！"
     },
     {
       "name": "パズルゲーム",
@@ -103,7 +118,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 8,
+      "position": 7,
       "description": "エキサイティングなパズルゲーム！"
     },
     {
@@ -113,8 +128,18 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 9,
+      "position": 8,
       "description": "エキサイティングなレース＆ドライブゲーム！"
+    },
+    {
+      "name": "料理ゲーム",
+      "path": "/c/cooking",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 9,
+      "description": "エキサイティングな料理ゲーム！"
     },
     {
       "name": "カジュアルゲーム",

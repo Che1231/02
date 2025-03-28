@@ -24,36 +24,61 @@
       "visible": true,
       "url": "/games/tower-of-destiny",
       "position": 5
+    },
+    {
+      "visible": true,
+      "url": "/games/suika-game",
+      "position": 6
+    },
+    {
+      "visible": true,
+      "url": "/games/fun-water-sorting",
+      "position": 7
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-bakeria",
+      "position": 8
+    },
+    {
+      "visible": true,
+      "url": "/games/build-royale",
+      "position": 9
+    },
+    {
+      "visible": true,
+      "url": "/games/sausage-flip",
+      "position": 10
     }
   ],
   "categories": [
     {
-      "name": "เกมเด่นๆ",
+      "name": "เกมเด่น",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "",
-      "description": "เราได้คัดสรรเกมที่ดีที่สุดสำหรับคุณแล้ว!"
+      "description": "เราคัดสรรเกมที่ดีที่สุดสำหรับคุณ!"
     },
     {
       "name": "เกมอาร์เคด",
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
-      "displayStyle": "vertical",
+      "displayStyle": "horizontal",
       "icon": "",
       "description": "เกมอาร์เคดที่น่าตื่นเต้น!",
       "position": 2
     },
     {
-      "name": "เกมแอ็คชั่น",
+      "name": "เกมแอ็คชัน",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
-      "displayStyle": "vertical",
+      "displayStyle": "horizontal",
       "icon": "",
-      "description": "เกมแอ็คชั่นที่น่าตื่นเต้น!",
+      "description": "เกมแอ็คชันที่น่าตื่นเต้น!",
       "position": 3
     },
     {
@@ -77,23 +102,13 @@
       "description": "เกม Wordleverse ที่น่าตื่นเต้น!"
     },
     {
-      "name": "เกมทำอาหาร",
-      "path": "/c/cooking",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "",
-      "position": 6,
-      "description": "เกมทำอาหารที่น่าตื่นเต้น!"
-    },
-    {
       "name": "เกม .IO",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 7,
+      "position": 6,
       "description": "เกม .IO ที่น่าตื่นเต้น!"
     },
     {
@@ -103,7 +118,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 8,
+      "position": 7,
       "description": "เกมปริศนาที่น่าตื่นเต้น!"
     },
     {
@@ -113,8 +128,18 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 9,
+      "position": 8,
       "description": "เกมแข่งรถและขับรถที่น่าตื่นเต้น!"
+    },
+    {
+      "name": "เกมทำอาหาร",
+      "path": "/c/cooking",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 9,
+      "description": "เกมทำอาหารที่น่าตื่นเต้น!"
     },
     {
       "name": "เกมสบายๆ",

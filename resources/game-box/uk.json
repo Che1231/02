@@ -24,11 +24,36 @@
       "visible": true,
       "url": "/games/tower-of-destiny",
       "position": 5
+    },
+    {
+      "visible": true,
+      "url": "/games/suika-game",
+      "position": 6
+    },
+    {
+      "visible": true,
+      "url": "/games/fun-water-sorting",
+      "position": 7
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-bakeria",
+      "position": 8
+    },
+    {
+      "visible": true,
+      "url": "/games/build-royale",
+      "position": 9
+    },
+    {
+      "visible": true,
+      "url": "/games/sausage-flip",
+      "position": 10
     }
   ],
   "categories": [
     {
-      "name": "Рекомендовані ігри",
+      "name": "Виділені ігри",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
@@ -37,34 +62,34 @@
       "description": "Ми підібрали для вас найкращі ігри!"
     },
     {
-      "name": "Ігри-аркади",
+      "name": "Аркадні ігри",
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
-      "displayStyle": "vertical",
+      "displayStyle": "horizontal",
       "icon": "",
-      "description": "Захоплюючі ігри-аркади!",
+      "description": "Захоплюючі аркадні ігри!",
       "position": 2
     },
     {
-      "name": "Ігри-дії",
+      "name": "Ігри дії",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
-      "displayStyle": "vertical",
+      "displayStyle": "horizontal",
       "icon": "",
-      "description": "Захоплюючі ігри-дії!",
+      "description": "Захоплюючі ігри дії!",
       "position": 3
     },
     {
-      "name": "Ігри-пригоди",
+      "name": "Ігри пригод",
       "path": "/c/adventure-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 4,
-      "description": "Захоплюючі ігри-пригоди!"
+      "description": "Захоплюючі ігри пригод!"
     },
     {
       "name": "Ігри Wordleverse",
@@ -77,23 +102,13 @@
       "description": "Захоплюючі ігри Wordleverse!"
     },
     {
-      "name": "Ігри-готування",
-      "path": "/c/cooking",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "",
-      "position": 6,
-      "description": "Захоплюючі ігри-готування!"
-    },
-    {
       "name": "Ігри .IO",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 7,
+      "position": 6,
       "description": "Захоплюючі ігри .IO!"
     },
     {
@@ -103,48 +118,58 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 8,
+      "position": 7,
       "description": "Захоплюючі логічні ігри!"
     },
     {
-      "name": "Ігри-гонки та водіння",
+      "name": "Гонки та водіння",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 9,
-      "description": "Захоплюючі ігри-гонки та водіння!"
+      "position": 8,
+      "description": "Захоплюючі ігри гонки та водіння!"
     },
     {
-      "name": "Легкі ігри",
+      "name": "Ігри приготування",
+      "path": "/c/cooking",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 9,
+      "description": "Захоплюючі ігри приготування!"
+    },
+    {
+      "name": "Невимушені ігри",
       "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 10,
-      "description": "Захоплюючі легкі ігри!"
+      "description": "Захоплюючі невимушені ігри!"
     },
     {
-      "name": "Ігри-спорт",
+      "name": "Ігри спорту",
       "path": "/c/sports-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 11,
-      "description": "Захоплюючі ігри-спорт!"
+      "description": "Захоплюючі ігри спорту!"
     },
     {
-      "name": "3D-ігри",
+      "name": "3D ігри",
       "path": "/c/3d-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 12,
-      "description": "Захоплюючі 3D-ігри!"
+      "description": "Захоплюючі 3D ігри!"
     }
   ]
 }

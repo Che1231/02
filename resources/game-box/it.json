@@ -24,6 +24,31 @@
       "visible": true,
       "url": "/games/tower-of-destiny",
       "position": 5
+    },
+    {
+      "visible": true,
+      "url": "/games/suika-game",
+      "position": 6
+    },
+    {
+      "visible": true,
+      "url": "/games/fun-water-sorting",
+      "position": 7
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-bakeria",
+      "position": 8
+    },
+    {
+      "visible": true,
+      "url": "/games/build-royale",
+      "position": 9
+    },
+    {
+      "visible": true,
+      "url": "/games/sausage-flip",
+      "position": 10
     }
   ],
   "categories": [
@@ -41,23 +66,23 @@
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
-      "displayStyle": "vertical",
+      "displayStyle": "horizontal",
       "icon": "",
       "description": "Emozionanti giochi arcade!",
       "position": 2
     },
     {
-      "name": "Giochi di Azione",
+      "name": "Giochi di azione",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
-      "displayStyle": "vertical",
+      "displayStyle": "horizontal",
       "icon": "",
       "description": "Emozionanti giochi di azione!",
       "position": 3
     },
     {
-      "name": "Giochi d'Avventura",
+      "name": "Giochi d'avventura",
       "path": "/c/adventure-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -77,23 +102,13 @@
       "description": "Emozionanti giochi Wordleverse!"
     },
     {
-      "name": "Cucina",
-      "path": "/c/cooking",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "",
-      "position": 6,
-      "description": "Emozionanti giochi di cucina!"
-    },
-    {
       "name": "Giochi .IO",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 7,
+      "position": 6,
       "description": "Emozionanti giochi .IO!"
     },
     {
@@ -103,31 +118,41 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 8,
+      "position": 7,
       "description": "Emozionanti giochi di puzzle!"
     },
     {
-      "name": "Giochi di Corse e Guida",
+      "name": "Giochi di corse e guida",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 9,
+      "position": 8,
       "description": "Emozionanti giochi di corse e guida!"
     },
     {
-      "name": "Giochi Casual",
+      "name": "Giochi di cucina",
+      "path": "/c/cooking",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 9,
+      "description": "Giochi di cucina emozionanti!"
+    },
+    {
+      "name": "Giochi casuali",
       "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 10,
-      "description": "Emozionanti giochi casual!"
+      "description": "Emozionanti giochi casuali!"
     },
     {
-      "name": "Giochi Sportivi",
+      "name": "Giochi sportivi",
       "path": "/c/sports-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
