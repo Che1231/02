@@ -119,17 +119,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
       "position": 7,
-      "description": "Захватывающие игры-головоломки!"
-    },
-    {
-      "name": "Гонки и вождение",
-      "path": "/c/racing-driving",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
-      "position": 8,
-      "description": "Захватывающие игры про гонки и вождение!"
+      "description": "Захватывающие головоломки!"
     },
     {
       "name": "Кулинария",
@@ -138,18 +128,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
-      "position": 9,
-      "description": "Захватывающие кулинарные игры!"
-    },
-    {
-      "name": "Легкие игры",
-      "path": "/c/casual-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
-      "position": 10,
-      "description": "Захватывающие легкие игры!"
+      "position": 8,
+      "description": "Захватывающие игры про кулинарию!"
     },
     {
       "name": "Спортивные игры",
@@ -158,8 +138,28 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
-      "position": 11,
+      "position": 9,
       "description": "Захватывающие спортивные игры!"
+    },
+    {
+      "name": "Гонки и вождение",
+      "path": "/c/racing-driving",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
+      "position": 10,
+      "description": "Захватывающие игры про гонки и вождение!"
+    },
+    {
+      "name": "Легкие игры",
+      "path": "/c/casual-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
+      "position": 11,
+      "description": "Захватывающие легкие игры!"
     },
     {
       "name": "3D-игры",

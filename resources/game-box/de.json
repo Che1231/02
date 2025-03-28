@@ -112,44 +112,24 @@
       "description": "Spannende .IO-Spiele!"
     },
     {
-      "name": "Puzzle-Spiele",
+      "name": "Rätselspiele",
       "path": "/c/puzzle-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
       "position": 7,
-      "description": "Spannende Puzzle-Spiele!"
+      "description": "Spannende Rätselspiele!"
     },
     {
-      "name": "Rennsport & Fahrspiele",
-      "path": "/c/racing-driving",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
-      "position": 8,
-      "description": "Spannende Rennsport & Fahrspiele!"
-    },
-    {
-      "name": "Kochspiele",
+      "name": "Kochen",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
-      "position": 9,
+      "position": 8,
       "description": "Spannende Kochspiele!"
-    },
-    {
-      "name": "Casual-Spiele",
-      "path": "/c/casual-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
-      "position": 10,
-      "description": "Spannende Casual-Spiele!"
     },
     {
       "name": "Sport-Spiele",
@@ -158,8 +138,28 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
-      "position": 11,
+      "position": 9,
       "description": "Spannende Sport-Spiele!"
+    },
+    {
+      "name": "Rennen & Fahren",
+      "path": "/c/racing-driving",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
+      "position": 10,
+      "description": "Spannende Rennsport- & Fahrspiele!"
+    },
+    {
+      "name": "Casual-Spiele",
+      "path": "/c/casual-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
+      "position": 11,
+      "description": "Spannende Casual-Spiele!"
     },
     {
       "name": "3D-Spiele",

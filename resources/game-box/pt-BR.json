@@ -53,7 +53,7 @@
   ],
   "categories": [
     {
-      "name": "Jogos em Destaque",
+      "name": "Jogos Destacados",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
@@ -62,13 +62,13 @@
       "description": "Nós selecionamos os melhores jogos para você!"
     },
     {
-      "name": "Jogos Arcade",
+      "name": "Jogos de Arcade",
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156326993-rske4c.png",
-      "description": "Jogos arcade emocionantes!",
+      "description": "Jogos de arcade emocionantes!",
       "position": 2
     },
     {
@@ -109,7 +109,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
       "position": 6,
-      "description": "Jogos emocionantes .IO!"
+      "description": "Jogos .IO emocionantes!"
     },
     {
       "name": "Jogos de Puzzle",
@@ -122,34 +122,14 @@
       "description": "Jogos de puzzle emocionantes!"
     },
     {
-      "name": "Corridas e Dirigibilidade",
-      "path": "/c/racing-driving",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
-      "position": 8,
-      "description": "Jogos emocionantes de Corridas e Dirigibilidade!"
-    },
-    {
       "name": "Cozinha",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
-      "position": 9,
-      "description": "Jogos emocionantes de cozinha!"
-    },
-    {
-      "name": "Jogos Casuais",
-      "path": "/c/casual-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
-      "position": 10,
-      "description": "Jogos casuais emocionantes!"
+      "position": 8,
+      "description": "Jogos de cozinha emocionantes!"
     },
     {
       "name": "Jogos Esportivos",
@@ -158,8 +138,28 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
-      "position": 11,
+      "position": 9,
       "description": "Jogos esportivos emocionantes!"
+    },
+    {
+      "name": "Corrida e Dirigir",
+      "path": "/c/racing-driving",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
+      "position": 10,
+      "description": "Jogos emocionantes de corrida e direção!"
+    },
+    {
+      "name": "Jogos Casuais",
+      "path": "/c/casual-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
+      "position": 11,
+      "description": "Jogos casuais emocionantes!"
     },
     {
       "name": "Jogos 3D",

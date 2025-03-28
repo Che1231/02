@@ -53,13 +53,13 @@
   ],
   "categories": [
     {
-      "name": "おすすめゲーム",
+      "name": "おすすめのゲーム",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
-      "description": "あなたにおすすめのゲームを選りすぐりました！"
+      "description": "あなたに最適なゲームを選りすぐりました！"
     },
     {
       "name": "アーケードゲーム",
@@ -102,7 +102,7 @@
       "description": "エキサイティングなWordleverseゲーム！"
     },
     {
-      "name": ".IO ゲーム",
+      "name": ".IOゲーム",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -122,34 +122,14 @@
       "description": "エキサイティングなパズルゲーム！"
     },
     {
-      "name": "レース&ドライブゲーム",
-      "path": "/c/racing-driving",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
-      "position": 8,
-      "description": "エキサイティングなレース&ドライブゲーム！"
-    },
-    {
       "name": "料理ゲーム",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
-      "position": 9,
+      "position": 8,
       "description": "エキサイティングな料理ゲーム！"
-    },
-    {
-      "name": "カジュアルゲーム",
-      "path": "/c/casual-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
-      "position": 10,
-      "description": "エキサイティングなカジュアルゲーム！"
     },
     {
       "name": "スポーツゲーム",
@@ -158,8 +138,28 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
-      "position": 11,
+      "position": 9,
       "description": "エキサイティングなスポーツゲーム！"
+    },
+    {
+      "name": "レース＆ドライブゲーム",
+      "path": "/c/racing-driving",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
+      "position": 10,
+      "description": "エキサイティングなレース＆ドライブゲーム！"
+    },
+    {
+      "name": "カジュアルゲーム",
+      "path": "/c/casual-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
+      "position": 11,
+      "description": "エキサイティングなカジュアルゲーム！"
     },
     {
       "name": "3Dゲーム",

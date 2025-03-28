@@ -59,7 +59,7 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
-      "description": "Chúng tôi đã chọn những trò chơi hay nhất cho bạn!"
+      "description": "Chúng tôi đã chọn những trò chơi tốt nhất cho bạn!"
     },
     {
       "name": "Trò chơi Arcade",
@@ -78,7 +78,7 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156394531-x0e51o.png",
-      "description": "Những trò chơi hành động hấp dẫn!",
+      "description": "Những trò chơi hành động thú vị!",
       "position": 3
     },
     {
@@ -99,7 +99,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
       "position": 5,
-      "description": "Những trò chơi wordleverse thú vị!"
+      "description": "Những trò chơi Wordleverse thú vị!"
     },
     {
       "name": "Trò chơi .IO",
@@ -122,34 +122,14 @@
       "description": "Những trò chơi giải đố thú vị!"
     },
     {
-      "name": "Trò chơi đua xe và lái xe",
-      "path": "/c/racing-driving",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
-      "position": 8,
-      "description": "Những trò chơi đua xe và lái xe thú vị!"
-    },
-    {
       "name": "Trò chơi nấu ăn",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
-      "position": 9,
+      "position": 8,
       "description": "Những trò chơi nấu ăn thú vị!"
-    },
-    {
-      "name": "Trò chơi giải trí",
-      "path": "/c/casual-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
-      "position": 10,
-      "description": "Những trò chơi giải trí thú vị!"
     },
     {
       "name": "Trò chơi thể thao",
@@ -158,8 +138,28 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
-      "position": 11,
+      "position": 9,
       "description": "Những trò chơi thể thao thú vị!"
+    },
+    {
+      "name": "Trò chơi đua xe & lái xe",
+      "path": "/c/racing-driving",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
+      "position": 10,
+      "description": "Những trò chơi đua xe & lái xe thú vị!"
+    },
+    {
+      "name": "Trò chơi giải trí",
+      "path": "/c/casual-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
+      "position": 11,
+      "description": "Những trò chơi giải trí thú vị!"
     },
     {
       "name": "Trò chơi 3D",

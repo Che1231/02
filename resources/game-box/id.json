@@ -68,7 +68,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156326993-rske4c.png",
-      "description": "Permainan arcade yang mengasyikkan!",
+      "description": "Permainan arcade yang menegangkan!",
       "position": 2
     },
     {
@@ -78,7 +78,7 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156394531-x0e51o.png",
-      "description": "Permainan aksi yang mengasyikkan!",
+      "description": "Permainan aksi yang menegangkan!",
       "position": 3
     },
     {
@@ -89,7 +89,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
       "position": 4,
-      "description": "Permainan petualangan yang mengasyikkan!"
+      "description": "Permainan petualangan yang menegangkan!"
     },
     {
       "name": "Permainan Wordleverse",
@@ -99,7 +99,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
       "position": 5,
-      "description": "Permainan wordleverse yang mengasyikkan!"
+      "description": "Permainan wordleverse yang menegangkan!"
     },
     {
       "name": "Permainan .IO",
@@ -109,7 +109,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
       "position": 6,
-      "description": "Permainan .IO yang mengasyikkan!"
+      "description": "Permainan .IO yang menegangkan!"
     },
     {
       "name": "Permainan Puzzle",
@@ -119,17 +119,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
       "position": 7,
-      "description": "Permainan puzzle yang mengasyikkan!"
-    },
-    {
-      "name": "Balap & Mengemudi",
-      "path": "/c/racing-driving",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
-      "position": 8,
-      "description": "Permainan Balap & Mengemudi yang mengasyikkan!"
+      "description": "Permainan puzzle yang menegangkan!"
     },
     {
       "name": "Memasak",
@@ -138,18 +128,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
-      "position": 9,
-      "description": "Permainan memasak yang mengasyikkan!"
-    },
-    {
-      "name": "Permainan Kasual",
-      "path": "/c/casual-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
-      "position": 10,
-      "description": "Permainan kasual yang mengasyikkan!"
+      "position": 8,
+      "description": "Permainan memasak yang menegangkan!"
     },
     {
       "name": "Permainan Olahraga",
@@ -158,8 +138,28 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
+      "position": 9,
+      "description": "Permainan olahraga yang menegangkan!"
+    },
+    {
+      "name": "Balap & Mengemudi",
+      "path": "/c/racing-driving",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
+      "position": 10,
+      "description": "Permainan Balap & Mengemudi yang menegangkan!"
+    },
+    {
+      "name": "Permainan Kasual",
+      "path": "/c/casual-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
       "position": 11,
-      "description": "Permainan olahraga yang mengasyikkan!"
+      "description": "Permainan kasual yang menegangkan!"
     },
     {
       "name": "Permainan 3D",
@@ -169,7 +169,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156468798-xl6ktw.png",
       "position": 12,
-      "description": "Permainan 3D yang mengasyikkan!"
+      "description": "Permainan 3D yang menegangkan!"
     }
   ]
 }

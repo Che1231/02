@@ -68,7 +68,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156326993-rske4c.png",
-      "description": "Des jeux d'arcade passionnants !",
+      "description": "Des jeux d'arcade palpitants !",
       "position": 2
     },
     {
@@ -89,7 +89,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
       "position": 4,
-      "description": "Des jeux d'aventure passionnants !"
+      "description": "Des jeux d'aventure palpitants !"
     },
     {
       "name": "Jeux Wordleverse",
@@ -99,7 +99,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
       "position": 5,
-      "description": "Des jeux Wordleverse passionnants !"
+      "description": "Des jeux Wordleverse palpitants !"
     },
     {
       "name": "Jeux .IO",
@@ -109,7 +109,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
       "position": 6,
-      "description": "Des jeux .IO passionnants !"
+      "description": "Des jeux .IO palpitants !"
     },
     {
       "name": "Jeux de puzzle",
@@ -119,17 +119,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
       "position": 7,
-      "description": "Des jeux de puzzle passionnants !"
-    },
-    {
-      "name": "Jeux de course et de conduite",
-      "path": "/c/racing-driving",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
-      "position": 8,
-      "description": "Des jeux de course et de conduite passionnants !"
+      "description": "Des jeux de puzzle palpitants !"
     },
     {
       "name": "Jeux de cuisine",
@@ -138,18 +128,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
-      "position": 9,
-      "description": "Des jeux de cuisine passionnants !"
-    },
-    {
-      "name": "Jeux décontractés",
-      "path": "/c/casual-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
-      "position": 10,
-      "description": "Des jeux décontractés passionnants !"
+      "position": 8,
+      "description": "Des jeux de cuisine palpitants !"
     },
     {
       "name": "Jeux sportifs",
@@ -158,8 +138,28 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
+      "position": 9,
+      "description": "Des jeux sportifs palpitants !"
+    },
+    {
+      "name": "Jeux de course et de conduite",
+      "path": "/c/racing-driving",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
+      "position": 10,
+      "description": "Des jeux de course et de conduite palpitants !"
+    },
+    {
+      "name": "Jeux décontractés",
+      "path": "/c/casual-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
       "position": 11,
-      "description": "Des jeux sportifs passionnants !"
+      "description": "Des jeux décontractés palpitants !"
     },
     {
       "name": "Jeux 3D",
@@ -169,7 +169,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156468798-xl6ktw.png",
       "position": 12,
-      "description": "Des jeux 3D passionnants !"
+      "description": "Des jeux 3D palpitants !"
     }
   ]
 }

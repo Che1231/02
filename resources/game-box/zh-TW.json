@@ -68,7 +68,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156326993-rske4c.png",
-      "description": "刺激的街機遊戲！",
+      "description": "令人興奮的街機遊戲！",
       "position": 2
     },
     {
@@ -78,7 +78,7 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156394531-x0e51o.png",
-      "description": "刺激的動作遊戲！",
+      "description": "令人興奮的動作遊戲！",
       "position": 3
     },
     {
@@ -89,7 +89,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
       "position": 4,
-      "description": "刺激的冒險遊戲！"
+      "description": "令人興奮的冒險遊戲！"
     },
     {
       "name": "Wordleverse 遊戲",
@@ -99,7 +99,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
       "position": 5,
-      "description": "刺激的 Wordleverse 遊戲！"
+      "description": "令人興奮的 Wordleverse 遊戲！"
     },
     {
       "name": ".IO 遊戲",
@@ -109,7 +109,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
       "position": 6,
-      "description": "刺激的 .IO 遊戲！"
+      "description": "令人興奮的 .IO 遊戲！"
     },
     {
       "name": "益智遊戲",
@@ -119,17 +119,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
       "position": 7,
-      "description": "刺激的益智遊戲！"
-    },
-    {
-      "name": "賽車及駕駛",
-      "path": "/c/racing-driving",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
-      "position": 8,
-      "description": "刺激的賽車及駕駛遊戲！"
+      "description": "令人興奮的益智遊戲！"
     },
     {
       "name": "烹飪遊戲",
@@ -138,18 +128,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
-      "position": 9,
-      "description": "刺激的烹飪遊戲！"
-    },
-    {
-      "name": "休閒遊戲",
-      "path": "/c/casual-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
-      "position": 10,
-      "description": "刺激的休閒遊戲！"
+      "position": 8,
+      "description": "令人興奮的烹飪遊戲！"
     },
     {
       "name": "運動遊戲",
@@ -158,8 +138,28 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
+      "position": 9,
+      "description": "令人興奮的運動遊戲！"
+    },
+    {
+      "name": "賽車與駕駛",
+      "path": "/c/racing-driving",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
+      "position": 10,
+      "description": "令人興奮的賽車與駕駛遊戲！"
+    },
+    {
+      "name": "休閒遊戲",
+      "path": "/c/casual-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
       "position": 11,
-      "description": "刺激的運動遊戲！"
+      "description": "令人興奮的休閒遊戲！"
     },
     {
       "name": "3D 遊戲",
@@ -169,7 +169,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156468798-xl6ktw.png",
       "position": 12,
-      "description": "刺激的 3D 遊戲！"
+      "description": "令人興奮的 3D 遊戲！"
     }
   ]
 }
