@@ -1,5 +1,31 @@
 {
-  "recommended": [],
+  "recommended": [
+    {
+      "visible": true,
+      "url": "/games/terraria",
+      "position": 1
+    },
+    {
+      "visible": true,
+      "url": "/games/x-trench-run",
+      "position": 2
+    },
+    {
+      "visible": true,
+      "url": "/games/fnf-vs-touhou",
+      "position": 3
+    },
+    {
+      "visible": true,
+      "url": "/games/recoil",
+      "position": 4
+    },
+    {
+      "visible": true,
+      "url": "/games/tower-of-destiny",
+      "position": 5
+    }
+  ],
   "categories": [
     {
       "name": "Featured Games",
