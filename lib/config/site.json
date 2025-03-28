@@ -1,27 +1,23 @@
 {
-  "name": "",
+  "name": "01",
   "slogan": "slogan",
-  "domain": "",
+  "domain": "https://gamefreehub.com",
   "icon": "/favicon.ico",
   "appleIcon": "/apple-touch-icon.png",
-  "templateType":"single-game",
+  "templateType": "game-box",
   "theme": {
-    "name":"dark",
-    "headFont": "Arial, sans-serif",
-    "primaryColor": "#007bff",
-    "fontColor": "#333333",
-    "backgroundColor": "#ffffff"
+    "name": "deep-sea"
   },
   "gaId": "",
   "clarityId": "",
-  "plausible": "",
+  "plausible": "https://appview.fafafa.ai/js/script.js",
   "gameType": "iframe",
   "gameIframeUrl": "",
   "gameRedirectUrl": "",
   "bgType": "iframe",
   "bgImage": "",
   "bgVideo": "",
-  "friendLinks":[],
+  "friendLinks": [],
   "gameDownload": {
     "showDownloadButton": true,
     "downloadUrls": {
@@ -56,5 +52,13 @@
   ],
   "isShowRecommendation": true,
   "enablePromotion": false,
-  "customizeFeatures": true
+  "customizeFeatures": true,
+  "override_page_path": false,
+  "auto_deploy": true,
+  "isShowRightGames": true,
+  "color_scheme_id": "default",
+  "is_sub_game": false,
+  "include_available_games": true,
+  "pageName": "",
+  "pagePath": ""
 }
