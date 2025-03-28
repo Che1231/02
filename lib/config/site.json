@@ -6,7 +6,7 @@
   "appleIcon": "/apple-touch-icon.png",
   "templateType": "game-box",
   "theme": {
-    "name": "purple-tech"
+    "name": "default"
   },
   "gaId": "",
   "clarityId": "",
@@ -60,5 +60,6 @@
   "is_sub_game": false,
   "include_available_games": true,
   "pageName": "",
-  "pagePath": ""
+  "pagePath": "",
+  "logoUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743152424174-depw0a.png"
 }
