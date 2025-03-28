@@ -77,24 +77,24 @@
       "description": "Heyecan verici wordleverse oyunları!"
     },
     {
+      "name": "Yemek Yapma",
+      "path": "/c/cooking",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 6,
+      "description": "Heyecan verici yemek pişirme oyunları!"
+    },
+    {
       "name": ".IO Oyunları",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 6,
-      "description": "Heyecan verici .IO oyunları!"
-    },
-    {
-      "name": "Hafif Oyunlar",
-      "path": "/c/casual-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "",
       "position": 7,
-      "description": "Heyecan verici hafif oyunlar!"
+      "description": "Heyecan verici .IO oyunları!"
     },
     {
       "name": "Bulmaca Oyunları",
@@ -107,7 +107,7 @@
       "description": "Heyecan verici bulmaca oyunları!"
     },
     {
-      "name": "Yarış ve Sürüş Oyunları",
+      "name": "Yarış ve Sürüş",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -117,14 +117,14 @@
       "description": "Heyecan verici Yarış ve Sürüş oyunları!"
     },
     {
-      "name": "3B Oyunlar",
-      "path": "/c/3d-games",
+      "name": "Hafif Oyunlar",
+      "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 10,
-      "description": "Heyecan verici 3B oyunlar!"
+      "description": "Heyecan verici hafif oyunlar!"
     },
     {
       "name": "Spor Oyunları",
@@ -135,6 +135,16 @@
       "icon": "",
       "position": 11,
       "description": "Heyecan verici spor oyunları!"
+    },
+    {
+      "name": "3B Oyunlar",
+      "path": "/c/3d-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 12,
+      "description": "Heyecan verici 3B oyunlar!"
     }
   ]
 }

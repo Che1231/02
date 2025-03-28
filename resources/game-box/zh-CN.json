@@ -67,34 +67,34 @@
       "description": "令人兴奋的冒险游戏！"
     },
     {
-      "name": "Wordleverse游戏",
+      "name": "Wordleverse 游戏",
       "path": "/c/wordleverse-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 5,
-      "description": "令人兴奋的Wordleverse游戏！"
+      "description": "令人兴奋的 Wordleverse 游戏！"
     },
     {
-      "name": ".IO游戏",
-      "path": "/c/io-games",
+      "name": "烹饪游戏",
+      "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 6,
-      "description": "令人兴奋的.IO游戏！"
+      "description": "令人兴奋的烹饪游戏！"
     },
     {
-      "name": "休闲游戏",
-      "path": "/c/casual-games",
+      "name": ".IO 游戏",
+      "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 7,
-      "description": "令人兴奋的休闲游戏！"
+      "description": "令人兴奋的 .IO 游戏！"
     },
     {
       "name": "益智游戏",
@@ -107,7 +107,7 @@
       "description": "令人兴奋的益智游戏！"
     },
     {
-      "name": "赛车与驾驶",
+      "name": "赛车与驾驶游戏",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -117,14 +117,14 @@
       "description": "令人兴奋的赛车与驾驶游戏！"
     },
     {
-      "name": "3D游戏",
-      "path": "/c/3d-games",
+      "name": "休闲游戏",
+      "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 10,
-      "description": "令人兴奋的3D游戏！"
+      "description": "令人兴奋的休闲游戏！"
     },
     {
       "name": "体育游戏",
@@ -135,6 +135,16 @@
       "icon": "",
       "position": 11,
       "description": "令人兴奋的体育游戏！"
+    },
+    {
+      "name": "3D 游戏",
+      "path": "/c/3d-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 12,
+      "description": "令人兴奋的 3D 游戏！"
     }
   ]
 }

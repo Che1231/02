@@ -77,24 +77,24 @@
       "description": "Permainan wordleverse yang mengasyikkan!"
     },
     {
+      "name": "Memasak",
+      "path": "/c/cooking",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 6,
+      "description": "Permainan memasak yang mengasyikkan!"
+    },
+    {
       "name": "Permainan .IO",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 6,
-      "description": "Permainan .IO yang mengasyikkan!"
-    },
-    {
-      "name": "Permainan Kasual",
-      "path": "/c/casual-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "",
       "position": 7,
-      "description": "Permainan kasual yang mengasyikkan!"
+      "description": "Permainan .IO yang mengasyikkan!"
     },
     {
       "name": "Permainan Puzzle",
@@ -107,24 +107,24 @@
       "description": "Permainan puzzle yang mengasyikkan!"
     },
     {
-      "name": "Permainan Balap & Mengemudi",
+      "name": "Balap & Mengemudi",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 9,
-      "description": "Permainan Balap & Mengemudi yang mengasyikkan!"
+      "description": "Permainan balap & mengemudi yang mengasyikkan!"
     },
     {
-      "name": "Permainan 3D",
-      "path": "/c/3d-games",
+      "name": "Permainan Kasual",
+      "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 10,
-      "description": "Permainan 3D yang mengasyikkan!"
+      "description": "Permainan kasual yang mengasyikkan!"
     },
     {
       "name": "Permainan Olahraga",
@@ -135,6 +135,16 @@
       "icon": "",
       "position": 11,
       "description": "Permainan olahraga yang mengasyikkan!"
+    },
+    {
+      "name": "Permainan 3D",
+      "path": "/c/3d-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 12,
+      "description": "Permainan 3D yang mengasyikkan!"
     }
   ]
 }

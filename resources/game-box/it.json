@@ -47,24 +47,24 @@
       "position": 2
     },
     {
-      "name": "Giochi d'azione",
+      "name": "Giochi di Azione",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "vertical",
       "icon": "",
-      "description": "Emozionanti giochi d'azione!",
+      "description": "Emozionanti giochi di azione!",
       "position": 3
     },
     {
-      "name": "Giochi di avventura",
+      "name": "Giochi d'Avventura",
       "path": "/c/adventure-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 4,
-      "description": "Emozionanti giochi di avventura!"
+      "description": "Emozionanti giochi d'avventura!"
     },
     {
       "name": "Giochi Wordleverse",
@@ -77,24 +77,24 @@
       "description": "Emozionanti giochi Wordleverse!"
     },
     {
+      "name": "Cucina",
+      "path": "/c/cooking",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 6,
+      "description": "Emozionanti giochi di cucina!"
+    },
+    {
       "name": "Giochi .IO",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 6,
-      "description": "Emozionanti giochi .IO!"
-    },
-    {
-      "name": "Giochi Casual",
-      "path": "/c/casual-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "",
       "position": 7,
-      "description": "Emozionanti giochi casual!"
+      "description": "Emozionanti giochi .IO!"
     },
     {
       "name": "Giochi di Puzzle",
@@ -117,14 +117,14 @@
       "description": "Emozionanti giochi di corse e guida!"
     },
     {
-      "name": "Giochi 3D",
-      "path": "/c/3d-games",
+      "name": "Giochi Casual",
+      "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 10,
-      "description": "Emozionanti giochi 3D!"
+      "description": "Emozionanti giochi casual!"
     },
     {
       "name": "Giochi Sportivi",
@@ -135,6 +135,16 @@
       "icon": "",
       "position": 11,
       "description": "Emozionanti giochi sportivi!"
+    },
+    {
+      "name": "Giochi 3D",
+      "path": "/c/3d-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 12,
+      "description": "Emozionanti giochi 3D!"
     }
   ]
 }

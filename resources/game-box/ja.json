@@ -77,24 +77,24 @@
       "description": "エキサイティングなワードルバースゲーム！"
     },
     {
-      "name": "．IOゲーム",
-      "path": "/c/io-games",
+      "name": "料理ゲーム",
+      "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 6,
-      "description": "エキサイティングな．IOゲーム！"
+      "description": "エキサイティングな料理ゲーム！"
     },
     {
-      "name": "カジュアルゲーム",
-      "path": "/c/casual-games",
+      "name": ".IOゲーム",
+      "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 7,
-      "description": "エキサイティングなカジュアルゲーム！"
+      "description": "エキサイティングな.IOゲーム！"
     },
     {
       "name": "パズルゲーム",
@@ -107,7 +107,7 @@
       "description": "エキサイティングなパズルゲーム！"
     },
     {
-      "name": "レース＆ドライブゲーム",
+      "name": "レース＆ドライブ",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -117,14 +117,14 @@
       "description": "エキサイティングなレース＆ドライブゲーム！"
     },
     {
-      "name": "3Dゲーム",
-      "path": "/c/3d-games",
+      "name": "カジュアルゲーム",
+      "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 10,
-      "description": "エキサイティングな3Dゲーム！"
+      "description": "エキサイティングなカジュアルゲーム！"
     },
     {
       "name": "スポーツゲーム",
@@ -135,6 +135,16 @@
       "icon": "",
       "position": 11,
       "description": "エキサイティングなスポーツゲーム！"
+    },
+    {
+      "name": "3Dゲーム",
+      "path": "/c/3d-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 12,
+      "description": "エキサイティングな3Dゲーム！"
     }
   ]
 }

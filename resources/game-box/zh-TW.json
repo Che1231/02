@@ -34,7 +34,7 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "",
-      "description": "我們已為您精選最佳遊戲！"
+      "description": "我們已為您精選了最佳遊戲！"
     },
     {
       "name": "街機遊戲",
@@ -77,24 +77,24 @@
       "description": "令人興奮的 Wordleverse 遊戲！"
     },
     {
+      "name": "烹飪遊戲",
+      "path": "/c/cooking",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 6,
+      "description": "令人興奮的烹飪遊戲！"
+    },
+    {
       "name": ".IO 遊戲",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 6,
-      "description": "令人興奮的 .IO 遊戲！"
-    },
-    {
-      "name": "休閒遊戲",
-      "path": "/c/casual-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "",
       "position": 7,
-      "description": "令人興奮的休閒遊戲！"
+      "description": "令人興奮的 .IO 遊戲！"
     },
     {
       "name": "益智遊戲",
@@ -117,14 +117,14 @@
       "description": "令人興奮的賽車與駕駛遊戲！"
     },
     {
-      "name": "3D 遊戲",
-      "path": "/c/3d-games",
+      "name": "休閒遊戲",
+      "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 10,
-      "description": "令人興奮的 3D 遊戲！"
+      "description": "令人興奮的休閒遊戲！"
     },
     {
       "name": "運動遊戲",
@@ -135,6 +135,16 @@
       "icon": "",
       "position": 11,
       "description": "令人興奮的運動遊戲！"
+    },
+    {
+      "name": "3D 遊戲",
+      "path": "/c/3d-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 12,
+      "description": "令人興奮的 3D 遊戲！"
     }
   ]
 }

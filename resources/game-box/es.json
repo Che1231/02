@@ -74,7 +74,17 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 5,
-      "description": "¡Juegos emocionantes de Wordleverse!"
+      "description": "¡Juegos de wordleverse emocionantes!"
+    },
+    {
+      "name": "Cocina",
+      "path": "/c/cooking",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 6,
+      "description": "¡Juegos de cocina emocionantes!"
     },
     {
       "name": "Juegos .IO",
@@ -83,18 +93,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 6,
-      "description": "¡Juegos .IO emocionantes!"
-    },
-    {
-      "name": "Juegos Casuales",
-      "path": "/c/casual-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "",
       "position": 7,
-      "description": "¡Juegos casuales emocionantes!"
+      "description": "¡Juegos .IO emocionantes!"
     },
     {
       "name": "Juegos de Rompecabezas",
@@ -117,14 +117,14 @@
       "description": "¡Juegos de carreras y conducción emocionantes!"
     },
     {
-      "name": "Juegos 3D",
-      "path": "/c/3d-games",
+      "name": "Juegos Casuales",
+      "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 10,
-      "description": "¡Juegos 3D emocionantes!"
+      "description": "¡Juegos casuales emocionantes!"
     },
     {
       "name": "Juegos Deportivos",
@@ -135,6 +135,16 @@
       "icon": "",
       "position": 11,
       "description": "¡Juegos deportivos emocionantes!"
+    },
+    {
+      "name": "Juegos 3D",
+      "path": "/c/3d-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 12,
+      "description": "¡Juegos 3D emocionantes!"
     }
   ]
 }

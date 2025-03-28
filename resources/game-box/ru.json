@@ -37,34 +37,34 @@
       "description": "Мы отобрали для вас лучшие игры!"
     },
     {
-      "name": "Аркадные игры",
+      "name": "Игры аркады",
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "vertical",
       "icon": "",
-      "description": "Захватывающие аркадные игры!",
+      "description": "Захватывающие игры аркады!",
       "position": 2
     },
     {
-      "name": "Экшн-игры",
+      "name": "Игры экшен",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "vertical",
       "icon": "",
-      "description": "Захватывающие экшн-игры!",
+      "description": "Захватывающие игры экшен!",
       "position": 3
     },
     {
-      "name": "Игры-приключения",
+      "name": "Игры приключений",
       "path": "/c/adventure-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 4,
-      "description": "Захватывающие игры-приключения!"
+      "description": "Захватывающие игры приключений!"
     },
     {
       "name": "Игры Wordleverse",
@@ -77,24 +77,24 @@
       "description": "Захватывающие игры Wordleverse!"
     },
     {
+      "name": "Игры про готовку",
+      "path": "/c/cooking",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 6,
+      "description": "Захватывающие игры про готовку!"
+    },
+    {
       "name": "Игры .IO",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 6,
-      "description": "Захватывающие игры .IO!"
-    },
-    {
-      "name": "Несложные игры",
-      "path": "/c/casual-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "",
       "position": 7,
-      "description": "Захватывающие несложные игры!"
+      "description": "Захватывающие игры .IO!"
     },
     {
       "name": "Головоломки",
@@ -104,7 +104,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 8,
-      "description": "Захватывающие игры-головоломки!"
+      "description": "Захватывающие головоломки!"
     },
     {
       "name": "Гонки и вождение",
@@ -114,20 +114,20 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 9,
-      "description": "Захватывающие гонки и игры на вождение!"
+      "description": "Захватывающие гонки и игры про вождение!"
     },
     {
-      "name": "3D-игры",
-      "path": "/c/3d-games",
+      "name": "Несложные игры",
+      "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 10,
-      "description": "Захватывающие 3D-игры!"
+      "description": "Захватывающие несложные игры!"
     },
     {
-      "name": "Спортивные игры",
+      "name": "Игры спорт",
       "path": "/c/sports-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -135,6 +135,16 @@
       "icon": "",
       "position": 11,
       "description": "Захватывающие спортивные игры!"
+    },
+    {
+      "name": "3D игры",
+      "path": "/c/3d-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 12,
+      "description": "Захватывающие 3D игры!"
     }
   ]
 }

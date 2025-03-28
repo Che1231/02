@@ -47,13 +47,13 @@
       "position": 2
     },
     {
-      "name": "Actionspiele",
+      "name": "Action-Spiele",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "vertical",
       "icon": "",
-      "description": "Spannende Actionspiele!",
+      "description": "Spannende Action-Spiele!",
       "position": 3
     },
     {
@@ -77,24 +77,24 @@
       "description": "Spannende Wordleverse-Spiele!"
     },
     {
+      "name": "Kochspiele",
+      "path": "/c/cooking",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 6,
+      "description": "Spannende Kochspiele!"
+    },
+    {
       "name": ".IO-Spiele",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 6,
-      "description": "Spannende .IO-Spiele!"
-    },
-    {
-      "name": "Casual-Spiele",
-      "path": "/c/casual-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "",
       "position": 7,
-      "description": "Spannende Casual-Spiele!"
+      "description": "Spannende .IO-Spiele!"
     },
     {
       "name": "Rätselspiele",
@@ -107,24 +107,24 @@
       "description": "Spannende Rätselspiele!"
     },
     {
-      "name": "Rennsport & Fahrspiele",
+      "name": "Rennsport- & Fahrspiele",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 9,
-      "description": "Spannende Rennsport & Fahrspiele!"
+      "description": "Spannende Rennsport- & Fahrspiele!"
     },
     {
-      "name": "3D-Spiele",
-      "path": "/c/3d-games",
+      "name": "Casual-Spiele",
+      "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 10,
-      "description": "Spannende 3D-Spiele!"
+      "description": "Spannende Casual-Spiele!"
     },
     {
       "name": "Sport-Spiele",
@@ -135,6 +135,16 @@
       "icon": "",
       "position": 11,
       "description": "Spannende Sport-Spiele!"
+    },
+    {
+      "name": "3D-Spiele",
+      "path": "/c/3d-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 12,
+      "description": "Spannende 3D-Spiele!"
     }
   ]
 }

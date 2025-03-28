@@ -28,7 +28,7 @@
   ],
   "categories": [
     {
-      "name": "เกมเด่น",
+      "name": "เกมเด่นๆ",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
@@ -77,24 +77,24 @@
       "description": "เกม Wordleverse ที่น่าตื่นเต้น!"
     },
     {
+      "name": "เกมทำอาหาร",
+      "path": "/c/cooking",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 6,
+      "description": "เกมทำอาหารที่น่าตื่นเต้น!"
+    },
+    {
       "name": "เกม .IO",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 6,
-      "description": "เกม .IO ที่น่าตื่นเต้น!"
-    },
-    {
-      "name": "เกมสบายๆ",
-      "path": "/c/casual-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "",
       "position": 7,
-      "description": "เกมสบายๆ ที่น่าตื่นเต้น!"
+      "description": "เกม .IO ที่น่าตื่นเต้น!"
     },
     {
       "name": "เกมปริศนา",
@@ -107,24 +107,24 @@
       "description": "เกมปริศนาที่น่าตื่นเต้น!"
     },
     {
-      "name": "เกมแข่งรถและขับขี่",
+      "name": "เกมแข่งรถและขับรถ",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 9,
-      "description": "เกมแข่งรถและขับขี่ที่น่าตื่นเต้น!"
+      "description": "เกมแข่งรถและขับรถที่น่าตื่นเต้น!"
     },
     {
-      "name": "เกม 3 มิติ",
-      "path": "/c/3d-games",
+      "name": "เกมสบายๆ",
+      "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 10,
-      "description": "เกม 3 มิติที่น่าตื่นเต้น!"
+      "description": "เกมสบายๆ ที่น่าตื่นเต้น!"
     },
     {
       "name": "เกมกีฬา",
@@ -135,6 +135,16 @@
       "icon": "",
       "position": 11,
       "description": "เกมกีฬาที่น่าตื่นเต้น!"
+    },
+    {
+      "name": "เกม 3 มิติ",
+      "path": "/c/3d-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 12,
+      "description": "เกม 3 มิติที่น่าตื่นเต้น!"
     }
   ]
 }

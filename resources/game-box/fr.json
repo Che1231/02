@@ -37,7 +37,7 @@
       "description": "Nous avons sélectionné les meilleurs jeux pour vous !"
     },
     {
-      "name": "Jeux Arcade",
+      "name": "Jeux d'arcade",
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
@@ -53,7 +53,7 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "vertical",
       "icon": "",
-      "description": "Des jeux d'action palpitants !",
+      "description": "Des jeux d'action passionnants !",
       "position": 3
     },
     {
@@ -77,24 +77,24 @@
       "description": "Des jeux Wordleverse passionnants !"
     },
     {
+      "name": "Cuisine",
+      "path": "/c/cooking",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 6,
+      "description": "Des jeux de cuisine passionnants !"
+    },
+    {
       "name": "Jeux .IO",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 6,
-      "description": "Des jeux .IO passionnants !"
-    },
-    {
-      "name": "Jeux décontractés",
-      "path": "/c/casual-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "",
       "position": 7,
-      "description": "Des jeux décontractés passionnants !"
+      "description": "Des jeux .IO passionnants !"
     },
     {
       "name": "Jeux de puzzle",
@@ -117,14 +117,14 @@
       "description": "Des jeux de course et de conduite passionnants !"
     },
     {
-      "name": "Jeux 3D",
-      "path": "/c/3d-games",
+      "name": "Jeux décontractés",
+      "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 10,
-      "description": "Des jeux 3D passionnants !"
+      "description": "Des jeux décontractés passionnants !"
     },
     {
       "name": "Jeux sportifs",
@@ -135,6 +135,16 @@
       "icon": "",
       "position": 11,
       "description": "Des jeux sportifs passionnants !"
+    },
+    {
+      "name": "Jeux 3D",
+      "path": "/c/3d-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 12,
+      "description": "Des jeux 3D passionnants !"
     }
   ]
 }

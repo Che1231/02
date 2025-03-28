@@ -77,24 +77,24 @@
       "description": "Exciting wordleverse games!"
     },
     {
+      "name": "Cooking",
+      "path": "/c/cooking",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 6,
+      "description": "Exciting cooking games!"
+    },
+    {
       "name": ".IO Games",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
-      "position": 6,
-      "description": "Exciting .IO  games!"
-    },
-    {
-      "name": "Casual Games",
-      "path": "/c/casual-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "",
       "position": 7,
-      "description": "Exciting casual games!"
+      "description": "Exciting .IO  games!"
     },
     {
       "name": "Puzzle Games",
@@ -117,14 +117,14 @@
       "description": "Exciting Racing & Driving games!"
     },
     {
-      "name": "3D Games",
-      "path": "/c/3d-games",
+      "name": "Casual Games",
+      "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 10,
-      "description": "Exciting 3D games!"
+      "description": "Exciting casual games!"
     },
     {
       "name": "Sports Games",
@@ -135,6 +135,16 @@
       "icon": "",
       "position": 11,
       "description": "Exciting sports games!"
+    },
+    {
+      "name": "3D Games",
+      "path": "/c/3d-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 12,
+      "description": "Exciting 3D games!"
     }
   ]
 }
