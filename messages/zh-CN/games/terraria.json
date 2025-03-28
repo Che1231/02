@@ -1,0 +1,77 @@
+{
+  "terraria": {
+    "title": "Terraria - 免费在线2D沙盒冒险游戏",
+    "slogan": "探索、建造、生存，在Terraria的2D世界中",
+    "description": "潜入Terraria，一款令人兴奋的2D沙盒游戏，融合了探索、建造、制作和战斗。体验单人和多人模式，在一个类似经典16位冒险游戏的世界上。从基本工具开始你的旅程，发现资源，并通过制作特殊物品来提升你的属性。Terraria将动作和创造力巧妙地结合在一起，绝对是冒险游戏爱好者的必玩之作。",
+    "Loading": {
+      "title": "正在加载Terraria..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "Terraria",
+      "description": "在Terraria中开启一段史诗般的2D沙盒冒险。探索广阔的世界，建造建筑物，制作物品，在这个充满动作的游戏中与敌人战斗。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Terraria",
+      "whatIsTitle": "什么是Terraria？",
+      "whatIsDescription": "Terraria是一款2D沙盒游戏，它在一个充满活力且身临其境的世界上结合了探索、建造、制作和战斗。",
+      "howToPlayTitle": "如何游戏？",
+      "howToPlayStep1": "从基本工具开始，并遵循NPC教程以学习游戏机制。",
+      "howToPlayStep2": "探索世界、收集资源并制作物品来提升你的能力。",
+      "howToPlayStep3": "与敌人作战并建造结构，创造你独特的世界。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "探索",
+      "feature1Description": "发现充满资源、敌人和秘密的广阔世界。",
+      "feature2Title": "建造",
+      "feature2Description": "创建和自定义结构，让世界成为你自己的。",
+      "feature3Title": "制作",
+      "feature3Description": "制作工具、武器和物品，以帮助你完成冒险。",
+      "feature4Title": "战斗",
+      "feature4Description": "与各种敌人和首领作战，以保护你的世界。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏列表"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "weaver-game": {
+    "title": "Trò chơi Weaver - Thử thách cầu thang từ vựng trực tuyến miễn phí",
+    "slogan": "Kết nối từ vựng, thách thức trí tuệ của bạn",
+    "description": "Trò chơi Weaver là một trò chơi từ vựng hấp dẫn, mang đến một thử thách thú vị. Trong trò chơi này, nhiệm vụ của bạn là tạo một cầu thang từ vựng bằng hai từ bắt đầu và kết thúc đã cho. Nếu bạn thích các trò chơi như Wordle hoặc Scrabble, Trò chơi Weaver là một lựa chọn thay thế tuyệt vời sẽ giúp bạn giải trí và thư giãn. Bắt đầu chơi ngay bây giờ và thử thách kỹ năng từ vựng của bạn!",
+    "Loading": {
+      "title": "Đang tải Trò chơi Weaver..."
+    },
+    "Navbar": {
+      "title": "Đọc"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước"
+    },
+    "HomeIframe": {
+      "title": "Trò chơi Weaver - Thử thách cầu thang từ vựng",
+      "description": "Trải nghiệm niềm vui của Trò chơi Weaver, một thử thách cầu thang từ vựng hấp dẫn. Kết nối từ vựng, thử thách vốn từ vựng của bạn và tận hưởng!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Màn hình toàn cảnh",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Trò chơi Weaver - Thử thách cầu thang từ vựng",
+      "whatIsTitle": "Trò chơi Weaver là gì?",
+      "whatIsDescription": "Trò chơi Weaver là một trò chơi từ vựng hấp dẫn, mang đến một thử thách thú vị. Trong trò chơi này, nhiệm vụ của bạn là tạo một cầu thang từ vựng bằng hai từ bắt đầu và kết thúc đã cho.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Bắt đầu với từ đã cho và thay đổi một chữ cái mỗi lần.",
+      "howToPlayStep2": "Mỗi từ mới phải là một từ tiếng Anh hợp lệ.",
+      "howToPlayStep3": "Tiếp tục cho đến khi bạn đạt đến từ mục tiêu.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Thử thách cầu thang từ vựng",
+      "feature1Description": "Kiểm tra kỹ năng từ vựng của bạn bằng cách tạo cầu thang từ vựng.",
+      "feature2Title": "Gameplay hấp dẫn",
+      "feature2Description": "Tận hưởng những giờ phút vui vẻ với trò chơi từ vựng hấp dẫn này.",
+      "feature3Title": "Luật chơi đơn giản",
+      "feature3Description": "Dễ dàng học nhưng khó chinh phục.",
+      "feature4Title": "Miễn phí chơi",
+      "feature4Description": "Bắt đầu chơi Trò chơi Weaver trực tuyến miễn phí."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

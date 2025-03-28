@@ -1,0 +1,77 @@
+{
+  "little-runmo": {
+    "title": "Little Runmo: Aventura de Plataformas Retro",
+    "slogan": "¡Embárcate en una emocionante aventura retro con Little Runmo!",
+    "description": "Sumérgete en el colorido mundo de píxeles de Little Runmo, un juego de plataformas de estilo retro que ofrece emocionantes desafíos y acción rápida. Controla a Runmo, una pequeña criatura valiente, mientras te mueves por laberintos intrincados, recoges diamantes y rescatas a amigos en peligro. Con su gráfica retro y niveles llenos de adrenalina, Little Runmo es un viaje que conmemora la era dorada de los juegos. Perfecto para todas las edades, este juego promete diversión y emoción sin fin. ¡Juega a Little Runmo ahora y experimenta la aventura!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Términos de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Little Runmo: Aventura de Plataformas Retro",
+      "description": "¡Embárcate en una emocionante aventura retro con Little Runmo! Navega por laberintos intrincados, recolecta diamantes y rescata a tus amigos en peligro. ¡Juega ahora!",
+      "iframeTitle": "Vista Previa del Juego",
+      "fullscreenButton": "Pantalla Completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar Juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Little Runmo: Aventura de Plataformas Retro",
+      "whatIsTitle": "¿Qué es Little Runmo?",
+      "whatIsDescription": "Little Runmo es un juego de plataformas de estilo retro donde controlas a Runmo, una pequeña criatura valiente, mientras navegas por laberintos intrincados, recoges diamantes y rescatas a tus amigos en peligro.",
+      "howToPlayTitle": "¿Cómo Jugar?",
+      "howToPlayStep1": "Usa la flecha ARRIBA para saltar.",
+      "howToPlayStep2": "Usa las flechas IZQUIERDA y DERECHA para moverte.",
+      "howToPlayStep3": "Recoge diamantes y rescata a tus amigos para completar cada nivel.",
+      "keyFeaturesTitle": "Características Clave",
+      "feature1Title": "Arte Píxel Retro",
+      "feature1Description": "Experimenta el encanto del arte píxel retro.",
+      "feature2Title": "Niveles Desafíanates",
+      "feature2Description": "Navega por laberintos intrincados y supera los obstáculos.",
+      "feature3Title": "Acción Llena de Adrenalina",
+      "feature3Description": "Disfruta de una jugabilidad rápida con emocionantes desafíos.",
+      "feature4Title": "Diversión para Todas las Edades",
+      "feature4Description": "Perfecto para jugadores de todas las edades, desde principiantes hasta jugadores experimentados."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas Frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del Juego"
+    },
+    "GamePage": {
+      "title": "Todos los Juegos",
+      "description": "Todos los Juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver Más",
+      "page": "Página"
+    }
+  }
+}

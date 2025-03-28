@@ -1,0 +1,77 @@
+{
+  "weaver-game": {
+    "title": "編織遊戲 - 免費線上字梯挑戰",
+    "slogan": "連接詞彙，挑戰你的思維",
+    "description": "編織遊戲是一款引人入勝的字遊戲，提供令人興奮的挑戰。在這個遊戲中，你的任務是使用兩個給定的起始詞和結束詞，創造一個字梯。如果你喜歡像 Wordle 或 Scrabble 這樣的遊戲，那麼編織遊戲是一個絕佳的替代方案，它將讓你保持投入和娛樂。現在開始遊戲，測試你的詞彙量！",
+    "Loading": {
+      "title": "正在載入編織遊戲..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "編織遊戲 - 字梯挑戰",
+      "description": "體驗編織遊戲的刺激，一個引人入勝的字梯挑戰。連接詞彙，測試你的詞彙量，享受樂趣！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "編織遊戲 - 字梯挑戰",
+      "whatIsTitle": "什麼是編織遊戲？",
+      "whatIsDescription": "編織遊戲是一款引人入勝的字遊戲，提供令人興奮的挑戰。在這個遊戲中，你的任務是使用兩個給定的起始詞和結束詞，創造一個字梯。",
+      "howToPlayTitle": "如何玩遊戲",
+      "howToPlayStep1": "從給定的詞開始，一次更改一個字母。",
+      "howToPlayStep2": "每個新詞都必須是有效的英文單詞。",
+      "howToPlayStep3": "繼續，直到你到達目標詞。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "字梯挑戰",
+      "feature1Description": "通過創建字梯來測試你的詞彙量。",
+      "feature2Title": "引人入勝的遊戲體驗",
+      "feature2Description": "享受此引人入勝的字遊戲帶來的數小時樂趣。",
+      "feature3Title": "簡單的規則",
+      "feature3Description": "易於學習，但難於精通。",
+      "feature4Title": "免費遊戲",
+      "feature4Description": "開始免費線上玩編織遊戲。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到任何類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

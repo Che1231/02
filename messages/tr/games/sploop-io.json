@@ -1,0 +1,77 @@
+{
+  "sploop-io": {
+    "title": "Sploop.io İnternet üzerinden Oyna - İnşa Et, Üret ve Fethet",
+    "slogan": "Sploop.io'da İnşa Et, Üret ve Fethet",
+    "description": "Sploop.io, köy inşa etme, zanaat yapma ve yoğun PvP oyunlarını birleştiren olağanüstü bir oyundur. PvP yönü kolay anlaşılırken, önemli beceri gerektirir ve heyecan verici bir deneyim yaratır. En üst sıraya ulaşın ve ustalığınızı kanıtlayın. Oyun dünyasında bulunan düşman oyuncular ve çeşitli hayvanları stratejik olarak alt etmek için arkadaşlarınızla takım kurmayı düşünün.",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinme"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Zamanı",
+      "guide": "kılavuz",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Sploop.io",
+      "description": "Sploop.io'da köy kurma, zanaat yapma ve yoğun PvP oyunlarının heyecanını yaşayın. Şimdi katılın ve maceranıza başlayın!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sploop.io",
+      "whatIsTitle": "Sploop.io Nedir?",
+      "whatIsDescription": "Sploop.io, köy kurma, zanaat yapma ve yoğun PvP oyunlarını birleştiren bir oyundur. Strateji ve eylemin eşsiz bir karışımını sunar.",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Köyünüzü inşa edin ve kaynakları toplayın.",
+      "howToPlayStep2": "Kendinizi savunmak için araç ve silahlar üretin.",
+      "howToPlayStep3": "PvP savaşlarına katılın ve düşmanlarınızı fethedin.",
+      "keyFeaturesTitle": "Ana Özellikler",
+      "feature1Title": "Köy İnşaatı",
+      "feature1Description": "Kaynakları toplamak ve savunmalar inşa etmek için köyünüzü oluşturun ve genişletin.",
+      "feature2Title": "Zanaat Yapımı",
+      "feature2Description": "Oyun deneyiminizi geliştirmek için araçlar, silahlar ve diğer eşyaları üretin.",
+      "feature3Title": "Yoğun PvP",
+      "feature3Description": "Becerinizi kanıtlamak ve düşmanlarınızı fethetmek için heyecan verici PvP savaşlarına katılın.",
+      "feature4Title": "Takım Oynanışı",
+      "feature4Description": "Düşmanları ve hayvanları stratejik olarak yenmek için arkadaşlarınızla takım kurun."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiye Eder"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

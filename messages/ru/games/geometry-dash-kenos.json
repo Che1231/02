@@ -1,0 +1,77 @@
+{
+  "geometry-dash-kenos": {
+    "title": "Geometry Dash Kenos – Экстремальный демон Mega-Collab",
+    "slogan": "Вызов экстремальному демону",
+    "description": "Geometry Dash Kenos – это чрезвычайно сложный уровень, так называемый экстремальный демон Mega-Collab. С рейтингом 10 звезд он представляет собой захватывающий вызов для опытных игроков. Kenos фактически является переработанной и более крупной версией Sakupen Hell. Ощутите интенсивность и точность, необходимые для победы в этом уровне. Сыграйте в Geometry Dash Kenos прямо сейчас и проверьте свои навыки!",
+    "Loading": {
+      "title": "Загрузка..."
+    },
+    "Navbar": {
+      "title": "Навигация"
+    },
+    "Common": {
+      "createAt": "Создано в",
+      "guide": "Руководство",
+      "privacyPolicy": "Политика конфиденциальности",
+      "termsOfServices": "Условия обслуживания",
+      "text": "Содержание",
+      "help": "Помощь",
+      "friendlyLinks": "Полезные ссылки",
+      "articleList": "Список статей",
+      "home": "Главная",
+      "next": "Далее",
+      "previous": "Предыдущий"
+    },
+    "HomeIframe": {
+      "title": "Geometry Dash Kenos",
+      "description": "Geometry Dash Kenos – это экстремальный демон Mega-Collab с рейтингом 10 звезд. Переработанная и увеличенная версия Sakupen Hell, она предоставляет вызов для продвинутых игроков.",
+      "iframeTitle": "Предварительный просмотр игры",
+      "fullscreenButton": "Полноэкранный режим",
+      "shareButton": "Поделиться",
+      "urlCopied": "URL скопирован в буфер обмена!",
+      "downloadGame": "Загрузить игру",
+      "playGame": "Играть"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Geometry Dash Kenos",
+      "whatIsTitle": "Что такое Geometry Dash Kenos?",
+      "whatIsDescription": "Geometry Dash Kenos – это чрезвычайно сложный уровень, так называемый экстремальный демон Mega-Collab. Он имеет рейтинг 10 звезд и является переработанной и более крупной версией Sakupen Hell.",
+      "howToPlayTitle": "Как играть",
+      "howToPlayStep1": "Перемещайтесь по уровню с точным соблюдением времени.",
+      "howToPlayStep2": "Избегайте препятствий и ловушек, чтобы остаться в живых.",
+      "howToPlayStep3": "Завершите уровень, чтобы открыть новые вызовы.",
+      "keyFeaturesTitle": "Ключевые особенности",
+      "feature1Title": "Экстремальная сложность",
+      "feature1Description": "Geometry Dash Kenos – один из самых сложных уровней в игре.",
+      "feature2Title": "Mega-Collab",
+      "feature2Description": "Созданный командой талантливых дизайнеров, Kenos предлагает уникальный опыт.",
+      "feature3Title": "Рейтинг 10 звезд",
+      "feature3Description": "Этот уровень имеет рейтинг 10 звезд за свою сложность и трудность.",
+      "feature4Title": "Переработанная версия",
+      "feature4Description": "Kenos – это переработанная и более крупная версия классического Sakupen Hell."
+    },
+    "HomeFAQs": {
+      "title": "Часто задаваемые вопросы"
+    },
+    "HomeRelatedVideo": {
+      "title": "Видео игры"
+    },
+    "HomeRecommendation": {
+      "title": "Рекомендации"
+    },
+    "HomeComments": {
+      "title": "Комментарии к игре"
+    },
+    "GamePage": {
+      "title": "Все игры",
+      "description": "Все игры",
+      "games": "Игры"
+    },
+    "CategoryPage": {
+      "categories": "Категории",
+      "noCategories": "Категории не найдены",
+      "viewMore": "Подробнее",
+      "page": "Страница"
+    }
+  }
+}

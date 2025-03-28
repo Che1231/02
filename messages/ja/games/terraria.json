@@ -1,0 +1,77 @@
+{
+  "terraria": {
+    "title": "テラリア - 無料のオンライン2Dサンドボックスアドベンチャーゲーム",
+    "slogan": "テラリアの2D世界を探検、構築、生存",
+    "description": "探検、構築、クラフト、戦闘を融合させたスリリングな2Dサンドボックスゲーム、テラリアに没頭してください。 クラシックな16ビットアドベンチャーを彷彿とさせる世界で、シングルプレイヤーとマルチプレイヤーの両方のモードを体験してください。 基本的なツールで冒険を始め、資源を発見し、特別なアイテムをクラフトすることであなたのステータスを強化してください。 テラリアは、冒険ゲームのファンにとって必見の、アクションと創造性の絶妙な融合です。",
+    "Loading": {
+      "title": "テラリアを読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "テラリア",
+      "description": "テラリアで壮大な2Dサンドボックスアドベンチャーに乗り出しましょう。広大な世界を探検し、構造物を建設し、アイテムをクラフトし、このアクション満点のゲームで敵と戦いましょう。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "テラリア",
+      "whatIsTitle": "テラリアとは？",
+      "whatIsDescription": "テラリアは、ダイナミックで没入型の世界で、探検、構築、クラフト、戦闘を組み合わせた2Dサンドボックスゲームです。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "基本的なツールから始めて、NPCのチュートリアルに従ってゲームのメカニズムを学びましょう。",
+      "howToPlayStep2": "世界を探検し、資源を集め、あなたの能力を強化するためにアイテムをクラフトしましょう。",
+      "howToPlayStep3": "敵と戦い、あなた独自の特別な世界を作るために構造物を構築しましょう。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "探検",
+      "feature1Description": "資源、敵、秘密に満ちた広大な世界を発見しましょう。",
+      "feature2Title": "構築",
+      "feature2Description": "世界を自分のものにするために、構造物を作成しカスタマイズしましょう。",
+      "feature3Title": "クラフト",
+      "feature3Description": "冒険を支援するために、ツール、武器、アイテムをクラフトしましょう。",
+      "feature4Title": "戦闘",
+      "feature4Description": "あなたの世界を守るために、さまざまな敵とボスと戦いましょう。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

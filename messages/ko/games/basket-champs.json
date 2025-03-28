@@ -1,0 +1,77 @@
+{
+  "basket-champs": {
+    "title": "바스켓 챔피언: 농구 슛팅 & 세계 도전",
+    "slogan": "기술을 마스터하고, 토너먼트에 참여하고, 어떻게 상위권에 드는지 확인하세요!",
+    "description": "바스켓 챔피언은 최고의 농구 도전입니다. 숨막히는 경기에서 경쟁하고, 세계 챔피언십 토너먼트에서 기술을 증명하세요. 국가 대표팀을 선택하고, 다섯 번의 슛팅으로 상대보다 많은 점수를 얻으려고 노력하세요. 방향과 힘을 정확하게 조정하여 최고의 슛팅을 하세요. 확실한 승리로 라운드를 진행하고 챔피언십을 정복하세요!",
+    "Loading": {
+      "title": "불러오는 중..."
+    },
+    "Navbar": {
+      "title": "탐색 메뉴"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "유용한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "바스켓 챔피언: 농구 슛팅 & 세계 도전",
+      "description": "바스켓 챔피언은 최고의 농구 도전입니다. 숨막히는 경기에서 경쟁하고, 세계 챔피언십 토너먼트에서 기술을 증명하세요. 국가 대표팀을 선택하고, 다섯 번의 슛팅으로 상대보다 많은 점수를 얻으려고 노력하세요. 방향과 힘을 정확하게 조정하여 최고의 슛팅을 하세요. 확실한 승리로 라운드를 진행하고 챔피언십을 정복하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "바스켓 챔피언: 농구 슛팅 & 세계 도전",
+      "whatIsTitle": "바스켓 챔피언이란 무엇인가요?",
+      "whatIsDescription": "바스켓 챔피언은 기술을 마스터하고, 토너먼트에 참여하고, 다른 플레이어와 경쟁하는 흥미진진한 농구 게임입니다. 숨막히는 경기에서 실력을 과시하고 챔피언십을 노려보세요!",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "화면에 점선으로 공의 던짐 방향을 추적합니다.",
+      "howToPlayStep2": "공의 위치와 바스켓의 특성(움직이는지 여부)을 분석합니다.",
+      "howToPlayStep3": "마우스를 움직여 던짐의 방향과 힘을 조절한 후 클릭하여 차례를 진행합니다.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "팀 선택",
+      "feature1Description": "시즌 내내 대표할 국가 팀을 선택합니다.",
+      "feature2Title": "정확한 슛팅",
+      "feature2Description": "방향과 힘을 정확하게 조절하여 최고의 슛팅을 합니다.",
+      "feature3Title": "라운드 진행",
+      "feature3Description": "확실한 승리로 더 강력한 상대와의 다음 라운드로 진행합니다.",
+      "feature4Title": "세계 챔피언십",
+      "feature4Description": "세계 챔피언십 토너먼트에서 경쟁하고 실력을 증명하세요!"
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 코멘트"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "weaver-game": {
+    "title": "Gioco Weaver - Sfida Online Gratuita di Scala di Parole",
+    "slogan": "Collega le Parole, Metti alla Prova la Tua Mente",
+    "description": "Gioco Weaver è un avvincente gioco di parole che offre una sfida emozionante. In questo gioco, il tuo compito è creare una scala di parole utilizzando due parole di partenza e di arrivo date. Se ti piacciono giochi come Wordle o Scrabble, Gioco Weaver è un'eccellente alternativa che ti terrà impegnato e divertito. Inizia a giocare ora e metti alla prova le tue capacità lessicali!",
+    "Loading": {
+      "title": "Caricamento Gioco Weaver…"
+    },
+    "Navbar": {
+      "title": "Navigazione"
+    },
+    "Common": {
+      "createAt": "Creato il",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla Privacy",
+      "termsOfServices": "Termini di Servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Collegamenti Utili",
+      "articleList": "Lista Articoli",
+      "home": "Home",
+      "next": "Successivo",
+      "previous": "Precedente"
+    },
+    "HomeIframe": {
+      "title": "Gioco Weaver - Sfida di Scala di Parole",
+      "description": "Vivi l'emozione di Gioco Weaver, una avvincente sfida di scala di parole. Collega le parole, metti alla prova il tuo vocabolario e divertiti!",
+      "iframeTitle": "Anteprima del Gioco",
+      "fullscreenButton": "Schermo intero",
+      "shareButton": "Condividi",
+      "urlCopied": "URL copiato negli appunti!",
+      "downloadGame": "Scarica il Gioco",
+      "playGame": "Gioca"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Gioco Weaver - Sfida di Scala di Parole",
+      "whatIsTitle": "Cos'è Gioco Weaver?",
+      "whatIsDescription": "Gioco Weaver è un avvincente gioco di parole che offre una sfida emozionante. In questo gioco, il tuo compito è creare una scala di parole utilizzando due parole di partenza e di arrivo date.",
+      "howToPlayTitle": "Come Giocare",
+      "howToPlayStep1": "Inizia con la parola data e cambia una lettera alla volta.",
+      "howToPlayStep2": "Ogni nuova parola deve essere una parola inglese valida.",
+      "howToPlayStep3": "Continua finché non raggiungi la parola di destinazione.",
+      "keyFeaturesTitle": "Caratteristiche Principali",
+      "feature1Title": "Sfida della Scala di Parole",
+      "feature1Description": "Metti alla prova le tue capacità lessicali creando scale di parole.",
+      "feature2Title": "Gameplay Avvincente",
+      "feature2Description": "Goditi ore di divertimento con questo avvincente gioco di parole.",
+      "feature3Title": "Regole Semplici",
+      "feature3Description": "Facile da imparare ma difficile da padroneggiare.",
+      "feature4Title": "Gioco Gratuito",
+      "feature4Description": "Inizia a giocare a Gioco Weaver online gratuitamente."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Raccomandati"
+    },
+    "HomeComments": {
+      "title": "Commenti sul Gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i Giochi",
+      "description": "Tutti i Giochi",
+      "games": "Giochi"
+    },
+    "CategoryPage": {
+      "categories": "Categorie",
+      "noCategories": "Nessuna categoria trovata",
+      "viewMore": "Visualizza di Più",
+      "page": "Pagina"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "word-wipe": {
+    "title": "字母消除 - 免费在线拼图游戏",
+    "slogan": "连接字母，组成单词，清除网格！",
+    "description": "字母消除是一款节奏快且充满乐趣的拼图游戏，您需要连接字母来组成单词。其简单而具挑战性的游戏玩法非常适合文字游戏爱好者。免费在线玩字母消除，享受任何方向创造单词的乐趣。现在开始您的文字冒险！",
+    "Loading": {
+      "title": "正在加载字母消除..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一步",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "字母消除 - 免费在线拼图游戏",
+      "description": "字母消除是一款节奏快且充满乐趣的拼图游戏，您需要连接字母来组成单词。其简单而具挑战性的游戏玩法非常适合文字游戏爱好者。免费在线玩字母消除，享受任何方向创造单词的乐趣。现在开始您的文字冒险！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "字母消除 - 免费在线拼图游戏",
+      "whatIsTitle": "什么是字母消除？",
+      "whatIsDescription": "字母消除是一款快速且有趣的拼图游戏，其核心玩法是将单个字母的方块连接成线，组成单词。字母可以从任何方向连接。一旦组成单词，字母就会从网格中消失。",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "开始玩字母消除，寻找面板上的单词。",
+      "howToPlayStep2": "选择单词的单个字母，以移除这些方块。",
+      "howToPlayStep3": "上面的字母会取代消失的方块。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "快速有趣",
+      "feature1Description": "字母消除提供节奏快的游戏体验，让您玩得开心。",
+      "feature2Title": "灵活的单词构成",
+      "feature2Description": "利用网格上的可用字母，从任何方向组成单词。",
+      "feature3Title": "具有挑战性的关卡",
+      "feature3Description": "每个关卡都有时间限制，增加了挑战性和刺激性。",
+      "feature4Title": "特殊的字母组合",
+      "feature4Description": "随着字母的消失，新的组合出现，创造出独特的机遇。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐游戏"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "geometry-dash-kenos": {
+    "title": "ジオメトリダッシュケノス - エクストリームデーモンメガコラボ",
+    "slogan": "極限デーモンに挑戦",
+    "description": "ジオメトリダッシュケノスは、エクストリームデーモンメガコラボと呼ばれる非常に難しいレベルです。星10の評価で、熟練したプレイヤーにスリリングな挑戦を提供します。ケノスは、実際、サクーペンヘルのリメイクで、より大きなバージョンです。このレベルを攻略するために必要な集中力と正確さを体験してください。今すぐジオメトリダッシュケノスをプレイして、あなたのスキルをテストしてください！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "ジオメトリダッシュケノス",
+      "description": "ジオメトリダッシュケノスは、星10の評価を持つエクストリームデーモンメガコラボです。サクーペンヘルのリメイクでより大きなバージョンであり、上級プレイヤーに挑戦的な体験を提供します。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ジオメトリダッシュケノス",
+      "whatIsTitle": "ジオメトリダッシュケノスとは？",
+      "whatIsDescription": "ジオメトリダッシュケノスは、エクストリームデーモンメガコラボと呼ばれる非常に難しいレベルです。星10の評価があり、サクーペンヘルのリメイクでより大きなバージョンです。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "正確なタイミングでレベルを進みます。",
+      "howToPlayStep2": "障害物や罠を避け、生き残ります。",
+      "howToPlayStep3": "レベルをクリアして、新しい挑戦をアンロックします。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "極限の難易度",
+      "feature1Description": "ジオメトリダッシュケノスは、ゲームの中で最も難しいレベルの1つです。",
+      "feature2Title": "メガコラボ",
+      "feature2Description": "才能あるデザイナーのチームによって製作されたケノスは、独自の体験を提供します。",
+      "feature3Title": "星10の評価",
+      "feature3Description": "このレベルは、その複雑さと難易度により、星10の評価を受けています。",
+      "feature4Title": "リメイク版",
+      "feature4Description": "ケノスは、クラシックなサクーペンヘルのリメイクで、より大きなバージョンです。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

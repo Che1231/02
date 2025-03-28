@@ -1,0 +1,77 @@
+{
+  "basket-champs": {
+    "title": "バスケット・チャンプ：世界に挑戦するシューティングゲーム",
+    "slogan": "スキルをマスターし、トーナメントで対戦し、あなたの能力を試してみてください！",
+    "description": "究極のバスケットボールチャレンジ、バスケット・チャンプ。息を呑む試合に臨み、世界選手権大会であなたのスキルを証明してください。まず、代表する国を選択し、5回のシュートで対戦相手に勝る得点を目指しましょう。方向と力を正確に調整して、最高のシュートを決めましょう。見事な勝利でラウンドを進み、チャンピオンを征服しましょう！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "バスケット・チャンプ：世界に挑戦するシューティングゲーム",
+      "description": "究極のバスケットボールチャレンジ、バスケット・チャンプ。息を呑む試合に臨み、世界選手権大会であなたのスキルを証明してください。まず、代表する国を選択し、5回のシュートで対戦相手に勝る得点を目指しましょう。方向と力を正確に調整して、最高のシュートを決めましょう。見事な勝利でラウンドを進み、チャンピオンを征服しましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "バスケット・チャンプ：世界に挑戦するシューティングゲーム",
+      "whatIsTitle": "バスケット・チャンプとは？",
+      "whatIsDescription": "バスケット・チャンプは、スキルをマスターし、トーナメントで対戦し、他のプレイヤーと競い合う、スリリングなバスケットボールゲームです。息を呑む試合であなたの腕前を証明し、チャンピオンを目指しましょう！",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "画面上に点線でボールの投げる方向を追跡します。",
+      "howToPlayStep2": "ボールの位置とバスケットの性質（動くか否か）を分析します。",
+      "howToPlayStep3": "マウスを動かし、投げる方向と力を調整し、クリックしてあなたのターンを実行します。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "チームを選択",
+      "feature1Description": "シーズンを通して代表する国のチームを選択します。",
+      "feature2Title": "正確なシュート",
+      "feature2Description": "方向と力を正確に合わせ、最高のシュートを決めて得点をあげましょう。",
+      "feature3Title": "ラウンドを進める",
+      "feature3Description": "見事な勝利で、より強力な対戦相手と次のラウンドに進みます。",
+      "feature4Title": "世界選手権",
+      "feature4Description": "世界選手権大会で競い、あなたのスキルを証明しましょう！"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめゲーム"
+    },
+    "HomeComments": {
+      "title": "ゲームコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム一覧"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "little-runmo": {
+    "title": "Little Runmo: Retro-Stil-Plattformer-Abenteuer",
+    "slogan": "Begeben Sie sich auf ein aufregendes Retro-Abenteuer mit Little Runmo!",
+    "description": "Tauchen Sie ein in die farbenfrohe Pixel-Art-Welt von Little Runmo, einem Plattformer im Retro-Stil, der spannende Herausforderungen und rasante Action bietet. Steuern Sie Runmo, ein mutiges kleines Wesen, während Sie sich durch komplizierte Labyrinthe navigieren, Diamanten sammeln und gefährdete Freunde retten. Mit seinen Retro-Grafiken und adrenalingeladenen Levels ist Little Runmo eine Reise, die die goldene Ära der Spiele feiert. Perfekt für alle Altersgruppen, verspricht dieses Spiel endlosen Spaß und Spannung. Spielen Sie Little Runmo jetzt und erleben Sie das Abenteuer!",
+    "Loading": {
+      "title": "Wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Little Runmo: Retro-Stil-Plattformer-Abenteuer",
+      "description": "Begeben Sie sich auf ein spannendes Retro-Abenteuer mit Little Runmo! Navigieren Sie durch komplexe Labyrinthe, sammeln Sie Diamanten und retten Sie gefährdete Freunde. Spielen Sie jetzt!",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Little Runmo: Retro-Stil-Plattformer-Abenteuer",
+      "whatIsTitle": "Was ist Little Runmo?",
+      "whatIsDescription": "Little Runmo ist ein Plattformer im Retro-Stil, in dem Sie Runmo, ein mutiges kleines Wesen, steuern, um sich durch komplexe Labyrinthe zu navigieren, Diamanten zu sammeln und gefährdete Freunde zu retten.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Zum Springen die UP-Taste verwenden.",
+      "howToPlayStep2": "Mit den Tasten LINKS und RECHTS bewegen.",
+      "howToPlayStep3": "Sammeln Sie Diamanten und retten Sie Freunde, um jedes Level abzuschließen.",
+      "keyFeaturesTitle": "Wichtige Merkmale",
+      "feature1Title": "Retro-Pixel-Grafiken",
+      "feature1Description": "Erleben Sie den Charme von Retro-Pixel-Grafiken.",
+      "feature2Title": "Herausfordernde Level",
+      "feature2Description": "Navigieren Sie durch komplexe Labyrinth-Ebenen und überwinden Sie Hindernisse.",
+      "feature3Title": "Adrenalingeladene Action",
+      "feature3Description": "Genießen Sie rasante Gameplay mit aufregenden Herausforderungen.",
+      "feature4Title": "Spaß für alle Altersklassen",
+      "feature4Description": "Perfekt für Spieler jeden Alters, von Anfängern bis zu erfahrenen Spielern."
+    },
+    "HomeFAQs": {
+      "title": "Häufig gestellte Fragen"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spiel Kommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

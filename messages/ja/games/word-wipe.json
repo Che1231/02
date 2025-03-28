@@ -1,0 +1,77 @@
+{
+  "word-wipe": {
+    "title": "Word Wipe - オンラインパズルゲーム無料",
+    "slogan": "文字をつなぎ、単語を作り、グリッドを消しましょう！",
+    "description": "Word Wipeは、文字をつなげて単語を作る、ペースの速く楽しくて魅力的なパズルゲームです。シンプルでありながら挑戦的なゲームプレイで、単語ゲーム愛好家にとって最適です。Word Wipeをオンラインで無料でプレイし、あらゆる方向で単語を作る喜びを体験してください。今すぐあなたの単語冒険を始めましょう！",
+    "Loading": {
+      "title": "Word Wipeを読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "Word Wipe - オンラインパズルゲーム無料",
+      "description": "Word Wipeは、文字をつなげて単語を作る、ペースの速く楽しくて魅力的なパズルゲームです。シンプルでありながら挑戦的なゲームプレイで、単語ゲーム愛好家にとって最適です。Word Wipeをオンラインで無料でプレイし、あらゆる方向で単語を作る喜びを体験してください。今すぐあなたの単語冒険を始めましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "フルスクリーン",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Word Wipe - オンラインパズルゲーム無料",
+      "whatIsTitle": "Word Wipeとは？",
+      "whatIsDescription": "Word Wipeは、個々の文字のタイルをつなげて単語を作るシンプルで楽しいパズルゲームです。文字は、グリッド上のあらゆる方向から使用できます。文字をつなげて単語を作ると、その文字はグリッドから消えます。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "Word Wipeをプレイするには、ボード上の単語を探します。",
+      "howToPlayStep2": "タイルを取り除くには、単語の個々の文字を選択します。",
+      "howToPlayStep3": "文字が消えると、その上の文字がタイルの代わりに配置されます。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "速くて楽しい",
+      "feature1Description": "Word Wipeは、あなたを楽しませ続ける速いゲームプレイを提供します。",
+      "feature2Title": "柔軟な単語作成",
+      "feature2Description": "グリッド上の利用可能な文字を使って、あらゆる方向に単語を作ることができます。",
+      "feature3Title": "挑戦的なレベル",
+      "feature3Description": "各レベルには時間制限があり、挑戦と興奮が加わります。",
+      "feature4Title": "特別な文字の組み合わせ",
+      "feature4Description": "文字が消えるにつれ、新しい組み合わせが現れ、ユニークな機会が生まれます。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "ゲーム一覧",
+      "description": "ゲーム一覧",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

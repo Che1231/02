@@ -1,0 +1,77 @@
+{
+  "sploop-io": {
+    "title": "Chơi Sploop.io Trực tuyến - Xây dựng, Sáng tạo và Chiến thắng",
+    "slogan": "Xây dựng, Sáng tạo và Chiến thắng trong Sploop.io",
+    "description": "Sploop.io là một trò chơi xuất sắc kết hợp xây dựng làng mạc, chế tạo và lối chơi PvP gay cấn. Mặc dù khía cạnh PvP dễ hiểu, nhưng nó đòi hỏi kỹ năng đáng kể và tạo ra trải nghiệm phấn khích. Đạt được vị trí hàng đầu và chứng minh sự thành thạo của bạn. Hãy cân nhắc thành lập đội nhóm với bạn bè để chiến lược đánh bại cả người chơi đối thủ và các loài vật khác nhau rải rác khắp thế giới trò chơi.",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu nghị",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Sploop.io",
+      "description": "Trải nghiệm cảm giác phấn khích khi xây dựng làng mạc, chế tạo và lối chơi PvP gay cấn trong Sploop.io. Tham gia ngay và bắt đầu cuộc phiêu lưu của bạn!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải game",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sploop.io",
+      "whatIsTitle": "Sploop.io là gì?",
+      "whatIsDescription": "Sploop.io là một trò chơi kết hợp xây dựng làng mạc, chế tạo và lối chơi PvP gay cấn. Nó cung cấp sự kết hợp độc đáo giữa chiến lược và hành động.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Xây dựng làng mạc của bạn và thu thập tài nguyên.",
+      "howToPlayStep2": "Chế tạo công cụ và vũ khí để tự vệ.",
+      "howToPlayStep3": "Tham gia các trận chiến PvP và chinh phục kẻ thù của bạn.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Xây dựng làng mạc",
+      "feature1Description": "Tạo và mở rộng làng mạc của bạn để thu thập tài nguyên và xây dựng phòng thủ.",
+      "feature2Title": "Chế tạo",
+      "feature2Description": "Chế tạo công cụ, vũ khí và các vật phẩm khác để nâng cao lối chơi của bạn.",
+      "feature3Title": "PvP gay cấn",
+      "feature3Description": "Tham gia các trận chiến PvP hồi hộp để chứng minh kỹ năng của bạn và chinh phục kẻ thù của bạn.",
+      "feature4Title": "Chơi theo nhóm",
+      "feature4Description": "Thành lập đội nhóm với bạn bè để chiến lược đánh bại kẻ thù và các sinh vật."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

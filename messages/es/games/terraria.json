@@ -1,0 +1,77 @@
+{
+  "terraria": {
+    "title": "Terraria - Juego de Aventura de Sandbox 2D Online Gratuito",
+    "slogan": "Explora, Construye, Sobrevive en el Mundo 2D de Terraria",
+    "description": "Sumérgete en Terraria, un emocionante juego de sandbox 2D que mezcla exploración, construcción, elaboración y combate. Experimenta tanto modos de un solo jugador como multijugador en un mundo que evoca las clásicas aventuras de 16 bits. Comienza tu viaje con herramientas básicas, descubre recursos y mejora tus estadísticas elaborando objetos especializados. Terraria ofrece una combinación única de acción y creatividad, convirtiéndolo en una experiencia obligada para los aficionados a los juegos de aventura.",
+    "Loading": {
+      "title": "Cargando Terraria..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Términos de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Terraria",
+      "description": "Embárcate en una épica aventura de sandbox 2D con Terraria. Explora vastos mundos, construye estructuras, elabora objetos y lucha contra enemigos en este juego lleno de acción.",
+      "iframeTitle": "Vista Previa del Juego",
+      "fullscreenButton": "Pantalla Completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar Juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Terraria",
+      "whatIsTitle": "¿Qué es Terraria?",
+      "whatIsDescription": "Terraria es un juego de sandbox 2D que combina exploración, construcción, elaboración y combate en un mundo dinámico e inmersivo.",
+      "howToPlayTitle": "Cómo Jugar",
+      "howToPlayStep1": "Comienza con herramientas básicas y sigue el tutorial del PNJ para aprender la mecánica del juego.",
+      "howToPlayStep2": "Explora el mundo, reúne recursos y elabora objetos para mejorar tus habilidades.",
+      "howToPlayStep3": "Enfréntate a enemigos y construye estructuras para crear tu propio mundo único.",
+      "keyFeaturesTitle": "Características Clave",
+      "feature1Title": "Exploración",
+      "feature1Description": "Descubre vastos mundos llenos de recursos, enemigos y secretos.",
+      "feature2Title": "Construcción",
+      "feature2Description": "Crea y personaliza estructuras para hacer del mundo tu propio reino.",
+      "feature3Title": "Elaboración",
+      "feature3Description": "Elabora herramientas, armas y objetos que te ayuden en tu aventura.",
+      "feature4Title": "Combate",
+      "feature4Description": "Enfréntate a una variedad de enemigos y jefes para proteger tu mundo."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas Frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del Juego"
+    },
+    "GamePage": {
+      "title": "Todos los Juegos",
+      "description": "Todos los Juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver Más",
+      "page": "Página"
+    }
+  }
+}

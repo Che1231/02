@@ -1,0 +1,77 @@
+{
+  "weaver-game": {
+    "title": "Weaver Game - Desafio de Escada de Palavras Online Grátis",
+    "slogan": "Conecte Palavras, Desafie Sua Mente",
+    "description": "Weaver Game é um jogo de palavras cativante que oferece um desafio emocionante. Neste jogo, sua tarefa é criar uma escada de palavras usando duas palavras iniciais e finais. Se você gosta de jogos como Wordle ou Scrabble, Weaver Game é uma excelente alternativa que o manterá engajado e entretido. Comece a jogar agora e teste suas habilidades de vocabulário!",
+    "Loading": {
+      "title": "Carregando Weaver Game..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado Em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Úteis",
+      "articleList": "Lista de Artigos",
+      "home": "Início",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Weaver Game - Desafio de Escada de Palavras",
+      "description": "Experimente a emoção do Weaver Game, um cativante desafio de escada de palavras. Conecte palavras, teste seu vocabulário e divirta-se!",
+      "iframeTitle": "Prévia do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Weaver Game - Desafio de Escada de Palavras",
+      "whatIsTitle": "O que é Weaver Game?",
+      "whatIsDescription": "Weaver Game é um jogo de palavras cativante que oferece um desafio emocionante. Neste jogo, sua tarefa é criar uma escada de palavras usando duas palavras iniciais e finais.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Comece com a palavra fornecida e altere uma letra de cada vez.",
+      "howToPlayStep2": "Cada nova palavra deve ser uma palavra válida em português.",
+      "howToPlayStep3": "Continue até chegar à palavra alvo.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Desafio de Escada de Palavras",
+      "feature1Description": "Teste suas habilidades de vocabulário criando escadas de palavras.",
+      "feature2Title": "Jogabilidade Engajante",
+      "feature2Description": "Aproveite horas de diversão com este cativante jogo de palavras.",
+      "feature3Title": "Regras Simples",
+      "feature3Description": "Fácil de aprender, mas desafiador de dominar.",
+      "feature4Title": "Grátis para Jogar",
+      "feature4Description": "Comece a jogar Weaver Game online gratuitamente."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

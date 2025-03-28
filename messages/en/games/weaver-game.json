@@ -1,0 +1,77 @@
+{
+  "weaver-game": {
+    "title": "Weaver Game - Free Online Word Ladder Challenge",
+    "slogan": "Connect Words, Challenge Your Mind",
+    "description": "Weaver Game is a captivating word game that offers an exciting challenge. In this game, your task is to create a word ladder using two given starting and ending words. If you enjoy games like Wordle or Scrabble, Weaver Game is an excellent alternative that will keep you engaged and entertained. Start playing now and test your vocabulary skills!",
+    "Loading": {
+      "title": "Loading Weaver Game..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Weaver Game - Word Ladder Challenge",
+      "description": "Experience the thrill of Weaver Game, a captivating word ladder challenge. Connect words, test your vocabulary, and have fun!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Weaver Game - Word Ladder Challenge",
+      "whatIsTitle": "What is Weaver Game?",
+      "whatIsDescription": "Weaver Game is a captivating word game that offers an exciting challenge. In this game, your task is to create a word ladder using two given starting and ending words.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Start with the given word and change one letter at a time.",
+      "howToPlayStep2": "Each new word must be a valid English word.",
+      "howToPlayStep3": "Continue until you reach the target word.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Word Ladder Challenge",
+      "feature1Description": "Test your vocabulary skills by creating word ladders.",
+      "feature2Title": "Engaging Gameplay",
+      "feature2Description": "Enjoy hours of fun with this captivating word game.",
+      "feature3Title": "Simple Rules",
+      "feature3Description": "Easy to learn but challenging to master.",
+      "feature4Title": "Free to Play",
+      "feature4Description": "Start playing Weaver Game online for free."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

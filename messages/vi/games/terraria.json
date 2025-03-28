@@ -1,0 +1,77 @@
+{
+  "terraria": {
+    "title": "Terraria - Trò chơi phiêu lưu thế giới 2D trực tuyến miễn phí",
+    "slogan": "Khám phá, Xây dựng, Sống sót trong thế giới 2D của Terraria",
+    "description": "Đắm mình trong Terraria, một trò chơi sandbox 2D hồi hộp kết hợp khám phá, xây dựng, chế tạo và chiến đấu. Trải nghiệm chế độ người chơi đơn và nhiều người chơi trong một thế giới gợi nhớ đến các trò chơi phiêu lưu cổ điển 16 bit. Bắt đầu hành trình của bạn với các công cụ cơ bản, khám phá tài nguyên và nâng cao chỉ số của bạn bằng cách chế tạo các vật phẩm chuyên dụng. Terraria kết hợp độc đáo hành động và sáng tạo, làm cho nó trở thành một trò chơi bắt buộc phải chơi đối với những người yêu thích trò chơi phiêu lưu.",
+    "Loading": {
+      "title": "Đang tải Terraria..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Terraria",
+      "description": "Khởi hành vào một cuộc phiêu lưu sandbox 2D hoành tráng với Terraria. Khám phá những thế giới rộng lớn, xây dựng các cấu trúc, chế tạo vật phẩm và chiến đấu với kẻ thù trong trò chơi hành động đầy kịch tính này.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Terraria",
+      "whatIsTitle": "Terraria là gì?",
+      "whatIsDescription": "Terraria là một trò chơi sandbox 2D kết hợp khám phá, xây dựng, chế tạo và chiến đấu trong một thế giới năng động và nhập vai.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Bắt đầu với các công cụ cơ bản và làm theo hướng dẫn của NPC để học cơ chế trò chơi.",
+      "howToPlayStep2": "Khám phá thế giới, thu thập tài nguyên và chế tạo vật phẩm để nâng cao khả năng của bạn.",
+      "howToPlayStep3": "Tham gia chiến đấu với kẻ thù và xây dựng các cấu trúc để tạo ra thế giới độc đáo của riêng bạn.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Khám phá",
+      "feature1Description": "Khám phá những thế giới rộng lớn chứa đầy tài nguyên, kẻ thù và bí mật.",
+      "feature2Title": "Xây dựng",
+      "feature2Description": "Tạo và tùy chỉnh các cấu trúc để biến thế giới thành của riêng bạn.",
+      "feature3Title": "Chế tạo",
+      "feature3Description": "Chế tạo công cụ, vũ khí và vật phẩm để hỗ trợ cuộc phiêu lưu của bạn.",
+      "feature4Title": "Chiến đấu",
+      "feature4Description": "Chiến đấu với nhiều loại kẻ thù và ông trùm để bảo vệ thế giới của bạn."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả trò chơi",
+      "description": "Tất cả trò chơi",
+      "games": "Trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

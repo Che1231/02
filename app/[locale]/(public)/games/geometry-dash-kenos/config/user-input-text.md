@@ -1,0 +1,1 @@
+Geometry Dash Kenos is an extremely difficult level called an Extreme Demon mega-collab. It has a rating of 10 stars. Kenos is actually a remade and bigger version of Sakupen Hell.

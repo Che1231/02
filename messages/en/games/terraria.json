@@ -1,0 +1,77 @@
+{
+  "terraria": {
+    "title": "Terraria - Free Online 2D Sandbox Adventure Game",
+    "slogan": "Explore, Build, Survive in Terraria's 2D World",
+    "description": "Dive into Terraria, a thrilling 2D sandbox game blending exploration, building, crafting, and combat. Experience both single-player and multiplayer modes in a world reminiscent of classic 16-bit adventures. Start your journey with basic tools, discover resources, and enhance your stats by crafting specialized items. Terraria offers a unique blend of action and creativity, making it a must-play for fans of adventure games.",
+    "Loading": {
+      "title": "Loading Terraria..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Terraria",
+      "description": "Embark on an epic 2D sandbox adventure with Terraria. Explore vast worlds, build structures, craft items, and battle enemies in this action-packed game.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Terraria",
+      "whatIsTitle": "What is Terraria?",
+      "whatIsDescription": "Terraria is a 2D sandbox game that combines exploration, building, crafting, and combat in a dynamic and immersive world.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Start with basic tools and follow the NPC tutorial to learn the game mechanics.",
+      "howToPlayStep2": "Explore the world, gather resources, and craft items to enhance your abilities.",
+      "howToPlayStep3": "Engage in combat with enemies and build structures to create your own unique world.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Exploration",
+      "feature1Description": "Discover vast worlds filled with resources, enemies, and secrets.",
+      "feature2Title": "Building",
+      "feature2Description": "Create and customize structures to make the world your own.",
+      "feature3Title": "Crafting",
+      "feature3Description": "Craft tools, weapons, and items to aid in your adventure.",
+      "feature4Title": "Combat",
+      "feature4Description": "Battle a variety of enemies and bosses to protect your world."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

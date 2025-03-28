@@ -1,0 +1,77 @@
+{
+  "sploop-io": {
+    "title": "Jouer à Sploop.io en ligne - Construire, fabriquer et conquérir",
+    "slogan": "Construire, créer et conquérir sur Sploop.io",
+    "description": "Sploop.io est un jeu exceptionnel qui combine la construction de villages, la fabrication et des combats PvP intenses. Bien que l'aspect PvP soit facile à comprendre, il exige beaucoup de compétences et crée une expérience exaltante. Atteignez le sommet et prouvez votre maîtrise. Envisagez de former une équipe avec vos amis pour vaincre stratégiquement à la fois les joueurs ennemis et les divers animaux dispersés dans le monde du jeu.",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Sploop.io",
+      "description": "Découvrez le frisson de la construction de villages, de la fabrication et des combats PvP intenses dans Sploop.io. Rejoignez-nous maintenant et commencez votre aventure !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sploop.io",
+      "whatIsTitle": "Qu'est-ce que Sploop.io ?",
+      "whatIsDescription": "Sploop.io est un jeu qui combine la construction de villages, la fabrication et des combats PvP intenses. Il offre un mélange unique de stratégie et d'action.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Construisez votre village et rassemblez des ressources.",
+      "howToPlayStep2": "Fabriquez des outils et des armes pour vous défendre.",
+      "howToPlayStep3": "Engagez-vous dans des combats PvP et battez vos ennemis.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Construction de villages",
+      "feature1Description": "Créez et agrandissez votre village pour rassembler des ressources et construire des défenses.",
+      "feature2Title": "Fabrication",
+      "feature2Description": "Fabriquez des outils, des armes et d'autres objets pour améliorer votre gameplay.",
+      "feature3Title": "PvP intense",
+      "feature3Description": "Engagez-vous dans des combats PvP passionnants pour prouver vos compétences et vaincre vos ennemis.",
+      "feature4Title": "Jeu d'équipe",
+      "feature4Description": "Formez une équipe avec vos amis pour vaincre stratégiquement les ennemis et les animaux."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

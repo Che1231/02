@@ -1,0 +1,1 @@
+Weaver Game is a captivating word game that offers an exciting challenge. In this game, your task is to create a word ladder using two given starting and ending words. If you enjoy games like Wordle or Scrabble, Weaver Game is an excellent alternative that will keep you engaged and entertained.

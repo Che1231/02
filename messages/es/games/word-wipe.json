@@ -1,0 +1,77 @@
+{
+  "word-wipe": {
+    "title": "Word Wipe - Juego de rompecabezas en línea gratuito",
+    "slogan": "¡Conecta letras, forma palabras y ¡borra la cuadrícula!",
+    "description": "Word Wipe es un juego de rompecabezas rápido y entretenido en el que conectas letras para formar palabras. Con su jugabilidad sencilla pero desafiante, Word Wipe es perfecto para los entusiastas de los juegos de palabras. Juega a Word Wipe en línea gratis y disfruta de la emoción de crear palabras en cualquier dirección. ¡Comienza tu aventura de palabras ahora!",
+    "Loading": {
+      "title": "Cargando Word Wipe..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigos",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Word Wipe - Juego de rompecabezas en línea gratuito",
+      "description": "Word Wipe es un juego de rompecabezas rápido y entretenido en el que conectas letras para formar palabras. Con su jugabilidad sencilla pero desafiante, Word Wipe es perfecto para los entusiastas de los juegos de palabras. Juega a Word Wipe en línea gratis y disfruta de la emoción de crear palabras en cualquier dirección. ¡Comienza tu aventura de palabras ahora!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Word Wipe - Juego de rompecabezas en línea gratuito",
+      "whatIsTitle": "¿Qué es Word Wipe?",
+      "whatIsDescription": "Word Wipe es un juego de rompecabezas rápido y entretenido con una idea simple: conectar fichas de letras individuales en líneas para formar palabras. Las letras se pueden usar en todas las direcciones. Las letras desaparecen de la cuadrícula una vez que las unes para formar una palabra.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Busca palabras en el tablero para comenzar a jugar a Word Wipe.",
+      "howToPlayStep2": "Para eliminar las fichas, elige las letras individuales de la palabra.",
+      "howToPlayStep3": "Las letras de arriba reemplazan las fichas a medida que desaparecen.",
+      "keyFeaturesTitle": "Características principales",
+      "feature1Title": "Rápido y entretenido",
+      "feature1Description": "Word Wipe ofrece una jugabilidad rápida que te mantendrá entretenido.",
+      "feature2Title": "Formación flexible de palabras",
+      "feature2Description": "Forma palabras en cualquier dirección con las letras disponibles en la cuadrícula.",
+      "feature3Title": "Niveles desafiantes",
+      "feature3Description": "Cada nivel tiene un límite de tiempo, lo que aumenta el desafío y la emoción.",
+      "feature4Title": "Combinaciones especiales de letras",
+      "feature4Description": "A medida que las letras desaparecen, aparecen nuevas combinaciones, creando oportunidades únicas."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

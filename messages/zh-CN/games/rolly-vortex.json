@@ -1,0 +1,77 @@
+{
+  "rolly-vortex": {
+    "title": "Rolly Vortex：快速滚动，高分冲刺 | 免费在线游戏",
+    "slogan": "在Rolly Vortex中滚动、得分，并参与竞争！",
+    "description": "Rolly Vortex是一款令人上瘾且有趣的滚动游戏，您需要快速滚动，获得高分，并与朋友竞争。通过简单的单指操作，在充满障碍的挑战关卡中穿梭。继续滚动，躲避障碍，争取高分。现在玩Rolly Vortex，看看你是否能打破纪录！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "Rolly Vortex：快速滚动，高分冲刺",
+      "description": "在Rolly Vortex中快速滚动，获得高分，并参与竞争。在充满障碍的关卡中穿梭，争取高分。立即开始游戏！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Rolly Vortex",
+      "whatIsTitle": "Rolly Vortex是什么？",
+      "whatIsDescription": "Rolly Vortex是一款快节奏游戏，您需要在充满障碍的关卡中滚动。目标是获得高分并与朋友竞争。",
+      "howToPlayTitle": "如何玩耍",
+      "howToPlayStep1": "尽可能快速地滚动骰子。",
+      "howToPlayStep2": "避免撞到障碍物以继续游戏。",
+      "howToPlayStep3": "躲避障碍物的时间越长，得分越高。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "简单的一指操作",
+      "feature1Description": "只需一个手指即可轻松游戏。",
+      "feature2Title": "具有挑战性的关卡",
+      "feature2Description": "在充满障碍的关卡中穿梭。",
+      "feature3Title": "与朋友竞争",
+      "feature3Description": "获得高分并与您的朋友竞争。",
+      "feature4Title": "令人上瘾的乐趣",
+      "feature4Description": "继续滚动，争取高分。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐游戏"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏列表"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到任何分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

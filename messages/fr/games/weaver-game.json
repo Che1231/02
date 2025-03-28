@@ -1,0 +1,77 @@
+{
+  "weaver-game": {
+    "title": "Weaver Game - Défi de mots en échelles",
+    "slogan": "Relier des mots, Défiez votre esprit",
+    "description": "Weaver Game est un jeu de mots captivant qui offre un défi passionnant. Dans ce jeu, votre tâche consiste à créer une échelle de mots en utilisant deux mots de départ et de fin donnés. Si vous aimez des jeux comme Wordle ou Scrabble, Weaver Game est une excellente alternative qui vous gardera engagé et diverti. Commencez à jouer maintenant et testez vos compétences en vocabulaire !",
+    "Loading": {
+      "title": "Chargement de Weaver Game..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens utiles",
+      "articleList": "Liste d'articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Weaver Game - Défi d'échelle de mots",
+      "description": "Découvrez le plaisir de Weaver Game, un défi captivant d'échelle de mots. Reliez des mots, testez votre vocabulaire et amusez-vous !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Weaver Game - Défi d'échelle de mots",
+      "whatIsTitle": "Qu'est-ce que Weaver Game ?",
+      "whatIsDescription": "Weaver Game est un jeu de mots captivant qui offre un défi passionnant. Dans ce jeu, votre tâche consiste à créer une échelle de mots en utilisant deux mots de départ et de fin donnés.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Commencez par le mot donné et changez une lettre à la fois.",
+      "howToPlayStep2": "Chaque nouveau mot doit être un mot anglais valide.",
+      "howToPlayStep3": "Continuez jusqu'à atteindre le mot cible.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Défi d'échelle de mots",
+      "feature1Description": "Testez vos compétences en vocabulaire en créant des échelles de mots.",
+      "feature2Title": "Gameplay captivant",
+      "feature2Description": "Profitez d'heures de plaisir avec ce jeu de mots captivant.",
+      "feature3Title": "Règles simples",
+      "feature3Description": "Facile à apprendre mais difficile à maîtriser.",
+      "feature4Title": "Jeu gratuit",
+      "feature4Description": "Commencez à jouer à Weaver Game en ligne gratuitement."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

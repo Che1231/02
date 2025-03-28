@@ -1,0 +1,77 @@
+{
+  "word-wipe": {
+    "title": "字謎消除 - 免費線上益智遊戲",
+    "slogan": "連接字母、組成單字，並消除網格！",
+    "description": "字謎消除是一款節奏快速且引人入勝的益智遊戲，您需要連接字母組成單字。其簡單卻具挑戰性的遊戲方式，非常適合單字遊戲愛好者。免費線上遊玩字謎消除，享受在任何方向創造單字的刺激。現在就開始您的單字冒險！",
+    "Loading": {
+      "title": "正在載入字謎消除..."
+    },
+    "Navbar": {
+      "title": "導覽"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "字謎消除 - 免費線上益智遊戲",
+      "description": "字謎消除是一款節奏快速且引人入勝的益智遊戲，您需要連接字母組成單字。其簡單卻具挑戰性的遊戲方式，非常適合單字遊戲愛好者。免費線上遊玩字謎消除，享受在任何方向創造單字的刺激。現在就開始您的單字冒險！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "遊玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "字謎消除 - 免費線上益智遊戲",
+      "whatIsTitle": "字謎消除是什麼？",
+      "whatIsDescription": "字謎消除是一款快速且有趣的益智遊戲，其核心概念是將個別字母的方塊連接起來形成單字。字母可以從任何方向使用。一旦您將字母組合成單字，這些字母就會從網格中消失。",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "開始遊玩字謎消除，尋找看板上的單字。",
+      "howToPlayStep2": "選擇單字個別的字母，以移除方塊。",
+      "howToPlayStep3": "上方字母會取代消失的方塊。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "快速且引人入勝",
+      "feature1Description": "字謎消除提供快速節奏的遊戲體驗，讓您玩得開心。",
+      "feature2Title": "靈活的單字構成",
+      "feature2Description": "利用網格上可用的字母，在任何方向形成單字。",
+      "feature3Title": "具有挑戰性的關卡",
+      "feature3Description": "每個關卡都有時間限制，增加挑戰性和刺激。",
+      "feature4Title": "特殊字母組合",
+      "feature4Description": "隨著字母消失，新的組合將出現，創造獨特的機會。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦遊戲"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到任何類別",
+      "viewMore": "檢視更多",
+      "page": "頁面"
+    }
+  }
+}

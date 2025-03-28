@@ -1,0 +1,77 @@
+{
+  "sploop-io": {
+    "title": "玩 Sploop.io 在线游戏——建造、制作和征服",
+    "slogan": "在 Sploop.io 中建造、制作和征服",
+    "description": "Sploop.io 是一款极具特色的游戏，结合了村庄建造、制作和激烈的 PvP 游戏玩法。虽然 PvP 部分很容易理解，但它需要相当的技巧，并创造出令人兴奋的体验。达到顶峰，证明你的掌控力。考虑与你的朋友组队，战略性地击败敌人和游戏世界中四处游荡的各种动物。",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "Sploop.io",
+      "description": "在 Sploop.io 中体验建造村庄、制作和激烈 PvP 游戏的乐趣。立即加入，开启你的冒险！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL 已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sploop.io",
+      "whatIsTitle": "什么是 Sploop.io？",
+      "whatIsDescription": "Sploop.io 是一款结合了村庄建造、制作和激烈 PvP 游戏玩法的游戏。它提供独特的策略和动作结合。",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "建造你的村庄并收集资源。",
+      "howToPlayStep2": "制作工具和武器来保护自己。",
+      "howToPlayStep3": "参与 PvP 对战并征服敌人。",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "村庄建造",
+      "feature1Description": "创建和扩展你的村庄，收集资源并建造防御工事。",
+      "feature2Title": "制作",
+      "feature2Description": "制作工具、武器和其他物品以增强你的游戏体验。",
+      "feature3Title": "激烈 PvP",
+      "feature3Description": "参与令人兴奋的 PvP 对战，证明你的技能并征服敌人。",
+      "feature4Title": "团队合作",
+      "feature4Description": "与你的朋友组队，战略性地击败敌人和动物。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "类别",
+      "noCategories": "未找到类别",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

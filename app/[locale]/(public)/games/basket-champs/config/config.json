@@ -1,0 +1,125 @@
+{
+  "name": "Basket Champs",
+  "pagePath": "/games/basket-champs",
+  "pageName": "basket-champs",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://basketrandomonline.github.io/g2/basket-champs",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomKraken87.png",
+      "content": "Basket Champs is so addictive! Timing those moving baskets is a real challenge, but it feels amazing when you nail it!"
+    },
+    {
+      "author": "CosmicBroadsword_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicBroadsword_X.png",
+      "content": "Love how strategic this game is. The force and direction mechanic makes every throw feel unique."
+    },
+    {
+      "author": "Witcher4Hoopz",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Hoopz.png",
+      "content": "Basket Champs is the perfect blend of skill and luck. Representing a national team adds a fun layer of competition!"
+    },
+    {
+      "author": "NoobMaster99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster99.png",
+      "content": "Why is the moving basket so sneaky? 😂 Still, I can't stop playing. It's oddly satisfying!"
+    },
+    {
+      "author": "xX_NeonPhoenix_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_NeonPhoenix_Xx.png",
+      "content": "The tournament mode in Basket Champs is awesome! It’s like a real championship, but in my pocket."
+    },
+    {
+      "author": "VoidRevolver_42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/VoidRevolver_42.png",
+      "content": "Basket Champs nails that arcade basketball vibe. The dotted line for aiming is a clever touch."
+    },
+    {
+      "author": "LootGoblin_Hoops",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LootGoblin_Hoops.png",
+      "content": "I thought it’d be just another basketball game, but the precision needed is next level. Love it!"
+    },
+    {
+      "author": "CtrlAltShoot",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltShoot.png",
+      "content": "Basket Champs is surprisingly intense! The knockout rounds had me sweating. Great for quick plays!"
+    },
+    {
+      "author": "LagWarrior_87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarrior_87.png",
+      "content": "The group stage is brutal, but advancing feels so rewarding. Basket Champs never gets old!"
+    },
+    {
+      "author": "PotionMishap_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap_X.png",
+      "content": "Basket Champs is fun, but I wish there were more teams to choose from. Still, the gameplay is solid!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/basket-champs/basket-champs-m200x130.webp",
+  "page_path": "/games/basket-champs",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8sbg39j00wxlywlb9hkb6xc",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T05:02:28.224Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 13:02:37",
+  "categories": [
+    "Action Games"
+  ]
+}

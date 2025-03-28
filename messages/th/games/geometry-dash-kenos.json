@@ -1,0 +1,77 @@
+{
+  "geometry-dash-kenos": {
+    "title": "Geometry Dash Kenos - Extreme Demon Mega-Collab",
+    "slogan": "ท้าทาย Extreme Demon",
+    "description": "Geometry Dash Kenos เป็นระดับความยากอย่างยิ่งที่เรียกว่า Extreme Demon mega-collab  มีคะแนน 10 ดาว มอบความท้าทายที่น่าตื่นเต้นให้กับผู้เล่นที่มีประสบการณ์ Kenos เป็นเวอร์ชันที่ทำใหม่และใหญ่กว่าของ Sakupen Hell  สัมผัสกับความเข้มข้นและความแม่นยำที่จำเป็นในการพิชิตระดับนี้ เล่น Geometry Dash Kenos ทันทีและทดสอบทักษะของคุณ!",
+    "Loading": {
+      "title": "กำลังโหลด..."
+    },
+    "Navbar": {
+      "title": "นำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์มิตรภาพ",
+      "articleList": "รายการบทความ",
+      "home": "หน้าหลัก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "Geometry Dash Kenos",
+      "description": "Geometry Dash Kenos เป็น Extreme Demon mega-collab ที่มีคะแนน 10 ดาว  เป็นเวอร์ชันที่ทำใหม่และใหญ่กว่าของ Sakupen Hell มอบประสบการณ์ที่ท้าทายให้กับผู้เล่นขั้นสูง",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ลงในคลิปบอร์ดแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Geometry Dash Kenos",
+      "whatIsTitle": "Geometry Dash Kenos คืออะไร?",
+      "whatIsDescription": "Geometry Dash Kenos เป็นระดับความยากอย่างยิ่งที่เรียกว่า Extreme Demon mega-collab  มีคะแนน 10 ดาวและเป็นเวอร์ชันที่ทำใหม่และใหญ่กว่าของ Sakupen Hell",
+      "howToPlayTitle": "วิธีการเล่น",
+      "howToPlayStep1": "นำทางผ่านระดับพร้อมกับการปรับเวลาที่แม่นยำ",
+      "howToPlayStep2": "หลีกเลี่ยงสิ่งกีดขวางและกับดักเพื่อให้ยังอยู่รอด",
+      "howToPlayStep3": "เสร็จสิ้นระดับเพื่อปลดล็อกความท้าทายใหม่",
+      "keyFeaturesTitle": "คุณสมบัติหลัก",
+      "feature1Title": "ความยากลำบากสูงสุด",
+      "feature1Description": "Geometry Dash Kenos เป็นหนึ่งในระดับที่ท้าทายที่สุดในเกม",
+      "feature2Title": "Mega-Collab",
+      "feature2Description": "สร้างโดยทีมนักออกแบบที่มีความสามารถ Kenos มอบประสบการณ์ที่ไม่เหมือนใคร",
+      "feature3Title": "คะแนน 10 ดาว",
+      "feature3Description": "ระดับนี้ได้รับคะแนน 10 ดาวสำหรับความซับซ้อนและความยากลำบาก",
+      "feature4Title": "เวอร์ชันที่ทำใหม่",
+      "feature4Description": "Kenos เป็นเวอร์ชันที่ทำใหม่และใหญ่กว่าของ Sakupen Hell คลาสสิก"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วีดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นการเล่นเกม"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

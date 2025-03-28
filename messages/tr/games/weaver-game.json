@@ -1,0 +1,77 @@
+{
+  "weaver-game": {
+    "title": "Dokumacı Oyunu - Ücretsiz Çevrimiçi Kelime Merdiveni Zorlaması",
+    "slogan": "Kelimeleri Bağlayın, Zihninizi Zorlayın",
+    "description": "Dokumacı Oyunu, heyecan verici bir meydan okuma sunan büyüleyici bir kelime oyunudur. Bu oyunda, verilen iki başlangıç ve bitiş kelimesini kullanarak bir kelime merdiveni oluşturmanız gerekir. Wordle veya Scrabble gibi oyunları seviyorsanız, Dokumacı Oyunu sizi meşgul edecek ve eğlendirecek mükemmel bir alternatiftir. Şimdi oynamaya başlayın ve kelime dağarcığınızı test edin!",
+    "Loading": {
+      "title": "Dokumacı Oyunu Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Dokumacı Oyunu - Kelime Merdiveni Zorlaması",
+      "description": "Dokumacı Oyunu'nun heyecan verici bir kelime merdiveni zorlamasını deneyimleyin. Kelimeleri bağlayın, kelime dağarcığınızı test edin ve eğlenin!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Dokumacı Oyunu - Kelime Merdiveni Zorlaması",
+      "whatIsTitle": "Dokumacı Oyunu Nedir?",
+      "whatIsDescription": "Dokumacı Oyunu, heyecan verici bir meydan okuma sunan büyüleyici bir kelime oyunudur. Bu oyunda, verilen iki başlangıç ve bitiş kelimesini kullanarak bir kelime merdiveni oluşturmanız gerekir.",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Verilen kelimeyle başlayın ve bir harfi her seferinde değiştirin.",
+      "howToPlayStep2": "Her yeni kelime geçerli bir İngilizce kelime olmalıdır.",
+      "howToPlayStep3": "Hedef kelimeye ulaşana kadar devam edin.",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Kelime Merdiveni Zorlaması",
+      "feature1Description": "Kelime merdivenleri oluşturarak kelime dağarcığınızı test edin.",
+      "feature2Title": "Eğlenceli Oyun",
+      "feature2Description": "Bu büyüleyici kelime oyunuyla saatlerce eğlence yaşayın.",
+      "feature3Title": "Basit Kurallar",
+      "feature3Description": "Öğrenmesi kolay ancak ustalaşması zor.",
+      "feature4Title": "Ücretsiz Oynama",
+      "feature4Description": "Ücretsiz olarak Dokumacı Oyununu çevrimiçi oynamaya başlayın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Hiç kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

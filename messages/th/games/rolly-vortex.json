@@ -1,0 +1,77 @@
+{
+  "rolly-vortex": {
+    "title": "Rolly Vortex: การหมุนเร็วและทำคะแนนสูง | เกมออนไลน์ฟรี",
+    "slogan": "หมุน ทำคะแนน และแข่งขันใน Rolly Vortex!",
+    "description": "Rolly Vortex เป็นเกมที่น่าติดตามและสนุกสนาน คุณต้องหมุนอย่างรวดเร็ว ทำคะแนนสูง และแข่งขันกับเพื่อนๆ ด้วยการเล่นเกมที่ง่ายเพียงนิ้วเดียว คุณต้องนำทางผ่านระดับต่างๆ ที่เต็มไปด้วยอุปสรรค หมุนต่อไป หลบอุปสรรค และพยายามทำคะแนนสูงสุด เล่น Rolly Vortex ตอนนี้และดูว่าคุณสามารถทำลายสถิติได้หรือไม่!",
+    "Loading": {
+      "title": "กำลังโหลด..."
+    },
+    "Navbar": {
+      "title": "เมนู"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์เพื่อน",
+      "articleList": "รายการบทความ",
+      "home": "หน้าหลัก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "Rolly Vortex: หมุนเร็ว และทำคะแนนสูง",
+      "description": "หมุนอย่างรวดเร็ว ทำคะแนนสูง และแข่งขันใน Rolly Vortex นำทางผ่านระดับต่างๆ ที่เต็มไปด้วยอุปสรรคและพยายามทำคะแนนสูงสุด เล่นตอนนี้!",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "โหมดจอเต็ม",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ไปยังคลิปบอร์ดเรียบร้อยแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Rolly Vortex",
+      "whatIsTitle": "Rolly Vortex คืออะไร?",
+      "whatIsDescription": "Rolly Vortex เป็นเกมที่เร็วและกระฉับกระเฉงซึ่งคุณจะหมุนผ่านระดับต่างๆ ที่เต็มไปด้วยอุปสรรค เป้าหมายคือทำคะแนนสูงและแข่งขันกับเพื่อนๆ",
+      "howToPlayTitle": "วิธีการเล่น",
+      "howToPlayStep1": "หมุนลูกเต๋าให้เร็วที่สุด",
+      "howToPlayStep2": "หลีกเลี่ยงการชนกับอุปสรรคเพื่อให้เกมดำเนินต่อไป",
+      "howToPlayStep3": "ยิ่งหลบอุปสรรคได้นานเท่าไหร่ คะแนนก็จะสูงขึ้นเท่านั้น",
+      "keyFeaturesTitle": "คุณสมบัติหลัก",
+      "feature1Title": "การเล่นเกมด้วยนิ้วเดียว",
+      "feature1Description": "เล่นง่ายด้วยนิ้วเดียว",
+      "feature2Title": "ระดับที่ท้าทาย",
+      "feature2Description": "นำทางผ่านระดับต่างๆ ที่เต็มไปด้วยอุปสรรค",
+      "feature3Title": "แข่งขันกับเพื่อน",
+      "feature3Description": "ทำคะแนนสูงและแข่งขันกับเพื่อนของคุณ",
+      "feature4Title": "ความสนุกสนานที่ติดใจ",
+      "feature4Description": "หมุนต่อไปและพยายามทำคะแนนสูงสุด"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นเกม"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

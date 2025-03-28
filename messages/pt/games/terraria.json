@@ -1,0 +1,77 @@
+{
+  "terraria": {
+    "title": "Terraria - Jogo de Aventura Sandbox 2D Online Gratuito",
+    "slogan": "Explore, Construa, Sobreviva no Mundo 2D de Terraria",
+    "description": "Mergulhe em Terraria, um emocionante jogo sandbox 2D que combina exploração, construção, artesanato e combate. Experimente os modos single-player e multiplayer em um mundo que lembra as clássicas aventuras de 16 bits. Comece sua jornada com ferramentas básicas, descubra recursos e aprimore suas estatísticas criando itens especializados. Terraria oferece uma mistura única de ação e criatividade, tornando-se um jogo imperdível para os fãs de jogos de aventura.",
+    "Loading": {
+      "title": "Carregando Terraria..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criar em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Amigáveis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Terraria",
+      "description": "Embarque em uma épica aventura sandbox 2D com Terraria. Explore mundos vastos, construa estruturas, crie itens e lute contra inimigos neste jogo repleto de ação.",
+      "iframeTitle": "Pré-visualização do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Terraria",
+      "whatIsTitle": "O que é Terraria?",
+      "whatIsDescription": "Terraria é um jogo sandbox 2D que combina exploração, construção, artesanato e combate em um mundo dinâmico e imersivo.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Comece com ferramentas básicas e siga o tutorial do NPC para aprender as mecânicas do jogo.",
+      "howToPlayStep2": "Explore o mundo, colete recursos e crie itens para aprimorar suas habilidades.",
+      "howToPlayStep3": "Envolva-se em combate com inimigos e construa estruturas para criar seu próprio mundo único.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Exploração",
+      "feature1Description": "Descubra mundos vastos cheios de recursos, inimigos e segredos.",
+      "feature2Title": "Construção",
+      "feature2Description": "Crie e personalize estruturas para tornar o mundo seu.",
+      "feature3Title": "Artesanato",
+      "feature3Description": "Crie ferramentas, armas e itens para auxiliar em sua aventura.",
+      "feature4Title": "Combate",
+      "feature4Description": "Lute contra uma variedade de inimigos e chefes para proteger seu mundo."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

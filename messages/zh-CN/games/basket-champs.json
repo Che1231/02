@@ -1,0 +1,77 @@
+{
+  "basket-champs": {
+    "title": "篮板高手：投篮挑战世界",
+    "slogan": "掌握你的技能，参加锦标赛，看看你的实力如何！",
+    "description": "篮板高手是您终极的篮球挑战。参加扣人心弦的比赛，并在世界锦标赛中证明您的技能。首先选择一个国家队，目标是在五次投篮中得分比对手多。精确地调整方向和力度，才能投出最好的球。通过赢得比赛来晋级，并赢得冠军！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "篮板高手：投篮挑战世界",
+      "description": "篮板高手是您终极的篮球挑战。参加扣人心弦的比赛，并在世界锦标赛中证明您的技能。首先选择一个国家队，目标是在五次投篮中得分比对手多。精确地调整方向和力度，才能投出最好的球。通过赢得比赛来晋级，并赢得冠军！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "玩游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "篮板高手：投篮挑战世界",
+      "whatIsTitle": "什么是篮板高手？",
+      "whatIsDescription": "篮板高手是一款激动人心的篮球游戏，您可以在其中掌握您的技能，参加锦标赛，并看看您与其他玩家的实力对比。在扣人心弦的比赛中证明您的实力，并争取冠军！",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "在屏幕上用虚线跟踪球的投掷方向。",
+      "howToPlayStep2": "分析球的位置和篮筐的性质（是否移动）。",
+      "howToPlayStep3": "移动鼠标调整投掷的方向和力度，然后点击以完成您的回合。",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "选择您的队伍",
+      "feature1Description": "选择一个国家队代表整个赛季。",
+      "feature2Title": "精确投篮",
+      "feature2Description": "精确地调整方向和力度，投出最佳的投篮。",
+      "feature3Title": "晋级下一轮",
+      "feature3Description": "赢得比赛以晋级下一轮，挑战更强大的对手。",
+      "feature4Title": "世界锦标赛",
+      "feature4Description": "参加世界锦标赛，证明你的实力！"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页"
+    }
+  }
+}

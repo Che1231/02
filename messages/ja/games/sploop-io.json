@@ -1,0 +1,77 @@
+{
+  "sploop-io": {
+    "title": "スプループ.io をプレイ – ビルド、クラフト、そして征服",
+    "slogan": "スプループ.io でビルド、クラフト、そして征服",
+    "description": "スプループ.io は、村の建設、クラフト、そして激しい PvP ゲームプレイを組み合わせた、傑出したゲームです。PvP アスペクトは理解しやすいですが、かなりのスキルが必要です。頂点に達し、あなたの腕前を実証してください。ゲームの世界中に散らばる敵プレイヤーと様々な動物を戦略的に打ち負かすために、友達とチームを組むことを考慮してください。",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "サービス利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "スプループ.io",
+      "description": "スプループ.io で村の建設、クラフト、そして激しい PvP ゲームプレイの興奮を体験してください。今すぐ参加して、あなたの冒険を始めましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URL がクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "スプループ.io",
+      "whatIsTitle": "スプループ.io とは？",
+      "whatIsDescription": "スプループ.io は、村の建設、クラフト、そして激しい PvP ゲームプレイを組み合わせたゲームです。戦略とアクションの独特な融合を提供します。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "村を建設し、資源を集めましょう。",
+      "howToPlayStep2": "自分自身を守るための道具や武器をクラフトしましょう。",
+      "howToPlayStep3": "PvP 戦闘に参加し、敵を打ち負かしましょう。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "村の建設",
+      "feature1Description": "資源を集め、防御施設を建設するためにあなたの村を創り、拡大させましょう。",
+      "feature2Title": "クラフト",
+      "feature2Description": "ゲームプレイを強化するための道具、武器、その他のアイテムをクラフトしましょう。",
+      "feature3Title": "激しい PvP",
+      "feature3Description": "あなたのスキルを実証し、敵を打ち負かすために、スリリングな PvP 戦闘に参加しましょう。",
+      "feature4Title": "チームプレイ",
+      "feature4Description": "敵と動物を戦略的に打ち負かすために、友達とチームを組みましょう。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

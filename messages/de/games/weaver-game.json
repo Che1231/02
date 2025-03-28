@@ -1,0 +1,77 @@
+{
+  "weaver-game": {
+    "title": "Weaver Spiel - Kostenloser Online-Wortleiter-Herausforderung",
+    "slogan": "Verbinde Wörter, fordere dein Wissen heraus",
+    "description": "Weaver Spiel ist ein fesselndes Wortspiel, das eine spannende Herausforderung bietet. In diesem Spiel besteht Ihre Aufgabe darin, eine Wortleiter mit zwei gegebenen Anfangs- und Endwörtern zu erstellen. Wenn Sie Spiele wie Wordle oder Scrabble genießen, ist Weaver Spiel eine hervorragende Alternative, die Sie bei Laune hält. Spielen Sie jetzt und testen Sie Ihr Wortschatz!",
+    "Loading": {
+      "title": "Weaver Spiel wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Weaver Spiel - Wortleiter-Herausforderung",
+      "description": "Erleben Sie den Nervenkitzel von Weaver Spiel, eine fesselnde Wortleiter-Herausforderung. Verbinden Sie Wörter, testen Sie Ihren Wortschatz und haben Sie Spaß!",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Weaver Spiel - Wortleiter-Herausforderung",
+      "whatIsTitle": "Was ist Weaver Spiel?",
+      "whatIsDescription": "Weaver Spiel ist ein faszinierendes Wortspiel, das eine aufregende Herausforderung bietet. Bei diesem Spiel müssen Sie eine Wortleiter aus zwei gegebenen Anfangs- und Endwörtern erstellen.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Beginnen Sie mit dem angegebenen Wort und ändern Sie ein Buchstaben gleichzeitig.",
+      "howToPlayStep2": "Jedes neue Wort muss ein gültiges deutsches Wort sein.",
+      "howToPlayStep3": "Fahren Sie fort, bis Sie das Zielwort erreichen.",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
+      "feature1Title": "Wortleiter-Herausforderung",
+      "feature1Description": "Testen Sie Ihren Wortschatz, indem Sie Wortleitern erstellen.",
+      "feature2Title": "Hervorragende Spielerfahrung",
+      "feature2Description": "Genießen Sie stundenlangen Spaß mit diesem faszinierenden Wortspiel.",
+      "feature3Title": "Einfache Regeln",
+      "feature3Description": "Einfach zu erlernen, aber herausfordernd zu meistern.",
+      "feature4Title": "Kostenlos spielbar",
+      "feature4Description": "Beginnen Sie jetzt kostenlos mit Weaver Spiel online zu spielen."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}
