@@ -1,0 +1,77 @@
+{
+  "geometry-dash-zodiac": {
+    "title": "Geometry Dash Zodiac - เกมแพลตฟอร์มจังหวะออนไลน์ฟรี",
+    "slogan": "ท้าทายการตอบสนองของคุณด้วย Geometry Dash Zodiac",
+    "description": "Geometry Dash Zodiac เป็นเกมแพลตฟอร์มจังหวะที่ตื่นเต้นซึ่งพาความสามารถของคุณไปอีกขั้น ด้วยความท้าทายที่ไม่เหมือนใครและการเล่นเกมที่น่าดึงดูด Geometry Dash Zodiac มอบประสบการณ์ที่น่าจดจำสำหรับผู้เล่นทุกวัย ลงลึกสู่โลกของ Geometry Dash Zodiac วันนี้และทดสอบการตอบสนองของคุณในผจญภัยที่น่าตื่นเต้นนี้!",
+    "Loading": {
+      "title": "กำลังโหลด Geometry Dash Zodiac..."
+    },
+    "Navbar": {
+      "title": "นำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์มิตร",
+      "articleList": "รายการบทความ",
+      "home": "หน้าแรก",
+      "next": "ต่อไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "Geometry Dash Zodiac - เล่นตอนนี้",
+      "description": "สัมผัสกับความตื่นเต้นของ Geometry Dash Zodiac เกมแพลตฟอร์มจังหวะที่ท้าทายความสามารถและการตอบสนองของคุณ เล่น Geometry Dash Zodiac ฟรีและดื่มด่ำไปกับเกมที่น่าตื่นเต้นนี้!",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ไปยังคลิปบอร์ดแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Geometry Dash Zodiac",
+      "whatIsTitle": "Geometry Dash Zodiac คืออะไร?",
+      "whatIsDescription": "Geometry Dash Zodiac เป็นภาคต่อล่าสุดของซีรีส์ Geometry Dash ที่นำเสนอความท้าทายใหม่ๆ และการเล่นเกมที่ตื่นเต้นสำหรับผู้ที่ชื่นชอบเกมแพลตฟอร์มจังหวะ",
+      "howToPlayTitle": "วิธีการเล่น",
+      "howToPlayStep1": "นำทางผ่านระดับโดยใช้จังหวะและความแม่นยำ",
+      "howToPlayStep2": "หลีกเลี่ยงสิ่งกีดขวางและกับดักเพื่อไปถึงจุดสิ้นสุดของแต่ละระดับ",
+      "howToPlayStep3": "เสร็จสิ้นความท้าทายเพื่อปลดล็อคระดับและคุณสมบัติใหม่ๆ",
+      "keyFeaturesTitle": "คุณสมบัติหลัก",
+      "feature1Title": "ระดับใหม่",
+      "feature1Description": "สำรวจระดับใหม่ๆ มากมายที่มีความท้าทายที่ไม่ซ้ำกัน",
+      "feature2Title": "การเล่นเกมที่ได้รับการปรับปรุง",
+      "feature2Description": "สัมผัสกับกลไกที่ได้รับการปรับปรุงและการควบคุมที่ราบรื่นมากขึ้น",
+      "feature3Title": "ตัวละครที่ปรับแต่งได้",
+      "feature3Description": "ปรับแต่งตัวละครของคุณด้วยสกินและอุปกรณ์เสริมใหม่ๆ",
+      "feature4Title": "บอร์ดผู้นำ",
+      "feature4Description": "แข่งขันกับเพื่อนและผู้เล่นทั่วโลกเพื่อชิงตำแหน่งสูงสุด"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นเกี่ยวกับเกม"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

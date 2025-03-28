@@ -1,0 +1,77 @@
+{
+  "papa-s-freezeria": {
+    "title": "Jouer à Papa's Freezeria en ligne - Jeu de simulation de salon de crème glacée",
+    "slogan": "Créez des sundae délicieux sur l'île de Calypso",
+    "description": "Bienvenue à Papa's Freezeria, où vous pouvez gérer votre propre glacier sur la magnifique île de Calypso. Dans ce jeu amusant et captivant, vous prendrez des commandes, préparerez de délicieuses friandises glacées et les servirez à vos clients. Avec une variété d'ingrédients et vos mains magiques, vous pouvez créer les parfaits sundae glacés. Au fur et à mesure que vous progressez, gérez votre temps efficacement pour satisfaire vos clients et gagner de généreux pourboires. Utilisez vos gains pour personnaliser votre magasin et en faire l'endroit le plus cool de l'île. Préparez-vous à montrer vos compétences et à vous amuser dans Papa's Freezeria !",
+    "Loading": {
+      "title": "Chargement de Papa's Freezeria..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Papa's Freezeria - Jeu de salon de crème glacée",
+      "description": "Gérez votre propre glacier dans Papa's Freezeria. Prenez des commandes, préparez de délicieux sundae et servez les clients sur l'île de Calypso. Gérez votre temps et gagnez des pourboires pour personnaliser votre magasin.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Papa's Freezeria - Simulation de salon de crème glacée",
+      "whatIsTitle": "Qu'est-ce que Papa's Freezeria ?",
+      "whatIsDescription": "Papa's Freezeria est un jeu amusant et captivant où vous gérez un glacier sur l'île de Calypso. Votre objectif est de prendre des commandes, de préparer de délicieux sundae et de les servir à vos clients.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Prenez les commandes des clients et notez leurs préférences.",
+      "howToPlayStep2": "Préparez les sundae glacés en utilisant une variété d'ingrédients.",
+      "howToPlayStep3": "Servez les sundae rapidement pour gagner des pourboires et satisfaire vos clients.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Magasin personnalisable",
+      "feature1Description": "Utilisez vos gains pour acheter de nouveaux vêtements et personnaliser votre magasin.",
+      "feature2Title": "Gestion du temps",
+      "feature2Description": "Gérez votre temps efficacement pour maintenir le flux des clients.",
+      "feature3Title": "Sundaes délicieux",
+      "feature3Description": "Créez les meilleurs desserts glacés avec une variété d'ingrédients.",
+      "feature4Title": "Pourboires généreux",
+      "feature4Description": "Gagnez des pourboires en servant les clients rapidement et en les satisfaisant."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

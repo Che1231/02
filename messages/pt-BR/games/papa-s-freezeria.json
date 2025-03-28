@@ -1,0 +1,77 @@
+{
+  "papa-s-freezeria": {
+    "title": "Jogue Papa's Freezeria Online - Jogo de Simulação de Sorveteria",
+    "slogan": "Crie deliciosos picolés na Ilha Calypso",
+    "description": "Bem-vindo à Papa's Freezeria, onde você pode administrar sua própria sorveteria na bela Ilha Calypso. Neste jogo divertido e envolvente, você receberá pedidos, preparará deliciosos picolés e os servirá aos seus clientes. Com uma variedade de ingredientes e suas mãos mágicas, você pode criar os picolés perfeitos. À medida que você progride, gerencie seu tempo eficientemente para manter os clientes felizes e ganhar gorjetas generosas. Use suas ganâncias para personalizar sua loja e torná-la o lugar mais legal da ilha. Prepare-se para mostrar suas habilidades e se divertir em Papa's Freezeria!",
+    "Loading": {
+      "title": "Carregando Papa's Freezeria..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criar em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Úteis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Papa's Freezeria - Jogo de Simulação de Sorveteria",
+      "description": "Administre sua própria sorveteria em Papa's Freezeria. Receba pedidos, prepare deliciosos picolés e sirva os clientes na Ilha Calypso. Gerencie seu tempo e ganhe gorjetas para personalizar sua loja.",
+      "iframeTitle": "Pré-visualização do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Papa's Freezeria - Simulação de Sorveteria",
+      "whatIsTitle": "O que é Papa's Freezeria?",
+      "whatIsDescription": "Papa's Freezeria é um jogo divertido e envolvente onde você administra uma sorveteria na Ilha Calypso. Seu objetivo é receber pedidos, preparar deliciosos picolés e servi-los aos seus clientes.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Receba pedidos dos clientes e anote suas preferências.",
+      "howToPlayStep2": "Prepare os picolés usando uma variedade de ingredientes.",
+      "howToPlayStep3": "Sirva os picolés prontamente para ganhar gorjetas e manter os clientes felizes.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Loja Personalizável",
+      "feature1Description": "Use suas ganâncias para comprar roupas novas e personalizar sua loja.",
+      "feature2Title": "Gerenciamento de Tempo",
+      "feature2Description": "Gerencie seu tempo eficientemente para manter a fila em movimento.",
+      "feature3Title": "Picolés Deliciosos",
+      "feature3Description": "Crie os picolés perfeitos com uma variedade de ingredientes.",
+      "feature4Title": "Gorjetas Generosas",
+      "feature4Description": "Ganhe gorjetas servindo os clientes prontamente e mantendo-os felizes."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

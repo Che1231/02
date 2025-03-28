@@ -1,0 +1,77 @@
+{
+  "rambling-racer": {
+    "title": "Serserilen Yarışçı - Kaymayı Ustalıkla, Yolu Fethet",
+    "slogan": "Serserilen Yarışçı ile muhteşem kaymalar gerçekleştirin ve mükemmel hizalama becerinizi kanıtlayın.",
+    "description": "Serserilen Yarışçı, profesyonel sürücülerin doğaçlama becerilerini test etmeye hazır. Heyecan verici bir yüzen yolda nefes kesici kaymalara hazır olun. Her viraj, üst düzey navigasyon yeteneğinizin aşırı bir sınavı olacaktır. Bu bitmeyen koşu oyun deneyimi, heyecan verici ama aynı zamanda çekici deneyimler sunmayı vaat ediyor. Sürekli, keskin yollardan geçen küçük bir aracı kontrol edeceksiniz. Katılın ve en yüksek puanınızla ne kadar iyi bir oyuncu olduğunuzu görün!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Serserilen Yarışçı - Kaymayı Ustalıkla, Yolu Fethet",
+      "description": "Serserilen Yarışçı, profesyonel sürücülerin doğaçlama becerilerini test etmeye hazır. Heyecan verici bir yüzen yolda nefes kesici kaymalara hazır olun. Her viraj, üst düzey navigasyon yeteneğinizin aşırı bir sınavı olacaktır. Bu bitmeyen koşu oyun deneyimi, heyecan verici ama aynı zamanda çekici deneyimler sunmayı vaat ediyor. Sürekli, keskin yollardan geçen küçük bir aracı kontrol edeceksiniz. Katılın ve en yüksek puanınızla ne kadar iyi bir oyuncu olduğunuzu görün!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Serserilen Yarışçı - Kaymayı Ustalıkla, Yolu Fethet",
+      "whatIsTitle": "Serserilen Yarışçı Nedir?",
+      "whatIsDescription": "Serserilen Yarışçı, sürekli, keskin yollardan geçen bir aracı kontrol ettiğiniz bitmeyen bir koşu oyunudur. İlerledikçe zorluk artar, navigasyon becerilerinizi zorlar.",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Aracı yolda sabit bir hızda sürmeyi kontrol edin.",
+      "howToPlayStep2": "Sağa kaymak için fare düğmesini basılı tutun.",
+      "howToPlayStep3": "El değiştirin ve orijinal duruma geri dönün.",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Yaratıcı Grafikler",
+      "feature1Description": "Muhteşem bir meteor yağmuru ile büyüleyici bir dünyaya adım atın.",
+      "feature2Title": "Basit Oyun",
+      "feature2Description": "Öğrenmesi kolay, ancak ustalaşmak için pratik gerektirir.",
+      "feature3Title": "Dinamik Yol Tasarımı",
+      "feature3Description": "Ana yolun renkleri ve tasarımı sürekli değişir.",
+      "feature4Title": "Kilitlenebilir Araçlar",
+      "feature4Description": "Kazandığınız paraları kullanarak oyun içi dükkanlardan çeşitli diğer araçları açın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiye Eder"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Gör",
+      "page": "Sayfa"
+    }
+  }
+}

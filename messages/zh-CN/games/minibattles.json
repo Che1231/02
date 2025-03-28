@@ -1,0 +1,77 @@
+{
+  "minibattles": {
+    "title": "迷你对战：快节奏多人小游戏",
+    "slogan": "在迷你对战中挑战你的朋友！",
+    "description": "迷你对战是一款集合了快节奏、多人小游戏的集合，提供无穷的乐趣和刺激。参与各种游戏，从射击和足球到赛车和格斗，所有游戏都拥有简单易懂的操作。无论你和朋友还是AI一起玩，迷你对战都能为所有年龄段的玩家提供激动人心的娱乐体验。解锁精彩功能，沉浸在色彩缤纷的小游戏世界中。准备好进行势均力敌的战斗了吗？现在就玩迷你对战！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "迷你对战：快节奏多人小游戏",
+      "description": "在迷你对战中挑战你的朋友，这里集合了快节奏、多人小游戏！尽情享受各种游戏的乐趣！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "迷你对战：快节奏多人小游戏",
+      "whatIsTitle": "迷你对战是什么？",
+      "whatIsDescription": "迷你对战是一款有趣且多样的迷你游戏集合，让你与朋友或AI进行短暂而激烈的比赛。多种不同的迷你游戏，包括射击、足球、赛车和格斗，这款休闲游戏为所有年龄段的玩家带来绝佳的娱乐体验。",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "从游戏中选择一个迷你游戏。",
+      "howToPlayStep2": "使用一个或两个按钮来控制你的角色或车辆。",
+      "howToPlayStep3": "在快节奏的比赛中与朋友或AI竞争。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "多种迷你游戏",
+      "feature1Description": "享受各种迷你游戏，包括射击、足球、赛车和格斗。",
+      "feature2Title": "简单易懂的操作",
+      "feature2Description": "每个迷你游戏都拥有简单易懂的操作，通常只需要一个或两个按钮。",
+      "feature3Title": "双人模式",
+      "feature3Description": "与朋友和家人一起在双人模式中竞争和娱乐。",
+      "feature4Title": "沉浸式体验",
+      "feature4Description": "沉浸在逼真的环境中，感受色彩缤纷的迷你游戏世界。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页"
+    }
+  }
+}

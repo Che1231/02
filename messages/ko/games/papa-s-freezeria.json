@@ -1,0 +1,77 @@
+{
+  "papa-s-freezeria": {
+    "title": "파파스 프리저리아 온라인 플레이 - 아이스크림 가게 시뮬레이션 게임",
+    "slogan": "칼립소 섬에서 맛있는 썬데이 만들기",
+    "description": "아름다운 칼립소 섬에서 당신만의 아이스크림 가게를 운영할 수 있는 파파스 프리저리아에 오신 것을 환영합니다. 재미있고 매력적인 이 게임에서 주문을 받고, 맛있는 냉동 간식을 준비하고, 고객에게 제공합니다. 다양한 재료와 마법 같은 손재주로 완벽한 아이스크림 썬데이를 만들 수 있습니다. 진행하면서 시간을 효율적으로 관리하여 고객을 만족시키고 넉넉한 팁을 받으세요. 수익을 사용하여 가게를 개성 있게 꾸미고 섬에서 가장 멋진 곳으로 만들어보세요. 파파스 프리저리아에서 당신의 기술을 선보이고 즐거운 시간을 보내세요!",
+    "Loading": {
+      "title": "파파스 프리저리아 로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "파파스 프리저리아 - 아이스크림 가게 게임",
+      "description": "파파스 프리저리아에서 당신만의 아이스크림 가게를 운영하세요. 주문을 받고, 맛있는 썬데이를 준비하고, 칼립소 섬의 고객에게 제공하세요. 시간을 관리하고 팁을 받아 가게를 개성 있게 꾸며보세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "파파스 프리저리아 - 아이스크림 가게 시뮬레이션",
+      "whatIsTitle": "파파스 프리저리아는 무엇인가요?",
+      "whatIsDescription": "파파스 프리저리아는 칼립소 섬에서 아이스크림 가게를 운영하는 재미있고 매력적인 게임입니다. 주문을 받고, 맛있는 썬데이를 준비하고, 고객에게 제공하는 것이 목표입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "고객의 주문을 받고 그들의 선호도를 기록하세요.",
+      "howToPlayStep2": "다양한 재료를 사용하여 아이스크림 썬데이를 준비하세요.",
+      "howToPlayStep3": "썬데이를 신속하게 제공하여 팁을 얻고 고객을 만족시키세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "맞춤 설정 가능한 가게",
+      "feature1Description": "수익을 사용하여 새로운 의상을 구입하고 가게를 개성 있게 꾸며보세요.",
+      "feature2Title": "시간 관리",
+      "feature2Description": "줄을 효율적으로 관리하기 위해 시간을 잘 관리하세요.",
+      "feature3Title": "맛있는 썬데이",
+      "feature3Description": "다양한 재료를 사용하여 완벽한 아이스크림 디저트를 만들어보세요.",
+      "feature4Title": "넉넉한 팁",
+      "feature4Description": "고객을 신속하게 서비스하고 만족시켜 팁을 많이 받으세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

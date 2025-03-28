@@ -1,0 +1,77 @@
+{
+  "make-it-meme": {
+    "title": "Make It Meme - Online Multiplayer Meme-Spiel",
+    "slogan": "Memes erstellen, teilen und darüber lachen",
+    "description": "Make It Meme ist ein lebendiges und kompetitives Multiplayer-Spiel, das Menschen aus aller Welt zusammenbringt, um ihren Witz und Humor in Form von Memes zu präsentieren. Sobald das Spiel beginnt, erhält jeder Spieler eine zufällige Meme und muss seine Kreativität entfesseln, um innerhalb der gegebenen Zeit eine lustige Bildunterschrift zu erstellen. Anschließend haben alle Spieler 15 Sekunden Zeit, die Meme-Kreationen ihrer Mitbewerber zu bewerten. Treten Sie noch heute Make It Meme bei und beginnen Sie, Ihre eigenen lustigen Memes zu erstellen!",
+    "Loading": {
+      "title": "Wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Make It Meme",
+      "description": "Make It Meme ist ein lebendiges und kompetitives Multiplayer-Spiel, das Menschen aus aller Welt zusammenbringt, um ihren Witz und Humor in Form von Memes zu präsentieren.",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Make It Meme",
+      "whatIsTitle": "Was ist Make It Meme?",
+      "whatIsDescription": "Make It Meme ist ein lebendiges und kompetitives Multiplayer-Spiel, das Menschen aus aller Welt zusammenbringt, um ihren Witz und Humor in Form von Memes zu präsentieren.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Jeder Spieler erhält eine zufällige Meme.",
+      "howToPlayStep2": "Erstellen Sie innerhalb der gegebenen Zeit eine lustige Bildunterschrift.",
+      "howToPlayStep3": "Bewerten Sie die Meme-Kreationen Ihrer Mitbewerber.",
+      "keyFeaturesTitle": "Schlüsselmerkmale",
+      "feature1Title": "Multiplayer-Spaß",
+      "feature1Description": "Spielen Sie mit Freunden oder Fremden aus aller Welt.",
+      "feature2Title": "Kreative Freiheit",
+      "feature2Description": "Entfesseln Sie Ihre Kreativität mit lustigen Bildunterschriften.",
+      "feature3Title": "Schnelle Runden",
+      "feature3Description": "Genießen Sie schnelllebige Bewertungsrunden von 15 Sekunden.",
+      "feature4Title": "Globale Gemeinschaft",
+      "feature4Description": "Vernetzen Sie sich mit Meme-Enthusiasten weltweit."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

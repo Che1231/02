@@ -1,0 +1,77 @@
+{
+  "grindcraft": {
+    "title": "Grindcraft - 건설, 제작 및 탐험",
+    "slogan": "Grindcraft에서 당신의 위대함을 만들어가세요!",
+    "description": "Grindcraft에서 창의성과 전략이 만나는 흥미로운 모험을 시작하세요. 자원을 수집하고 도구를 제작하여 이 중독성 있는 아이들 클릭 게임에서 당신만의 번영하는 문명을 건설하세요. 간단한 가구에서 복잡한 구조물까지, 당신의 상상력이 유일한 한계입니다. 다양한 환경을 탐험하고 자원을 관리하며 커뮤니티를 확장하세요. 전략적인 계획가이든 단순히 즐거움을 찾는 분이든, Grindcraft는 끝없는 가능성을 제공합니다. 오늘 당신의 여정을 시작하고 꿈꿔왔던 세계를 창조하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "내용",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "Grindcraft - 건설, 제작 및 탐험",
+      "description": "Grindcraft에서 당신만의 문명을 창조하세요. 자원을 수집하고 도구를 제작하여 상상할 수 있는 모든 것을 건설하세요. 지금 당신의 모험을 시작하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Grindcraft - 건설, 제작 및 탐험",
+      "whatIsTitle": "Grindcraft는 무엇인가요?",
+      "whatIsDescription": "Grindcraft는 자원을 수집하고 도구를 제작하며 당신만의 문명을 건설하는 중독성 있는 아이들 클릭 게임입니다. 간단한 가구에서부터 복잡한 구조물까지, 당신의 상상력이 유일한 한계입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "왼쪽 열의 아이콘을 클릭하여 자원을 수집하세요.",
+      "howToPlayStep2": "수집한 자원을 사용하여 도구를 제작하고 구조물을 건설하세요.",
+      "howToPlayStep3": "커뮤니티를 확장하고 더 많은 주민을 유치하여 문명을 발전시키세요.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "무한한 창의력",
+      "feature1Description": "간단한 가구에서부터 복잡한 구조물까지 모든 것을 건설하세요.",
+      "feature2Title": "자원 관리",
+      "feature2Description": "게임 진행을 위해 자원을 수집하고 관리하세요.",
+      "feature3Title": "커뮤니티 확장",
+      "feature3Description": "더 많은 주민을 유치하고 편의 시설을 확장하여 문명을 발전시키세요.",
+      "feature4Title": "다양한 환경",
+      "feature4Description": "정글, 초원 등을 탐험하여 독특한 자원을 찾으세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 동영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 코멘트"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

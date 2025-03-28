@@ -1,0 +1,77 @@
+{
+  "run-2": {
+    "title": "Run 2 - Ücretsiz Online Geleceğe Yönelik Koşma Oyunu",
+    "slogan": "Uzayda yarışın ve zorlu arazileri fethedin!",
+    "description": "Run 2, reflekslerinizi test edecek! Zihin açıcı manzaralardan geçin, elektrikli engellerden sakının ve geleceğe yönelik pilotluk becerilerinizi kanıtlayın. Göz alıcı parıldayan yıldızlar ve karmaşık arazilerle, her seviye yeni zorluklar getiriyor. Tehlikeli ama çekici uzay yoluna hazır mısınız? Şimdi Run 2'yi oynayın ve heyecanı yaşayın!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinme"
+    },
+    "Common": {
+      "createAt": "Oluşturma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Run 2",
+      "description": "Run 2, reflekslerinizi test edecek! Zihin açıcı manzaralardan geçin, elektrikli engellerden sakının ve geleceğe yönelik pilotluk becerilerinizi kanıtlayın. Göz alıcı parıldayan yıldızlar ve karmaşık arazilerle, her seviye yeni zorluklar getiriyor. Tehlikeli ama çekici uzay yoluna hazır mısınız? Şimdi Run 2'yi oynayın ve heyecanı yaşayın!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Run 2",
+      "whatIsTitle": "Run 2 Nedir?",
+      "whatIsDescription": "Run 2, reflekslerinizi ve pilotluk becerilerinizi zorlayan geleceğe yönelik bir koşu oyunudur. Uzayda yarışın, engellerden sakının ve karmaşık arazileri fethedin.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Yabancıyı yönlendirmek için sola veya sağa ok tuşlarını kullanın.",
+      "howToPlayStep2": "Zıplamak veya yerçekimini değiştirmek için boşluk tuşuna basın.",
+      "howToPlayStep3": "İlerlemek için karmaşık arazileri aşın ve engellerden kaçının.",
+      "keyFeaturesTitle": "Ana Özellikler",
+      "feature1Title": "Zihin Açıcı Manzaralar",
+      "feature1Description": "Zorlu arazilerle göz alıcı uzay ortamlarını keşfedin.",
+      "feature2Title": "Elektrikli Engeller",
+      "feature2Description": "Reflekslerinizi ve zamanlamanızı test eden engellerden sakının.",
+      "feature3Title": "Geleceğe Yönelik Pilotluk",
+      "feature3Description": "Yabancının benzersiz hareketlerini kontrol etmedeki becerilerinizi kanıtlayın.",
+      "feature4Title": "Sonsuz Zorluklar",
+      "feature4Description": "Her seviye yeni zorluklar getiriyor ve daha fazla beceri gerektiriyor."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

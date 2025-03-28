@@ -1,0 +1,77 @@
+{
+  "minibattles": {
+    "title": "Minispiele: Schnelle Multiplayer-Minispiele",
+    "slogan": "Fordere deine Freunde in Minispielen heraus!",
+    "description": "Minispiele ist eine Sammlung schneller Multiplayer-Minispiele, die endlosen Spaß und Spannung bieten. Wetteifere in verschiedenen Spielen, von Shootern und Fußball bis hin zu Rennen und Kämpfen, alles mit einfachen und leicht verständlichen Steuerelementen. Ob mit Freunden oder KI, Minispiele bietet ein aufregendes Spielerlebnis für Spieler jeden Alters. Schalte fantastische Funktionen frei und tauche ein in die farbenfrohe Welt der Minispiele. Bereit für faire Kämpfe? Spiele jetzt Minispiele!",
+    "Loading": {
+      "title": "Lädt..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Minispiele: Schnelle Multiplayer-Minispiele",
+      "description": "Fordere deine Freunde in Minispielen, einer Sammlung schneller Multiplayer-Minispiele, heraus! Wetteifere in verschiedenen Spielen mit viel Spaß!",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Minispiele: Schnelle Multiplayer-Minispiele",
+      "whatIsTitle": "Was sind Minispiele?",
+      "whatIsDescription": "Minispiele sind eine unterhaltsame und vielfältige Sammlung von Minispielen, die es dir ermöglichen, kurze, aber intensive Spiele mit Freunden oder der KI zu bestreiten. Mit vielen verschiedenen Minispielen, von Shootern über Fußball, Rennen bis hin zu Kämpfen, bietet dieses Gelegenheitsspiel ein großartiges Spielerlebnis für Spieler jeden Alters.",
+      "howToPlayTitle": "So spielst du",
+      "howToPlayStep1": "Wähle ein Minispiel aus der Sammlung.",
+      "howToPlayStep2": "Benutze einen oder zwei Tasten, um deinen Charakter oder dein Fahrzeug zu steuern.",
+      "howToPlayStep3": "Wetteifere mit Freunden oder der KI in rasanten Partien.",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
+      "feature1Title": "Vielfältige Minispiele",
+      "feature1Description": "Genieße eine Vielzahl von Minispielen, darunter Shooter, Fußball, Rennen und Kämpfe.",
+      "feature2Title": "Einfache Steuerung",
+      "feature2Description": "Jedes Minispiel verfügt über eine leicht verständliche Steuerung, die normalerweise nur einen oder zwei Tasten erfordert.",
+      "feature3Title": "Zweiermodus",
+      "feature3Description": "Wetteifer und unterhalte dich mit Freunden und Familie im Zweiermodus.",
+      "feature4Title": "Eintauchen in die Erlebniswelt",
+      "feature4Description": "Tauche ein in die farbenfrohe Welt der Minispiele mit realistischen Umgebungen."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

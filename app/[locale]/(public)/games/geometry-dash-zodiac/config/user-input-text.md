@@ -1,0 +1,1 @@
+Geometry Dash Zodiac is an exhilarating installment in the renowned rhythm-based platforming game series, Geometry Dash. Zodiac introduces a new level of challenge and excitement for players eager to test their skills and reflexes.

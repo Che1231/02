@@ -1,0 +1,122 @@
+{
+  "name": "Papa's Freezeria",
+  "pagePath": "/games/papa-s-freezeria",
+  "pageName": "papa-s-freezeria",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://en.gameslol.net/data/awayjs/papa/freezeria.html",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomKraken99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomKraken99.png",
+      "content": "Papa's Freezeria is a blast! Love how you can customize your shop and multitask to keep customers happy. Such a chill vibe!"
+    },
+    {
+      "author": "NeonRevolver_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonRevolver_X.png",
+      "content": "Wow, the time management in this game is intense. At first it seems easy, but it gets crazy fast. Fun challenge though!"
+    },
+    {
+      "author": "CtrlAltFreeze",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltFreeze.png",
+      "content": "Just started playing Papa's Freezeria and I’m hooked. The ice cream recipes are so creative, and the tips system is addictive!"
+    },
+    {
+      "author": "CosmicPhoenix87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicPhoenix87.png",
+      "content": "This game is a sweet escape! I love the island setting and the detailed customization options. Perfect for a relaxing session."
+    },
+    {
+      "author": "SavageKatana_42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatana_42.png",
+      "content": "Papa's Freezeria nails the balance of fun and challenge. Managing orders while keeping customers happy is so satisfying!"
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "The multitasking in this game is no joke. My brain is working overtime, but it’s worth it for those sweet tips!"
+    },
+    {
+      "author": "Witcher4IceCream",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4IceCream.png",
+      "content": "Papa's Freezeria? More like Papa’s Masterpiece. The gameplay is so smooth, and I’m obsessed with unlocking new shop designs."
+    },
+    {
+      "author": "NoobMaster99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster99.png",
+      "content": "This game is surprisingly addictive. I thought it’d be just another time-waster, but the mechanics are way deeper than I expected."
+    },
+    {
+      "author": "xX_FreezerAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_FreezerAura_Xx.png",
+      "content": "Papa's Freezeria is the ultimate ice cream sim. The ingredients are endless, and the customers keep me on my toes. So much fun!"
+    },
+    {
+      "author": "PotionSundae",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionSundae.png",
+      "content": "This game is a sweet escape from reality. Love the creative freedom and the challenge of keeping up with orders. Highly recommend!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/papa-s-freezeria/papa-s-freezeria-m200x130.webp",
+  "page_path": "/games/papa-s-freezeria",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8scg0ww012hlywljkj31j27",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T05:30:24.800Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 13:47:22"
+}

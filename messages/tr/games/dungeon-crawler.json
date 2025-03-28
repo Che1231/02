@@ -1,0 +1,77 @@
+{
+  "dungeon-crawler": {
+    "title": "Zindan Gezgini: Eski Hazineleri Keşfet ve Fethet",
+    "slogan": "Zindan Gezgini'nde antik hazineleri bulmak için bir yolculuğa çıkın!",
+    "description": "Zindan Gezgini, karanlık ve tehlikeli zindanlara giren cesur bir kahraman olarak oynadığınız gizemli bir aksiyon-macera rol yapma oyunudur. Keşfedin, canavarlarla savaşın, hazine toplayın ve karakterinizi güçlendirmek için yükseltin. Zengin bir dövüş sistemi ve etkileyici bir hikaye ile Zindan Gezgini, dramatik ve zorlu bir deneyim sunar. Yenilmez bir savaşçı olmak için hazır mısınız? Keşfedelim ve fethedelim!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Klavuz",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Zindan Gezgini",
+      "description": "Zindan Gezgini'nde antik hazineleri bulmak için bir yolculuğa çıkın! Keşfedin, canavarlarla savaşın ve karakterinizi güçlendirmek için yükseltin.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Zindan Gezgini",
+      "whatIsTitle": "Zindan Gezgini Nedir?",
+      "whatIsDescription": "Zindan Gezgini, karanlık ve tehlikeli zindanlara giren cesur bir kahraman olarak oynadığınız gizemli bir aksiyon-macera rol yapma oyunudur. Ana hedefiniz keşfetmek, canavarlarla savaşmak, hazine toplamak ve karakterinizi güçlendirmek için yükseltmektir.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Labirent benzeri zindanlarda gizemleri aramak için savaşçınızı kontrol edin.",
+      "howToPlayStep2": "Silahlar, büyü ve özel beceriler kullanarak canavarları yenin.",
+      "howToPlayStep3": "Savaştan kazandığınız deneyimle karakterinizin becerilerini ve özelliklerini yükseltin.",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Zengin Dövüş Sistemi",
+      "feature1Description": "Çeşitli silahlar ve becerilerle dramatik ve zorlu savaşlara katılın.",
+      "feature2Title": "Etkileyici Hikaye",
+      "feature2Description": "Karanlık ve tehlikeli zindanları keşfederken sürükleyici bir hikaye izleyin.",
+      "feature3Title": "Karakter Yükseltmeleri",
+      "feature3Description": "Daha güçlü olmak için karakterinizin becerilerini ve özelliklerini yükseltin.",
+      "feature4Title": "Hazine Toplama",
+      "feature4Description": "Yolculuğunuza yardımcı olmak için değerli hazineleri ve eşyaları toplayın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Gör",
+      "page": "Sayfa"
+    }
+  }
+}

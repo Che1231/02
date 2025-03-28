@@ -1,0 +1,77 @@
+{
+  "football-blitz": {
+    "title": "フットボール・ブリッツ - あなたの内なるスーパースターを開放せよ",
+    "slogan": "スパイクを締めて、ボール！",
+    "description": "フットボール・ブリッツは、あなたの中に潜むスーパースターを開放するためにここにいます！ハイオクターブのアクション、ピクセルパーフェクトなパス、骨を砕くタックルを体験してください。華麗なフットワークをマスターし、とどめの一撃を放ち、ピッチ上で伝説になりましょう。複数のゲームモードとカスタマイズ機能により、フットボール・ブリッツは無限の楽しさをお届けします。今すぐプレイして、フィールドを支配しましょう！",
+    "Loading": {
+      "title": "ロード中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "フットボール・ブリッツ™",
+      "description": "フットボール・ブリッツは、ハイオクターブのアクション、ピクセルパーフェクトなパス、骨を砕くタックルに焦点を当てたゲームです。華麗なフットワークをマスターし、とどめの一撃を放ち、ピッチで伝説になりましょう。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "フットボール・ブリッツ",
+      "whatIsTitle": "フットボール・ブリッツとは？",
+      "whatIsDescription": "フットボール・ブリッツは、あなたの内なるスーパースターを開放できる、高揚感あふれるサッカーゲームです。複数のゲームモードとカスタマイズ機能により、無限の楽しさと挑戦を提供します。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "矢印キーまたはWASDキーを使用してキャラクターを操作します。",
+      "howToPlayStep2": "クイックマッチ、クレイジー、トーナメント、チャレンジなど、さまざまなゲームモードから選択します。",
+      "howToPlayStep3": "対戦相手よりも多くのゴールを決めて勝利し、究極のチャンピオンを目指しましょう。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "複数のゲームモード",
+      "feature1Description": "クイックマッチ、クレイジー、トーナメント、チャレンジなどのさまざまなゲームモードをお楽しみください。",
+      "feature2Title": "カスタマイズ",
+      "feature2Description": "好みに合わせてゲームプレイをカスタマイズできます。",
+      "feature3Title": "ハイオクターブのアクション",
+      "feature3Description": "ピクセルパーフェクトなパスと骨を砕くタックルをお楽しみください。",
+      "feature4Title": "伝説的なゲームプレイ",
+      "feature4Description": "華麗なフットワークをマスターし、とどめの一撃を放ち、ピッチ上で伝説になりましょう。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

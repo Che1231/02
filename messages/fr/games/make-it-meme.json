@@ -1,0 +1,77 @@
+{
+  "make-it-meme": {
+    "title": "Make It Meme - Jeu de mèmes multijoueur en ligne",
+    "slogan": "Créez, partagez et riez avec des mèmes",
+    "description": "Make It Meme est un jeu multijoueur animé et compétitif qui rassemble des personnes du monde entier pour mettre en valeur leur esprit et leur humour sous forme de mèmes. Une fois le jeu lancé, chaque joueur reçoit un mème aléatoire et doit faire preuve de créativité pour rédiger une légende hilarante dans le temps imparti. Par la suite, tous les joueurs ont 15 secondes pour noter les créations de mèmes de leurs concurrents. Rejoignez Make It Meme aujourd'hui et commencez à créer vos propres mèmes hilarants !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amicaux",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Make It Meme",
+      "description": "Make It Meme est un jeu multijoueur animé et compétitif qui rassemble des personnes du monde entier pour mettre en valeur leur esprit et leur humour sous forme de mèmes.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Make It Meme",
+      "whatIsTitle": "Qu'est-ce que Make It Meme ?",
+      "whatIsDescription": "Make It Meme est un jeu multijoueur animé et compétitif qui rassemble des personnes du monde entier pour mettre en valeur leur esprit et leur humour sous forme de mèmes.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Chaque joueur reçoit un mème aléatoire.",
+      "howToPlayStep2": "Rédigez une légende hilarante dans le temps imparti.",
+      "howToPlayStep3": "Notez les créations de mèmes de vos concurrents.",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Divertissement multijoueur",
+      "feature1Description": "Jouez avec des amis ou des inconnus du monde entier.",
+      "feature2Title": "Liberté créative",
+      "feature2Description": "Libérez votre créativité avec des légendes hilarantes.",
+      "feature3Title": "Tours rapides",
+      "feature3Description": "Profitez de tours de notation rapides de 15 secondes.",
+      "feature4Title": "Communauté mondiale",
+      "feature4Description": "Connectez-vous avec des passionnés de mèmes du monde entier."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

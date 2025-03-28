@@ -1,0 +1,77 @@
+{
+  "dungeon-crawler": {
+    "title": "地下城爬行者：探索和征服远古宝藏",
+    "slogan": "踏上寻找地下城爬行者中远古宝藏的旅程！",
+    "description": "《地下城爬行者》是一款神秘的动作冒险角色扮演游戏，你将扮演一位勇敢的英雄，冒险进入黑暗危险的地下城。探索，与怪物战斗，收集宝藏，提升你的角色变得更强大。拥有丰富的战斗系统和引人入胜的故事情节，《地下城爬行者》提供惊险刺激的挑战体验。准备好成为无敌的战士吗？让我们一起探索和征服！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一个",
+      "previous": "上一个"
+    },
+    "HomeIframe": {
+      "title": "地下城爬行者",
+      "description": "踏上寻找地下城爬行者中远古宝藏的旅程！探索，与怪物战斗，提升你的角色变得更强大。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL 已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "玩游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "地下城爬行者",
+      "whatIsTitle": "什么是地下城爬行者？",
+      "whatIsDescription": "《地下城爬行者》是一款神秘的动作冒险角色扮演游戏，你将扮演一位勇敢的英雄，冒险进入黑暗危险的地下城。你的主要目标是探索，与怪物战斗，收集宝藏，提升你的角色变得更强大。",
+      "howToPlayTitle": "如何玩游戏",
+      "howToPlayStep1": "控制你的战士在迷宫般的地下城中寻找秘密。",
+      "howToPlayStep2": "使用武器、魔法和特殊技能击败怪物。",
+      "howToPlayStep3": "通过战斗获得经验，提升你的角色技能和属性。",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "丰富的战斗系统",
+      "feature1Description": "使用各种武器和技能进行惊险刺激的战斗。",
+      "feature2Title": "引人入胜的故事线",
+      "feature2Description": "随着你探索黑暗危险的地下城，沉浸于引人入胜的故事之中。",
+      "feature3Title": "角色升级",
+      "feature3Description": "提升你的角色技能和属性，变得更强大。",
+      "feature4Title": "宝藏收集",
+      "feature4Description": "收集珍贵的宝藏和物品，帮助你完成旅程。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

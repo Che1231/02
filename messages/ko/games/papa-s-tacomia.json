@@ -1,0 +1,77 @@
+{
+  "papa-s-tacomia": {
+    "title": "파파스 타코미아™ 온라인 플레이 - 무료 레스토랑 경영 게임",
+    "slogan": "파파스 타코미아에서 요리 재능을 발휘하세요!",
+    "description": "파파스 타코미아™에서 맛있는 타코를 만들고 토핑을 커스터마이징하고 주문을 처리하는 중독성 있는 레스토랑 경영 게임입니다. 신선한 재료를 준비하고 손님에게 서비스하는 등 타코 레스토랑의 모든 측면을 관리하며 매력적인 요리 게임에서 요리 실력을 마음껏 발휘해 보세요. 지금 파파스 타코미아™를 플레이하고 훌륭한 셰프가 되십시오!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "내용",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "파파스 타코미아™ - 무료 온라인 게임",
+      "description": "파파스 타코미아™에서 맛있는 타코를 만들고 토핑을 커스터마이징하고 주문을 처리하는 중독성 있는 레스토랑 경영 게임입니다.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "파파스 타코미아™",
+      "whatIsTitle": "파파스 타코미아™는 무엇인가요?",
+      "whatIsDescription": "파파스 타코미아™는 신선한 재료를 준비하고 손님에게 서비스하는 등 타코 레스토랑의 모든 측면을 관리하는 매력적인 요리 게임입니다. 요리 실력을 마음껏 발휘해 보세요.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "각 타코에 필요한 재료(고기, 채소, 소스, 다양한 추가 재료)를 선택하세요.",
+      "howToPlayStep2": "손님의 특정 요구 사항에 따라 재료를 조립하세요.",
+      "howToPlayStep3": "손님에게 빠르게 서비스하여 돈과 사업 점수를 획득하세요.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "커스터마이징 가능한 타코",
+      "feature1Description": "다양한 토핑과 재료로 맛있는 타코를 만드세요.",
+      "feature2Title": "레스토랑 경영",
+      "feature2Description": "준비부터 서비스까지 타코 레스토랑의 모든 측면을 관리하세요.",
+      "feature3Title": "업그레이드 기능",
+      "feature3Description": "업그레이드를 통해 레스토랑을 개선하고 더 많은 손님을 서비스하세요.",
+      "feature4Title": "중독성 있는 게임 플레이",
+      "feature4Description": "주문을 처리하고 손님을 만족시켜 보너스와 감사를 얻으세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

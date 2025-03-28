@@ -1,0 +1,77 @@
+{
+  "minibattles": {
+    "title": "Minibattles : Jeux Multijoueur de Mini-jeux Rapides",
+    "slogan": "Défiez vos amis dans Minibattles !",
+    "description": "Minibattles est une collection de mini-jeux multijoueurs rapides et palpitants.  Participez à une variété de jeux, du tir et du football à la course et aux combats, le tout avec des commandes simples et faciles à comprendre. Que vous jouiez avec des amis ou avec l'IA, Minibattles offre une expérience de divertissement passionnante pour les joueurs de tous âges. Débloquez des fonctionnalités merveilleuses et plongez-vous dans l'univers coloré des mini-jeux. Prêt pour des batailles équilibrées ? Jouez à Minibattles maintenant !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste d'articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Minibattles : Jeux Multijoueur de Mini-jeux Rapides",
+      "description": "Défiez vos amis dans Minibattles, une collection de mini-jeux multijoueurs rapides et passionnants ! Participez à une variété de jeux remplis de plaisir !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer au jeu"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Minibattles : Jeux Multijoueur de Mini-jeux Rapides",
+      "whatIsTitle": "Qu'est-ce que Minibattles ?",
+      "whatIsDescription": "Minibattles est une collection amusante et variée de mini-jeux qui vous permet de participer à des matchs courts mais intenses avec des amis ou l'IA. Avec de nombreux mini-jeux différents, du tir au football, en passant par la course et les combats, ce jeu décontracté offre une excellente expérience de divertissement pour les joueurs de tous âges.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Choisissez un mini-jeu parmi la collection.",
+      "howToPlayStep2": "Utilisez un ou deux boutons pour contrôler votre personnage ou véhicule.",
+      "howToPlayStep3": "Affrontez des amis ou l'IA dans des matchs rapides.",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Variété de mini-jeux",
+      "feature1Description": "Profitez d'une variété de mini-jeux, notamment du tir, du football, de la course et des combats.",
+      "feature2Title": "Commandes simples",
+      "feature2Description": "Chaque mini-jeu possède des commandes faciles à comprendre, nécessitant généralement un ou deux boutons.",
+      "feature3Title": "Mode deux joueurs",
+      "feature3Description": "Affrontez et amusez-vous avec des amis et de la famille en mode deux joueurs.",
+      "feature4Title": "Expérience immersive",
+      "feature4Description": "Plongez-vous dans l'univers coloré des mini-jeux avec des décors réalistes."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

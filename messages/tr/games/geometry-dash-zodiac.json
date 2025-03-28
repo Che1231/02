@@ -1,0 +1,77 @@
+{
+  "geometry-dash-zodiac": {
+    "title": "Geometry Dash Zodiac - Ücretsiz Çevrimiçi Ritim Platform Oyunu",
+    "slogan": "Geometry Dash Zodiac ile Reflekslerinizi Zorlayın",
+    "description": "Geometry Dash Zodiac, becerilerinizi bir üst seviyeye taşıyan heyecan verici bir ritim tabanlı platform oyunudur. Benzersiz zorlukları ve büyüleyici oyunuyla, Geometry Dash Zodiac, her yaştan oyuncu için unutulmaz bir deneyim sunar. Bugün Geometry Dash Zodiac dünyasına dalın ve bu heyecan verici macerada reflekslerinizi test edin!",
+    "Loading": {
+      "title": "Geometry Dash Zodiac Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Geometry Dash Zodiac - Şimdi Oyna",
+      "description": "Becerilerinizi ve reflekslerinizi zorlayan, ritim tabanlı bir platform oyunu olan Geometry Dash Zodiac'in heyecanını yaşayın. Geometry Dash Zodiac'i ücretsiz oynayın ve kendinizi bu heyecan verici oyunda bulundurun!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Geometry Dash Zodiac",
+      "whatIsTitle": "Geometry Dash Zodiac Nedir?",
+      "whatIsDescription": "Geometry Dash Zodiac, ritim tabanlı platform oyuncuları için yeni zorluklar ve heyecan verici oyun sunan Geometry Dash serisinin en yeni taksididir.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Seviyelerde hassas zamanlama ve ritim kullanarak ilerleyin.",
+      "howToPlayStep2": "Engellerden ve tuzaklardan kaçının ve her düzeyin sonuna ulaşın.",
+      "howToPlayStep3": "Yeni seviyeler ve özellikler kilidi açmak için zorlukları tamamlayın.",
+      "keyFeaturesTitle": "Temel Özellikler",
+      "feature1Title": "Yeni Seviyeler",
+      "feature1Description": "Benzersiz zorlukları olan çeşitli yeni seviyeleri keşfedin.",
+      "feature2Title": "Geliştirilmiş Oyun",
+      "feature2Description": "Geliştirilmiş mekanikler ve daha düzgün kontrolleri deneyimleyin.",
+      "feature3Title": "Kişiselleştirilebilir Karakterler",
+      "feature3Description": "Karakterinizi yeni skinler ve aksesuarlarla kişiselleştirin.",
+      "feature4Title": "Puan Tabloları",
+      "feature4Description": "Dünyanın dört bir yanındaki arkadaşlarınızla ve oyuncularla en üst sırada yarışın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Hiç kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "make-it-meme": {
+    "title": "Make It Meme - 線上多人梗圖遊戲",
+    "slogan": "創作、分享，並與梗圖一同歡笑",
+    "description": "Make It Meme 是一款充滿活力且競爭激烈的多人遊戲，匯集全球玩家，以梗圖展現他們的機智和幽默。遊戲開始後，每個玩家都會收到一張隨機梗圖，並需要在指定時間內創作一個充滿笑點的標題。之後，所有玩家將有 15 秒的時間來評分其他玩家的梗圖創作。立即加入 Make It Meme，開始創作您自己的爆笑梗圖！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導覽列"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "Make It Meme",
+      "description": "Make It Meme 是一款充滿活力且競爭激烈的多人遊戲，匯集全球玩家，以梗圖展現他們的機智和幽默。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Make It Meme",
+      "whatIsTitle": "Make It Meme 到底是什麼？",
+      "whatIsDescription": "Make It Meme 是一款充滿活力且競爭激烈的多人遊戲，匯集全球玩家，以梗圖展現他們的機智和幽默。",
+      "howToPlayTitle": "如何遊戲",
+      "howToPlayStep1": "每個玩家都會收到一張隨機梗圖。",
+      "howToPlayStep2": "在限定時間內創作一個充滿笑點的標題。",
+      "howToPlayStep3": "評分其他玩家的梗圖創作。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "多人遊戲樂趣",
+      "feature1Description": "與來自世界各地的朋友或陌生人一起遊戲。",
+      "feature2Title": "創意自由度",
+      "feature2Description": "運用你的創造力，創作充滿笑點的標題。",
+      "feature3Title": "快速回合",
+      "feature3Description": "享受快速且持續15秒的評分回合。",
+      "feature4Title": "全球社群",
+      "feature4Description": "與全球的梗圖愛好者連結。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲列表"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到分類",
+      "viewMore": "檢視更多",
+      "page": "頁面"
+    }
+  }
+}

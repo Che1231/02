@@ -1,0 +1,77 @@
+{
+  "dungeon-crawler": {
+    "title": "Dungeon Crawler: Jelajahi dan Taklukkan Harta Karun Kuno",
+    "slogan": "Mulailah perjalanan untuk menemukan harta karun kuno di Dungeon Crawler!",
+    "description": "Dungeon Crawler adalah permainan peran aksi petualangan misterius di mana Anda berperan sebagai pahlawan berani yang menjelajahi ruang bawah tanah yang gelap dan berbahaya. Jelajahi, bertarung melawan monster, kumpulkan harta karun, dan tingkatkan karakter Anda untuk menjadi lebih kuat. Dengan sistem pertarungan yang kaya dan alur cerita yang menarik, Dungeon Crawler menawarkan pengalaman yang dramatis dan menantang. Apakah Anda siap menjadi prajurit yang tak terkalahkan? Mari jelajahi dan taklukkan!",
+    "Loading": {
+      "title": "Memuat..."
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Buat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Dungeon Crawler",
+      "description": "Mulailah perjalanan untuk menemukan harta karun kuno di Dungeon Crawler! Jelajahi, bertarung melawan monster, dan tingkatkan karakter Anda untuk menjadi lebih kuat.",
+      "iframeTitle": "Pratinjau Game",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Game",
+      "playGame": "Mainkan Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Dungeon Crawler",
+      "whatIsTitle": "Apa itu Dungeon Crawler?",
+      "whatIsDescription": "Dungeon Crawler adalah permainan peran aksi petualangan misterius di mana Anda berperan sebagai pahlawan berani yang menjelajahi ruang bawah tanah yang gelap dan berbahaya. Tujuan utama Anda adalah menjelajahi, bertarung melawan monster, mengumpulkan harta karun, dan meningkatkan karakter Anda untuk menjadi lebih kuat.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Kendalikan prajurit Anda untuk mencari misteri di ruang bawah tanah seperti labirin.",
+      "howToPlayStep2": "Kalahkan monster menggunakan senjata, sihir, dan keterampilan khusus.",
+      "howToPlayStep3": "Tingkatkan keterampilan dan atribut karakter Anda dengan pengalaman yang diperoleh dari pertempuran.",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Sistem Pertarungan yang Kaya",
+      "feature1Description": "Terlibat dalam pertempuran yang dramatis dan menantang dengan berbagai senjata dan keterampilan.",
+      "feature2Title": "Alur Cerita yang Menarik",
+      "feature2Description": "Ikuti alur cerita yang mendalam saat Anda menjelajahi ruang bawah tanah yang gelap dan berbahaya.",
+      "feature3Title": "Peningkatan Karakter",
+      "feature3Description": "Tingkatkan keterampilan dan atribut karakter Anda untuk menjadi lebih kuat.",
+      "feature4Title": "Pengumpulan Harta Karun",
+      "feature4Description": "Kumpulkan harta karun dan barang-barang berharga untuk membantu perjalanan Anda."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Game"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Game",
+      "description": "Semua Game",
+      "games": "Game"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Lebih Banyak",
+      "page": "Halaman"
+    }
+  }
+}

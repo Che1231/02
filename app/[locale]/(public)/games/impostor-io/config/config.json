@@ -1,0 +1,125 @@
+{
+  "name": "Impostor.io",
+  "pagePath": "/games/impostor-io",
+  "pageName": "impostor-io",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://impostor.io/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "CosmicKRAken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicKRAken87.png",
+      "content": "OMG, Impostor.io is super fun! Trying to find the impostors while doing tasks on the spaceship is so thrilling! This game is awesome!"
+    },
+    {
+      "author": "NeonRevolver_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonRevolver_X.png",
+      "content": "This game, Impostor.io, is a total nail-biter! The social deduction aspect is really well done.  Do you guys think I'm sus?"
+    },
+    {
+      "author": "xX_ShadowKatana_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_ShadowKatana_Xx.png",
+      "content": "Impostor.io is a blast! The task completion is pretty engaging, and the whole impostor hunting thing keeps you on edge.  GGs."
+    },
+    {
+      "author": "Witcher4Life",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Life.png",
+      "content": "Haha, this game is wild! Seriously love Impostor.io, it's so similar to Among Us I'd say, but still quite good... Gotta catch the impostors!"
+    },
+    {
+      "author": "StalkingPhoenIx42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenIx42.png",
+      "content": "Okay, I was totally surprised by how much I love Impostor.io! Such a good game, can't wait to see who the impostors are."
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Anyone else always get voted off first?  Impostor.io is still amazing though. It's great how you have to work together!"
+    },
+    {
+      "author": "SavageBroadswOrd_99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBroadswOrd_99.png",
+      "content": "Dude, you gotta try Impostor.io! The spaceship setting is cool, but the gameplay is truly unique. Trying to figure out who's sus is hilarious."
+    },
+    {
+      "author": "PhantomLeviathAn",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomLeviathAn.png",
+      "content": "Is anyone else addicted to Impostor.io? This game is really fun! Gotta finish the tasks while trying to find the imposter."
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "What a game, Impostor.io is awesome! Working to finish the tasks while catching the impostors is really engaging. Check it out!"
+    },
+    {
+      "author": "LagWarriOrXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriOrXX.png",
+      "content": "This game is so cool! Love the spaceship setting, and finding the impostors in Impostor.io is challenging but super fun, seriously. Highly recommend it!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/impostor-io/impostor-io-m200x130.webp",
+  "page_path": "/games/impostor-io",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8scgh280139lywl1ih6hdzy",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T05:30:45.727Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 13:51:08",
+  "categories": [
+    ".IO Games"
+  ]
+}

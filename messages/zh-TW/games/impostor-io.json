@@ -1,0 +1,77 @@
+{
+  "impostor-io": {
+    "title": "在線玩 Impostor.io - 多人社交推理遊戲",
+    "slogan": "揭穿騙子，完成任務，存活下來！",
+    "description": "Impostor.io 是一款引人入勝的多人遊戲，靈感來自於熱門的社交推理遊戲 Among Us。在這令人興奮的體驗中，玩家們會發現自己身處一艘宇宙飛船上，必須共同努力完成任務，並識別其中的騙子。Impostor.io 提供了策略和欺騙的精彩結合，非常適合社交推理遊戲的粉絲們。加入冒險，看看你是否能發現騙子，或者成功地欺騙你的船員。現在就玩 Impostor.io，體驗緊張刺激的氛圍！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友善連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "Impostor.io™ - 線上多人遊戲",
+      "description": "在 Impostor.io 中體驗社交推理的刺激。共同努力完成任務，並找出騙子。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Impostor.io - 多人社交推理遊戲",
+      "whatIsTitle": "Impostor.io 是什麼？",
+      "whatIsDescription": "Impostor.io 是一款引人入勝的多人遊戲，靈感來自於熱門的社交推理遊戲 Among Us。玩家們必須共同努力完成任務，並識別其中的騙子。",
+      "howToPlayTitle": "如何遊戲",
+      "howToPlayStep1": "加入一艘宇宙飛船船員並完成任務，維護飛船正常運行。",
+      "howToPlayStep2": "識別並投票淘汰船員中的騙子。",
+      "howToPlayStep3": "存活下來並完成所有任務以贏得遊戲。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "多人遊戲",
+      "feature1Description": "與朋友或陌生人在令人興奮的多人遊戲環境中玩耍。",
+      "feature2Title": "社交推理",
+      "feature2Description": "使用策略和欺騙來揭穿騙子，或欺騙你的船員。",
+      "feature3Title": "任務完成",
+      "feature3Description": "共同努力完成各種任務，並維護宇宙飛船的正常運作。",
+      "feature4Title": "令人興奮的懸念",
+      "feature4Description": "體驗 Impostor.io 中的緊張和興奮，試圖存活或欺騙。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "檢視更多",
+      "page": "頁碼"
+    }
+  }
+}

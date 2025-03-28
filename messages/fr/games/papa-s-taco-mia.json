@@ -1,0 +1,77 @@
+{
+  "papa-s-taco-mia": {
+    "title": "Jouer à Papa's Taco Mia en ligne - Construisez votre taqueria de rêve",
+    "slogan": "Créez votre taco parfait !",
+    "description": "Avez-vous toujours rêvé de diriger votre propre taqueria ? Maintenant, c'est possible avec Papa's Taco Mia ! Vous y trouverez tous les ingrédients que vous pourriez souhaiter : bœuf, poulet, oignons, poivrons, tacos à carapace dure et à carapace molle. Vous pouvez créer n'importe quel type de taco que vous désirez. Rejoignez Papa's Taco Mia dès aujourd'hui et commencez à créer les tacos de vos rêves !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Papa's Taco Mia™",
+      "description": "Construisez votre taqueria de rêve avec Papa's Taco Mia ! Créez de délicieux tacos avec une variété d'ingrédients.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Papa's Taco Mia™",
+      "whatIsTitle": "Qu'est-ce que Papa's Taco Mia ?",
+      "whatIsDescription": "Papa's Taco Mia est un jeu amusant et interactif où vous pouvez construire votre propre taqueria et créer des tacos délicieux avec une variété d'ingrédients.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Choisissez vos ingrédients parmi le bœuf, le poulet, les oignons, les poivrons et plus encore.",
+      "howToPlayStep2": "Choisissez votre type de tortilla - dure ou molle.",
+      "howToPlayStep3": "Assemblez votre taco et servez-le à vos clients.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Variété d'ingrédients",
+      "feature1Description": "Choisissez parmi le bœuf, le poulet, les oignons, les poivrons et plus encore pour créer votre taco parfait.",
+      "feature2Title": "Options de tortilla",
+      "feature2Description": "Choisissez entre les tortillas à carapace dure et à carapace molle pour des textures différentes.",
+      "feature3Title": "Gameplay interactif",
+      "feature3Description": "Construisez votre propre taqueria et servez des tacos à vos clients.",
+      "feature4Title": "Liberté créative",
+      "feature4Description": "Créez n'importe quel type de taco que vous désirez avec des combinaisons infinies."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

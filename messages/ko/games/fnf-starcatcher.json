@@ -1,0 +1,77 @@
+{
+  "fnf-starcatcher": {
+    "title": "FNF 스타캐쳐 - 무료 온라인 리듬 게임",
+    "slogan": "비트를 잡고, 별을 잡으세요!",
+    "description": "FNF 스타캐쳐에서 빠르게 진행되는 음악 배틀에 참여하여 뛰어난 타이밍 실력을 테스트해보세요! 우주 배경과 매력적인 음악이 긴장감을 높여줍니다! FNF 스타캐쳐로 최고의 리듬 게임 경험을 준비되셨나요? 금요일 밤 펑킨 시리즈의 매혹적인 모드가 게임계를 강타할 준비를 하고 있습니다! 이 리듬 게임에서 여러분은 전례 없는 음악적 여정에 떠나게 될 것입니다. 이 중독성 강한 리듬 게임은 금요일 밤 펑킨의 활기찬 리듬과 별이 빛나는 밤하늘의 천체 마법을 결합했습니다. 매혹적인 시각 효과와 매력적인 사운드 트랙으로 첫 음표부터 사로잡힐 것입니다. 그럼, 무엇을 기다리시나요? 비트에 맞춰 스타캐쳐 혁명에 참여하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "컨텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "FNF 스타캐쳐",
+      "description": "FNF 스타캐쳐에서 빠르게 진행되는 음악 배틀에 참여하여 뛰어난 타이밍 실력을 테스트해보세요! 우주 배경과 매력적인 음악이 긴장감을 높여줍니다!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "FNF 스타캐쳐",
+      "whatIsTitle": "FNF 스타캐쳐는 무엇인가요?",
+      "whatIsDescription": "FNF 스타캐쳐는 금요일 밤 펑킨의 활기찬 리듬과 별이 빛나는 밤하늘의 천체 마법을 결합한 리듬 게임입니다. 매혹적인 시각 효과와 매력적인 사운드 트랙으로 독특한 음악 여정을 제공합니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "음악과 함께 키를 일치시켜 누르세요.",
+      "howToPlayStep2": "별을 잡아 더 높은 점수를 얻으세요.",
+      "howToPlayStep3": "능력을 향상시키면서 자신의 기록을 경신하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "혁신적인 별 잡기 메커니즘",
+      "feature1Description": "다른 리듬 게임과 차별화되는 독특한 게임 플레이 메커니즘을 경험하세요.",
+      "feature2Title": "매혹적인 시각 효과",
+      "feature2Description": "우주 배경을 생생하게 보여주는 놀라운 시각 효과를 즐겨보세요.",
+      "feature3Title": "매력적인 사운드 트랙",
+      "feature3Description": "첫 음표부터 게임의 사운드 트랙에 사로잡히게 될 것입니다.",
+      "feature4Title": "중독성 있는 게임 플레이",
+      "feature4Description": "리듬과 전략을 결합한 중독성 있는 게임 플레이 경험을 선사합니다."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

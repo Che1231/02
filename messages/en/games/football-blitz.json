@@ -1,0 +1,77 @@
+{
+  "football-blitz": {
+    "title": "Football Blitz - Unleash Your Inner Superstar",
+    "slogan": "Lace up your cleats, ballers!",
+    "description": "Football Blitz is here to unleash your inner superstar! Experience high-octane action, pixel-perfect passes, and bone-crushing tackles. Master fancy footwork, unleash unstoppable shots, and become a legend on the pitch. With multiple game modes and customizations, Football Blitz offers endless fun. Play now and dominate the field!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Football Blitz™",
+      "description": "Football Blitz is all about high-octane action, pixel-perfect passes, and bone-crushing tackles. Master fancy footwork, unleash unstoppable shots, and become a legend on the pitch.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Football Blitz",
+      "whatIsTitle": "What is Football Blitz?",
+      "whatIsDescription": "Football Blitz is a high-energy football game that lets you unleash your inner superstar. With multiple game modes and customizations, it offers endless fun and challenges.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Use the arrow keys or WASD to maneuver your character.",
+      "howToPlayStep2": "Choose from various game modes like Quick Match, Crazy, Tournament, and Challenge.",
+      "howToPlayStep3": "Score more goals than your opponent to win and become the ultimate champion.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Multiple Game Modes",
+      "feature1Description": "Experience different game modes like Quick Match, Crazy, Tournament, and Challenge.",
+      "feature2Title": "Customizations",
+      "feature2Description": "Customize your gameplay according to your preferences.",
+      "feature3Title": "High-Octane Action",
+      "feature3Description": "Enjoy pixel-perfect passes and bone-crushing tackles.",
+      "feature4Title": "Legendary Gameplay",
+      "feature4Description": "Master fancy footwork and unleash unstoppable shots to become a legend on the pitch."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

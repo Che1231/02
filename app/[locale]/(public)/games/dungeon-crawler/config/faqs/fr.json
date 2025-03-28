@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Comment effectuer les mouvements de base et les combats dans Dungeon Crawler ?",
+    "answer": "Dans Dungeon Crawler, les mouvements de base sont contrôlés à l'aide des touches WASD ou des flèches directionnelles. Pour les combats, cliquez avec le bouton gauche de la souris pour attaquer avec votre arme principale. Par exemple, l'utilisation d'une épée la fera balancer dans la direction de votre curseur. Pour esquiver, appuyez sur la barre d'espace, ce qui peut être crucial pour éviter les attaques ennemies. N'oubliez pas de gérer votre jauge d'endurance, car l'esquive et les attaques consomment de l'endurance. Une bonne pratique consiste à attaquer deux fois, puis à esquiver pour éviter les contre-attaques."
+  },
+  {
+    "question": "Pourquoi la gestion de l'inventaire est-elle cruciale dans Dungeon Crawler ?",
+    "answer": "La gestion de l'inventaire est essentielle dans Dungeon Crawler car votre sac à dos a un nombre limité de cases. Priorisez les objets essentiels comme les potions de santé et les armes. Par exemple, si vous trouvez une épée rare mais que votre inventaire est plein, envisagez de jeter un objet moins précieux comme une potion commune. Organisez votre inventaire en plaçant les objets fréquemment utilisés dans des emplacements facilement accessibles. Cela vous garantit de pouvoir les utiliser rapidement pendant les combats ou les situations d'urgence."
+  },
+  {
+    "question": "Quelles sont les meilleures stratégies pour monter rapidement de niveau dans Dungeon Crawler ?",
+    "answer": "Pour monter rapidement de niveau dans Dungeon Crawler, concentrez-vous sur l'achèvement des quêtes et la défaite des ennemis de niveau supérieur. Par exemple, la quête du 'Roi Goblin' offre des récompenses d'XP importantes. Étape 1 : équipez-vous du meilleur équipement disponible pour maximiser vos dégâts. Étape 2 : utilisez des sorts ou des capacités de zone d'effet (AoE) pour éliminer plus rapidement les groupes d'ennemis. Étape 3 : emportez toujours des potions de santé pour soutenir des batailles plus longues sans vous retirer. Cette approche assure un gain d'XP efficace."
+  },
+  {
+    "question": "Comment fonctionne le système de fabrication dans Dungeon Crawler ?",
+    "answer": "Le système de fabrication dans Dungeon Crawler permet aux joueurs de créer des objets puissants à partir de ressources collectées. Par exemple, la combinaison de 3 minerais de fer et de 1 bois permet de fabriquer une épée de base. Étape 1 : rassemblez des ressources en extrayant des minerais ou en pillant. Étape 2 : accédez au menu de fabrication depuis votre inventaire. Étape 3 : sélectionnez l'objet que vous souhaitez fabriquer et assurez-vous d'avoir les matériaux nécessaires. La fabrication est essentielle pour améliorer votre équipement et rester compétitif dans les donjons de niveau supérieur."
+  },
+  {
+    "question": "Quelles compétences dois-je prioriser pour une construction mage dans Dungeon Crawler ?",
+    "answer": "Pour une construction mage dans Dungeon Crawler, priorisez les compétences qui améliorent vos capacités de sorcellerie. Par exemple, la 'Boule de feu' est un sort AoE puissant qui peut éliminer rapidement des groupes d'ennemis. Étape 1 : investissez dans la 'Régénération de mana' pour soutenir votre sorcellerie. Étape 2 : améliorez les 'Dégâts de sorts' pour augmenter la puissance de vos sorts. Étape 3 : envisagez le 'Téléport' pour la mobilité afin de vous échapper de situations dangereuses. Cette construction se concentre sur la maximisation des dégâts tout en maintenant la flexibilité."
+  },
+  {
+    "question": "Quelles sont les principales différences entre les niveaux de difficulté de Dungeon Crawler ?",
+    "answer": "Dungeon Crawler propose plusieurs niveaux de difficulté, chacun affectant significativement le jeu. Par exemple, en 'Facile', les ennemis infligent moins de dégâts et ont une santé plus faible, ce qui le rend idéal pour les débutants. En 'Difficile', les ennemis sont plus agressifs et les ressources sont plus rares, nécessitant des stratégies avancées. La difficulté 'Cauchemardesque' introduit des mécanismes uniques comme la mort définitive, où la mort entraîne la perte de votre personnage. Choisissez une difficulté qui correspond à votre niveau de compétence et à votre défi souhaité."
+  },
+  {
+    "question": "Comment Dungeon Crawler gère-t-il la progression du personnage et l'attribution des statistiques ?",
+    "answer": "La progression du personnage dans Dungeon Crawler implique de monter de niveau et d'attribuer des points de statistiques pour améliorer les capacités de votre personnage. Par exemple, un guerrier pourrait prioriser la Force pour augmenter les dégâts en mêlée, tandis qu'un voleur se concentre sur la Dextérité pour de meilleures critiques. Étape 1 : montez de niveau en gagnant de l'XP grâce aux quêtes et aux combats. Étape 2 : attribuez des points de statistiques en fonction de votre construction choisie. Étape 3 : réévaluez et ajustez régulièrement vos statistiques pour optimiser les performances dans différents donjons."
+  },
+  {
+    "question": "Puis-je transférer ma progression dans Dungeon Crawler entre différentes plateformes ?",
+    "answer": "Oui, Dungeon Crawler prend en charge le transfert de progression entre plateformes. Par exemple, vous pouvez déplacer votre personnage du PC au mobile. Étape 1 : assurez-vous que votre jeu est lié à un compte cloud. Étape 2 : connectez-vous avec le même compte sur la nouvelle plateforme. Étape 3 : synchronisez votre progression pour continuer où vous vous étiez arrêté. Cette fonctionnalité permet un jeu fluide entre les appareils, en vous assurant de ne jamais perdre votre progression durement acquise."
+  },
+  {
+    "question": "Quels sont certains œufs de Pâques cachés dans Dungeon Crawler ?",
+    "answer": "Dungeon Crawler regorge d'œufs de Pâques cachés qui récompensent l'exploration. Par exemple, dans les 'Catacombes oubliées', la destruction d'un mur spécifique révèle une salle secrète avec un butin rare. Un autre œuf de Pâques implique d'équiper une combinaison spécifique d'objets pour débloquer un dialogue unique avec un PNJ. Ces joyaux cachés ajoutent de la profondeur au jeu et récompensent les joueurs qui s'aventurent hors des sentiers battus."
+  },
+  {
+    "question": "Comment fonctionne l'algorithme de génération de donjons dans Dungeon Crawler ?",
+    "answer": "Dungeon Crawler utilise un algorithme de génération procédurale pour créer des donjons uniques pour chaque partie. Par exemple, l'algorithme combine des modèles de salles prédéfinis à des éléments aléatoires tels que le placement des ennemis et la distribution du butin. Cela garantit qu'aucun donjon ne soit exactement identique, offrant une expérience nouvelle à chaque fois. L'algorithme ajuste également la difficulté en fonction du niveau de votre personnage, ce qui maintient un équilibre et une progression engageante."
+  }
+]

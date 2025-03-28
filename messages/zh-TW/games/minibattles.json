@@ -1,0 +1,77 @@
+{
+  "minibattles": {
+    "title": "迷你對戰：快速節奏的多人小型遊戲",
+    "slogan": "在迷你對戰中挑戰你的朋友們！",
+    "description": "迷你對戰是一款集合了快速節奏、多人小型遊戲的系列，提供無盡的樂趣和刺激。參與各種遊戲，從射擊和足球到賽車和格鬥，所有遊戲都具有簡單易懂的控制。無論您是與朋友或 AI 對戰，迷你對戰都能為各年齡層的玩家帶來令人興奮的娛樂體驗。解鎖神奇的功能，沉浸在色彩繽紛的小遊戲宇宙中。準備好進行勢均力敵的戰鬥嗎？現在就玩迷你對戰！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導覽"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "迷你對戰：快速節奏的多人小型遊戲",
+      "description": "在迷你對戰中挑戰你的朋友，這是快速節奏、多人小型遊戲的集合！在各種遊戲中競爭，體驗無盡樂趣！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "遊玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "迷你對戰：快速節奏的多人小型遊戲",
+      "whatIsTitle": "迷你對戰是什麼？",
+      "whatIsDescription": "迷你對戰是一個有趣且多樣化的迷你遊戲集合，讓您可以與朋友或 AI 進行短暫但激烈的比賽。擁有許多不同的小遊戲，從射擊、足球、賽車到格鬥，這款休閒遊戲為各年齡層的玩家提供了絕佳的娛樂體驗。",
+      "howToPlayTitle": "如何遊戲",
+      "howToPlayStep1": "從集合中選擇一個迷你遊戲。",
+      "howToPlayStep2": "使用一個或兩個按鈕來控制你的角色或車輛。",
+      "howToPlayStep3": "在快速節奏的比賽中與朋友或 AI 競爭。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "多樣的迷你遊戲",
+      "feature1Description": "享受各種迷你遊戲，包括射擊、足球、賽車和格鬥。",
+      "feature2Title": "簡單易懂的控制",
+      "feature2Description": "每個小型遊戲都具有易於理解的控制，通常只需一個或兩個按鈕。",
+      "feature3Title": "雙人模式",
+      "feature3Description": "與朋友和家人一起在雙人模式中競爭和娛樂。",
+      "feature4Title": "沉浸式體驗",
+      "feature4Description": "在逼真的場景中沉浸在色彩繽紛的迷你遊戲宇宙中。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到分類",
+      "viewMore": "檢視更多",
+      "page": "頁數"
+    }
+  }
+}

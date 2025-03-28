@@ -1,0 +1,77 @@
+{
+  "make-it-meme": {
+    "title": "Make It Meme - オンライン複数人用ミームゲーム",
+    "slogan": "ミームを作成、共有、そして笑う",
+    "description": "Make It Memeは、世界中の人々が、ミームの形で機知とユーモアを披露するために集まる、活気に満ちた競争型の複数人用ゲームです。ゲームが始まると、各プレイヤーはランダムなミームが表示され、与えられた時間内にユーモラスなキャプションを作成する必要があります。その後、すべてのプレイヤーは、他の競合者のミームを作成を15秒間評価します。本日Make It Memeに参加して、あなた自身のアヒルのミームを作成しましょう！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "Make It Meme",
+      "description": "Make It Memeは、世界中の人々が、ミームの形で機知とユーモアを披露するために集まる、活気に満ちた競争型の複数人用ゲームです。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "フルスクリーン",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Make It Meme",
+      "whatIsTitle": "Make It Memeとは？",
+      "whatIsDescription": "Make It Memeは、世界中の人々が、ミームの形で機知とユーモアを披露するために集まる、活気に満ちた競争型の複数人用ゲームです。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "各プレイヤーはランダムなミームが表示されます。",
+      "howToPlayStep2": "与えられた時間内にユーモラスなキャプションを作成します。",
+      "howToPlayStep3": "他の競合者のミーム作成を評価します。",
+      "keyFeaturesTitle": "主な機能",
+      "feature1Title": "複数人用楽しみ",
+      "feature1Description": "世界中からの友人や他人とプレイします。",
+      "feature2Title": "創造的な自由",
+      "feature2Description": "ユーモラスなキャプションであなたの創造性を発揮してください。",
+      "feature3Title": "クイックラウンド",
+      "feature3Description": "15秒間の評価ラウンドを楽しみましょう。",
+      "feature4Title": "グローバルコミュニティ",
+      "feature4Description": "世界中のミーム愛好家とつながります。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリ",
+      "noCategories": "カテゴリが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

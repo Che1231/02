@@ -1,0 +1,77 @@
+{
+  "grindcraft": {
+    "title": "Grindcraft - Xây dựng, chế tác và khám phá thế giới của bạn",
+    "slogan": "Tạo ra con đường dẫn đến sự vĩ đại của bạn trong Grindcraft!",
+    "description": "Hãy bắt đầu một cuộc phiêu lưu thú vị trong Grindcraft, nơi sự sáng tạo gặp chiến lược. Thu thập nguồn lực, chế tạo công cụ và xây dựng nền văn minh sầm uất của riêng bạn trong trò chơi nhấp chuột không cần nghỉ này. Từ đồ nội thất đơn giản đến những cấu trúc phức tạp, trí tưởng tượng của bạn là giới hạn duy nhất. Khám phá những môi trường đa dạng, quản lý tài nguyên và mở rộng cộng đồng của bạn. Cho dù bạn là nhà lập kế hoạch chiến lược hay chỉ đơn giản muốn tìm niềm vui, Grindcraft mang đến vô số khả năng. Khởi hành hành trình của bạn ngay hôm nay và tạo ra thế giới mơ ước của bạn!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Điều hướng"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Grindcraft - Xây dựng, chế tác và khám phá thế giới của bạn",
+      "description": "Tạo nên nền văn minh riêng của bạn trong Grindcraft. Thu thập tài nguyên, chế tạo dụng cụ và xây dựng bất cứ thứ gì bạn có thể tưởng tượng. Bắt đầu cuộc phiêu lưu của bạn ngay bây giờ!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải xuống trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Grindcraft - Xây dựng, chế tác và khám phá thế giới của bạn",
+      "whatIsTitle": "Grindcraft là gì?",
+      "whatIsDescription": "Grindcraft là một trò chơi nhấp chuột không cần nghỉ thú vị, nơi bạn thu thập tài nguyên, chế tạo dụng cụ và xây dựng nền văn minh của riêng mình. Từ đồ nội thất đơn giản đến những cấu trúc phức tạp, trí tưởng tượng của bạn là giới hạn duy nhất.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Nhấp vào biểu tượng ở cột bên trái để thu thập tài nguyên.",
+      "howToPlayStep2": "Sử dụng các tài nguyên thu thập được để chế tạo công cụ và xây dựng cấu trúc.",
+      "howToPlayStep3": "Mở rộng cộng đồng và thu hút thêm cư dân để cải thiện nền văn minh của bạn.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Sự sáng tạo vô tận",
+      "feature1Description": "Xây dựng bất cứ thứ gì từ đồ nội thất đơn giản đến các cấu trúc phức tạp.",
+      "feature2Title": "Quản lý tài nguyên",
+      "feature2Description": "Thu thập và quản lý tài nguyên để tiến bộ trong trò chơi.",
+      "feature3Title": "Mở rộng cộng đồng",
+      "feature3Description": "Thu hút thêm cư dân và mở rộng tiện nghi để cải thiện nền văn minh của bạn.",
+      "feature4Title": "Các môi trường đa dạng",
+      "feature4Description": "Khám phá rừng rậm, đồng cỏ và nhiều hơn nữa để tìm kiếm nguồn tài nguyên độc đáo."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả trò chơi",
+      "description": "Tất cả trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

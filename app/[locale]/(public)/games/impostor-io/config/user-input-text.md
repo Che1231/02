@@ -1,0 +1,1 @@
+Impostor.io is an engaging multiplayer game inspired by the popular social deduction game Among Us. In this exciting experience, players find themselves on a spaceship where they must work together to complete tasks and identify the impostors among them.

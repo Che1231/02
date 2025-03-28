@@ -1,0 +1,77 @@
+{
+  "tower-of-destiny": {
+    "title": "Turm des Schicksals - Kostenloses episches Plattformspiel online",
+    "slogan": "Klettere, besiege und entdecke die Geheimnisse des Turms",
+    "description": "Begib dich auf eine epische Reise im Turm des Schicksals, einem herausfordernden Plattformspiel, in dem du durch geheimnisvolle Etagen voller Hindernisse und Schätze kletterst. Kontrolliere deinen Würfelkrieger, sammle Edelsteine, vermeide Gefahren und öffne wertvolle Truhen. Mit kreativem Gameplay und strategischen Herausforderungen bietet der Turm des Schicksals ein immersives Erlebnis für Abenteurer. Beginne deine Kletterei jetzt und sieh, wie weit du kommst!",
+    "Loading": {
+      "title": "Lade Turm des Schicksals..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Leitfaden",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Turm des Schicksals",
+      "description": "Spiele Turm des Schicksals, ein spannendes Plattformspiel, in dem du Etagen eroberst, Edelsteine sammelst und Schätze freischaltest. Teste dein Können und deine Strategie in diesem epischen Abenteuer!",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Turm des Schicksals",
+      "whatIsTitle": "Was ist der Turm des Schicksals?",
+      "whatIsDescription": "Turm des Schicksals ist ein episches Plattformspiel, in dem du die Rolle eines tapferen Kriegers einnimmst, der durch geheimnisvolle Etagen voller Herausforderungen und Schätze klettert.",
+      "howToPlayTitle": "So spielst du",
+      "howToPlayStep1": "Sammle Edelsteine, um wertvolle Truhen freizuschalten.",
+      "howToPlayStep2": "Meide gefährliche Bereiche wie giftige Flüsse und Feinde, um am Leben zu bleiben.",
+      "howToPlayStep3": "Klettere die Leiter, um nach dem Freischalten des Schatzes die nächste Etage zu erreichen.",
+      "keyFeaturesTitle": "Haupteigenschaften",
+      "feature1Title": "Kreatives Gameplay",
+      "feature1Description": "Steuere einen Würfelkrieger in einer sich ständig bewegenden Umgebung.",
+      "feature2Title": "Strategische Herausforderungen",
+      "feature2Description": "Navigiere durch Etagen voller Hindernisse und Schätze.",
+      "feature3Title": "In-Game-Shop",
+      "feature3Description": "Kaufe Upgrades wie Magnet, Schild und Leben, um dein Gameplay zu verbessern.",
+      "feature4Title": "Immersives Erlebnis",
+      "feature4Description": "Erkunde eine dunkle und geheimnisvolle Welt mit einzigartigen Herausforderungen."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "dungeon-crawler": {
+    "title": "Dungeon Crawler: Explora y Domina los Tesoros Antiguos",
+    "slogan": "¡Embárcate en un viaje para encontrar tesoros antiguos en Dungeon Crawler!",
+    "description": "Dungeon Crawler es un misterioso juego de rol de acción y aventura donde juegas como un valiente héroe que se aventura en mazmorras oscuras y peligrosas. Explora, lucha contra monstruos, colecciona tesoros y mejora a tu personaje para volverte más fuerte. Con un sistema de combate rico y una historia atractiva, Dungeon Crawler ofrece una experiencia dramática y desafiante. ¿Estás listo para convertirte en un guerrero invencible? ¡Exploremos y conquistemos!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Términos de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Dungeon Crawler",
+      "description": "¡Embárcate en un viaje para encontrar tesoros antiguos en Dungeon Crawler! Explora, lucha contra monstruos y mejora a tu personaje para volverte más fuerte.",
+      "iframeTitle": "Vista Previa del Juego",
+      "fullscreenButton": "Pantalla Completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar Juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Dungeon Crawler",
+      "whatIsTitle": "¿Qué es Dungeon Crawler?",
+      "whatIsDescription": "Dungeon Crawler es un misterioso juego de rol de acción y aventura donde juegas como un valiente héroe que se aventura en mazmorras oscuras y peligrosas. Tu objetivo principal es explorar, luchar contra monstruos, recolectar tesoros y mejorar a tu personaje para volverte más fuerte.",
+      "howToPlayTitle": "Cómo Jugar",
+      "howToPlayStep1": "Controla a tu guerrero para buscar misterios en mazmorras laberínticas.",
+      "howToPlayStep2": "Derrota a los monstruos usando armas, magia y habilidades especiales.",
+      "howToPlayStep3": "Mejora las habilidades y atributos de tu personaje con la experiencia obtenida en la batalla.",
+      "keyFeaturesTitle": "Características Clave",
+      "feature1Title": "Sistema de Combate Rico",
+      "feature1Description": "Participa en batallas dramáticas y desafiantes con una variedad de armas y habilidades.",
+      "feature2Title": "Historia Atractiva",
+      "feature2Description": "Sigue una historia envolvente mientras exploras mazmorras oscuras y peligrosas.",
+      "feature3Title": "Mejoras de Personaje",
+      "feature3Description": "Mejora las habilidades y atributos de tu personaje para volverte más fuerte.",
+      "feature4Title": "Colección de Tesoros",
+      "feature4Description": "Recolecta tesoros y objetos valiosos para ayudarte en tu viaje."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas Frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del Juego"
+    },
+    "GamePage": {
+      "title": "Todos los Juegos",
+      "description": "Todos los Juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver Más",
+      "page": "Página"
+    }
+  }
+}

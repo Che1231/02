@@ -1,0 +1,77 @@
+{
+  "grindcraft": {
+    "title": "Grindcraft - Construye, Crea y Explora tu Mundo",
+    "slogan": "¡Crea tu camino hacia la grandeza en Grindcraft!",
+    "description": "Embárcate en una emocionante aventura en Grindcraft, donde la creatividad se encuentra con la estrategia. Recoge recursos, crea herramientas y construye tu propia bulliciosa civilización en este adictivo juego de clics inactivo. Desde muebles sencillos hasta estructuras complejas, tu imaginación es el único límite. Explora entornos diversos, gestiona recursos y expande tu comunidad. Ya seas un planificador estratégico o simplemente estés buscando diversión, Grindcraft ofrece infinitas posibilidades. ¡Empieza tu viaje hoy y crea el mundo de tus sueños!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Condiciones de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Grindcraft - Construye, Crea y Explora tu Mundo",
+      "description": "Crea tu propia civilización en Grindcraft. Recoge recursos, crea herramientas y construye cualquier cosa que puedas imaginar. ¡Empieza tu aventura ahora!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Grindcraft - Construye, Crea y Explora tu Mundo",
+      "whatIsTitle": "¿Qué es Grindcraft?",
+      "whatIsDescription": "Grindcraft es un adictivo juego de clics inactivo en el que recoges recursos, creas herramientas y construyes tu propia civilización. Desde muebles sencillos hasta estructuras complejas, tu imaginación es el único límite.",
+      "howToPlayTitle": "¿Cómo jugar?",
+      "howToPlayStep1": "Haz clic en el icono de la columna izquierda para recolectar recursos.",
+      "howToPlayStep2": "Usa los recursos recolectados para crear herramientas y construir estructuras.",
+      "howToPlayStep3": "Expande tu comunidad y atrae más residentes para mejorar tu civilización.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Creatividad sin límites",
+      "feature1Description": "Construye cualquier cosa, desde muebles simples hasta estructuras complejas.",
+      "feature2Title": "Gestión de recursos",
+      "feature2Description": "Recolecta y gestiona recursos para progresar en el juego.",
+      "feature3Title": "Expansión de la comunidad",
+      "feature3Description": "Atrae más residentes y expande las comodidades para mejorar tu civilización.",
+      "feature4Title": "Entornos diversos",
+      "feature4Description": "Explora selvas, praderas y más para encontrar recursos únicos."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

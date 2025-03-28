@@ -1,0 +1,77 @@
+{
+  "rambling-racer": {
+    "title": "漂移赛车 - 掌控漂移，征服道路",
+    "slogan": "驾驶漂移赛车完成华丽漂移，展现你的精准操控技巧。",
+    "description": "漂移赛车准备挑战你的即兴技巧，专业车手们。准备好在这惊险刺激的漂浮道路上，体验惊心动魄的漂移。每一次转弯都是对顶级导航能力的极端考验。这款无尽跑酷游戏将带来心跳加速却又引人入胜的体验。你将操控一辆小汽车在连续不断、蜿蜒曲折的道路上行驶。加入游戏，看看你的最高分数能体现出多高的游戏水平！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "漂移赛车 - 掌控漂移，征服道路",
+      "description": "漂移赛车准备挑战你的即兴技巧，专业车手们。准备好在这惊险刺激的漂浮道路上，体验惊心动魄的漂移。每一次转弯都是对顶级导航能力的极端考验。这款无尽跑酷游戏将带来心跳加速却又引人入胜的体验。你将操控一辆小汽车在连续不断、蜿蜒曲折的道路上行驶。加入游戏，看看你的最高分数能体现出多高的游戏水平！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到粘贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "漂移赛车 - 掌控漂移，征服道路",
+      "whatIsTitle": "漂移赛车是什么？",
+      "whatIsDescription": "漂移赛车是一款无尽跑酷游戏，你将操控一辆汽车在连续不断、蜿蜒曲折的道路上行驶。随着游戏进程，难度会逐渐提升，挑战你的导航技巧。",
+      "howToPlayTitle": "如何游戏？",
+      "howToPlayStep1": "控制汽车以恒定速度在道路上行驶。",
+      "howToPlayStep2": "按住鼠标按钮向右漂移。",
+      "howToPlayStep3": "换手回到原始状态。",
+      "keyFeaturesTitle": "核心功能",
+      "feature1Title": "创意图形",
+      "feature1Description": "进入一个充满神奇色彩，拥有绚丽流星雨的世界。",
+      "feature2Title": "简单易懂的游戏玩法",
+      "feature2Description": "易于学习，但需要练习才能掌握。",
+      "feature3Title": "动态道路设计",
+      "feature3Description": "主道路的颜色和设计持续变化。",
+      "feature4Title": "可解锁的车辆",
+      "feature4Description": "使用赚取的硬币在游戏中商店解锁各种车辆。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐游戏"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏列表"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "grindcraft": {
+    "title": "Grindcraft - 建造、制作和探索你的世界",
+    "slogan": "在 Grindcraft 中创造你的辉煌！",
+    "description": "踏上 Grindcraft 的精彩冒险，创意与策略在这里碰撞。收集资源、制作工具，在这个令人上瘾的休闲点击游戏中建造属于你繁荣的文明。从简单的家具到复杂的建筑，你的想象力是唯一限制。探索不同的环境，管理资源，扩展你的社区。无论你是策略规划大师还是寻求乐趣，Grindcraft 都提供无限可能。今天就开启你的旅程，创造你梦想的世界！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "Grindcraft - 建造、制作和探索你的世界",
+      "description": "在 Grindcraft 中创造你自己的文明。收集资源，制作工具，建造任何你所能想象的一切。现在开始你的冒险！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL 已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "玩游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Grindcraft - 建造、制作和探索你的世界",
+      "whatIsTitle": "Grindcraft 是什么？",
+      "whatIsDescription": "Grindcraft 是一个令人上瘾的休闲点击游戏，让你收集资源、制作工具并建造你自己的文明。从简单的家具到复杂的建筑，你的想象力是唯一限制。",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "点击左侧列中的图标收集资源。",
+      "howToPlayStep2": "使用收集到的资源制作工具和建造建筑。",
+      "howToPlayStep3": "扩展你的社区，吸引更多居民来提升你的文明。",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "无限创意",
+      "feature1Description": "建造从简单的家具到复杂的建筑的一切。",
+      "feature2Title": "资源管理",
+      "feature2Description": "收集和管理资源以在游戏中取得进展。",
+      "feature3Title": "社区扩展",
+      "feature3Description": "吸引更多居民并扩展设施以改善你的文明。",
+      "feature4Title": "多样化环境",
+      "feature4Description": "探索丛林、草原等，寻找独特的资源。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "类别",
+      "noCategories": "未找到类别",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

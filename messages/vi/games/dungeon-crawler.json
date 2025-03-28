@@ -1,0 +1,77 @@
+{
+  "dungeon-crawler": {
+    "title": "Dungeon Crawler: Khám phá và chinh phục kho báu cổ đại",
+    "slogan": "Hãy bắt đầu hành trình tìm kiếm kho báu cổ đại trong Dungeon Crawler!",
+    "description": "Dungeon Crawler là một trò chơi nhập vai hành động phiêu lưu bí ẩn, nơi bạn hóa thân thành một anh hùng dũng cảm bước vào những hang động tối tăm và nguy hiểm. Khám phá, chiến đấu với quái vật, thu thập kho báu và nâng cấp nhân vật để trở nên mạnh mẽ hơn. Với hệ thống chiến đấu phong phú và câu chuyện hấp dẫn, Dungeon Crawler mang đến trải nghiệm kịch tính và thách thức. Bạn có sẵn sàng trở thành một chiến binh bất khả chiến bại? Hãy cùng khám phá và chinh phục!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Ngày tạo",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Dungeon Crawler",
+      "description": "Hãy bắt đầu hành trình tìm kiếm kho báu cổ đại trong Dungeon Crawler! Khám phá, chiến đấu với quái vật và nâng cấp nhân vật để trở nên mạnh mẽ hơn.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Dungeon Crawler",
+      "whatIsTitle": "Dungeon Crawler là gì?",
+      "whatIsDescription": "Dungeon Crawler là một trò chơi nhập vai hành động phiêu lưu bí ẩn, nơi bạn vào vai một anh hùng dũng cảm khám phá những hang động tối tăm và nguy hiểm. Mục tiêu chính của bạn là khám phá, chiến đấu với quái vật, thu thập kho báu và nâng cấp nhân vật để trở nên mạnh mẽ hơn.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Điều khiển chiến binh của bạn để tìm kiếm bí ẩn trong những hang động mê cung.",
+      "howToPlayStep2": "Đánh bại quái vật bằng vũ khí, phép thuật và kỹ năng đặc biệt.",
+      "howToPlayStep3": "Nâng cấp kỹ năng và thuộc tính của nhân vật bằng kinh nghiệm thu được từ trận chiến.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Hệ thống chiến đấu phong phú",
+      "feature1Description": "Tham gia những trận chiến kịch tính và đầy thách thức với nhiều loại vũ khí và kỹ năng.",
+      "feature2Title": "Câu chuyện hấp dẫn",
+      "feature2Description": "Theo dõi một câu chuyện sâu sắc khi bạn khám phá những hang động tối tăm và nguy hiểm.",
+      "feature3Title": "Nâng cấp nhân vật",
+      "feature3Description": "Nâng cấp kỹ năng và thuộc tính của nhân vật để trở nên mạnh mẽ hơn.",
+      "feature4Title": "Thu thập kho báu",
+      "feature4Description": "Thu thập những kho báu và vật phẩm quý giá để hỗ trợ hành trình của bạn."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Khuyến nghị"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các thể loại",
+      "noCategories": "Không tìm thấy thể loại nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

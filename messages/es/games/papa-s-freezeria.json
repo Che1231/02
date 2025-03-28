@@ -1,0 +1,77 @@
+{
+  "papa-s-freezeria": {
+    "title": "Juega a Papa's Freezeria en línea: juego de simulación de heladería",
+    "slogan": "Crea helados deliciosos en la Isla de Calipso",
+    "description": "Bienvenido a Papa's Freezeria, donde puedes administrar tu propia heladería en la hermosa Isla de Calipso. En este divertido y atractivo juego, tomarás pedidos, prepararás deliciosos postres helados y los servirás a tus clientes. Con una variedad de ingredientes y tus manos mágicas, puedes crear los helados perfectos. A medida que progreses, gestiona tu tiempo de manera eficiente para mantener contentos a los clientes y ganar propinas generosas. Usa tus ganancias para personalizar tu tienda y convertirla en el lugar más genial de la isla. Prepárate para mostrar tus habilidades y divertirte en Papa's Freezeria!",
+    "Loading": {
+      "title": "Cargando Papa's Freezeria..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Papa's Freezeria - Juego de heladería",
+      "description": "Administra tu propia heladería en Papa's Freezeria. Toma pedidos, prepara deliciosos helados y sirve a los clientes en la Isla de Calipso. Gestiona tu tiempo y gana propinas para personalizar tu tienda.",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Papa's Freezeria - Simulación de heladería",
+      "whatIsTitle": "¿Qué es Papa's Freezeria?",
+      "whatIsDescription": "Papa's Freezeria es un juego divertido e interactivo donde diriges una heladería en la Isla de Calipso. Tu objetivo es tomar pedidos, preparar helados deliciosos y servirlos a tus clientes.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Toma los pedidos de los clientes y anota sus preferencias.",
+      "howToPlayStep2": "Prepara los helados utilizando una variedad de ingredientes.",
+      "howToPlayStep3": "Sirve los helados rápidamente para ganar propinas y mantener contentos a los clientes.",
+      "keyFeaturesTitle": "Características principales",
+      "feature1Title": "Tienda personalizable",
+      "feature1Description": "Usa tus ganancias para comprar ropa nueva y personalizar tu tienda.",
+      "feature2Title": "Gestión del tiempo",
+      "feature2Description": "Gestiona tu tiempo de manera eficiente para mantener la línea de clientes fluida.",
+      "feature3Title": "Helados deliciosos",
+      "feature3Description": "Crea los mejores postres helados con una variedad de ingredientes.",
+      "feature4Title": "Propinas generosas",
+      "feature4Description": "Gana propinas sirviendo a los clientes rápidamente y manteniéndolos contentos."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

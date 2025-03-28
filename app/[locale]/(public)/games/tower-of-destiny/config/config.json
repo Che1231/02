@@ -1,0 +1,125 @@
+{
+  "name": "Tower Of Destiny",
+  "pagePath": "/games/tower-of-destiny",
+  "pageName": "tower-of-destiny",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://freetoplayz.github.io/tower-of-destiny/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingPhoenix87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix87.png",
+      "content": "This game is insane! I love the cube mechanic. Keep jumping and sliding through those floors! How far can you get? #TowerOfDestiny"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "I didn't expect such a unique challenge! Collecting gems and avoiding enemies is super intense. This game has me hooked!"
+    },
+    {
+      "author": "NeonRevolver_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonRevolver_X.png",
+      "content": "Who knew a cube could be so much fun?! Loved climbing ladders and revealing mysteries. Can't stop playing!"
+    },
+    {
+      "author": "CosmicBroadsword99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicBroadsword99.png",
+      "content": "Wow, the gameplay is just fantastic. Non-stop action keeps you on your toes. Great job, devs!"
+    },
+    {
+      "author": "PhantomCrusher42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomCrusher42.png",
+      "content": "How do you make a simple cube this thrilling? Seriously addicted to climbing through levels and collecting gems. Amazing!"
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "This game keeps me coming back for more! The controls are so smooth and addictive. Love it!"
+    },
+    {
+      "author": "SlimeLaboratory_",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SlimeLaboratory_.png",
+      "content": "Tower of Destiny? Sign me up! I'm obsessed with climbing higher and exploring unknown dangers. So fun!"
+    },
+    {
+      "author": "VengefulKatana87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/VengefulKatana87.png",
+      "content": "The tension while avoiding rivers and enemies is insane! Every level feels like a new adventure."
+    },
+    {
+      "author": "LegendaryFeline99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LegendaryFeline99.png",
+      "content": "Collect gems, climb ladders, and avoid the dangers. This game is a true test of skill and determination."
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "Haha, I'm always dying but I keep trying. It’s hilarious and challenging at the same time. Perfect combo! "
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/tower-of-destiny/tower-of-destiny1-m200x130.webp",
+  "page_path": "/games/tower-of-destiny",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8scgh030135lywle7h2xjw6",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T05:30:45.651Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 13:50:29",
+  "categories": [
+    "Action Games"
+  ]
+}

@@ -1,10 +1,10 @@
 {
   "papa-s-taco-mia": {
-    "title": "",
-    "slogan": "",
-    "description": "",
+    "title": "Play Papa's Taco Mia Online - Build Your Dream Taqueria",
+    "slogan": "Create Your Perfect Taco!",
+    "description": "Have you ever wanted to run your own taqueria? Well, now you can with Papa's Taco Mia! They have all the ingredients you could ever want - beef, chicken, onions, peppers, hard shell and soft shell tacos. You can make any kind of taco you desire. Join Papa's Taco Mia today and start crafting your dream tacos!",
     "Loading": {
-      "title": ""
+      "title": "Loading..."
     },
     "Navbar": {
       "title": "Nav"
@@ -23,8 +23,8 @@
       "previous": "Previous"
     },
     "HomeIframe": {
-      "title": "",
-      "description": "",
+      "title": "Papa's Taco Mia™",
+      "description": "Build your dream taqueria with Papa's Taco Mia! Create delicious tacos with a variety of ingredients.",
       "iframeTitle": "Game Preview",
       "fullscreenButton": "Fullscreen",
       "shareButton": "Share",
@@ -33,22 +33,22 @@
       "playGame": "Play Game"
     },
     "HomeFeatures": {
-      "gameTitle": "",
-      "whatIsTitle": "",
-      "whatIsDescription": "",
+      "gameTitle": "Papa's Taco Mia™",
+      "whatIsTitle": "What is Papa's Taco Mia?",
+      "whatIsDescription": "Papa's Taco Mia is a fun and interactive game where you can build your own taqueria and create delicious tacos with a variety of ingredients.",
       "howToPlayTitle": "How to Play",
-      "howToPlayStep1": "",
-      "howToPlayStep2": "",
-      "howToPlayStep3": "",
+      "howToPlayStep1": "Choose your ingredients from beef, chicken, onions, peppers, and more.",
+      "howToPlayStep2": "Select your taco shell - hard or soft.",
+      "howToPlayStep3": "Assemble your taco and serve it to your customers.",
       "keyFeaturesTitle": "Key Features",
-      "feature1Title": "",
-      "feature1Description": "",
-      "feature2Title": "",
-      "feature2Description": "",
-      "feature3Title": "",
-      "feature3Description": "",
-      "feature4Title": "",
-      "feature4Description": ""
+      "feature1Title": "Variety of Ingredients",
+      "feature1Description": "Choose from beef, chicken, onions, peppers, and more to create your perfect taco.",
+      "feature2Title": "Taco Shell Options",
+      "feature2Description": "Select between hard shell and soft shell tacos for different textures.",
+      "feature3Title": "Interactive Gameplay",
+      "feature3Description": "Build your own taqueria and serve tacos to your customers.",
+      "feature4Title": "Creative Freedom",
+      "feature4Description": "Make any kind of taco you desire with endless combinations."
     },
     "HomeFAQs": {
       "title": "FAQs"

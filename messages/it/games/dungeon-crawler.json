@@ -1,0 +1,77 @@
+{
+  "dungeon-crawler": {
+    "title": "Dungeon Crawler: Esplora e conquista antichi tesori",
+    "slogan": "Intraprendi un viaggio alla scoperta di antichi tesori in Dungeon Crawler!",
+    "description": "Dungeon Crawler è un misterioso gioco di ruolo d'azione e avventura in cui interpreti un valoroso eroe che si avventura in tane buie e pericolose. Esplora, combatti mostri, raccogli tesori e migliora il tuo personaggio per diventare più forte. Con un ricco sistema di combattimento e una trama coinvolgente, Dungeon Crawler offre un'esperienza drammatica e stimolante. Sei pronto a diventare un guerriero invincibile? Esploriamo e conquistiamo!",
+    "Loading": {
+      "title": "Caricamento..."
+    },
+    "Navbar": {
+      "title": "Navigazione"
+    },
+    "Common": {
+      "createAt": "Crea in",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla privacy",
+      "termsOfServices": "Termini di servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Collegamenti utili",
+      "articleList": "Elenco articoli",
+      "home": "Home",
+      "next": "Successivo",
+      "previous": "Precedente"
+    },
+    "HomeIframe": {
+      "title": "Dungeon Crawler",
+      "description": "Intraprendi un viaggio alla scoperta di antichi tesori in Dungeon Crawler! Esplora, combatti mostri e migliora il tuo personaggio per diventare più forte.",
+      "iframeTitle": "Anteprima del gioco",
+      "fullscreenButton": "Schermo intero",
+      "shareButton": "Condividi",
+      "urlCopied": "URL copiato negli appunti!",
+      "downloadGame": "Scarica il gioco",
+      "playGame": "Gioca"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Dungeon Crawler",
+      "whatIsTitle": "Cos'è Dungeon Crawler?",
+      "whatIsDescription": "Dungeon Crawler è un misterioso gioco di ruolo d'azione e avventura in cui interpreti un valoroso eroe che si avventura in tane buie e pericolose. Il tuo obiettivo principale è esplorare, combattere mostri, raccogliere tesori e migliorare il tuo personaggio per diventare più forte.",
+      "howToPlayTitle": "Come giocare",
+      "howToPlayStep1": "Controlla il tuo guerriero per cercare misteri in tane labirintiche.",
+      "howToPlayStep2": "Sconfiggi i mostri usando armi, magia e abilità speciali.",
+      "howToPlayStep3": "Migliora le abilità e gli attributi del tuo personaggio con l'esperienza guadagnata dalle battaglie.",
+      "keyFeaturesTitle": "Caratteristiche principali",
+      "feature1Title": "Ricco sistema di combattimento",
+      "feature1Description": "Partecipa a battaglie drammatiche e impegnative con una varietà di armi e abilità.",
+      "feature2Title": "Trama coinvolgente",
+      "feature2Description": "Segui una trama avvincente mentre esplori tane buie e pericolose.",
+      "feature3Title": "Miglioramenti del personaggio",
+      "feature3Description": "Migliora le abilità e gli attributi del tuo personaggio per diventare più forte.",
+      "feature4Title": "Raccolta di tesori",
+      "feature4Description": "Raccogli preziosi tesori e oggetti per aiutare nel tuo viaggio."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Raccomandazioni"
+    },
+    "HomeComments": {
+      "title": "Commenti sul gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i giochi",
+      "description": "Tutti i giochi",
+      "games": "Giochi"
+    },
+    "CategoryPage": {
+      "categories": "Categorie",
+      "noCategories": "Nessuna categoria trovata",
+      "viewMore": "Visualizza altro",
+      "page": "Pagina"
+    }
+  }
+}

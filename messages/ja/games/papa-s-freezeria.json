@@ -1,0 +1,77 @@
+{
+  "papa-s-freezeria": {
+    "title": "パパのフリーゼリアをオンラインでプレイ – アイスクリームショップのシミュレーションゲーム",
+    "slogan": "カリブの島で、おいしいサンデーを作ろう",
+    "description": "美しいカリブの島で、自分のアイスクリームショップを経営できるパパのフリーゼリアへようこそ。この楽しく魅力的なゲームでは、注文を受け、おいしい氷菓を準備し、お客様にお出しします。様々な材料とあなたの魔法の手で、完璧なアイスクリームサンデーを作ることができます。進歩するにつれて、お客様を満足させ、大げさなチップを稼ぐために時間を効率的に管理します。あなたの収入を使ってお店をカスタマイズし、島で一番クールな場所にしてください。あなたのスキルを見せつけ、パパのフリーゼリアで楽しんでください！",
+    "Loading": {
+      "title": "パパのフリーゼリアを読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "パパのフリーゼリア – アイスクリームショップゲーム",
+      "description": "パパのフリーゼリアで、自分のアイスクリームショップを経営しましょう。注文を受け、カリブの島で美味しいサンデーを準備し、お客様にお出しします。時間を管理し、チップを稼いで店をカスタマイズしましょう。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "パパのフリーゼリア – アイスクリームショップシミュレーション",
+      "whatIsTitle": "パパのフリーゼリアとは？",
+      "whatIsDescription": "パパのフリーゼリアは、カリブの島にあるアイスクリームショップを経営する、楽しく魅力的なゲームです。お客様の注文を受け、おいしいサンデーを準備し、お客様にお出しすることが目標です。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "お客様から注文を受け、その好みをメモします。",
+      "howToPlayStep2": "様々な材料を使って、アイスクリームサンデーを準備します。",
+      "howToPlayStep3": "サンデーを迅速にお出ししてチップを稼ぎ、お客様を満足させます。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "カスタマイズ可能な店舗",
+      "feature1Description": "収入を使って新しい服を買ったり、店をカスタマイズしましょう。",
+      "feature2Title": "時間管理",
+      "feature2Description": "スムーズな流れを維持するために、時間を効率的に管理しましょう。",
+      "feature3Title": "おいしいサンデー",
+      "feature3Description": "様々な材料を使って、完璧なアイスクリームデザートを作ります。",
+      "feature4Title": "チップ",
+      "feature4Description": "お客様を迅速にお出しし、満足させれば、チップを稼ぎます。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "推奨ゲーム"
+    },
+    "HomeComments": {
+      "title": "ゲームに関するコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

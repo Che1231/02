@@ -1,0 +1,77 @@
+{
+  "grindcraft": {
+    "title": "Grindcraft - Dünyanızı İnşa Edin, Zanaat Yapın ve Keşfedin",
+    "slogan": "Grindcraft'ta yüceliğinize giden yolu kendiniz yaratın!",
+    "description": "Yaratıcılığın stratejiyle buluştuğu Grindcraft'ta heyecan verici bir maceraya atılın. Kaynakları toplayın, aletler üretin ve bu bağımlılık yaratan boş zaman tıklama oyununda kendi hareketli uygarlığınızı inşa edin. Basit mobilyalardan karmaşık yapılara kadar hayal gücünüz tek sınırınızdır. Çeşitli ortamları keşfedin, kaynakları yönetin ve topluluğunuzu genişletin. Stratejik bir planlayıcı olun ya da sadece eğlenmek isteyin, Grindcraft sonsuz olanaklar sunar. Bugün yolculuğunuza başlayın ve hayalinizdeki dünyayı yaratın!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Zamanı",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Grindcraft - Dünyanızı İnşa Edin, Zanaat Yapın ve Keşfedin",
+      "description": "Grindcraft'ta kendi uygarlığınızı yaratın. Kaynakları toplayın, aletler üretin ve hayal edebileceğiniz her şeyi inşa edin. Şimdi maceranıza başlayın!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Grindcraft - Dünyanızı İnşa Edin, Zanaat Yapın ve Keşfedin",
+      "whatIsTitle": "Grindcraft Nedir?",
+      "whatIsDescription": "Grindcraft, kaynakları toplayarak, aletler üreterek ve kendi uygarlığınızı inşa ederek bağımlılık yaratan bir boş zaman tıklama oyunudur. Basit mobilyalardan karmaşık yapılara kadar hayal gücünüz tek sınırınızdır.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Soldaki sütundaki simgeye tıklayarak kaynakları toplayın.",
+      "howToPlayStep2": "Toplanan kaynakları aletler ve yapılar inşa etmek için kullanın.",
+      "howToPlayStep3": "Topluluğunuzu genişletin ve uygarlığınızı geliştirmek için daha fazla sakini çekin.",
+      "keyFeaturesTitle": "Ana Özellikler",
+      "feature1Title": "Sonsuz Yaratıcılık",
+      "feature1Description": "Basit mobilyalardan karmaşık yapılara kadar her şeyi inşa edin.",
+      "feature2Title": "Kaynak Yönetimi",
+      "feature2Description": "Oyunda ilerlemek için kaynakları toplayıp yönetin.",
+      "feature3Title": "Topluluk Genişlemesi",
+      "feature3Description": "Daha fazla sakini çekin ve uygarlığınızı geliştirmek için olanakları genişletin.",
+      "feature4Title": "Çeşitli Ortamlar",
+      "feature4Description": "Eşsiz kaynaklar bulmak için ormanlık alanları, otlakları ve daha fazlasını keşfedin."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

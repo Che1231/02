@@ -1,0 +1,77 @@
+{
+  "papa-s-freezeria": {
+    "title": "Chơi Papa's Freezeria trực tuyến - Trò chơi mô phỏng cửa hàng kem",
+    "slogan": "Tạo ra những món kem ngon miệng trên đảo Calypso",
+    "description": "Chào mừng đến với Papa's Freezeria, nơi bạn có thể điều hành cửa hàng kem của riêng mình trên hòn đảo xinh đẹp Calypso. Trong trò chơi thú vị và hấp dẫn này, bạn sẽ nhận đơn đặt hàng, chuẩn bị những món kem ngon miệng và phục vụ khách hàng. Với nhiều loại nguyên liệu và đôi tay khéo léo của bạn, bạn có thể tạo ra những món kem parfait hoàn hảo. Khi bạn tiến bộ, hãy quản lý thời gian hiệu quả để làm hài lòng khách hàng và kiếm được tiền boa hậu hĩnh. Sử dụng số tiền kiếm được để tùy chỉnh cửa hàng của bạn và biến nó thành điểm đến thú vị nhất trên hòn đảo. Chuẩn bị thể hiện kỹ năng của bạn và vui vẻ ở Papa's Freezeria!",
+    "Loading": {
+      "title": "Đang tải Papa's Freezeria..."
+    },
+    "Navbar": {
+      "title": "Đèn chỉ dẫn"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Papa's Freezeria - Trò chơi cửa hàng kem",
+      "description": "Điều hành cửa hàng kem của riêng bạn trong Papa's Freezeria. Nhận đơn đặt hàng, chuẩn bị những món kem ngon miệng và phục vụ khách hàng trên đảo Calypso. Quản lý thời gian của bạn và kiếm tiền bo để tùy chỉnh cửa hàng của bạn.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Màn hình toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Papa's Freezeria - Mô phỏng cửa hàng kem",
+      "whatIsTitle": "Papa's Freezeria là gì?",
+      "whatIsDescription": "Papa's Freezeria là một trò chơi thú vị và hấp dẫn, nơi bạn điều hành một cửa hàng kem trên đảo Calypso. Mục tiêu của bạn là nhận đơn đặt hàng, chuẩn bị những món kem parfait ngon miệng và phục vụ khách hàng của mình.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Nhận đơn đặt hàng từ khách hàng và ghi chú sở thích của họ.",
+      "howToPlayStep2": "Chuẩn bị những món kem parfait bằng nhiều loại nguyên liệu.",
+      "howToPlayStep3": "Phục vụ những món kem parfait nhanh chóng để kiếm được tiền boa và giữ khách hàng hài lòng.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Cửa hàng có thể tùy chỉnh",
+      "feature1Description": "Sử dụng số tiền kiếm được để mua đồ mới và tùy chỉnh cửa hàng của bạn.",
+      "feature2Title": "Quản lý thời gian",
+      "feature2Description": "Quản lý thời gian hiệu quả để giữ cho hàng đợi di chuyển mượt mà.",
+      "feature3Title": "Những món kem parfait ngon miệng",
+      "feature3Description": "Tạo ra những món kem hoàn hảo với nhiều loại nguyên liệu.",
+      "feature4Title": "Tiền boa hậu hĩnh",
+      "feature4Description": "Kiếm được tiền boa bằng cách phục vụ khách hàng nhanh chóng và giữ cho họ hài lòng."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

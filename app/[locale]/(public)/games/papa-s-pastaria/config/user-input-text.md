@@ -1,0 +1,1 @@
+Get ready to put your knowledge and skills in Italian cuisine to the test with Papa's Pastaria. This game takes you on an exciting journey to the heart of Italy, where you find yourself in the midst of a wedding celebration.

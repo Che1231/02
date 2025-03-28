@@ -1,0 +1,77 @@
+{
+  "make-it-meme": {
+    "title": "Trò chơi meme trực tuyến nhiều người chơi - Make It Meme",
+    "slogan": "Tạo, Chia sẻ và Cười với Meme",
+    "description": "Make It Meme là một trò chơi nhiều người chơi sôi động và cạnh tranh, kết nối mọi người trên toàn cầu để thể hiện trí tuệ và hài hước của họ thông qua meme. Khi trò chơi bắt đầu, mỗi người chơi sẽ nhận được một meme ngẫu nhiên và phải giải phóng sự sáng tạo của mình để tạo một lời chú thích hài hước trong thời gian quy định. Sau đó, tất cả người chơi có 15 giây để đánh giá tác phẩm meme của các đối thủ. Tham gia Make It Meme ngay hôm nay và bắt đầu tạo ra meme hài hước của riêng bạn!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Đường dẫn"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Make It Meme",
+      "description": "Make It Meme là một trò chơi nhiều người chơi sôi động và cạnh tranh, kết nối mọi người trên toàn cầu để thể hiện trí tuệ và hài hước của họ thông qua meme.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải xuống trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Make It Meme",
+      "whatIsTitle": "Make It Meme là gì?",
+      "whatIsDescription": "Make It Meme là một trò chơi nhiều người chơi sôi động và cạnh tranh, kết nối mọi người trên toàn cầu để thể hiện trí tuệ và hài hước của họ thông qua meme.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Mỗi người chơi được cung cấp một meme ngẫu nhiên.",
+      "howToPlayStep2": "Tạo một lời chú thích hài hước trong thời gian quy định.",
+      "howToPlayStep3": "Đánh giá tác phẩm meme của các đối thủ.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Vui nhộn nhiều người chơi",
+      "feature1Description": "Chơi cùng bạn bè hoặc người lạ trên khắp thế giới.",
+      "feature2Title": "Tự do sáng tạo",
+      "feature2Description": "Giải phóng sự sáng tạo của bạn với những lời chú thích hài hước.",
+      "feature3Title": "Vòng nhanh chóng",
+      "feature3Description": "Tham gia các vòng đánh giá nhanh chóng trong 15 giây.",
+      "feature4Title": "Cộng đồng toàn cầu",
+      "feature4Description": "Kết nối với những người đam mê meme trên toàn thế giới."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Khuyến nghị"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

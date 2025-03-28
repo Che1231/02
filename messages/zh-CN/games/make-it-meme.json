@@ -1,0 +1,77 @@
+{
+  "make-it-meme": {
+    "title": "Make It Meme - 在线多人表情包游戏",
+    "slogan": "创建、分享和用表情包大笑",
+    "description": "Make It Meme 是一款充满活力且竞争激烈的多人游戏，它将来自世界各地的人们聚集在一起，以表情包的形式展示他们的智慧和幽默。游戏开始后，每个玩家都会收到一个随机的表情包，并且必须在规定的时间内发挥创造力，创作一个滑稽的标题。之后，所有玩家都有 15 秒的时间来评价其他玩家的表情包创作。立即加入 Make It Meme，开始创建你自己的搞笑表情包！",
+    "Loading": {
+      "title": "正在加载..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一条",
+      "previous": "上一条"
+    },
+    "HomeIframe": {
+      "title": "Make It Meme",
+      "description": "Make It Meme 是一款充满活力且竞争激烈的多人游戏，它将来自世界各地的人们聚集在一起，以表情包的形式展示他们的智慧和幽默。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL 已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "玩游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Make It Meme",
+      "whatIsTitle": "什么是 Make It Meme？",
+      "whatIsDescription": "Make It Meme 是一款充满活力且竞争激烈的多人游戏，它将来自世界各地的人们聚集在一起，以表情包的形式展示他们的智慧和幽默。",
+      "howToPlayTitle": "如何玩游戏",
+      "howToPlayStep1": "每个玩家都会收到一个随机的表情包。",
+      "howToPlayStep2": "在规定的时间内创作一个滑稽的标题。",
+      "howToPlayStep3": "评价其他玩家的表情包创作。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "多人乐趣",
+      "feature1Description": "与来自世界各地的朋友或陌生人一起玩耍。",
+      "feature2Title": "创意自由",
+      "feature2Description": "用滑稽的标题释放你的创造力。",
+      "feature3Title": "快速轮次",
+      "feature3Description": "享受节奏快速的 15 秒评价轮次。",
+      "feature4Title": "全球社区",
+      "feature4Description": "与全球的表情包爱好者建立联系。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "分类",
+      "noCategories": "未找到分类",
+      "viewMore": "查看更多",
+      "page": "页"
+    }
+  }
+}

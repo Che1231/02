@@ -1,0 +1,77 @@
+{
+  "grindcraft": {
+    "title": "Grindcraft – Bauen, Handwerk und Erkunden Ihrer Welt",
+    "slogan": "Gestalten Sie Ihren Weg zum Erfolg in Grindcraft!",
+    "description": "Begeben Sie sich auf ein aufregendes Abenteuer in Grindcraft, wo Kreativität auf Strategie trifft. Sammeln Sie Ressourcen, fertigen Sie Werkzeuge an und bauen Sie Ihre eigene blühende Zivilisation in diesem süchtig machenden Idle-Clicker-Spiel. Von einfachen Möbeln bis hin zu komplexen Strukturen ist Ihrer Fantasie keine Grenze gesetzt. Erkunden Sie vielfältige Umgebungen, verwalten Sie Ressourcen und erweitern Sie Ihre Gemeinschaft. Ob Sie ein strategischer Planer sind oder einfach nur Spaß suchen, Grindcraft bietet endlose Möglichkeiten. Beginnen Sie noch heute Ihre Reise und erschaffen Sie Ihre Traumwelt!",
+    "Loading": {
+      "title": "Laden..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Grindcraft – Bauen, Handwerk und Erkunden Ihrer Welt",
+      "description": "Erschaffen Sie Ihre eigene Zivilisation in Grindcraft. Sammeln Sie Ressourcen, fertigen Sie Werkzeuge an und bauen Sie alles, was Sie sich vorstellen können. Beginnen Sie jetzt Ihr Abenteuer!",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Grindcraft – Bauen, Handwerk und Erkunden Ihrer Welt",
+      "whatIsTitle": "Was ist Grindcraft?",
+      "whatIsDescription": "Grindcraft ist ein süchtig machendes Idle-Clicker-Spiel, in dem Sie Ressourcen sammeln, Werkzeuge herstellen und Ihre eigene Zivilisation aufbauen. Von einfachen Möbeln bis hin zu komplexen Strukturen ist Ihrer Fantasie keine Grenze gesetzt.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Klicken Sie auf das Symbol in der linken Spalte, um Ressourcen zu sammeln.",
+      "howToPlayStep2": "Verwenden Sie die gesammelten Ressourcen, um Werkzeuge herzustellen und Strukturen zu bauen.",
+      "howToPlayStep3": "Erweitern Sie Ihre Gemeinschaft und ziehen Sie mehr Einwohner an, um Ihre Zivilisation zu verbessern.",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
+      "feature1Title": "Endlose Kreativität",
+      "feature1Description": "Bauen Sie alles, von einfachen Möbeln bis hin zu komplexen Strukturen.",
+      "feature2Title": "Ressourcenverwaltung",
+      "feature2Description": "Sammeln und verwalten Sie Ressourcen, um im Spiel voranzukommen.",
+      "feature3Title": "Gemeinschaftserweiterung",
+      "feature3Description": "Ziehen Sie mehr Einwohner an und erweitern Sie die Annehmlichkeiten, um Ihre Zivilisation zu verbessern.",
+      "feature4Title": "Vielfältige Umgebungen",
+      "feature4Description": "Erkunden Sie Dschungel, Graslandschaften und vieles mehr, um einzigartige Ressourcen zu finden."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

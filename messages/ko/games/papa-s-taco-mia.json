@@ -1,0 +1,77 @@
+{
+  "papa-s-taco-mia": {
+    "title": "파파스 타코 미아 온라인 플레이 - 꿈꿔왔던 타코리아 건설",
+    "slogan": "완벽한 타코를 만들어보세요!",
+    "description": "직접 타코리아를 운영해보고 싶으셨나요? 이제 파파스 타코 미아와 함께 꿈꿔왔던 타코리아를 시작할 수 있습니다! 소고기, 닭고기, 양파, 피망, 딱딱한 쉘과 부드러운 쉘 타코 등 원하는 모든 재료들이 준비되어 있습니다. 원하는 종류의 타코를 만들 수 있습니다. 오늘 파파스 타코 미아에 참여하여 꿈꿔왔던 타코를 만들어보세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "파파스 타코 미아™",
+      "description": "파파스 타코 미아와 함께 꿈꿔왔던 타코리아를 건설하세요! 다양한 재료로 맛있는 타코를 만들어 보세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "파파스 타코 미아™",
+      "whatIsTitle": "파파스 타코 미아는 무엇인가요?",
+      "whatIsDescription": "파파스 타코 미아는 직접 타코리아를 운영하고 다양한 재료로 맛있는 타코를 만드는 재미있는 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "소고기, 닭고기, 양파, 피망 등 원하는 재료를 선택하세요.",
+      "howToPlayStep2": "딱딱한 쉘 또는 부드러운 쉘 타코를 선택하세요.",
+      "howToPlayStep3": "타코를 조립하고 손님에게 제공하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "다양한 재료",
+      "feature1Description": "소고기, 닭고기, 양파, 피망 등 다양한 재료로 완벽한 타코를 만들어보세요.",
+      "feature2Title": "타코 쉘 선택",
+      "feature2Description": "다양한 식감을 위해 딱딱한 쉘 혹은 부드러운 쉘 타코를 선택하세요.",
+      "feature3Title": "인터랙티브 게임",
+      "feature3Description": "직접 타코리아를 운영하고 손님에게 타코를 제공하세요.",
+      "feature4Title": "창의적인 자유",
+      "feature4Description": "무한한 조합으로 원하는 타코를 만들어보세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

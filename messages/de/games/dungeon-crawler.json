@@ -1,0 +1,77 @@
+{
+  "dungeon-crawler": {
+    "title": "Dungeon Crawler: Erkundung und Eroberung antiker Schätze",
+    "slogan": "Begeben Sie sich auf eine Reise, um antike Schätze im Dungeon Crawler zu finden!",
+    "description": "Dungeon Crawler ist ein geheimnisvolles Action-Adventure-Rollenspiel, in dem Sie als tapferer Held in dunkle und gefährliche Dungeons vordringen. Erkunden Sie, bekämpfen Sie Monster, sammeln Sie Schätze und verbessern Sie Ihren Charakter, um stärker zu werden. Mit einem reichhaltigen Kampfsystem und einer fesselnden Handlung bietet Dungeon Crawler ein dramatisches und herausforderndes Erlebnis. Sind Sie bereit, ein unbesiegbarer Krieger zu werden? Lasst uns erkunden und erobern!",
+    "Loading": {
+      "title": "Wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Leitfaden",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Dungeon Crawler",
+      "description": "Begeben Sie sich auf eine Reise, um antike Schätze im Dungeon Crawler zu finden! Erkunden Sie, bekämpfen Sie Monster und verbessern Sie Ihren Charakter, um stärker zu werden.",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel spielen"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Dungeon Crawler",
+      "whatIsTitle": "Was ist Dungeon Crawler?",
+      "whatIsDescription": "Dungeon Crawler ist ein geheimnisvolles Action-Adventure-Rollenspiel, in dem Sie als tapferer Held in dunkle und gefährliche Dungeons vordringen. Ihr Hauptziel ist es, zu erkunden, Monster zu bekämpfen, Schätze zu sammeln und Ihren Charakter zu verbessern, um stärker zu werden.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Steuern Sie Ihren Krieger, um Geheimnisse in labyrinthischen Dungeons zu suchen.",
+      "howToPlayStep2": "Besiegen Sie Monster mit Waffen, Magie und Spezialfähigkeiten.",
+      "howToPlayStep3": "Verbessern Sie die Fähigkeiten und Attribute Ihres Charakters mit Erfahrung, die Sie im Kampf sammeln.",
+      "keyFeaturesTitle": "Haupteigenschaften",
+      "feature1Title": "Reichhaltiges Kampfsystem",
+      "feature1Description": "Begeben Sie sich in dramatische und herausfordernde Kämpfe mit verschiedenen Waffen und Fähigkeiten.",
+      "feature2Title": "Fesselnde Handlung",
+      "feature2Description": "Folgen Sie einer fesselnden Handlung, während Sie dunkle und gefährliche Dungeons erkunden.",
+      "feature3Title": "Charakterverbesserungen",
+      "feature3Description": "Verbessern Sie die Fähigkeiten und Attribute Ihres Charakters, um stärker zu werden.",
+      "feature4Title": "Sammlung von Schätzen",
+      "feature4Description": "Sammeln Sie wertvolle Schätze und Gegenstände, die Ihnen auf Ihrer Reise helfen."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

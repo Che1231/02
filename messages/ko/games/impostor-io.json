@@ -1,0 +1,77 @@
+{
+  "impostor-io": {
+    "title": "임포스터.io 플레이 - 멀티플레이어 사회적 추론 게임",
+    "slogan": "임포스터를 밝히고, 임무를 완료하고, 생존하세요!",
+    "description": "임포스터.io는 인기 있는 사회적 추론 게임 Among Us에서 영감을 받은 몰입도 높은 멀티플레이어 게임입니다. 이 흥미진진한 경험에서 플레이어는 우주선에 있으며, 임무를 완료하고 그들 중의 사기꾼을 식별하기 위해 함께 일해야 합니다. 임포스터.io는 전략과 속임수의 짜릿한 조합을 제공하여 사회적 추론 게임 팬들에게 완벽한 게임입니다. 모험에 참여하여 사기꾼을 밝히거나 동료를 성공적으로 속일 수 있을지 확인하세요. 지금 임포스터.io를 플레이하고 긴장감을 경험하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "내용",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "임포스터.io™ - 온라인 멀티플레이어 게임",
+      "description": "임포스터.io에서 사회적 추론의 짜릿함을 경험하세요. 임무를 완료하고 사기꾼을 파헤치기 위해 협력하세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "임포스터.io - 멀티플레이어 사회적 추론 게임",
+      "whatIsTitle": "임포스터.io는 무엇인가요?",
+      "whatIsDescription": "임포스터.io는 인기 있는 사회적 추론 게임 Among Us에서 영감을 받은 몰입도 높은 멀티플레이어 게임입니다. 플레이어는 함께 일하여 임무를 완료하고 그들 중의 사기꾼을 식별해야 합니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "우주선 승무원에 합류하고 우주선을 유지할 임무를 완료하세요.",
+      "howToPlayStep2": "승무원 중의 사기꾼을 식별하고 투표하여 제거하세요.",
+      "howToPlayStep3": "생존하고 모든 임무를 완료하여 게임을 승리하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "멀티플레이어 게임 플레이",
+      "feature1Description": "흥미진진한 멀티플레이어 환경에서 친구 또는 낯선 사람들과 함께 플레이하세요.",
+      "feature2Title": "사회적 추론",
+      "feature2Description": "전략과 속임수를 사용하여 사기꾼을 밝히거나 동료를 속이세요.",
+      "feature3Title": "임무 완료",
+      "feature3Description": "함께 다양한 임무를 완료하고 우주선을 운영하세요.",
+      "feature4Title": "짜릿한 긴장감",
+      "feature4Description": "임포스터.io에서 생존하거나 속이려는 긴장과 흥분을 경험하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

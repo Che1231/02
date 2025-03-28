@@ -1,0 +1,77 @@
+{
+  "fnf-starcatcher": {
+    "title": "FNF StarCatcher - Trò chơi nhịp điệu trực tuyến miễn phí",
+    "slogan": "Bắt lấy nhịp điệu, Bắt lấy ngôi sao!",
+    "description": "Tham gia vào các trận chiến âm nhạc nhanh chóng trong FNF StarCatcher và thử thách kỹ năng nhịp điệu tài năng của bạn! Bối cảnh vũ trụ và giai điệu hấp dẫn sẽ giữ bạn trong trạng thái hào hứng! Bạn đã sẵn sàng cho trải nghiệm trò chơi nhịp điệu tối thượng với FNF StarCatcher chưa? Phiên bản mod hấp dẫn của series Friday Night Funkin' sắp sửa làm mưa làm gió trên thế giới game! Trong trò chơi nhịp điệu này, bạn sẽ bắt đầu một hành trình âm nhạc độc đáo không giống bất kỳ trò chơi nào khác. Trò chơi nhịp điệu gây nghiện này kết hợp những điều tốt nhất của cả hai thế giới: nhịp điệu sôi động của Friday Night Funkin' và phép thuật thiên thể của bầu trời đầy sao. Với hình ảnh mê hoặc và bản nhạc hấp dẫn, bạn sẽ bị cuốn hút ngay từ nốt nhạc đầu tiên. Vậy bạn còn chờ gì nữa? Hãy hòa mình vào nhịp điệu và tham gia cuộc cách mạng StarCatcher!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "FNF StarCatcher",
+      "description": "Tham gia vào các trận chiến âm nhạc nhanh chóng trong FNF StarCatcher và thử thách kỹ năng nhịp điệu tài năng của bạn! Bối cảnh vũ trụ và giai điệu hấp dẫn sẽ giữ bạn trong trạng thái hào hứng!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào clipboard!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "FNF StarCatcher",
+      "whatIsTitle": "FNF StarCatcher là gì?",
+      "whatIsDescription": "FNF StarCatcher là một trò chơi nhịp điệu kết hợp nhịp điệu sôi động của Friday Night Funkin' với phép thuật thiên thể của bầu trời đầy sao. Nó cung cấp một hành trình âm nhạc độc đáo với hình ảnh mê hoặc và bản nhạc hấp dẫn.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Nhấn các phím tương ứng đồng bộ với âm nhạc.",
+      "howToPlayStep2": "Bắt lấy các ngôi sao để đạt điểm cao hơn.",
+      "howToPlayStep3": "Phá vỡ kỷ lục của riêng bạn với kỹ năng cao hơn khi bạn tiến bộ.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Cơ chế Bắt ngôi sao sáng tạo",
+      "feature1Description": "Trải nghiệm một cơ chế gameplay độc đáo làm cho FNF StarCatcher khác biệt với các trò chơi nhịp điệu khác.",
+      "feature2Title": "Hình ảnh mê hoặc",
+      "feature2Description": "Thưởng thức hình ảnh tuyệt đẹp mang lại bối cảnh vũ trụ sống động.",
+      "feature3Title": "Bản nhạc cuốn hút",
+      "feature3Description": "Bị cuốn hút bởi bản nhạc của trò chơi ngay từ nốt nhạc đầu tiên.",
+      "feature4Title": "Gameplay gây nghiện",
+      "feature4Description": "Kết hợp nhịp điệu và chiến lược trong một trải nghiệm gameplay gây nghiện."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

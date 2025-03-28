@@ -1,0 +1,77 @@
+{
+  "football-blitz": {
+    "title": "풋볼 블리츠 - 당신의 내면의 스타를 깨우세요",
+    "slogan": "슈즈를 신으세요, 선수 여러분!",
+    "description": "풋볼 블리츠가 당신의 내면의 스타를 깨워 드립니다! 극한의 액션, 정밀한 패스, 그리고 파괴적인 태클을 경험하세요. 정교한 발재간을 마스터하고, 막강한 슈팅을 해제하고, 경기장의 전설이 되세요. 다양한 게임 모드와 사용자 설정을 통해 풋볼 블리츠는 끝없는 재미를 제공합니다. 지금 플레이하고 경기장을 지배하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "풋볼 블리츠™",
+      "description": "풋볼 블리츠는 극한의 액션, 정밀한 패스, 그리고 파괴적인 태클을 중심으로 합니다. 정교한 발재간을 마스터하고, 막강한 슈팅을 해제하고, 경기장의 전설이 되세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "풋볼 블리츠",
+      "whatIsTitle": "풋볼 블리츠는 무엇인가요?",
+      "whatIsDescription": "풋볼 블리츠는 당신의 내면의 스타를 깨워주는 활기찬 축구 게임입니다. 다양한 게임 모드와 사용자 설정을 통해 끝없는 재미와 도전을 제공합니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "화살표 키 또는 WASD 키를 사용하여 캐릭터를 조작하세요.",
+      "howToPlayStep2": "퀵 매치, 크레이지, 토너먼트, 챌린지 등 다양한 게임 모드 중에서 선택하세요.",
+      "howToPlayStep3": "상대보다 많은 골을 넣어 승리하고 최고의 챔피언이 되세요.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "다중 게임 모드",
+      "feature1Description": "퀵 매치, 크레이지, 토너먼트, 챌린지 등 다양한 게임 모드를 경험하세요.",
+      "feature2Title": "사용자 설정",
+      "feature2Description": "취향에 따라 게임 플레이를 맞춤 설정하세요.",
+      "feature3Title": "극한의 액션",
+      "feature3Description": "정밀한 패스와 파괴적인 태클을 즐기세요.",
+      "feature4Title": "전설적인 게임 플레이",
+      "feature4Description": "정교한 발재간을 마스터하고, 막강한 슈팅을 해제하여 경기장의 전설이 되세요."
+    },
+    "HomeFAQs": {
+      "title": "자주하는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

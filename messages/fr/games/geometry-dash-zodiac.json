@@ -1,0 +1,77 @@
+{
+  "geometry-dash-zodiac": {
+    "title": "Geometry Dash Zodiac - Plateforme rythmique en ligne gratuite",
+    "slogan": "Défiez vos réflexes avec Geometry Dash Zodiac",
+    "description": "Geometry Dash Zodiac est une plateforme rythmique exaltante qui porte vos compétences au niveau supérieur. Grâce à ses défis uniques et à son gameplay captivant, Geometry Dash Zodiac offre une expérience inoubliable aux joueurs de tous âges. Plongez-vous aujourd'hui dans le monde de Geometry Dash Zodiac et testez vos réflexes dans cette aventure palpitante !",
+    "Loading": {
+      "title": "Chargement de Geometry Dash Zodiac..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Geometry Dash Zodiac - Jouez maintenant",
+      "description": "Découvrez l'excitation de Geometry Dash Zodiac, une plateforme rythmique qui met vos compétences et vos réflexes à l'épreuve. Jouez à Geometry Dash Zodiac gratuitement et immergez-vous dans ce jeu passionnant !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Geometry Dash Zodiac",
+      "whatIsTitle": "Qu'est-ce que Geometry Dash Zodiac ?",
+      "whatIsDescription": "Geometry Dash Zodiac est la dernière version de la série Geometry Dash, proposant de nouveaux défis et un gameplay passionnant aux passionnés des plateformes rythmiques.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Naviguez dans les niveaux en utilisant le timing et le rythme précis.",
+      "howToPlayStep2": "Évitez les obstacles et les pièges pour atteindre la fin de chaque niveau.",
+      "howToPlayStep3": "Réalisez les défis pour débloquer de nouveaux niveaux et fonctionnalités.",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Nouveaux niveaux",
+      "feature1Description": "Explorez une variété de nouveaux niveaux avec des défis uniques.",
+      "feature2Title": "Gameplay amélioré",
+      "feature2Description": "Découvrez des mécanismes améliorés et des commandes plus fluides.",
+      "feature3Title": "Personnalisation des personnages",
+      "feature3Description": "Personnalisez votre personnage avec de nouvelles skins et accessoires.",
+      "feature4Title": "Classements",
+      "feature4Description": "Affrontez des amis et des joueurs de partout dans le monde pour la première place."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

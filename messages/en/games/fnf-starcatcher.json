@@ -1,0 +1,77 @@
+{
+  "fnf-starcatcher": {
+    "title": "FNF StarCatcher - Free Online Rhythm Game",
+    "slogan": "Catch the Beat, Catch the Stars!",
+    "description": "Engage in fast-paced music battles in FNF StarCatcher and test your talented timing skills! The galactic setting and catchy tunes keep you on your toes! Are you ready for the ultimate rhythm game experience with FNF StarCatcher? The gripping mod of the Friday Night Funkin' series is about to take the gaming world by storm! In this rhythm game, you will embark on a musical journey unlike any other. This addictive rhythm game combines the best of both worlds: the vibrant rhythms of Friday Night Funkin' and the celestial magic of the starry night sky. With mesmerizing visuals and a captivating soundtrack, you will be hooked from the very first note. So, what are you waiting for? Get on the beat and join the StarCatcher revolution!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "FNF StarCatcher",
+      "description": "Engage in fast-paced music battles in FNF StarCatcher and test your talented timing skills! The galactic setting and catchy tunes keep you on your toes!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "FNF StarCatcher",
+      "whatIsTitle": "What is FNF StarCatcher?",
+      "whatIsDescription": "FNF StarCatcher is a rhythm game that combines the vibrant rhythms of Friday Night Funkin' with the celestial magic of the starry night sky. It offers a unique musical journey with mesmerizing visuals and a captivating soundtrack.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Press the corresponding keys in sync with the music.",
+      "howToPlayStep2": "Catch the stars to score higher points.",
+      "howToPlayStep3": "Break your own records with higher skills as you progress.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Innovative StarCatching Mechanic",
+      "feature1Description": "Experience a unique gameplay mechanic that sets FNF StarCatcher apart from other rhythm games.",
+      "feature2Title": "Mesmerizing Visuals",
+      "feature2Description": "Enjoy stunning visuals that bring the galactic setting to life.",
+      "feature3Title": "Captivating Soundtrack",
+      "feature3Description": "Get hooked on the game's soundtrack from the very first note.",
+      "feature4Title": "Addictive Gameplay",
+      "feature4Description": "Combine rhythm and strategy in an addictive gameplay experience."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

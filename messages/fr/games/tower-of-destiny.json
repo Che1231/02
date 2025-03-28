@@ -1,0 +1,77 @@
+{
+  "tower-of-destiny": {
+    "title": "Tour de la Destinée - Jeu de plate-forme épique en ligne gratuit",
+    "slogan": "Grimpez, conquerez et découvrez les mystères de la Tour",
+    "description": "Embarquez pour un voyage épique dans Tour de la Destinée, un jeu de plateforme exigeant où vous grimpez à travers des étages mystérieux remplis d'obstacles et de trésors. Contrôlez votre guerrier cube, collectionnez des gemmes, évitez les dangers et déverrouillez des coffres précieux. Avec un gameplay créatif et des défis stratégiques, Tour de la Destinée offre une expérience immersive pour les chercheurs d'aventure. Commencez votre ascension maintenant et voyez jusqu'où vous pouvez aller !",
+    "Loading": {
+      "title": "Chargement de Tour de la Destinée..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Tour de la Destinée",
+      "description": "Jouez à Tour de la Destinée, un jeu de plateforme palpitant où vous conquerez des étages, collecterez des gemmes et déverrouillerez des trésors. Mettez vos compétences et votre stratégie à l'épreuve dans cette aventure épique !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Tour de la Destinée",
+      "whatIsTitle": "Qu'est-ce que Tour de la Destinée ?",
+      "whatIsDescription": "Tour de la Destinée est un jeu de plateforme épique où vous incarnez un courageux guerrier grimpant à travers des étages mystérieux remplis de défis et de trésors.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Collectionnez des gemmes pour débloquer des coffres au trésor précieux.",
+      "howToPlayStep2": "Évitez les zones dangereuses comme les rivières toxiques et les ennemis pour rester en vie.",
+      "howToPlayStep3": "Grimpez à l'échelle pour atteindre l'étage suivant après avoir débloqué le trésor.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Gameplay créatif",
+      "feature1Description": "Contrôlez un guerrier cube dans un environnement en mouvement continu.",
+      "feature2Title": "Défis stratégiques",
+      "feature2Description": "Naviguez dans des étages remplis d'obstacles et de trésors.",
+      "feature3Title": "Boutique en jeu",
+      "feature3Description": "Achetez des améliorations comme l'aimant, le bouclier et les vies pour améliorer votre gameplay.",
+      "feature4Title": "Expérience immersive",
+      "feature4Description": "Explorez un monde sombre et mystérieux avec des défis uniques."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

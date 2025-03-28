@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Como executar movimentos básicos e combate no Dungeon Crawler?",
+    "answer": "No Dungeon Crawler, os movimentos básicos são controlados usando as teclas WASD ou as teclas de seta. Para combate, clique na esquerda do rato para atacar com a arma principal. Por exemplo, usar uma espada fará com que ela se mova na direção do cursor. Para esquivar-se, prima a barra de espaço, o que pode ser crucial para evitar os ataques inimigos. Lembre-se de gerir a barra de resistência, pois esquivar-se e atacar consomem resistência. Uma boa prática é atacar duas vezes, depois esquivar-se para evitar contra-ataques."
+  },
+  {
+    "question": "Por que a gestão de inventário é crucial no Dungeon Crawler?",
+    "answer": "A gestão de inventário é vital no Dungeon Crawler porque a sua mochila tem um número limitado de slots. Priorize itens essenciais como poções de saúde e armas. Por exemplo, se encontrar uma espada rara, mas o seu inventário estiver cheio, considere descartar um item menos valioso, como uma poção comum. Organize o seu inventário colocando os itens usados frequentemente em slots de fácil acesso. Isto garante que os possa utilizar rapidamente durante combates ou emergências."
+  },
+  {
+    "question": "Quais as melhores estratégias para subir de nível rapidamente no Dungeon Crawler?",
+    "answer": "Para subir de nível rapidamente no Dungeon Crawler, concentre-se em completar missões e derrotar inimigos de níveis superiores. Por exemplo, a missão \"Rei dos Goblins\" oferece recompensas substanciais de experiência. PASSO 1: Equipar as melhores armas disponíveis para maximizar a sua produção de danos. PASSO 2: Use feitiços ou habilidades de área de efeito (AoE) para limpar grupos de inimigos mais rapidamente. PASSO 3: Leve sempre consigo poções de saúde para sustentar batalhas mais longas sem recuar. Esta abordagem garante um ganho de experiência eficiente."
+  },
+  {
+    "question": "Como funciona o sistema de artesanato no Dungeon Crawler?",
+    "answer": "O sistema de artesanato no Dungeon Crawler permite aos jogadores criar itens poderosos a partir de recursos recolhidos. Por exemplo, combinar 3 Minérios de Ferro e 1 Madeira pode criar uma espada básica. PASSO 1: Recolha recursos através da mineração ou saque. PASSO 2: Acesse o menu de artesanato no seu inventário. PASSO 3: Selecione o item que pretende criar e certifique-se de ter os materiais necessários. O artesanato é essencial para atualizar a sua armadura e manter-se competitivo em masmorras de níveis mais elevados."
+  },
+  {
+    "question": "Quais as competências que devo priorizar para uma construção de mago no Dungeon Crawler?",
+    "answer": "Para uma construção de mago no Dungeon Crawler, priorize competências que melhorem as suas capacidades de lançamento de feitiços. Por exemplo, \"Bola de Fogo\" é um poderoso feitiço de área de efeito (AoE) que pode limpar rapidamente grupos de inimigos. PASSO 1: Invista em \"Regeneração de Mana\" para sustentar o seu lançamento de feitiços. PASSO 2: Melhore \"Dano de Feitiços\" para aumentar a eficácia dos seus feitiços. PASSO 3: Considere \"Teletransporte\" para mobilidade e fuga de situações perigosas. Esta construção concentra-se em maximizar a produção de danos enquanto mantém a flexibilidade."
+  },
+  {
+    "question": "Quais as principais diferenças entre os níveis de dificuldade do Dungeon Crawler?",
+    "answer": "O Dungeon Crawler oferece vários níveis de dificuldade, cada um com um impacto significativo no jogo. Por exemplo, no \"Fácil\", os inimigos infligem menos danos e têm menor saúde, tornando-o ideal para principiantes. No \"Difícil\", os inimigos são mais agressivos e os recursos são mais escassos, exigindo estratégias avançadas. A dificuldade \"Pesadelo\" introduz mecânicas únicas, como a morte definitiva, onde a morte resulta na perda do seu personagem. Escolha uma dificuldade que corresponda ao seu nível de habilidade e ao seu desafio desejado."
+  },
+  {
+    "question": "Como o Dungeon Crawler lida com a progressão do personagem e a alocação de estatísticas?",
+    "answer": "A progressão do personagem no Dungeon Crawler envolve subir de nível e alocar pontos de estatísticas para melhorar as capacidades do seu personagem. Por exemplo, um guerreiro pode priorizar Força para aumentar os danos de combate corpo-a-corpo, enquanto um ladrão se concentra em Destreza para melhores acertos críticos. PASSO 1: Suba de nível ganhando experiência através de missões e combate. PASSO 2: Aloca pontos de estatísticas com base na sua construção escolhida. PASSO 3: Revise e ajuste regularmente as suas estatísticas para otimizar o desempenho em diferentes masmorras."
+  },
+  {
+    "question": "Posso transferir o meu progresso do Dungeon Crawler entre diferentes plataformas?",
+    "answer": "Sim, o Dungeon Crawler suporta a transferência de progresso entre plataformas. Por exemplo, pode transferir o seu personagem do PC para o telemóvel. PASSO 1: Certifique-se que o seu jogo está ligado a uma conta na nuvem. PASSO 2: Efetue login com a mesma conta na nova plataforma. PASSO 3: Sincronize o seu progresso para continuar onde parou. Esta funcionalidade permite uma jogabilidade perfeita entre dispositivos, garantindo que nunca perca o progresso que arduamente adquiriu."
+  },
+  {
+    "question": "Quais são alguns ovos de Páscoa ocultos no Dungeon Crawler?",
+    "answer": "O Dungeon Crawler está repleto de ovos de Páscoa ocultos que recompensam a exploração. Por exemplo, nas \"Catacumbas Esquecidas\", ao quebrar uma parede específica revela-se uma sala secreta com despojos raros. Outro ovo de Páscoa envolve equipar uma combinação específica de itens para desbloquear um diálogo único com um NPC. Estas joias ocultas adicionam profundidade ao jogo e recompensam os jogadores que se afastam do caminho batido."
+  },
+  {
+    "question": "Como funciona o algoritmo de geração de masmorras no Dungeon Crawler?",
+    "answer": "O Dungeon Crawler utiliza um algoritmo de geração procedural para criar masmorras únicas para cada jogada. Por exemplo, o algoritmo combina modelos pré-definidos de salas com elementos aleatórios, como a colocação de inimigos e a distribuição de despojos. Isto garante que nenhuma masmorra é exatamente igual, proporcionando uma experiência nova a cada vez. O algoritmo também ajusta a dificuldade com base no nível do seu personagem, mantendo o desafio equilibrado e envolvente."
+  }
+]
