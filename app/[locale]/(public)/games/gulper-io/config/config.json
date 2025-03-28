@@ -1,0 +1,122 @@
+{
+  "name": "Gulper.io",
+  "pagePath": "/games/gulper-io",
+  "pageName": "gulper-io",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://gulper.io/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken87.png",
+      "content": "This game is addicting! Eating fragments to grow is so satisfying. Can't stop playing Gulper.io!"
+    },
+    {
+      "author": "SavageBroadsword_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBroadsword_X.png",
+      "content": "Eliminating other worms is the best part of Gulper.io. So much fun!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Is it just me, or is this like Slither.io but better? The multiplayer battles are epic."
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "I'm terrible at this game, but I still enjoy the thrill of the chase lol."
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "Growing larger and then dominating the arena… This is my kinda game!"
+    },
+    {
+      "author": "PhantomPhoenix42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix42.png",
+      "content": "Gulper.io is a neat way to kill time. I like the strategic gameplay."
+    },
+    {
+      "author": "AdjectiveRevolver_Var",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AdjectiveRevolver_Var.png",
+      "content": "The online multiplayer in this game is insane! So many worms."
+    },
+    {
+      "author": "EldenRingFan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/EldenRingFan99.png",
+      "content": "Gulper.io, surprisingly fun and addictive, like a modern arcade throwback!"
+    },
+    {
+      "author": "IronicProGamer",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/IronicProGamer.png",
+      "content": "Why am I so bad at Gulper.io tho? I get eaten every time. Help!"
+    },
+    {
+      "author": "yY_LightBeing_Yy",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/yY_LightBeing_Yy.png",
+      "content": "Devouring shiny fragments is weirdly enjoyable. Good time waster, 8/10."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/gulper-io/gulper-io-m200x130.webp",
+  "page_path": "/games/gulper-io",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8sfw0bw014ilywlfj90j01e",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T07:06:49.387Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 15:07:57"
+}

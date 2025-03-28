@@ -1,0 +1,1 @@
+In Build Royale, engage in a thrilling battle royale experience as you construct defenses and clash with opponents in a 2D top-down world. Discover the expansive map, locate weapons, and gather resources to conquer your adversaries.

@@ -1,0 +1,77 @@
+{
+  "who-are-ya": {
+    "title": "誰があなた - 8回の試行でサッカー選手を当てよう",
+    "slogan": "Who Are Yaであなたのサッカー知識を試してください",
+    "description": "Who Are Yaは、スポーツ、特にサッカーの世界を中心とした魅力的な単語当てゲームです。Wordleと類似しており、楽しくプレイできます。このゲームでは、8回の試行でサッカー選手の氏名当てに挑戦します。自分を試して、選手を正しく特定できるかどうかを確認してください！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "誰があなた?",
+      "description": "この楽しく挑戦的なゲームでサッカー選手を当ててください。皆当てられますか？",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "誰があなた？",
+      "whatIsTitle": "Who Are Yaとは何ですか？",
+      "whatIsDescription": "Who Are Yaは、スポーツ、特にサッカーの世界を中心とした魅力的な単語当てゲームです。Wordleと類似しており、楽しくプレイできます。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "サッカー選手の氏名当てに挑戦します。",
+      "howToPlayStep2": "正解を出すのに8回の試行があります。",
+      "howToPlayStep3": "すべての選手を特定できますか？",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "魅力的なゲームプレイ",
+      "feature1Description": "楽しくて挑戦的な単語当て体験をお楽しみください。",
+      "feature2Title": "サッカーに焦点を当てたゲーム",
+      "feature2Description": "世界中のサッカー選手の知識を試してください。",
+      "feature3Title": "8回の試行",
+      "feature3Description": "正しい選手を当てるのに8回試せます。",
+      "feature4Title": "Wordleのような体験",
+      "feature4Description": "Wordleに似ていますが、サッカーの要素を加えています。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイに関するコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

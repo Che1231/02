@@ -1,0 +1,77 @@
+{
+  "bouncemasters": {
+    "title": "Bouncemasters - Jeu d'arcade en ligne gratuit",
+    "slogan": "Parcourez l'hiver avec Bouncemasters !",
+    "description": "Bienvenue dans Bouncemasters, où les manchots effectuent des sauts incroyables sur la glace et la neige ! Vivez des moments de jeu remplis de plaisir, collectionnez des pièces et améliorez votre équipement. Rejoignez l'aventure et voyez jusqu'où vous pouvez voler !",
+    "Loading": {
+      "title": "Chargement de Bouncemasters..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Bouncemasters - Jeu d'arcade en ligne gratuit",
+      "description": "Découvrez le monde passionnant de Bouncemasters ! Aidez les manchots à effectuer des sauts incroyables, collectionnez des pièces et améliorez votre équipement. Rejoignez l'aventure et voyez jusqu'où vous pouvez voler !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Bouncemasters",
+      "whatIsTitle": "Qu'est-ce que Bouncemasters ?",
+      "whatIsDescription": "Bouncemasters est un jeu d'arcade passionnant où les manchots effectuent des sauts incroyables sur des terres gelées. Rejoignez l'aventure et voyez jusqu'où vous pouvez voler !",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Appuyez sur l'écran au bon moment pour faire bondir le manchot.",
+      "howToPlayStep2": "Contrôlez le manchot pendant le vol pour toucher des objets comme des phoques ou des baleines pour un rebond supplémentaire.",
+      "howToPlayStep3": "Évitez la glace, les rochers et l'eau pour continuer à voler et collectionner des pièces pour améliorer votre équipement.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Sauts incroyables",
+      "feature1Description": "Aidez les manchots à effectuer des sauts incroyables sur les terres gelées.",
+      "feature2Title": "Collectionnez des pièces",
+      "feature2Description": "Collectionnez des pièces et des diamants pour améliorer votre équipement.",
+      "feature3Title": "Aventure",
+      "feature3Description": "Rejoignez l'aventure et voyez jusqu'où vous pouvez voler !",
+      "feature4Title": "Gameplay amusant",
+      "feature4Description": "Découvrez un gameplay divertissant avec des animaux familiers."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

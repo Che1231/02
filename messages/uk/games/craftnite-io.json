@@ -1,0 +1,77 @@
+{
+  "craftnite-io": {
+    "title": "Гра Craftnite.io онлайн – безкоштовний кросовер Minecraft і Fortnite",
+    "slogan": "Досвідьте остаточний кросовер Minecraft і Fortnite",
+    "description": "Craftnite.io поєднує найкраще з Minecraft і Fortnite в захоплюючому шутері від першої особи. Зануртесь в іконічний світ Minecraft, візьміть участь у жорстких битвах Королівської битви та прагніть до вершини рейтингу. Приєднуйтесь до розваг і грайте в Craftnite.io зараз!",
+    "Loading": {
+      "title": "Завантаження..."
+    },
+    "Navbar": {
+      "title": "Навігація"
+    },
+    "Common": {
+      "createAt": "Створено",
+      "guide": "Посібник",
+      "privacyPolicy": "Політика конфіденційності",
+      "termsOfServices": "Умови використання",
+      "text": "Вміст",
+      "help": "Допомога",
+      "friendlyLinks": "Дружні посилання",
+      "articleList": "Список статей",
+      "home": "Головна",
+      "next": "Наступний",
+      "previous": "Попередній"
+    },
+    "HomeIframe": {
+      "title": "Craftnite.io – Ігра на основі остаточного кросовера",
+      "description": "Досвідьте найкраще з Minecraft і Fortnite в одній грі. Грайте в Craftnite.io зараз і домінуйте в рейтингу!",
+      "iframeTitle": "Перегляд гри",
+      "fullscreenButton": "Повноекранний режим",
+      "shareButton": "Поділитись",
+      "urlCopied": "Посилання скопійовано в буфер обміну!",
+      "downloadGame": "Завантажити гру",
+      "playGame": "Грати"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Craftnite.io – Ігра на основі остаточного кросовера",
+      "whatIsTitle": "Що таке Craftnite.io?",
+      "whatIsDescription": "Craftnite.io – це захоплююча гра, яка поєднує найкраще з Minecraft і Fortnite. Зануртеся в досвід шутера від першої особи, встановлений в іконічному світі Minecraft.",
+      "howToPlayTitle": "Як грати",
+      "howToPlayStep1": "Приєднайтеся до битви Королівської битви та усуньте своїх супротивників.",
+      "howToPlayStep2": "Використовуйте свої навички, щоб вижити та піднятися в рейтингу.",
+      "howToPlayStep3": "Прагніть до найвищого місця та здобуйте перемогу!",
+      "keyFeaturesTitle": "Ключові особливості",
+      "feature1Title": "Іконічний світ Minecraft",
+      "feature1Description": "Дослідіть знайомий та великий світ Minecraft по-новому.",
+      "feature2Title": "Жорстка битва Королівської битви",
+      "feature2Description": "Захоплюйтесь захоплюючими битвами з гравцями з усього світу.",
+      "feature3Title": "Шутер від першої особи",
+      "feature3Description": "Досвідьте гру з точки зору першої особи для максимальної зануреності.",
+      "feature4Title": "Конкурс рейтингу",
+      "feature4Description": "Змагайтеся, щоб бути найкращим та зайняти перше місце в рейтингу."
+    },
+    "HomeFAQs": {
+      "title": "Найчастіші запитання"
+    },
+    "HomeRelatedVideo": {
+      "title": "Відео гри"
+    },
+    "HomeRecommendation": {
+      "title": "Рекомендації"
+    },
+    "HomeComments": {
+      "title": "Коментарі до гри"
+    },
+    "GamePage": {
+      "title": "Усі ігри",
+      "description": "Усі ігри",
+      "games": "Ігри"
+    },
+    "CategoryPage": {
+      "categories": "Категорії",
+      "noCategories": "Категорії не знайдено",
+      "viewMore": "Переглянути більше",
+      "page": "Сторінка"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "burrito-craft": {
+    "title": "Burrito Craft: Blok Dünyanızı Oluşturun, Keşfedin ve Yaratın",
+    "slogan": "Benzersiz Bir Kum Kutusu Macerasında Yolunuzu Bulun",
+    "description": "Burrito Craft'ta, blok dünyası sizin tuvalinizdir. İnşa edin, keşfedin veya rahatlayın - seçim sizin! Basit projelerden başlayarak kendi imparatorluğunuzu kademeli olarak inşa edin. Bilindik karakterlerden seçim yapın ve yaratıcı veya hayatta kalma oyun tarzlarına dalın. Burrito Craft, keşif ve yaratıcılık için sonsuz olanaklar sunar. Bugün maceranıza başlayın!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Burrito Craft: Dünyanızı İnşa Edin ve Keşfedin",
+      "description": "Burrito Craft'ta, blok dünyası sizin tuvalinizdir. İnşa edin, keşfedin veya rahatlayın - seçim sizin! Basit projelerden başlayarak kendi imparatorluğunuzu kademeli olarak inşa edin. Bilindik karakterlerden seçim yapın ve yaratıcı veya hayatta kalma oyun tarzlarına dalın. Burrito Craft, keşif ve yaratıcılık için sonsuz olanaklar sunar. Bugün maceranıza başlayın!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Burrito Craft: İnşa Edin, Keşfedin ve Yaratın",
+      "whatIsTitle": "Burrito Craft Nedir?",
+      "whatIsDescription": "Burrito Craft, Minecraft'ın benzersiz bir kombinasyonudur ve Five Nights at Winstons'tan tanıdık karakterler eklenmiştir. Yapıcı ve yaratıcı oyun tarzıyla, imza kum kutusu dünyası size sonsuz deneyimler sunmaktadır. Keşifleriniz ve yaratımlarınız için sınır yoktur.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Etrafı görmek için fareyi hareket ettirin ve hareket etmek için ok tuşlarını kullanın.",
+      "howToPlayStep2": "Bir bloğu kırmak için sol tıklayın ve öğeler veya nesneler eklemek için sağ tıklayın.",
+      "howToPlayStep3": "Envanteri açmak ve kullanılacak öğeleri seçmek için E tuşuna basın.",
+      "keyFeaturesTitle": "Temel Özellikler",
+      "feature1Title": "Yaratıcı İnşa",
+      "feature1Description": "Bu blok dünyasında yaratıcılığınızı özgürce ifade edin.",
+      "feature2Title": "Hayatta Kalma Oyun Tarzı",
+      "feature2Description": "Hayatta kalma savaşında oyun içi bölgenizi koruyun.",
+      "feature3Title": "Çeşitli Malzemeler",
+      "feature3Description": "Farklı yapıya sahip projeler oluşturmak için çeşitli malzemeler kullanın.",
+      "feature4Title": "Eşsiz Oyun Modları",
+      "feature4Description": "Eşsiz yolculuklar için yaratıcı veya hayatta kalma modlarından seçim yapın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

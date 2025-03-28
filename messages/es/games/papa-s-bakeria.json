@@ -1,0 +1,77 @@
+{
+  "papa-s-bakeria": {
+    "title": "Jugar a Papa's Bakeria en línea: juego de cocina gratuito",
+    "slogan": "¡Hornea, sirve y gana dinero en Papa's Bakeria!",
+    "description": "Papa's Bakeria es un juego de cocina rápido donde horneas pasteles, atiendes a los clientes y ganas propinas. Como parte de la querida serie Papa's, este juego ofrece un giro moderno con pasteles en lugar de batidos. Experimenta la diversión de administrar tu propia panadería y disfruta de la esencia clásica de los juegos de Papa's. ¡Juega a Papa's Bakeria en línea gratis y sumérgete en el delicioso mundo de la repostería!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear a",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Papa's Bakeria",
+      "description": "Papa's Bakeria es un juego de cocina rápido donde horneas pasteles, atiendes a los clientes y ganas propinas. Como parte de la querida serie Papa's, este juego ofrece un giro moderno con pasteles en lugar de batidos. Experimenta la diversión de administrar tu propia panadería y disfruta de la esencia clásica de los juegos de Papa's. ¡Juega a Papa's Bakeria en línea gratis y sumérgete en el delicioso mundo de la repostería!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Papa's Bakeria",
+      "whatIsTitle": "¿Qué es Papa's Bakeria?",
+      "whatIsDescription": "Papa's Bakeria es un juego de cocina rápido donde horneas pasteles, atiendes a los clientes y ganas propinas. Como parte de la querida serie Papa's, este juego ofrece un giro moderno con pasteles en lugar de batidos.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Hornea pasteles según los pedidos de los clientes.",
+      "howToPlayStep2": "Atiende a los clientes rápidamente para ganar propinas.",
+      "howToPlayStep3": "Administra tu panadería de manera eficiente para mantener contentos a los clientes.",
+      "keyFeaturesTitle": "Características principales",
+      "feature1Title": "Diversión de hornear",
+      "feature1Description": "Experimenta la alegría de hornear pasteles en un entorno rápido.",
+      "feature2Title": "Servicio al cliente",
+      "feature2Description": "Atiende a los clientes de forma rápida y eficiente para ganar propinas.",
+      "feature3Title": "Gestión de la panadería",
+      "feature3Description": "Administra tu panadería para mantener contentos a los clientes y hacer que tu negocio prospere.",
+      "feature4Title": "Giro moderno",
+      "feature4Description": "Disfruta de un giro moderno en los clásicos juegos de Papa's con pasteles en lugar de batidos."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

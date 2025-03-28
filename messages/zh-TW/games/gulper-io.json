@@ -1,0 +1,77 @@
+{
+  "gulper-io": {
+    "title": "在線玩 Gulper.io - 免費多人貪吃蛇大戰遊戲",
+    "slogan": "沉浸在引人入勝的 Gulper.io 世界中",
+    "description": "Gulper.io 是一款令人興奮的線上貪吃蛇遊戲，您可以在刺激的多人對戰競技場中與其他玩家競爭。控制您的蠕蟲，吞噬閃亮的碎片以長大，並戰略性地消滅對手。今天體驗 Gulper.io 的刺激，加入戰鬥！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "Gulper.io",
+      "description": "投入充滿動作的 Gulper.io 世界，您控制一條蠕蟲，在多人競技場中競爭。透過吞噬碎片並巧妙地擊敗對手，成為最強的蠕蟲！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Gulper.io - 終極貪吃蛇大戰遊戲",
+      "whatIsTitle": "Gulper.io 究竟是什麼？",
+      "whatIsDescription": "Gulper.io 是一款刺激的線上多人貪吃蛇遊戲，您控制一隻蠕蟲，透過吃閃亮碎片長大，並在競技場中與其他玩家競爭。",
+      "howToPlayTitle": "如何遊戲",
+      "howToPlayStep1": "使用方向鍵或滑鼠控制您的蠕蟲。",
+      "howToPlayStep2": "吃閃亮碎片以長大和獲得優勢。",
+      "howToPlayStep3": "戰略性地消滅對手蠕蟲以稱霸競技場。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "多人競技場",
+      "feature1Description": "與來自世界各地的玩家進行即時競爭。",
+      "feature2Title": "動態成長",
+      "feature2Description": "透過吞噬閃亮碎片並巧妙地擊敗對手，讓您的蠕蟲成長。",
+      "feature3Title": "戰略性遊戲",
+      "feature3Description": "運用策略消滅其他蠕蟲並攀登排行榜。",
+      "feature4Title": "引人入勝的畫面",
+      "feature4Description": "在每次戰鬥中享受生動的圖形和流暢的動畫。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到分類",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

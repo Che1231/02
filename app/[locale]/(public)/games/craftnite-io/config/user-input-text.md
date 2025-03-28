@@ -1,0 +1,1 @@
+Craftnite.io is an action-packed game that combines the best of Minecraft and Fortnite. Immerse yourself in a first-person shooter (FPS) experience set in the iconic Minecraft world. Engage in intense Battle Royale battles against fellow players, eliminate your adversaries, and strive to claim the coveted top position on the leaderboard.

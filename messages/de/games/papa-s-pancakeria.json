@@ -1,0 +1,77 @@
+{
+  "papa-s-pancakeria": {
+    "title": "Papa's Pancakeria Online spielen - Kostenloses Restaurant-Management-Spiel",
+    "slogan": "Verwalten Sie den Pancake-Shop von Papa Louie und servieren Sie köstliche Pancakes!",
+    "description": "Treten Sie in Papa's Pancakeria ein und übernehmen Sie die Leitung des Pancake-Shops! Verwalten Sie Bestellungen, gießen Sie Teig, wenden Sie Pfannkuchen und bedienen Sie hungrige Kunden in diesem unterhaltsamen und fesselnden Restaurant-Simulationsspiel. Perfekt für Fans von Geschäftsspielen, bietet Papa's Pancakeria ein entzückendes Erlebnis mit charmanten Grafiken und süchtig machendem Gameplay. Beginnen Sie noch heute mit dem Pfannkuchen-Wenden und sehen Sie, ob Sie Ihre Kunden glücklich halten können!",
+    "Loading": {
+      "title": "Papa's Pancakeria wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Papa's Pancakeria™",
+      "description": "Übernehmen Sie die Kontrolle über Papa Louies Pancake-Shop und servieren Sie hungrigen Kunden köstliche Pfannkuchen in diesem unterhaltsamen und fesselnden Restaurant-Simulationsspiel.",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Papa's Pancakeria™",
+      "whatIsTitle": "Was ist Papa's Pancakeria?",
+      "whatIsDescription": "Papa's Pancakeria ist ein Restaurant-Management-Spiel, in dem Sie den Pancake-Shop von Papa Louie leiten. Verwalten Sie Bestellungen, gießen Sie Teig, wenden Sie Pfannkuchen und bedienen Sie hungrige Kunden.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Nehmen Sie Bestellungen von Kunden entgegen und notieren Sie deren Wünsche.",
+      "howToPlayStep2": "Gießen Sie Teig auf die Pfanne und wenden Sie die Pfannkuchen perfekt.",
+      "howToPlayStep3": "Servieren Sie die Pfannkuchen heiß und sorgen Sie für Kundenzufriedenheit.",
+      "keyFeaturesTitle": "Hauptmerkmale",
+      "feature1Title": "Restaurant-Management",
+      "feature1Description": "Verwalten Sie jeden Aspekt von Papa Louies Pancake-Shop, von der Bestellung bis zum Servieren der Kunden.",
+      "feature2Title": "Herausforderndes Gameplay",
+      "feature2Description": "Bleiben Sie mit den Kundenwünschen Schritt halten und servieren Sie schnell Pfannkuchen, um hohe Punktzahlen zu erzielen.",
+      "feature3Title": "Ansprechende Grafiken",
+      "feature3Description": "Genießen Sie die charmanten und farbenfrohen Grafiken, die Papa's Pancakeria zum Leben erwecken.",
+      "feature4Title": "Süchtiges Vergnügen",
+      "feature4Description": "Erleben Sie das fesselnde Gameplay, das Sie immer wieder zum erneuten Pfannkuchen-Wenden zurückbringt."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

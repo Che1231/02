@@ -1,0 +1,77 @@
+{
+  "brutal-io": {
+    "title": "Brutal.io: 무료 온라인 멀티플레이어 게임",
+    "slogan": "휘두르고, 파괴하고, 정복하라",
+    "description": "Brutal.io는 플레이어가 작은 차량을 조종하여 휘두르는 채찍으로 다른 플레이어 차량을 공격하여 파괴하고 에너지를 모으는 중독성 있는 멀티플레이어 온라인 게임입니다. Brutal.io에서 격렬한 전투, 전략적인 게임 플레이, 그리고 끝없는 재미를 경험하세요. 지금 참여하여 아레나를 장악하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "컨텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "Brutal.io",
+      "description": "Brutal.io는 플레이어가 작은 차량을 조종하여 휘두르는 채찍으로 다른 플레이어 차량을 공격하여 파괴하고 에너지를 모으는 중독성 있는 멀티플레이어 온라인 게임입니다.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Brutal.io",
+      "whatIsTitle": "Brutal.io는 무엇인가요?",
+      "whatIsDescription": "Brutal.io는 플레이어가 작은 차량을 조종하여 휘두르는 채찍으로 다른 플레이어 차량을 공격하여 파괴하고 에너지를 모으는 중독성 있는 멀티플레이어 온라인 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "차량과 채찍을 조작하세요.",
+      "howToPlayStep2": "채찍을 휘둘러 다른 플레이어를 공격하세요.",
+      "howToPlayStep3": "파괴된 차량에서 에너지를 수집하여 더욱 강해지세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "멀티플레이어 전투",
+      "feature1Description": "전 세계 플레이어들과 실시간으로 경쟁하세요.",
+      "feature2Title": "전략적인 게임 플레이",
+      "feature2Description": "채찍을 전략적으로 사용하여 상대방을 제압하고 파괴하세요.",
+      "feature3Title": "끝없는 재미",
+      "feature3Description": "끝없는 재미와 격렬한 전투를 경험하세요.",
+      "feature4Title": "간편한 조작",
+      "feature4Description": "쉽게 배우는 조작으로 모든 플레이어가 즐길 수 있습니다."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

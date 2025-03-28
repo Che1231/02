@@ -1,0 +1,77 @@
+{
+  "sausage-flip": {
+    "title": "Sausage Flip - Juego de plataformas de volteo en línea gratuito",
+    "slogan": "¡Voltea tu camino hacia la victoria!",
+    "description": "Sausage Flip es un divertido juego de plataformas de volteo con más de 150 niveles. Lanza y voltea un salchicha pegajosa con ojos saltones para superar obstáculos y llegar a la línea de meta. Perfecto para jugadores casuales que buscan un desafío divertido. ¡Juega a Sausage Flip ahora y prueba tus habilidades!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Sausage Flip",
+      "description": "Sausage Flip es un divertido y desafiante juego de plataformas de volteo. Voltea tu salchicha a través de más de 150 niveles y llega a la línea de meta. ¡Juega ahora!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sausage Flip",
+      "whatIsTitle": "¿Qué es Sausage Flip?",
+      "whatIsDescription": "Sausage Flip es un juego de plataformas donde debes voltear una salchicha a través de obstáculos para llegar a la meta.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Dibuja una línea desde la salchicha hasta el lado derecho de la pantalla.",
+      "howToPlayStep2": "Dirige la línea para guiar la salchicha a través de los obstáculos.",
+      "howToPlayStep3": "Mejora tu salchicha para desbloquear nuevas pieles y habilidades.",
+      "keyFeaturesTitle": "Características principales",
+      "feature1Title": "Más de 150 niveles",
+      "feature1Description": "Desafíate con una variedad de niveles y obstáculos.",
+      "feature2Title": "Pieles únicas de salchicha",
+      "feature2Description": "Desbloquea y mejora diferentes pieles de salchicha, incluyendo una piel de astronauta y una de girasol.",
+      "feature3Title": "Divertido y adictivo",
+      "feature3Description": "Disfruta de un juego que es fácil de aprender pero difícil de dominar.",
+      "feature4Title": "Gratis para jugar",
+      "feature4Description": "Juega a Sausage Flip en línea de forma gratuita en cualquier momento y lugar."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

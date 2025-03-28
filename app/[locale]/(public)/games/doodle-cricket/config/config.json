@@ -1,0 +1,122 @@
+{
+  "name": "Doodle Cricket",
+  "pagePath": "/games/doodle-cricket",
+  "pageName": "doodle-cricket",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "/game/doodle-cricket/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomKraken42.png",
+      "content": "OMG, Doodle Cricket is seriously addictive! The gameplay with the adorable animals is just too much, I can't stop playing this! Gotta say, it's got me hooked on wickets!"
+    },
+    {
+      "author": "SavageKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatana_X.png",
+      "content": "This game's a blast! The quick improvisation is key! I'm loving the cricket action and all the cute animals. Seriously, Doodle Cricket is awesome."
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Fast balls, spin balls - it's all about the timing in Doodle Cricket! Clicking that stick icon is easier than I thought, great game so far!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Is this Doodle Cricket actually fun? Yeah, it is. The sports gameplay is surprisingly engaging. Gotta try to beat my high score! "
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "Doodle Cricket is keeping me entertained for hours. Just pay attention, and you'll be scoring sixes in no time! I love the easy approach."
+    },
+    {
+      "author": "NeonLeviathan87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonLeviathan87.png",
+      "content": "My new high score is in sight! The animation of the shots in Doodle Cricket are super cool, the game is really impressive. "
+    },
+    {
+      "author": "StalkingPhoenix99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix99.png",
+      "content": "This game really requires quick thinking... and I appreciate the simple rules. Seriously, Doodle Cricket will keep you immersed! Definitely recommend it."
+    },
+    {
+      "author": "Broadsword_King",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Broadsword_King.png",
+      "content": "Love the adorable animals and how Doodle Cricket makes you focus! The game is so enjoyable, and it is great for the players!"
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "The gameplay is fun. I wasn't expecting much from Doodle Cricket, but it’s fantastic to play and very engaging. What a surprise!"
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "Wow, the home runs in Doodle Cricket are awesome! Remembering the ball's path is the key to success! Seriously, it's a great game!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/doodle-cricket/doodle-cricket-m200x130.webp",
+  "page_path": "/games/doodle-cricket",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8sfw0f9014olywllg5172qg",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T07:06:49.507Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 15:08:52"
+}

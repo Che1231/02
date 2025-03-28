@@ -1,0 +1,77 @@
+{
+  "papa-s-pancakeria": {
+    "title": "Jouer à Papa's Pancakeria en ligne - Jeu de gestion de restaurant gratuit",
+    "slogan": "Gérez la crêperie de Papa Louie et servez de délicieuses crêpes !",
+    "description": "Plongez dans Papa's Pancakeria et prenez les rênes de la crêperie ! Gérez les commandes, versez la pâte à crêpes, retournez les crêpes et servez les clients affamés dans ce jeu de simulation de restaurant amusant et captivant. Parfait pour les amateurs de jeux de gestion, Papa's Pancakeria offre une expérience agréable avec ses graphismes charmantes et son gameplay addictif. Commencez à faire des crêpes dès aujourd'hui et voyez si vous pouvez satisfaire vos clients !",
+    "Loading": {
+      "title": "Chargement de Papa's Pancakeria..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Papa's Pancakeria™",
+      "description": "Prenez le contrôle de la crêperie de Papa Louie et servez de délicieuses crêpes à des clients affamés dans ce jeu de simulation de restaurant amusant et captivant.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer au jeu"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Papa's Pancakeria™",
+      "whatIsTitle": "Qu'est-ce que Papa's Pancakeria ?",
+      "whatIsDescription": "Papa's Pancakeria est un jeu de gestion de restaurant où vous prenez le contrôle de la crêperie de Papa Louie. Gérez les commandes, versez la pâte à crêpes, retournez les crêpes et servez les clients affamés.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Prenez les commandes des clients et notez leurs préférences.",
+      "howToPlayStep2": "Versez la pâte à crêpes sur la plaque et retournez les crêpes à la perfection.",
+      "howToPlayStep3": "Servez les crêpes chaudes et assurez-vous de la satisfaction des clients.",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Gestion de restaurant",
+      "feature1Description": "Gérez tous les aspects de la crêperie de Papa Louie, de la prise de commande à la satisfaction des clients.",
+      "feature2Title": "Gameplay stimulant",
+      "feature2Description": "Faites face aux demandes des clients et servez les crêpes rapidement pour obtenir de hauts scores.",
+      "feature3Title": "Visuels engageants",
+      "feature3Description": "Profitez de graphismes charmantes et colorées qui donnent vie à Papa's Pancakeria.",
+      "feature4Title": "Divertissement addictif",
+      "feature4Description": "Expérimentez un gameplay addictif qui vous ramène encore et encore pour plus d'action de crêperie."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

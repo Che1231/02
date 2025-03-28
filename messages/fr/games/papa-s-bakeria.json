@@ -1,0 +1,77 @@
+{
+  "papa-s-bakeria": {
+    "title": "Jouer à Papa's Bakeria en ligne - Jeu de cuisine gratuit",
+    "slogan": "Pétrir, servir et gagner de l'argent dans Papa's Bakeria !",
+    "description": "Papa's Bakeria est un jeu de cuisine rapide où vous devez préparer des tartes, servir les clients et gagner des pourboires. Faisant partie de la série Papa's bien-aimée, ce jeu propose une version moderne avec des tartes au lieu de milkshakes. Découvrez le plaisir de gérer votre propre boulangerie et appréciez l'essence classique des jeux Papa's. Jouez à Papa's Bakeria en ligne gratuitement et plongez dans le monde délicieux de la pâtisserie !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens utiles",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Papa's Bakeria",
+      "description": "Papa's Bakeria est un jeu de cuisine rapide où vous devez préparer des tartes, servir les clients et gagner des pourboires. Faisant partie de la célèbre série Papa's, ce jeu propose une version moderne avec des tartes au lieu de milkshakes. Découvrez le plaisir de gérer votre propre boulangerie et appréciez l'essence classique des jeux Papa's. Jouez à Papa's Bakeria en ligne gratuitement et plongez dans le monde délicieux de la pâtisserie !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Papa's Bakeria",
+      "whatIsTitle": "Qu'est-ce que Papa's Bakeria ?",
+      "whatIsDescription": "Papa's Bakeria est un jeu de cuisine rapide où vous devez préparer des tartes, servir les clients et gagner des pourboires. Faisant partie de la populaire série Papa's, ce jeu propose une version moderne avec des tartes au lieu de milkshakes.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Préparez les tartes selon les commandes des clients.",
+      "howToPlayStep2": "Servez les clients rapidement pour gagner des pourboires.",
+      "howToPlayStep3": "Gérez votre boulangerie efficacement pour satisfaire vos clients.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Plaisir de la pâtisserie",
+      "feature1Description": "Découvrez le plaisir de préparer des tartes dans un environnement rapide.",
+      "feature2Title": "Service clientèle",
+      "feature2Description": "Servez les clients rapidement et efficacement pour gagner des pourboires.",
+      "feature3Title": "Gestion de la boulangerie",
+      "feature3Description": "Gérez votre boulangerie pour satisfaire vos clients et faire prospérer votre entreprise.",
+      "feature4Title": "Touche moderne",
+      "feature4Description": "Profitez d'une touche moderne aux jeux classiques Papa's avec des tartes au lieu de milkshakes."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

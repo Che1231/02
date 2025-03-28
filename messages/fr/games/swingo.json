@@ -1,0 +1,77 @@
+{
+  "swingo": {
+    "title": "Swingo : Jeu d'aventure physique en ligne gratuit",
+    "slogan": "Balancez-vous, naviguez et conquérez dans Swingo !",
+    "description": "Affrontez un défi de balancement dans Swingo ! Utilisez les cordes pour naviguer dans des niveaux complexes, esquivez les obstacles et collectionnez des pièces dans cette aventure basée sur la physique. Contrôlez un adorable personnage rebondissant avec un crochet de grappin et visez à le nourrir avec une délicieuse poire à chaque niveau. Avec sept mondes de complexité croissante et une fonction de chronomètre, réussirez-vous à devenir le gagnant le plus rapide ? Débloquez des personnages rebondissants amusants en surmontant les niveaux et profitez de gouttes de crochets illimitées. Jouez à Swingo maintenant et vivez le frisson !",
+    "Loading": {
+      "title": "Chargement de Swingo…"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Swingo : Jeu d'aventure physique en ligne gratuit",
+      "description": "Affrontez un défi de balancement dans Swingo ! Utilisez les cordes pour naviguer dans des niveaux complexes, esquivez les obstacles et collectionnez des pièces dans cette aventure basée sur la physique. Contrôlez un adorable personnage rebondissant avec un crochet de grappin et visez à le nourrir avec une délicieuse poire à chaque niveau. Avec sept mondes de complexité croissante et une fonction de chronomètre, réussirez-vous à devenir le gagnant le plus rapide ? Débloquez des personnages rebondissants amusants en surmontant les niveaux et profitez de gouttes de crochets illimitées. Jouez à Swingo maintenant et vivez le frisson !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Swingo : Jeu d'aventure physique en ligne gratuit",
+      "whatIsTitle": "Qu'est-ce que Swingo ?",
+      "whatIsDescription": "Swingo est un jeu d'aventure physique où vous contrôlez un adorable personnage rebondissant à l'aide d'un crochet de grappin. Naviguez dans des niveaux complexes, esquivez les obstacles et collectionnez des pièces pour nourrir le personnage avec une délicieuse poire. Avec sept mondes de complexité croissante et une fonction de chronomètre, Swingo offre un défi palpitant pour les joueurs de tous âges.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Utilisez la souris ou le clavier pour contrôler le personnage.",
+      "howToPlayStep2": "Ajustez la direction du crochet et relâchez-le pour vous balancer.",
+      "howToPlayStep3": "Collectionnez des pièces et visez à nourrir le personnage avec une poire à chaque niveau.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Gameplay physique",
+      "feature1Description": "Découvrez une physique réaliste tandis que vous vous balancez à travers les niveaux avec un crochet de grappin.",
+      "feature2Title": "Sept mondes",
+      "feature2Description": "Explorez sept mondes de complexité croissante, chacun avec des défis uniques.",
+      "feature3Title": "Fonction de chronomètre",
+      "feature3Description": "Affrontez le chronomètre pour devenir le gagnant le plus rapide.",
+      "feature4Title": "Personnages déblocables",
+      "feature4Description": "Surmontez les niveaux pour débloquer des personnages rebondissants amusants en tant que compagnons."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

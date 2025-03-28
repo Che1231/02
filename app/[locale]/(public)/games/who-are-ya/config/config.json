@@ -1,0 +1,122 @@
+{
+  "name": "Who Are Ya",
+  "pagePath": "/games/who-are-ya",
+  "pageName": "who-are-ya",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://playfootball.games/who-are-ya/big-5/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken87.png",
+      "content": "Who Are Ya is such a blast! Guessing soccer players in 8 tries? Genius! Perfect for football nerds like me. ⚽"
+    },
+    {
+      "author": "PhantomPhoenix_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix_X.png",
+      "content": "Why didn't I find this game sooner? It's like Wordle but for football fans. So addictive!"
+    },
+    {
+      "author": "CosmicKatana99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicKatana99.png",
+      "content": "8 tries to guess Messi? Challenge accepted! Who Are Ya is my new daily routine. 🎯"
+    },
+    {
+      "author": "NeonLeviathan42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonLeviathan42.png",
+      "content": "This game got me questioning my football knowledge. Still fun tho! Who Are Ya, indeed? 🤔"
+    },
+    {
+      "author": "LootGoblin87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LootGoblin87.png",
+      "content": "Who Are Ya is the Wordle killer for sports fans. Simple, yet so satisfying. Love it! 💥"
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "Bro, this game is fire! Guessing players in 8 tries? Always keeps me on my toes. 🔥"
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "First try: guessed Ronaldo. Feeling like a genius! Who Are Ya is surprisingly fun. 😎"
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "This game makes me realize how little I know about football. Still, 10/10 would play again!"
+    },
+    {
+      "author": "SavageBlade_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBlade_X.png",
+      "content": "Who Are Ya? is the perfect mix of challenge and fun. Great for quick breaks! ⚡"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Didn’t think I’d enjoy guessing soccer players this much. Who Are Ya is legit! 🙌"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/who-are-ya/who-are-ya-m200x130.webp",
+  "page_path": "/games/who-are-ya",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8sfuw8i0144lywln0ikt2ic",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T07:05:57.425Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 15:05:57"
+}

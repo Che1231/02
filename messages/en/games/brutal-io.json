@@ -1,0 +1,77 @@
+{
+  "brutal-io": {
+    "title": "Brutal.io: Free Online Multiplayer Game",
+    "slogan": "Swing, Destroy, Conquer",
+    "description": "Brutal.io is an addictive multiplayer online game where players control a small vehicle with a flail attached to it. The objective is to swing your flail and hit other players' vehicles to destroy them and collect their energy. Experience intense battles, strategic gameplay, and endless fun in Brutal.io. Join now and dominate the arena!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Brutal.io",
+      "description": "Brutal.io is an addictive multiplayer online game where players control a small vehicle with a flail attached to it. The objective is to swing your flail and hit other players' vehicles to destroy them and collect their energy.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Brutal.io",
+      "whatIsTitle": "What is Brutal.io?",
+      "whatIsDescription": "Brutal.io is an addictive multiplayer online game where players control a small vehicle with a flail attached to it. The objective is to swing your flail and hit other players' vehicles to destroy them and collect their energy.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Control your vehicle and flail.",
+      "howToPlayStep2": "Swing your flail to hit other players.",
+      "howToPlayStep3": "Collect energy from destroyed vehicles to grow stronger.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Multiplayer Battles",
+      "feature1Description": "Compete against players from around the world in real-time.",
+      "feature2Title": "Strategic Gameplay",
+      "feature2Description": "Use your flail strategically to outmaneuver and destroy opponents.",
+      "feature3Title": "Endless Fun",
+      "feature3Description": "Experience endless hours of fun and intense battles.",
+      "feature4Title": "Simple Controls",
+      "feature4Description": "Easy-to-learn controls make it accessible for all players."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

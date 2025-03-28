@@ -1,0 +1,77 @@
+{
+  "build-royale": {
+    "title": "빌드 로열: 무료 온라인 배틀로얄 게임",
+    "slogan": "건설, 전투, 정복",
+    "description": "빌드 로열은 짜릿한 2D 탑다운 배틀로얄 경험을 제공합니다. 광활한 지도를 탐험하고, 자원을 수집하며, 상대방을 제압하기 위한 방어 시설을 건설하세요. 격렬한 전투와 전략적인 건설을 통해 빌드 로열은 끝없는 재미를 선사합니다. 지금 빌드 로열을 플레이하고 승리를 거머쥐세요!",
+    "Loading": {
+      "title": "빌드 로열 로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "내용",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "빌드 로열™",
+      "description": "방어 시설을 건설하고 빌드 로열에서 상대와 충돌하면서 짜릿한 배틀로얄 경험에 참여하세요. 광활한 지도를 탐험하고 무기를 찾으며 자원을 수집하여 적을 정복하세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "빌드 로열",
+      "whatIsTitle": "빌드 로열은 무엇인가요?",
+      "whatIsDescription": "빌드 로열은 플레이어가 방어 시설을 건설하고, 자원을 수집하며, 상대와 싸워 마지막으로 남는 플레이어가 되는 2D 탑다운 배틀로얄 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "무기와 자원을 찾기 위해 지도를 탐험하세요.",
+      "howToPlayStep2": "상대방으로부터 자신을 보호하기 위해 방어 시설을 건설하세요.",
+      "howToPlayStep3": "다른 플레이어를 제거하고 승리를 거머쥐세요.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "전략적 건설",
+      "feature1Description": "상대방을 속이기 위해 방어 시설을 건설하세요.",
+      "feature2Title": "격렬한 전투",
+      "feature2Description": "생존하기 위해 빠르게 진행되는 전투에 참여하세요.",
+      "feature3Title": "광활한 지도",
+      "feature3Description": "자원과 도전으로 가득 찬 광활한 세계를 탐험하세요.",
+      "feature4Title": "자원 수집",
+      "feature4Description": "자신의 위치를 강화하기 위해 자재를 수집하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

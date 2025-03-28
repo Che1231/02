@@ -1,0 +1,1 @@
+The beloved cooking game Papa's Bakeria is back and better than ever! Bake pies, serve customers, and earn tips in this fast-paced game from the Papa's Series. Even though Papa's Bakeria is one of the newer games in the series, it still captures the classic essence. It's like a modernized version of Papa's Freezeria, but with pies instead of delicious shakes.

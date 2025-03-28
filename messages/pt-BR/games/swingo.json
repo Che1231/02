@@ -1,0 +1,77 @@
+{
+  "swingo": {
+    "title": "Swingo: Jogo de Aventura Online Baseado em Física Grátis",
+    "slogan": "Balançe, Navegue e Domine em Swingo!",
+    "description": "Aceite um desafio de balanço em Swingo! Use cordas para navegar por níveis desafiadores, evite obstáculos e colete moedas nesta aventura baseada em física. Controle um personagem adorável e elástico com um gancho de arremesso, e tenha como objetivo alimentá-lo com uma deliciosa pêra em cada nível. Com sete mundos de complexidade crescente e um cronômetro, você pode se tornar o vencedor mais rápido? Desbloqueie personagens elásticos engraçados ao conquistar níveis e aproveite quedas ilimitadas de ganchos. Jogue Swingo agora e experimente a emoção!",
+    "Loading": {
+      "title": "Carregando Swingo..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Amigáveis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Swingo: Jogo de Aventura Online Baseado em Física Grátis",
+      "description": "Aceite um desafio de balanço em Swingo! Use cordas para navegar por níveis desafiadores, evite obstáculos e colete moedas nesta aventura baseada em física. Controle um personagem adorável e elástico com um gancho de arremesso, e tenha como objetivo alimentá-lo com uma deliciosa pêra em cada nível. Com sete mundos de complexidade crescente e um cronômetro, você pode se tornar o vencedor mais rápido? Desbloqueie personagens elásticos engraçados ao conquistar níveis e aproveite quedas ilimitadas de ganchos. Jogue Swingo agora e experimente a emoção!",
+      "iframeTitle": "Prévia do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Swingo: Jogo de Aventura Online Baseado em Física Grátis",
+      "whatIsTitle": "O que é Swingo?",
+      "whatIsDescription": "Swingo é um jogo de aventura baseado em física onde você controla um adorável personagem elástico usando um gancho de arremesso. Navegue por níveis desafiadores, evite obstáculos e colete moedas para alimentar o personagem com uma deliciosa pêra. Com sete mundos de complexidade crescente e um cronômetro, Swingo oferece um desafio emocionante para jogadores de todas as idades.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Use o mouse ou o teclado para controlar o personagem.",
+      "howToPlayStep2": "Ajuste a direção do gancho e solte para balançar.",
+      "howToPlayStep3": "Colete moedas e tenha como objetivo alimentar o personagem com uma pêra em cada nível.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Jogabilidade Baseada em Física",
+      "feature1Description": "Experimente física realista enquanto você se balança pelos níveis com um gancho de arremesso.",
+      "feature2Title": "Sete Mundos",
+      "feature2Description": "Explore sete mundos cada vez mais complexos, cada um com desafios únicos.",
+      "feature3Title": "Cronômetro",
+      "feature3Description": "Competir contra o cronômetro para se tornar o vencedor mais rápido.",
+      "feature4Title": "Personagens Desbloqueáveis",
+      "feature4Description": "Conquiste níveis para desbloquear personagens elásticos engraçados como companheiros."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

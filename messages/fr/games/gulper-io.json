@@ -1,0 +1,77 @@
+{
+  "gulper-io": {
+    "title": "Jouer à Gulper.io en ligne - Jeu de bataille de serpents multijoueur gratuit",
+    "slogan": "Plongez-vous dans le monde captivant de Gulper.io",
+    "description": "Gulper.io est un jeu de serpents en ligne palpitant où vous affrontez d'autres joueurs dans une arène de bataille multijoueur passionnante. Contrôlez votre ver, dévorez des fragments brillants pour grandir et éliminez stratégiquement vos rivaux. Vivez l'excitation de Gulper.io dès aujourd'hui et rejoignez la bataille !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Gulper.io",
+      "description": "Plongez-vous dans le monde palpitant de Gulper.io, où vous contrôlez un ver et vous affrontez dans une arène multijoueur. Grandir en dévorant des fragments et en surpassant vos rivaux pour devenir le meilleur ver !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Gulper.io - Le jeu ultime de bataille de serpents",
+      "whatIsTitle": "Qu'est-ce que Gulper.io ?",
+      "whatIsDescription": "Gulper.io est un jeu de serpents multijoueur en ligne palpitant où vous contrôlez un ver, grandissez en mangeant des fragments brillants et affrontez d'autres joueurs dans une arène de bataille.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Contrôlez votre ver à l'aide des flèches directionnelles ou de la souris.",
+      "howToPlayStep2": "Mangez des fragments brillants pour grandir et obtenir un avantage.",
+      "howToPlayStep3": "Éliminez stratégiquement les vers rivaux pour dominer l'arène.",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Arène multijoueur",
+      "feature1Description": "Affrontez des joueurs du monde entier en temps réel.",
+      "feature2Title": "Croissance dynamique",
+      "feature2Description": "Faites grandir votre ver en dévorant des fragments brillants et en surpassant vos rivaux.",
+      "feature3Title": "Gameplay stratégique",
+      "feature3Description": "Utilisez des tactiques pour éliminer les autres vers et gravir le classement.",
+      "feature4Title": "Visuels captivants",
+      "feature4Description": "Profitez de graphismes vibrants et d'animations fluides dans chaque bataille."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

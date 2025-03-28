@@ -1,0 +1,77 @@
+{
+  "swingo": {
+    "title": "Swingo: Kostenloses Online-Abenteuer-Spiel basierend auf Physik",
+    "slogan": "Schaukeln, navigieren und erobern Sie in Swingo!",
+    "description": "Nehmen Sie eine Schaukel herausforderung in Swingo an! Verwenden Sie Seile, um durch knifflige Level zu navigieren, Hindernisse zu umgehen und Münzen in diesem physikalischen Abenteuer zu sammeln. Steuern Sie einen entzückenden, hüpfenden Charakter mit einem Haken und zielen Sie darauf ab, ihn in jeder Ebene mit einer köstlichen Birne zu füttern. Mit sieben Welten zunehmender Komplexität und einer Timerfunktion, können Sie der schnellste Gewinner werden? Schalten Sie lustige, hüpfende Charaktere frei, indem Sie Level bezwingen und unbegrenzte Hakenabwürfe genießen. Spielen Sie jetzt Swingo und erleben Sie den Nervenkitzel!",
+    "Loading": {
+      "title": "Swingo wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelliste",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Swingo: Kostenloses Online-Abenteuer-Spiel basierend auf Physik",
+      "description": "Nehmen Sie eine Schaukel herausforderung in Swingo an! Verwenden Sie Seile, um durch knifflige Level zu navigieren, Hindernisse zu umgehen und Münzen in diesem physikalischen Abenteuer zu sammeln. Steuern Sie einen entzückenden, hüpfenden Charakter mit einem Haken und zielen Sie darauf ab, ihn in jeder Ebene mit einer köstlichen Birne zu füttern. Mit sieben Welten zunehmender Komplexität und einer Timerfunktion, können Sie der schnellste Gewinner werden? Schalten Sie lustige, hüpfende Charaktere frei, indem Sie Level bezwingen und unbegrenzte Hakenabwürfe genießen. Spielen Sie jetzt Swingo und erleben Sie den Nervenkitzel!",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel spielen"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Swingo: Kostenloses Online-Abenteuer-Spiel basierend auf Physik",
+      "whatIsTitle": "Was ist Swingo?",
+      "whatIsDescription": "Swingo ist ein physikalisches Abenteuer-Spiel, bei dem Sie einen entzückenden hüpfenden Charakter mit einem Haken steuern. Navigieren Sie durch knifflige Level, umgehen Sie Hindernisse und sammeln Sie Münzen, um den Charakter mit einer köstlichen Birne zu füttern. Mit sieben Welten zunehmender Komplexität und einer Timerfunktion bietet Swingo eine spannende Herausforderung für Spieler jeden Alters.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Steuern Sie den Charakter mit der Maus oder der Tastatur.",
+      "howToPlayStep2": "Richten Sie die Richtung des Hakens aus und lassen Sie ihn los, um zu schwingen.",
+      "howToPlayStep3": "Sammeln Sie Münzen und zielen Sie darauf ab, den Charakter in jeder Ebene mit einer Birne zu füttern.",
+      "keyFeaturesTitle": "Hauptmerkmale",
+      "feature1Title": "Physikbasiertes Gameplay",
+      "feature1Description": "Erleben Sie realistische Physik, während Sie mit einem Haken durch die Level schwingen.",
+      "feature2Title": "Sieben Welten",
+      "feature2Description": "Erkunden Sie sieben zunehmend komplexe Welten, jede mit einzigartigen Herausforderungen.",
+      "feature3Title": "Timerfunktion",
+      "feature3Description": "Wetteifern Sie gegen die Uhr, um der schnellste Gewinner zu werden.",
+      "feature4Title": "Freischaltbare Charaktere",
+      "feature4Description": "Bezwinden Sie Level, um lustige, hüpfende Charaktere als Begleiter freizuschalten."
+    },
+    "HomeFAQs": {
+      "title": "Häufig gestellte Fragen"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

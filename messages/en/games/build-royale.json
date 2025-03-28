@@ -1,0 +1,77 @@
+{
+  "build-royale": {
+    "title": "Build Royale: Free Online Battle Royale Game",
+    "slogan": "Construct, Battle, Conquer",
+    "description": "Build Royale offers a thrilling 2D top-down battle royale experience. Explore the expansive map, gather resources, and construct defenses to outlast your opponents. With intense combat and strategic building, Build Royale provides endless fun. Play Build Royale now and claim victory!",
+    "Loading": {
+      "title": "Loading Build Royale..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Build Royale™",
+      "description": "Engage in a thrilling battle royale experience as you construct defenses and clash with opponents in Build Royale. Discover the expansive map, locate weapons, and gather resources to conquer your adversaries.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Build Royale",
+      "whatIsTitle": "What is Build Royale?",
+      "whatIsDescription": "Build Royale is a 2D top-down battle royale game where players construct defenses, gather resources, and battle opponents to be the last one standing.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Explore the map to find weapons and resources.",
+      "howToPlayStep2": "Build defenses to protect yourself from opponents.",
+      "howToPlayStep3": "Eliminate other players to claim victory.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Strategic Building",
+      "feature1Description": "Construct defenses to outsmart your opponents.",
+      "feature2Title": "Intense Combat",
+      "feature2Description": "Engage in fast-paced battles to survive.",
+      "feature3Title": "Expansive Map",
+      "feature3Description": "Explore a vast world filled with resources and challenges.",
+      "feature4Title": "Resource Gathering",
+      "feature4Description": "Collect materials to strengthen your position."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

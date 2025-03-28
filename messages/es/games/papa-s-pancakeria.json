@@ -1,0 +1,77 @@
+{
+  "papa-s-pancakeria": {
+    "title": "Juega a Papa's Pancakeria en línea: juego gratuito de gestión de restaurantes",
+    "slogan": "¡Administra la panadería de Papa Louie y sirve deliciosas panqueques!",
+    "description": "Entra en Papa's Pancakeria y toma el control de la panadería de panqueques. ¡Administra los pedidos, vierte la masa, voltea los panqueques y sirve a los clientes hambrientos en este divertido y emocionante juego de simulación de restaurante! Perfecto para los aficionados a los juegos de negocios, Papa's Pancakeria ofrece una experiencia encantadora con sus visuales atractivos y una jugabilidad adictiva. ¡Empieza a voltear panqueques hoy mismo y mira si puedes mantener contentos a tus clientes!",
+    "Loading": {
+      "title": "Cargando Papa's Pancakeria..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Papa's Pancakeria™",
+      "description": "Toma el control de la panadería de panqueques de Papa Louie y sirve deliciosos panqueques a clientes hambrientos en este divertido y fascinante juego de simulación de restaurante.",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Papa's Pancakeria™",
+      "whatIsTitle": "¿Qué es Papa's Pancakeria?",
+      "whatIsDescription": "Papa's Pancakeria es un juego de gestión de restaurantes donde te enfrentas a la panadería de panqueques de Papa Louie. Administra pedidos, vierte la masa, voltea los panqueques y sirve a los clientes hambrientos.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Toma los pedidos de los clientes y anota sus preferencias.",
+      "howToPlayStep2": "Vierte la masa en la plancha y voltea los panqueques a la perfección.",
+      "howToPlayStep3": "Sirve los panqueques calientes y asegúrate de la satisfacción del cliente.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Gestión de restaurante",
+      "feature1Description": "Gestiona todos los aspectos de la panadería de panqueques de Papa Louie, desde tomar los pedidos hasta servir a los clientes.",
+      "feature2Title": "Jugabilidad desafiante",
+      "feature2Description": "Mantén el ritmo con las demandas de los clientes y sirve los panqueques rápidamente para obtener puntuaciones altas.",
+      "feature3Title": "Visuales atractivos",
+      "feature3Description": "Disfruta de los visuales encantadores y coloridos que dan vida a Papa's Pancakeria.",
+      "feature4Title": "Diversión adictiva",
+      "feature4Description": "Experimenta la jugabilidad adictiva que te hará volver por más acción de voltear panqueques."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "name": "Build Royale",
+  "pagePath": "/games/build-royale",
+  "pageName": "build-royale",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://buildroyale.io/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "NeonPhoenix78",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonPhoenix78.png",
+      "content": "Wow, Build Royale is like a blast from the past! The 2D top-down view with all the defense building is so unique. Totally got owned by someone using just a broomstick as a weapon. 😂"
+    },
+    {
+      "author": "WarpKraken99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/WarpKraken99.png",
+      "content": "Whoa, this game is intense! Building walls to protect yourself while fighting other players is such an awesome twist on the typical battle royale formula. It's like playing Tetris on steroids!"
+    },
+    {
+      "author": "CosmicLeviathan42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicLeviathan42.png",
+      "content": "This game is pure chaos but in the best way possible. You never know when the next resource drop will come and it just keeps you hooked. Had a wild match today. 😱"
+    },
+    {
+      "author": "RevolverPhantom87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/RevolverPhantom87.png",
+      "content": "Absolutely loved Build Royale! Figuring out the perfect placement for your defenses while scavenging for resources is so satisfying. And the map is massive, always something new to discover."
+    },
+    {
+      "author": "BlazingBroadSword",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/BlazingBroadSword.png",
+      "content": "Did anyone else have trouble with the camera angle? It's super frustrating when you can't see what's behind the wall you just built. Still, the gameplay is addictive!"
+    },
+    {
+      "author": "FuriousKatanaHero",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/FuriousKatanaHero.png",
+      "content": "Can Build Royale get any better? I mean, the thrill of constructing a fortress and defending it against all comers is unreal. It's like a dream where you’re invincible... until you're not."
+    },
+    {
+      "author": "PhantomPhoenix87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix87.png",
+      "content": "Just started playing Build Royale and it’s a blast! Never thought building and defending would be this exciting. Got caught off guard a few times, but still had a smile on my face."
+    },
+    {
+      "author": "NeonKraken9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonKraken9000.png",
+      "content": "This game is super fun! The weapons choices add tons of variety to the combat. Figured out how to win by building a makeshift catapult! 😎"
+    },
+    {
+      "author": "SavageTacticianXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageTacticianXX.png",
+      "content": "What is up with the game mechanics here? At first, it seemed too simple, now I can't stop playing. The 2D top-down view makes every move count. So strategic!"
+    },
+    {
+      "author": "PotionMishap42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap42.png",
+      "content": "Had a hilarious moment in Build Royale today. Built a tower only to accidentally knock it down with a potion. It went flying through enemy ranks like a missile! 🍀"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/build-royale/build-royale-m200x130.webp",
+  "page_path": "/games/build-royale",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8sfw0gv014slywlhq9vp8qb",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T07:06:49.567Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 15:09:19"
+}

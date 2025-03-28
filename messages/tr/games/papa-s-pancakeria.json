@@ -1,0 +1,77 @@
+{
+  "papa-s-pancakeria": {
+    "title": "Papa'nın Pancakeria Oyununu Çevrimiçi Oynayın - Ücretsiz Restoran Yönetimi Oyunu",
+    "slogan": "Papa Louie'nin Pannesi Dükkanını Yönetin ve Lezzetli Krepleri Servis Edin!",
+    "description": "Papa'nın Pancakeria'sına adım atın ve krep dükkanının başına geçin! Siparişleri yönetin, hamuru dökün, krepleri çevirin ve bu eğlenceli ve ilgi çekici restoran simülasyon oyununda aç müşterilere servis yapın. İş oyunlarının hayranları için mükemmel olan Papa'nın Pancakeria, çekici görselleri ve bağımlılık yaratan oyunuyla keyifli bir deneyim sunuyor. Bugünden itibaren krepleri çevirmeye başlayın ve müşterilerinizi mutlu tutabileceğinizi görün!",
+    "Loading": {
+      "title": "Papa'nın Pancakeria Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti Çubuğu"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Papa'nın Pancakeria™",
+      "description": "Bu eğlenceli ve ilgi çekici restoran simülasyon oyununda, Papa Louie'nin krep dükkanının kontrolünü ele geçirin ve aç müşterilere lezzetli krepler servis yapın.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Papa'nın Pancakeria™",
+      "whatIsTitle": "Papa'nın Pancakeria Nedir?",
+      "whatIsDescription": "Papa'nın Pancakeria, Papa Louie'nin krep dükkanının başına geçerek restoran yönetimi üzerine kurulu bir oyundur. Siparişleri yönetin, hamuru dökün, krepleri çevirin ve aç müşterilere servis yapın.",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Müşterilerden siparişleri alın ve tercihlerini not edin.",
+      "howToPlayStep2": "Tava üzerine hamur dökün ve krepleri mükemmel pişene kadar çevirin.",
+      "howToPlayStep3": "Krepleri sıcak servis edin ve müşteri memnuniyetini sağlayın.",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Restoran Yönetimi",
+      "feature1Description": "Papa Louie'nin krep dükkanının her yönünü yönetebilirsiniz, sipariş almaktan müşteriye servis etmeye kadar.",
+      "feature2Title": "Zorlu Oyun",
+      "feature2Description": "Müşteri taleplerine ayak uydurun ve yüksek puan kazanmak için krepleri hızlı bir şekilde servis edin.",
+      "feature3Title": "Etki Edici Görseller",
+      "feature3Description": "Papa'nın Pancakeria'yı canlandıran çekici ve renkli görsellerin tadını çıkarın.",
+      "feature4Title": "Bağımlılık Yaratan Eğlence",
+      "feature4Description": "Sizi daha fazla krep çevirme hareketi için geri döndüren bağımlılık yaratan oyunun keyfini çıkarın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

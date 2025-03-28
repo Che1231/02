@@ -1,0 +1,77 @@
+{
+  "papa-s-bakeria": {
+    "title": "Chơi Papa's Bakeria Trực tuyến - Trò chơi nấu ăn miễn phí",
+    "slogan": "Nướng, phục vụ và kiếm tiền trong Papa's Bakeria!",
+    "description": "Papa's Bakeria là một trò chơi nấu ăn nhanh nhịp độ, nơi bạn nướng bánh, phục vụ khách hàng và kiếm tiền thưởng. Là một phần của sê-ri Papa's nổi tiếng, trò chơi này mang đến một cách chơi hiện đại với bánh thay vì sinh tố. Trải nghiệm niềm vui quản lý cửa hàng bánh của riêng bạn và tận hưởng tinh thần kinh điển của các trò chơi Papa's. Chơi Papa's Bakeria trực tuyến miễn phí và đắm chìm trong thế giới nướng bánh thơm ngon!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Papa's Bakeria",
+      "description": "Papa's Bakeria là một trò chơi nấu ăn nhanh nhịp độ, nơi bạn nướng bánh, phục vụ khách hàng và kiếm tiền thưởng. Là một phần của sê-ri Papa's nổi tiếng, trò chơi này mang đến một cách chơi hiện đại với bánh thay vì sinh tố. Trải nghiệm niềm vui quản lý cửa hàng bánh của riêng bạn và tận hưởng tinh thần kinh điển của các trò chơi Papa's. Chơi Papa's Bakeria trực tuyến miễn phí và đắm chìm trong thế giới nướng bánh thơm ngon!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Màn hình toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Papa's Bakeria",
+      "whatIsTitle": "Papa's Bakeria là gì?",
+      "whatIsDescription": "Papa's Bakeria là một trò chơi nấu ăn nhanh nhịp độ, nơi bạn nướng bánh, phục vụ khách hàng và kiếm tiền thưởng. Là một phần của sê-ri Papa's nổi tiếng, trò chơi này mang đến một cách chơi hiện đại với bánh thay vì sinh tố.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Nướng bánh theo đơn đặt hàng của khách hàng.",
+      "howToPlayStep2": "Phục vụ khách hàng nhanh chóng để kiếm tiền thưởng.",
+      "howToPlayStep3": "Quản lý cửa hàng bánh của bạn hiệu quả để giữ khách hàng hài lòng.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Niềm vui nướng bánh",
+      "feature1Description": "Trải nghiệm niềm vui nướng bánh trong một môi trường nhanh nhịp độ.",
+      "feature2Title": "Dịch vụ khách hàng",
+      "feature2Description": "Phục vụ khách hàng nhanh chóng và hiệu quả để kiếm tiền thưởng.",
+      "feature3Title": "Quản lý cửa hàng bánh",
+      "feature3Description": "Quản lý cửa hàng bánh của bạn để giữ khách hàng hài lòng và kinh doanh phát triển.",
+      "feature4Title": "Cách chơi hiện đại",
+      "feature4Description": "Tận hưởng một cách chơi hiện đại trong các trò chơi Papa's kinh điển với bánh thay vì sinh tố."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

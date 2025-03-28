@@ -1,0 +1,77 @@
+{
+  "doodle-cricket": {
+    "title": "在线玩涂鸦板球 - 免费板球游戏",
+    "slogan": "像专业人士一样击球，精准投球，像冠军一样接球！",
+    "description": "涂鸦板球提供令人兴奋的板球游戏，可爱的动物角色。控制你的角色来阻止每一个球，并得分。通过快速的临场发挥和观察能力，你可以获得精彩的全垒打。与全球社区分享你的结果，沉浸在这个充满动作的板球游戏中。现在玩涂鸦板球，体验兴奋！",
+    "Loading": {
+      "title": "正在加载..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一步",
+      "previous": "上一步"
+    },
+    "HomeIframe": {
+      "title": "涂鸦板球™",
+      "description": "在涂鸦板球中体验职业板球比赛中最激动人心的比赛。控制你的角色，阻止每个球，得分。分享你的结果，并与全球玩家进行比较。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "涂鸦板球",
+      "whatIsTitle": "什么是涂鸦板球？",
+      "whatIsDescription": "涂鸦板球是一款充满动作的板球游戏，你控制主角来阻止对手投手的每个球。得分并击出全垒打，创造新的纪录。",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "点击角色旁边的球棒图标开始你的回合。",
+      "howToPlayStep2": "注意每个球路的属性，例如直球、快速球和旋转球。",
+      "howToPlayStep3": "调整你的角色来阻挡球并得分。",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "可爱的动物",
+      "feature1Description": "在可爱的动物角色的陪伴下，享受板球游戏。",
+      "feature2Title": "全球社区",
+      "feature2Description": "分享你的结果，并与全世界的玩家进行比较。",
+      "feature3Title": "简单的规则",
+      "feature3Description": "易于学习的规则让你沉浸在令人惊叹的击球中几个小时。",
+      "feature4Title": "快速的临场发挥",
+      "feature4Description": "保持专注并快速反应，以完成精彩的全垒打。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "类别",
+      "noCategories": "未找到类别",
+      "viewMore": "查看更多",
+      "page": "页"
+    }
+  }
+}

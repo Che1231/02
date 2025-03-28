@@ -1,0 +1,116 @@
+{
+  "name": "Brutal.io",
+  "pagePath": "/games/brutal-io",
+  "pageName": "brutal-io",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://brutal.io/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomPhoenix99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix99.png",
+      "content": "Brutal.io gets so intense! You gotta be on your toes to hit others before they take you out."
+    },
+    {
+      "author": "NeonSword32",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonSword32.png",
+      "content": "Whoa, this game is super fast-paced. It's like a whirlwind of metal and energy!"
+    },
+    {
+      "author": "CosmicKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicKraken42.png",
+      "content": "This flail mechanism is just brilliant! Keeps the gameplay fresh and unpredictable."
+    },
+    {
+      "author": "CTRLALTDEFEAT",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CTRLALTDEFEAT.png",
+      "content": "Just joined Brutal.io. Can't stop swinging that flail around! Got so many frags. Sick game!"
+    },
+    {
+      "author": "LeviathanLag7",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LeviathanLag7.png",
+      "content": "Brutal.io's got some serious lag issues. Hoping they fix it soon. Otherwise, awesome game!"
+    },
+    {
+      "author": "PotionMishap12",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap12.png",
+      "content": "I was swiping left, right, everywhere but still ended up getting crushed by another player."
+    },
+    {
+      "author": "WraithKatana87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/WraithKatana87.png",
+      "content": "Wow, I can't get enough of Brutal.io! That flail is a game changer."
+    },
+    {
+      "author": "ThunderBrod9",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/ThunderBrod9.png",
+      "content": "Man, I'm hitting walls like a noob. But I guess it’s part of the fun!"
+    },
+    {
+      "author": "SlyCobra15",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SlyCobra15.png",
+      "content": "What a rush! I love this game. Flails are my jam!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/brutal-io/brutal-io-m200x130.webp",
+  "page_path": "/games/brutal-io",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8sfuwc4014alywlml1wo6qk",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T07:05:57.555Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 15:07:14"
+}

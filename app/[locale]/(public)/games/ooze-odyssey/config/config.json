@@ -1,0 +1,122 @@
+{
+  "name": "Ooze Odyssey",
+  "pagePath": "/games/ooze-odyssey",
+  "pageName": "ooze-odyssey",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://freetoplayz.github.io/ooze-odyssey/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingPhoenix87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix87.png",
+      "content": "This Ooze Odyssey game is so sticky and tricky! I was constantly laughing at how gross it got. Controls take a bit of getting used to. Overall a fun slime fest!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Who knew slithering through levels and collecting fruit could be so addictive? This game is a blast to play!"
+    },
+    {
+      "author": "BlazingKatana_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/BlazingKatana_Xx.png",
+      "content": "I loved how weird and wacky this game gets. It’s like nothing I've ever played before, hilarious and challenging!"
+    },
+    {
+      "author": "CosmicRevolver99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicRevolver99.png",
+      "content": "Wow, this game keeps throwing new challenges. The levels feel endless and each stage requires some serious strategizing. Loving it!"
+    },
+    {
+      "author": "SavageBlade42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBlade42.png",
+      "content": "This game is definitely not for the faint-hearted. It’s really hard but also super rewarding once you figure it out!"
+    },
+    {
+      "author": "LootGoblin89",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LootGoblin89.png",
+      "content": "Man, navigating those gooey levels with such a silly snake is pure fun. Great visuals too!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "The creator mode is genius! Being able to make your own levels adds tons of replay value!"
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "Had a few frustrating moments due to odd snake movements, but overall it's a pretty cool adventure. Looking forward to completing all 40 levels."
+    },
+    {
+      "author": "ShadowReaper87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/ShadowReaper87.png",
+      "content": "Anyone else find themselves losing track of time while playing this game? It’s so satisfying watching the snake grow longer!"
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "Ooze Odyssey has got me hooked. The mix of tricky platforming and silly aesthetics is perfect for a casual gaming session."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "message": "待处理",
+  "screenshotUrl": "https://images.1games.io/cache/game/ooze-odyssey/ooze-odyssey-m200x130.webp",
+  "page_path": "/games/ooze-odyssey",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm8sfw0dk014klywlqyeuausj",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T07:06:49.448Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
+  "createdTime": "2025-03-28 15:08:20"
+}

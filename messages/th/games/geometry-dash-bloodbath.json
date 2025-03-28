@@ -1,0 +1,77 @@
+{
+  "geometry-dash-bloodbath": {
+    "title": "Geometry Dash Bloodbath - เกมออนไลน์ฟรี",
+    "slogan": "สัมผัสกับความท้าทายสูงสุด",
+    "description": "Geometry Dash Bloodbath เป็นระดับที่เข้มข้นและท้าทายในซีรีส์เกม Geometry Dash ที่ได้รับความนิยม  มอบประสบการณ์ใหม่ให้กับผู้เล่น โดยท้าทายทักษะของพวกเขาไปถึงขีดจำกัด  นำทางผ่านอุปสรรคต่างๆ และไปให้ถึงจุดสิ้นสุดของแต่ละระดับ เล่น Geometry Dash Bloodbath ตอนนี้และทดสอบทักษะของคุณ!",
+    "Loading": {
+      "title": "กำลังโหลด..."
+    },
+    "Navbar": {
+      "title": "นำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์เพื่อน",
+      "articleList": "รายการบทความ",
+      "home": "หน้าหลัก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "Geometry Dash Bloodbath",
+      "description": "Geometry Dash Bloodbath เป็นระดับเกมที่กำหนดเองยากมากในซีรีส์ Geometry Dash เล่นตอนนี้และผลักดันทักษะของคุณไปให้ถึงขีดจำกัด!",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL เข้าคลิปบอร์ดแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Geometry Dash Bloodbath",
+      "whatIsTitle": "Geometry Dash Bloodbath คืออะไร?",
+      "whatIsDescription": "Geometry Dash Bloodbath เป็นระดับที่เข้มข้นและท้าทายในซีรีส์เกม Geometry Dash ที่ได้รับความนิยม  มอบประสบการณ์ใหม่ให้กับผู้เล่น โดยท้าทายทักษะของพวกเขาไปถึงขีดจำกัด",
+      "howToPlayTitle": "วิธีการเล่น",
+      "howToPlayStep1": "นำทางผ่านอุปสรรคต่างๆ",
+      "howToPlayStep2": "หลีกเลี่ยงอันตรายและไปให้ถึงจุดสิ้นสุดของแต่ละระดับ",
+      "howToPlayStep3": "ทดสอบทักษะของคุณและปรับปรุงเวลาของคุณ",
+      "keyFeaturesTitle": "คุณสมบัติหลัก",
+      "feature1Title": "การเล่นเกมที่เข้มข้น",
+      "feature1Description": "สัมผัสกับระดับที่ท้าทายอย่างมากออกแบบมาเพื่อทดสอบทักษะของคุณ",
+      "feature2Title": "อุปสรรคที่ไม่เหมือนใคร",
+      "feature2Description": "นำทางผ่านอุปสรรคที่หลากหลายและยากลำบาก",
+      "feature3Title": "การพัฒนาทักษะ",
+      "feature3Description": "ผลักดันทักษะของคุณไปให้ถึงขีดจำกัดและปรับปรุงเวลาและความแม่นยำของคุณ",
+      "feature4Title": "ระดับเกมที่กำหนดเอง",
+      "feature4Description": "เล่นระดับเกมที่กำหนดเองที่มีชื่อเสียงและยากมากในซีรีส์ Geometry Dash"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นเกี่ยวกับเกม"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

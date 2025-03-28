@@ -1,0 +1,77 @@
+{
+  "sausage-flip": {
+    "title": "Sausage Flip - Jeu de plateformes de lancer gratuit en ligne",
+    "slogan": "Lancez-vous vers la victoire !",
+    "description": "Sausage Flip est un jeu de plateforme amusant et captivant avec plus de 150 niveaux. Lancez et faites rebondir une saucisse collante aux yeux rigolos pour surmonter les obstacles et atteindre la ligne d'arrivée. Parfait pour les joueurs occasionnels à la recherche d'un défi amusant. Jouez à Sausage Flip dès maintenant et testez vos compétences !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens utiles",
+      "articleList": "Liste d'articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Sausage Flip",
+      "description": "Sausage Flip est un jeu de plateformes amusant et stimulant. Lancez votre saucisse à travers plus de 150 niveaux et atteignez la ligne d'arrivée. Jouez maintenant !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sausage Flip",
+      "whatIsTitle": "Qu'est-ce que Sausage Flip ?",
+      "whatIsDescription": "Sausage Flip est un jeu de plateformes où vous lancez une saucisse à travers les obstacles pour atteindre la ligne d'arrivée.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Tracez une ligne de la saucisse vers le côté droit de l'écran.",
+      "howToPlayStep2": "Dirigez la ligne pour guider la saucisse à travers les obstacles.",
+      "howToPlayStep3": "Améliorez votre saucisse pour débloquer de nouvelles peaux et capacités.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Plus de 150 niveaux",
+      "feature1Description": "Relevez le défi avec une variété de niveaux et d'obstacles.",
+      "feature2Title": "Peaux de saucisses uniques",
+      "feature2Description": "Débloquez et améliorez différentes peaux de saucisse, y compris un astronaute et un tournesol.",
+      "feature3Title": "Amusant et addictif",
+      "feature3Description": "Profitez d'un jeu facile à apprendre mais difficile à maîtriser.",
+      "feature4Title": "Gratuit à jouer",
+      "feature4Description": "Jouez à Sausage Flip en ligne gratuitement à tout moment, n'importe où."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires des joueurs"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

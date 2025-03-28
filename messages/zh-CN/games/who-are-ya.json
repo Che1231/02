@@ -1,0 +1,77 @@
+{
+  "who-are-ya": {
+    "title": "谁是您 - 8次尝试猜足球运动员",
+    "slogan": "用谁是您测试您的足球知识",
+    "description": "谁是您是一款引人入胜的单词猜测游戏，以体育世界，特别是足球为中心。它与Wordle类似，提供愉快的游戏体验。在这个游戏中，您的目标是在八次尝试内猜出足球运动员的名字。挑战自己，看看您是否能正确识别这些运动员！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一个",
+      "previous": "上一个"
+    },
+    "HomeIframe": {
+      "title": "谁是您",
+      "description": "在这个有趣且具有挑战性的游戏中猜足球运动员。你能认出他们吗？",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "玩游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "谁是您",
+      "whatIsTitle": "谁是您是什么？",
+      "whatIsDescription": "谁是您是一款引人入胜的单词猜测游戏，以体育世界，特别是足球为中心。它与Wordle类似，提供愉快的游戏体验。",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "猜一名足球运动员的名字。",
+      "howToPlayStep2": "您有八次尝试猜对。",
+      "howToPlayStep3": "看看您能否识别所有球员！",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "引人入胜的游戏体验",
+      "feature1Description": "享受有趣且具有挑战性的单词猜测体验。",
+      "feature2Title": "专注于足球",
+      "feature2Description": "测试您对世界各地足球运动员的了解。",
+      "feature3Title": "八次尝试",
+      "feature3Description": "您有八次机会猜对玩家。",
+      "feature4Title": "类似Wordle的游戏体验",
+      "feature4Description": "类似于 Wordle，但带有足球元素。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "类别",
+      "noCategories": "未找到类别",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

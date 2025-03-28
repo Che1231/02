@@ -1,0 +1,77 @@
+{
+  "ooze-odyssey": {
+    "title": "玩黏液奧德賽線上遊戲 - 免費黏膩冒險遊戲",
+    "slogan": "比你想像中還要黏膩！",
+    "description": "踏上黏液奧德賽的黏膩冒險之旅，這款幽默的方塊蛇遊戲。在充滿挑戰的像素平台中穿梭，收集美味的水果，揭開黏液的秘密。體驗獨特的挑戰和巧妙的策略。準備好開始你的黏膩旅程了嗎？現在就玩黏液奧德賽！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一個",
+      "previous": "上一個"
+    },
+    "HomeIframe": {
+      "title": "黏液奧德賽",
+      "description": "踏上黏液奧德賽的黏膩冒險之旅，這款幽默的方塊蛇遊戲。在充滿挑戰的像素平台中穿梭，收集美味的水果，揭開黏液的秘密。體驗獨特的挑戰和巧妙的策略。準備好開始你的黏膩旅程了嗎？現在就玩黏液奧德賽！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "URL 已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "黏液奧德賽",
+      "whatIsTitle": "黏液奧德賽是什麼？",
+      "whatIsDescription": "黏液奧德賽是一款幽默的冒險遊戲，以方塊蛇為主角。你將在充滿挑戰的像素平台中展開一段旅程。踏上獨特的征服之路，並展現你巧妙策略的駕馭能力。",
+      "howToPlayTitle": "如何遊戲",
+      "howToPlayStep1": "控制一條小蛇，試圖進入下水道休息。",
+      "howToPlayStep2": "收集美味的水果，使你的角色身體變長。",
+      "howToPlayStep3": "連續完成 40 個具有挑戰性的關卡。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "獨特的挑戰",
+      "feature1Description": "運用巧妙的策略，在充滿挑戰的像素平台中穿梭。",
+      "feature2Title": "黏膩冒險",
+      "feature2Description": "踏上黏膩的旅程，揭開黏液的秘密。",
+      "feature3Title": "水果收集",
+      "feature3Description": "收集美味的水果，使你的角色的身體變長。",
+      "feature4Title": "關卡製作",
+      "feature4Description": "使用創作者功能，設計你自己的地形。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦遊戲"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到任何類別",
+      "viewMore": "檢視更多",
+      "page": "頁面"
+    }
+  }
+}

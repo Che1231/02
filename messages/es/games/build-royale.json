@@ -1,0 +1,77 @@
+{
+  "build-royale": {
+    "title": "Build Royale: Juego de batalla real en línea gratuito",
+    "slogan": "Construye, Lucha, Conquista",
+    "description": "Build Royale ofrece una emocionante experiencia de batalla real de 2D vista desde arriba. Explora el mapa extenso, reúne recursos y construye defensas para superar a tus oponentes. Con combates intensos y construcción estratégica, Build Royale ofrece diversión sin fin. ¡Juega a Build Royale ahora y reclama la victoria!",
+    "Loading": {
+      "title": "Cargando Build Royale..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Términos de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Build Royale™",
+      "description": "Participa en una emocionante experiencia de batalla real al construir defensas y enfrentarte a oponentes en Build Royale. Descubre el mapa extenso, localiza armas y reúne recursos para conquistar a tus adversarios.",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Build Royale",
+      "whatIsTitle": "¿Qué es Build Royale?",
+      "whatIsDescription": "Build Royale es un juego de batalla real de 2D vista desde arriba donde los jugadores construyen defensas, recopilan recursos y luchan contra oponentes para ser el último que queda.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Explora el mapa para encontrar armas y recursos.",
+      "howToPlayStep2": "Construye defensas para protegerte de los oponentes.",
+      "howToPlayStep3": "Elimina a otros jugadores para reclamar la victoria.",
+      "keyFeaturesTitle": "Características principales",
+      "feature1Title": "Construcción estratégica",
+      "feature1Description": "Construye defensas para superar a tus oponentes.",
+      "feature2Title": "Combates intensos",
+      "feature2Description": "Participa en batallas rápidas para sobrevivir.",
+      "feature3Title": "Mapa extenso",
+      "feature3Description": "Explora un vasto mundo lleno de recursos y desafíos.",
+      "feature4Title": "Recopilación de recursos",
+      "feature4Description": "Recolecta materiales para fortalecer tu posición."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

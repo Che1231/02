@@ -1,0 +1,77 @@
+{
+  "farm-family": {
+    "title": "농장 가족 - 가상 농업 제국을 건설하세요",
+    "slogan": "농장 가족에서 자라서 수확하고 번영하세요",
+    "description": "농장 가족에서 농작물을 재배하고 동물을 키우고 농업 제국을 건설하는 즐거움을 경험하세요. 간단한 마우스 제어로 농장을 관리하고 다양한 활동을 즐기세요. 오늘 농업 여정을 시작하여 작은 농장을 번영하는 제국으로 키워보세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "농장 가족 - 가상 농업 모험",
+      "description": "농작물을 재배하고 동물을 키우고 농업 제국을 건설할 수 있는 농장 가족의 세계에 몰두하세요. 간편한 제어와 다양한 농업 활동을 즐기세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "농장 가족",
+      "whatIsTitle": "농장 가족이란 무엇인가요?",
+      "whatIsDescription": "농장 가족은 농작물을 재배하고 동물을 키우고 농업 제국을 건설할 수 있는 가상 농업 게임입니다. 농업의 기쁨과 어려움을 경험하세요!",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "주어진 금액으로 토지를 개간하고 쌀, 옥수수와 같은 주식 작물을 재배하세요.",
+      "howToPlayStep2": "농작물로 돈을 벌어 과일 재배, 꽃 관리, 동물 사육과 같은 다른 지역을 탐험하세요.",
+      "howToPlayStep3": "농장을 확장하고 수익성 있는 원자재에 집중하여 생산량을 늘리세요.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "농작물 재배",
+      "feature1Description": "다양한 농작물을 심고 수확하여 돈을 벌고 농장을 확장하세요.",
+      "feature2Title": "동물 사육",
+      "feature2Description": "동물을 돌보고 관리하여 귀중한 자원을 생산하세요.",
+      "feature3Title": "농장 확장",
+      "feature3Description": "새로운 토지를 개간하고 수익성 있는 품목에 집중하여 농장 생산량을 늘리세요.",
+      "feature4Title": "간편 제어",
+      "feature4Description": "모든 플레이어가 농업에 쉽게 접근할 수 있도록 사용하기 쉬운 마우스 제어를 즐기세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

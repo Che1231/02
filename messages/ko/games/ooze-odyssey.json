@@ -1,0 +1,77 @@
+{
+  "ooze-odyssey": {
+    "title": "오즈 오디세이 온라인 플레이 - 무료 끈적한 모험 게임",
+    "slogan": "생각보다 더 끈적해요!",
+    "description": "오즈 오디세이로 끈적한 모험을 떠나보세요. 재미있는 블록 뱀 게임입니다. 까다로운 픽셀 플랫폼을 탐색하고 맛있는 과일을 모으며 끈적한 오즈의 비밀을 밝혀보세요. 독특한 챌린지와 영리한 전술을 경험하세요. 끈적한 여정을 시작할 준비가 되셨나요? 지금 오즈 오디세이를 플레이하세요!",
+    "Loading": {
+      "title": "로딩중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "오즈 오디세이",
+      "description": "재미있는 블록 뱀 게임인 오즈 오디세이로 끈적한 모험을 떠나보세요. 까다로운 픽셀 플랫폼을 탐색하고 맛있는 과일을 모으며 끈적한 오즈의 비밀을 밝혀보세요. 독특한 챌린지와 영리한 전술을 경험하세요. 끈적한 여정을 시작할 준비가 되셨나요? 지금 오즈 오디세이를 플레이하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "오즈 오디세이",
+      "whatIsTitle": "오즈 오디세이는 무엇인가요?",
+      "whatIsDescription": "오즈 오디세이는 블록 뱀을 갖춘 재미있는 모험 게임입니다. 까다로운 픽셀 플랫폼을 통해 여정을 경험합니다. 독특한 정복을 시작하고 영리한 전술로 이동 능력을 보여주세요.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "하수도에 들어가 휴식을 취하려는 작은 뱀을 조작합니다.",
+      "howToPlayStep2": "캐릭터의 몸 길이를 늘리기 위해 맛있는 과일을 모으세요.",
+      "howToPlayStep3": "40개의 까다로운 레벨을 차례로 완료합니다.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "독특한 챌린지",
+      "feature1Description": "영리한 전술로 까다로운 픽셀 플랫폼을 탐색하세요.",
+      "feature2Title": "끈적한 모험",
+      "feature2Description": "끈적한 여정을 떠나 오즈의 비밀을 밝혀보세요.",
+      "feature3Title": "과일 수집",
+      "feature3Description": "캐릭터의 몸 길이를 늘리기 위해 맛있는 과일을 모으세요.",
+      "feature4Title": "레벨 생성",
+      "feature4Description": "크리에이터 기능으로 자신만의 지형 디자인을 만드세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

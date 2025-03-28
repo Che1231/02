@@ -1,0 +1,77 @@
+{
+  "bouncemasters": {
+    "title": "Bouncemasters - Juego de Arcade Online Gratuito",
+    "slogan": "¡Atraviesa el invierno con Bouncemasters!",
+    "description": "¡Bienvenido a Bouncemasters, donde los pingüinos realizan saltos locos sobre el hielo y la nieve! Experimenta una jugabilidad llena de diversión, colecciona monedas y mejora tu equipo. Únete a la aventura y ¡mira hasta dónde puedes volar!",
+    "Loading": {
+      "title": "Cargando Bouncemasters..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Términos de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Bouncemasters - Juego de Arcade Online Gratuito",
+      "description": "¡Experimenta el divertido mundo de Bouncemasters! Ayuda a los pingüinos a realizar saltos increíbles, colecciona monedas y mejora tu equipo. Únete a la aventura y ¡mira hasta dónde puedes volar!",
+      "iframeTitle": "Vista Previa del Juego",
+      "fullscreenButton": "Pantalla Completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar Juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Bouncemasters",
+      "whatIsTitle": "¿Qué es Bouncemasters?",
+      "whatIsDescription": "Bouncemasters es un emocionante juego de arcade donde los pingüinos realizan saltos increíbles por tierras congeladas. ¡Únete a la aventura y observa hasta dónde puedes volar!",
+      "howToPlayTitle": "Cómo Jugar",
+      "howToPlayStep1": "Toca la pantalla en el momento adecuado para impulsar al pingüino y que vuele.",
+      "howToPlayStep2": "Controla al pingüino durante el vuelo para que toque objetos como focas o ballenas para un rebote extra.",
+      "howToPlayStep3": "Evita el hielo, las rocas y el agua para mantenerte volando y colecciona monedas para mejorar tu equipo.",
+      "keyFeaturesTitle": "Características Clave",
+      "feature1Title": "Saltos Locura",
+      "feature1Description": "Ayuda a los pingüinos a realizar saltos locas sobre tierras congeladas.",
+      "feature2Title": "Coleccionar Monedas",
+      "feature2Description": "¡Recoge monedas y diamantes para mejorar tu equipo!",
+      "feature3Title": "Aventura",
+      "feature3Description": "¡Únete a la aventura y observa hasta dónde puedes volar!",
+      "feature4Title": "Jugabilidad Divertida",
+      "feature4Description": "Experimenta una jugabilidad divertida con animales familiares."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas Frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del Juego"
+    },
+    "GamePage": {
+      "title": "Todos los Juegos",
+      "description": "Todos los Juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver Más",
+      "page": "Página"
+    }
+  }
+}

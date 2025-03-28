@@ -1,0 +1,77 @@
+{
+  "papa-s-pancakeria": {
+    "title": "파파의 팬케이크 가게 온라인 플레이 - 무료 레스토랑 관리 게임",
+    "slogan": "파파 루이의 팬케이크 가게를 관리하고 맛있는 팬케이크를 제공하세요!",
+    "description": "파파의 팬케이크 가게에 들어와 팬케이크 가게를 운영하세요! 주문을 관리하고, 반죽을 부어 팬케이크를 뒤집고, 이 재미있고 흥미로운 레스토랑 시뮬레이션 게임에서 배고픈 손님들에게 제공하세요. 비즈니스 게임 팬들에게 완벽한 파파의 팬케이크 가게는 매력적인 시각 효과와 중독성 있는 게임플레이를 통해 기분 좋은 경험을 제공합니다. 오늘부터 팬케이크를 뒤집기 시작하여 고객을 만족시킬 수 있을지 확인하세요!",
+    "Loading": {
+      "title": "파파의 팬케이크 가게 로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인 정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "파파의 팬케이크 가게™",
+      "description": "파파 루이의 팬케이크 가게를 관리하고, 이 재미있고 흥미로운 레스토랑 시뮬레이션 게임에서 배고픈 손님들에게 맛있는 팬케이크를 제공하세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "파파의 팬케이크 가게™",
+      "whatIsTitle": "파파의 팬케이크 가게는 무엇인가요?",
+      "whatIsDescription": "파파의 팬케이크 가게는 파파 루이의 팬케이크 가게를 관리하는 레스토랑 관리 게임입니다. 주문을 관리하고, 반죽을 부어, 팬케이크를 뒤집고, 배고픈 손님들에게 제공하세요.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "손님의 주문을 받고 그들의 선호도를 기록하세요.",
+      "howToPlayStep2": "팬케이크 굽는 틀에 반죽을 부어 완벽하게 팬케이크를 뒤집으세요.",
+      "howToPlayStep3": "팬케이크를 뜨겁게 제공하고 고객 만족도를 확보하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "레스토랑 관리",
+      "feature1Description": "주문부터 고객에게 음식을 제공하는 것까지 파파 루이의 팬케이크 가게의 모든 면을 관리하세요.",
+      "feature2Title": "도전적인 게임플레이",
+      "feature2Description": "고객의 요구에 발맞추고 빠르게 팬케이크를 제공하여 높은 점수를 얻으세요.",
+      "feature3Title": "매력적인 시각 효과",
+      "feature3Description": "파파의 팬케이크 가게를 생생하게 보여주는 매력적이고 다채로운 시각 효과를 즐기세요.",
+      "feature4Title": "중독성 있는 재미",
+      "feature4Description": "더욱 많은 팬케이크 뒤집기 액션을 경험할 수 있도록 중독성 있는 게임플레이를 즐기세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "suika-game": {
+    "title": "Suika 游戏 - 免费在线心理恐怖冒险",
+    "slogan": "在Suika游戏中考验你的策略和运气！",
+    "description": "Suika 游戏可不是胆小者！这场心理恐怖体验将挑战你的策略天赋和一点运气。Suika 游戏正在席卷全球游戏界。准备好征服甜蜜的西瓜了吗？现在就玩Suika 游戏！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "Suika 游戏 - 免费在线心理恐怖冒险",
+      "description": "Suika 游戏可不是胆小者！这场心理恐怖体验将挑战你的策略天赋和一点运气。Suika 游戏正在席卷全球游戏界。准备好征服甜蜜的西瓜了吗？现在就玩Suika 游戏！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL 已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Suika 游戏 - 免费在线心理恐怖冒险",
+      "whatIsTitle": "Suika 游戏是什么？",
+      "whatIsDescription": "Suika 游戏是一款心理恐怖游戏，考验你的策略和运气。它不仅仅是一款智力游戏，更是一场挑战你策略能力的冒险。",
+      "howToPlayTitle": "如何玩耍",
+      "howToPlayStep1": "首先选择你的策略。",
+      "howToPlayStep2": "运用你的技能来应对挑战。",
+      "howToPlayStep3": "征服甜蜜的西瓜，赢得胜利！",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "心理恐怖",
+      "feature1Description": "体验紧张刺激的心理恐怖，让你提心吊胆。",
+      "feature2Title": "策略与运气",
+      "feature2Description": "考验你的策略天赋和一点运气，才能成功。",
+      "feature3Title": "全球社区",
+      "feature3Description": "加入正在风靡全球的游戏社区，体验Suika 游戏。",
+      "feature4Title": "甜蜜的西瓜",
+      "feature4Description": "在这激动人心的冒险中征服甜蜜的西瓜。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏列表"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

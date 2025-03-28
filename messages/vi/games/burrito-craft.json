@@ -1,0 +1,77 @@
+{
+  "burrito-craft": {
+    "title": "Burrito Craft: Xây dựng, khám phá và tạo nên thế giới khối của bạn",
+    "slogan": "Đúc kết con đường của bạn trong một cuộc phiêu lưu sandbox độc đáo",
+    "description": "Trong Burrito Craft, thế giới khối là tấm vải vẽ của bạn. Xây dựng, khám phá hoặc thư giãn - sự lựa chọn tùy thuộc vào bạn! Bắt đầu với các dự án đơn giản và dần dần xây dựng đế chế riêng của bạn. Chọn từ các nhân vật quen thuộc và đắm mình trong lối chơi sáng tạo hoặc sinh tồn. Burrito Craft cung cấp vô số khả năng khám phá và sáng tạo. Bắt đầu cuộc phiêu lưu của bạn ngay hôm nay!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Đường dẫn"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Burrito Craft: Xây dựng và khám phá thế giới của bạn",
+      "description": "Trong Burrito Craft, thế giới khối là tấm vải vẽ của bạn. Xây dựng, khám phá hoặc thư giãn - sự lựa chọn tùy thuộc vào bạn! Bắt đầu với các dự án đơn giản và dần dần xây dựng đế chế riêng của bạn. Chọn từ các nhân vật quen thuộc và đắm mình trong lối chơi sáng tạo hoặc sinh tồn. Burrito Craft cung cấp vô số khả năng khám phá và sáng tạo. Bắt đầu cuộc phiêu lưu của bạn ngay hôm nay!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải game",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Burrito Craft: Xây dựng, khám phá và sáng tạo",
+      "whatIsTitle": "Burrito Craft là gì?",
+      "whatIsDescription": "Burrito Craft là sự kết hợp độc đáo giữa Minecraft với sự bổ sung của các nhân vật quen thuộc từ Five Nights at Winstons. Với lối chơi xây dựng và sáng tạo, thế giới sandbox đặc trưng chào đón bạn với những trải nghiệm vô tận. Không có giới hạn cho những khám phá và sáng tạo của bạn.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Di chuyển chuột để nhìn xung quanh và sử dụng các phím mũi tên để di chuyển.",
+      "howToPlayStep2": "Nhấn chuột trái để phá vỡ khối và nhấn chuột phải để thêm vật phẩm hoặc đối tượng.",
+      "howToPlayStep3": "Nhấn phím E để mở ngăn chứa đồ và chọn các vật phẩm để sử dụng.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Xây dựng sáng tạo",
+      "feature1Description": "Tự do thể hiện sự sáng tạo của bạn trong thế giới khối này.",
+      "feature2Title": "Lối chơi sinh tồn",
+      "feature2Description": "Bảo vệ lãnh thổ trong game của bạn trong cuộc chiến sinh tồn.",
+      "feature3Title": "Các vật liệu đa dạng",
+      "feature3Description": "Sử dụng nhiều loại vật liệu để tạo ra các dự án với cấu trúc khác nhau.",
+      "feature4Title": "Các chế độ chơi game độc đáo",
+      "feature4Description": "Chọn từ chế độ sáng tạo hoặc sinh tồn để có những hành trình độc đáo."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

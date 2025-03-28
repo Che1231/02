@@ -1,0 +1,77 @@
+{
+  "gulper-io": {
+    "title": "Chơi Gulper.io Trực tuyến - Trò chơi chiến đấu rắn nhiều người chơi miễn phí",
+    "slogan": "Chìm đắm trong thế giới hấp dẫn của Gulper.io",
+    "description": "Gulper.io là một trò chơi rắn trực tuyến hồi hộp nơi bạn cạnh tranh với những người chơi khác trong một đấu trường chiến đấu nhiều người chơi đầy kịch tính. Điều khiển con giun của bạn, tiêu thụ các mảnh sáng bóng để lớn hơn và loại bỏ đối thủ một cách chiến lược. Trải nghiệm sự hồi hộp của Gulper.io ngay hôm nay và tham gia trận chiến!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Đường dẫn"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước"
+    },
+    "HomeIframe": {
+      "title": "Gulper.io",
+      "description": "Thăm thú thế giới hành động đầy thú vị của Gulper.io, nơi bạn điều khiển một con giun và cạnh tranh trong đấu trường nhiều người chơi. Lớn lên bằng cách tiêu thụ các mảnh vỡ và vượt qua đối thủ để trở thành con giun hàng đầu!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Màn hình toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào bộ nhớ tạm!",
+      "downloadGame": "Tải xuống trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Gulper.io - Trò chơi chiến đấu rắn tối thượng",
+      "whatIsTitle": "Gulper.io là gì?",
+      "whatIsDescription": "Gulper.io là một trò chơi rắn trực tuyến nhiều người chơi hồi hộp nơi bạn điều khiển một con giun, lớn lên bằng cách ăn các mảnh sáng bóng và cạnh tranh với những người chơi khác trong đấu trường chiến đấu.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Điều khiển con giun của bạn bằng các phím mũi tên hoặc chuột.",
+      "howToPlayStep2": "Ăn các mảnh sáng bóng để lớn lên và có lợi thế.",
+      "howToPlayStep3": "Loại bỏ chiến lược những con rắn đối thủ để thống trị đấu trường.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Đấu trường nhiều người chơi",
+      "feature1Description": "Cạnh tranh với những người chơi từ khắp nơi trên thế giới theo thời gian thực.",
+      "feature2Title": "Phát triển năng động",
+      "feature2Description": "Phát triển con giun của bạn bằng cách tiêu thụ các mảnh sáng bóng và vượt qua đối thủ của bạn.",
+      "feature3Title": "Gameplay chiến thuật",
+      "feature3Description": "Sử dụng chiến thuật để loại bỏ các con giun khác và leo lên bảng xếp hạng.",
+      "feature4Title": "Hình ảnh hấp dẫn",
+      "feature4Description": "Tận hưởng đồ họa sống động và hiệu ứng hoạt hình mượt mà trong mọi trận chiến."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Giới thiệu"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả trò chơi",
+      "description": "Tất cả trò chơi",
+      "games": "Trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

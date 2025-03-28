@@ -1,0 +1,77 @@
+{
+  "brutal-io": {
+    "title": "Brutal.io: Ücretsiz Çevrimiçi Çok Oyunculu Oyun",
+    "slogan": "Salla, Yok Et, Fethet",
+    "description": "Brutal.io, oyuncuların bağlı bir kırbaçla küçük bir araç kontrol ettiği bağımlılık yaratan bir çevrimiçi çok oyunculu oyundur. Hedef, kırbaçınızı sallayarak diğer oyuncuların araçlarını vurmak, onları yok etmek ve enerjilerini toplamaktır. Brutal.io'da yoğun savaşlar, stratejik oyun ve bitmeyen eğlence deneyimleyin. Şimdi katılın ve arenayı ele geçirin!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturma Tarihi",
+      "guide": "Rehber",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Brutal.io",
+      "description": "Brutal.io, oyuncuların bağlı bir kırbaçla küçük bir araç kontrol ettiği bağımlılık yaratan bir çevrimiçi çok oyunculu oyundur. Hedef, kırbaçınızı sallayarak diğer oyuncuların araçlarını vurmak, onları yok etmek ve enerjilerini toplamaktır.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Brutal.io",
+      "whatIsTitle": "Brutal.io Nedir?",
+      "whatIsDescription": "Brutal.io, oyuncuların bağlı bir kırbaçla küçük bir araç kontrol ettiği bağımlılık yaratan bir çevrimiçi çok oyunculu oyundur. Hedef, kırbaçınızı sallayarak diğer oyuncuların araçlarını vurmak, onları yok etmek ve enerjilerini toplamaktır.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Araçınızı ve kırbaçınızı kontrol edin.",
+      "howToPlayStep2": "Kırbaçınızı sallayarak diğer oyuncuları vurun.",
+      "howToPlayStep3": "Yok edilen araçlardan enerji toplayarak daha güçlü olun.",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Çok Oyunculu Savaşlar",
+      "feature1Description": "Gerçek zamanlı olarak dünyanın dört bir yanından oyunculara karşı yarışın.",
+      "feature2Title": "Stratejik Oyun",
+      "feature2Description": "Rakiplerinizi alt etmek ve yok etmek için stratejik olarak kırbaçınızı kullanın.",
+      "feature3Title": "Bitmeyen Eğlence",
+      "feature3Description": "Bitmeyen eğlence ve yoğun savaşlar yaşayın.",
+      "feature4Title": "Basit Kontroller",
+      "feature4Description": "Öğrenmesi kolay kontroller, tüm oyuncular için erişilebilirlik sağlar."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Immerse yourself in the captivating world of Gulper.io, an exhilarating online snake game that pits you against other players in a thrilling multiplayer battle arena. Similar to Slither.io, you assume control of a worm, devour shiny fragments to grow larger, and strategically eliminate rival worms.

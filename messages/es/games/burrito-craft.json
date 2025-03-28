@@ -1,0 +1,77 @@
+{
+  "burrito-craft": {
+    "title": "Burrito Craft: Construye, explora y crea tu mundo bloqueante",
+    "slogan": "Forja tu camino en una aventura de sandbox única",
+    "description": "En Burrito Craft, el mundo bloqueante es tu lienzo. ¡Construye, explora o relájate, la elección es tuya! Empieza con proyectos simples y gradualmente construye tu propio imperio. Elige entre personajes familiares y sumérgete en un juego creativo o de supervivencia. Burrito Craft ofrece infinitas posibilidades de descubrimiento y creación. ¡Empieza tu aventura hoy mismo!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Burrito Craft: Construye y explora tu mundo",
+      "description": "En Burrito Craft, el mundo bloqueante es tu lienzo. ¡Construye, explora o relájate, la elección es tuya! Empieza con proyectos simples y gradualmente construye tu propio imperio. Elige entre personajes familiares y sumérgete en un juego creativo o de supervivencia. Burrito Craft ofrece infinitas posibilidades de descubrimiento y creación. ¡Empieza tu aventura hoy mismo!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Burrito Craft: Construye, explora y crea",
+      "whatIsTitle": "¿Qué es Burrito Craft?",
+      "whatIsDescription": "Burrito Craft es una combinación única de Minecraft con la adición de personajes familiares de Five Nights at Winstons. Con un juego constructivo y creativo, el mundo de sandbox te da la bienvenida con experiencias infinitas. No hay límites para tus descubrimientos y creaciones.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Mueve el ratón para mirar alrededor y usa las flechas para moverte.",
+      "howToPlayStep2": "Haz clic con el botón izquierdo para romper un bloque y haz clic con el botón derecho para agregar elementos u objetos.",
+      "howToPlayStep3": "Presiona la tecla E para abrir el inventario y seleccionar elementos para usar.",
+      "keyFeaturesTitle": "Características principales",
+      "feature1Title": "Construcción creativa",
+      "feature1Description": "Exprésate creativamente en este mundo bloqueante.",
+      "feature2Title": "Juego de supervivencia",
+      "feature2Description": "Protege tu territorio en juego en una batalla de supervivencia.",
+      "feature3Title": "Materiales diversos",
+      "feature3Description": "Usa una variedad de materiales para crear proyectos con diferentes estructuras.",
+      "feature4Title": "Modos de juego únicos",
+      "feature4Description": "Elige entre los modos creativos o de supervivencia para viajes únicos."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

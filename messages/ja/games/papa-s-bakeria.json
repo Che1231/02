@@ -1,0 +1,77 @@
+{
+  "papa-s-bakeria": {
+    "title": "パパズベーカリアオンライン - 無料の料理ゲーム",
+    "slogan": "パパズベーカリアで焼き、提供し、稼ぎましょう！",
+    "description": "パパズベーカリアは、パイを焼き、顧客に提供し、チップを稼ぐ、テンポの速い料理ゲームです。愛されているパパズシリーズの一環として、このゲームはシェイクではなくパイを使ったモダンなアレンジを提供します。自らのベーカリーを経営する楽しみを体験し、パパズゲームの古典的な雰囲気をお楽しみください。パパズベーカリアをオンラインで無料でプレイし、おいしい焼きの世界に飛び込みましょう！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "パパズベーカリア",
+      "description": "パパズベーカリアは、パイを焼き、顧客に提供し、チップを稼ぐ、テンポの速い料理ゲームです。愛されているパパズシリーズの一環として、このゲームはシェイクではなくパイを使ったモダンなアレンジを提供します。自らのベーカリーを経営する楽しみを体験し、パパズゲームの古典的な雰囲気をお楽しみください。パパズベーカリアをオンラインで無料でプレイし、おいしい焼きの世界に飛び込みましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "パパズベーカリア",
+      "whatIsTitle": "パパズベーカリアとは？",
+      "whatIsDescription": "パパズベーカリアは、パイを焼き、顧客に提供し、チップを稼ぐ、テンポの速い料理ゲームです。愛されているパパズシリーズの一環として、このゲームはシェイクではなくパイを使ったモダンなアレンジを提供します。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "お客様の注文に従ってパイを焼きましょう。",
+      "howToPlayStep2": "お客様を迅速に提供してチップを稼ぎましょう。",
+      "howToPlayStep3": "お客様を満足させ、ビジネスを繁栄させるために、効率的にベーカリーを管理しましょう。",
+      "keyFeaturesTitle": "主な機能",
+      "feature1Title": "楽しい焼き",
+      "feature1Description": "テンポの速い環境でパイを焼く喜びを体験してください。",
+      "feature2Title": "顧客サービス",
+      "feature2Description": "迅速かつ効率的に顧客に提供し、チップを稼ぎましょう。",
+      "feature3Title": "ベーカリー管理",
+      "feature3Description": "お客様を満足させ、ビジネスを繁栄させるために、あなたのベーカリーを管理しましょう。",
+      "feature4Title": "モダンなアレンジ",
+      "feature4Description": "シェイクではなくパイを使った、パパズゲームの古典的な雰囲気にモダンなアレンジを加えてお楽しみください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリ",
+      "noCategories": "カテゴリが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

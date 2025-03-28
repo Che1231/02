@@ -1,0 +1,1 @@
+Brutal.io is an addictive multiplayer online game where players control a small vehicle with a flail attached to it. The objective is to swing your flail and hit other players' vehicles to destroy them and collect their energy.

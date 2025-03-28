@@ -1,0 +1,77 @@
+{
+  "sausage-flip": {
+    "title": "소시지 던지기 - 무료 온라인 플랫폼 게임",
+    "slogan": "승리의 길을 던져 나아가세요!",
+    "description": "소시지 던지기는 150개 이상의 레벨이 있는 재미있는 던지기 플랫폼 게임입니다. 눈이 달린 끈적한 소시지를 던져 장애물을 극복하고 결승점에 도달하세요. 재미있는 도전을 찾는 캐주얼 게이머들에게 완벽합니다. 지금 소시지 던지기를 플레이하고 실력을 테스트해보세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "소시지 던지기",
+      "description": "소시지 던지기는 재미있고 어려운 던지기 플랫폼 게임입니다. 150개 이상의 레벨을 통해 소시지를 던져 결승점에 도달하세요. 지금 플레이하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "소시지 던지기",
+      "whatIsTitle": "소시지 던지기는 무엇인가요?",
+      "whatIsDescription": "소시지 던지기는 플랫폼 게임으로, 장애물을 거쳐 소시지를 던져 결승선에 도달하는 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "소시지에서 화면 오른쪽으로 선을 그으세요.",
+      "howToPlayStep2": "선을 조작하여 소시지를 장애물을 지나게 하세요.",
+      "howToPlayStep3": "소시지를 업그레이드하여 새로운 스킨과 능력을 해제하세요.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "150개 이상의 레벨",
+      "feature1Description": "다양한 레벨과 장애물로 자신을 테스트하세요.",
+      "feature2Title": "독특한 소시지 스킨",
+      "feature2Description": "우주비행사와 해바라기 등 다양한 소시지 스킨을 해제하고 업그레이드하세요.",
+      "feature3Title": "재미있고 중독성",
+      "feature3Description": "쉽게 배우고 숙달하기 어려운 게임을 즐겨보세요.",
+      "feature4Title": "무료 게임",
+      "feature4Description": "언제 어디서나 소시지 던지기를 무료로 온라인으로 플레이하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

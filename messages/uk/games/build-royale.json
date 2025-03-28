@@ -1,0 +1,77 @@
+{
+  "build-royale": {
+    "title": "Build Royale: Безкоштовна онлайн-гра в жанрі Battle Royale",
+    "slogan": "Будувати, битися, перемагати",
+    "description": "Build Royale пропонує захоплюючий досвід 2D Battle Royale з видом зверху. Досліджуйте просторий мап, збирайте ресурси та будуйте оборонні споруди, щоб вижити серед своїх опонентів. Інтенсивні бої та стратегічне будівництво забезпечують безкінечну розвагу. Грай у Build Royale та здобувай перемогу!",
+    "Loading": {
+      "title": "Завантаження Build Royale..."
+    },
+    "Navbar": {
+      "title": "Навігація"
+    },
+    "Common": {
+      "createAt": "Створено",
+      "guide": "Посібник",
+      "privacyPolicy": "Політика конфіденційності",
+      "termsOfServices": "Умови використання",
+      "text": "Зміст",
+      "help": "Довідка",
+      "friendlyLinks": "Корисні посилання",
+      "articleList": "Список статей",
+      "home": "Головна",
+      "next": "Наступний",
+      "previous": "Попередній"
+    },
+    "HomeIframe": {
+      "title": "Build Royale™",
+      "description": "Зануртесь у захоплюючий досвід battle royale, будуючи оборони та воюючи з опонентами в Build Royale. Відкривайте просторий мап, шукайте зброю та збирайте ресурси, щоб перемогти своїх суперників.",
+      "iframeTitle": "Перегляд гри",
+      "fullscreenButton": "Повноекранний режим",
+      "shareButton": "Поділитися",
+      "urlCopied": "Посилання скопійовано в буфер обміну!",
+      "downloadGame": "Завантажити гру",
+      "playGame": "Грати"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Build Royale",
+      "whatIsTitle": "Що таке Build Royale?",
+      "whatIsDescription": "Build Royale – це 2D онлайн-гра у жанрі battle royale, де гравці будують захисні споруди, збирають ресурси та воюють з суперниками, щоб залишитися останнім.",
+      "howToPlayTitle": "Як грати",
+      "howToPlayStep1": "Досліджуйте мапу, щоб знайти зброю та ресурси.",
+      "howToPlayStep2": "Збудуйте захисні споруди, щоб захиститися від опонентів.",
+      "howToPlayStep3": "Усуньте інших гравців, щоб здобути перемогу.",
+      "keyFeaturesTitle": "Ключові особливості",
+      "feature1Title": "Стратегічне будівництво",
+      "feature1Description": "Збудуйте захисні споруди, щоб перехитрити своїх суперників.",
+      "feature2Title": "Інтенсивні бої",
+      "feature2Description": "Беріться за швидкі битви, щоб вижити.",
+      "feature3Title": "Просторий мап",
+      "feature3Description": "Дослідіть великий світ, наповнений ресурсами та викликами.",
+      "feature4Title": "Збирання ресурсів",
+      "feature4Description": "Збирайте матеріали, щоб зміцнити свої позиції."
+    },
+    "HomeFAQs": {
+      "title": "Часті запитання"
+    },
+    "HomeRelatedVideo": {
+      "title": "Відео з гри"
+    },
+    "HomeRecommendation": {
+      "title": "Рекомендації"
+    },
+    "HomeComments": {
+      "title": "Коментарі до гри"
+    },
+    "GamePage": {
+      "title": "Всі ігри",
+      "description": "Всі ігри",
+      "games": "Ігри"
+    },
+    "CategoryPage": {
+      "categories": "Категорії",
+      "noCategories": "Категорії не знайдені",
+      "viewMore": "Переглянути більше",
+      "page": "Сторінка"
+    }
+  }
+}

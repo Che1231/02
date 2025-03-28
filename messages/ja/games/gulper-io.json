@@ -1,0 +1,77 @@
+{
+  "gulper-io": {
+    "title": "Gulper.io オンラインゲーム - 無料のマルチプレイヤーヘビ対戦ゲーム",
+    "slogan": "Gulper.ioの魅力的な世界に没頭してください",
+    "description": "Gulper.ioは、スリリングなマルチプレイヤー対戦アリーナで他のプレイヤーと競う、エキサイティングなオンラインヘビゲームです。ワームをコントロールし、輝く破片を食べて大きくなり、戦略的にライバルを排除します。今日Gulper.ioの興奮を体験し、戦いに参加しましょう！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "Gulper.io",
+      "description": "Gulper.ioのアクション満載の世界に没頭し、ワームを操作してマルチプレイヤーアリーナで競い合います。破片を食べて成長し、ライバルを引き離してトップのワームを目指しましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Gulper.io -究極のヘビ対戦ゲーム",
+      "whatIsTitle": "Gulper.ioとは？",
+      "whatIsDescription": "Gulper.ioは、ワームを操作して輝く破片を食べ、他のプレイヤーと対戦アリーナで競う、スリリングなオンラインマルチプレイヤーヘビゲームです。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "矢印キーまたはマウスを使用してワームを操作します。",
+      "howToPlayStep2": "輝く破片を食べて大きくなり、有利になります。",
+      "howToPlayStep3": "戦略的にライバルのワームを排除してアリーナを支配します。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "マルチプレイヤーアリーナ",
+      "feature1Description": "世界中のプレイヤーとリアルタイムで競い合います。",
+      "feature2Title": "ダイナミックな成長",
+      "feature2Description": "輝く破片を食べてワームを成長させ、ライバルを引き離します。",
+      "feature3Title": "戦略的なゲームプレイ",
+      "feature3Description": "戦術を使用して他のワームを排除し、ランキングを上昇させます。",
+      "feature4Title": "魅力的なビジュアル",
+      "feature4Description": "すべての戦闘で鮮やかなグラフィックとスムーズなアニメーションをお楽しみいただけます。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリ",
+      "noCategories": "カテゴリが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

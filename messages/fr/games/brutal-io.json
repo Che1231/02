@@ -1,0 +1,77 @@
+{
+  "brutal-io": {
+    "title": "Brutal.io : Jeu multijoueur en ligne gratuit",
+    "slogan": "Balancez, détruisez et conquerez",
+    "description": "Brutal.io est un jeu multijoueur en ligne addictif où les joueurs contrôlent un petit véhicule équipé d'un fouet. L'objectif est de manier votre fouet et frapper les véhicules des autres joueurs pour les détruire et collecter leur énergie. Vivez des batailles intenses, un gameplay stratégique et un plaisir sans fin dans Brutal.io. Rejoignez-nous maintenant et dominez l'arène !",
+    "Loading": {
+      "title": "Chargement…"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Brutal.io",
+      "description": "Brutal.io est un jeu multijoueur en ligne addictif où les joueurs contrôlent un petit véhicule équipé d'un fouet. L'objectif est de manier votre fouet et frapper les véhicules des autres joueurs pour les détruire et collecter leur énergie.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Brutal.io",
+      "whatIsTitle": "Qu'est-ce que Brutal.io ?",
+      "whatIsDescription": "Brutal.io est un jeu multijoueur en ligne addictif où les joueurs contrôlent un petit véhicule équipé d'un fouet. L'objectif est de manier votre fouet et frapper les véhicules des autres joueurs pour les détruire et collecter leur énergie.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Contrôlez votre véhicule et votre fouet.",
+      "howToPlayStep2": "Balancez votre fouet pour frapper les autres joueurs.",
+      "howToPlayStep3": "Collectez l'énergie des véhicules détruits pour devenir plus fort.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Batailles multijoueur",
+      "feature1Description": "Affrontez des joueurs du monde entier en temps réel.",
+      "feature2Title": "Gameplay stratégique",
+      "feature2Description": "Utilisez stratégiquement votre fouet pour déjouer et détruire vos adversaires.",
+      "feature3Title": "Plaisir sans fin",
+      "feature3Description": "Expérimentez des heures de plaisir et de batailles intenses.",
+      "feature4Title": "Commandes simples",
+      "feature4Description": "Des commandes faciles à apprendre rendent le jeu accessible à tous les joueurs."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires de jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

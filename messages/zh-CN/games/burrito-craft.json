@@ -1,0 +1,77 @@
+{
+  "burrito-craft": {
+    "title": "Burrito Craft：构建、探索和创造你的方块世界",
+    "slogan": "在独特的沙盒冒险中开创你的道路",
+    "description": "在Burrito Craft中，方块世界就是你的画布。建造、探索或放松——选择权在你手中！从简单的项目开始，逐步建立属于你自己的帝国。从熟悉的角色中进行选择，并投入到创造或生存的游戏玩法中。Burrito Craft提供了无限的探索和创造可能性。今天就开启你的冒险之旅！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一个",
+      "previous": "上一个"
+    },
+    "HomeIframe": {
+      "title": "Burrito Craft：构建和探索你的世界",
+      "description": "在Burrito Craft中，方块世界就是你的画布。建造、探索或放松——选择权在你手中！从简单的项目开始，逐步建立属于你自己的帝国。从熟悉的角色中进行选择，并投入到创造或生存的游戏玩法中。Burrito Craft提供了无限的探索和创造可能性。今天就开启你的冒险之旅！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Burrito Craft：建造、探索和创造",
+      "whatIsTitle": "什么是Burrito Craft？",
+      "whatIsDescription": "Burrito Craft是《我的世界》与《五夜饭店》中熟悉角色完美结合的独特游戏。通过建设性和创造性的游戏玩法，这款标志性的沙盒世界将带给你无尽的体验。你的发现和创造没有限制。",
+      "howToPlayTitle": "如何游戏",
+      "howToPlayStep1": "移动鼠标进行观测，使用方向键移动。",
+      "howToPlayStep2": "左键点击破坏方块，右键点击添加物品或对象。",
+      "howToPlayStep3": "按下E键打开物品栏，选择要使用的物品。",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "创造性建造",
+      "feature1Description": "在这个方块世界中自由表达你的创造力。",
+      "feature2Title": "生存游戏玩法",
+      "feature2Description": "在生存的战斗中保护你的游戏领地。",
+      "feature3Title": "各种材料",
+      "feature3Description": "使用各种材料创建具有不同结构的项目。",
+      "feature4Title": "独特的游戏模式",
+      "feature4Description": "从创造或生存模式中进行选择，开启独特的冒险之旅。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页"
+    }
+  }
+}

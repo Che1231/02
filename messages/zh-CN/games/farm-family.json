@@ -1,0 +1,77 @@
+{
+  "farm-family": {
+    "title": "农场家族 - 建立你的虚拟农业帝国",
+    "slogan": "在农场家族中种植、收获并繁荣发展",
+    "description": "体验农场家族的乐趣，在那里你可以种植农作物，饲养动物，建立你的农业帝国。 使用简单的鼠标控制管理你的农场，并享受各种活动。 今天开始你的农业之旅，看看你的小农场如何发展成为一个欣欣向荣的帝国！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一个",
+      "previous": "上一个"
+    },
+    "HomeIframe": {
+      "title": "农场家族 - 虚拟农业冒险",
+      "description": "沉浸在农场家族的世界中，在那里你可以种植农作物，饲养动物，建立你的农业帝国。 享受简单的控制和各种农业活动。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "农场家族",
+      "whatIsTitle": "什么是农场家族？",
+      "whatIsDescription": "农场家族是一款虚拟农业游戏，您可以在其中种植农作物，饲养动物，并建立您的农业帝国。 体验农业的乐趣和挑战！",
+      "howToPlayTitle": "如何玩耍？",
+      "howToPlayStep1": "使用提供的资金开垦土地，种植主食，例如稻米和玉米。",
+      "howToPlayStep2": "从作物中获得收益，探索其他领域，例如种植水果，照料花卉和饲养动物。",
+      "howToPlayStep3": "扩展你的农场，专注于有利可图的原材料，以提高产量。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "种植农作物",
+      "feature1Description": "种植并收获各种农作物，赚取金钱并扩展您的农场。",
+      "feature2Title": "饲养动物",
+      "feature2Description": "照料动物并管理它们的需要，生产有价值的资源。",
+      "feature3Title": "扩展你的农场",
+      "feature3Description": "通过开垦新的土地，专注于有利可图的物品来增加农场的产量。",
+      "feature4Title": "简单的控制",
+      "feature4Description": "享受易于使用的鼠标控制，让所有玩家都能体验农业的乐趣。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏类别",
+      "noCategories": "未找到游戏类别",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

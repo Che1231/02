@@ -1,0 +1,77 @@
+{
+  "raft-wars-2": {
+    "title": "筏战2：保卫你的宝藏，史诗般的战斗",
+    "slogan": "加入西蒙和弟弟，保护宝藏的征途",
+    "description": "筏战2带给你激动人心的物理引擎冒险，西蒙和他的弟弟必须保卫他们隐藏的宝藏免受侵略者的侵袭。借助逼真的物理引擎，你可以瞄准、调整和发射网球，击倒敌人并获得积分。升级你的武器和筏艇，提升你的战斗策略。准备好迎接挑战了吗？现在就玩筏战2，体验保卫宝藏的刺激！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "筏战2：保卫你的宝藏",
+      "description": "在筏战2中，加入西蒙和他的兄弟，保卫他们隐藏的宝藏，抵御入侵者。使用你的网球枪击倒敌人，获得积分。升级你的武器和筏艇，提升你的战斗策略。现在开始游戏，体验保卫宝藏的刺激！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "筏战2：保卫你的宝藏",
+      "whatIsTitle": "筏战2是什么？",
+      "whatIsDescription": "筏战2是一款激动人心的物理游戏，西蒙和他的弟弟必须保卫他们隐藏的宝藏免受入侵者的侵袭。借助逼真的物理引擎，你可以瞄准、调整和发射网球，击倒敌人并获得积分。",
+      "howToPlayTitle": "如何玩耍",
+      "howToPlayStep1": "使用鼠标瞄准，并调整你球的投射高度和深度。",
+      "howToPlayStep2": "发射网球，击倒敌人，并获得积分。",
+      "howToPlayStep3": "升级你的武器和筏艇，提升你的战斗策略。",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "基于物理的游戏玩法",
+      "feature1Description": "在瞄准和发射网球击倒敌人时体验逼真的物理效果。",
+      "feature2Title": "可升级的武器",
+      "feature2Description": "升级你的武器和筏艇，改进你的战斗策略。",
+      "feature3Title": "史诗般的战斗",
+      "feature3Description": "在激动人心的战斗中保卫你的宝藏免受侵略者的侵袭。",
+      "feature4Title": "赚取积分",
+      "feature4Description": "击倒敌人以赚取积分，并在游戏中取得进步。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "papa-s-pancakeria": {
+    "title": "在线玩《爸爸的煎饼店》——免费餐厅经营游戏",
+    "slogan": "经营路易爸爸的煎饼店，并制作美味煎饼！",
+    "description": "踏入《爸爸的煎饼店》，掌控这家煎饼店！管理订单、倒面糊、翻煎饼，并在这款有趣且引人入胜的餐厅模拟游戏中为饥饿的顾客服务。 对于喜欢商业游戏的玩家来说，爸爸的煎饼店以其迷人的画面和令人上瘾的游戏体验而闻名。今天就开始翻煎饼，看看你是否能留住你的顾客！",
+    "Loading": {
+      "title": "正在加载《爸爸的煎饼店》..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一步",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "《爸爸的煎饼店™》",
+      "description": "在这款有趣且引人入胜的餐厅模拟游戏中，掌控路易爸爸的煎饼店，并为饥饿的顾客提供美味的煎饼。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "《爸爸的煎饼店™》",
+      "whatIsTitle": "《爸爸的煎饼店》是什么？",
+      "whatIsDescription": "《爸爸的煎饼店》是一款餐厅经营游戏，您将掌控路易爸爸的煎饼店。管理订单、倒面糊、翻煎饼，并为饥饿的顾客服务。",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "从顾客那里接受订单并注意他们的喜好。",
+      "howToPlayStep2": "将面糊倒在煎盘上并把煎饼翻到完美。",
+      "howToPlayStep3": "将煎饼热腾腾地端上桌，并确保顾客满意。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "餐厅管理",
+      "feature1Description": "从接受订单到为顾客服务，管理路易爸爸煎饼店的所有方面。",
+      "feature2Title": "充满挑战的游戏",
+      "feature2Description": "跟上顾客的需求，快速制作煎饼以获得高分。",
+      "feature3Title": "引人入胜的画面",
+      "feature3Description": "享受将《爸爸的煎饼店》栩栩如生的迷人色彩画面。",
+      "feature4Title": "令人上瘾的乐趣",
+      "feature4Description": "体验令人上瘾的游戏，让您一次又一次地享受翻煎饼的乐趣。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏列表"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

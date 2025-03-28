@@ -1,0 +1,77 @@
+{
+  "who-are-ya": {
+    "title": "Ai là bạn - Đoán cầu thủ bóng đá trong 8 lần thử",
+    "slogan": "Kiểm tra kiến thức bóng đá của bạn với Ai là bạn",
+    "description": "Ai là bạn là một trò chơi đoán từ thú vị xoay quanh thế giới thể thao, đặc biệt là bóng đá. Nó có điểm tương đồng với Wordle, mang lại trải nghiệm chơi game thú vị. Trong trò chơi này, mục tiêu của bạn là đoán tên các cầu thủ bóng đá trong vòng tám lần thử. Thử thách bản thân và xem liệu bạn có thể xác định đúng các cầu thủ hay không!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Đường dẫn"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Ai là bạn",
+      "description": "Đoán tên cầu thủ bóng đá trong trò chơi thú vị và đầy thách thức này. Bạn có thể nhận ra tất cả họ không?",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải game",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Ai là bạn",
+      "whatIsTitle": "Ai là bạn là gì?",
+      "whatIsDescription": "Ai là bạn là một trò chơi đoán từ thú vị xoay quanh thế giới thể thao, đặc biệt là bóng đá. Nó có điểm tương đồng với Wordle, mang lại trải nghiệm chơi game thú vị.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Đoán tên một cầu thủ bóng đá.",
+      "howToPlayStep2": "Bạn có tám lần thử để làm đúng.",
+      "howToPlayStep3": "Xem liệu bạn có thể xác định tất cả các cầu thủ!",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Trải nghiệm chơi game hấp dẫn",
+      "feature1Description": "Tận hưởng trải nghiệm đoán từ thú vị và đầy thử thách.",
+      "feature2Title": "Tập trung vào bóng đá",
+      "feature2Description": "Kiểm tra kiến thức của bạn về các cầu thủ bóng đá trên toàn thế giới.",
+      "feature3Title": "Tám lần thử",
+      "feature3Description": "Bạn có tám lần thử để đoán đúng cầu thủ.",
+      "feature4Title": "Trải nghiệm tương tự Wordle",
+      "feature4Description": "Giống với Wordle, nhưng với một nét chấm phá bóng đá."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video game"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các game",
+      "description": "Tất cả các game",
+      "games": "Các game"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

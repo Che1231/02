@@ -1,0 +1,77 @@
+{
+  "papa-s-pancakeria": {
+    "title": "線上玩爸爸的鬆餅店 – 免費餐廳經營遊戲",
+    "slogan": "經營爸爸路易的鬆餅店，並提供美味的鬆餅！",
+    "description": "踏入爸爸的鬆餅店，掌控鬆餅店的運營！處理訂單、倒麵糊、翻鬆餅、服務飢餓的顧客，在這個有趣且引人入勝的餐廳模擬遊戲中。對於商業遊戲的粉絲來說，爸爸的鬆餅店以其迷人的視覺效果和令人上癮的遊戲玩法提供愉悅的體驗。現在開始翻鬆餅，看看你是否能讓你的顧客滿意！",
+    "Loading": {
+      "title": "正在載入爸爸的鬆餅店..."
+    },
+    "Navbar": {
+      "title": "導覽列"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "爸爸的鬆餅店™",
+      "description": "掌控爸爸路易的鬆餅店，並在這個有趣且引人入勝的餐廳模擬遊戲中向飢餓的顧客提供美味的鬆餅。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "遊戲開始"
+    },
+    "HomeFeatures": {
+      "gameTitle": "爸爸的鬆餅店™",
+      "whatIsTitle": "什麼是爸爸的鬆餅店？",
+      "whatIsDescription": "爸爸的鬆餅店是一款餐廳經營遊戲，讓你掌控爸爸路易的鬆餅店。處理訂單、倒麵糊、翻鬆餅，並服務飢餓的顧客。",
+      "howToPlayTitle": "如何玩遊戲",
+      "howToPlayStep1": "從顧客那裡接受訂單並記下他們的偏好。",
+      "howToPlayStep2": "將麵糊倒在煎鍋上並把鬆餅翻到完美。",
+      "howToPlayStep3": "將鬆餅熱騰騰地端上桌，並確保顧客滿意。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "餐廳管理",
+      "feature1Description": "管理爸爸路易鬆餅店的各個方面，從接受訂單到服務顧客。",
+      "feature2Title": "具有挑戰性的遊戲玩法",
+      "feature2Description": "跟上顧客需求，並迅速服務鬆餅以獲得高分。",
+      "feature3Title": "引人入勝的視覺效果",
+      "feature3Description": "享受引人入勝且色彩繽紛的視覺效果，讓爸爸的鬆餅店栩栩如生。",
+      "feature4Title": "令人上癮的樂趣",
+      "feature4Description": "體驗令人上癮的遊戲玩法，讓你一次又一次地回歸，享受更多翻鬆餅的樂趣。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "檢視更多",
+      "page": "頁面"
+    }
+  }
+}

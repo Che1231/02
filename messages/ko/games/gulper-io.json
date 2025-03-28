@@ -1,0 +1,77 @@
+{
+  "gulper-io": {
+    "title": "온라인 굴퍼.io 플레이 - 무료 멀티플레이어 뱀 전투 게임",
+    "slogan": "굴퍼.io의 매혹적인 세계에 몰입하세요",
+    "description": "굴퍼.io는 흥미진진한 온라인 뱀 게임으로, 다른 플레이어들과 짜릿한 멀티플레이어 전투 아레나에서 경쟁합니다. 웜을 제어하고 반짝이는 조각을 탐식하여 더 커지며 전략적으로 라이벌을 제거하세요. 오늘 굴퍼.io의 흥분을 경험하고 전투에 참여하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "내용",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "굴퍼.io",
+      "description": "멀티플레이어 아레나에서 웜을 제어하고 조각을 먹어 키우며 라이벌을 제치고 최고의 웜이 되는 굴퍼.io의 액션이 가득한 세계로 뛰어드세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "굴퍼.io - 최고의 뱀 전투 게임",
+      "whatIsTitle": "굴퍼.io는 무엇인가요?",
+      "whatIsDescription": "굴퍼.io는 흥미진진한 온라인 멀티플레이어 뱀 게임으로, 웜을 제어하고 반짝이는 조각을 먹어 키우며 다른 플레이어와 전투 아레나에서 경쟁합니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "화살표 키 또는 마우스를 사용하여 웜을 제어하세요.",
+      "howToPlayStep2": "반짝이는 조각을 먹어 더 커지고 이점을 얻으세요.",
+      "howToPlayStep3": "전략적으로 라이벌 웜을 제거하여 아레나를 지배하세요.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "멀티플레이어 아레나",
+      "feature1Description": "전 세계 플레이어와 실시간으로 경쟁하세요.",
+      "feature2Title": "동적인 성장",
+      "feature2Description": "반짝이는 조각을 탐식하고 라이벌을 제치면서 웜을 키우세요.",
+      "feature3Title": "전략적인 게임 플레이",
+      "feature3Description": "전략을 사용하여 다른 웜을 제거하고 리더보드를 오르세요.",
+      "feature4Title": "몰입감 있는 시각 효과",
+      "feature4Description": "매 전투에서 생생한 그래픽과 부드러운 애니메이션을 즐기세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "swingo": {
+    "title": "Swingo: Juego de Aventura Física Online Gratis",
+    "slogan": "¡Sácate, navega y conquista en Swingo!",
+    "description": "¡Acepta un desafío de balanceo en Swingo! Usa cuerdas para navegar por niveles difíciles, esquiva peligros y colecciona monedas en esta aventura basada en la física. Controla un adorable personaje rebote con un gancho, y apunta a alimentarle con una deliciosa pera en cada nivel. Con siete mundos de complejidad creciente y una función de temporizador, ¿puedes convertirte en el ganador más rápido? Desbloquea personajes rebotones divertidos al conquistar niveles y disfruta de lanzamientos ilimitados del gancho. ¡Juega a Swingo ahora y experimenta la emoción!",
+    "Loading": {
+      "title": "Cargando Swingo..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Términos de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Swingo: Juego de Aventura Física Online Gratis",
+      "description": "¡Acepta un desafío de balanceo en Swingo! Usa cuerdas para navegar por niveles difíciles, esquiva peligros y colecciona monedas en esta aventura basada en la física. Controla un adorable personaje rebote con un gancho, y apunta a alimentarle con una deliciosa pera en cada nivel. Con siete mundos de complejidad creciente y una función de temporizador, ¿puedes convertirte en el ganador más rápido? Desbloquea personajes rebotones divertidos al conquistar niveles y disfruta de lanzamientos ilimitados del gancho. ¡Juega a Swingo ahora y experimenta la emoción!",
+      "iframeTitle": "Vista Previa del Juego",
+      "fullscreenButton": "Pantalla Completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar Juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Swingo: Juego de Aventura Física Online Gratis",
+      "whatIsTitle": "¿Qué es Swingo?",
+      "whatIsDescription": "Swingo es un juego de aventura basado en la física donde controlas un adorable personaje rebote usando un gancho. Navega por niveles difíciles, esquiva peligros y colecciona monedas para alimentar al personaje con una deliciosa pera. Con siete mundos de complejidad creciente y una función de temporizador, Swingo ofrece un emocionante desafío para jugadores de todas las edades.",
+      "howToPlayTitle": "Cómo Jugar",
+      "howToPlayStep1": "Usa el ratón o el teclado para controlar al personaje.",
+      "howToPlayStep2": "Ajusta la dirección del gancho y suéltalo para balancearte.",
+      "howToPlayStep3": "Recoge monedas y apunta a alimentar al personaje con una pera en cada nivel.",
+      "keyFeaturesTitle": "Características Clave",
+      "feature1Title": "Jugabilidad Basada en la Física",
+      "feature1Description": "Experimenta la física realista mientras te balanceas por los niveles con un gancho.",
+      "feature2Title": "Siete Mundos",
+      "feature2Description": "Explora siete mundos cada vez más complejos, cada uno con desafíos únicos.",
+      "feature3Title": "Función de Temporizador",
+      "feature3Description": "Compite contra el reloj para ser el ganador más rápido.",
+      "feature4Title": "Personajes Desbloqueables",
+      "feature4Description": "Conquista niveles para desbloquear personajes rebotones divertidos como compañeros."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas Frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del Juego"
+    },
+    "GamePage": {
+      "title": "Todos los Juegos",
+      "description": "Todos los Juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver Más",
+      "page": "Página"
+    }
+  }
+}

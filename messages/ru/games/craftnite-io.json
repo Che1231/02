@@ -1,0 +1,77 @@
+{
+  "craftnite-io": {
+    "title": "Играйте в Craftnite.io онлайн — бесплатный кроссовер Minecraft и Fortnite",
+    "slogan": "Почувствуйте экстремальный кроссовер Minecraft и Fortnite",
+    "description": "Craftnite.io объединяет лучшие аспекты Minecraft и Fortnite в динамичном шутере от первого лица. Погрузитесь в знакомую вселенную Minecraft, участвуйте в захватывающих битвах в режиме королевской битвы и стремитесь к вершине таблицы лидеров. Присоединяйтесь к веселью и играйте в Craftnite.io прямо сейчас!",
+    "Loading": {
+      "title": "Загрузка..."
+    },
+    "Navbar": {
+      "title": "Навигация"
+    },
+    "Common": {
+      "createAt": "Создано",
+      "guide": "Руководство",
+      "privacyPolicy": "Политика конфиденциальности",
+      "termsOfServices": "Условия использования",
+      "text": "Содержание",
+      "help": "Помощь",
+      "friendlyLinks": "Полезные ссылки",
+      "articleList": "Список статей",
+      "home": "Главная",
+      "next": "Далее",
+      "previous": "Предыдущая"
+    },
+    "HomeIframe": {
+      "title": "Craftnite.io — игра-кроссовер ultimate",
+      "description": "Опыт лучших моментов Minecraft и Fortnite в одной игре. Играйте в Craftnite.io прямо сейчас и доминируйте в таблице лидеров!",
+      "iframeTitle": "Предварительный просмотр игры",
+      "fullscreenButton": "Полноэкранный режим",
+      "shareButton": "Поделиться",
+      "urlCopied": "Ссылка скопирована в буфер обмена!",
+      "downloadGame": "Скачать игру",
+      "playGame": "Играть"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Craftnite.io — игра-кроссовер ultimate",
+      "whatIsTitle": "Что такое Craftnite.io?",
+      "whatIsDescription": "Craftnite.io — динамичная игра, которая объединяет лучшие аспекты Minecraft и Fortnite. Погрузитесь в опыт шутера от первого лица в знакомой вселенной Minecraft.",
+      "howToPlayTitle": "Как играть",
+      "howToPlayStep1": "Присоединяйтесь к битве в режиме королевской битвы и устраняйте противников.",
+      "howToPlayStep2": "Используйте свои навыки, чтобы выжить и подняться в таблице лидеров.",
+      "howToPlayStep3": "Стремитесь к вершине и одержите победу!",
+      "keyFeaturesTitle": "Ключевые особенности",
+      "feature1Title": "Знакомая вселенная Minecraft",
+      "feature1Description": "Исследуйте знакомый и обширный мир Minecraft по-новому.",
+      "feature2Title": "Захватывающие битвы в режиме королевской битвы",
+      "feature2Description": "Участвуйте в захватывающих битвах с игроками со всего мира.",
+      "feature3Title": "Шутер от первого лица",
+      "feature3Description": "Почувствуйте игру с точки зрения первого лица для максимального погружения.",
+      "feature4Title": "Соревнование в таблице лидеров",
+      "feature4Description": "Соревнуйтесь, чтобы стать лучшим и занять первое место в таблице лидеров."
+    },
+    "HomeFAQs": {
+      "title": "Часто задаваемые вопросы"
+    },
+    "HomeRelatedVideo": {
+      "title": "Видео игры"
+    },
+    "HomeRecommendation": {
+      "title": "Рекомендации"
+    },
+    "HomeComments": {
+      "title": "Комментарии к игре"
+    },
+    "GamePage": {
+      "title": "Все игры",
+      "description": "Все игры",
+      "games": "Игры"
+    },
+    "CategoryPage": {
+      "categories": "Категории",
+      "noCategories": "Категории не найдены",
+      "viewMore": "Показать больше",
+      "page": "Страница"
+    }
+  }
+}

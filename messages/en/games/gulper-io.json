@@ -1,0 +1,77 @@
+{
+  "gulper-io": {
+    "title": "Play Gulper.io Online - Free Multiplayer Snake Battle Game",
+    "slogan": "Immerse yourself in the captivating world of Gulper.io",
+    "description": "Gulper.io is an exhilarating online snake game where you compete against other players in a thrilling multiplayer battle arena. Control your worm, devour shiny fragments to grow larger, and strategically eliminate rivals. Experience the excitement of Gulper.io today and join the battle!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Gulper.io",
+      "description": "Dive into the action-packed world of Gulper.io, where you control a worm and compete in a multiplayer arena. Grow by devouring fragments and outmaneuver your rivals to become the top worm!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Gulper.io - The Ultimate Snake Battle Game",
+      "whatIsTitle": "What is Gulper.io?",
+      "whatIsDescription": "Gulper.io is a thrilling online multiplayer snake game where you control a worm, grow by eating shiny fragments, and compete against other players in a battle arena.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Control your worm using the arrow keys or mouse.",
+      "howToPlayStep2": "Eat shiny fragments to grow larger and gain an advantage.",
+      "howToPlayStep3": "Strategically eliminate rival worms to dominate the arena.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Multiplayer Arena",
+      "feature1Description": "Compete against players from around the world in real-time.",
+      "feature2Title": "Dynamic Growth",
+      "feature2Description": "Grow your worm by devouring shiny fragments and outmaneuver your rivals.",
+      "feature3Title": "Strategic Gameplay",
+      "feature3Description": "Use tactics to eliminate other worms and climb the leaderboard.",
+      "feature4Title": "Engaging Visuals",
+      "feature4Description": "Enjoy vibrant graphics and smooth animations in every battle."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

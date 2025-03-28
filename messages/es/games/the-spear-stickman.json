@@ -1,0 +1,77 @@
+{
+  "the-spear-stickman": {
+    "title": "El Stickman de la Lanza - Juego de Stickman de Precisión y Reflejos",
+    "slogan": "¡Esquiva, lanza y domina en este enfrentamiento de stickman extremo!",
+    "description": "El Stickman de la Lanza se centra en la precisión y los reflejos. Experimenta la emoción de convertirte en un guerrero medieval, esquivando ataques y lanzando lanzas para derrotar a tus enemigos. Cada duelo es un desafío tenso pero emocionante. Ponte el casco, coge tus dardos y comienza la batalla ahora mismo!",
+    "Loading": {
+      "title": "Cargando El Stickman de la Lanza..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Condiciones de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "El Stickman de la Lanza - Juego Online Gratis",
+      "description": "Juega a El Stickman de la Lanza, un emocionante juego de stickman medieval. Esquiva, lanza y domina a tus enemigos en esta batalla de precisión!",
+      "iframeTitle": "Vista Previa del Juego",
+      "fullscreenButton": "Pantalla Completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar Juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "El Stickman de la Lanza",
+      "whatIsTitle": "¿Qué es El Stickman de la Lanza?",
+      "whatIsDescription": "El Stickman de la Lanza es un juego de stickman basado en la precisión donde esquivas, lanzas y dominas en intensos duelos medievales.",
+      "howToPlayTitle": "Cómo Jugar",
+      "howToPlayStep1": "Esquiva los ataques entrantes de tus enemigos.",
+      "howToPlayStep2": "Lanza tus lanzas con precisión para derrotar a tus oponentes.",
+      "howToPlayStep3": "Domina el campo de batalla y conviértete en el guerrero definitivo.",
+      "keyFeaturesTitle": "Características Clave",
+      "feature1Title": "Jugabilidad de Precisión",
+      "feature1Description": "Domina el arte de lanzar lanzas con precisión milimétrica.",
+      "feature2Title": "Desafíos de Reflejos",
+      "feature2Description": "Prueba tus reflejos esquivando los ataques enemigos.",
+      "feature3Title": "Duelos Medievales",
+      "feature3Description": "Participa en emocionantes batallas de stickman uno contra uno.",
+      "feature4Title": "Acción Ininterrumpida",
+      "feature4Description": "Experimenta una jugabilidad continua y llena de adrenalina."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas Frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo del Juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del Juego"
+    },
+    "GamePage": {
+      "title": "Todos los Juegos",
+      "description": "Todos los Juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver Más",
+      "page": "Página"
+    }
+  }
+}

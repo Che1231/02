@@ -1,0 +1,1 @@
+Get ready to have a blast in Papa's Pancakeria! In this game, Papa Louie has left you in charge of the store. It's your job to handle every aspect of the restaurant. Take orders, pour batter, flip pancakes, and serve them hot to hungry customers. This enjoyable and visually appealing game is perfect for anyone who loves business games.

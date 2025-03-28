@@ -1,0 +1,77 @@
+{
+  "build-royale": {
+    "title": "ビルド・ロイヤル：無料オンラインバトルロワイヤゲーム",
+    "slogan": "構築、戦い、征服",
+    "description": "ビルド・ロイヤルは、スリリングな2Dトップダウンバトルロワイヤ体験を提供します。広大なマップを探索し、資源を集め、対戦相手を打ち負かすための防衛を構築します。激しい戦闘と戦略的な建造により、ビルド・ロイヤルは無限の楽しみを提供します。今すぐビルド・ロイヤルをプレイして勝利を掴みましょう！",
+    "Loading": {
+      "title": "ビルド・ロイヤルを読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情のリンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "ビルド・ロイヤル™",
+      "description": "ビルド・ロイヤルで防御を構築し、対戦相手と衝突する中で、スリリングなバトルロワイヤ体験に参加します。広大なマップを探索し、武器を見つけ、資源を集めて敵を打ち負かしましょう。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ビルド・ロイヤル",
+      "whatIsTitle": "ビルド・ロイヤルとは？",
+      "whatIsDescription": "ビルド・ロイヤルは、プレイヤーが防衛を構築し、資源を集め、対戦相手と戦い、最後の1人になる2Dトップダウンバトルロワイヤゲームです。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "武器と資源を見つけるためにマップを探索します。",
+      "howToPlayStep2": "対戦相手から身を守るために防御を構築します。",
+      "howToPlayStep3": "他のプレイヤーを倒して勝利を勝ち取ります。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "戦略的な建造",
+      "feature1Description": "対戦相手を出し抜くために防御を構築します。",
+      "feature2Title": "激しい戦闘",
+      "feature2Description": "生き残るために、速いペースの戦闘に参加します。",
+      "feature3Title": "広大なマップ",
+      "feature3Description": "資源と挑戦に満ちた広大な世界を探索します。",
+      "feature4Title": "資源の収集",
+      "feature4Description": "あなたの立場を強化するために材料を集めます。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

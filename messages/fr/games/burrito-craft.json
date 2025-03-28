@@ -1,0 +1,77 @@
+{
+  "burrito-craft": {
+    "title": "Burrito Craft : Construisez, explorez et créez votre monde bloc par bloc",
+    "slogan": "Forgez votre chemin dans une aventure sandbox unique",
+    "description": "Dans Burrito Craft, le monde bloc est votre toile. Construisez, explorez ou détendez-vous – le choix vous appartient ! Commencez par des projets simples et construisez progressivement votre propre empire. Choisissez parmi des personnages familiers et plongez dans un gameplay créatif ou de survie. Burrito Craft offre d'innombrables possibilités de découverte et de création. Commencez votre aventure dès aujourd'hui !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Burrito Craft : Construisez et explorez votre monde",
+      "description": "Dans Burrito Craft, le monde bloc est votre toile. Construisez, explorez ou détendez-vous – le choix vous appartient ! Commencez par des projets simples et construisez progressivement votre propre empire. Choisissez parmi des personnages familiers et plongez dans un gameplay créatif ou de survie. Burrito Craft offre d'innombrables possibilités de découverte et de création. Commencez votre aventure dès aujourd'hui !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Burrito Craft : Construire, explorer et créer",
+      "whatIsTitle": "Qu'est-ce que Burrito Craft ?",
+      "whatIsDescription": "Burrito Craft est une combinaison unique de Minecraft avec l'ajout de personnages familiers de Five Nights at Freddy's. Avec un gameplay constructif et créatif, le monde sandbox signature vous accueille avec des expériences infinies. Il n'y a aucune limite à vos découvertes et créations.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Déplacez la souris pour regarder autour de vous et utilisez les flèches directionnelles pour vous déplacer.",
+      "howToPlayStep2": "Cliquez avec le bouton gauche de la souris pour casser un bloc et avec le bouton droit pour ajouter des objets.",
+      "howToPlayStep3": "Appuyez sur la touche E pour ouvrir l'inventaire et sélectionner des objets à utiliser.",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Construction créative",
+      "feature1Description": "Exprimez librement votre créativité dans ce monde bloc.",
+      "feature2Title": "Gameplay survie",
+      "feature2Description": "Protégez votre territoire en jeu dans une bataille de survie.",
+      "feature3Title": "Matériaux divers",
+      "feature3Description": "Utilisez une variété de matériaux pour créer des projets avec des structures différentes.",
+      "feature4Title": "Modes de jeu uniques",
+      "feature4Description": "Choisissez entre les modes créatif et survie pour des aventures uniques."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}
