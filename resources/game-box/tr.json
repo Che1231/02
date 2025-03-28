@@ -1,5 +1,31 @@
 {
-  "recommended": [],
+  "recommended": [
+    {
+      "visible": true,
+      "url": "/games/terraria",
+      "position": 1
+    },
+    {
+      "visible": true,
+      "url": "/games/x-trench-run",
+      "position": 2
+    },
+    {
+      "visible": true,
+      "url": "/games/fnf-vs-touhou",
+      "position": 3
+    },
+    {
+      "visible": true,
+      "url": "/games/recoil",
+      "position": 4
+    },
+    {
+      "visible": true,
+      "url": "/games/tower-of-destiny",
+      "position": 5
+    }
+  ],
   "categories": [
     {
       "name": "Öne çıkan Oyunlar",
@@ -11,23 +37,23 @@
       "description": "Sizin için en iyi oyunları seçtik!"
     },
     {
-      "name": "Arcade Oyunları",
+      "name": "Salon Oyunları",
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
-      "displayStyle": "horizontal",
+      "displayStyle": "vertical",
       "icon": "",
-      "description": "Heyecan verici arcade oyunları!",
+      "description": "Heyecan verici salon oyunları!",
       "position": 2
     },
     {
-      "name": "Aksiyon Oyunları",
+      "name": "Eylem Oyunları",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
-      "displayStyle": "horizontal",
+      "displayStyle": "vertical",
       "icon": "",
-      "description": "Heyecan verici aksiyon oyunları!",
+      "description": "Heyecan verici eylem oyunları!",
       "position": 3
     },
     {
@@ -61,14 +87,14 @@
       "description": "Heyecan verici .IO oyunları!"
     },
     {
-      "name": "Casual Oyunlar",
+      "name": "Hafif Oyunlar",
       "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 7,
-      "description": "Heyecan verici casual oyunlar!"
+      "description": "Heyecan verici hafif oyunlar!"
     },
     {
       "name": "Bulmaca Oyunları",
@@ -91,14 +117,14 @@
       "description": "Heyecan verici Yarış ve Sürüş oyunları!"
     },
     {
-      "name": "3D Oyunlar",
+      "name": "3B Oyunlar",
       "path": "/c/3d-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 10,
-      "description": "Heyecan verici 3D oyunlar!"
+      "description": "Heyecan verici 3B oyunlar!"
     },
     {
       "name": "Spor Oyunları",

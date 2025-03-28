@@ -1,5 +1,31 @@
 {
-  "recommended": [],
+  "recommended": [
+    {
+      "visible": true,
+      "url": "/games/terraria",
+      "position": 1
+    },
+    {
+      "visible": true,
+      "url": "/games/x-trench-run",
+      "position": 2
+    },
+    {
+      "visible": true,
+      "url": "/games/fnf-vs-touhou",
+      "position": 3
+    },
+    {
+      "visible": true,
+      "url": "/games/recoil",
+      "position": 4
+    },
+    {
+      "visible": true,
+      "url": "/games/tower-of-destiny",
+      "position": 5
+    }
+  ],
   "categories": [
     {
       "name": "Juegos Destacados",
@@ -15,9 +41,9 @@
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
-      "displayStyle": "horizontal",
+      "displayStyle": "vertical",
       "icon": "",
-      "description": "¡Emocionantes juegos de arcade!",
+      "description": "¡Juegos de arcade emocionantes!",
       "position": 2
     },
     {
@@ -25,9 +51,9 @@
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
-      "displayStyle": "horizontal",
+      "displayStyle": "vertical",
       "icon": "",
-      "description": "¡Emocionantes juegos de acción!",
+      "description": "¡Juegos de acción emocionantes!",
       "position": 3
     },
     {
@@ -38,7 +64,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 4,
-      "description": "¡Emocionantes juegos de aventura!"
+      "description": "¡Juegos de aventura emocionantes!"
     },
     {
       "name": "Juegos de Wordleverse",
@@ -48,7 +74,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 5,
-      "description": "¡Emocionantes juegos de wordleverse!"
+      "description": "¡Juegos emocionantes de Wordleverse!"
     },
     {
       "name": "Juegos .IO",
@@ -58,7 +84,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 6,
-      "description": "¡Emocionantes juegos .IO!"
+      "description": "¡Juegos .IO emocionantes!"
     },
     {
       "name": "Juegos Casuales",
@@ -68,7 +94,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 7,
-      "description": "¡Emocionantes juegos casuales!"
+      "description": "¡Juegos casuales emocionantes!"
     },
     {
       "name": "Juegos de Rompecabezas",
@@ -78,17 +104,17 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 8,
-      "description": "¡Emocionantes juegos de rompecabezas!"
+      "description": "¡Juegos de rompecabezas emocionantes!"
     },
     {
-      "name": "Juegos de Carreras y Conductores",
+      "name": "Juegos de Carreras y Conduccion",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 9,
-      "description": "¡Emocionantes juegos de carreras y conducción!"
+      "description": "¡Juegos de carreras y conducción emocionantes!"
     },
     {
       "name": "Juegos 3D",
@@ -98,7 +124,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 10,
-      "description": "¡Emocionantes juegos 3D!"
+      "description": "¡Juegos 3D emocionantes!"
     },
     {
       "name": "Juegos Deportivos",
@@ -108,7 +134,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 11,
-      "description": "¡Emocionantes juegos deportivos!"
+      "description": "¡Juegos deportivos emocionantes!"
     }
   ]
 }

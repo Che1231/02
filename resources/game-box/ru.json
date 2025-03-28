@@ -1,5 +1,31 @@
 {
-  "recommended": [],
+  "recommended": [
+    {
+      "visible": true,
+      "url": "/games/terraria",
+      "position": 1
+    },
+    {
+      "visible": true,
+      "url": "/games/x-trench-run",
+      "position": 2
+    },
+    {
+      "visible": true,
+      "url": "/games/fnf-vs-touhou",
+      "position": 3
+    },
+    {
+      "visible": true,
+      "url": "/games/recoil",
+      "position": 4
+    },
+    {
+      "visible": true,
+      "url": "/games/tower-of-destiny",
+      "position": 5
+    }
+  ],
   "categories": [
     {
       "name": "Рекомендуемые игры",
@@ -11,34 +37,34 @@
       "description": "Мы отобрали для вас лучшие игры!"
     },
     {
-      "name": "Игры аркады",
+      "name": "Аркадные игры",
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
-      "displayStyle": "horizontal",
+      "displayStyle": "vertical",
       "icon": "",
-      "description": "Захватывающие игры аркады!",
+      "description": "Захватывающие аркадные игры!",
       "position": 2
     },
     {
-      "name": "Игры экшен",
+      "name": "Экшн-игры",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
-      "displayStyle": "horizontal",
+      "displayStyle": "vertical",
       "icon": "",
-      "description": "Захватывающие игры экшен!",
+      "description": "Захватывающие экшн-игры!",
       "position": 3
     },
     {
-      "name": "Игры приключения",
+      "name": "Игры-приключения",
       "path": "/c/adventure-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 4,
-      "description": "Захватывающие игры приключения!"
+      "description": "Захватывающие игры-приключения!"
     },
     {
       "name": "Игры Wordleverse",
@@ -61,14 +87,14 @@
       "description": "Захватывающие игры .IO!"
     },
     {
-      "name": "Лёгкие игры",
+      "name": "Несложные игры",
       "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 7,
-      "description": "Захватывающие лёгкие игры!"
+      "description": "Захватывающие несложные игры!"
     },
     {
       "name": "Головоломки",
@@ -78,30 +104,30 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 8,
-      "description": "Захватывающие головоломки!"
+      "description": "Захватывающие игры-головоломки!"
     },
     {
-      "name": "Гонки и вождения",
+      "name": "Гонки и вождение",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 9,
-      "description": "Захватывающие гонки и вождения!"
+      "description": "Захватывающие гонки и игры на вождение!"
     },
     {
-      "name": "3D игры",
+      "name": "3D-игры",
       "path": "/c/3d-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 10,
-      "description": "Захватывающие 3D игры!"
+      "description": "Захватывающие 3D-игры!"
     },
     {
-      "name": "Игры Спорт",
+      "name": "Спортивные игры",
       "path": "/c/sports-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",

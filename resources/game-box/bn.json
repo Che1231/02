@@ -1,21 +1,47 @@
 {
-  "recommended": [],
+  "recommended": [
+    {
+      "visible": true,
+      "url": "/games/terraria",
+      "position": 1
+    },
+    {
+      "visible": true,
+      "url": "/games/x-trench-run",
+      "position": 2
+    },
+    {
+      "visible": true,
+      "url": "/games/fnf-vs-touhou",
+      "position": 3
+    },
+    {
+      "visible": true,
+      "url": "/games/recoil",
+      "position": 4
+    },
+    {
+      "visible": true,
+      "url": "/games/tower-of-destiny",
+      "position": 5
+    }
+  ],
   "categories": [
     {
-      "name": "হাইলাইট করা গেমস",
+      "name": "বৈশিষ্ট্যযুক্ত গেমস",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "",
-      "description": "আপনার জন্য আমরা সেরা গেমস নির্বাচন করেছি!"
+      "description": "আমরা আপনার জন্য সেরা গেমস নির্বাচন করেছি!"
     },
     {
       "name": "আর্কেড গেমস",
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
-      "displayStyle": "horizontal",
+      "displayStyle": "vertical",
       "icon": "",
       "description": "উত্তেজনাপূর্ণ আর্কেড গেমস!",
       "position": 2
@@ -25,7 +51,7 @@
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
-      "displayStyle": "horizontal",
+      "displayStyle": "vertical",
       "icon": "",
       "description": "উত্তেজনাপূর্ণ অ্যাকশন গেমস!",
       "position": 3
@@ -61,24 +87,24 @@
       "description": "উত্তেজনাপূর্ণ .IO গেমস!"
     },
     {
-      "name": "আনুষ্ঠানিক গেমস",
+      "name": "সাধারণ গেমস",
       "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 7,
-      "description": "উত্তেজনাপূর্ণ আনুষ্ঠানিক গেমস!"
+      "description": "উত্তেজনাপূর্ণ সাধারণ গেমস!"
     },
     {
-      "name": "পাজেল গেমস",
+      "name": "পাজল গেমস",
       "path": "/c/puzzle-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 8,
-      "description": "উত্তেজনাপূর্ণ পাজেল গেমস!"
+      "description": "উত্তেজনাপূর্ণ পাজল গেমস!"
     },
     {
       "name": "রেসিং ও ড্রাইভিং",

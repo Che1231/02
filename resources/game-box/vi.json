@@ -1,21 +1,47 @@
 {
-  "recommended": [],
+  "recommended": [
+    {
+      "visible": true,
+      "url": "/games/terraria",
+      "position": 1
+    },
+    {
+      "visible": true,
+      "url": "/games/x-trench-run",
+      "position": 2
+    },
+    {
+      "visible": true,
+      "url": "/games/fnf-vs-touhou",
+      "position": 3
+    },
+    {
+      "visible": true,
+      "url": "/games/recoil",
+      "position": 4
+    },
+    {
+      "visible": true,
+      "url": "/games/tower-of-destiny",
+      "position": 5
+    }
+  ],
   "categories": [
     {
-      "name": "Các trò chơi được đề xuất",
+      "name": "Trò chơi được đề xuất",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "",
-      "description": "Chúng tôi đã chọn những trò chơi hay nhất cho bạn!"
+      "description": "Chúng tôi đã chọn những trò chơi tốt nhất cho bạn!"
     },
     {
       "name": "Trò chơi Arcade",
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
-      "displayStyle": "horizontal",
+      "displayStyle": "vertical",
       "icon": "",
       "description": "Những trò chơi arcade thú vị!",
       "position": 2
@@ -25,7 +51,7 @@
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
-      "displayStyle": "horizontal",
+      "displayStyle": "vertical",
       "icon": "",
       "description": "Những trò chơi hành động thú vị!",
       "position": 3
@@ -61,24 +87,24 @@
       "description": "Những trò chơi .IO thú vị!"
     },
     {
-      "name": "Trò chơi Casual",
+      "name": "Trò chơi giải trí",
       "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 7,
-      "description": "Những trò chơi Casual thú vị!"
+      "description": "Những trò chơi giải trí thú vị!"
     },
     {
-      "name": "Trò chơi Puzzle",
+      "name": "Trò chơi đố",
       "path": "/c/puzzle-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 8,
-      "description": "Những trò chơi Puzzle thú vị!"
+      "description": "Những trò chơi đố thú vị!"
     },
     {
       "name": "Trò chơi đua xe & lái xe",

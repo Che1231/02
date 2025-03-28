@@ -1,5 +1,31 @@
 {
-  "recommended": [],
+  "recommended": [
+    {
+      "visible": true,
+      "url": "/games/terraria",
+      "position": 1
+    },
+    {
+      "visible": true,
+      "url": "/games/x-trench-run",
+      "position": 2
+    },
+    {
+      "visible": true,
+      "url": "/games/fnf-vs-touhou",
+      "position": 3
+    },
+    {
+      "visible": true,
+      "url": "/games/recoil",
+      "position": 4
+    },
+    {
+      "visible": true,
+      "url": "/games/tower-of-destiny",
+      "position": 5
+    }
+  ],
   "categories": [
     {
       "name": "精选游戏",
@@ -15,9 +41,9 @@
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
-      "displayStyle": "horizontal",
+      "displayStyle": "vertical",
       "icon": "",
-      "description": "激动人心的街机游戏！",
+      "description": "令人兴奋的街机游戏！",
       "position": 2
     },
     {
@@ -25,9 +51,9 @@
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
-      "displayStyle": "horizontal",
+      "displayStyle": "vertical",
       "icon": "",
-      "description": "激动人心的动作游戏！",
+      "description": "令人兴奋的动作游戏！",
       "position": 3
     },
     {
@@ -38,27 +64,27 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 4,
-      "description": "激动人心的冒险游戏！"
+      "description": "令人兴奋的冒险游戏！"
     },
     {
-      "name": "Wordleverse 游戏",
+      "name": "Wordleverse游戏",
       "path": "/c/wordleverse-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 5,
-      "description": "激动人心的 Wordleverse 游戏！"
+      "description": "令人兴奋的Wordleverse游戏！"
     },
     {
-      "name": ".IO 游戏",
+      "name": ".IO游戏",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 6,
-      "description": "激动人心的 .IO 游戏！"
+      "description": "令人兴奋的.IO游戏！"
     },
     {
       "name": "休闲游戏",
@@ -68,7 +94,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 7,
-      "description": "激动人心的休闲游戏！"
+      "description": "令人兴奋的休闲游戏！"
     },
     {
       "name": "益智游戏",
@@ -78,7 +104,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 8,
-      "description": "激动人心的益智游戏！"
+      "description": "令人兴奋的益智游戏！"
     },
     {
       "name": "赛车与驾驶",
@@ -88,17 +114,17 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 9,
-      "description": "激动人心的赛车与驾驶游戏！"
+      "description": "令人兴奋的赛车与驾驶游戏！"
     },
     {
-      "name": "3D 游戏",
+      "name": "3D游戏",
       "path": "/c/3d-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 10,
-      "description": "激动人心的 3D 游戏！"
+      "description": "令人兴奋的3D游戏！"
     },
     {
       "name": "体育游戏",
@@ -108,7 +134,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 11,
-      "description": "激动人心的体育游戏！"
+      "description": "令人兴奋的体育游戏！"
     }
   ]
 }

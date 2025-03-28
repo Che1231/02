@@ -1,5 +1,31 @@
 {
-  "recommended": [],
+  "recommended": [
+    {
+      "visible": true,
+      "url": "/games/terraria",
+      "position": 1
+    },
+    {
+      "visible": true,
+      "url": "/games/x-trench-run",
+      "position": 2
+    },
+    {
+      "visible": true,
+      "url": "/games/fnf-vs-touhou",
+      "position": 3
+    },
+    {
+      "visible": true,
+      "url": "/games/recoil",
+      "position": 4
+    },
+    {
+      "visible": true,
+      "url": "/games/tower-of-destiny",
+      "position": 5
+    }
+  ],
   "categories": [
     {
       "name": "Виділені ігри",
@@ -8,37 +34,37 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "",
-      "description": "Ми вибрали для вас найкращі ігри!"
+      "description": "Ми підібрали для вас найкращі ігри!"
     },
     {
       "name": "Аркадні ігри",
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
-      "displayStyle": "horizontal",
+      "displayStyle": "vertical",
       "icon": "",
       "description": "Захоплюючі аркадні ігри!",
       "position": 2
     },
     {
-      "name": "Ігри в дії",
+      "name": "Ігри дії",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
-      "displayStyle": "horizontal",
+      "displayStyle": "vertical",
       "icon": "",
-      "description": "Захоплюючі ігри в дії!",
+      "description": "Захоплюючі ігри дії!",
       "position": 3
     },
     {
-      "name": "Ігри-пригоди",
+      "name": "Ігри пригод",
       "path": "/c/adventure-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 4,
-      "description": "Захоплюючі ігри-пригоди!"
+      "description": "Захоплюючі ігри пригод!"
     },
     {
       "name": "Ігри Wordleverse",
@@ -81,14 +107,14 @@
       "description": "Захоплюючі логічні ігри!"
     },
     {
-      "name": "Гоночні та ігри про водіння",
+      "name": "Гоночні та ігри про керування",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 9,
-      "description": "Захоплюючі гоночні та ігри про водіння!"
+      "description": "Захоплюючі гоночні та ігри про керування!"
     },
     {
       "name": "3D ігри",
@@ -101,14 +127,14 @@
       "description": "Захоплюючі 3D ігри!"
     },
     {
-      "name": "Ігри спортивного жанру",
+      "name": "Ігри спортивні",
       "path": "/c/sports-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 11,
-      "description": "Захоплюючі ігри спортивного жанру!"
+      "description": "Захоплюючі спортивні ігри!"
     }
   ]
 }

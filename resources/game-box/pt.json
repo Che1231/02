@@ -1,5 +1,31 @@
 {
-  "recommended": [],
+  "recommended": [
+    {
+      "visible": true,
+      "url": "/games/terraria",
+      "position": 1
+    },
+    {
+      "visible": true,
+      "url": "/games/x-trench-run",
+      "position": 2
+    },
+    {
+      "visible": true,
+      "url": "/games/fnf-vs-touhou",
+      "position": 3
+    },
+    {
+      "visible": true,
+      "url": "/games/recoil",
+      "position": 4
+    },
+    {
+      "visible": true,
+      "url": "/games/tower-of-destiny",
+      "position": 5
+    }
+  ],
   "categories": [
     {
       "name": "Jogos Destacados",
@@ -11,13 +37,13 @@
       "description": "Selecionámos os melhores jogos para si!"
     },
     {
-      "name": "Jogos Arcade",
+      "name": "Jogos de Arcade",
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
-      "displayStyle": "horizontal",
+      "displayStyle": "vertical",
       "icon": "",
-      "description": "Jogos arcade emocionantes!",
+      "description": "Jogos de arcade emocionantes!",
       "position": 2
     },
     {
@@ -25,7 +51,7 @@
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
-      "displayStyle": "horizontal",
+      "displayStyle": "vertical",
       "icon": "",
       "description": "Jogos de ação emocionantes!",
       "position": 3
@@ -71,14 +97,14 @@
       "description": "Jogos casuais emocionantes!"
     },
     {
-      "name": "Jogos de Quebra-Cabeças",
+      "name": "Jogos de Quebra-Cabeça",
       "path": "/c/puzzle-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 8,
-      "description": "Jogos de quebra-cabeças emocionantes!"
+      "description": "Jogos de quebra-cabeça emocionantes!"
     },
     {
       "name": "Jogos de Corrida e Condução",
@@ -101,14 +127,14 @@
       "description": "Jogos 3D emocionantes!"
     },
     {
-      "name": "Jogos Esportivos",
+      "name": "Jogos Desportivos",
       "path": "/c/sports-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 11,
-      "description": "Jogos esportivos emocionantes!"
+      "description": "Jogos desportivos emocionantes!"
     }
   ]
 }

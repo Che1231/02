@@ -1,5 +1,31 @@
 {
-  "recommended": [],
+  "recommended": [
+    {
+      "visible": true,
+      "url": "/games/terraria",
+      "position": 1
+    },
+    {
+      "visible": true,
+      "url": "/games/x-trench-run",
+      "position": 2
+    },
+    {
+      "visible": true,
+      "url": "/games/fnf-vs-touhou",
+      "position": 3
+    },
+    {
+      "visible": true,
+      "url": "/games/recoil",
+      "position": 4
+    },
+    {
+      "visible": true,
+      "url": "/games/tower-of-destiny",
+      "position": 5
+    }
+  ],
   "categories": [
     {
       "name": "เกมเด่น",
@@ -15,9 +41,9 @@
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
-      "displayStyle": "horizontal",
+      "displayStyle": "vertical",
       "icon": "",
-      "description": "เกมอาร์เคดสุดตื่นเต้น!",
+      "description": "เกมอาร์เคดที่น่าตื่นเต้น!",
       "position": 2
     },
     {
@@ -25,9 +51,9 @@
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
-      "displayStyle": "horizontal",
+      "displayStyle": "vertical",
       "icon": "",
-      "description": "เกมแอ็คชั่นสุดตื่นเต้น!",
+      "description": "เกมแอ็คชั่นที่น่าตื่นเต้น!",
       "position": 3
     },
     {
@@ -38,7 +64,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 4,
-      "description": "เกมผจญภัยสุดตื่นเต้น!"
+      "description": "เกมผจญภัยที่น่าตื่นเต้น!"
     },
     {
       "name": "เกม Wordleverse",
@@ -48,7 +74,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 5,
-      "description": "เกม Wordleverse สุดตื่นเต้น!"
+      "description": "เกม Wordleverse ที่น่าตื่นเต้น!"
     },
     {
       "name": "เกม .IO",
@@ -58,7 +84,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 6,
-      "description": "เกม .IO สุดตื่นเต้น!"
+      "description": "เกม .IO ที่น่าตื่นเต้น!"
     },
     {
       "name": "เกมสบายๆ",
@@ -68,7 +94,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 7,
-      "description": "เกมสบายๆ สุดตื่นเต้น!"
+      "description": "เกมสบายๆ ที่น่าตื่นเต้น!"
     },
     {
       "name": "เกมปริศนา",
@@ -78,17 +104,17 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 8,
-      "description": "เกมปริศนาสุดตื่นเต้น!"
+      "description": "เกมปริศนาที่น่าตื่นเต้น!"
     },
     {
-      "name": "เกมแข่งรถ และขับรถ",
+      "name": "เกมแข่งรถและขับขี่",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 9,
-      "description": "เกมแข่งรถและขับรถสุดตื่นเต้น!"
+      "description": "เกมแข่งรถและขับขี่ที่น่าตื่นเต้น!"
     },
     {
       "name": "เกม 3 มิติ",
@@ -98,7 +124,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 10,
-      "description": "เกม 3 มิติสุดตื่นเต้น!"
+      "description": "เกม 3 มิติที่น่าตื่นเต้น!"
     },
     {
       "name": "เกมกีฬา",
@@ -108,7 +134,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 11,
-      "description": "เกมกีฬาสุดตื่นเต้น!"
+      "description": "เกมกีฬาที่น่าตื่นเต้น!"
     }
   ]
 }

@@ -1,8 +1,34 @@
 {
-  "recommended": [],
+  "recommended": [
+    {
+      "visible": true,
+      "url": "/games/terraria",
+      "position": 1
+    },
+    {
+      "visible": true,
+      "url": "/games/x-trench-run",
+      "position": 2
+    },
+    {
+      "visible": true,
+      "url": "/games/fnf-vs-touhou",
+      "position": 3
+    },
+    {
+      "visible": true,
+      "url": "/games/recoil",
+      "position": 4
+    },
+    {
+      "visible": true,
+      "url": "/games/tower-of-destiny",
+      "position": 5
+    }
+  ],
   "categories": [
     {
-      "name": "Giochi in Evidenza",
+      "name": "Giochi in evidenza",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
@@ -15,30 +41,30 @@
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
-      "displayStyle": "horizontal",
+      "displayStyle": "vertical",
       "icon": "",
       "description": "Emozionanti giochi arcade!",
       "position": 2
     },
     {
-      "name": "Giochi d'Azione",
+      "name": "Giochi d'azione",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
-      "displayStyle": "horizontal",
+      "displayStyle": "vertical",
       "icon": "",
       "description": "Emozionanti giochi d'azione!",
       "position": 3
     },
     {
-      "name": "Giochi d'Avventura",
+      "name": "Giochi di avventura",
       "path": "/c/adventure-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 4,
-      "description": "Emozionanti giochi d'avventura!"
+      "description": "Emozionanti giochi di avventura!"
     },
     {
       "name": "Giochi Wordleverse",
@@ -68,7 +94,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 7,
-      "description": "Emozionanti giochi casuali!"
+      "description": "Emozionanti giochi casual!"
     },
     {
       "name": "Giochi di Puzzle",

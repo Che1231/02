@@ -1,5 +1,31 @@
 {
-  "recommended": [],
+  "recommended": [
+    {
+      "visible": true,
+      "url": "/games/terraria",
+      "position": 1
+    },
+    {
+      "visible": true,
+      "url": "/games/x-trench-run",
+      "position": 2
+    },
+    {
+      "visible": true,
+      "url": "/games/fnf-vs-touhou",
+      "position": 3
+    },
+    {
+      "visible": true,
+      "url": "/games/recoil",
+      "position": 4
+    },
+    {
+      "visible": true,
+      "url": "/games/tower-of-destiny",
+      "position": 5
+    }
+  ],
   "categories": [
     {
       "name": "Jogos em Destaque",
@@ -15,7 +41,7 @@
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
-      "displayStyle": "horizontal",
+      "displayStyle": "vertical",
       "icon": "",
       "description": "Jogos de arcade emocionantes!",
       "position": 2
@@ -25,7 +51,7 @@
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
-      "displayStyle": "horizontal",
+      "displayStyle": "vertical",
       "icon": "",
       "description": "Jogos de ação emocionantes!",
       "position": 3
@@ -48,7 +74,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 5,
-      "description": "Jogos wordleverse emocionantes!"
+      "description": "Jogos emocionantes Wordleverse!"
     },
     {
       "name": "Jogos .IO",
@@ -58,7 +84,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 6,
-      "description": "Jogos .IO emocionantes!"
+      "description": "Jogos emocionantes .IO!"
     },
     {
       "name": "Jogos Casuais",
@@ -71,14 +97,14 @@
       "description": "Jogos casuais emocionantes!"
     },
     {
-      "name": "Jogos de Puzzle",
+      "name": "Jogos de Quebra-Cabeça",
       "path": "/c/puzzle-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 8,
-      "description": "Jogos de quebra-cabeça emocionantes!"
+      "description": "Jogos emocionantes de quebra-cabeça!"
     },
     {
       "name": "Corrida e Dirigir",
@@ -88,7 +114,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 9,
-      "description": "Jogos de corrida e direção emocionantes!"
+      "description": "Jogos emocionantes de corrida e dirigir!"
     },
     {
       "name": "Jogos 3D",

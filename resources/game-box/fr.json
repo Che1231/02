@@ -1,8 +1,34 @@
 {
-  "recommended": [],
+  "recommended": [
+    {
+      "visible": true,
+      "url": "/games/terraria",
+      "position": 1
+    },
+    {
+      "visible": true,
+      "url": "/games/x-trench-run",
+      "position": 2
+    },
+    {
+      "visible": true,
+      "url": "/games/fnf-vs-touhou",
+      "position": 3
+    },
+    {
+      "visible": true,
+      "url": "/games/recoil",
+      "position": 4
+    },
+    {
+      "visible": true,
+      "url": "/games/tower-of-destiny",
+      "position": 5
+    }
+  ],
   "categories": [
     {
-      "name": "Jeux phares",
+      "name": "Jeux en vedette",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
@@ -11,13 +37,13 @@
       "description": "Nous avons sélectionné les meilleurs jeux pour vous !"
     },
     {
-      "name": "Jeux d'arcade",
+      "name": "Jeux Arcade",
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
-      "displayStyle": "horizontal",
+      "displayStyle": "vertical",
       "icon": "",
-      "description": "Des jeux d'arcade palpitants !",
+      "description": "Des jeux d'arcade passionnants !",
       "position": 2
     },
     {
@@ -25,7 +51,7 @@
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
-      "displayStyle": "horizontal",
+      "displayStyle": "vertical",
       "icon": "",
       "description": "Des jeux d'action palpitants !",
       "position": 3
@@ -38,7 +64,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 4,
-      "description": "Des jeux d'aventure palpitants !"
+      "description": "Des jeux d'aventure passionnants !"
     },
     {
       "name": "Jeux Wordleverse",
@@ -48,7 +74,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 5,
-      "description": "Des jeux Wordleverse palpitants !"
+      "description": "Des jeux Wordleverse passionnants !"
     },
     {
       "name": "Jeux .IO",
@@ -58,7 +84,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 6,
-      "description": "Des jeux .IO palpitants !"
+      "description": "Des jeux .IO passionnants !"
     },
     {
       "name": "Jeux décontractés",
@@ -68,17 +94,17 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 7,
-      "description": "Des jeux décontractés palpitants !"
+      "description": "Des jeux décontractés passionnants !"
     },
     {
-      "name": "Jeux de réflexion",
+      "name": "Jeux de puzzle",
       "path": "/c/puzzle-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "",
       "position": 8,
-      "description": "Des jeux de réflexion palpitants !"
+      "description": "Des jeux de puzzle passionnants !"
     },
     {
       "name": "Jeux de course et de conduite",
@@ -88,7 +114,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 9,
-      "description": "Des jeux de course et de conduite palpitants !"
+      "description": "Des jeux de course et de conduite passionnants !"
     },
     {
       "name": "Jeux 3D",
@@ -98,7 +124,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 10,
-      "description": "Des jeux 3D palpitants !"
+      "description": "Des jeux 3D passionnants !"
     },
     {
       "name": "Jeux sportifs",
@@ -108,7 +134,7 @@
       "displayStyle": "horizontal",
       "icon": "",
       "position": 11,
-      "description": "Des jeux sportifs palpitants !"
+      "description": "Des jeux sportifs passionnants !"
     }
   ]
 }
