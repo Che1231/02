@@ -58,17 +58,17 @@
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
-      "icon": "",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
       "description": "Мы отобрали для вас лучшие игры!"
     },
     {
-      "name": "Аркадные игры",
+      "name": "Игры аркады",
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
-      "icon": "",
-      "description": "Захватывающие аркадные игры!",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156326993-rske4c.png",
+      "description": "Захватывающие игры аркады!",
       "position": 2
     },
     {
@@ -77,7 +77,7 @@
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
-      "icon": "",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156394531-x0e51o.png",
       "description": "Захватывающие экшн-игры!",
       "position": 3
     },
@@ -87,7 +87,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
       "position": 4,
       "description": "Захватывающие игры-приключения!"
     },
@@ -97,7 +97,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
       "position": 5,
       "description": "Захватывающие игры Wordleverse!"
     },
@@ -107,7 +107,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
       "position": 6,
       "description": "Захватывающие игры .IO!"
     },
@@ -117,9 +117,9 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
       "position": 7,
-      "description": "Захватывающие головоломки!"
+      "description": "Захватывающие игры-головоломки!"
     },
     {
       "name": "Гонки и вождение",
@@ -127,29 +127,29 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 8,
-      "description": "Захватывающие гонки и игры для вождения!"
+      "description": "Захватывающие игры про гонки и вождение!"
     },
     {
-      "name": "Игры для приготовления пищи",
+      "name": "Кулинария",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
       "position": 9,
-      "description": "Захватывающие игры для приготовления пищи!"
+      "description": "Захватывающие кулинарные игры!"
     },
     {
-      "name": "Несложные игры",
+      "name": "Легкие игры",
       "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
       "position": 10,
-      "description": "Захватывающие несложные игры!"
+      "description": "Захватывающие легкие игры!"
     },
     {
       "name": "Спортивные игры",
@@ -157,7 +157,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
       "position": 11,
       "description": "Захватывающие спортивные игры!"
     },
@@ -167,7 +167,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156468798-xl6ktw.png",
       "position": 12,
       "description": "Захватывающие 3D-игры!"
     }

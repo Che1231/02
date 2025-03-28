@@ -58,7 +58,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
-      "icon": "",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
       "description": "Abbiamo selezionato i migliori giochi per te!"
     },
     {
@@ -67,7 +67,7 @@
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
-      "icon": "",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156326993-rske4c.png",
       "description": "Emozionanti giochi arcade!",
       "position": 2
     },
@@ -77,19 +77,19 @@
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
-      "icon": "",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156394531-x0e51o.png",
       "description": "Emozionanti giochi di azione!",
       "position": 3
     },
     {
-      "name": "Giochi d'avventura",
+      "name": "Giochi di avventura",
       "path": "/c/adventure-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
       "position": 4,
-      "description": "Emozionanti giochi d'avventura!"
+      "description": "Emozionanti giochi di avventura!"
     },
     {
       "name": "Giochi Wordleverse",
@@ -97,7 +97,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
       "position": 5,
       "description": "Emozionanti giochi Wordleverse!"
     },
@@ -107,7 +107,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
       "position": 6,
       "description": "Emozionanti giochi .IO!"
     },
@@ -117,9 +117,9 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
       "position": 7,
-      "description": "Emozionanti giochi di puzzle!"
+      "description": "Emozionanti giochi di Puzzle!"
     },
     {
       "name": "Giochi di corse e guida",
@@ -127,7 +127,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 8,
       "description": "Emozionanti giochi di corse e guida!"
     },
@@ -137,27 +137,27 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
       "position": 9,
-      "description": "Giochi di cucina emozionanti!"
+      "description": "Emozionanti giochi di cucina!"
     },
     {
-      "name": "Giochi casuali",
+      "name": "Giochi Casual",
       "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
       "position": 10,
-      "description": "Emozionanti giochi casuali!"
+      "description": "Emozionanti giochi casual!"
     },
     {
-      "name": "Giochi sportivi",
+      "name": "Giochi Sportivi",
       "path": "/c/sports-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
       "position": 11,
       "description": "Emozionanti giochi sportivi!"
     },
@@ -167,7 +167,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156468798-xl6ktw.png",
       "position": 12,
       "description": "Emozionanti giochi 3D!"
     }
