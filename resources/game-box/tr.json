@@ -92,24 +92,24 @@
       "description": "Heyecan verici macera oyunları!"
     },
     {
-      "name": "Wordleverse Oyunları",
-      "path": "/c/wordleverse-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
-      "position": 5,
-      "description": "Heyecan verici wordleverse oyunları!"
-    },
-    {
       "name": ".IO Oyunları",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
-      "position": 6,
+      "position": 5,
       "description": "Heyecan verici .IO oyunları!"
+    },
+    {
+      "name": "Wordleverse Oyunları",
+      "path": "/c/wordleverse-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
+      "position": 6,
+      "description": "Heyecan verici wordleverse oyunları!"
     },
     {
       "name": "Bulmaca Oyunları",
@@ -122,14 +122,14 @@
       "description": "Heyecan verici bulmaca oyunları!"
     },
     {
-      "name": "Mutfak",
+      "name": "Pişirme",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
       "position": 8,
-      "description": "Heyecan verici mutfak oyunları!"
+      "description": "Heyecan verici pişirme oyunları!"
     },
     {
       "name": "Spor Oyunları",
@@ -152,14 +152,14 @@
       "description": "Heyecan verici Yarış ve Sürüş oyunları!"
     },
     {
-      "name": "Hafif Oyunlar",
+      "name": "Gündelik Oyunlar",
       "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
       "position": 11,
-      "description": "Heyecan verici hafif oyunlar!"
+      "description": "Heyecan verici gündelik oyunlar!"
     },
     {
       "name": "3B Oyunlar",

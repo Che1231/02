@@ -92,24 +92,24 @@
       "description": "Spannende Abenteuer-Spiele!"
     },
     {
-      "name": "Wordleverse-Spiele",
-      "path": "/c/wordleverse-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
-      "position": 5,
-      "description": "Spannende Wordleverse-Spiele!"
-    },
-    {
       "name": ".IO-Spiele",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
-      "position": 6,
+      "position": 5,
       "description": "Spannende .IO-Spiele!"
+    },
+    {
+      "name": "Wordleverse-Spiele",
+      "path": "/c/wordleverse-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
+      "position": 6,
+      "description": "Spannende Wordleverse-Spiele!"
     },
     {
       "name": "Rätselspiele",
@@ -122,7 +122,7 @@
       "description": "Spannende Rätselspiele!"
     },
     {
-      "name": "Kochen",
+      "name": "Kochspiele",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -132,24 +132,24 @@
       "description": "Spannende Kochspiele!"
     },
     {
-      "name": "Sport-Spiele",
+      "name": "Sportspiele",
       "path": "/c/sports-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
       "position": 9,
-      "description": "Spannende Sport-Spiele!"
+      "description": "Spannende Sportspiele!"
     },
     {
-      "name": "Rennen & Fahren",
+      "name": "Rennsport & Fahrspiele",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 10,
-      "description": "Spannende Rennsport- & Fahrspiele!"
+      "description": "Spannende Rennsport & Fahrspiele!"
     },
     {
       "name": "Casual-Spiele",

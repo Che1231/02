@@ -92,24 +92,24 @@
       "description": "Exciting adventure games!"
     },
     {
-      "name": "Wordleverse Games",
-      "path": "/c/wordleverse-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
-      "position": 5,
-      "description": "Exciting wordleverse games!"
-    },
-    {
       "name": ".IO Games",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
-      "position": 6,
+      "position": 5,
       "description": "Exciting .IO  games!"
+    },
+    {
+      "name": "Wordleverse Games",
+      "path": "/c/wordleverse-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
+      "position": 6,
+      "description": "Exciting wordleverse games!"
     },
     {
       "name": "Puzzle Games",

@@ -59,7 +59,7 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
-      "description": "เรามีเกมที่ดีที่สุดสำหรับคุณ!"
+      "description": "เราได้คัดสรรเกมที่ดีที่สุดสำหรับคุณแล้ว!"
     },
     {
       "name": "เกมอาร์เคด",
@@ -92,24 +92,24 @@
       "description": "เกมผจญภัยที่น่าตื่นเต้น!"
     },
     {
-      "name": "เกม Wordleverse",
-      "path": "/c/wordleverse-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
-      "position": 5,
-      "description": "เกม Wordleverse ที่น่าตื่นเต้น!"
-    },
-    {
       "name": "เกม .IO",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
-      "position": 6,
+      "position": 5,
       "description": "เกม .IO ที่น่าตื่นเต้น!"
+    },
+    {
+      "name": "เกม Wordleverse",
+      "path": "/c/wordleverse-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
+      "position": 6,
+      "description": "เกม Wordleverse ที่น่าตื่นเต้น!"
     },
     {
       "name": "เกมปริศนา",
@@ -152,14 +152,14 @@
       "description": "เกมแข่งรถและขับรถที่น่าตื่นเต้น!"
     },
     {
-      "name": "เกมสบาย ๆ",
+      "name": "เกมสบายๆ",
       "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
       "position": 11,
-      "description": "เกมสบาย ๆ ที่น่าตื่นเต้น!"
+      "description": "เกมสบายๆ ที่น่าตื่นเต้น!"
     },
     {
       "name": "เกม 3 มิติ",

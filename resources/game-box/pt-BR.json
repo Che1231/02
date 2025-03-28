@@ -59,16 +59,16 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
-      "description": "Nós selecionamos os melhores jogos para você!"
+      "description": "Selecionamos os melhores jogos para você!"
     },
     {
-      "name": "Jogos de Arcade",
+      "name": "Jogos Arcade",
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156326993-rske4c.png",
-      "description": "Jogos de arcade emocionantes!",
+      "description": "Jogos arcade emocionantes!",
       "position": 2
     },
     {
@@ -92,34 +92,34 @@
       "description": "Jogos de aventura emocionantes!"
     },
     {
-      "name": "Jogos Wordleverse",
-      "path": "/c/wordleverse-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
-      "position": 5,
-      "description": "Jogos emocionantes do Wordleverse!"
-    },
-    {
       "name": "Jogos .IO",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
-      "position": 6,
+      "position": 5,
       "description": "Jogos .IO emocionantes!"
     },
     {
-      "name": "Jogos de Puzzle",
+      "name": "Jogos Wordleverse",
+      "path": "/c/wordleverse-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
+      "position": 6,
+      "description": "Jogos Wordleverse emocionantes!"
+    },
+    {
+      "name": "Jogos de Quebra-Cabeça",
       "path": "/c/puzzle-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
       "position": 7,
-      "description": "Jogos de puzzle emocionantes!"
+      "description": "Jogos de quebra-cabeça emocionantes!"
     },
     {
       "name": "Cozinha",

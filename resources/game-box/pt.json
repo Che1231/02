@@ -53,8 +53,8 @@
   ],
   "categories": [
     {
-      "name": "Jogos Destacados",
-      "path": "/c/destacados",
+      "name": "Jogos em Destaque",
+      "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
@@ -62,28 +62,28 @@
       "description": "Selecionámos os melhores jogos para si!"
     },
     {
-      "name": "Jogos Arcade",
-      "path": "/c/jogos-arcade",
+      "name": "Jogos de Arcade",
+      "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156326993-rske4c.png",
-      "description": "Jogos arcade emocionantes!",
+      "description": "Jogos de arcade emocionantes!",
       "position": 2
     },
     {
       "name": "Jogos de Ação",
-      "path": "/c/acao",
+      "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156394531-x0e51o.png",
-      "description": "Jogos de ação emocionantes!",
+      "description": "Jogos de ação empolgantes!",
       "position": 3
     },
     {
       "name": "Jogos de Aventura",
-      "path": "/c/jogos-aventura",
+      "path": "/c/adventure-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
@@ -92,28 +92,28 @@
       "description": "Jogos de aventura emocionantes!"
     },
     {
-      "name": "Jogos Wordleverse",
-      "path": "/c/jogos-wordleverse",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
-      "position": 5,
-      "description": "Jogos Wordleverse emocionantes!"
-    },
-    {
       "name": "Jogos .IO",
-      "path": "/c/jogos-io",
+      "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
-      "position": 6,
+      "position": 5,
       "description": "Jogos .IO emocionantes!"
     },
     {
+      "name": "Jogos Wordleverse",
+      "path": "/c/wordleverse-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
+      "position": 6,
+      "description": "Jogos wordleverse emocionantes!"
+    },
+    {
       "name": "Jogos de Puzzle",
-      "path": "/c/jogos-puzzle",
+      "path": "/c/puzzle-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
@@ -122,8 +122,8 @@
       "description": "Jogos de puzzle emocionantes!"
     },
     {
-      "name": "Cozinha",
-      "path": "/c/cozinha",
+      "name": "Jogos de Cozinha",
+      "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
@@ -133,7 +133,7 @@
     },
     {
       "name": "Jogos Desportivos",
-      "path": "/c/jogos-desportivos",
+      "path": "/c/sports-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
@@ -142,18 +142,18 @@
       "description": "Jogos desportivos emocionantes!"
     },
     {
-      "name": "Corridas e Condução",
-      "path": "/c/corridas-conducao",
+      "name": "Jogos de Corrida e Condução",
+      "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 10,
-      "description": "Jogos de Corridas e Condução emocionantes!"
+      "description": "Jogos de corrida e condução emocionantes!"
     },
     {
-      "name": "Jogos Casual",
-      "path": "/c/jogos-casual",
+      "name": "Jogos Casuais",
+      "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
@@ -163,7 +163,7 @@
     },
     {
       "name": "Jogos 3D",
-      "path": "/c/jogos-3d",
+      "path": "/c/3d-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",

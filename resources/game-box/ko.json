@@ -59,7 +59,7 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
-      "description": "최고의 게임을 위해 선택했습니다!"
+      "description": "최고의 게임을 추천해 드립니다!"
     },
     {
       "name": "아케이드 게임",
@@ -78,7 +78,7 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156394531-x0e51o.png",
-      "description": "흥미진진한 액션 게임!",
+      "description": "짜릿한 액션 게임!",
       "position": 3
     },
     {
@@ -92,24 +92,24 @@
       "description": "흥미진진한 모험 게임!"
     },
     {
-      "name": "워드 게임",
-      "path": "/c/wordleverse-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
-      "position": 5,
-      "description": "흥미진진한 워드 게임!"
-    },
-    {
       "name": ".IO 게임",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
-      "position": 6,
+      "position": 5,
       "description": "흥미진진한 .IO 게임!"
+    },
+    {
+      "name": "워들버스 게임",
+      "path": "/c/wordleverse-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
+      "position": 6,
+      "description": "흥미진진한 워들버스 게임!"
     },
     {
       "name": "퍼즐 게임",

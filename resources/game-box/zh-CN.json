@@ -53,7 +53,7 @@
   ],
   "categories": [
     {
-      "name": "推荐游戏",
+      "name": "精选游戏",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
@@ -68,7 +68,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156326993-rske4c.png",
-      "description": "令人兴奋的街机游戏！",
+      "description": "激动人心的街机游戏！",
       "position": 2
     },
     {
@@ -78,7 +78,7 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156394531-x0e51o.png",
-      "description": "令人兴奋的动作游戏！",
+      "description": "激动人心的动作游戏！",
       "position": 3
     },
     {
@@ -89,17 +89,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
       "position": 4,
-      "description": "令人兴奋的冒险游戏！"
-    },
-    {
-      "name": "Wordleverse 游戏",
-      "path": "/c/wordleverse-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
-      "position": 5,
-      "description": "令人兴奋的 Wordleverse 游戏！"
+      "description": "激动人心的冒险游戏！"
     },
     {
       "name": ".IO 游戏",
@@ -108,8 +98,18 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
+      "position": 5,
+      "description": "激动人心的 .IO 游戏！"
+    },
+    {
+      "name": "Wordleverse 游戏",
+      "path": "/c/wordleverse-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
       "position": 6,
-      "description": "令人兴奋的 .IO 游戏！"
+      "description": "激动人心的 Wordleverse 游戏！"
     },
     {
       "name": "益智游戏",
@@ -119,7 +119,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
       "position": 7,
-      "description": "令人兴奋的益智游戏！"
+      "description": "激动人心的益智游戏！"
     },
     {
       "name": "烹饪游戏",
@@ -129,7 +129,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
       "position": 8,
-      "description": "令人兴奋的烹饪游戏！"
+      "description": "激动人心的烹饪游戏！"
     },
     {
       "name": "体育游戏",
@@ -139,7 +139,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
       "position": 9,
-      "description": "令人兴奋的体育游戏！"
+      "description": "激动人心的体育游戏！"
     },
     {
       "name": "赛车与驾驶",
@@ -149,7 +149,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 10,
-      "description": "令人兴奋的赛车与驾驶游戏！"
+      "description": "激动人心的赛车与驾驶游戏！"
     },
     {
       "name": "休闲游戏",
@@ -159,7 +159,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
       "position": 11,
-      "description": "令人兴奋的休闲游戏！"
+      "description": "激动人心的休闲游戏！"
     },
     {
       "name": "3D 游戏",
@@ -169,7 +169,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156468798-xl6ktw.png",
       "position": 12,
-      "description": "令人兴奋的 3D 游戏！"
+      "description": "激动人心的 3D 游戏！"
     }
   ]
 }

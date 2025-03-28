@@ -92,24 +92,24 @@
       "description": "Những trò chơi phiêu lưu thú vị!"
     },
     {
-      "name": "Trò chơi Wordleverse",
-      "path": "/c/wordleverse-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
-      "position": 5,
-      "description": "Những trò chơi Wordleverse thú vị!"
-    },
-    {
       "name": "Trò chơi .IO",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
-      "position": 6,
+      "position": 5,
       "description": "Những trò chơi .IO thú vị!"
+    },
+    {
+      "name": "Trò chơi Wordleverse",
+      "path": "/c/wordleverse-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
+      "position": 6,
+      "description": "Những trò chơi Wordleverse thú vị!"
     },
     {
       "name": "Trò chơi giải đố",
@@ -122,7 +122,7 @@
       "description": "Những trò chơi giải đố thú vị!"
     },
     {
-      "name": "Trò chơi nấu ăn",
+      "name": "Nấu ăn",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -152,14 +152,14 @@
       "description": "Những trò chơi đua xe & lái xe thú vị!"
     },
     {
-      "name": "Trò chơi giải trí",
+      "name": "Trò chơi bình thường",
       "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
       "position": 11,
-      "description": "Những trò chơi giải trí thú vị!"
+      "description": "Những trò chơi bình thường thú vị!"
     },
     {
       "name": "Trò chơi 3D",

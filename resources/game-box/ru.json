@@ -72,34 +72,24 @@
       "position": 2
     },
     {
-      "name": "Экшн-игры",
+      "name": "Игры действия",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156394531-x0e51o.png",
-      "description": "Захватывающие экшн-игры!",
+      "description": "Захватывающие игры действия!",
       "position": 3
     },
     {
-      "name": "Игры-приключения",
+      "name": "Игры приключения",
       "path": "/c/adventure-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
       "position": 4,
-      "description": "Захватывающие игры-приключения!"
-    },
-    {
-      "name": "Игры Wordleverse",
-      "path": "/c/wordleverse-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
-      "position": 5,
-      "description": "Захватывающие игры Wordleverse!"
+      "description": "Захватывающие игры приключений!"
     },
     {
       "name": "Игры .IO",
@@ -108,8 +98,18 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
-      "position": 6,
+      "position": 5,
       "description": "Захватывающие игры .IO!"
+    },
+    {
+      "name": "Игры Wordleverse",
+      "path": "/c/wordleverse-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
+      "position": 6,
+      "description": "Захватывающие игры Wordleverse!"
     },
     {
       "name": "Головоломки",
@@ -132,7 +132,7 @@
       "description": "Захватывающие игры про кулинарию!"
     },
     {
-      "name": "Спортивные игры",
+      "name": "Игры спорта",
       "path": "/c/sports-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -149,27 +149,27 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 10,
-      "description": "Захватывающие игры про гонки и вождение!"
+      "description": "Захватывающие игры гонки и вождения!"
     },
     {
-      "name": "Легкие игры",
+      "name": "Игры в стиле кэжуал",
       "path": "/c/casual-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
       "position": 11,
-      "description": "Захватывающие легкие игры!"
+      "description": "Захватывающие игры в стиле кэжуал!"
     },
     {
-      "name": "3D-игры",
+      "name": "3D игры",
       "path": "/c/3d-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156468798-xl6ktw.png",
       "position": 12,
-      "description": "Захватывающие 3D-игры!"
+      "description": "Захватывающие 3D игры!"
     }
   ]
 }

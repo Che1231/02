@@ -53,7 +53,7 @@
   ],
   "categories": [
     {
-      "name": "Рекомендовані ігри",
+      "name": "Виділені ігри",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
@@ -68,38 +68,28 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156326993-rske4c.png",
-      "description": "Енергійні аркадні ігри!",
+      "description": "Збудливі аркадні ігри!",
       "position": 2
     },
     {
-      "name": "Ігри в дії",
+      "name": "Ігри в жанрі дії",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156394531-x0e51o.png",
-      "description": "В захоплюючі ігри в дії!",
+      "description": "Збудливі ігри в жанрі дії!",
       "position": 3
     },
     {
-      "name": "Ігри-пригоди",
+      "name": "Ігри в жанрі пригоди",
       "path": "/c/adventure-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
       "position": 4,
-      "description": "Захоплюючі ігри-пригоди!"
-    },
-    {
-      "name": "Ігри Wordleverse",
-      "path": "/c/wordleverse-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
-      "position": 5,
-      "description": "Захоплюючі ігри Wordleverse!"
+      "description": "Збудливі ігри в жанрі пригоди!"
     },
     {
       "name": "Ігри .IO",
@@ -108,8 +98,18 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
+      "position": 5,
+      "description": "Збудливі ігри .IO!"
+    },
+    {
+      "name": "Ігри Wordlverse",
+      "path": "/c/wordleverse-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
       "position": 6,
-      "description": "Захоплюючі ігри .IO!"
+      "description": "Збудливі ігри Wordlverse!"
     },
     {
       "name": "Логічні ігри",
@@ -119,27 +119,27 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
       "position": 7,
-      "description": "Захоплюючі логічні ігри!"
+      "description": "Збудливі логічні ігри!"
     },
     {
-      "name": "Ігри про приготування страв",
+      "name": "Кулінарні ігри",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
       "position": 8,
-      "description": "Захоплюючі ігри про приготування страв!"
+      "description": "Збудливі кулінарні ігри!"
     },
     {
-      "name": "Ігри про спорт",
+      "name": "Ігри в жанрі спорту",
       "path": "/c/sports-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
       "position": 9,
-      "description": "Захоплюючі ігри про спорт!"
+      "description": "Збудливі ігри в жанрі спорту!"
     },
     {
       "name": "Гонки та керування",
@@ -149,7 +149,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 10,
-      "description": "Захоплюючі ігри про гонки та керування!"
+      "description": "Збудливі гонки та ігри в жанрі керування!"
     },
     {
       "name": "Легкі ігри",
@@ -159,7 +159,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
       "position": 11,
-      "description": "Захоплюючі легкі ігри!"
+      "description": "Збудливі легкі ігри!"
     },
     {
       "name": "3D ігри",
@@ -169,7 +169,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156468798-xl6ktw.png",
       "position": 12,
-      "description": "Захоплюючі 3D ігри!"
+      "description": "Збудливі 3D ігри!"
     }
   ]
 }

@@ -92,24 +92,24 @@
       "description": "¡Juegos de aventura emocionantes!"
     },
     {
-      "name": "Juegos de Wordleverse",
-      "path": "/c/wordleverse-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
-      "position": 5,
-      "description": "¡Juegos emocionantes de Wordleverse!"
-    },
-    {
       "name": "Juegos .IO",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
+      "position": 5,
+      "description": "¡Juegos .IO emocionantes!"
+    },
+    {
+      "name": "Juegos de Wordleverse",
+      "path": "/c/wordleverse-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
       "position": 6,
-      "description": "¡Juegos emocionantes .IO!"
+      "description": "¡Juegos de wordleverse emocionantes!"
     },
     {
       "name": "Juegos de Rompecabezas",
@@ -149,7 +149,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 10,
-      "description": "¡Juegos emocionantes de carreras y conducción!"
+      "description": "¡Juegos de carreras y conducción emocionantes!"
     },
     {
       "name": "Juegos Casuales",
