@@ -3,7 +3,7 @@
     "title": "Weaver Game (Weaver Game)",
     "cover": "https://images.1games.io/cache/game/weaver-game/weavergame1-m200x130.webp",
     "url": "/games/weaver-game",
-    "category": "Juego de tejer",
+    "category": "",
     "visible": true
   },
   {
@@ -696,6 +696,13 @@
     "title": "Papa's Burgeria (Papa's Burgeria)",
     "cover": "/games/papa-s-burgeria/game_screenshot.webp",
     "url": "/games/papa-s-burgeria",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "City Blocks (City Blocks)",
+    "cover": "",
+    "url": "/games/city-blocks",
     "category": "",
     "visible": true
   },

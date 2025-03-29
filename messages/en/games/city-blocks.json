@@ -1,0 +1,77 @@
+{
+  "city-blocks": {
+    "title": "City Blocks - Free Online Match-3 Puzzle Game",
+    "slogan": "Build Your Dream City with City Blocks",
+    "description": "City Blocks is a captivating match-3 puzzle game where you merge buildings to create a thriving city. Strategize to maximize your population before running out of space. Each upgrade unlocks more space for inhabitants. Play City Blocks now and experience the joy of city-building!",
+    "Loading": {
+      "title": "Loading City Blocks..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "City Blocks - Build Your City",
+      "description": "Merge buildings and create a thriving city in City Blocks. Play now and maximize your population!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "City Blocks",
+      "whatIsTitle": "What is City Blocks?",
+      "whatIsDescription": "City Blocks is a match-3 puzzle game where you merge buildings to create a city. The aim is to build a city with the highest population possible before you run out of space.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Merge buildings to create new structures.",
+      "howToPlayStep2": "Upgrade buildings to increase population.",
+      "howToPlayStep3": "Strategize to maximize space and population.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Merge Buildings",
+      "feature1Description": "Combine buildings to create new and more advanced structures.",
+      "feature2Title": "Upgrade System",
+      "feature2Description": "Upgrade buildings to unlock more space and increase population.",
+      "feature3Title": "Strategic Gameplay",
+      "feature3Description": "Plan your moves carefully to maximize space and population.",
+      "feature4Title": "Thriving City",
+      "feature4Description": "Watch your city grow and thrive as you merge and upgrade buildings."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

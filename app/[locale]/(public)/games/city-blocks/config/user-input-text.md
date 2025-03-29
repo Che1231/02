@@ -1,0 +1,1 @@
+City Blocks is a match-3 puzzle game where you merge buildings to create a city. The aim is to build a city with the highest population possible before you run out of space. Each structure upgrade creates space for more inhabitants.

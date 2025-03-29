@@ -1,0 +1,120 @@
+{
+  "name": "City Blocks",
+  "pagePath": "/games/city-blocks",
+  "pageName": "city-blocks",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.crazygames.com/embed/city-blocks",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomKraken87.png",
+      "content": "City Blocks is so addictive! Merging buildings to grow my city feels so satisfying. Can't stop playing!"
+    },
+    {
+      "author": "NeonKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonKatana_X.png",
+      "content": "Wow, the strategy in this game is deeper than I thought. Balancing space and population is tricky but fun!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "City Blocks? More like City Stress! Running out of space is a real challenge, but I love it."
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "LOL, I thought this would be easy, but managing the population is harder than it looks. Great game though!"
+    },
+    {
+      "author": "xX_CosmicPhoenix_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_CosmicPhoenix_Xx.png",
+      "content": "This game is a gem! The building upgrades and population mechanics are so well thought out."
+    },
+    {
+      "author": "SavageRevolver99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageRevolver99.png",
+      "content": "City Blocks is surprisingly fun! I didn’t expect to get so hooked on merging buildings. Highly recommend!"
+    },
+    {
+      "author": "StalkingLeviathan42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingLeviathan42.png",
+      "content": "The game is great, but I wish there were more building types. Still, it’s a solid match-3 puzzle game."
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "City Blocks is a blast! The challenge of maximizing population keeps me coming back for more."
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "This game is perfect for quick sessions. Love how each move feels impactful in building the city."
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "City Blocks is a refreshing take on match-3 games. The city-building aspect adds a unique twist!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "",
+  "page_path": "/games/city-blocks",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Featured Games"
+  ],
+  "createdTime": "2025-03-29 15:21:11"
+}

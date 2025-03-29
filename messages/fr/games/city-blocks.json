@@ -1,0 +1,77 @@
+{
+  "city-blocks": {
+    "title": "City Blocks - Jeu de puzzle Match-3 en ligne gratuit",
+    "slogan": "Construisez votre ville de rêve avec City Blocks",
+    "description": "City Blocks est un jeu de puzzle captivant Match-3 où vous fusionnez des bâtiments pour créer une ville prospère. Élaborez une stratégie pour maximiser votre population avant de manquer d'espace. Chaque amélioration débloque plus d'espace pour les habitants. Jouez à City Blocks maintenant et découvrez la joie de la construction de villes !",
+    "Loading": {
+      "title": "Chargement de City Blocks..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste d'articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "City Blocks - Construisez votre ville",
+      "description": "Fusionnez des bâtiments et créez une ville prospère dans City Blocks. Jouez maintenant et maximisez votre population !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "City Blocks",
+      "whatIsTitle": "Qu'est-ce que City Blocks ?",
+      "whatIsDescription": "City Blocks est un jeu de puzzle Match-3 où vous fusionnez des bâtiments pour créer une ville. Le but est de construire une ville avec la population la plus élevée possible avant de manquer d'espace.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Fusionnez les bâtiments pour créer de nouvelles structures.",
+      "howToPlayStep2": "Améliorez les bâtiments pour augmenter la population.",
+      "howToPlayStep3": "Élaborez une stratégie pour maximiser l'espace et la population.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Fusionner les bâtiments",
+      "feature1Description": "Combinez des bâtiments pour créer de nouvelles structures plus avancées.",
+      "feature2Title": "Système d'amélioration",
+      "feature2Description": "Améliorez les bâtiments pour débloquer plus d'espace et augmenter la population.",
+      "feature3Title": "Gameplay stratégique",
+      "feature3Description": "Planifiez vos mouvements avec soin pour maximiser l'espace et la population.",
+      "feature4Title": "Ville florissante",
+      "feature4Description": "Regardez votre ville grandir et prospérer en fusionnant et en améliorant les bâtiments."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

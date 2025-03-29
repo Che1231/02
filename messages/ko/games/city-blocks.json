@@ -1,0 +1,77 @@
+{
+  "city-blocks": {
+    "title": "도시 블록 - 무료 온라인 매치 3 퍼즐 게임",
+    "slogan": "도시 블록으로 꿈의 도시를 건설하세요",
+    "description": "도시 블록은 건물을 병합하여 번영하는 도시를 만드는 매혹적인 매치 3 퍼즐 게임입니다. 공간이 부족해지기 전에 인구를 최대화하기 위해 전략적으로 플레이하세요. 각 업그레이드는 거주민을 위한 더 많은 공간을 열어줍니다. 지금 도시 블록을 플레이하고 도시 건설의 기쁨을 경험하세요!",
+    "Loading": {
+      "title": "도시 블록 로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 이용약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "도시 블록 - 도시를 건설하세요",
+      "description": "도시 블록에서 건물을 병합하고 번영하는 도시를 만드세요. 지금 플레이하여 인구를 최대화하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "도시 블록",
+      "whatIsTitle": "도시 블록이란 무엇인가요?",
+      "whatIsDescription": "도시 블록은 건물을 병합하여 도시를 만드는 매치 3 퍼즐 게임입니다. 목표는 공간이 부족해지기 전에 가능한 한 많은 인구를 가진 도시를 건설하는 것입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "건물을 병합하여 새로운 구조를 만드세요.",
+      "howToPlayStep2": "건물을 업그레이드하여 인구를 늘리세요.",
+      "howToPlayStep3": "전략적으로 플레이하여 공간과 인구를 최대화하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "건물 병합",
+      "feature1Description": "건물을 결합하여 새로운 그리고 더욱 발전된 구조를 만드세요.",
+      "feature2Title": "업그레이드 시스템",
+      "feature2Description": "건물을 업그레이드하여 더 많은 공간을 확보하고 인구를 증가시키세요.",
+      "feature3Title": "전략적 플레이",
+      "feature3Description": "공간과 인구를 최대화하기 위해 움직임을 신중하게 계획하세요.",
+      "feature4Title": "번영하는 도시",
+      "feature4Description": "건물을 병합하고 업그레이드함에 따라 도시의 성장과 번영을 지켜보세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}
