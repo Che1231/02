@@ -1,1 +1,0 @@
-The Impossible Quiz is a challenging online trivia game with very hard questions. The questions often have hidden meanings, tricks, and wordplay, so you'll need to think creatively. Each question has four possible answers, but only one is correct. There are a total of 110 questions to tackle.
