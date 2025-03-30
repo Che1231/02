@@ -12,7 +12,7 @@
     },
     {
       "visible": true,
-      "url": "/games/suika-game",
+      "url": "/games/little-alchemy-2",
       "position": 3
     },
     {
@@ -59,7 +59,7 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
-      "description": "我們精選了最佳遊戲供您!",
+      "description": "我們已為您精選了最佳遊戲！",
       "position": 1
     },
     {
@@ -69,7 +69,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156326993-rske4c.png",
-      "description": "令人興奮的街機遊戲!",
+      "description": "令人興奮的街機遊戲！",
       "position": 2
     },
     {
@@ -79,7 +79,7 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156394531-x0e51o.png",
-      "description": "令人興奮的動作遊戲!",
+      "description": "令人興奮的動作遊戲！",
       "position": 3
     },
     {
@@ -90,7 +90,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
       "position": 4,
-      "description": "令人興奮的冒險遊戲!"
+      "description": "令人興奮的冒險遊戲！"
     },
     {
       "name": ".IO 遊戲",
@@ -100,7 +100,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
       "position": 5,
-      "description": "令人興奮的.IO 遊戲!"
+      "description": "令人興奮的 .IO 遊戲！"
     },
     {
       "name": "Wordleverse 遊戲",
@@ -110,7 +110,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
       "position": 6,
-      "description": "令人興奮的Wordleverse遊戲!"
+      "description": "令人興奮的 Wordleverse 遊戲！"
     },
     {
       "name": "益智遊戲",
@@ -120,7 +120,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
       "position": 7,
-      "description": "令人興奮的益智遊戲!"
+      "description": "令人興奮的益智遊戲！"
     },
     {
       "name": "烹飪遊戲",
@@ -130,7 +130,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
       "position": 8,
-      "description": "令人興奮的烹飪遊戲!"
+      "description": "令人興奮的烹飪遊戲！"
     },
     {
       "name": "運動遊戲",
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
       "position": 9,
-      "description": "令人興奮的運動遊戲!"
+      "description": "令人興奮的運動遊戲！"
     },
     {
       "name": "音樂遊戲",
@@ -150,7 +150,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
       "position": 10,
-      "description": "令人興奮的音樂遊戲!"
+      "description": "令人興奮的音樂遊戲！"
     },
     {
       "name": "賽車與駕駛",
@@ -160,7 +160,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 11,
-      "description": "令人興奮的賽車與駕駛遊戲!"
+      "description": "令人興奮的賽車與駕駛遊戲！"
+    },
+    {
+      "name": "雙人遊戲",
+      "path": "/c/two-player-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743326266282-b5qekj.png",
+      "position": 12,
+      "description": "令人興奮的雙人遊戲！"
     }
   ]
 }

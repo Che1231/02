@@ -12,7 +12,7 @@
     },
     {
       "visible": true,
-      "url": "/games/suika-game",
+      "url": "/games/little-alchemy-2",
       "position": 3
     },
     {
@@ -103,17 +103,17 @@
       "description": "¡Juegos .IO emocionantes!"
     },
     {
-      "name": "Juegos de Wordleverse",
+      "name": "Juegos Wordleverse",
       "path": "/c/wordleverse-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
       "position": 6,
-      "description": "¡Juegos de wordleverse emocionantes!"
+      "description": "¡Juegos emocionantes de Wordleverse!"
     },
     {
-      "name": "Juegos de Puzzles",
+      "name": "Juegos de Rompecabezas",
       "path": "/c/puzzle-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -153,14 +153,24 @@
       "description": "¡Juegos musicales emocionantes!"
     },
     {
-      "name": "Carreras y Conducción",
+      "name": "Carreras y Conduir",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 11,
-      "description": "¡Juegos de Carreras y Conducción emocionantes!"
+      "description": "¡Juegos de Carreras y Conducir emocionantes!"
+    },
+    {
+      "name": "Juegos de Dos Jugadores",
+      "path": "/c/two-player-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743326266282-b5qekj.png",
+      "position": 12,
+      "description": "¡Juegos emocionantes para dos jugadores!"
     }
   ]
 }

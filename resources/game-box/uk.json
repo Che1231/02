@@ -12,7 +12,7 @@
     },
     {
       "visible": true,
-      "url": "/games/suika-game",
+      "url": "/games/little-alchemy-2",
       "position": 3
     },
     {
@@ -73,24 +73,24 @@
       "position": 2
     },
     {
-      "name": "Ігри дій",
+      "name": "Ігри в дії",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156394531-x0e51o.png",
-      "description": "Збудливі ігри дій!",
+      "description": "Збудливі ігри в дії!",
       "position": 3
     },
     {
-      "name": "Ігри пригод",
+      "name": "Ігри-пригоди",
       "path": "/c/adventure-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
       "position": 4,
-      "description": "Збудливі ігри пригод!"
+      "description": "Збудливі ігри-пригоди!"
     },
     {
       "name": "Ігри .IO",
@@ -140,17 +140,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
       "position": 9,
-      "description": "Збудливі спортивні ігри!"
+      "description": "Збудливі ігри зі спортом!"
     },
     {
-      "name": "Музичні ігри",
+      "name": "Ігри з музикою",
       "path": "/c/music-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
       "position": 10,
-      "description": "Збудливі музичні ігри!"
+      "description": "Збудливі ігри з музикою!"
     },
     {
       "name": "Гонки та водіння",
@@ -160,7 +160,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 11,
-      "description": "Збудливі ігри з гонками та водінням!"
+      "description": "Збудливі ігри про гонки та водіння!"
+    },
+    {
+      "name": "Гра для двох гравців",
+      "path": "/c/two-player-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743326266282-b5qekj.png",
+      "position": 12,
+      "description": "Збудливі ігри для двох гравців!"
     }
   ]
 }

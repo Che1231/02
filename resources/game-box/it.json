@@ -12,7 +12,7 @@
     },
     {
       "visible": true,
-      "url": "/games/suika-game",
+      "url": "/games/little-alchemy-2",
       "position": 3
     },
     {
@@ -53,7 +53,7 @@
   ],
   "categories": [
     {
-      "name": "Giochi in evidenza",
+      "name": "Giochi in Evidenza",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
@@ -73,24 +73,24 @@
       "position": 2
     },
     {
-      "name": "Giochi d'azione",
+      "name": "Giochi di Azione",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156394531-x0e51o.png",
-      "description": "Emozionanti giochi d'azione!",
+      "description": "Emozionanti giochi di azione!",
       "position": 3
     },
     {
-      "name": "Giochi d'avventura",
+      "name": "Giochi di Avventura",
       "path": "/c/adventure-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
       "position": 4,
-      "description": "Emozionanti giochi d'avventura!"
+      "description": "Emozionanti giochi di avventura!"
     },
     {
       "name": "Giochi .IO",
@@ -113,7 +113,7 @@
       "description": "Emozionanti giochi Wordleverse!"
     },
     {
-      "name": "Giochi di puzzle",
+      "name": "Giochi di Puzzle",
       "path": "/c/puzzle-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -123,7 +123,7 @@
       "description": "Emozionanti giochi di puzzle!"
     },
     {
-      "name": "Giochi di cucina",
+      "name": "Giochi di Cucina",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -133,7 +133,7 @@
       "description": "Emozionanti giochi di cucina!"
     },
     {
-      "name": "Giochi sportivi",
+      "name": "Giochi Sportivi",
       "path": "/c/sports-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -143,7 +143,7 @@
       "description": "Emozionanti giochi sportivi!"
     },
     {
-      "name": "Giochi musicali",
+      "name": "Giochi Musicali",
       "path": "/c/music-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -153,7 +153,7 @@
       "description": "Emozionanti giochi musicali!"
     },
     {
-      "name": "Giochi di corse e guida",
+      "name": "Giochi di Corse e Guida",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -161,6 +161,16 @@
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 11,
       "description": "Emozionanti giochi di corse e guida!"
+    },
+    {
+      "name": "Giochi a Due Giocatori",
+      "path": "/c/two-player-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743326266282-b5qekj.png",
+      "position": 12,
+      "description": "Emozionanti giochi a due giocatori!"
     }
   ]
 }

@@ -12,7 +12,7 @@
     },
     {
       "visible": true,
-      "url": "/games/suika-game",
+      "url": "/games/little-alchemy-2",
       "position": 3
     },
     {
@@ -59,7 +59,7 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
-      "description": "Nós selecionámos os melhores jogos para si!",
+      "description": "Temos os melhores jogos para si!",
       "position": 1
     },
     {
@@ -69,7 +69,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156326993-rske4c.png",
-      "description": "Jogos arcade emocionantes!",
+      "description": "Jogos emocionantes de arcade!",
       "position": 2
     },
     {
@@ -113,17 +113,17 @@
       "description": "Jogos wordleverse emocionantes!"
     },
     {
-      "name": "Jogos de Puzzle",
+      "name": "Jogos de Quebra-cabeça",
       "path": "/c/puzzle-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
       "position": 7,
-      "description": "Jogos de puzzle emocionantes!"
+      "description": "Jogos de quebra-cabeça emocionantes!"
     },
     {
-      "name": "Jogos de Cozinha",
+      "name": "Cozinha",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -133,14 +133,14 @@
       "description": "Jogos de cozinha emocionantes!"
     },
     {
-      "name": "Jogos Desportivos",
+      "name": "Jogos Esportivos",
       "path": "/c/sports-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
       "position": 9,
-      "description": "Jogos desportivos emocionantes!"
+      "description": "Jogos esportivos emocionantes!"
     },
     {
       "name": "Jogos Musicais",
@@ -153,14 +153,24 @@
       "description": "Jogos musicais emocionantes!"
     },
     {
-      "name": "Jogos de Corrida e Condução",
+      "name": "Corridas e Condução",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 11,
-      "description": "Jogos emocionantes de corrida e condução!"
+      "description": "Jogos emocionantes de Corridas e Condução!"
+    },
+    {
+      "name": "Jogo para Dois Jogadores",
+      "path": "/c/two-player-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743326266282-b5qekj.png",
+      "position": 12,
+      "description": "Jogos emocionantes para dois jogadores!"
     }
   ]
 }

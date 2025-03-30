@@ -12,7 +12,7 @@
     },
     {
       "visible": true,
-      "url": "/games/suika-game",
+      "url": "/games/little-alchemy-2",
       "position": 3
     },
     {
@@ -53,13 +53,13 @@
   ],
   "categories": [
     {
-      "name": "注目のゲーム",
+      "name": "おすすめゲーム",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
-      "description": "あなたのために最高のゲームを選びました！",
+      "description": "あなたにおすすめのゲームを選りすぐりました！",
       "position": 1
     },
     {
@@ -93,24 +93,24 @@
       "description": "エキサイティングなアドベンチャーゲーム！"
     },
     {
-      "name": ".IO ゲーム",
+      "name": ".IOゲーム",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
       "position": 5,
-      "description": "エキサイティングな .IO ゲーム！"
+      "description": "エキサイティングな.IOゲーム！"
     },
     {
-      "name": "Wordleverse ゲーム",
+      "name": "Wordleverseゲーム",
       "path": "/c/wordleverse-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
       "position": 6,
-      "description": "エキサイティングなwordleverseゲーム！"
+      "description": "エキサイティングなWordleverseゲーム！"
     },
     {
       "name": "パズルゲーム",
@@ -123,7 +123,7 @@
       "description": "エキサイティングなパズルゲーム！"
     },
     {
-      "name": "料理",
+      "name": "料理ゲーム",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -153,14 +153,24 @@
       "description": "エキサイティングな音楽ゲーム！"
     },
     {
-      "name": "レース＆ドライビング",
+      "name": "レース＆ドライブゲーム",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 11,
-      "description": "エキサイティングなレース＆ドライビングゲーム！"
+      "description": "エキサイティングなレース＆ドライブゲーム！"
+    },
+    {
+      "name": "二人用ゲーム",
+      "path": "/c/two-player-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743326266282-b5qekj.png",
+      "position": 12,
+      "description": "エキサイティングな二人用ゲーム！"
     }
   ]
 }

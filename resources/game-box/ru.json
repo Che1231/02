@@ -12,7 +12,7 @@
     },
     {
       "visible": true,
-      "url": "/games/suika-game",
+      "url": "/games/little-alchemy-2",
       "position": 3
     },
     {
@@ -59,7 +59,7 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
-      "description": "Мы отобрали для вас лучшие игры!",
+      "description": "Мы подобрали для вас лучшие игры!",
       "position": 1
     },
     {
@@ -73,24 +73,24 @@
       "position": 2
     },
     {
-      "name": "Игры действия",
+      "name": "Игры в жанре экшен",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156394531-x0e51o.png",
-      "description": "Захватывающие игры действия!",
+      "description": "Захватывающие игры в жанре экшен!",
       "position": 3
     },
     {
-      "name": "Игры приключения",
+      "name": "Игры в жанре приключения",
       "path": "/c/adventure-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
       "position": 4,
-      "description": "Захватывающие игры приключения!"
+      "description": "Захватывающие игры в жанре приключения!"
     },
     {
       "name": "Игры .IO",
@@ -120,17 +120,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
       "position": 7,
-      "description": "Захватывающие игры-головоломки!"
+      "description": "Захватывающие головоломки!"
     },
     {
-      "name": "Кулинария",
+      "name": "Игры про приготовление еды",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
       "position": 8,
-      "description": "Захватывающие кулинарные игры!"
+      "description": "Захватывающие игры про приготовление еды!"
     },
     {
       "name": "Спортивные игры",
@@ -161,6 +161,16 @@
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 11,
       "description": "Захватывающие игры гонки и вождения!"
+    },
+    {
+      "name": "Игры для двух игроков",
+      "path": "/c/two-player-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743326266282-b5qekj.png",
+      "position": 12,
+      "description": "Захватывающие игры для двух игроков!"
     }
   ]
 }

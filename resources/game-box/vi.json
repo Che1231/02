@@ -12,7 +12,7 @@
     },
     {
       "visible": true,
-      "url": "/games/suika-game",
+      "url": "/games/little-alchemy-2",
       "position": 3
     },
     {
@@ -153,14 +153,24 @@
       "description": "Những trò chơi âm nhạc thú vị!"
     },
     {
-      "name": "Trò chơi đua xe & lái xe",
+      "name": "Trò chơi đua xe và lái xe",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 11,
-      "description": "Những trò chơi đua xe & lái xe thú vị!"
+      "description": "Những trò chơi đua xe và lái xe thú vị!"
+    },
+    {
+      "name": "Trò chơi hai người chơi",
+      "path": "/c/two-player-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743326266282-b5qekj.png",
+      "position": 12,
+      "description": "Những trò chơi hai người chơi thú vị!"
     }
   ]
 }

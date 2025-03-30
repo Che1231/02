@@ -12,7 +12,7 @@
     },
     {
       "visible": true,
-      "url": "/games/suika-game",
+      "url": "/games/little-alchemy-2",
       "position": 3
     },
     {
@@ -69,17 +69,17 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156326993-rske4c.png",
-      "description": "Spannende Arcade-Spiele!",
+      "description": "Aufregend Arcade-Spiele!",
       "position": 2
     },
     {
-      "name": "Action-Spiele",
+      "name": "Actionspiele",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156394531-x0e51o.png",
-      "description": "Spannende Action-Spiele!",
+      "description": "Aufregend Actionspiele!",
       "position": 3
     },
     {
@@ -90,7 +90,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
       "position": 4,
-      "description": "Spannende Abenteuer-Spiele!"
+      "description": "Aufregend Abenteuer-Spiele!"
     },
     {
       "name": ".IO-Spiele",
@@ -100,7 +100,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
       "position": 5,
-      "description": "Spannende .IO-Spiele!"
+      "description": "Aufregend .IO-Spiele!"
     },
     {
       "name": "Wordleverse-Spiele",
@@ -110,7 +110,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
       "position": 6,
-      "description": "Spannende Wordleverse-Spiele!"
+      "description": "Aufregend Wordleverse-Spiele!"
     },
     {
       "name": "Rätselspiele",
@@ -120,7 +120,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
       "position": 7,
-      "description": "Spannende Rätselspiele!"
+      "description": "Aufregend Rätselspiele!"
     },
     {
       "name": "Kochspiele",
@@ -130,7 +130,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
       "position": 8,
-      "description": "Spannende Kochspiele!"
+      "description": "Aufregend Kochspiele!"
     },
     {
       "name": "Sport-Spiele",
@@ -140,17 +140,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
       "position": 9,
-      "description": "Spannende Sport-Spiele!"
+      "description": "Aufregend Sport-Spiele!"
     },
     {
-      "name": "Musikspiele",
+      "name": "Musik-Spiele",
       "path": "/c/music-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
       "position": 10,
-      "description": "Spannende Musikspiele!"
+      "description": "Aufregend Musik-Spiele!"
     },
     {
       "name": "Rennsport & Fahrspiele",
@@ -160,7 +160,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 11,
-      "description": "Spannende Rennsport & Fahrspiele!"
+      "description": "Aufregend Rennsport & Fahrspiele!"
+    },
+    {
+      "name": "Zweispieler-Spiele",
+      "path": "/c/two-player-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743326266282-b5qekj.png",
+      "position": 12,
+      "description": "Aufregend Zweispieler-Spiele!"
     }
   ]
 }

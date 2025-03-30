@@ -12,7 +12,7 @@
     },
     {
       "visible": true,
-      "url": "/games/suika-game",
+      "url": "/games/little-alchemy-2",
       "position": 3
     },
     {
@@ -59,7 +59,7 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
-      "description": "Nous avons sélectionné les meilleurs jeux pour vous !",
+      "description": "Nous avons sélectionné les meilleurs jeux pour vous !",
       "position": 1
     },
     {
@@ -69,7 +69,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156326993-rske4c.png",
-      "description": "Jeux d'arcade passionnants !",
+      "description": "Des jeux d'arcade passionnants !",
       "position": 2
     },
     {
@@ -79,7 +79,7 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156394531-x0e51o.png",
-      "description": "Jeux d'action passionnants !",
+      "description": "Des jeux d'action passionnants !",
       "position": 3
     },
     {
@@ -90,7 +90,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
       "position": 4,
-      "description": "Jeux d'aventure passionnants !"
+      "description": "Des jeux d'aventure passionnants !"
     },
     {
       "name": "Jeux .IO",
@@ -100,7 +100,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
       "position": 5,
-      "description": "Jeux .IO passionnants !"
+      "description": "Des jeux .IO passionnants !"
     },
     {
       "name": "Jeux Wordleverse",
@@ -110,17 +110,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
       "position": 6,
-      "description": "Jeux wordleverse passionnants !"
+      "description": "Des jeux Wordleverse passionnants !"
     },
     {
-      "name": "Jeux de réflexion",
+      "name": "Jeux de puzzle",
       "path": "/c/puzzle-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
       "position": 7,
-      "description": "Jeux de réflexion passionnants !"
+      "description": "Des jeux de puzzle passionnants !"
     },
     {
       "name": "Cuisine",
@@ -130,27 +130,27 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
       "position": 8,
-      "description": "Jeux de cuisine passionnants !"
+      "description": "Des jeux de cuisine passionnants !"
     },
     {
-      "name": "Jeux de sport",
+      "name": "Jeux sportifs",
       "path": "/c/sports-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
       "position": 9,
-      "description": "Jeux de sport passionnants !"
+      "description": "Des jeux sportifs passionnants !"
     },
     {
-      "name": "Jeux de musique",
+      "name": "Jeux musicaux",
       "path": "/c/music-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
       "position": 10,
-      "description": "Jeux de musique passionnants !"
+      "description": "Des jeux musicaux passionnants !"
     },
     {
       "name": "Course et conduite",
@@ -160,7 +160,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 11,
-      "description": "Jeux de course et de conduite passionnants !"
+      "description": "Des jeux de course et de conduite passionnants !"
+    },
+    {
+      "name": "Jeu à deux joueurs",
+      "path": "/c/two-player-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743326266282-b5qekj.png",
+      "position": 12,
+      "description": "Des jeux passionnants à deux joueurs !"
     }
   ]
 }

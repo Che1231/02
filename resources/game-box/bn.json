@@ -12,7 +12,7 @@
     },
     {
       "visible": true,
-      "url": "/games/suika-game",
+      "url": "/games/little-alchemy-2",
       "position": 3
     },
     {
@@ -59,7 +59,7 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
-      "description": "আমরা আপনার জন্য সেরা গেমস নির্বাচন করেছি!",
+      "description": "আপনার জন্য আমরা সেরা গেমস নির্বাচন করেছি!",
       "position": 1
     },
     {
@@ -83,44 +83,44 @@
       "position": 3
     },
     {
-      "name": "সাহসিক গেমস",
+      "name": "অ্যাডভেঞ্চার গেমস",
       "path": "/c/adventure-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
       "position": 4,
-      "description": "উত্তেজনাপূর্ণ সাহসিক গেমস!"
+      "description": "উত্তেজনাপূর্ণ অ্যাডভেঞ্চার গেমস!"
     },
     {
-      "name": ".IO গেমস",
+      "name": ".আইও গেমস",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
       "position": 5,
-      "description": "উত্তেজনাপূর্ণ .IO গেমস!"
+      "description": "উত্তেজনাপূর্ণ .আইও গেমস!"
     },
     {
-      "name": "ওয়ার্ডলভার্স গেমস",
+      "name": "ওয়ার্ডেলভার্স গেমস",
       "path": "/c/wordleverse-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
       "position": 6,
-      "description": "উত্তেজনাপূর্ণ ওয়ার্ডলভার্স গেমস!"
+      "description": "উত্তেজনাপূর্ণ ওয়ার্ডেলভার্স গেমস!"
     },
     {
-      "name": "পাজেল গেমস",
+      "name": "পাজল গেমস",
       "path": "/c/puzzle-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
       "position": 7,
-      "description": "উত্তেজনাপূর্ণ পাজেল গেমস!"
+      "description": "উত্তেজনাপূর্ণ পাজল গেমস!"
     },
     {
       "name": "রান্না",
@@ -160,7 +160,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 11,
-      "description": "উত্তেজনাপূর্ণ রেসিং ও ড্রাইভিং গেমস!"
+      "description": "উত্তেজনাপূর্ণ রেসিং এবং ড্রাইভিং গেমস!"
+    },
+    {
+      "name": "দুই-খেলোয়াড় গেম",
+      "path": "/c/two-player-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743326266282-b5qekj.png",
+      "position": 12,
+      "description": "উত্তেজনাপূর্ণ দুই-খেলোয়াড় গেমস!"
     }
   ]
 }

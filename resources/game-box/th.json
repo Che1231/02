@@ -12,7 +12,7 @@
     },
     {
       "visible": true,
-      "url": "/games/suika-game",
+      "url": "/games/little-alchemy-2",
       "position": 3
     },
     {
@@ -59,7 +59,7 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
-      "description": "เราได้คัดสรรเกมที่ดีที่สุดสำหรับคุณ!",
+      "description": "เราคัดสรรเกมที่ดีที่สุดสำหรับคุณ!",
       "position": 1
     },
     {
@@ -161,6 +161,16 @@
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 11,
       "description": "เกมแข่งรถและขับรถที่น่าตื่นเต้น!"
+    },
+    {
+      "name": "เกมสองคนเล่น",
+      "path": "/c/two-player-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743326266282-b5qekj.png",
+      "position": 12,
+      "description": "เกมสองคนเล่นที่น่าตื่นเต้น!"
     }
   ]
 }

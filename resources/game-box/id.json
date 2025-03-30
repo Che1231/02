@@ -12,7 +12,7 @@
     },
     {
       "visible": true,
-      "url": "/games/suika-game",
+      "url": "/games/little-alchemy-2",
       "position": 3
     },
     {
@@ -123,7 +123,7 @@
       "description": "Permainan puzzle yang mengasyikkan!"
     },
     {
-      "name": "Memasak",
+      "name": "Permainan Memasak",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -133,7 +133,7 @@
       "description": "Permainan memasak yang mengasyikkan!"
     },
     {
-      "name": "Permainan Olah Raga",
+      "name": "Permainan Olahraga",
       "path": "/c/sports-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -153,7 +153,7 @@
       "description": "Permainan musik yang mengasyikkan!"
     },
     {
-      "name": "Balap & Mengemudi",
+      "name": "Permainan Balap & Mengemudi",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -161,6 +161,16 @@
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 11,
       "description": "Permainan Balap & Mengemudi yang mengasyikkan!"
+    },
+    {
+      "name": "Permainan Dua Pemain",
+      "path": "/c/two-player-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743326266282-b5qekj.png",
+      "position": 12,
+      "description": "Permainan dua pemain yang mengasyikkan!"
     }
   ]
 }
