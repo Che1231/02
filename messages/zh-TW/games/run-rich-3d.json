@@ -1,8 +1,8 @@
 {
   "run-rich-3d": {
-    "title": "跑富3D - 免費線上賺錢跑酷遊戲",
+    "title": "線上玩富翁3D - 免費跑酷遊戲",
     "slogan": "奔跑、收集、致富！",
-    "description": "體驗跑富3D的刺激，在跑道盡頭收集盡可能多的鈔票。收集越多鈔票，你的裝扮就越好。但小心！收集太多瓶子、垃圾桶或鈔票可能會讓你變窮，甚至有失去所有東西的風險。透過簡單直觀的控制，跑富3D很容易上手，而且讓人欲罷不能。現在就玩跑富3D，看看你能變得有多富有！",
+    "description": "體驗富翁3D的刺激跑酷遊戲，收集鈔票來升級你的裝扮。避開瓶子、垃圾桶等障礙物，保持財富。簡單的操作和引人入勝的遊戲玩法，非常適合休閒遊戲玩家。現在就玩富翁3D，看看你能跑多遠！",
     "Loading": {
       "title": "載入中..."
     },
@@ -23,8 +23,8 @@
       "previous": "上一頁"
     },
     "HomeIframe": {
-      "title": "跑富3D",
-      "description": "跑富3D是一款令人興奮的賺錢跑酷遊戲，讓你收集鈔票致富。現在就玩，看看你能跑多遠！",
+      "title": "富翁3D",
+      "description": "富翁3D是一款令人興奮的跑酷遊戲，收集鈔票來升級你的裝扮。避開障礙物，持續奔跑！",
       "iframeTitle": "遊戲預覽",
       "fullscreenButton": "全螢幕",
       "shareButton": "分享",
@@ -33,31 +33,31 @@
       "playGame": "開始遊戲"
     },
     "HomeFeatures": {
-      "gameTitle": "跑富3D",
-      "whatIsTitle": "跑富3D是什麼？",
-      "whatIsDescription": "跑富3D是一款節奏快速的賺錢跑酷遊戲，讓你收集鈔票致富，同時躲避障礙物。",
-      "howToPlayTitle": "如何遊戲",
-      "howToPlayStep1": "跑到跑道盡頭。",
-      "howToPlayStep2": "收集盡可能多的鈔票。",
-      "howToPlayStep3": "躲避瓶子及垃圾桶，保持財富。",
+      "gameTitle": "富翁3D",
+      "whatIsTitle": "富翁3D是什麼？",
+      "whatIsDescription": "富翁3D是一款刺激的跑酷遊戲，收集鈔票來升級你的裝扮。避開障礙物，持續奔跑！",
+      "howToPlayTitle": "如何遊戲？",
+      "howToPlayStep1": "跑到終點。",
+      "howToPlayStep2": "收集儘可能多的鈔票。",
+      "howToPlayStep3": "避開瓶子、垃圾桶和其他障礙物。",
       "keyFeaturesTitle": "主要功能",
-      "feature1Title": "簡單控制",
-      "feature1Description": "簡單易學的控制，提供流暢的遊戲體驗。",
-      "feature2Title": "動態裝扮",
-      "feature2Description": "隨著收集更多鈔票，你的裝扮會有所提升。",
-      "feature3Title": "具有挑戰性的障礙",
-      "feature3Description": "躲避可能讓你變窮的障礙物。",
-      "feature4Title": "無盡的樂趣",
-      "feature4Description": "反覆遊戲，挑戰你的最高分。"
+      "feature1Title": "簡單的操作",
+      "feature1Description": "簡單易學的操作使富翁3D能為所有玩家所用。",
+      "feature2Title": "升級你的裝扮",
+      "feature2Description": "收集鈔票來升級你的裝扮，展現你的財富。",
+      "feature3Title": "避開障礙",
+      "feature3Description": "避開瓶子、垃圾桶和其他障礙物，保持財富。",
+      "feature4Title": "引人入勝的遊戲體驗",
+      "feature4Description": "富翁3D為休閒遊戲玩家提供快速且引人入勝的遊戲體驗。"
     },
     "HomeFAQs": {
-      "title": "常見問題集"
+      "title": "常見問題解答"
     },
     "HomeRelatedVideo": {
       "title": "遊戲影片"
     },
     "HomeRecommendation": {
-      "title": "推薦"
+      "title": "推薦遊戲"
     },
     "HomeComments": {
       "title": "遊戲評論"
@@ -65,13 +65,13 @@
     "GamePage": {
       "title": "所有遊戲",
       "description": "所有遊戲",
-      "games": "遊戲"
+      "games": "遊戲列表"
     },
     "CategoryPage": {
       "categories": "類別",
       "noCategories": "找不到類別",
       "viewMore": "查看更多",
-      "page": "頁面"
+      "page": "頁碼"
     }
   }
 }
