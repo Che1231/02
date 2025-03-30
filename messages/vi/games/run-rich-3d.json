@@ -1,79 +1,77 @@
 {
   "run-rich-3d": {
-    "run-rich-33": {
-      "title": "Chơi Run Rich 3D trực tuyến miễn phí - Trò chơi chạy kiếm tiền",
-      "slogan": "Chạy, thu thập và trở nên giàu có!",
-      "description": "Tận hưởng cảm giác hồi hộp của Run Rich 3D, một trò chơi chạy nhanh nhịp độ, nơi bạn thu thập tiền để nâng cấp trang phục. Tránh chướng ngại vật như chai lọ và thùng rác để giữ được sự giàu có. Với các điều khiển đơn giản và lối chơi hấp dẫn, Run Rich 3D hoàn hảo cho những game thủ casual. Chơi Run Rich 3D ngay bây giờ và xem bạn có thể chạy bao xa!",
-      "Loading": {
-        "title": "Đang tải..."
-      },
-      "Navbar": {
-        "title": "Điều hướng"
-      },
-      "Common": {
-        "createAt": "Tạo lúc",
-        "guide": "Hướng dẫn",
-        "privacyPolicy": "Chính sách bảo mật",
-        "termsOfServices": "Điều khoản dịch vụ",
-        "text": "Nội dung",
-        "help": "Trợ giúp",
-        "friendlyLinks": "Liên kết hữu ích",
-        "articleList": "Danh sách bài viết",
-        "home": "Trang chủ",
-        "next": "Tiếp theo",
-        "previous": "Trước đó"
-      },
-      "HomeIframe": {
-        "title": "Run Rich 3D",
-        "description": "Run Rich 3D là một trò chơi chạy thú vị, nơi bạn thu thập tiền để nâng cấp trang phục. Tránh chướng ngại vật để giữ được sự giàu có và tiếp tục chạy!",
-        "iframeTitle": "Xem trước trò chơi",
-        "fullscreenButton": "Toàn màn hình",
-        "shareButton": "Chia sẻ",
-        "urlCopied": "Đã sao chép URL vào clipboard!",
-        "downloadGame": "Tải game",
-        "playGame": "Chơi game"
-      },
-      "HomeFeatures": {
-        "gameTitle": "Run Rich 3D",
-        "whatIsTitle": "Run Rich 3D là gì?",
-        "whatIsDescription": "Run Rich 3D là một trò chơi chạy hồi hộp, nơi bạn thu thập tiền để nâng cấp trang phục. Tránh chướng ngại vật để giữ được sự giàu có và tiếp tục chạy!",
-        "howToPlayTitle": "Cách chơi",
-        "howToPlayStep1": "Chạy đến cuối đường đua.",
-        "howToPlayStep2": "Thu thập càng nhiều tiền càng tốt.",
-        "howToPlayStep3": "Tránh chai lọ, thùng rác và các chướng ngại vật khác.",
-        "keyFeaturesTitle": "Các tính năng chính",
-        "feature1Title": "Các điều khiển đơn giản",
-        "feature1Description": "Các điều khiển dễ học giúp Run Rich 3D có thể truy cập cho tất cả người chơi.",
-        "feature2Title": "Nâng cấp trang phục của bạn",
-        "feature2Description": "Thu thập tiền để nâng cấp trang phục của bạn và trông giàu có hơn.",
-        "feature3Title": "Tránh chướng ngại vật",
-        "feature3Description": "Giữ được sự giàu có bằng cách tránh chai lọ, thùng rác và các chướng ngại vật khác.",
-        "feature4Title": "Lối chơi hấp dẫn",
-        "feature4Description": "Run Rich 3D mang đến lối chơi nhanh nhịp độ và hấp dẫn cho những game thủ casual."
-      },
-      "HomeFAQs": {
-        "title": "Câu hỏi thường gặp"
-      },
-      "HomeRelatedVideo": {
-        "title": "Video trò chơi"
-      },
-      "HomeRecommendation": {
-        "title": "Đề xuất"
-      },
-      "HomeComments": {
-        "title": "Bình luận trò chơi"
-      },
-      "GamePage": {
-        "title": "Tất cả các trò chơi",
-        "description": "Tất cả các trò chơi",
-        "games": "Các trò chơi"
-      },
-      "CategoryPage": {
-        "categories": "Các danh mục",
-        "noCategories": "Không tìm thấy danh mục nào",
-        "viewMore": "Xem thêm",
-        "page": "Trang"
-      }
+    "title": "Chạy Giàu 3D - Trò Chơi Trực Tuyến Miễn Phí",
+    "slogan": "Chạy, Thu Thập và Làm Giàu!",
+    "description": "Chạy Giàu 3D là một trò chơi chạy 3D thú vị, nơi bạn thu thập tiền để nâng cấp trang phục của mình. Tránh chướng ngại vật như chai lọ và thùng rác để giữ được sự giàu có. Với các điều khiển đơn giản và lối chơi hấp dẫn, Chạy Giàu 3D mang đến những giờ phút giải trí tuyệt vời. Chơi Chạy Giàu 3D ngay bây giờ và xem bạn có thể đi được bao xa!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Đọc"
+    },
+    "Common": {
+      "createAt": "Tạo vào",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước"
+    },
+    "HomeIframe": {
+      "title": "Chạy Giàu 3D",
+      "description": "Chạy Giàu 3D là một trò chơi chạy 3D hồi hộp, nơi bạn thu thập tiền để nâng cấp trang phục của mình. Tránh chướng ngại vật để giữ được sự giàu có và tận hưởng các điều khiển đơn giản, trực quan.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào clipboard!",
+      "downloadGame": "Tải game",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Chạy Giàu 3D",
+      "whatIsTitle": "Chạy Giàu 3D là gì?",
+      "whatIsDescription": "Chạy Giàu 3D là một trò chơi chạy 3D, nơi bạn thu thập tiền để nâng cấp trang phục. Tránh chướng ngại vật để giữ được sự giàu có và tận hưởng các điều khiển đơn giản, trực quan.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Chạy đến cuối đường đua.",
+      "howToPlayStep2": "Thu thập càng nhiều tiền càng tốt.",
+      "howToPlayStep3": "Tránh các chai lọ, thùng rác và các chướng ngại vật khác.",
+      "keyFeaturesTitle": "Tính năng chính",
+      "feature1Title": "Điều khiển đơn giản",
+      "feature1Description": "Các điều khiển dễ nhớ cho tất cả người chơi.",
+      "feature2Title": "Nâng cấp trang phục",
+      "feature2Description": "Thu thập tiền bạc để nâng cấp trang phục của bạn.",
+      "feature3Title": "Tránh chướng ngại vật",
+      "feature3Description": "Giữ sự giàu có của bạn bằng cách tránh các chai lọ và thùng rác.",
+      "feature4Title": "Lối chơi hấp dẫn",
+      "feature4Description": "Tận hưởng những giờ phút giải trí tuyệt vời với Chạy Giàu 3D."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Thể loại",
+      "noCategories": "Không tìm thấy thể loại nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
     }
   }
 }

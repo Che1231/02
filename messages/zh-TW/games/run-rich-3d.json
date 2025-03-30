@@ -1,8 +1,8 @@
 {
   "run-rich-3d": {
-    "title": "線上玩富翁3D - 免費跑酷遊戲",
-    "slogan": "奔跑、收集、致富！",
-    "description": "體驗富翁3D的刺激跑酷遊戲，收集鈔票來升級你的裝扮。避開瓶子、垃圾桶等障礙物，保持財富。簡單的操作和引人入勝的遊戲玩法，非常適合休閒遊戲玩家。現在就玩富翁3D，看看你能跑多遠！",
+    "title": "跑富3D - 免費線上遊戲",
+    "slogan": "奔跑、收集並致富！",
+    "description": "跑富3D 是一款令人興奮的 3D 跑步遊戲，您需要收集鈔票來升級您的裝扮。避開瓶子、垃圾桶等障礙物，保持財富。簡單的操作和引人入勝的遊戲玩法，讓您玩上數小時。現在就玩跑富 3D，看看你能走多遠！",
     "Loading": {
       "title": "載入中..."
     },
@@ -23,35 +23,35 @@
       "previous": "上一頁"
     },
     "HomeIframe": {
-      "title": "富翁3D",
-      "description": "富翁3D是一款令人興奮的跑酷遊戲，收集鈔票來升級你的裝扮。避開障礙物，持續奔跑！",
+      "title": "跑富 3D",
+      "description": "跑富 3D 是一款令人振奮的 3D 跑步遊戲，您需要收集鈔票以升級您的裝扮。避開障礙，享受簡單直觀的操作。",
       "iframeTitle": "遊戲預覽",
       "fullscreenButton": "全螢幕",
       "shareButton": "分享",
       "urlCopied": "網址已複製到剪貼簿！",
       "downloadGame": "下載遊戲",
-      "playGame": "開始遊戲"
+      "playGame": "玩遊戲"
     },
     "HomeFeatures": {
-      "gameTitle": "富翁3D",
-      "whatIsTitle": "富翁3D是什麼？",
-      "whatIsDescription": "富翁3D是一款刺激的跑酷遊戲，收集鈔票來升級你的裝扮。避開障礙物，持續奔跑！",
-      "howToPlayTitle": "如何遊戲？",
-      "howToPlayStep1": "跑到終點。",
+      "gameTitle": "跑富 3D",
+      "whatIsTitle": "跑富 3D 是一款什麼遊戲？",
+      "whatIsDescription": "跑富 3D 是一款 3D 跑步遊戲，您需要收集鈔票以升級您的裝扮。避開障礙，享受簡單直觀的操作。",
+      "howToPlayTitle": "如何遊戲",
+      "howToPlayStep1": "跑到跑道盡頭。",
       "howToPlayStep2": "收集儘可能多的鈔票。",
       "howToPlayStep3": "避開瓶子、垃圾桶和其他障礙物。",
-      "keyFeaturesTitle": "主要功能",
+      "keyFeaturesTitle": "主要特點",
       "feature1Title": "簡單的操作",
-      "feature1Description": "簡單易學的操作使富翁3D能為所有玩家所用。",
-      "feature2Title": "升級你的裝扮",
-      "feature2Description": "收集鈔票來升級你的裝扮，展現你的財富。",
-      "feature3Title": "避開障礙",
-      "feature3Description": "避開瓶子、垃圾桶和其他障礙物，保持財富。",
+      "feature1Description": "所有玩家都易於記住的操作。",
+      "feature2Title": "升級裝扮",
+      "feature2Description": "收集鈔票以升級您的裝扮。",
+      "feature3Title": "避開障礙物",
+      "feature3Description": "通過避開瓶子與垃圾桶來保持財富。",
       "feature4Title": "引人入勝的遊戲體驗",
-      "feature4Description": "富翁3D為休閒遊戲玩家提供快速且引人入勝的遊戲體驗。"
+      "feature4Description": "在跑富 3D 中享受數小時的樂趣。"
     },
     "HomeFAQs": {
-      "title": "常見問題解答"
+      "title": "常見問題"
     },
     "HomeRelatedVideo": {
       "title": "遊戲影片"
@@ -65,13 +65,13 @@
     "GamePage": {
       "title": "所有遊戲",
       "description": "所有遊戲",
-      "games": "遊戲列表"
+      "games": "遊戲"
     },
     "CategoryPage": {
-      "categories": "類別",
-      "noCategories": "找不到類別",
+      "categories": "分類",
+      "noCategories": "找不到分類",
       "viewMore": "查看更多",
-      "page": "頁碼"
+      "page": "頁面"
     }
   }
 }

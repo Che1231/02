@@ -1,10 +1,10 @@
 {
   "run-rich-3d": {
-    "title": "Run Rich 3D Online spielen - Kostenloses Gelaufenes Gelsspiel",
-    "slogan": "Laufen, sammeln und reich werden!",
-    "description": "Erleben Sie den Nervenkitzel von Run Rich 3D, einem rasanten Laufspiel, in dem Sie Geldscheine sammeln, um Ihr Outfit zu verbessern. Vermeiden Sie Hindernisse wie Flaschen und Mülleimer, um reich zu bleiben. Mit einfachen Steuerelementen und fesselnden Gameplay ist Run Rich 3D perfekt für Gelegenheitsspieler. Spielen Sie jetzt Run Rich 3D und sehen Sie, wie weit Sie laufen können!",
+    "title": "Run Rich 3D – Kostenloses Online-Spiel",
+    "slogan": "Laufen, Sammeln und reich werden!",
+    "description": "Run Rich 3D ist ein aufregendes 3D-Laufspiel, bei dem du Geldscheine sammelst, um dein Outfit zu verbessern. Vermeide Hindernisse wie Flaschen und Abfalleimer, um reich zu bleiben. Mit einfachen Steuerelementen und fesselndem Gameplay bietet Run Rich 3D stundenlangen Spaß. Spiele Run Rich 3D jetzt und erlebe, wie weit du kommst!",
     "Loading": {
-      "title": "Lädt..."
+      "title": "Lädt…"
     },
     "Navbar": {
       "title": "Navigation"
@@ -19,13 +19,13 @@
       "friendlyLinks": "Freundliche Links",
       "articleList": "Artikelübersicht",
       "home": "Startseite",
-      "next": "Weiter",
-      "previous": "Zurück"
+      "next": "Nächste",
+      "previous": "Vorherige"
     },
     "HomeIframe": {
       "title": "Run Rich 3D",
-      "description": "Run Rich 3D ist ein aufregendes Laufspiel, in dem Sie Geldscheine sammeln, um Ihr Outfit zu verbessern. Vermeiden Sie Hindernisse, um reich zu bleiben und weiterzulaufen!",
-      "iframeTitle": "Vorschau des Spiels",
+      "description": "Run Rich 3D ist ein spannendes 3D-Laufspiel, bei dem du Geldscheine sammelst, um dein Outfit zu verbessern. Vermeide Hindernisse, um reich zu bleiben und genieße die einfachen, intuitiven Steuerelemente.",
+      "iframeTitle": "Spielvorschau",
       "fullscreenButton": "Vollbild",
       "shareButton": "Teilen",
       "urlCopied": "URL in die Zwischenablage kopiert!",
@@ -35,20 +35,20 @@
     "HomeFeatures": {
       "gameTitle": "Run Rich 3D",
       "whatIsTitle": "Was ist Run Rich 3D?",
-      "whatIsDescription": "Run Rich 3D ist ein spannendes Laufspiel, in dem Sie Geldscheine sammeln, um Ihr Outfit zu verbessern. Vermeiden Sie Hindernisse, um reich zu bleiben und weiterzulaufen!",
-      "howToPlayTitle": "So spielen Sie",
-      "howToPlayStep1": "Laufen Sie bis zum Ende der Strecke.",
-      "howToPlayStep2": "Sammeln Sie so viele Geldscheine wie möglich.",
-      "howToPlayStep3": "Meiden Sie Flaschen, Mülleimer und andere Hindernisse.",
-      "keyFeaturesTitle": "Haupteigenschaften",
+      "whatIsDescription": "Run Rich 3D ist ein 3D-Laufspiel, in dem du Geldscheine sammelst, um dein Outfit zu verbessern. Vermeide Hindernisse, um reich zu bleiben und genieße die einfachen, intuitiven Steuerelemente.",
+      "howToPlayTitle": "So spielst du",
+      "howToPlayStep1": "Laufe bis zum Ende der Strecke.",
+      "howToPlayStep2": "Sammle so viele Geldscheine wie möglich.",
+      "howToPlayStep3": "Vermeide Flaschen, Abfalleimer und andere Hindernisse.",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
       "feature1Title": "Einfache Steuerung",
-      "feature1Description": "Die einfach zu erlernenden Steuerelemente machen Run Rich 3D für alle Spieler zugänglich.",
-      "feature2Title": "Verbessere dein Outfit",
-      "feature2Description": "Sammle Geldscheine, um dein Outfit zu verbessern und reicher auszusehen.",
+      "feature1Description": "Einfache und gut zu merkende Steuerung für alle Spieler.",
+      "feature2Title": "Outfit-Verbesserungen",
+      "feature2Description": "Sammle Geldscheine, um dein Outfit zu verbessern.",
       "feature3Title": "Hindernisse vermeiden",
-      "feature3Description": "Bleiben Sie reich, indem Sie Flaschen, Mülleimer und andere Hindernisse vermeiden.",
+      "feature3Description": "Bleibe reich, indem du Flaschen und Abfalleimer vermeidest.",
       "feature4Title": "Fesselndes Gameplay",
-      "feature4Description": "Run Rich 3D bietet ein rasantes und fesselndes Gameplay für Gelegenheitsspieler."
+      "feature4Description": "Genieße stundenlangen Spaß mit Run Rich 3D."
     },
     "HomeFAQs": {
       "title": "FAQ"

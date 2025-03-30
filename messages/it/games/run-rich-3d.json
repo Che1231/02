@@ -1,8 +1,8 @@
 {
   "run-rich-3d": {
-    "title": "Gioca a Run Rich 3D Online - Gioco Gratuito di Corsa con Denaro",
-    "slogan": "Corri, Raccogli e Diventati Ricco!",
-    "description": "Vivi l'emozione di Run Rich 3D, un frenetico gioco di corsa in cui raccogli banconote per migliorare il tuo abbigliamento. Evita ostacoli come bottiglie e cestini della spazzatura per rimanere ricco. Con controlli semplici e un gameplay coinvolgente, Run Rich 3D è perfetto per i giocatori occasionali. Gioca a Run Rich 3D ora e scopri quanto lontano puoi correre!",
+    "title": "Run Rich 3D - Gioco Online Gratuito",
+    "slogan": "Corri, Raccola e Diventa Ricco!",
+    "description": "Run Rich 3D è un emozionante gioco di corsa 3D in cui raccogli banconote per migliorare il tuo abbigliamento. Evita ostacoli come bottiglie e bidoni della spazzatura per rimanere ricco. Con controlli semplici e un gameplay coinvolgente, Run Rich 3D offre ore di divertimento. Gioca a Run Rich 3D ora e scopri fino a dove puoi arrivare!",
     "Loading": {
       "title": "Caricamento..."
     },
@@ -16,15 +16,15 @@
       "termsOfServices": "Termini di Servizio",
       "text": "Contenuto",
       "help": "Aiuto",
-      "friendlyLinks": "Link Amicali",
+      "friendlyLinks": "Link Utili",
       "articleList": "Elenco Articoli",
       "home": "Home",
-      "next": "Successivo",
+      "next": "Prossimo",
       "previous": "Precedente"
     },
     "HomeIframe": {
       "title": "Run Rich 3D",
-      "description": "Run Rich 3D è un emozionante gioco di corsa in cui raccogli banconote per migliorare il tuo abbigliamento. Evita gli ostacoli per rimanere ricco e continuare a correre!",
+      "description": "Run Rich 3D è un emozionante gioco di corsa 3D in cui raccogli banconote per migliorare la tua attrezzatura. Evita gli ostacoli per rimanere ricco e divertiti con i controlli semplici e intuitivi.",
       "iframeTitle": "Anteprima del Gioco",
       "fullscreenButton": "Schermo intero",
       "shareButton": "Condividi",
@@ -35,20 +35,20 @@
     "HomeFeatures": {
       "gameTitle": "Run Rich 3D",
       "whatIsTitle": "Cos'è Run Rich 3D?",
-      "whatIsDescription": "Run Rich 3D è un emozionante gioco di corsa in cui raccogli banconote per migliorare il tuo abbigliamento. Evita gli ostacoli per rimanere ricco e continuare a correre!",
+      "whatIsDescription": "Run Rich 3D è un gioco di corsa 3D in cui raccogli banconote per migliorare il tuo abbigliamento. Evita gli ostacoli per rimanere ricco e divertiti con i controlli semplici e intuitivi.",
       "howToPlayTitle": "Come giocare",
-      "howToPlayStep1": "Corri fino alla fine del percorso.",
-      "howToPlayStep2": "Raccogli quante più banconote possibile.",
-      "howToPlayStep3": "Evita bottiglie, cestini della spazzatura e altri ostacoli.",
+      "howToPlayStep1": "Corri fino alla fine della pista.",
+      "howToPlayStep2": "Raccolta quante più banconote possibili.",
+      "howToPlayStep3": "Evitare bottiglie, bidoni della spazzatura e altri ostacoli.",
       "keyFeaturesTitle": "Caratteristiche principali",
       "feature1Title": "Controlli Semplici",
-      "feature1Description": "I controlli facili da imparare rendono Run Rich 3D accessibile a tutti i giocatori.",
-      "feature2Title": "Migliora il tuo Abbigliamento",
-      "feature2Description": "Raccogli banconote per migliorare il tuo abbigliamento e apparire più ricco.",
+      "feature1Description": "Controlli facili da ricordare per tutti i giocatori.",
+      "feature2Title": "Migliora gli Abiti",
+      "feature2Description": "Raccogli banconote per migliorare la tua attrezzatura.",
       "feature3Title": "Evita gli Ostacoli",
-      "feature3Description": "Rimani ricco evitando bottiglie, cestini della spazzatura e altri ostacoli.",
+      "feature3Description": "Rimani ricco evitando bottiglie e bidoni della spazzatura.",
       "feature4Title": "Gameplay Coinvolgente",
-      "feature4Description": "Run Rich 3D offre un gameplay frenetico e coinvolgente per i giocatori occasionali."
+      "feature4Description": "Goditi ore di divertimento con Run Rich 3D."
     },
     "HomeFAQs": {
       "title": "FAQ"
@@ -70,7 +70,7 @@
     "CategoryPage": {
       "categories": "Categorie",
       "noCategories": "Nessuna categoria trovata",
-      "viewMore": "Visualizza altro",
+      "viewMore": "Visualizza di Più",
       "page": "Pagina"
     }
   }

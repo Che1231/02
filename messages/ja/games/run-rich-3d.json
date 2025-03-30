@@ -1,10 +1,10 @@
 {
   "run-rich-3d": {
-    "title": "ラン・リッチ3Dオンラインゲームをプレイ – 無料のマネーランゲーム",
-    "slogan": "走って、集めて、裕福になろう！",
-    "description": "ラン・リッチ3Dの興奮を体験してください。これは、お金の紙幣を集めて衣装をアップグレードする、テンポの速いランニングゲームです。ボトルやゴミ箱などの障害物を避け、裕福さを保ちましょう。シンプルで魅力的なゲームプレイにより、カジュアルゲーマーに最適です。今すぐラン・リッチ3Dをプレイして、どれくらい走れるか見てください！",
+    "title": "Run Rich 3D - 無料オンラインゲーム",
+    "slogan": "走って、集めて、お金持ちになろう！",
+    "description": "Run Rich 3D は、お金の札を集めて衣装をアップグレードする、エキサイティングな3Dランニングゲームです。ボトルやゴミ箱などの障害物を避け、お金持ちでいましょう。シンプルな操作と魅力的なゲームプレイで、Run Rich 3D は数時間楽しめます。今すぐRun Rich 3Dをプレイして、どれだけ遠くまで行けるか試してみてください！",
     "Loading": {
-      "title": "読み込み中..."
+      "title": "読み込み中…"
     },
     "Navbar": {
       "title": "ナビゲーション"
@@ -13,7 +13,7 @@
       "createAt": "作成日時",
       "guide": "ガイド",
       "privacyPolicy": "プライバシーポリシー",
-      "termsOfServices": "サービス利用規約",
+      "termsOfServices": "利用規約",
       "text": "コンテンツ",
       "help": "ヘルプ",
       "friendlyLinks": "友情リンク",
@@ -23,8 +23,8 @@
       "previous": "前へ"
     },
     "HomeIframe": {
-      "title": "ラン・リッチ3D",
-      "description": "ラン・リッチ3Dは、お金の紙幣を集めて衣装をアップグレードする、エキサイティングなランニングゲームです。障害物を避け、走り続け、裕福さを保ちましょう！",
+      "title": "Run Rich 3D",
+      "description": "Run Rich 3D は、お金の札を集めて衣装をアップグレードする、スリリングな3Dランニングゲームです。障害物を避け、お金持ちでいながら、シンプルで直感的な操作をお楽しみください。",
       "iframeTitle": "ゲームプレビュー",
       "fullscreenButton": "全画面表示",
       "shareButton": "共有",
@@ -33,34 +33,34 @@
       "playGame": "ゲームをプレイ"
     },
     "HomeFeatures": {
-      "gameTitle": "ラン・リッチ3D",
-      "whatIsTitle": "ラン・リッチ3Dとは？",
-      "whatIsDescription": "ラン・リッチ3Dは、お金の紙幣を集めて衣装をアップグレードする、スリリングなランニングゲームです。障害物を避け、走り続け、裕福さを保ちましょう！",
+      "gameTitle": "Run Rich 3D",
+      "whatIsTitle": "Run Rich 3Dとは？",
+      "whatIsDescription": "Run Rich 3D は、お金の札を集めて衣装をアップグレードする3Dランニングゲームです。障害物を避け、シンプルで直感的な操作をお楽しみください。",
       "howToPlayTitle": "遊び方",
-      "howToPlayStep1": "トラックの終わりまで走りましょう。",
-      "howToPlayStep2": "出来るだけ多くの紙幣を集めましょう。",
-      "howToPlayStep3": "ボトル、ゴミ箱、その他の障害物を避けましょう。",
+      "howToPlayStep1": "コースの終点まで走ります。",
+      "howToPlayStep2": "できるだけ多くの紙幣を集めます。",
+      "howToPlayStep3": "ボトル、ゴミ箱、その他の障害物を避けます。",
       "keyFeaturesTitle": "主な特徴",
       "feature1Title": "シンプルな操作",
-      "feature1Description": "習得しやすい操作により、ラン・リッチ3Dはすべてのプレイヤーにアクセス可能です。",
-      "feature2Title": "衣装をアップグレード",
-      "feature2Description": "お金の紙幣を集めて衣装をアップグレードし、より裕福に見えるようにしましょう。",
-      "feature3Title": "障害物を避けろ！",
-      "feature3Description": "ボトル、ゴミ箱、その他の障害物を避けて裕福さを保ちましょう。",
+      "feature1Description": "すべてのプレイヤーが簡単に覚えることができる操作です。",
+      "feature2Title": "衣装のアップグレード",
+      "feature2Description": "お金の札を集めて、衣装をアップグレードします。",
+      "feature3Title": "障害物回避",
+      "feature3Description": "ボトルやゴミ箱を避け、お金持ちでいましょう。",
       "feature4Title": "魅力的なゲームプレイ",
-      "feature4Description": "ラン・リッチ3Dは、カジュアルゲーマーのためにテンポの速く魅力的なゲームプレイを提供します。"
+      "feature4Description": "Run Rich 3Dで数時間楽しく過ごせます。"
     },
     "HomeFAQs": {
       "title": "よくある質問"
     },
     "HomeRelatedVideo": {
-      "title": "ゲームビデオ"
+      "title": "ゲーム動画"
     },
     "HomeRecommendation": {
-      "title": "おすすめ"
+      "title": "推奨ゲーム"
     },
     "HomeComments": {
-      "title": "ゲームのコメント"
+      "title": "ゲームコメント"
     },
     "GamePage": {
       "title": "すべてのゲーム",

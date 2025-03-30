@@ -1,8 +1,8 @@
 {
   "run-rich-3d": {
-    "title": "Jouer à Run Rich 3D en ligne - Jeu de course à l'argent gratuit",
-    "slogan": "Courez, collectionnez et devenez riche !",
-    "description": "Découvrez le frisson de Run Rich 3D, un jeu de course rapide où vous collectionnez des billets de banque pour améliorer votre tenue. Évitez les obstacles comme les bouteilles et les poubelles pour rester riche. Avec des commandes simples et un gameplay captivant, Run Rich 3D est parfait pour les joueurs occasionnels. Jouez à Run Rich 3D dès maintenant et voyez jusqu'où vous pouvez courir !",
+    "title": "Run Rich 3D - Jeu en ligne gratuit",
+    "slogan": "Courez, collectez et devenez riche !",
+    "description": "Run Rich 3D est un jeu de course 3D passionnant où vous collectez des billets de banque pour améliorer votre tenue. Évitez les obstacles comme les bouteilles et les poubelles pour rester riche. Avec des commandes simples et un gameplay captivant, Run Rich 3D offre des heures de plaisir. Jouez à Run Rich 3D dès maintenant et voyez jusqu'où vous pouvez aller !",
     "Loading": {
       "title": "Chargement..."
     },
@@ -17,41 +17,41 @@
       "text": "Contenu",
       "help": "Aide",
       "friendlyLinks": "Liens Amis",
-      "articleList": "Liste d'articles",
+      "articleList": "Liste des Articles",
       "home": "Accueil",
       "next": "Suivant",
       "previous": "Précédent"
     },
     "HomeIframe": {
       "title": "Run Rich 3D",
-      "description": "Run Rich 3D est un jeu de course passionnant où vous collectez des billets de banque pour améliorer votre tenue. Évitez les obstacles pour rester riche et continuez à courir !",
+      "description": "Run Rich 3D est un jeu de course 3D palpitant où vous collectez des billets de banque pour améliorer votre tenue. Évitez les obstacles pour rester riche et profitez des commandes simples et intuitives.",
       "iframeTitle": "Aperçu du jeu",
       "fullscreenButton": "Plein écran",
       "shareButton": "Partager",
-      "urlCopied": "URL copiée dans le presse-papiers !",
+      "urlCopied": "URL copiée dans le presse-papier !",
       "downloadGame": "Télécharger le jeu",
       "playGame": "Jouer"
     },
     "HomeFeatures": {
       "gameTitle": "Run Rich 3D",
-      "whatIsTitle": "Qu'est-ce que Run Rich 3D ?",
-      "whatIsDescription": "Run Rich 3D est un jeu de course palpitant où vous collectionnez des billets de banque pour améliorer votre tenue. Évitez les obstacles pour rester riche et continuez à courir !",
+      "whatIsTitle": "Qu'est-ce que Run Rich 3D ?",
+      "whatIsDescription": "Run Rich 3D est un jeu de course 3D où vous collectez des billets de banque pour améliorer votre tenue. Évitez les obstacles pour rester riche et profitez des commandes simples et intuitives.",
       "howToPlayTitle": "Comment jouer",
-      "howToPlayStep1": "Courez jusqu'à la fin de la piste.",
-      "howToPlayStep2": "Collectionnez autant de billets de banque que possible.",
-      "howToPlayStep3": "Évitez les bouteilles, les poubelles et autres obstacles.",
-      "keyFeaturesTitle": "Caractéristiques principales",
+      "howToPlayStep1": "Courez jusqu'à la fin du parcours.",
+      "howToPlayStep2": "Ramassez autant de billets de banque que possible.",
+      "howToPlayStep3": "Évitez les bouteilles, les poubelles et les autres obstacles.",
+      "keyFeaturesTitle": "Principales caractéristiques",
       "feature1Title": "Commandes simples",
-      "feature1Description": "Des commandes faciles à apprendre rendent Run Rich 3D accessible à tous les joueurs.",
-      "feature2Title": "Améliorez votre tenue",
-      "feature2Description": "Collectionnez des billets de banque pour améliorer votre tenue et paraître plus riche.",
-      "feature3Title": "Évitez les obstacles",
-      "feature3Description": "Restez riche en évitant les bouteilles, les poubelles et autres obstacles.",
+      "feature1Description": "Commandes faciles à mémoriser pour tous les joueurs.",
+      "feature2Title": "Améliorer les tenues",
+      "feature2Description": "Ramassez des billets de banque pour améliorer votre tenue.",
+      "feature3Title": "Éviter les obstacles",
+      "feature3Description": "Restez riche en évitant les bouteilles et les poubelles.",
       "feature4Title": "Gameplay captivant",
-      "feature4Description": "Run Rich 3D offre un gameplay rapide et captivant pour les joueurs occasionnels."
+      "feature4Description": "Profitez de nombreuses heures de plaisir avec Run Rich 3D."
     },
     "HomeFAQs": {
-      "title": "FAQ"
+      "title": "Foire aux questions"
     },
     "HomeRelatedVideo": {
       "title": "Vidéo du jeu"
@@ -60,7 +60,7 @@
       "title": "Recommandations"
     },
     "HomeComments": {
-      "title": "Commentaires du Jeu"
+      "title": "Commentaires du jeu"
     },
     "GamePage": {
       "title": "Tous les jeux",
@@ -70,7 +70,7 @@
     "CategoryPage": {
       "categories": "Catégories",
       "noCategories": "Aucune catégorie trouvée",
-      "viewMore": "Afficher plus",
+      "viewMore": "Voir plus",
       "page": "Page"
     }
   }
