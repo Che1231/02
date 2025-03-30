@@ -1,0 +1,77 @@
+{
+  "right-shot": {
+    "title": "Right Shot - 무료 온라인 총격 게임",
+    "slogan": "겨냥, 사격, 정복!",
+    "description": "Right Shot은 다양한 표적을 제거할 수 있는 흥미진진한 총격 게임입니다. 물체를 손가락으로 움직여 발사 방향을 바꾸십시오. 정확하게 조준하여 레벨을 완료하고 새로운 대포를 잠금 해제하십시오. 수집가 판본도 포함되어 있습니다. 지금 Right Shot을 플레이하고 정밀한 사격의 짜릿함을 경험하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "Right Shot",
+      "description": "Right Shot은 다양한 표적을 제거할 수 있는 흥미진진한 총격 게임입니다. 물체를 손가락으로 움직여 발사 방향을 바꾸십시오. 정확하게 조준하여 레벨을 완료하고 새로운 대포를 잠금 해제하십시오.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Right Shot",
+      "whatIsTitle": "Right Shot은 무엇인가요?",
+      "whatIsDescription": "Right Shot은 발사 방향을 바꾸기 위해 물체를 전략적으로 움직여 다양한 표적을 제거하는 정확성 사격 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "물체를 손가락으로 움직여 발사 방향을 바꾸십시오.",
+      "howToPlayStep2": "정확하게 조준하여 표적을 맞추십시오.",
+      "howToPlayStep3": "레벨을 완료하여 새로운 대포를 잠금 해제하십시오.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "여러 표적",
+      "feature1Description": "각 레벨에서 다양한 유형의 표적을 제거하십시오.",
+      "feature2Title": "대화형 게임 플레이",
+      "feature2Description": "물체를 움직여 발사 방향을 바꾸십시오.",
+      "feature3Title": "잠금 해제 가능한 대포",
+      "feature3Description": "레벨을 완료하고 새로운 대포, 포함 수집가 판본을 잠금 해제하십시오.",
+      "feature4Title": "도전적인 레벨",
+      "feature4Description": "점점 어려워지는 레벨로 사격 능력을 테스트하십시오."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 동영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

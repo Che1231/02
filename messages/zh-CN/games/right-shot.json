@@ -1,0 +1,77 @@
+{
+  "right-shot": {
+    "title": "《精准射击》- 免费在线射击游戏",
+    "slogan": "瞄准、射击、征服！",
+    "description": "《精准射击》是一款令人兴奋的射击游戏，您可以在其中清除各种类型的目标。使用手指移动物体并改变射击方向。精确瞄准并完成关卡以解锁新炮塔，包括收藏家版。现在就玩《精准射击》，体验精准射击的刺激！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "《精准射击》",
+      "description": "《精准射击》是一款令人兴奋的射击游戏，您可以在其中清除各种类型的目标。使用手指移动物体并改变射击方向。精确瞄准并完成关卡以解锁新炮塔，包括收藏家版。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "《精准射击》",
+      "whatIsTitle": "《精准射击》是什么？",
+      "whatIsDescription": "《精准射击》是一款精准射击游戏，您需要通过策略性地移动物体来改变射击方向，清除各种目标。",
+      "howToPlayTitle": "如何玩耍",
+      "howToPlayStep1": "使用手指移动物体并改变射击方向。",
+      "howToPlayStep2": "精确瞄准目标。",
+      "howToPlayStep3": "完成关卡以解锁新炮塔。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "多种目标",
+      "feature1Description": "在每个关卡中清除各种类型的目标。",
+      "feature2Title": "互动游戏体验",
+      "feature2Description": "移动物体来改变你的射击方向。",
+      "feature3Title": "可解锁炮塔",
+      "feature3Description": "完成关卡以解锁新炮塔，包括收藏家版。",
+      "feature4Title": "充满挑战的关卡",
+      "feature4Description": "用越来越难的关卡测试你的瞄准技巧。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐游戏"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏列表"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

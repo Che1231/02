@@ -1,0 +1,77 @@
+{
+  "right-shot": {
+    "title": "Right Shot - Juego de disparos en línea gratuito",
+    "slogan": "¡Apunta, dispara, conquista!",
+    "description": "Right Shot es un emocionante juego de disparos en el que puedes eliminar varios tipos de objetivos. Usa tus dedos para mover objetos y cambiar la dirección del disparo. Apunta con precisión y completa niveles para desbloquear nuevos cañones, incluida la edición coleccionista. ¡Juega a Right Shot ahora y experimenta la emoción de los disparos de precisión!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigos",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Right Shot",
+      "description": "Right Shot es un emocionante juego de disparos en el que puedes eliminar varios tipos de objetivos. Usa tus dedos para mover objetos y cambiar la dirección del disparo. Apunta con precisión y completa niveles para desbloquear nuevos cañones, incluida la edición coleccionista.",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Right Shot",
+      "whatIsTitle": "¿Qué es Right Shot?",
+      "whatIsDescription": "Right Shot es un juego de disparos de precisión en el que apuntas a eliminar varios objetivos moviendo estratégicamente objetos para cambiar la dirección de tu disparo.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Usa tus dedos para mover objetos y cambiar la dirección del disparo.",
+      "howToPlayStep2": "Apunta con precisión para alcanzar los objetivos.",
+      "howToPlayStep3": "Completa niveles para desbloquear nuevos cañones.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Múltiples objetivos",
+      "feature1Description": "Elimina varios tipos de objetivos en cada nivel.",
+      "feature2Title": "Jugabilidad interactiva",
+      "feature2Description": "Mueve objetos para cambiar la dirección de tu disparo.",
+      "feature3Title": "Cañones desbloqueables",
+      "feature3Description": "Completa niveles para desbloquear nuevos cañones, incluida la edición coleccionista.",
+      "feature4Title": "Niveles desafiantes",
+      "feature4Description": "Pon a prueba tus habilidades de puntería con niveles cada vez más difíciles."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

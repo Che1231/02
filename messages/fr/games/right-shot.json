@@ -1,0 +1,77 @@
+{
+  "right-shot": {
+    "title": "Right Shot - Jeu de tir en ligne gratuit",
+    "slogan": "Visez, tirez, et triomphez !",
+    "description": "Right Shot est un jeu de tir passionnant où vous pouvez éliminer divers types de cibles. Utilisez vos doigts pour déplacer les objets et changer la direction du tir. Visez intelligemment et terminez les niveaux pour débloquer de nouveaux canons, y compris l'édition collector. Jouez à Right Shot dès maintenant et vivez le frisson d'un tir précis !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Right Shot",
+      "description": "Right Shot est un jeu de tir passionnant où vous pouvez éliminer divers types de cibles. Utilisez vos doigts pour déplacer les objets et changer la direction du tir. Visez intelligemment et terminez les niveaux pour débloquer de nouveaux canons, y compris l'édition collector.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Right Shot",
+      "whatIsTitle": "Qu'est-ce que Right Shot ?",
+      "whatIsDescription": "Right Shot est un jeu de tir précis où vous visez à éliminer diverses cibles en déplaçant stratégiquement des objets pour modifier la direction de votre tir.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Utilisez vos doigts pour déplacer les objets et changer la direction du tir.",
+      "howToPlayStep2": "Visez intelligemment pour toucher les cibles.",
+      "howToPlayStep3": "Terminez les niveaux pour débloquer de nouveaux canons.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Plusieurs cibles",
+      "feature1Description": "Éliminez différents types de cibles à chaque niveau.",
+      "feature2Title": "Gameplay interactif",
+      "feature2Description": "Déplacez les objets pour changer la direction de votre tir.",
+      "feature3Title": "Canons déblocables",
+      "feature3Description": "Terminez les niveaux pour débloquer de nouveaux canons, y compris l'édition collector.",
+      "feature4Title": "Niveaux stimulants",
+      "feature4Description": "Testez votre compétence de visée avec des niveaux de difficulté croissante."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

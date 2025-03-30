@@ -1,0 +1,120 @@
+{
+  "name": "Right Shot",
+  "pagePath": "/games/right-shot",
+  "pageName": "right-shot",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.fillgame.com/d/file/games/right-shot/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "CosmicKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicKraken87.png",
+      "content": "This game is awesome! I love changing the direction of the shot. So addictive!"
+    },
+    {
+      "author": "SavageRevolver_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageRevolver_X.png",
+      "content": "Right Shot is pretty cool. Finding the collector's edition cannon is my mission now!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Okay, moving objects to aim is kinda genius. Anyone else find a rare cannon yet?"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "I am enjoying the level complete thingy, are there any special cannons?"
+    },
+    {
+      "author": "xX_DarkAurA_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAurA_Xx.png",
+      "content": "Right Shot is hard but fun! Gotta clear ALL targets. Grinding for those cannons fo'real."
+    },
+    {
+      "author": "PhantomLeviathan42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomLeviathan42.png",
+      "content": "The cannon unlocks kept me hooked. Is the collector's edition actually real tho?"
+    },
+    {
+      "author": "AdjectiveBroadsword_Beta",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AdjectiveBroadsword_Beta.png",
+      "content": "Didn't expect Right Shot to be so engaging! Clever puzzles, though."
+    },
+    {
+      "author": "MemeLordSupreme",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/MemeLordSupreme.png",
+      "content": "This game's got me thinkin'. How many cannon variants are there?"
+    },
+    {
+      "author": "zZ_ShadowREApEr_Zz",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/zZ_ShadowREApEr_Zz.png",
+      "content": "Right Shot, more like Right Pain. But seriously, those puzzles tho!"
+    },
+    {
+      "author": "NeonPhoenix99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonPhoenix99.png",
+      "content": "Wow, using fingers to change the shot direction, what a novelty"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743353671407-k918mk.png",
+  "page_path": "/games/right-shot",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Featured Games"
+  ],
+  "createdTime": "2025-03-31 00:54:33"
+}
