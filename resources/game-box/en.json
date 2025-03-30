@@ -59,7 +59,8 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
-      "description": "We have selected the best games for you!"
+      "description": "We have selected the best games for you!",
+      "position": 1
     },
     {
       "name": "Arcade Games",
@@ -142,34 +143,24 @@
       "description": "Exciting sports games!"
     },
     {
+      "name": "Music Games",
+      "path": "/c/music-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
+      "position": 10,
+      "description": "Exciting music games!"
+    },
+    {
       "name": "Racing & Driving",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
-      "position": 10,
-      "description": "Exciting Racing & Driving games!"
-    },
-    {
-      "name": "Casual Games",
-      "path": "/c/casual-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
       "position": 11,
-      "description": "Exciting casual games!"
-    },
-    {
-      "name": "3D Games",
-      "path": "/c/3d-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156468798-xl6ktw.png",
-      "position": 12,
-      "description": "Exciting 3D games!"
+      "description": "Exciting Racing & Driving games!"
     }
   ]
 }

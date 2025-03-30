@@ -2,52 +2,52 @@
   "recommended": [
     {
       "visible": true,
-      "url": "/games/terraria",
+      "url": "/games/city-blocks",
       "position": 1
     },
     {
       "visible": true,
-      "url": "/games/x-trench-run",
+      "url": "/games/fnf-vs-touhou",
       "position": 2
     },
     {
       "visible": true,
-      "url": "/games/fnf-vs-touhou",
+      "url": "/games/suika-game",
       "position": 3
     },
     {
       "visible": true,
-      "url": "/games/recoil",
+      "url": "/games/build-royale",
       "position": 4
     },
     {
       "visible": true,
-      "url": "/games/tower-of-destiny",
+      "url": "/games/sausage-flip",
       "position": 5
     },
     {
       "visible": true,
-      "url": "/games/suika-game",
+      "url": "/games/build-royale",
       "position": 6
     },
     {
       "visible": true,
-      "url": "/games/fun-water-sorting",
+      "url": "/games/doodle-cricket",
       "position": 7
     },
     {
       "visible": true,
-      "url": "/games/papa-s-bakeria",
+      "url": "/games/raft-wars-2",
       "position": 8
     },
     {
       "visible": true,
-      "url": "/games/build-royale",
+      "url": "/games/bomb-it-7",
       "position": 9
     },
     {
       "visible": true,
-      "url": "/games/sausage-flip",
+      "url": "/games/blob-opera",
       "position": 10
     }
   ],
@@ -59,7 +59,8 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
-      "description": "최고의 게임을 추천해 드립니다!"
+      "description": "귀하를 위해 최고의 게임을 선정했습니다!",
+      "position": 1
     },
     {
       "name": "아케이드 게임",
@@ -68,7 +69,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156326993-rske4c.png",
-      "description": "흥미진진한 아케이드 게임!",
+      "description": "짜릿한 아케이드 게임!",
       "position": 2
     },
     {
@@ -89,7 +90,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
       "position": 4,
-      "description": "흥미진진한 모험 게임!"
+      "description": "짜릿한 모험 게임!"
     },
     {
       "name": ".IO 게임",
@@ -99,17 +100,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
       "position": 5,
-      "description": "흥미진진한 .IO 게임!"
+      "description": "짜릿한 .IO 게임!"
     },
     {
-      "name": "워들버스 게임",
+      "name": "워드 게임",
       "path": "/c/wordleverse-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
       "position": 6,
-      "description": "흥미진진한 워들버스 게임!"
+      "description": "짜릿한 워드 게임!"
     },
     {
       "name": "퍼즐 게임",
@@ -119,7 +120,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
       "position": 7,
-      "description": "흥미진진한 퍼즐 게임!"
+      "description": "짜릿한 퍼즐 게임!"
     },
     {
       "name": "요리 게임",
@@ -129,7 +130,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
       "position": 8,
-      "description": "흥미진진한 요리 게임!"
+      "description": "짜릿한 요리 게임!"
     },
     {
       "name": "스포츠 게임",
@@ -139,7 +140,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
       "position": 9,
-      "description": "흥미진진한 스포츠 게임!"
+      "description": "짜릿한 스포츠 게임!"
+    },
+    {
+      "name": "음악 게임",
+      "path": "/c/music-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
+      "position": 10,
+      "description": "짜릿한 음악 게임!"
     },
     {
       "name": "레이싱 & 드라이빙",
@@ -148,28 +159,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
-      "position": 10,
-      "description": "흥미진진한 레이싱 & 드라이빙 게임!"
-    },
-    {
-      "name": "캐주얼 게임",
-      "path": "/c/casual-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
       "position": 11,
-      "description": "흥미진진한 캐주얼 게임!"
-    },
-    {
-      "name": "3D 게임",
-      "path": "/c/3d-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156468798-xl6ktw.png",
-      "position": 12,
-      "description": "흥미진진한 3D 게임!"
+      "description": "짜릿한 레이싱 & 드라이빙 게임!"
     }
   ]
 }

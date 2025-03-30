@@ -2,52 +2,52 @@
   "recommended": [
     {
       "visible": true,
-      "url": "/games/terraria",
+      "url": "/games/city-blocks",
       "position": 1
     },
     {
       "visible": true,
-      "url": "/games/x-trench-run",
+      "url": "/games/fnf-vs-touhou",
       "position": 2
     },
     {
       "visible": true,
-      "url": "/games/fnf-vs-touhou",
+      "url": "/games/suika-game",
       "position": 3
     },
     {
       "visible": true,
-      "url": "/games/recoil",
+      "url": "/games/build-royale",
       "position": 4
     },
     {
       "visible": true,
-      "url": "/games/tower-of-destiny",
+      "url": "/games/sausage-flip",
       "position": 5
     },
     {
       "visible": true,
-      "url": "/games/suika-game",
+      "url": "/games/build-royale",
       "position": 6
     },
     {
       "visible": true,
-      "url": "/games/fun-water-sorting",
+      "url": "/games/doodle-cricket",
       "position": 7
     },
     {
       "visible": true,
-      "url": "/games/papa-s-bakeria",
+      "url": "/games/raft-wars-2",
       "position": 8
     },
     {
       "visible": true,
-      "url": "/games/build-royale",
+      "url": "/games/bomb-it-7",
       "position": 9
     },
     {
       "visible": true,
-      "url": "/games/sausage-flip",
+      "url": "/games/blob-opera",
       "position": 10
     }
   ],
@@ -59,7 +59,8 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
-      "description": "我们为您精选了最佳游戏！"
+      "description": "我们为您精选了最佳游戏！",
+      "position": 1
     },
     {
       "name": "街机游戏",
@@ -68,7 +69,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156326993-rske4c.png",
-      "description": "激动人心的街机游戏！",
+      "description": "刺激的街机游戏！",
       "position": 2
     },
     {
@@ -78,7 +79,7 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156394531-x0e51o.png",
-      "description": "激动人心的动作游戏！",
+      "description": "刺激的动作游戏！",
       "position": 3
     },
     {
@@ -89,27 +90,27 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
       "position": 4,
-      "description": "激动人心的冒险游戏！"
+      "description": "刺激的冒险游戏！"
     },
     {
-      "name": ".IO 游戏",
+      "name": ".IO游戏",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
       "position": 5,
-      "description": "激动人心的 .IO 游戏！"
+      "description": "刺激的.IO游戏！"
     },
     {
-      "name": "Wordleverse 游戏",
+      "name": "Wordleverse游戏",
       "path": "/c/wordleverse-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
       "position": 6,
-      "description": "激动人心的 Wordleverse 游戏！"
+      "description": "刺激的Wordleverse游戏！"
     },
     {
       "name": "益智游戏",
@@ -119,7 +120,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
       "position": 7,
-      "description": "激动人心的益智游戏！"
+      "description": "刺激的益智游戏！"
     },
     {
       "name": "烹饪游戏",
@@ -129,7 +130,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
       "position": 8,
-      "description": "激动人心的烹饪游戏！"
+      "description": "刺激的烹饪游戏！"
     },
     {
       "name": "体育游戏",
@@ -139,7 +140,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
       "position": 9,
-      "description": "激动人心的体育游戏！"
+      "description": "刺激的体育游戏！"
+    },
+    {
+      "name": "音乐游戏",
+      "path": "/c/music-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
+      "position": 10,
+      "description": "刺激的音乐游戏！"
     },
     {
       "name": "赛车与驾驶",
@@ -148,28 +159,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
-      "position": 10,
-      "description": "激动人心的赛车与驾驶游戏！"
-    },
-    {
-      "name": "休闲游戏",
-      "path": "/c/casual-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
       "position": 11,
-      "description": "激动人心的休闲游戏！"
-    },
-    {
-      "name": "3D 游戏",
-      "path": "/c/3d-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156468798-xl6ktw.png",
-      "position": 12,
-      "description": "激动人心的 3D 游戏！"
+      "description": "刺激的赛车与驾驶游戏！"
     }
   ]
 }

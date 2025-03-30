@@ -2,64 +2,65 @@
   "recommended": [
     {
       "visible": true,
-      "url": "/games/terraria",
+      "url": "/games/city-blocks",
       "position": 1
     },
     {
       "visible": true,
-      "url": "/games/x-trench-run",
+      "url": "/games/fnf-vs-touhou",
       "position": 2
     },
     {
       "visible": true,
-      "url": "/games/fnf-vs-touhou",
+      "url": "/games/suika-game",
       "position": 3
     },
     {
       "visible": true,
-      "url": "/games/recoil",
+      "url": "/games/build-royale",
       "position": 4
     },
     {
       "visible": true,
-      "url": "/games/tower-of-destiny",
+      "url": "/games/sausage-flip",
       "position": 5
     },
     {
       "visible": true,
-      "url": "/games/suika-game",
+      "url": "/games/build-royale",
       "position": 6
     },
     {
       "visible": true,
-      "url": "/games/fun-water-sorting",
+      "url": "/games/doodle-cricket",
       "position": 7
     },
     {
       "visible": true,
-      "url": "/games/papa-s-bakeria",
+      "url": "/games/raft-wars-2",
       "position": 8
     },
     {
       "visible": true,
-      "url": "/games/build-royale",
+      "url": "/games/bomb-it-7",
       "position": 9
     },
     {
       "visible": true,
-      "url": "/games/sausage-flip",
+      "url": "/games/blob-opera",
       "position": 10
     }
   ],
   "categories": [
     {
-      "name": "おすすめゲーム",
+      "name": "注目のゲーム",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
-      "description": "あなたに最適なゲームを選りすぐりました！"
+      "description": "あなたのために最高のゲームを選びました！",
+      "position": 1
     },
     {
       "name": "アーケードゲーム",
@@ -92,24 +93,24 @@
       "description": "エキサイティングなアドベンチャーゲーム！"
     },
     {
-      "name": ".IOゲーム",
+      "name": ".IO ゲーム",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
       "position": 5,
-      "description": "エキサイティングな.IOゲーム！"
+      "description": "エキサイティングな .IO ゲーム！"
     },
     {
-      "name": "ワードルバースゲーム",
+      "name": "Wordleverse ゲーム",
       "path": "/c/wordleverse-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
       "position": 6,
-      "description": "エキサイティングなワードルバースゲーム！"
+      "description": "エキサイティングなwordleverseゲーム！"
     },
     {
       "name": "パズルゲーム",
@@ -122,7 +123,7 @@
       "description": "エキサイティングなパズルゲーム！"
     },
     {
-      "name": "料理ゲーム",
+      "name": "料理",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -142,34 +143,24 @@
       "description": "エキサイティングなスポーツゲーム！"
     },
     {
-      "name": "レース＆ドライブゲーム",
+      "name": "音楽ゲーム",
+      "path": "/c/music-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
+      "position": 10,
+      "description": "エキサイティングな音楽ゲーム！"
+    },
+    {
+      "name": "レース＆ドライビング",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
-      "position": 10,
-      "description": "エキサイティングなレース＆ドライブゲーム！"
-    },
-    {
-      "name": "カジュアルゲーム",
-      "path": "/c/casual-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
       "position": 11,
-      "description": "エキサイティングなカジュアルゲーム！"
-    },
-    {
-      "name": "3Dゲーム",
-      "path": "/c/3d-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156468798-xl6ktw.png",
-      "position": 12,
-      "description": "エキサイティングな3Dゲーム！"
+      "description": "エキサイティングなレース＆ドライビングゲーム！"
     }
   ]
 }

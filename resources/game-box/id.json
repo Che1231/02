@@ -2,52 +2,52 @@
   "recommended": [
     {
       "visible": true,
-      "url": "/games/terraria",
+      "url": "/games/city-blocks",
       "position": 1
     },
     {
       "visible": true,
-      "url": "/games/x-trench-run",
+      "url": "/games/fnf-vs-touhou",
       "position": 2
     },
     {
       "visible": true,
-      "url": "/games/fnf-vs-touhou",
+      "url": "/games/suika-game",
       "position": 3
     },
     {
       "visible": true,
-      "url": "/games/recoil",
+      "url": "/games/build-royale",
       "position": 4
     },
     {
       "visible": true,
-      "url": "/games/tower-of-destiny",
+      "url": "/games/sausage-flip",
       "position": 5
     },
     {
       "visible": true,
-      "url": "/games/suika-game",
+      "url": "/games/build-royale",
       "position": 6
     },
     {
       "visible": true,
-      "url": "/games/fun-water-sorting",
+      "url": "/games/doodle-cricket",
       "position": 7
     },
     {
       "visible": true,
-      "url": "/games/papa-s-bakeria",
+      "url": "/games/raft-wars-2",
       "position": 8
     },
     {
       "visible": true,
-      "url": "/games/build-royale",
+      "url": "/games/bomb-it-7",
       "position": 9
     },
     {
       "visible": true,
-      "url": "/games/sausage-flip",
+      "url": "/games/blob-opera",
       "position": 10
     }
   ],
@@ -59,7 +59,8 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
-      "description": "Kami telah memilih permainan terbaik untuk Anda!"
+      "description": "Kami telah memilih permainan terbaik untuk Anda!",
+      "position": 1
     },
     {
       "name": "Permainan Arcade",
@@ -122,7 +123,7 @@
       "description": "Permainan puzzle yang mengasyikkan!"
     },
     {
-      "name": "Permainan Memasak",
+      "name": "Memasak",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -132,7 +133,7 @@
       "description": "Permainan memasak yang mengasyikkan!"
     },
     {
-      "name": "Permainan Olahraga",
+      "name": "Permainan Olah Raga",
       "path": "/c/sports-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -142,34 +143,24 @@
       "description": "Permainan olahraga yang mengasyikkan!"
     },
     {
-      "name": "Permainan Balap & Mengemudi",
+      "name": "Permainan Musik",
+      "path": "/c/music-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
+      "position": 10,
+      "description": "Permainan musik yang mengasyikkan!"
+    },
+    {
+      "name": "Balap & Mengemudi",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
-      "position": 10,
-      "description": "Permainan Balap & Mengemudi yang mengasyikkan!"
-    },
-    {
-      "name": "Permainan Kasual",
-      "path": "/c/casual-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
       "position": 11,
-      "description": "Permainan kasual yang mengasyikkan!"
-    },
-    {
-      "name": "Permainan 3D",
-      "path": "/c/3d-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156468798-xl6ktw.png",
-      "position": 12,
-      "description": "Permainan 3D yang mengasyikkan!"
+      "description": "Permainan Balap & Mengemudi yang mengasyikkan!"
     }
   ]
 }

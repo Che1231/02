@@ -2,52 +2,52 @@
   "recommended": [
     {
       "visible": true,
-      "url": "/games/terraria",
+      "url": "/games/city-blocks",
       "position": 1
     },
     {
       "visible": true,
-      "url": "/games/x-trench-run",
+      "url": "/games/fnf-vs-touhou",
       "position": 2
     },
     {
       "visible": true,
-      "url": "/games/fnf-vs-touhou",
+      "url": "/games/suika-game",
       "position": 3
     },
     {
       "visible": true,
-      "url": "/games/recoil",
+      "url": "/games/build-royale",
       "position": 4
     },
     {
       "visible": true,
-      "url": "/games/tower-of-destiny",
+      "url": "/games/sausage-flip",
       "position": 5
     },
     {
       "visible": true,
-      "url": "/games/suika-game",
+      "url": "/games/build-royale",
       "position": 6
     },
     {
       "visible": true,
-      "url": "/games/fun-water-sorting",
+      "url": "/games/doodle-cricket",
       "position": 7
     },
     {
       "visible": true,
-      "url": "/games/papa-s-bakeria",
+      "url": "/games/raft-wars-2",
       "position": 8
     },
     {
       "visible": true,
-      "url": "/games/build-royale",
+      "url": "/games/bomb-it-7",
       "position": 9
     },
     {
       "visible": true,
-      "url": "/games/sausage-flip",
+      "url": "/games/blob-opera",
       "position": 10
     }
   ],
@@ -59,7 +59,8 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
-      "description": "আপনার জন্য আমরা সেরা গেমস নির্বাচন করেছি!"
+      "description": "আমরা আপনার জন্য সেরা গেমস নির্বাচন করেছি!",
+      "position": 1
     },
     {
       "name": "আর্কেড গেমস",
@@ -102,24 +103,24 @@
       "description": "উত্তেজনাপূর্ণ .IO গেমস!"
     },
     {
-      "name": "ওয়ার্ডলেভার্স গেমস",
+      "name": "ওয়ার্ডলভার্স গেমস",
       "path": "/c/wordleverse-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
       "position": 6,
-      "description": "উত্তেজনাপূর্ণ ওয়ার্ডলেভার্স গেমস!"
+      "description": "উত্তেজনাপূর্ণ ওয়ার্ডলভার্স গেমস!"
     },
     {
-      "name": "পাজল গেমস",
+      "name": "পাজেল গেমস",
       "path": "/c/puzzle-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
       "position": 7,
-      "description": "উত্তেজনাপূর্ণ পাজল গেমস!"
+      "description": "উত্তেজনাপূর্ণ পাজেল গেমস!"
     },
     {
       "name": "রান্না",
@@ -132,14 +133,24 @@
       "description": "উত্তেজনাপূর্ণ রান্না গেমস!"
     },
     {
-      "name": "স্পোর্টস গেমস",
+      "name": "ক্রীড়া গেমস",
       "path": "/c/sports-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
       "position": 9,
-      "description": "উত্তেজনাপূর্ণ স্পোর্টস গেমস!"
+      "description": "উত্তেজনাপূর্ণ ক্রীড়া গেমস!"
+    },
+    {
+      "name": "সঙ্গীত গেমস",
+      "path": "/c/music-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
+      "position": 10,
+      "description": "উত্তেজনাপূর্ণ সঙ্গীত গেমস!"
     },
     {
       "name": "রেসিং ও ড্রাইভিং",
@@ -148,28 +159,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
-      "position": 10,
-      "description": "উত্তেজনাপূর্ণ রেসিং ও ড্রাইভিং গেমস!"
-    },
-    {
-      "name": "সাধারণ গেমস",
-      "path": "/c/casual-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
       "position": 11,
-      "description": "উত্তেজনাপূর্ণ সাধারণ গেমস!"
-    },
-    {
-      "name": "3D গেমস",
-      "path": "/c/3d-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156468798-xl6ktw.png",
-      "position": 12,
-      "description": "উত্তেজনাপূর্ণ 3D গেমস!"
+      "description": "উত্তেজনাপূর্ণ রেসিং ও ড্রাইভিং গেমস!"
     }
   ]
 }
