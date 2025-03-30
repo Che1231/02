@@ -1,1 +1,0 @@
-Who Are Ya? is an engaging word-guessing game centered around the world of sports, particularly football (soccer). It shares similarities with Wordle, offering an enjoyable gameplay experience. In this game, your objective is to guess the names of soccer players within eight attempts.
