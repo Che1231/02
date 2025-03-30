@@ -2,17 +2,17 @@
   "recommended": [
     {
       "visible": true,
-      "url": "/games/city-blocks",
+      "url": "/games/fnf-vs-touhou",
       "position": 1
     },
     {
       "visible": true,
-      "url": "/games/fnf-vs-touhou",
+      "url": "/games/craftnite-io",
       "position": 2
     },
     {
       "visible": true,
-      "url": "/games/little-alchemy-2",
+      "url": "/games/city-blocks",
       "position": 3
     },
     {
@@ -27,12 +27,12 @@
     },
     {
       "visible": true,
-      "url": "/games/build-royale",
+      "url": "/games/papa-s-pancakeria",
       "position": 6
     },
     {
       "visible": true,
-      "url": "/games/doodle-cricket",
+      "url": "/games/stickman-school-run",
       "position": 7
     },
     {
@@ -59,7 +59,7 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
-      "description": "Wir haben die besten Spiele für Sie ausgewählt!",
+      "description": "Wir haben die besten Spiele für dich ausgewählt!",
       "position": 1
     },
     {
@@ -69,7 +69,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156326993-rske4c.png",
-      "description": "Aufregend Arcade-Spiele!",
+      "description": "Spannende Arcade-Spiele!",
       "position": 2
     },
     {
@@ -79,7 +79,7 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156394531-x0e51o.png",
-      "description": "Aufregend Actionspiele!",
+      "description": "Spannende Actionspiele!",
       "position": 3
     },
     {
@@ -90,7 +90,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
       "position": 4,
-      "description": "Aufregend Abenteuer-Spiele!"
+      "description": "Spannende Abenteuer-Spiele!"
     },
     {
       "name": ".IO-Spiele",
@@ -100,17 +100,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
       "position": 5,
-      "description": "Aufregend .IO-Spiele!"
-    },
-    {
-      "name": "Wordleverse-Spiele",
-      "path": "/c/wordleverse-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
-      "position": 6,
-      "description": "Aufregend Wordleverse-Spiele!"
+      "description": "Spannende .IO-Spiele!"
     },
     {
       "name": "Rätselspiele",
@@ -119,8 +109,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
-      "position": 7,
-      "description": "Aufregend Rätselspiele!"
+      "position": 6,
+      "description": "Spannende Rätselspiele!"
     },
     {
       "name": "Kochspiele",
@@ -129,8 +119,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
-      "position": 8,
-      "description": "Aufregend Kochspiele!"
+      "position": 7,
+      "description": "Spannende Kochspiele!"
     },
     {
       "name": "Sport-Spiele",
@@ -139,18 +129,28 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
-      "position": 9,
-      "description": "Aufregend Sport-Spiele!"
+      "position": 8,
+      "description": "Spannende Sport-Spiele!"
     },
     {
-      "name": "Musik-Spiele",
+      "name": "Musiker-Spiele",
       "path": "/c/music-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
+      "position": 9,
+      "description": "Spannende Musik-Spiele!"
+    },
+    {
+      "name": "Zweispieler-Spiele",
+      "path": "/c/two-player-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743326266282-b5qekj.png",
       "position": 10,
-      "description": "Aufregend Musik-Spiele!"
+      "description": "Spannende Zweispieler-Spiele!"
     },
     {
       "name": "Rennsport & Fahrspiele",
@@ -160,17 +160,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 11,
-      "description": "Aufregend Rennsport & Fahrspiele!"
-    },
-    {
-      "name": "Zweispieler-Spiele",
-      "path": "/c/two-player-game",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743326266282-b5qekj.png",
-      "position": 12,
-      "description": "Aufregend Zweispieler-Spiele!"
+      "description": "Spannende Rennsport & Fahrspiele!"
     }
   ]
 }

@@ -2,17 +2,17 @@
   "recommended": [
     {
       "visible": true,
-      "url": "/games/city-blocks",
+      "url": "/games/fnf-vs-touhou",
       "position": 1
     },
     {
       "visible": true,
-      "url": "/games/fnf-vs-touhou",
+      "url": "/games/craftnite-io",
       "position": 2
     },
     {
       "visible": true,
-      "url": "/games/little-alchemy-2",
+      "url": "/games/city-blocks",
       "position": 3
     },
     {
@@ -27,12 +27,12 @@
     },
     {
       "visible": true,
-      "url": "/games/build-royale",
+      "url": "/games/papa-s-pancakeria",
       "position": 6
     },
     {
       "visible": true,
-      "url": "/games/doodle-cricket",
+      "url": "/games/stickman-school-run",
       "position": 7
     },
     {
@@ -53,7 +53,7 @@
   ],
   "categories": [
     {
-      "name": "Виділені ігри",
+      "name": "Рекомендовані ігри",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
@@ -73,24 +73,24 @@
       "position": 2
     },
     {
-      "name": "Ігри в дії",
+      "name": "Ігри дії",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156394531-x0e51o.png",
-      "description": "Збудливі ігри в дії!",
+      "description": "Збудливі ігри дії!",
       "position": 3
     },
     {
-      "name": "Ігри-пригоди",
+      "name": "Ігри пригод",
       "path": "/c/adventure-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
       "position": 4,
-      "description": "Збудливі ігри-пригоди!"
+      "description": "Збудливі ігри пригод!"
     },
     {
       "name": "Ігри .IO",
@@ -103,74 +103,64 @@
       "description": "Збудливі ігри .IO!"
     },
     {
-      "name": "Ігри Wordleverse",
-      "path": "/c/wordleverse-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
-      "position": 6,
-      "description": "Збудливі ігри Wordleverse!"
-    },
-    {
       "name": "Логічні ігри",
       "path": "/c/puzzle-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
-      "position": 7,
+      "position": 6,
       "description": "Збудливі логічні ігри!"
     },
     {
-      "name": "Готування",
+      "name": "Ігри про кулінарію",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
-      "position": 8,
-      "description": "Збудливі ігри про готування!"
+      "position": 7,
+      "description": "Збудливі ігри про кулінарію!"
     },
     {
-      "name": "Ігри зі спортом",
+      "name": "Ігри про спорт",
       "path": "/c/sports-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
-      "position": 9,
-      "description": "Збудливі ігри зі спортом!"
+      "position": 8,
+      "description": "Збудливі спортивні ігри!"
     },
     {
-      "name": "Ігри з музикою",
+      "name": "Ігри про музику",
       "path": "/c/music-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
-      "position": 10,
-      "description": "Збудливі ігри з музикою!"
+      "position": 9,
+      "description": "Збудливі ігри про музику!"
     },
     {
-      "name": "Гонки та водіння",
+      "name": "Ігри для двох гравців",
+      "path": "/c/two-player-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743326266282-b5qekj.png",
+      "position": 10,
+      "description": "Збудливі ігри для двох гравців!"
+    },
+    {
+      "name": "Гоночні та ігри керування",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 11,
-      "description": "Збудливі ігри про гонки та водіння!"
-    },
-    {
-      "name": "Гра для двох гравців",
-      "path": "/c/two-player-game",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743326266282-b5qekj.png",
-      "position": 12,
-      "description": "Збудливі ігри для двох гравців!"
+      "description": "Збудливі гоночні та ігри керування!"
     }
   ]
 }

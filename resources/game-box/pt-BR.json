@@ -2,17 +2,17 @@
   "recommended": [
     {
       "visible": true,
-      "url": "/games/city-blocks",
+      "url": "/games/fnf-vs-touhou",
       "position": 1
     },
     {
       "visible": true,
-      "url": "/games/fnf-vs-touhou",
+      "url": "/games/craftnite-io",
       "position": 2
     },
     {
       "visible": true,
-      "url": "/games/little-alchemy-2",
+      "url": "/games/city-blocks",
       "position": 3
     },
     {
@@ -27,12 +27,12 @@
     },
     {
       "visible": true,
-      "url": "/games/build-royale",
+      "url": "/games/papa-s-pancakeria",
       "position": 6
     },
     {
       "visible": true,
-      "url": "/games/doodle-cricket",
+      "url": "/games/stickman-school-run",
       "position": 7
     },
     {
@@ -53,13 +53,13 @@
   ],
   "categories": [
     {
-      "name": "Jogos em Destaque",
+      "name": "Jogos Destacados",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
-      "description": "Selecionamos os melhores jogos para você!",
+      "description": "Nós selecionamos os melhores jogos para você!",
       "position": 1
     },
     {
@@ -103,23 +103,13 @@
       "description": "Jogos .IO emocionantes!"
     },
     {
-      "name": "Jogos Wordleverse",
-      "path": "/c/wordleverse-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156432381-uzhgmy.png",
-      "position": 6,
-      "description": "Jogos wordleverse emocionantes!"
-    },
-    {
       "name": "Jogos de Quebra-cabeça",
       "path": "/c/puzzle-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
-      "position": 7,
+      "position": 6,
       "description": "Jogos de quebra-cabeça emocionantes!"
     },
     {
@@ -129,7 +119,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
-      "position": 8,
+      "position": 7,
       "description": "Jogos de cozinha emocionantes!"
     },
     {
@@ -139,7 +129,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
-      "position": 9,
+      "position": 8,
       "description": "Jogos esportivos emocionantes!"
     },
     {
@@ -149,18 +139,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
-      "position": 10,
+      "position": 9,
       "description": "Jogos musicais emocionantes!"
-    },
-    {
-      "name": "Corrida e Dirigir",
-      "path": "/c/racing-driving",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
-      "position": 11,
-      "description": "Jogos de Corrida e Dirigir emocionantes!"
     },
     {
       "name": "Jogo para Dois Jogadores",
@@ -169,8 +149,18 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743326266282-b5qekj.png",
-      "position": 12,
-      "description": "Jogos para dois jogadores emocionantes!"
+      "position": 10,
+      "description": "Jogos emocionantes para dois jogadores!"
+    },
+    {
+      "name": "Corrida e Dirigindo",
+      "path": "/c/racing-driving",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
+      "position": 11,
+      "description": "Jogos emocionantes de corrida e direção!"
     }
   ]
 }
