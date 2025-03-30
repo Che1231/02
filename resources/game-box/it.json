@@ -53,24 +53,24 @@
   ],
   "categories": [
     {
+      "name": "Giochi in evidenza",
+      "path": "/c/featured",
+      "pageSize": 15,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347747884-98blap.png",
+      "description": "Abbiamo selezionato i migliori giochi per te!",
+      "position": 1
+    },
+    {
       "name": "Giochi .IO",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346461460-2suh2v.png",
-      "position": 1,
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347757868-f9rr2.png",
+      "position": 2,
       "description": "Emozionanti giochi .IO!"
-    },
-    {
-      "name": "Giochi in Evidenza",
-      "path": "/c/featured",
-      "pageSize": 15,
-      "backgroundColor": "#ffdde1",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346708881-g9fryk.png",
-      "description": "Abbiamo selezionato i migliori giochi per te!",
-      "position": 2
     },
     {
       "name": "Giochi Arcade",
@@ -103,24 +103,24 @@
       "position": 5
     },
     {
-      "name": "Giochi di Puzzle",
-      "path": "/c/puzzle-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
-      "position": 6,
-      "description": "Emozionanti giochi di puzzle!"
-    },
-    {
       "name": "Giochi Musicali",
       "path": "/c/music-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346692916-gbtgt.png",
-      "position": 7,
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347768031-mwdonl.png",
+      "position": 6,
       "description": "Emozionanti giochi musicali!"
+    },
+    {
+      "name": "Giochi di Puzzle",
+      "path": "/c/puzzle-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347794115-vx5hb.png",
+      "position": 7,
+      "description": "Emozionanti giochi di puzzle!"
     },
     {
       "name": "Cucina",
@@ -133,7 +133,7 @@
       "description": "Emozionanti giochi di cucina!"
     },
     {
-      "name": "Giochi di Corse e Guida",
+      "name": "Gare e Guida",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",

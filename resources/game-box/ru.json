@@ -53,24 +53,24 @@
   ],
   "categories": [
     {
-      "name": "Игры .IO",
-      "path": "/c/io-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346461460-2suh2v.png",
-      "position": 1,
-      "description": "Захватывающие игры .IO!"
-    },
-    {
       "name": "Рекомендуемые игры",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346708881-g9fryk.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347747884-98blap.png",
       "description": "Мы отобрали для вас лучшие игры!",
-      "position": 2
+      "position": 1
+    },
+    {
+      "name": "Игры .IO",
+      "path": "/c/io-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347757868-f9rr2.png",
+      "position": 2,
+      "description": "Захватывающие игры .IO!"
     },
     {
       "name": "Аркадные игры",
@@ -83,34 +83,24 @@
       "position": 3
     },
     {
-      "name": "Игры приключения",
+      "name": "Игры-приключения",
       "path": "/c/adventure-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
       "position": 4,
-      "description": "Захватывающие игры приключения!"
+      "description": "Захватывающие игры-приключения!"
     },
     {
-      "name": "Игры действия",
+      "name": "Экшн-игры",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346728153-wxvids.png",
-      "description": "Захватывающие игры действия!",
+      "description": "Захватывающие экшн-игры!",
       "position": 5
-    },
-    {
-      "name": "Головоломки",
-      "path": "/c/puzzle-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
-      "position": 6,
-      "description": "Захватывающие головоломки!"
     },
     {
       "name": "Музыкальные игры",
@@ -118,19 +108,29 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346692916-gbtgt.png",
-      "position": 7,
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347768031-mwdonl.png",
+      "position": 6,
       "description": "Захватывающие музыкальные игры!"
     },
     {
-      "name": "Кулинарные игры",
+      "name": "Головоломки",
+      "path": "/c/puzzle-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347794115-vx5hb.png",
+      "position": 7,
+      "description": "Захватывающие игры-головоломки!"
+    },
+    {
+      "name": "Игры о готовке",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346741222-tl7fco.png",
       "position": 8,
-      "description": "Захватывающие кулинарные игры!"
+      "description": "Захватывающие игры о готовке!"
     },
     {
       "name": "Гонки и вождение",
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 9,
-      "description": "Захватывающие игры гонки и вождения!"
+      "description": "Захватывающие игры про гонки и вождение!"
     },
     {
       "name": "Спортивные игры",

@@ -53,24 +53,24 @@
   ],
   "categories": [
     {
-      "name": ".IO-Spiele",
-      "path": "/c/io-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346461460-2suh2v.png",
-      "position": 1,
-      "description": "Spannende .IO-Spiele!"
-    },
-    {
       "name": "Empfohlene Spiele",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346708881-g9fryk.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347747884-98blap.png",
       "description": "Wir haben die besten Spiele für Sie ausgewählt!",
-      "position": 2
+      "position": 1
+    },
+    {
+      "name": ".IO Spiele",
+      "path": "/c/io-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347757868-f9rr2.png",
+      "position": 2,
+      "description": "Spannende .IO Spiele!"
     },
     {
       "name": "Arcade-Spiele",
@@ -103,24 +103,24 @@
       "position": 5
     },
     {
-      "name": "Rätselspiele",
-      "path": "/c/puzzle-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
-      "position": 6,
-      "description": "Spannende Rätselspiele!"
-    },
-    {
       "name": "Musik-Spiele",
       "path": "/c/music-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346692916-gbtgt.png",
-      "position": 7,
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347768031-mwdonl.png",
+      "position": 6,
       "description": "Spannende Musik-Spiele!"
+    },
+    {
+      "name": "Rätsel-Spiele",
+      "path": "/c/puzzle-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347794115-vx5hb.png",
+      "position": 7,
+      "description": "Spannende Rätsel-Spiele!"
     },
     {
       "name": "Kochspiele",

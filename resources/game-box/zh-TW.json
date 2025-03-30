@@ -53,24 +53,24 @@
   ],
   "categories": [
     {
-      "name": ".IO遊戲",
-      "path": "/c/io-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346461460-2suh2v.png",
-      "position": 1,
-      "description": "刺激的.IO遊戲！"
-    },
-    {
       "name": "精選遊戲",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346708881-g9fryk.png",
-      "description": "我們已為你精選了最佳遊戲！",
-      "position": 2
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347747884-98blap.png",
+      "description": "我們已為您精選最佳遊戲！",
+      "position": 1
+    },
+    {
+      "name": ".IO 遊戲",
+      "path": "/c/io-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347757868-f9rr2.png",
+      "position": 2,
+      "description": "令人興奮的 .IO 遊戲！"
     },
     {
       "name": "街機遊戲",
@@ -79,7 +79,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "刺激的街機遊戲！",
+      "description": "令人興奮的街機遊戲！",
       "position": 3
     },
     {
@@ -90,7 +90,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
       "position": 4,
-      "description": "刺激的冒險遊戲！"
+      "description": "令人興奮的冒險遊戲！"
     },
     {
       "name": "動作遊戲",
@@ -99,18 +99,8 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346728153-wxvids.png",
-      "description": "刺激的動作遊戲！",
+      "description": "令人興奮的動作遊戲！",
       "position": 5
-    },
-    {
-      "name": "益智遊戲",
-      "path": "/c/puzzle-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
-      "position": 6,
-      "description": "刺激的益智遊戲！"
     },
     {
       "name": "音樂遊戲",
@@ -118,9 +108,19 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346692916-gbtgt.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347768031-mwdonl.png",
+      "position": 6,
+      "description": "令人興奮的音樂遊戲！"
+    },
+    {
+      "name": "益智遊戲",
+      "path": "/c/puzzle-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347794115-vx5hb.png",
       "position": 7,
-      "description": "刺激的音樂遊戲！"
+      "description": "令人興奮的益智遊戲！"
     },
     {
       "name": "烹飪",
@@ -130,17 +130,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346741222-tl7fco.png",
       "position": 8,
-      "description": "刺激的烹飪遊戲！"
+      "description": "令人興奮的烹飪遊戲！"
     },
     {
-      "name": "賽車與駕駛",
+      "name": "賽車及駕駛",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 9,
-      "description": "刺激的賽車與駕駛遊戲！"
+      "description": "令人興奮的賽車及駕駛遊戲！"
     },
     {
       "name": "運動遊戲",
@@ -150,7 +150,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346747232-br5i5z.png",
       "position": 10,
-      "description": "刺激的運動遊戲！"
+      "description": "令人興奮的運動遊戲！"
     }
   ]
 }

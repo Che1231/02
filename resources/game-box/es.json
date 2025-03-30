@@ -53,27 +53,27 @@
   ],
   "categories": [
     {
-      "name": "Juegos .IO",
-      "path": "/c/io-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346461460-2suh2v.png",
-      "position": 1,
-      "description": "¡Juegos .IO emocionantes!"
-    },
-    {
       "name": "Juegos Destacados",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346708881-g9fryk.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347747884-98blap.png",
       "description": "¡Hemos seleccionado los mejores juegos para ti!",
-      "position": 2
+      "position": 1
     },
     {
-      "name": "Juegos de Arcade",
+      "name": "Juegos .IO",
+      "path": "/c/io-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347757868-f9rr2.png",
+      "position": 2,
+      "description": "¡Juegos emocionantes .IO!"
+    },
+    {
+      "name": "Juegos Arcade",
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
@@ -103,24 +103,24 @@
       "position": 5
     },
     {
-      "name": "Juegos de Rompecabezas",
-      "path": "/c/puzzle-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
-      "position": 6,
-      "description": "¡Juegos de rompecabezas emocionantes!"
-    },
-    {
       "name": "Juegos Musicales",
       "path": "/c/music-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346692916-gbtgt.png",
-      "position": 7,
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347768031-mwdonl.png",
+      "position": 6,
       "description": "¡Juegos musicales emocionantes!"
+    },
+    {
+      "name": "Juegos de Rompecabezas",
+      "path": "/c/puzzle-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347794115-vx5hb.png",
+      "position": 7,
+      "description": "¡Juegos de rompecabezas emocionantes!"
     },
     {
       "name": "Cocina",

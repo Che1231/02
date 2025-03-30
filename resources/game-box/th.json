@@ -53,24 +53,24 @@
   ],
   "categories": [
     {
+      "name": "เกมเด่น",
+      "path": "/c/featured",
+      "pageSize": 15,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347747884-98blap.png",
+      "description": "เราได้คัดสรรเกมที่ดีที่สุดสำหรับคุณ!",
+      "position": 1
+    },
+    {
       "name": "เกม .IO",
       "path": "/c/io-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346461460-2suh2v.png",
-      "position": 1,
-      "description": "เกมส์ .IO ที่น่าตื่นเต้น!"
-    },
-    {
-      "name": "เกมแนะนำ",
-      "path": "/c/featured",
-      "pageSize": 15,
-      "backgroundColor": "#ffdde1",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346708881-g9fryk.png",
-      "description": "เราได้คัดสรรเกมที่ดีที่สุดมาให้คุณแล้ว!",
-      "position": 2
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347757868-f9rr2.png",
+      "position": 2,
+      "description": "เกม .IO ที่น่าตื่นเต้น!"
     },
     {
       "name": "เกมอาร์เคด",
@@ -93,24 +93,14 @@
       "description": "เกมผจญภัยที่น่าตื่นเต้น!"
     },
     {
-      "name": "เกมแอ็กชัน",
+      "name": "เกมแอ็คชั่น",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346728153-wxvids.png",
-      "description": "เกมแอ็กชันที่น่าตื่นเต้น!",
+      "description": "เกมแอ็คชั่นที่น่าตื่นเต้น!",
       "position": 5
-    },
-    {
-      "name": "เกมปริศนา",
-      "path": "/c/puzzle-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
-      "position": 6,
-      "description": "เกมปริศนาที่น่าตื่นเต้น!"
     },
     {
       "name": "เกมดนตรี",
@@ -118,9 +108,19 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346692916-gbtgt.png",
-      "position": 7,
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347768031-mwdonl.png",
+      "position": 6,
       "description": "เกมดนตรีที่น่าตื่นเต้น!"
+    },
+    {
+      "name": "เกมปริศนา",
+      "path": "/c/puzzle-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347794115-vx5hb.png",
+      "position": 7,
+      "description": "เกมปริศนาที่น่าตื่นเต้น!"
     },
     {
       "name": "เกมทำอาหาร",
