@@ -53,38 +53,38 @@
   ],
   "categories": [
     {
-      "name": "Öne çıkan Oyunlar",
-      "path": "/c/featured",
+      "name": ".IO Oyunları",
+      "path": "/c/io-oyunlari",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346461460-2suh2v.png",
+      "position": 1,
+      "description": "Heyecan verici .IO oyunları!"
+    },
+    {
+      "name": "Öne Çıkan Oyunlar",
+      "path": "/c/öne-çıkan",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346708881-g9fryk.png",
       "description": "Sizin için en iyi oyunları seçtik!",
-      "position": 1
-    },
-    {
-      "name": "Arcade Oyunları",
-      "path": "/c/arcade-games",
-      "pageSize": 15,
-      "backgroundColor": "#d2e7ff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156326993-rske4c.png",
-      "description": "Heyecan verici arcade oyunları!",
       "position": 2
     },
     {
-      "name": "Eylem Oyunları",
-      "path": "/c/action",
+      "name": "Arcade Oyunlar",
+      "path": "/c/arcade-oyunlar",
       "pageSize": 15,
-      "backgroundColor": "#c1f8cf",
+      "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156394531-x0e51o.png",
-      "description": "Heyecan verici eylem oyunları!",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
+      "description": "Heyecan verici arcade oyunları!",
       "position": 3
     },
     {
       "name": "Macera Oyunları",
-      "path": "/c/adventure-games",
+      "path": "/c/macera-oyunlari",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
@@ -93,18 +93,18 @@
       "description": "Heyecan verici macera oyunları!"
     },
     {
-      "name": ".IO Oyunları",
-      "path": "/c/io-games",
+      "name": "Eylem Oyunları",
+      "path": "/c/eylem",
       "pageSize": 15,
-      "backgroundColor": "#ffffff",
+      "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
-      "position": 5,
-      "description": "Heyecan verici .IO oyunları!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346728153-wxvids.png",
+      "description": "Heyecan verici eylem oyunları!",
+      "position": 5
     },
     {
       "name": "Bulmaca Oyunları",
-      "path": "/c/puzzle-games",
+      "path": "/c/bulmaca-oyunlari",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
@@ -113,54 +113,44 @@
       "description": "Heyecan verici bulmaca oyunları!"
     },
     {
-      "name": "Yemek Yapma",
-      "path": "/c/cooking",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
-      "position": 7,
-      "description": "Heyecan verici yemek pişirme oyunları!"
-    },
-    {
-      "name": "Spor Oyunları",
-      "path": "/c/sports-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
-      "position": 8,
-      "description": "Heyecan verici spor oyunları!"
-    },
-    {
       "name": "Müzik Oyunları",
-      "path": "/c/music-games",
+      "path": "/c/muzik-oyunlari",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
-      "position": 9,
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346692916-gbtgt.png",
+      "position": 7,
       "description": "Heyecan verici müzik oyunları!"
     },
     {
-      "name": "İki Kişilik Oyun",
-      "path": "/c/two-player-game",
+      "name": "Yemek Yapımı",
+      "path": "/c/yemek-yapimi",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743326266282-b5qekj.png",
-      "position": 10,
-      "description": "Heyecan verici iki kişilik oyunlar!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346741222-tl7fco.png",
+      "position": 8,
+      "description": "Heyecan verici yemek pişirme oyunları!"
     },
     {
       "name": "Yarış ve Sürüş",
-      "path": "/c/racing-driving",
+      "path": "/c/yarış-ve-sürüş",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
-      "position": 11,
+      "position": 9,
       "description": "Heyecan verici Yarış ve Sürüş oyunları!"
+    },
+    {
+      "name": "Spor Oyunları",
+      "path": "/c/spor-oyunlari",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346747232-br5i5z.png",
+      "position": 10,
+      "description": "Heyecan verici spor oyunları!"
     }
   ]
 }

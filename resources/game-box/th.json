@@ -53,14 +53,24 @@
   ],
   "categories": [
     {
+      "name": "เกม .IO",
+      "path": "/c/io-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346461460-2suh2v.png",
+      "position": 1,
+      "description": "เกมส์ .IO ที่น่าตื่นเต้น!"
+    },
+    {
       "name": "เกมแนะนำ",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
-      "description": "เราได้คัดสรรเกมที่ดีที่สุดสำหรับคุณ!",
-      "position": 1
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346708881-g9fryk.png",
+      "description": "เราได้คัดสรรเกมที่ดีที่สุดมาให้คุณแล้ว!",
+      "position": 2
     },
     {
       "name": "เกมอาร์เคด",
@@ -68,18 +78,8 @@
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156326993-rske4c.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
       "description": "เกมอาร์เคดที่น่าตื่นเต้น!",
-      "position": 2
-    },
-    {
-      "name": "เกมแอ็คชั่น",
-      "path": "/c/action",
-      "pageSize": 15,
-      "backgroundColor": "#c1f8cf",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156394531-x0e51o.png",
-      "description": "เกมแอ็คชั่นที่น่าตื่นเต้น!",
       "position": 3
     },
     {
@@ -93,14 +93,14 @@
       "description": "เกมผจญภัยที่น่าตื่นเต้น!"
     },
     {
-      "name": "เกม .IO",
-      "path": "/c/io-games",
+      "name": "เกมแอ็กชัน",
+      "path": "/c/action",
       "pageSize": 15,
-      "backgroundColor": "#ffffff",
+      "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
-      "position": 5,
-      "description": "เกม .IO ที่น่าตื่นเต้น!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346728153-wxvids.png",
+      "description": "เกมแอ็กชันที่น่าตื่นเต้น!",
+      "position": 5
     },
     {
       "name": "เกมปริศนา",
@@ -113,14 +113,34 @@
       "description": "เกมปริศนาที่น่าตื่นเต้น!"
     },
     {
+      "name": "เกมดนตรี",
+      "path": "/c/music-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346692916-gbtgt.png",
+      "position": 7,
+      "description": "เกมดนตรีที่น่าตื่นเต้น!"
+    },
+    {
       "name": "เกมทำอาหาร",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
-      "position": 7,
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346741222-tl7fco.png",
+      "position": 8,
       "description": "เกมทำอาหารที่น่าตื่นเต้น!"
+    },
+    {
+      "name": "เกมแข่งรถและขับรถ",
+      "path": "/c/racing-driving",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
+      "position": 9,
+      "description": "เกมแข่งรถและขับรถที่น่าตื่นเต้น!"
     },
     {
       "name": "เกมกีฬา",
@@ -128,39 +148,9 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
-      "position": 8,
-      "description": "เกมกีฬาที่น่าตื่นเต้น!"
-    },
-    {
-      "name": "เกมดนตรี",
-      "path": "/c/music-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
-      "position": 9,
-      "description": "เกมดนตรีที่น่าตื่นเต้น!"
-    },
-    {
-      "name": "เกมสองคน",
-      "path": "/c/two-player-game",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743326266282-b5qekj.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346747232-br5i5z.png",
       "position": 10,
-      "description": "เกมสองคนเล่นที่น่าตื่นเต้น!"
-    },
-    {
-      "name": "เกมแข่งรถ และการขับรถ",
-      "path": "/c/racing-driving",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
-      "position": 11,
-      "description": "เกมแข่งรถและการขับรถที่น่าตื่นเต้น!"
+      "description": "เกมกีฬาที่น่าตื่นเต้น!"
     }
   ]
 }

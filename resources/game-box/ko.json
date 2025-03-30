@@ -53,14 +53,24 @@
   ],
   "categories": [
     {
+      "name": "IO 게임",
+      "path": "/c/io-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346461460-2suh2v.png",
+      "position": 1,
+      "description": "신나는 IO 게임!"
+    },
+    {
       "name": "추천 게임",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
-      "description": "당신을 위해 최고의 게임을 선별했습니다!",
-      "position": 1
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346708881-g9fryk.png",
+      "description": "당신을 위해 최고의 게임을 선정했습니다!",
+      "position": 2
     },
     {
       "name": "아케이드 게임",
@@ -68,18 +78,8 @@
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156326993-rske4c.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
       "description": "신나는 아케이드 게임!",
-      "position": 2
-    },
-    {
-      "name": "액션 게임",
-      "path": "/c/action",
-      "pageSize": 15,
-      "backgroundColor": "#c1f8cf",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156394531-x0e51o.png",
-      "description": "신나는 액션 게임!",
       "position": 3
     },
     {
@@ -93,14 +93,14 @@
       "description": "신나는 모험 게임!"
     },
     {
-      "name": ".IO 게임",
-      "path": "/c/io-games",
+      "name": "액션 게임",
+      "path": "/c/action",
       "pageSize": 15,
-      "backgroundColor": "#ffffff",
+      "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
-      "position": 5,
-      "description": "신나는 .IO 게임!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346728153-wxvids.png",
+      "description": "신나는 액션 게임!",
+      "position": 5
     },
     {
       "name": "퍼즐 게임",
@@ -113,44 +113,24 @@
       "description": "신나는 퍼즐 게임!"
     },
     {
-      "name": "요리",
-      "path": "/c/cooking",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
-      "position": 7,
-      "description": "신나는 요리 게임!"
-    },
-    {
-      "name": "스포츠 게임",
-      "path": "/c/sports-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
-      "position": 8,
-      "description": "신나는 스포츠 게임!"
-    },
-    {
       "name": "음악 게임",
       "path": "/c/music-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
-      "position": 9,
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346692916-gbtgt.png",
+      "position": 7,
       "description": "신나는 음악 게임!"
     },
     {
-      "name": "2인용 게임",
-      "path": "/c/two-player-game",
+      "name": "요리",
+      "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743326266282-b5qekj.png",
-      "position": 10,
-      "description": "신나는 2인용 게임!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346741222-tl7fco.png",
+      "position": 8,
+      "description": "신나는 요리 게임!"
     },
     {
       "name": "레이싱 & 드라이빙",
@@ -159,8 +139,18 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
-      "position": 11,
+      "position": 9,
       "description": "신나는 레이싱 & 드라이빙 게임!"
+    },
+    {
+      "name": "스포츠 게임",
+      "path": "/c/sports-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346747232-br5i5z.png",
+      "position": 10,
+      "description": "신나는 스포츠 게임!"
     }
   ]
 }

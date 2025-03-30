@@ -53,33 +53,33 @@
   ],
   "categories": [
     {
-      "name": "Jeux en vedette",
+      "name": "Jeux .IO",
+      "path": "/c/io-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346461460-2suh2v.png",
+      "position": 1,
+      "description": "Des jeux .IO passionnants !"
+    },
+    {
+      "name": "Jeux Mis en avant",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156291207-psth2.png",
-      "description": "Nous avons sélectionné les meilleurs jeux pour vous !",
-      "position": 1
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346708881-g9fryk.png",
+      "description": "Nous avons sélectionné les meilleurs jeux pour vous !",
+      "position": 2
     },
     {
-      "name": "Jeux d'arcade",
+      "name": "Jeux Arcade",
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156326993-rske4c.png",
-      "description": "Jeux d'arcade passionnants !",
-      "position": 2
-    },
-    {
-      "name": "Jeux d'action",
-      "path": "/c/action",
-      "pageSize": 15,
-      "backgroundColor": "#c1f8cf",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156394531-x0e51o.png",
-      "description": "Jeux d'action passionnants !",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
+      "description": "Des jeux arcade passionnants !",
       "position": 3
     },
     {
@@ -90,17 +90,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
       "position": 4,
-      "description": "Jeux d'aventure passionnants !"
+      "description": "Des jeux d'aventure passionnants !"
     },
     {
-      "name": "Jeux .IO",
-      "path": "/c/io-games",
+      "name": "Jeux d'action",
+      "path": "/c/action",
       "pageSize": 15,
-      "backgroundColor": "#ffffff",
+      "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156402919-yoc4df.png",
-      "position": 5,
-      "description": "Jeux .IO passionnants !"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346728153-wxvids.png",
+      "description": "Des jeux d'action passionnants !",
+      "position": 5
     },
     {
       "name": "Jeux de puzzle",
@@ -110,27 +110,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156410724-zt10me.png",
       "position": 6,
-      "description": "Jeux de puzzle passionnants !"
-    },
-    {
-      "name": "Cuisine",
-      "path": "/c/cooking",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156441753-ja462.png",
-      "position": 7,
-      "description": "Jeux de cuisine passionnants !"
-    },
-    {
-      "name": "Jeux sportifs",
-      "path": "/c/sports-games",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156462994-iqe5hv.png",
-      "position": 8,
-      "description": "Jeux sportifs passionnants !"
+      "description": "Des jeux de puzzle passionnants !"
     },
     {
       "name": "Jeux musicaux",
@@ -138,29 +118,39 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156453035-11xv8.png",
-      "position": 9,
-      "description": "Jeux musicaux passionnants !"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346692916-gbtgt.png",
+      "position": 7,
+      "description": "Des jeux musicaux passionnants !"
     },
     {
-      "name": "Jeux à deux joueurs",
-      "path": "/c/two-player-game",
+      "name": "Cuisine",
+      "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743326266282-b5qekj.png",
-      "position": 10,
-      "description": "Jeux à deux joueurs passionnants !"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346741222-tl7fco.png",
+      "position": 8,
+      "description": "Des jeux de cuisine passionnants !"
     },
     {
-      "name": "Courses et conduite",
+      "name": "Course et conduite",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
-      "position": 11,
-      "description": "Jeux de courses et de conduite passionnants !"
+      "position": 9,
+      "description": "Des jeux de course et de conduite passionnants !"
+    },
+    {
+      "name": "Jeux sportifs",
+      "path": "/c/sports-games",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346747232-br5i5z.png",
+      "position": 10,
+      "description": "Des jeux sportifs passionnants !"
     }
   ]
 }
