@@ -1,13 +1,13 @@
 {
   "knock-balls": {
-    "title": "敲球：免費線上物理益智遊戲",
-    "slogan": "挑戰您的物理技巧和策略，玩敲球遊戲！",
-    "description": "敲球是一款引人入勝的物理益智遊戲，您需要投擲球體來摧毀結構。請務必策略性操作，並避免超過允許的限制！每顆保存的球在下一關將會翻倍，提升您的遊戲體驗。享受簡單易學的操作、精美的畫面和令人上癮的遊戲機制。現在就玩敲球遊戲，測試您的精準度！",
+    "title": "擊球大戰 - 粉碎得分！",
+    "slogan": "粉碎結構，儲存球體，提升等級！",
+    "description": "體驗擊球大戰的刺激，將球投向結構物，使其崩塌。策略性地儲存球體，在下一關獲得雙倍得分。輕鬆易學的操作、精美的畫面和令人上癮的遊戲玩法，讓擊球大戰充滿無盡的樂趣。現在就玩，看看你能獲得多高的分數！",
     "Loading": {
       "title": "載入中..."
     },
     "Navbar": {
-      "title": "導航"
+      "title": "導覽列"
     },
     "Common": {
       "createAt": "建立於",
@@ -15,7 +15,7 @@
       "privacyPolicy": "隱私權政策",
       "termsOfServices": "服務條款",
       "text": "內容",
-      "help": "說明",
+      "help": "幫助",
       "friendlyLinks": "友情連結",
       "articleList": "文章列表",
       "home": "首頁",
@@ -23,32 +23,32 @@
       "previous": "上一頁"
     },
     "HomeIframe": {
-      "title": "敲球",
-      "description": "將球投擲到結構上，使其倒塌，但請小心不要超過允許的球數限制！每一顆保存的球在下一關將會翻倍計分，聰明運用它們！",
+      "title": "擊球大戰™",
+      "description": "將球投向結構物使其崩塌，但小心不要超過允許的極限！每顆儲存的球體，下一關將會計算雙倍分數，善加利用，提升您的遊戲表現！一次點擊即可輕鬆上手的操作、令人驚豔的視覺效果及令人上癮的遊戲機制。",
       "iframeTitle": "遊戲預覽",
       "fullscreenButton": "全螢幕",
       "shareButton": "分享",
-      "urlCopied": "URL 已複製到剪貼簿！",
+      "urlCopied": "網址已複製到剪貼簿！",
       "downloadGame": "下載遊戲",
-      "playGame": "開始遊戲"
+      "playGame": "玩遊戲"
     },
     "HomeFeatures": {
-      "gameTitle": "敲球",
-      "whatIsTitle": "敲球是什麼？",
-      "whatIsDescription": "敲球是一款基於物理的益智遊戲，您需要策略性地投擲球體來摧毀結構。挑戰在不超過限制球數的情況下完成目標！",
-      "howToPlayTitle": "如何遊戲",
-      "howToPlayStep1": "瞄準並將球投擲到結構上使之倒塌。",
-      "howToPlayStep2": "小心不要超過允許的球數限制。",
-      "howToPlayStep3": "每一顆保存的球在下一關將會翻倍計分，因此請聰明運用它們！",
-      "keyFeaturesTitle": "主要功能",
-      "feature1Title": "簡單的操作",
-      "feature1Description": "單鍵操作，更容易學習和遊玩。",
+      "gameTitle": "擊球大戰",
+      "whatIsTitle": "什麼是擊球大戰？",
+      "whatIsDescription": "擊球大戰是一款有趣且令人上癮的遊戲，您需要將球投向結構物使其崩塌。策略性地儲存球體，在下一關獲得雙倍得分。",
+      "howToPlayTitle": "如何遊戲？",
+      "howToPlayStep1": "將球投向結構物使其崩塌。",
+      "howToPlayStep2": "小心不要超過允許的極限。",
+      "howToPlayStep3": "儲存球體，在下一關獲得雙倍得分。",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "簡單操作",
+      "feature1Description": "一次點擊即可輕鬆上手的操作，讓遊玩快速順暢。",
       "feature2Title": "精美的畫面",
-      "feature2Description": "享受增強遊戲體驗的精湛視覺效果。",
-      "feature3Title": "令人上癮的遊戲",
-      "feature3Description": "令人上癮的遊戲機制，讓您想玩更多。",
-      "feature4Title": "策略思考",
-      "feature4Description": "仔細規劃您的動作，以最大化分數和進度。"
+      "feature2Description": "享受令人讚嘆的視覺效果，讓您的遊戲體驗更上一層樓。",
+      "feature3Title": "令人上癮的遊戲玩法",
+      "feature3Description": "體驗令人上癮的遊戲機制，讓您回味無窮。",
+      "feature4Title": "策略性儲存",
+      "feature4Description": "儲存球體，在下一關獲得雙倍得分。"
     },
     "HomeFAQs": {
       "title": "常見問題"
@@ -57,7 +57,7 @@
       "title": "遊戲影片"
     },
     "HomeRecommendation": {
-      "title": "推薦遊戲"
+      "title": "推薦"
     },
     "HomeComments": {
       "title": "遊戲評論"

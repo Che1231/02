@@ -1,8 +1,8 @@
 {
   "knock-balls": {
-    "title": "Knock Balls: Jogo de quebra-cabeça de física online grátis",
-    "slogan": "Desafie suas habilidades de física e estratégia em Knock Balls!",
-    "description": "Knock Balls é um jogo de quebra-cabeça de física envolvente onde você joga bolas para derrubar estruturas. Seja estratégico e evite exceder o limite permitido! Cada bola salva dobra de valor para o próximo nível, aprimorando sua jogabilidade. Aproveite controles fáceis de aprender, visuais deslumbrantes e mecânicas viciante. Jogue Knock Balls agora e teste sua precisão!",
+    "title": "Knock Balls - Quebre e marque!",
+    "slogan": "Quebre estruturas, salve bolas e suba de nível!",
+    "description": "Experimente a emoção de Knock Balls, onde você joga bolas em estruturas para fazê-las desabar. Seja estratégico e salve bolas para dobrar sua pontuação no próximo nível. Com controles fáceis de aprender, visuais deslumbrantes e jogabilidade viciante, Knock Balls oferece diversão sem fim. Jogue agora e veja até que pontuação você pode chegar!",
     "Loading": {
       "title": "Carregando..."
     },
@@ -16,16 +16,16 @@
       "termsOfServices": "Termos de Serviço",
       "text": "Conteúdo",
       "help": "Ajuda",
-      "friendlyLinks": "Links Úteis",
-      "articleList": "Lista de Artigos",
-      "home": "Página Inicial",
+      "friendlyLinks": "Links amigáveis",
+      "articleList": "Lista de artigos",
+      "home": "Página inicial",
       "next": "Próximo",
       "previous": "Anterior"
     },
     "HomeIframe": {
-      "title": "Knock Balls",
-      "description": "Jogue bolas em estruturas para derrubá-las, mas tome cuidado para não exceder o limite permitido! Cada bola salva valerá o dobro no próximo nível, aproveite-a para aplicar suas estratégias!",
-      "iframeTitle": "Pré-visualização do jogo",
+      "title": "Knock Balls™",
+      "description": "Jogue bolas em estruturas para fazê-las desabar, mas tome cuidado para não exceder o limite permitido! Cada bola salva valerá o dobro no próximo nível, aproveite para aplicar seu! Controles fáceis de aprender com um toque, com efeitos visuais deslumbrantes e mecânicas de jogo viciante.",
+      "iframeTitle": "Prévia do jogo",
       "fullscreenButton": "Tela cheia",
       "shareButton": "Compartilhar",
       "urlCopied": "URL copiado para a área de transferência!",
@@ -35,20 +35,20 @@
     "HomeFeatures": {
       "gameTitle": "Knock Balls",
       "whatIsTitle": "O que é Knock Balls?",
-      "whatIsDescription": "Knock Balls é um jogo de quebra-cabeça baseado em física onde você joga bolas estrategicamente para derrubar estruturas. O desafio é fazer isso sem exceder o limite permitido!",
-      "howToPlayTitle": "Como Jogar",
-      "howToPlayStep1": "Aponte e jogue bolas em estruturas para derrubá-las.",
-      "howToPlayStep2": "Tome cuidado para não exceder o limite de bolas permitido.",
-      "howToPlayStep3": "Cada bola salva valerá o dobro no próximo nível, então use-as com sabedoria!",
-      "keyFeaturesTitle": "Principais Características",
+      "whatIsDescription": "Knock Balls é um jogo divertido e viciante onde você joga bolas em estruturas para fazê-las desabar. Seja estratégico e salve bolas para dobrar sua pontuação no próximo nível.",
+      "howToPlayTitle": "Como jogar",
+      "howToPlayStep1": "Jogue bolas em estruturas para fazê-las desabar.",
+      "howToPlayStep2": "Tome cuidado para não exceder o limite permitido.",
+      "howToPlayStep3": "Salve bolas para dobrar sua pontuação no próximo nível.",
+      "keyFeaturesTitle": "Principais características",
       "feature1Title": "Controles fáceis",
-      "feature1Description": "Controles de um toque facilitam o aprendizado e o jogo.",
+      "feature1Description": "Controles fáceis de aprender com um toque para uma jogabilidade rápida.",
       "feature2Title": "Visuais deslumbrantes",
       "feature2Description": "Aproveite os efeitos visuais deslumbrantes que aprimoram sua experiência de jogo.",
       "feature3Title": "Jogabilidade viciante",
-      "feature3Description": "Mecânicas viciante o manterão voltando por mais.",
-      "feature4Title": "Pensamento estratégico",
-      "feature4Description": "Planeje suas jogadas cuidadosamente para maximizar sua pontuação e progresso."
+      "feature3Description": "Experimente as mecânicas de jogo viciante que o manterão voltando para mais.",
+      "feature4Title": "Salvamento estratégico",
+      "feature4Description": "Salve bolas para dobrar sua pontuação no próximo nível."
     },
     "HomeFAQs": {
       "title": "Perguntas Frequentes"

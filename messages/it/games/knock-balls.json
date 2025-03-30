@@ -1,8 +1,8 @@
 {
   "knock-balls": {
-    "title": "Knock Balls: Gioco di Puzzle Fisico Online Gratuito",
-    "slogan": "Metti alla prova le tue abilità fisiche e la tua strategia in Knock Balls!",
-    "description": "Knock Balls è un coinvolgente gioco di puzzle fisico in cui lanci palline per far crollare le strutture. Sii strategico ed evita di superare il limite consentito! Ogni pallina salvata raddoppierà di valore per il livello successivo, migliorando la tua esperienza di gioco. Goditi i comandi semplici da imparare, le immagini straordinarie e le meccaniche avvincenti. Gioca a Knock Balls ora e metti alla prova la tua precisione!",
+    "title": "Knock Balls - Smash & Score!",
+    "slogan": "Smasha le strutture, salva le palle e sali di livello!",
+    "description": "Vivi l'emozione di Knock Balls, dove lanci palle contro le strutture per farle crollare. Sii strategico e salva le palle per raddoppiare il punteggio nel livello successivo. Con controlli facili da imparare, visivi straordinari e un gameplay avvincente, Knock Balls offre divertimento senza fine. Gioca ora e scopri quanto in alto puoi arrivare!",
     "Loading": {
       "title": "Caricamento..."
     },
@@ -10,21 +10,21 @@
       "title": "Navigazione"
     },
     "Common": {
-      "createAt": "Creato il",
+      "createAt": "Creato alle",
       "guide": "Guida",
       "privacyPolicy": "Informativa sulla Privacy",
       "termsOfServices": "Termini di Servizio",
       "text": "Contenuto",
       "help": "Aiuto",
-      "friendlyLinks": "Collegamenti Utili",
-      "articleList": "Elenco Articoli",
+      "friendlyLinks": "Link Utili",
+      "articleList": "Lista Articoli",
       "home": "Home",
       "next": "Successivo",
       "previous": "Precedente"
     },
     "HomeIframe": {
-      "title": "Knock Balls",
-      "description": "Lancia palline contro le strutture per farle crollare, ma fai attenzione a non superare il limite consentito! Ogni pallina salvata raddoppierà di valore al livello successivo, approfittane per applicarti!",
+      "title": "Knock Balls™",
+      "description": "Lancia palle contro le strutture per farle crollare, ma fai attenzione a non superare il limite consentito! Ogni palla salvata raddoppierà il punteggio nel livello successivo, approfittane per ottenere il massimo! Controlli intuitivi con un tocco per un gameplay facile da imparare, immagini straordinarie e meccanismi di gioco avvincenti.",
       "iframeTitle": "Anteprima del Gioco",
       "fullscreenButton": "Schermo intero",
       "shareButton": "Condividi",
@@ -35,20 +35,20 @@
     "HomeFeatures": {
       "gameTitle": "Knock Balls",
       "whatIsTitle": "Cos'è Knock Balls?",
-      "whatIsDescription": "Knock Balls è un gioco di puzzle basato sulla fisica in cui lanci strategicamente palline per far crollare le strutture. La sfida è farlo senza superare il limite consentito!",
-      "howToPlayTitle": "Come giocare",
-      "howToPlayStep1": "Mira e lancia palline contro le strutture per farle crollare.",
-      "howToPlayStep2": "Fai attenzione a non superare il limite consentito di palline.",
-      "howToPlayStep3": "Ogni pallina salvata raddoppierà di valore al livello successivo, quindi usale saggiamente!",
-      "keyFeaturesTitle": "Caratteristiche principali",
-      "feature1Title": "Comandi facili",
-      "feature1Description": "I comandi a un tocco rendono facile imparare e giocare.",
-      "feature2Title": "Immagini straordinarie",
-      "feature2Description": "Goditi immagini straordinarie che migliorano la tua esperienza di gioco.",
-      "feature3Title": "Gameplay avvincente",
-      "feature3Description": "Le meccaniche avvincenti ti faranno tornare per di più.",
-      "feature4Title": "Pensiero strategico",
-      "feature4Description": "Pianifica attentamente le tue mosse per massimizzare il tuo punteggio e i tuoi progressi."
+      "whatIsDescription": "Knock Balls è un gioco divertente e avvincente in cui lanci palle contro le strutture per farle crollare. Sii strategico e salva le palle per raddoppiare il punteggio nel livello successivo.",
+      "howToPlayTitle": "Come Giocare",
+      "howToPlayStep1": "Lancia palle contro le strutture per farle crollare.",
+      "howToPlayStep2": "Fai attenzione a non superare il limite consentito.",
+      "howToPlayStep3": "Salva le palle per raddoppiare il punteggio nel livello successivo.",
+      "keyFeaturesTitle": "Caratteristiche Principali",
+      "feature1Title": "Controlli Semplici",
+      "feature1Description": "Controlli intuitivi con un tocco per un gameplay veloce.",
+      "feature2Title": "Immagini Stupefacenti",
+      "feature2Description": "Goditi effetti visivi straordinari che migliorano la tua esperienza di gioco.",
+      "feature3Title": "Gameplay Avvincente",
+      "feature3Description": "Vivi meccanismi di gioco avvincenti che ti terranno incollato allo schermo.",
+      "feature4Title": "Salvataggio Strategico",
+      "feature4Description": "Salva le palle per raddoppiare il punteggio nel livello successivo."
     },
     "HomeFAQs": {
       "title": "FAQ"
@@ -57,7 +57,7 @@
       "title": "Video del Gioco"
     },
     "HomeRecommendation": {
-      "title": "Raccomandazioni"
+      "title": "Raccomandati"
     },
     "HomeComments": {
       "title": "Commenti sul Gioco"
@@ -70,7 +70,7 @@
     "CategoryPage": {
       "categories": "Categorie",
       "noCategories": "Nessuna categoria trovata",
-      "viewMore": "Visualizza di più",
+      "viewMore": "Mostra altro",
       "page": "Pagina"
     }
   }

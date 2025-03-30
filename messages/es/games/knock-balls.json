@@ -1,13 +1,13 @@
 {
   "knock-balls": {
-    "title": "Knock Balls: Juego de Rompecabezas Físico Online Gratuito",
-    "slogan": "¡Desafía tus habilidades físicas y estratégicas en Knock Balls!",
-    "description": "Knock Balls es un atractivo juego de rompecabezas de física en el que lanzas bolas para hacer colapsar estructuras. ¡Sé estratégico y evita exceder el límite permitido! Cada bola guardada se duplica en valor para el siguiente nivel, mejorando tu juego. Disfruta de controles fáciles de aprender, imágenes impresionantes y mecánicas adictivas. ¡Juega a Knock Balls ahora y pon a prueba tu precisión!",
+    "title": "¡Knock Balls - ¡Destruye y anota!",
+    "slogan": "¡Destruye estructuras, salva bolas y sube de nivel!",
+    "description": "¡Experimenta la emoción de Knock Balls, donde lanzas bolas a estructuras para hacerlas colapsar! Sé estratégico y salva bolas para duplicar tu puntuación en el siguiente nivel. Con controles fáciles de aprender, visuales impresionantes y un juego adictivo, Knock Balls ofrece diversión sin fin. ¡Juega ahora y mira qué tan alto puedes llegar en la puntuación!",
     "Loading": {
       "title": "Cargando..."
     },
     "Navbar": {
-      "title": "Menú"
+      "title": "Navegación"
     },
     "Common": {
       "createAt": "Crear En",
@@ -23,8 +23,8 @@
       "previous": "Anterior"
     },
     "HomeIframe": {
-      "title": "Knock Balls",
-      "description": "¡Lanza bolas a las estructuras para hacerlas colapsar, pero ten cuidado de no exceder el límite permitido! ¡Cada bola guardada se duplicará en el siguiente nivel, aprovéchala para aplicarla!",
+      "title": "Knock Balls™",
+      "description": "¡Lanza bolas a las estructuras para hacerlas derrumbar, pero ten cuidado de no exceder el límite permitido! Cada bola salvada se multiplicará por dos en el siguiente nivel, ¡aprovéchala para aplicarla! Controles fáciles de aprender con un toque, sorprendentes efectos visuales y mecánicas de juego adictivas.",
       "iframeTitle": "Vista Previa del Juego",
       "fullscreenButton": "Pantalla Completa",
       "shareButton": "Compartir",
@@ -35,20 +35,20 @@
     "HomeFeatures": {
       "gameTitle": "Knock Balls",
       "whatIsTitle": "¿Qué es Knock Balls?",
-      "whatIsDescription": "Knock Balls es un juego de rompecabezas basado en la física en el que lanzas bolas estratégica para hacer colapsar estructuras. ¡El desafío es hacerlo sin exceder el límite permitido!",
-      "howToPlayTitle": "Cómo Jugar",
-      "howToPlayStep1": "Apunta y lanza bolas a las estructuras para hacerlas colapsar.",
-      "howToPlayStep2": "Ten cuidado de no exceder el límite de bolas permitido.",
-      "howToPlayStep3": "¡Cada bola guardada se duplicará en el siguiente nivel, ¡así que úsalas sabiamente!",
+      "whatIsDescription": "Knock Balls es un juego divertido y adictivo donde lanzas bolas a estructuras para hacerlas derrumbar. Sé estratégico y salva bolas para duplicar tu puntuación en el siguiente nivel.",
+      "howToPlayTitle": "¿Cómo jugar?",
+      "howToPlayStep1": "Lanza bolas a las estructuras para hacerlas derrumbar.",
+      "howToPlayStep2": "Ten cuidado de no superar el límite permitido.",
+      "howToPlayStep3": "Guarda bolas para duplicar tu puntuación en el siguiente nivel.",
       "keyFeaturesTitle": "Características Clave",
       "feature1Title": "Controles Fáciles",
-      "feature1Description": "Los controles de un solo toque facilitan el aprendizaje y el juego.",
-      "feature2Title": "Imágenes Impresionantes",
+      "feature1Description": "Controles fáciles de aprender con un solo toque para un juego rápido.",
+      "feature2Title": "Visuales Impresionantes",
       "feature2Description": "Disfruta de impresionantes efectos visuales que mejoran tu experiencia de juego.",
       "feature3Title": "Jugabilidad Adictiva",
-      "feature3Description": "Las mecánicas adictivas te mantienen volviendo por más.",
-      "feature4Title": "Pensamiento Estratégico",
-      "feature4Description": "Planifica tus movimientos cuidadosamente para maximizar tu puntuación y progreso."
+      "feature3Description": "Experimenta mecánicas de juego adictivas que te mantendrán volviendo por más.",
+      "feature4Title": "Salvamento Estratégico",
+      "feature4Description": "Salva bolas para duplicar tu puntuación en el siguiente nivel."
     },
     "HomeFAQs": {
       "title": "Preguntas Frecuentes"
@@ -70,7 +70,7 @@
     "CategoryPage": {
       "categories": "Categorías",
       "noCategories": "No se encontraron categorías",
-      "viewMore": "Ver más",
+      "viewMore": "Ver Más",
       "page": "Página"
     }
   }

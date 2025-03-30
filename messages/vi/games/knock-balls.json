@@ -1,13 +1,13 @@
 {
   "knock-balls": {
-    "title": "Knock Balls: Trò chơi giải đố vật lý trực tuyến miễn phí",
-    "slogan": "Thử thách kỹ năng vật lý và chiến thuật của bạn trong Knock Balls!",
-    "description": "Knock Balls là một trò chơi giải đố vật lý hấp dẫn, nơi bạn ném các quả bóng để phá vỡ các cấu trúc. Hãy chiến thuật và tránh vượt quá giới hạn cho phép! Mỗi quả bóng được giữ lại sẽ nhân đôi giá trị cho cấp độ tiếp theo, nâng cao trải nghiệm chơi game của bạn. Tận hưởng các điều khiển đơn giản, hình ảnh tuyệt đẹp và cơ chế gây nghiện. Chơi Knock Balls ngay bây giờ và thử độ chính xác của mình!",
+    "title": "Knock Balls - Smash & Score!",
+    "slogan": "Vỡ cấu trúc, giữ lại quả bóng và thăng cấp!",
+    "description": "Hãy trải nghiệm sự hồi hộp của Knock Balls, nơi bạn ném bóng vào các cấu trúc để chúng sụp đổ. Hãy chiến thuật và giữ lại bóng để nhân đôi điểm số ở cấp độ tiếp theo. Với các điều khiển dễ học, hình ảnh tuyệt đẹp và lối chơi gây nghiện, Knock Balls mang đến niềm vui không giới hạn. Chơi ngay và xem bạn có thể đạt được điểm số cao bao nhiêu!",
     "Loading": {
       "title": "Đang tải..."
     },
     "Navbar": {
-      "title": "Định vị"
+      "title": "Đọc"
     },
     "Common": {
       "createAt": "Tạo lúc",
@@ -20,35 +20,35 @@
       "articleList": "Danh sách bài viết",
       "home": "Trang chủ",
       "next": "Tiếp theo",
-      "previous": "Trước"
+      "previous": "Trước đó"
     },
     "HomeIframe": {
-      "title": "Knock Balls",
-      "description": "ném các quả cầu vào các cấu trúc để phá hủy chúng nhưng hãy cẩn thận đừng vượt quá giới hạn cho phép! Mỗi quả bóng được cứu sẽ được nhân đôi ở cấp độ tiếp theo, hãy tận dụng điều đó để áp dụng chiến lược của bạn!",
+      "title": "Knock Balls™",
+      "description": "Ném bóng vào các cấu trúc để phá hủy chúng, nhưng hãy cẩn thận không vượt quá giới hạn cho phép! Mỗi quả bóng được giữ lại sẽ nhân đôi điểm số ở cấp độ tiếp theo, hãy tận dụng điều đó để áp dụng! Điều khiển dễ dàng một chạm, với hiệu ứng hình ảnh tuyệt đẹp và cơ chế lối chơi gây nghiện.",
       "iframeTitle": "Xem trước trò chơi",
       "fullscreenButton": "Toàn màn hình",
       "shareButton": "Chia sẻ",
-      "urlCopied": "Đã sao chép URL vào bộ nhớ tạm!",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
       "downloadGame": "Tải game",
       "playGame": "Chơi game"
     },
     "HomeFeatures": {
       "gameTitle": "Knock Balls",
       "whatIsTitle": "Knock Balls là gì?",
-      "whatIsDescription": "Knock Balls là một trò chơi giải đố dựa trên vật lý, nơi bạn ném các quả bóng một cách chiến thuật để phá vỡ các cấu trúc. Thách thức là làm điều đó mà không vượt quá giới hạn cho phép!",
+      "whatIsDescription": "Knock Balls là một trò chơi thú vị và gây nghiện, nơi bạn ném bóng vào các cấu trúc để chúng sụp đổ. Hãy chiến thuật và giữ lại bóng để nhân đôi điểm số ở cấp độ tiếp theo.",
       "howToPlayTitle": "Cách chơi",
-      "howToPlayStep1": "Nhắm mục tiêu và ném các quả bóng vào các cấu trúc để phá hủy chúng.",
-      "howToPlayStep2": "Hãy cẩn thận không vượt quá số lượng quả bóng cho phép.",
-      "howToPlayStep3": "Mỗi quả bóng được giữ lại sẽ được nhân đôi ở cấp độ tiếp theo, vì vậy hãy sử dụng chúng một cách khôn ngoan!",
+      "howToPlayStep1": "Ném bóng vào các cấu trúc để chúng sụp đổ.",
+      "howToPlayStep2": "Hãy cẩn thận không vượt quá giới hạn cho phép.",
+      "howToPlayStep3": "Giữ lại bóng để nhân đôi điểm số ở cấp độ tiếp theo.",
       "keyFeaturesTitle": "Các tính năng chính",
       "feature1Title": "Điều khiển dễ dàng",
-      "feature1Description": "Các điều khiển một chạm giúp dễ dàng học và chơi.",
+      "feature1Description": "Điều khiển một chạm dễ học để chơi nhanh chóng.",
       "feature2Title": "Hình ảnh tuyệt đẹp",
-      "feature2Description": "Thưởng thức hiệu ứng hình ảnh tuyệt đẹp làm tăng trải nghiệm chơi game của bạn.",
-      "feature3Title": "Trải nghiệm chơi game gây nghiện",
-      "feature3Description": "Cơ chế gây nghiện sẽ giữ bạn quay lại để chơi thêm.",
-      "feature4Title": "Suy nghĩ chiến thuật",
-      "feature4Description": "Lập kế hoạch di chuyển của bạn một cách cẩn thận để tối đa hóa điểm số và tiến độ."
+      "feature2Description": "Tận hưởng hiệu ứng hình ảnh tuyệt đẹp làm tăng cường trải nghiệm chơi game của bạn.",
+      "feature3Title": "Lối chơi gây nghiện",
+      "feature3Description": "Trải nghiệm lối chơi gây nghiện luôn khiến bạn muốn quay lại.",
+      "feature4Title": "Lưu trữ chiến thuật",
+      "feature4Description": "Giữ lại bóng để nhân đôi điểm số ở cấp độ tiếp theo."
     },
     "HomeFAQs": {
       "title": "Câu hỏi thường gặp"
@@ -60,12 +60,12 @@
       "title": "Đề xuất"
     },
     "HomeComments": {
-      "title": "Bình luận chơi"
+      "title": "Nhận xét chơi game"
     },
     "GamePage": {
       "title": "Tất cả các trò chơi",
       "description": "Tất cả các trò chơi",
-      "games": "Trò chơi"
+      "games": "Các trò chơi"
     },
     "CategoryPage": {
       "categories": "Các danh mục",
