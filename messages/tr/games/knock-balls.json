@@ -1,0 +1,77 @@
+{
+  "knock-balls": {
+    "title": "Knock Balls: Ücretsiz Çevrimiçi Fiziğe Dayalı Bulmaca Oyunu",
+    "slogan": "Knock Balls'ta fizik ve strateji becerilerinizi test edin!",
+    "description": "Knock Balls, yapıları yıkmak için topları fırlattığınız etkileşimli bir fiziğe dayalı bulmaca oyunudur. İzin verilen limite aşmamaya dikkat edin! Her kaydedilen top, sonraki seviyede değerini iki katına çıkarır, oyun deneyiminizi geliştirir. Kolay öğrenilebilir kontroller, göz alıcı görseller ve bağımlılık yaratan mekanikler keyif alın. Şimdi Knock Balls oynayarak hassasiyetinizi test edin!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "kılavuz",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Knock Balls",
+      "description": "Yapıları yıkmak için toplar fırlatın, ancak izin verilen limite aşmamaya dikkat edin! Her kaydedilen top, sonraki seviyede iki kat değer kazanacaktır, avantajınızı kullanın!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Knock Balls",
+      "whatIsTitle": "Knock Balls Nedir?",
+      "whatIsDescription": "Knock Balls, yapıları yıkmak için stratejik olarak topları fırlattığınız fiziğe dayalı bir bulmaca oyunudur. Zorluk, izin verilen limite aşmadan bunu yapmaktır!",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Hedefi belirleyip yapıları yıkmak için topları fırlatın.",
+      "howToPlayStep2": "İzin verilen top sayısını aşmamaya dikkat edin.",
+      "howToPlayStep3": "Her kaydedilen top, sonraki seviyede değerini iki katına çıkaracaktır, bu nedenle onları akıllıca kullanın!",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Kolay Kontroller",
+      "feature1Description": "Tek dokunuşla kontroller, öğrenmeyi ve oynamayı kolaylaştırır.",
+      "feature2Title": "Göz Alıcı Görseller",
+      "feature2Description": "Oyun deneyiminizi geliştiren göz alıcı görsel efektlerden keyif alın.",
+      "feature3Title": "Bağımlılık Yapan Oyun",
+      "feature3Description": "Bağımlılık yaratan mekanikler sizi daha fazlasını oynamaya devam ettir.",
+      "feature4Title": "Stratejik Düşünme",
+      "feature4Description": "Puanınızı ve ilerlemenizi en üst düzeye çıkarmak için hamlelerinizi dikkatlice planlayın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiye Edilenler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

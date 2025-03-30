@@ -1,0 +1,77 @@
+{
+  "knock-balls": {
+    "title": "Knock Balls: Free Online Physics Puzzle Game",
+    "slogan": "Challenge your physics skills and strategy in Knock Balls!",
+    "description": "Knock Balls is an engaging physics puzzle game where you throw balls to collapse structures. Be strategic and avoid exceeding the allowed limit! Each saved ball doubles in value for the next level, enhancing your gameplay. Enjoy easy-to-learn controls, stunning visuals, and addictive mechanics. Play Knock Balls now and test your precision!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Knock Balls",
+      "description": "Throw balls at structures to make them collapse but be careful not to exceed the allowed limit! Each saved ball will count double at the next level, take advantage of it to apply you!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Knock Balls",
+      "whatIsTitle": "What is Knock Balls?",
+      "whatIsDescription": "Knock Balls is a physics-based puzzle game where you strategically throw balls to collapse structures. The challenge is to do it without exceeding the allowed limit!",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Aim and throw balls at structures to make them collapse.",
+      "howToPlayStep2": "Be careful not to exceed the allowed limit of balls.",
+      "howToPlayStep3": "Each saved ball will count double at the next level, so use them wisely!",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Easy Controls",
+      "feature1Description": "One-tap controls make it easy to learn and play.",
+      "feature2Title": "Stunning Visuals",
+      "feature2Description": "Enjoy stunning visual effects that enhance your gameplay experience.",
+      "feature3Title": "Addictive Gameplay",
+      "feature3Description": "Addictive mechanics keep you coming back for more.",
+      "feature4Title": "Strategic Thinking",
+      "feature4Description": "Plan your moves carefully to maximize your score and progress."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

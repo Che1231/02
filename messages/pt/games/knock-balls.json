@@ -1,0 +1,77 @@
+{
+  "knock-balls": {
+    "title": "Knock Balls: Jogo de Física de Quebra-Cabeça Online Gratuito",
+    "slogan": "Desafie suas habilidades em física e estratégia no Knock Balls!",
+    "description": "Knock Balls é um jogo de quebra-cabeça de física envolvente onde você joga bolas para derrubar estruturas. Seja estratégico e evite ultrapassar o limite permitido! Cada bola salva dobra de valor para o próximo nível, aprimorando sua jogabilidade. Aproveite controles fáceis de aprender, gráficos deslumbrantes e mecânicas viciantes. Jogue Knock Balls agora e teste sua precisão!",
+    "Loading": {
+      "title": "Carregando..."
+    },
+    "Navbar": {
+      "title": "Navegar"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links amigáveis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Knock Balls",
+      "description": "Jogue bolas em estruturas para derrubá-las, mas tenha cuidado para não ultrapassar o limite permitido! Cada bola salva valerá o dobro no próximo nível, aproveite isso para aplicar sua estratégia!",
+      "iframeTitle": "Visualização do jogo",
+      "fullscreenButton": "Tela cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Knock Balls",
+      "whatIsTitle": "O que é Knock Balls?",
+      "whatIsDescription": "Knock Balls é um jogo de quebra-cabeça baseado em física onde você joga bolas estrategicamente para derrubar estruturas. O desafio é fazê-lo sem ultrapassar o limite permitido!",
+      "howToPlayTitle": "Como jogar",
+      "howToPlayStep1": "Aponte e jogue bolas em estruturas para derrubá-las.",
+      "howToPlayStep2": "Tenha cuidado para não ultrapassar o limite de bolas permitido.",
+      "howToPlayStep3": "Cada bola salva valerá o dobro no próximo nível, então use-as sabiamente!",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Controles fáceis",
+      "feature1Description": "Os controles de um toque tornam fácil aprender e jogar.",
+      "feature2Title": "Gráficos deslumbrantes",
+      "feature2Description": "Aproveite efeitos visuais deslumbrantes que aprimoram sua experiência de jogo.",
+      "feature3Title": "Jogabilidade viciante",
+      "feature3Description": "Mecânicas viciante mantêm você voltando por mais.",
+      "feature4Title": "Pensamento estratégico",
+      "feature4Description": "Planeje suas jogadas cuidadosamente para maximizar sua pontuação e progresso."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do jogo"
+    },
+    "GamePage": {
+      "title": "Todos os jogos",
+      "description": "Todos os jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver mais",
+      "page": "Página"
+    }
+  }
+}

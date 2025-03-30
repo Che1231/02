@@ -1,0 +1,77 @@
+{
+  "knock-balls": {
+    "title": "Knock Balls : Jeu de puzzle physique en ligne gratuit",
+    "slogan": "Relevez le défi de la physique et de la stratégie dans Knock Balls !",
+    "description": "Knock Balls est un jeu de puzzle physique captivant où vous lancez des balles pour faire s'effondrer des structures. Soyez stratégique et évitez de dépasser la limite autorisée ! Chaque balle sauvegardée double de valeur pour le niveau suivant, ce qui améliorera votre jeu. Profitez de commandes faciles à apprendre, d'images époustouflantes et de mécanismes addictifs. Jouez à Knock Balls maintenant et testez votre précision !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Knock Balls",
+      "description": "Lancez des balles sur des structures pour les faire s'effondrer, mais attention à ne pas dépasser la limite autorisée ! Chaque balle sauvegardée vaudra le double au niveau suivant, profitez-en pour jouer à votre avantage !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Knock Balls",
+      "whatIsTitle": "Qu'est-ce que Knock Balls ?",
+      "whatIsDescription": "Knock Balls est un jeu de puzzle basé sur la physique où vous lancez stratégiquement des balles pour faire s'effondrer des structures. Le défi consiste à le faire sans dépasser la limite autorisée !",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Visez et lancez des balles sur les structures pour les faire s'effondrer.",
+      "howToPlayStep2": "Faites attention à ne pas dépasser la limite de balles autorisée.",
+      "howToPlayStep3": "Chaque balle sauvegardée vaudra le double au niveau suivant, utilisez-les donc judicieusement !",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Commandes faciles",
+      "feature1Description": "Les commandes à un seul clic facilitent l'apprentissage et le jeu.",
+      "feature2Title": "Visuels époustouflants",
+      "feature2Description": "Profitez d'effets visuels époustouflants qui rehausseront votre expérience de jeu.",
+      "feature3Title": "Gameplay addictif",
+      "feature3Description": "Des mécanismes addictifs vous feront revenir pour en redemander.",
+      "feature4Title": "Penser stratégiquement",
+      "feature4Description": "Planifiez vos mouvements avec soin pour maximiser votre score et vos progrès."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "knock-balls": {
+    "title": "Knock Balls: Kostenloses Online-Physikrätselspiel",
+    "slogan": "Fordern Sie Ihre Physikfähigkeiten und Ihre Strategie in Knock Balls heraus!",
+    "description": "Knock Balls ist ein fesselndes Physik-Rätselspiel, bei dem Sie Bälle werfen, um Strukturen zum Einsturz zu bringen. Seien Sie strategisch und vermeiden Sie das Überschreiten der erlaubten Grenze! Jeder gespeicherte Ball verdoppelt seinen Wert für die nächste Stufe und verbessert Ihr Gameplay. Genießen Sie einfache Steuerung, atemberaubende Grafiken und süchtig machende Mechaniken. Spielen Sie jetzt Knock Balls und testen Sie Ihre Präzision!",
+    "Loading": {
+      "title": "Lade..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Leitfaden",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Knock Balls",
+      "description": "Werfen Sie Bälle auf Strukturen, um sie zum Einsturz zu bringen, aber achten Sie darauf, die erlaubte Grenze nicht zu überschreiten! Jeder gespeicherte Ball zählt in der nächsten Stufe doppelt, nutzen Sie dies für Ihre Strategie!",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Knock Balls",
+      "whatIsTitle": "Was ist Knock Balls?",
+      "whatIsDescription": "Knock Balls ist ein physikalisches Puzzlespiel, bei dem Sie strategisch Bälle werfen, um Strukturen zum Einsturz zu bringen. Die Herausforderung besteht darin, dies ohne Überschreitung der erlaubten Anzahl von Bällen zu tun!",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Zielen Sie und werfen Sie Bälle auf Strukturen, um sie zum Einsturz zu bringen.",
+      "howToPlayStep2": "Achten Sie darauf, die erlaubte Anzahl an Bällen nicht zu überschreiten.",
+      "howToPlayStep3": "Jeder gespeicherte Ball zählt in der nächsten Stufe doppelt, also verwenden Sie sie klug!",
+      "keyFeaturesTitle": "Haupteigenschaften",
+      "feature1Title": "Einfache Steuerung",
+      "feature1Description": "Eine-Tasten-Steuerung machen das Spiel leicht zu erlernen und zu spielen.",
+      "feature2Title": "Atemberaubende Grafiken",
+      "feature2Description": "Genießen Sie atemberaubende visuelle Effekte, die Ihr Spielerlebnis verbessern.",
+      "feature3Title": "Süchtiges Gameplay",
+      "feature3Description": "Süchtige Mechaniken lassen Sie immer wieder zurückkehren.",
+      "feature4Title": "Strategisches Denken",
+      "feature4Description": "Planen Sie Ihre Züge sorgfältig, um Ihre Punktzahl und Ihren Fortschritt zu maximieren."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

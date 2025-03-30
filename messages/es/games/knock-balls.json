@@ -1,0 +1,77 @@
+{
+  "knock-balls": {
+    "title": "Knock Balls: Juego de Rompecabezas Físico Online Gratuito",
+    "slogan": "¡Desafía tus habilidades físicas y estratégicas en Knock Balls!",
+    "description": "Knock Balls es un atractivo juego de rompecabezas de física en el que lanzas bolas para hacer colapsar estructuras. ¡Sé estratégico y evita exceder el límite permitido! Cada bola guardada se duplica en valor para el siguiente nivel, mejorando tu juego. Disfruta de controles fáciles de aprender, imágenes impresionantes y mecánicas adictivas. ¡Juega a Knock Balls ahora y pon a prueba tu precisión!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Menú"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Términos de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Knock Balls",
+      "description": "¡Lanza bolas a las estructuras para hacerlas colapsar, pero ten cuidado de no exceder el límite permitido! ¡Cada bola guardada se duplicará en el siguiente nivel, aprovéchala para aplicarla!",
+      "iframeTitle": "Vista Previa del Juego",
+      "fullscreenButton": "Pantalla Completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar Juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Knock Balls",
+      "whatIsTitle": "¿Qué es Knock Balls?",
+      "whatIsDescription": "Knock Balls es un juego de rompecabezas basado en la física en el que lanzas bolas estratégica para hacer colapsar estructuras. ¡El desafío es hacerlo sin exceder el límite permitido!",
+      "howToPlayTitle": "Cómo Jugar",
+      "howToPlayStep1": "Apunta y lanza bolas a las estructuras para hacerlas colapsar.",
+      "howToPlayStep2": "Ten cuidado de no exceder el límite de bolas permitido.",
+      "howToPlayStep3": "¡Cada bola guardada se duplicará en el siguiente nivel, ¡así que úsalas sabiamente!",
+      "keyFeaturesTitle": "Características Clave",
+      "feature1Title": "Controles Fáciles",
+      "feature1Description": "Los controles de un solo toque facilitan el aprendizaje y el juego.",
+      "feature2Title": "Imágenes Impresionantes",
+      "feature2Description": "Disfruta de impresionantes efectos visuales que mejoran tu experiencia de juego.",
+      "feature3Title": "Jugabilidad Adictiva",
+      "feature3Description": "Las mecánicas adictivas te mantienen volviendo por más.",
+      "feature4Title": "Pensamiento Estratégico",
+      "feature4Description": "Planifica tus movimientos cuidadosamente para maximizar tu puntuación y progreso."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas Frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del Juego"
+    },
+    "GamePage": {
+      "title": "Todos los Juegos",
+      "description": "Todos los Juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

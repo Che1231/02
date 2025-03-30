@@ -1,0 +1,77 @@
+{
+  "knock-balls": {
+    "title": "ノックボール：無料オンライン物理パズルゲーム",
+    "slogan": "ノックボールであなたの物理学のスキルと戦略に挑戦！",
+    "description": "ノックボールは、構造物を崩壊させるためにボールを投げる、魅力的な物理パズルゲームです。制限を超えないように戦略的にプレイしましょう！保存された各ボールは次のレベルで2倍の価値になります。直感的な操作、素晴らしいグラフィック、中毒性のあるメカニズムをお楽しみください。今すぐノックボールをプレイして、あなたの正確さを試してみてください！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "ノックボール",
+      "description": "構造物にボールを投げつけて崩壊させましょう。ただし、許容範囲を超えないように注意してください！保存された各ボールは次のレベルで2倍の価値になります。それを活用して、戦略的にプレイしましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ノックボール",
+      "whatIsTitle": "ノックボールとは？",
+      "whatIsDescription": "ノックボールは、構造物を戦略的にボールを投げて崩壊させる物理ベースのパズルゲームです。制限を超えないようにするところが最大の課題です！",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "構造物にボールを当てて崩壊させましょう。",
+      "howToPlayStep2": "ボールの制限を超えないように注意してください。",
+      "howToPlayStep3": "保存されたボールは次のレベルで2倍の価値になります。賢く活用しましょう！",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "簡単な操作",
+      "feature1Description": "ワンタップ操作で、誰でも簡単に学習してプレイできます。",
+      "feature2Title": "素晴らしいビジュアル",
+      "feature2Description": "ゲーム体験をさらに豊かなものにする、素晴らしい視覚効果をお楽しみください。",
+      "feature3Title": "中毒性のあるゲームプレイ",
+      "feature3Description": "中毒性のあるメカニズムで、飽きさせません。",
+      "feature4Title": "戦略的な思考",
+      "feature4Description": "あなたのスコアと進捗を最大化するために、慎重に動きを計画しましょう。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめゲーム"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム一覧"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

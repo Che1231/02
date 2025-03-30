@@ -1,0 +1,77 @@
+{
+  "knock-balls": {
+    "title": "Knock Balls: 무료 온라인 물리 퍼즐 게임",
+    "slogan": "Knock Balls에서 물리학 기술과 전략을 시험해보세요!",
+    "description": "Knock Balls는 구조물을 무너뜨리기 위해 공을 던지는 몰입형 물리 퍼즐 게임입니다. 허용 범위를 초과하지 않도록 전략적으로 행동하세요! 각각 저장된 공은 다음 레벨에서 2배로 계산되어 게임 플레이를 강화합니다. 쉬운 조작, 놀라운 시각 효과 및 중독성 있는 메커니즘을 즐기세요. 지금 Knock Balls를 플레이하여 정밀성을 테스트하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인 정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "Knock Balls",
+      "description": "구조물을 무너뜨리기 위해 공을 던지지만, 허용된 범위를 초과하지 않도록 주의하세요! 각 저장된 공은 다음 레벨에서 2배로 계산되므로 이를 활용하여 전략적으로 행동하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Knock Balls",
+      "whatIsTitle": "Knock Balls는 무엇인가요?",
+      "whatIsDescription": "Knock Balls는 구조물을 무너뜨리기 위해 전략적으로 공을 던지는 물리 기반 퍼즐 게임입니다. 도전 과제는 허용 범위를 초과하지 않는 것입니다!",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "구조물을 무너뜨리기 위해 공을 구조물에 겨냥하여 던지세요.",
+      "howToPlayStep2": "허용된 공의 수량을 초과하지 않도록 주의하세요.",
+      "howToPlayStep3": "저장된 각 공은 다음 레벨에서 2배로 계산되므로 현명하게 사용하세요!",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "쉬운 조작",
+      "feature1Description": "원터치 조작을 통해 배우고 플레이하기 쉽습니다.",
+      "feature2Title": "놀라운 시각 효과",
+      "feature2Description": "게임 플레이 경험을 향상시키는 놀라운 시각 효과를 즐기세요.",
+      "feature3Title": "중독성 있는 게임 플레이",
+      "feature3Description": "중독성 있는 메커니즘으로 더욱 플레이하고 싶을 것입니다.",
+      "feature4Title": "전략적 사고",
+      "feature4Description": "점수와 진행 상황을 극대화하기 위해 이동을 신중하게 계획하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}
