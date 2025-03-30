@@ -1,0 +1,77 @@
+{
+  "cube-tower-surfer": {
+    "title": "Küp Kule Sörfü - En Yüksek Kuleyi İnşa Et",
+    "slogan": "Topla, Yığ ve Fethediş!",
+    "description": "Küp Kule Sörfü, eğlenceli ve bağımlılık yapan bir hiperkausal oyundur. En yüksek kuleyi inşa etmek ve daha fazla puan almak için olabildiğince çok küp toplayın. Basit kontroller ve sonsuz zorluklarla bu harika oyundan zevk alın. Şimdi Küp Kule Sörfü oynayın ve ne kadar yükseğe çıkabileceğinizi görün!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Küp Kule Sörfü",
+      "description": "Küp Kule Sörfü, olabildiğince yüksek kule inşa etmek için küpler toplayan eğlenceli ve bağımlılık yapan bir hiperkausal oyundur. Basit kontroller ve sonsuz zorluklarla bu harika oyundan zevk alın.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Küp Kule Sörfü",
+      "whatIsTitle": "Küp Kule Sörfü Nedir?",
+      "whatIsDescription": "Küp Kule Sörfü, mümkün olan en yüksek kuleyi inşa etmek için küpler toplayan eğlenceli ve bağımlılık yapan bir hiperkausal oyundur.",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Olabildiğince çok küp toplayın.",
+      "howToPlayStep2": "Küpeleri en yüksek kuleyi oluşturmak için yığ.",
+      "howToPlayStep3": "Engellere dikkat edin ve kulenizi sabit tutun.",
+      "keyFeaturesTitle": "Ana Özellikler",
+      "feature1Title": "Basit Kontroller",
+      "feature1Description": "Tüm oyuncular için kolay öğrenilebilir kontroller.",
+      "feature2Title": "Sonsuz Zorluklar",
+      "feature2Description": "İnşa etmeye devam edin ve ne kadar yükseğe çıkabileceğinizi görün.",
+      "feature3Title": "Eğlenceli Oyun",
+      "feature3Description": "Eğlenceli ve bağımlılık yapan bir oyun deneyiminin tadını çıkarın.",
+      "feature4Title": "Yüksek Skorlar",
+      "feature4Description": "Arkadaşlarınızla en yüksek skor için yarışın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Gör",
+      "page": "Sayfa"
+    }
+  }
+}

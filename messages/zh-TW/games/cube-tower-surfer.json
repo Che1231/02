@@ -1,0 +1,77 @@
+{
+  "cube-tower-surfer": {
+    "title": "立方體塔攀爬 - 建造最高的塔",
+    "slogan": "收集、堆疊，征服！",
+    "description": "立方體塔攀爬是一款有趣且令人上癮的休閒遊戲。收集盡可能多的立方體，建造最高的塔並獲得更多分數。享受這款操作簡單，挑戰無盡的精彩遊戲。現在就玩立方體塔攀爬，看看你能到達多高！",
+    "Loading": {
+      "title": "讀取中..."
+    },
+    "Navbar": {
+      "title": "導覽"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "立方體塔攀爬",
+      "description": "立方體塔攀爬是一款有趣且令人上癮的休閒遊戲。收集盡可能多的立方體，建造最高的塔並獲得更多分數。享受這款操作簡單，挑戰無盡的遊戲。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "遊玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "立方體塔攀爬",
+      "whatIsTitle": "立方體塔攀爬是什麼？",
+      "whatIsDescription": "在立方體塔攀爬遊戲中，收集立方體，建造最高的塔。",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "收集盡可能多的立方體。",
+      "howToPlayStep2": "堆疊立方體，建造最高的塔。",
+      "howToPlayStep3": "避開障礙物並保持塔體穩定。",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "簡單的操作",
+      "feature1Description": "所有玩家都能輕鬆上手的操作。",
+      "feature2Title": "無盡的挑戰",
+      "feature2Description": "不斷建造，看看你能到達多高。",
+      "feature3Title": "趣味的遊戲體驗",
+      "feature3Description": "享受有趣且令人上癮的遊戲體驗。",
+      "feature4Title": "高分排行榜",
+      "feature4Description": "與朋友競爭，爭奪最高分。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦遊戲"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到分類",
+      "viewMore": "檢視更多",
+      "page": "頁面"
+    }
+  }
+}

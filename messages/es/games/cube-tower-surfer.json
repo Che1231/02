@@ -1,0 +1,77 @@
+{
+  "cube-tower-surfer": {
+    "title": "Cube Tower Surfer - Construye la Torre Más Alta",
+    "slogan": "¡Recoge, Apila y Domina!",
+    "description": "Cube Tower Surfer es un juego hipercasual divertido y adictivo. Recoge tantos cubos como puedas para construir la torre más alta y obtener más puntos. Disfruta de este fantástico juego con controles sencillos y desafíos infinitos. ¡Juega a Cube Tower Surfer ahora y mira hasta dónde puedes llegar!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Términos de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Cube Tower Surfer",
+      "description": "Cube Tower Surfer es un juego hipercasual divertido y adictivo. Recoge tantos cubos como puedas para construir la torre más alta y obtener más puntos. Disfruta de este fantástico juego con controles sencillos y desafíos infinitos.",
+      "iframeTitle": "Vista Previa del Juego",
+      "fullscreenButton": "Pantalla Completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar Juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Cube Tower Surfer",
+      "whatIsTitle": "¿Qué es Cube Tower Surfer?",
+      "whatIsDescription": "Cube Tower Surfer es un juego hipercasual divertido y adictivo en el que recoges cubos para construir la torre más alta posible.",
+      "howToPlayTitle": "¿Cómo Jugar?",
+      "howToPlayStep1": "Recoge tantos cubos como puedas.",
+      "howToPlayStep2": "Apila los cubos para construir la torre más alta.",
+      "howToPlayStep3": "Evita los obstáculos y mantén tu torre estable.",
+      "keyFeaturesTitle": "Características Clave",
+      "feature1Title": "Controles Sencillos",
+      "feature1Description": "Controles fáciles de aprender para todos los jugadores.",
+      "feature2Title": "Desafíos Infinitos",
+      "feature2Description": "Sigue construyendo y mira hasta dónde puedes llegar.",
+      "feature3Title": "Jugabilidad Divertida",
+      "feature3Description": "Disfruta de una experiencia de juego divertida y adictiva.",
+      "feature4Title": "Máximas Puntuaciones",
+      "feature4Description": "Compite con tus amigos por la máxima puntuación."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas Frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del Juego"
+    },
+    "GamePage": {
+      "title": "Todos los Juegos",
+      "description": "Todos los Juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver Más",
+      "page": "Página"
+    }
+  }
+}

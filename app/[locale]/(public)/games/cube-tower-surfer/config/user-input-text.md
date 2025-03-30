@@ -1,0 +1,1 @@
+Cube Tower Surfer is fun addictive hypercasual game. Collect as many cubes as you can to make the highest tower to score more Enjoy this fantastic game.

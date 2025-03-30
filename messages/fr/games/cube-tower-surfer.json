@@ -1,0 +1,77 @@
+{
+  "cube-tower-surfer": {
+    "title": "Cube Tower Surfer - Construire la tour la plus haute",
+    "slogan": "Collectionnez, empilez et conquérez !",
+    "description": "Cube Tower Surfer est un jeu hypercasual amusant et addictif. Collectionnez autant de cubes que possible pour construire la tour la plus haute et obtenir plus de points. Profitez de ce jeu fantastique avec des commandes simples et des défis sans fin. Jouez à Cube Tower Surfer maintenant et voyez jusqu'où vous pouvez aller !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens utiles",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Cube Tower Surfer",
+      "description": "Cube Tower Surfer est un jeu hypercasual amusant et accrocheur. Collectionnez autant de cubes que possible pour construire la tour la plus haute et obtenir plus de points. Profitez de ce jeu fantastique avec des commandes simples et des défis sans fin.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Cube Tower Surfer",
+      "whatIsTitle": "Qu'est-ce que Cube Tower Surfer ?",
+      "whatIsDescription": "Cube Tower Surfer est un jeu hypercasual amusant et addictif où vous collectionnez des cubes pour construire la tour la plus haute possible.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Collectionnez autant de cubes que possible.",
+      "howToPlayStep2": "Empilez les cubes pour construire la tour la plus haute.",
+      "howToPlayStep3": "Évitez les obstacles et maintenez votre tour stable.",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Commandes simples",
+      "feature1Description": "Commandes faciles à apprendre pour tous les joueurs.",
+      "feature2Title": "Défis sans fin",
+      "feature2Description": "Continuez à construire et voyez jusqu'où vous pouvez aller.",
+      "feature3Title": "Gameplay amusant",
+      "feature3Description": "Profitez d'une expérience de jeu amusante et addictive.",
+      "feature4Title": "Meilleurs scores",
+      "feature4Description": "Rivalisez avec vos amis pour obtenir le meilleur score."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

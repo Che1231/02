@@ -1,0 +1,77 @@
+{
+  "cube-tower-surfer": {
+    "title": "Cube Tower Surfer - Den höchsten Turm bauen",
+    "slogan": "Sammeln, Stapeln und Erobern!",
+    "description": "Cube Tower Surfer ist ein unterhaltsames und süchtig machendes Hypercasual-Spiel. Sammle so viele Würfel wie möglich, um den höchsten Turm zu bauen und höhere Punktzahlen zu erzielen. Genieße dieses fantastische Spiel mit einfachen Steuerelementen und endlosen Herausforderungen. Spiele Cube Tower Surfer jetzt und schau, wie hoch du kommst!",
+    "Loading": {
+      "title": "Lädt..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Cube Tower Surfer",
+      "description": "Cube Tower Surfer ist ein unterhaltsames und süchtig machendes Hypercasual-Spiel. Sammle so viele Würfel wie möglich, um den höchsten Turm zu bauen und höhere Punktzahlen zu erzielen. Genieße dieses fantastische Spiel mit einfachen Steuerelementen und endlosen Herausforderungen.",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Cube Tower Surfer",
+      "whatIsTitle": "Was ist Cube Tower Surfer?",
+      "whatIsDescription": "Cube Tower Surfer ist ein unterhaltsames und süchtig machendes Hypercasual-Spiel, bei dem du Würfel sammelst, um den höchstmöglichen Turm zu bauen.",
+      "howToPlayTitle": "So spielst du",
+      "howToPlayStep1": "Sammle so viele Würfel wie möglich.",
+      "howToPlayStep2": "Stapele die Würfel, um den höchsten Turm zu bauen.",
+      "howToPlayStep3": "Vermeide Hindernisse und halte deinen Turm stabil.",
+      "keyFeaturesTitle": "Wichtige Merkmale",
+      "feature1Title": "Einfache Steuerung",
+      "feature1Description": "Leicht zu erlernende Steuerung für alle Spieler.",
+      "feature2Title": "Endlose Herausforderungen",
+      "feature2Description": "Baue weiter und schau, wie hoch du kommst.",
+      "feature3Title": "Unterhaltsames Gameplay",
+      "feature3Description": "Genieße ein unterhaltsames und fesselndes Spielerlebnis.",
+      "feature4Title": "Highscores",
+      "feature4Description": "Konkurriere mit Freunden um die höchste Punktzahl."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

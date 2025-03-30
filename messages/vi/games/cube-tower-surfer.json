@@ -1,0 +1,77 @@
+{
+  "cube-tower-surfer": {
+    "title": "Người chơi tháp khối - Xây dựng tháp cao nhất",
+    "slogan": "Thu thập, chồng lên nhau và chinh phục!",
+    "description": "Cube Tower Surfer là một trò chơi siêu ngẫu nhiên thú vị và gây nghiện. Thu thập càng nhiều khối càng tốt để xây dựng tháp cao nhất và đạt điểm số cao hơn. Hãy tận hưởng trò chơi tuyệt vời này với các điều khiển đơn giản và những thách thức không giới hạn. Chơi Cube Tower Surfer ngay bây giờ và xem bạn có thể đạt được độ cao nào!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Đọc"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước"
+    },
+    "HomeIframe": {
+      "title": "Người chơi tháp khối",
+      "description": "Cube Tower Surfer là một trò chơi siêu ngẫu nhiên thú vị và gây nghiện. Thu thập càng nhiều khối càng tốt để xây dựng tháp cao nhất và đạt điểm số cao hơn. Hãy tận hưởng trò chơi tuyệt vời này với các điều khiển đơn giản và những thách thức không giới hạn.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Màn hình toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào clipboard!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Người chơi tháp khối",
+      "whatIsTitle": "Cube Tower Surfer là gì?",
+      "whatIsDescription": "Cube Tower Surfer là một trò chơi siêu ngẫu nhiên thú vị và gây nghiện, trong đó bạn thu thập các khối để xây dựng tháp cao nhất có thể.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Thu thập càng nhiều khối càng tốt.",
+      "howToPlayStep2": "Chồng các khối để xây dựng tháp cao nhất.",
+      "howToPlayStep3": "Tránh các chướng ngại vật và giữ cho tháp của bạn vững chắc.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Điều khiển đơn giản",
+      "feature1Description": "Các điều khiển dễ học cho tất cả người chơi.",
+      "feature2Title": "Những thách thức không giới hạn",
+      "feature2Description": "Tiếp tục xây dựng và xem bạn có thể đạt được độ cao nào.",
+      "feature3Title": "Gameplay thú vị",
+      "feature3Description": "Hãy tận hưởng trải nghiệm chơi game thú vị và gây nghiện.",
+      "feature4Title": "Điểm số cao",
+      "feature4Description": "Cạnh tranh với bạn bè để đạt được điểm số cao nhất."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả trò chơi",
+      "description": "Tất cả trò chơi",
+      "games": "Trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Thể loại",
+      "noCategories": "Không tìm thấy thể loại nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}
