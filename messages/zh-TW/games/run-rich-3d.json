@@ -1,0 +1,77 @@
+{
+  "run-rich-3d": {
+    "title": "跑富3D - 免費線上賺錢跑酷遊戲",
+    "slogan": "奔跑、收集、致富！",
+    "description": "體驗跑富3D的刺激，在跑道盡頭收集盡可能多的鈔票。收集越多鈔票，你的裝扮就越好。但小心！收集太多瓶子、垃圾桶或鈔票可能會讓你變窮，甚至有失去所有東西的風險。透過簡單直觀的控制，跑富3D很容易上手，而且讓人欲罷不能。現在就玩跑富3D，看看你能變得有多富有！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "跑富3D",
+      "description": "跑富3D是一款令人興奮的賺錢跑酷遊戲，讓你收集鈔票致富。現在就玩，看看你能跑多遠！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "跑富3D",
+      "whatIsTitle": "跑富3D是什麼？",
+      "whatIsDescription": "跑富3D是一款節奏快速的賺錢跑酷遊戲，讓你收集鈔票致富，同時躲避障礙物。",
+      "howToPlayTitle": "如何遊戲",
+      "howToPlayStep1": "跑到跑道盡頭。",
+      "howToPlayStep2": "收集盡可能多的鈔票。",
+      "howToPlayStep3": "躲避瓶子及垃圾桶，保持財富。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "簡單控制",
+      "feature1Description": "簡單易學的控制，提供流暢的遊戲體驗。",
+      "feature2Title": "動態裝扮",
+      "feature2Description": "隨著收集更多鈔票，你的裝扮會有所提升。",
+      "feature3Title": "具有挑戰性的障礙",
+      "feature3Description": "躲避可能讓你變窮的障礙物。",
+      "feature4Title": "無盡的樂趣",
+      "feature4Description": "反覆遊戲，挑戰你的最高分。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題集"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

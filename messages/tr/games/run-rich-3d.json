@@ -1,0 +1,79 @@
+{
+  "run-rich-3d": {
+    "run-rich-33": {
+      "title": "Run Rich 3D - Ücretsiz Çevrimiçi Para Koşma Oyunu",
+      "slogan": "Koş, Topla ve Zengin Ol!",
+      "description": "Run Rich 3D'nin heyecanını yaşayın, mümkün olduğunca çok para faturası toplayarak pistin sonuna koşacaksınız. Topladığınız para ne kadar çok olursa, kıyafetiniz o kadar iyi olur. Ancak dikkat! Çok fazla şişe, çöp kutusu veya fatura toplamak sizi daha fakirleştirebilir ve her şeyi kaybetme riskiniz olabilir. Basit ve sezgisel kontrollerle Run Rich 3D oynanması kolay ve bırakılması zor. Şimdi Run Rich 3D'yi oynayın ve ne kadar zengin olabileceğinizi görün!",
+      "Loading": {
+        "title": "Yükleniyor..."
+      },
+      "Navbar": {
+        "title": "Gezinti"
+      },
+      "Common": {
+        "createAt": "Oluşturulma Tarihi",
+        "guide": "Yönerge",
+        "privacyPolicy": "Gizlilik Politikası",
+        "termsOfServices": "Hizmet Koşulları",
+        "text": "İçerik",
+        "help": "Yardım",
+        "friendlyLinks": "Dost Bağlantılar",
+        "articleList": "Makale Listesi",
+        "home": "Ana Sayfa",
+        "next": "Sonraki",
+        "previous": "Önceki"
+      },
+      "HomeIframe": {
+        "title": "Run Rich 3D",
+        "description": "Run Rich 3D, zengin olmak için faturalar toplayabileceğiniz heyecan verici bir para koşma oyunudur. Şimdi oynayın ve ne kadar uzağa gidebileceğinizi görün!",
+        "iframeTitle": "Oyun Önizlemesi",
+        "fullscreenButton": "Tam Ekran",
+        "shareButton": "Paylaş",
+        "urlCopied": "URL panoya kopyalandı!",
+        "downloadGame": "Oyunu İndir",
+        "playGame": "Oyunu Oyna"
+      },
+      "HomeFeatures": {
+        "gameTitle": "Run Rich 3D",
+        "whatIsTitle": "Run Rich 3D Nedir?",
+        "whatIsDescription": "Run Rich 3D, engellerden kaçınırken zengin olmak için faturalar toplayabileceğiniz hızlı tempolu bir para koşma oyunudur.",
+        "howToPlayTitle": "Nasıl Oynanır",
+        "howToPlayStep1": "Pistin sonuna koşun.",
+        "howToPlayStep2": "Mümkün olduğunca çok para faturası toplayın.",
+        "howToPlayStep3": "Zengin kalmak için şişelerden ve çöp kutularından kaçının.",
+        "keyFeaturesTitle": "Önemli Özellikler",
+        "feature1Title": "Basit Kontroller",
+        "feature1Description": "Düzgün bir oyun deneyimi için öğrenmesi kolay kontroller.",
+        "feature2Title": "Dinamik Kıyafetler",
+        "feature2Description": "Daha fazla para toplayarak kıyafetiniz iyileşir.",
+        "feature3Title": "Zor Engeller",
+        "feature3Description": "Sizi daha fakirleştirebilecek engellerden kaçının.",
+        "feature4Title": "Sonsuz Eğlence",
+        "feature4Description": "En yüksek skorunuzu kırmak için tekrar tekrar oynayın."
+      },
+      "HomeFAQs": {
+        "title": "SSS"
+      },
+      "HomeRelatedVideo": {
+        "title": "Oyun Videosu"
+      },
+      "HomeRecommendation": {
+        "title": "Tavsiyeler"
+      },
+      "HomeComments": {
+        "title": "Oyun Yorumları"
+      },
+      "GamePage": {
+        "title": "Tüm Oyunlar",
+        "description": "Tüm Oyunlar",
+        "games": "Oyunlar"
+      },
+      "CategoryPage": {
+        "categories": "Kategoriler",
+        "noCategories": "Hiçbir kategori bulunamadı",
+        "viewMore": "Daha Fazlasını Görüntüle",
+        "page": "Sayfa"
+      }
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "name": "Run Rich 3D",
+  "pagePath": "/games/run-rich-3d",
+  "pageName": "run-rich-3d",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.fillgame.com/d/file/nafgames/RunRich3D/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomKraken99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomKraken99.png",
+      "content": "Wow, Run Rich 3D is so addictive! Collecting money feels so satisfying, but man, those trash cans are deadly!"
+    },
+    {
+      "author": "NeonKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonKatana_X.png",
+      "content": "Love how the outfit changes as you collect more money in Run Rich 3D. It's like a fashion show on the run!"
+    },
+    {
+      "author": "CosmicLeviathan42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicLeviathan42.png",
+      "content": "This game is surprisingly fun! The controls are so easy to pick up. Didn't expect to enjoy Run Rich 3D this much."
+    },
+    {
+      "author": "SavageRevolver_87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageRevolver_87.png",
+      "content": "Got addicted to Run Rich 3D in minutes. The challenge of balancing money and avoiding bottles is brilliant!"
+    },
+    {
+      "author": "StalkingPhoenixXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenixXX.png",
+      "content": "Run Rich 3D is hilarious when you mess up and lose all your money. Still can’t stop playing though!"
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "Simple yet so engaging. Run Rich 3D nails the perfect balance between risk and reward."
+    },
+    {
+      "author": "LagWarrior99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarrior99.png",
+      "content": "The outfit upgrades are such a cool feature in Run Rich 3D. Makes collecting money even more rewarding!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Why are trash cans the bane of my existence in Run Rich 3D? Still, it's so much fun!"
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "This game is great for quick sessions. Run Rich 3D never fails to entertain me!"
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "Run Rich 3D is simple but surprisingly challenging. Those bottles are my worst enemy!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743355008754-wa0km.jpg",
+  "page_path": "/games/run-rich-3d",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Featured Games"
+  ],
+  "createdTime": "2025-03-31 01:16:54"
+}

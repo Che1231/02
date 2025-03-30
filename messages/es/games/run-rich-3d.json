@@ -1,0 +1,77 @@
+{
+  "run-rich-3d": {
+    "title": "Run Rich 3D - Juego de carrera online de dinero gratis",
+    "slogan": "¡Corre, colecciona y hazte rico!",
+    "description": "Experimenta la emoción de Run Rich 3D, donde corres hasta el final de la pista mientras recolectas tantas billetes como sea posible. Cuanta más dinero recopiles, mejor será tu atuendo. ¡Pero ten cuidado! Recolectar demasiadas botellas, cubos de basura o billetes puede hacerte más pobre y arriesgarte a perderlo todo. Con controles sencillos e intuitivos, Run Rich 3D es fácil de jugar y difícil de dejar. ¡Juega a Run Rich 3D ahora y observa cuánto dinero puedes ganar!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Run Rich 3D",
+      "description": "Run Rich 3D es un emocionante juego de carrera de dinero en el que recolectas billetes para hacerte rico. ¡Juega ahora y mira hasta dónde puedes llegar!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Run Rich 3D",
+      "whatIsTitle": "¿Qué es Run Rich 3D?",
+      "whatIsDescription": "Run Rich 3D es un juego de carrera de dinero de ritmo rápido en el que recolectas billetes para hacerte rico mientras evitas los obstáculos.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Corre hasta el final de la pista.",
+      "howToPlayStep2": "Recoge tantos billetes como sea posible.",
+      "howToPlayStep3": "Evita las botellas y los cubos de basura para mantenerte rico.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Controles sencillos",
+      "feature1Description": "Controles fáciles de aprender para una experiencia de juego fluida.",
+      "feature2Title": "Atuendos dinámicos",
+      "feature2Description": "Tu atuendo mejora a medida que recolectas más dinero.",
+      "feature3Title": "Obstáculos desafiantes",
+      "feature3Description": "Evita los obstáculos que pueden hacerte más pobre.",
+      "feature4Title": "Diversión sin fin",
+      "feature4Description": "Juega una y otra vez para superar tu puntuación más alta."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

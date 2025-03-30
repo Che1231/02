@@ -1,0 +1,77 @@
+{
+  "run-rich-3d": {
+    "title": "跑富3D - 免费在线跑酷赚钱游戏",
+    "slogan": "奔跑、收集，致富！",
+    "description": "体验跑富3D的刺激，在赛道上奔跑，尽可能多地收集钞票。收集的钱越多，你的服装越好。但要注意！收集太多瓶子、垃圾桶或钞票可能会让你变穷，甚至有可能失去一切。操作简单直观，跑富3D易于上手且让人欲罢不能。现在就玩跑富3D，看看你能变得有多富有！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一个",
+      "previous": "上一个"
+    },
+    "HomeIframe": {
+      "title": "跑富3D",
+      "description": "跑富3D是一款刺激的跑酷赚钱游戏，收集钞票致富。现在就玩，看看你能跑多远！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "跑富3D",
+      "whatIsTitle": "什么是跑富3D？",
+      "whatIsDescription": "跑富3D是一款节奏快节奏的跑酷赚钱游戏，收集钞票致富，同时躲避障碍物。",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "跑到赛道终点。",
+      "howToPlayStep2": "收集尽可能多的钞票。",
+      "howToPlayStep3": "躲避瓶子和垃圾桶，保持富有。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "简单操作",
+      "feature1Description": "易于学习的操作，带来流畅的游戏体验。",
+      "feature2Title": "动态服装",
+      "feature2Description": "随着收集更多钞票，你的服装会得到提升。",
+      "feature3Title": "富有挑战性的障碍",
+      "feature3Description": "躲避可能让你变穷的障碍物。",
+      "feature4Title": "无尽乐趣",
+      "feature4Description": "一遍又一遍地玩，打破你的高分。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐游戏"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏列表"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}
