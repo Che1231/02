@@ -1,1 +1,0 @@
-Geometry Dash Bloodlust is a very hard level called an Extreme Demon. It is a mega-collaboration level that has a rating of 10 stars. Bloodlust is a remake and bigger version of another level called Bloodbath. It is famous for its complicated effects, detailed designs, and difficult gameplay set in a hellish environment.
