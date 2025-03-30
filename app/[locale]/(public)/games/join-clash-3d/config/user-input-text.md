@@ -1,0 +1,1 @@
+Epic survival shooting run! Racing adventure that will keep you on your toes till the very end! Race, Clash, Shoot and Win! Get your gang together, run with the crowd, and shoot against the end boss!

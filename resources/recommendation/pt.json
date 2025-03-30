@@ -3,7 +3,7 @@
     "title": "Weaver Game (Weaver Game)",
     "cover": "https://images.1games.io/cache/game/weaver-game/weavergame1-m200x130.webp",
     "url": "/games/weaver-game",
-    "category": "Jogo de Quebra-Cabeças",
+    "category": "",
     "visible": true
   },
   {
@@ -31,7 +31,7 @@
     "title": "Terraria (Terraria)",
     "cover": "https://images.1games.io/cache/game/terraria/terraria-m200x130.webp",
     "url": "/games/terraria",
-    "category": "Ação",
+    "category": "",
     "visible": true
   },
   {
@@ -101,7 +101,7 @@
     "title": "Dino Game (Dino Game)",
     "cover": "https://images.1games.io/cache/game/dino-game/dino-game-m200x130.webp",
     "url": "/games/dino-game",
-    "category": "Aventura",
+    "category": "",
     "visible": true
   },
   {
@@ -199,7 +199,7 @@
     "title": "Little Alchemy 2 (Little Alchemy 2)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743307321950-r2d2km.png",
     "url": "/games/little-alchemy-2",
-    "category": "Puzzle",
+    "category": "",
     "visible": true
   },
   {
@@ -346,7 +346,7 @@
     "title": "Tic Tac Toe (Tic Tac Toe)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743304639319-x5sbt5.png",
     "url": "/games/tic-tac-toe",
-    "category": "Jogo de Tabuleiro",
+    "category": "",
     "visible": true
   },
   {
@@ -490,7 +490,7 @@
     "visible": true
   },
   {
-    "title": "Papa’s Cupcakeria (Papa’s Cupcakeria)",
+    "title": "Papa's Cupcakeria (Papa's Cupcakeria)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743323081718-vles8.png",
     "url": "/games/papa-s-cupcakeria",
     "category": "",
@@ -514,6 +514,13 @@
     "title": "Level Up Balls (Level Up Balls)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743351540686-0p3w4g.jpg",
     "url": "/games/level-up-balls",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Join Clash 3D (Join Clash 3D)",
+    "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743351732296-b3ergf.jpg",
+    "url": "/games/join-clash-3d",
     "category": "",
     "visible": true
   },
