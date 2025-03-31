@@ -2,17 +2,17 @@
   "recommended": [
     {
       "visible": true,
-      "url": "/games/fruita-crush",
+      "url": "/games/rolly-vortex",
       "position": 1
     },
     {
       "visible": true,
-      "url": "/games/knock-balls",
+      "url": "/games/right-shot",
       "position": 2
     },
     {
       "visible": true,
-      "url": "/games/right-shot",
+      "url": "/games/knock-balls",
       "position": 3
     },
     {
@@ -49,6 +49,31 @@
       "visible": true,
       "url": "/games/fnf-minus",
       "position": 10
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-pancakeria",
+      "position": 11
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-pastaria",
+      "position": 12
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-freezeria",
+      "position": 13
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-taco-mia",
+      "position": 14
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-cupcakeria",
+      "position": 15
     }
   ],
   "categories": [
