@@ -2,7 +2,7 @@
   "recommended": [
     {
       "visible": true,
-      "url": "/games/rolly-vortex",
+      "url": "/games/rainbow-obby",
       "position": 1
     },
     {
@@ -27,53 +27,78 @@
     },
     {
       "visible": true,
-      "url": "/games/papa-s-pancakeria",
+      "url": "/games/doodle-jump-ninja",
       "position": 6
     },
     {
       "visible": true,
-      "url": "/games/papa-s-pastaria",
+      "url": "/games/city-blocks",
       "position": 7
     },
     {
       "visible": true,
-      "url": "/games/papa-s-freezeria",
+      "url": "/games/tic-tac-toe",
       "position": 8
     },
     {
       "visible": true,
-      "url": "/games/papa-s-taco-mia",
+      "url": "/games/coreball",
       "position": 9
     },
     {
       "visible": true,
-      "url": "/games/papa-s-cupcakeria",
+      "url": "/games/swingo",
       "position": 10
     },
     {
       "visible": true,
-      "url": "/games/fnf-vs-touhou",
+      "url": "/games/dino-game",
       "position": 11
     },
     {
       "visible": true,
-      "url": "/games/fnf-starcatcher",
+      "url": "/games/geometry-dash-nine-circles",
       "position": 12
     },
     {
       "visible": true,
-      "url": "/games/fnf-flip-side",
+      "url": "/games/lava-bird",
       "position": 13
     },
     {
       "visible": true,
-      "url": "/games/fnf-michael-jackson-s-rose-criminal",
+      "url": "/games/plactions",
       "position": 14
     },
     {
       "visible": true,
-      "url": "/games/fnf-minus",
+      "url": "/games/geometry-dash-silent-circles",
       "position": 15
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-pancakeria",
+      "position": 16
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-pastaria",
+      "position": 17
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-freezeria",
+      "position": 18
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-taco-mia",
+      "position": 19
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-cupcakeria",
+      "position": 20
     }
   ],
   "categories": [
