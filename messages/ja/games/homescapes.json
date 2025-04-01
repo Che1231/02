@@ -1,0 +1,77 @@
+{
+  "homescapes": {
+    "title": "オンラインホームスケープス：パズルを解いて館を修復する",
+    "slogan": "ホームスケープスへようこそ！",
+    "description": "ホームスケープスで、オーストンの執事と一緒に、家族の館に温かさを取り戻す冒険パズルゲームに参加しましょう。 慎重にどのドアを開けるかを決め、危険なトラップを避け、泥棒や犬を倒してオーストンの恋人を救い出してください。 ホームスケープスはスリリングな挑戦と戦略的なゲームプレイを提供します。今日からホームスケープスの冒険を始めましょう！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "ホームスケープス",
+      "description": "ホームスケープスでオーストンを助け、エキサイティングな冒険パズルゲームで家族の館を修復してください。戦略的な選択を行い、トラップを回避し、恋人を救い出してください。 今すぐホームスケープスをプレイしましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "フルスクリーン",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ホームスケープス",
+      "whatIsTitle": "ホームスケープスとは？",
+      "whatIsDescription": "ホームスケープスは、執事のオーストンが家族の館を修復し、恋人を危険から救う冒険パズルゲームです。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "どのドアを開けるかを慎重に選択してください。",
+      "howToPlayStep2": "危険なトラップを避け、泥棒や犬を倒してください。",
+      "howToPlayStep3": "オーストンに恋人を救出し、館を修復するお手伝いをしてください。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "戦略的な選択",
+      "feature1Description": "ゲームの結果に影響を与える決定を下す必要があります。",
+      "feature2Title": "危険なトラップ",
+      "feature2Description": "生き残るために、巧妙なトラップを避けなければなりません。",
+      "feature3Title": "エキサイティングな挑戦",
+      "feature3Description": "あらゆるレベルでスリリングな挑戦に立ち向かいましょう。",
+      "feature4Title": "恋人を救出する",
+      "feature4Description": "オーストンが監禁されている恋人を救出するお手伝いをしてください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめゲーム"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "全ゲーム",
+      "description": "全ゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

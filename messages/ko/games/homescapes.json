@@ -1,0 +1,77 @@
+{
+  "homescapes": {
+    "title": "온라인 홈스케이프 플레이: 퍼즐 풀고 저택 복구",
+    "slogan": "홈스케이프에 오신 것을 환영합니다!",
+    "description": "홈스케이프에서 오스틴 집사와 함께 가족의 저택에 따뜻함과 편안함을 되찾는 탐험 퍼즐 게임에 참여하세요. 어떤 문을 열지 신중히 선택하고 위험한 함정을 피하며 강도와 개들을 물리쳐 오스틴의 연인을 구하십시오. 홈스케이프는 짜릿한 도전 과제와 전략적인 게임 플레이를 제공합니다. 오늘 바로 홈스케이프 모험을 시작하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "홈스케이프",
+      "description": "흥미진진한 탐험 퍼즐 게임인 홈스케이프에서 오스틴이 가족의 저택을 복구하고 연인을 구하는 데 도움을 주세요. 전략적인 선택을 하고 함정을 피하고 연인을 구하세요. 지금 홈스케이프를 플레이하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "홈스케이프",
+      "whatIsTitle": "홈스케이프는 무엇인가요?",
+      "whatIsDescription": "홈스케이프는 오스틴 집사가 가족의 저택을 복구하고 위험으로부터 연인을 구하는 탐험 퍼즐 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "어떤 문을 열지 신중하게 선택하세요.",
+      "howToPlayStep2": "위험한 함정을 피하고 강도와 개들을 물리치세요.",
+      "howToPlayStep3": "오스틴이 연인을 구하고 저택을 복구하는 데 도움을 주세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "전략적인 선택",
+      "feature1Description": "게임의 결과에 영향을 미치는 결정을 내리세요.",
+      "feature2Title": "위험한 함정",
+      "feature2Description": "살아남기 위해 정교한 함정을 피하세요.",
+      "feature3Title": "짜릿한 도전 과제",
+      "feature3Description": "모든 레벨에서 흥미진진한 도전 과제에 직면하세요.",
+      "feature4Title": "연인 구출",
+      "feature4Description": "오스틴이 감금된 연인을 구하는 데 도움을 주세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

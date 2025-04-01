@@ -1,0 +1,120 @@
+{
+  "name": "Homescapes",
+  "pagePath": "/games/homescapes",
+  "pageName": "homescapes",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://html5.gamemonetize.co/qrhvp96ov1dj1w1u4l2ulb5i4gh9q19g/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomKraken42.png",
+      "content": "Homescapes is surprisingly intense! The traps in the garden keep me on my toes. Can't stop playing!"
+    },
+    {
+      "author": "SavageBlade_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBlade_X.png",
+      "content": "Who knew saving a lover could be this fun? Homescapes nails the puzzle mechanics!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Not gonna lie, Homescapes has some wild twists. Avoid those dogs and traps at all costs!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Homescapes is a rollercoaster of emotions. One wrong move and it's game over. So addictive!"
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "The mansion setting in Homescapes is so atmospheric. Puzzles are just the right level of challenging."
+    },
+    {
+      "author": "CosmicPhoenix87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicPhoenix87.png",
+      "content": "Homescapes keeps surprising me with its clever level design. Every door choice matters!"
+    },
+    {
+      "author": "NeonLeviathan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonLeviathan99.png",
+      "content": "Avoiding traps in Homescapes is nerve-wracking but so satisfying when you get it right!"
+    },
+    {
+      "author": "StalkingRevolver_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingRevolver_X.png",
+      "content": "Homescapes is the perfect mix of strategy and action. Saving the lover feels so rewarding."
+    },
+    {
+      "author": "LootGoblin89",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LootGoblin89.png",
+      "content": "Why is Homescapes so underrated? The robbers and dogs add such a thrilling dynamic!"
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "Homescapes has me hooked! The puzzles are tricky, but the mansion story keeps me coming back."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743490592507-5w1nmp.jpg",
+  "page_path": "/games/homescapes",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "3D"
+  ],
+  "createdTime": "2025-04-01 14:56:32"
+}

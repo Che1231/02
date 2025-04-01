@@ -1,0 +1,77 @@
+{
+  "homescapes": {
+    "title": "在线玩家园：解谜并修复庄园",
+    "slogan": "欢迎来到家园！",
+    "description": "加入家园中的管家奥斯汀，在一个冒险解谜游戏中，恢复他家庄园的温暖与舒适。仔细选择要打开的门，避免危险陷阱，击败强盗和狗，拯救奥斯汀心爱的人。家园提供刺激的挑战和策略性的游戏玩法。今天就开启您的家园冒险之旅！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "家园",
+      "description": "帮助奥斯汀在令人兴奋的冒险解谜游戏中修复他家的庄园。做出战略选择，避开陷阱，拯救他的爱人。现在玩家园！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "家园",
+      "whatIsTitle": "家园是什么？",
+      "whatIsDescription": "家园是一款冒险解谜游戏，帮助奥斯汀管家修复他家的庄园，并拯救他心爱的爱人免受危险。",
+      "howToPlayTitle": "如何玩耍",
+      "howToPlayStep1": "仔细选择要打开的门。",
+      "howToPlayStep2": "避免危险陷阱并击败强盗和狗。",
+      "howToPlayStep3": "帮助奥斯汀拯救他的爱人，修复庄园。",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "战略选择",
+      "feature1Description": "做出影响游戏结果的决策。",
+      "feature2Title": "危险陷阱",
+      "feature2Description": "避免复杂的陷阱以保持生存。",
+      "feature3Title": "激动人心的挑战",
+      "feature3Description": "在每个关卡中面对令人兴奋的挑战。",
+      "feature4Title": "拯救爱人",
+      "feature4Description": "帮助奥斯汀营救被囚禁的爱人。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "类别",
+      "noCategories": "未找到类别",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}
