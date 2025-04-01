@@ -1,0 +1,77 @@
+{
+  "draw-2-save-stick-man-puzzle": {
+    "title": "描画してスティックマンを救出！パズルゲーム",
+    "slogan": "描画で知能と創造性を試す！",
+    "description": "知能テスト、創造性、そして脳みそを刺激する挑戦が融合した、ユニークなパズルゲーム『描画してスティックマンを救出！』に挑戦！魚をエサやりする場面から濡れないようにする場面まで、コミカルで予想外の状況でスティックマンを救出しましょう。今すぐ『描画してスティックマンを救出！』をプレイして、究極のパズルアドベンチャーを体験してください！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "描画してスティックマンを救出！",
+      "description": "コミカルで予想外の状況の中、スティックマンを救出するユニークな描画ゲームに挑戦！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "描画してスティックマンを救出！",
+      "whatIsTitle": "描画してスティックマンを救出！とは？",
+      "whatIsDescription": "知能テスト、創造性、そして脳みそを刺激するパズルが融合したユニークなゲームです。コミカルで予想外の状況の中でスティックマンを救出しましょう。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "スティックマンが安全にたどり着けるように、線を引いて案内してください。",
+      "howToPlayStep2": "障害物を避け、創造性を駆使してパズルを解き明かしましょう。",
+      "howToPlayStep3": "各レベルをクリアして、新しい挑戦に挑みましょう。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "脳みそを刺激するパズル",
+      "feature1Description": "ユニークなパズルで知能をテストしてみましょう。",
+      "feature2Title": "創造的な描画",
+      "feature2Description": "創造性を駆使して、線を引いて挑戦を克服しましょう。",
+      "feature3Title": "コミカルな状況",
+      "feature3Description": "コミカルで予想外の状況をお楽しみください。",
+      "feature4Title": "スティックマンの救出",
+      "feature4Description": "様々な挑戦的な状況でスティックマンを救出しましょう。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームのコメント"
+    },
+    "GamePage": {
+      "title": "全ゲーム",
+      "description": "全ゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりませんでした",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}
