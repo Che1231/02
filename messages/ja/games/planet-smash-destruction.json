@@ -1,0 +1,77 @@
+{
+  "planet-smash-destruction": {
+    "title": "惑星破壊破壊：無料オンライン宇宙物理ゲーム",
+    "slogan": "惑星破壊破壊で宇宙の力を解き放ちましょう！",
+    "description": "惑星破壊破壊は、宇宙の力を駆使して惑星を創造し破壊する、魅力的な物理シミュレーターです。さまざまな武器を試したり、カスタムの惑星システムを設計したり、ブラックホールを放出したりできます。使いやすいため、初心者からベテランプレイヤーまで楽しめます。宇宙の驚異を発見し、惑星破壊破壊であなたの創造性を解き放ちましょう。今すぐ無料でプレイ！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "惑星破壊破壊",
+      "description": "この魅力的な物理シミュレーターで惑星を創造し、破壊しましょう。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "フルスクリーン",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "惑星破壊破壊",
+      "whatIsTitle": "惑星破壊破壊とは？",
+      "whatIsDescription": "惑星破壊破壊は、宇宙の力を駆使して惑星を創造し破壊するカジュアルゲームです。物理シミュレーターを使用することで、カスタムの惑星システムを設計し、ブラックホールを放出できます。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "武器を選択し、惑星をターゲットにします。",
+      "howToPlayStep2": "さまざまな惑星のデザインを試してみてください。",
+      "howToPlayStep3": "ブラックホールを放出し、混沌とした状況を観察しましょう。",
+      "keyFeaturesTitle": "主な機能",
+      "feature1Title": "宇宙パワー",
+      "feature1Description": "惑星を創造し破壊する力を操りましょう。",
+      "feature2Title": "カスタムデザイン",
+      "feature2Description": "独自の惑星システムを設計し、さまざまな構成を試してみてください。",
+      "feature3Title": "ブラックホール",
+      "feature3Description": "ブラックホールを放出し、その破壊力を目の当たりにしましょう。",
+      "feature4Title": "簡単な操作",
+      "feature4Description": "すべてのプレイヤーに適したシンプルで直感的な操作です。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめのゲーム"
+    },
+    "HomeComments": {
+      "title": "コメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

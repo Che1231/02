@@ -1,0 +1,77 @@
+{
+  "planet-smash-destruction": {
+    "title": "Gezegen Sökme Yok Etme: Ücretsiz Çevrimiçi Uzay Fiziği Oyunu",
+    "slogan": "Gezegen Sökme Yok Etme'de kozmik gücü serbest bırakın!",
+    "description": "Gezegen Sökme Yok Etme, gezegenler yaratmak ve yok etmek için kozmik güç kullanabileceğiniz büyüleyici bir fizik simülatörüdür. Farklı silahları deneyin, özel gezegen sistemleri tasarlayın ve kara delikler bırakın. Kullanımı kolay kontrollerle hem yeni başlayanlar hem de deneyimli oyuncular için uygundur. Uzayın harikalarını keşfedin ve Gezegen Sökme Yok Etme'de yaratıcılığınızı serbest bırakın. Şimdi ücretsiz oynayın!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Gezegen Sökme Yok Etme",
+      "description": "Bu büyüleyici fizik simülatöründe gezegenler yaratın ve yok edin.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Gezegen Sökme Yok Etme",
+      "whatIsTitle": "Gezegen Sökme Yok Etme Nedir?",
+      "whatIsDescription": "Gezegen Sökme Yok Etme, kozmik güç kullanarak gezegenler yarattığınız ve yok ettiğiniz bir rahatlama oyunudur. Özel gezegen sistemleri tasarlayıp kara delikler bırakmanıza olanak tanıyan bir fizik simülatörüdür.",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Silahlarınızı seçin ve bir gezegeni hedefleyin.",
+      "howToPlayStep2": "Farklı gezegen tasarımlarıyla deneyin.",
+      "howToPlayStep3": "Kara delikleri serbest bırakın ve ortaya çıkan kaosu izleyin.",
+      "keyFeaturesTitle": "Ana Özellikler",
+      "feature1Title": "Kozmik Güç",
+      "feature1Description": "Gezegenleri yaratmak ve yok etmek için gücü kullanın.",
+      "feature2Title": "Özel Tasarımlar",
+      "feature2Description": "Kendi gezegen sistemlerinizi tasarlayın ve farklı yapılandırmalarla deney yapın.",
+      "feature3Title": "Kara Delikler",
+      "feature3Description": "Kara delikleri serbest bırakın ve yıkıcı güçlerini izleyin.",
+      "feature4Title": "Kolay Kontroller",
+      "feature4Description": "Tüm oyuncular için uygun basit ve sezgisel kontroller."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Hiç kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

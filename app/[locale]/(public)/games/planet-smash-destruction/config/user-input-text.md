@@ -1,0 +1,1 @@
+Planet Smash Destruction is a casual game in which you wield cosmic power to create and destroy planets. You can try out different weapons, design custom planetary systems, and release black holes. With easy-to-use controls, it suits both beginners and seasoned players. Unleash your creativity and discover the wonders of space in this captivating physics simulator.

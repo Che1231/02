@@ -1,0 +1,77 @@
+{
+  "planet-smash-destruction": {
+    "title": "행성 파괴 충돌: 무료 온라인 우주 물리 게임",
+    "slogan": "행성 파괴 충돌에서 우주의 힘을 풀어보세요!",
+    "description": "행성 파괴 충돌은 우주의 힘으로 행성을 창조하고 파괴하는 매혹적인 물리 시뮬레이터입니다. 다양한 무기를 시도해보고, 사용자 정의 행성 시스템을 디자인하고, 블랙홀을 방출해보세요. 사용하기 쉬운 컨트롤은 초보자와 숙련된 플레이어 모두에게 적합합니다. 우주의 경이로움을 탐험하고 행성 파괴 충돌에서 창의력을 발휘하세요. 지금 무료로 플레이하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색창"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인 정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "게시글 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "행성 파괴 충돌",
+      "description": "이 매혹적인 물리 시뮬레이터에서 행성을 만들고 파괴하세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "행성 파괴 충돌",
+      "whatIsTitle": "행성 파괴 충돌이란 무엇인가요?",
+      "whatIsDescription": "행성 파괴 충돌은 우주의 힘을 사용하여 행성을 생성하고 파괴하는 캐주얼 게임입니다. 사용자 정의 행성 시스템을 디자인하고 블랙홀을 방출할 수 있는 물리 시뮬레이터입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "무기를 선택하고 행성을 타겟팅하세요.",
+      "howToPlayStep2": "다양한 행성 디자인을 시도해보세요.",
+      "howToPlayStep3": "블랙홀을 방출하고 혼돈을 지켜보세요.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "우주 힘",
+      "feature1Description": "행성을 만들고 파괴할 힘을 사용하세요.",
+      "feature2Title": "사용자 정의 디자인",
+      "feature2Description": "자신의 행성 시스템을 디자인하고 다양한 구성을 시도해보세요.",
+      "feature3Title": "블랙홀",
+      "feature3Description": "블랙홀을 방출하고 그 파괴적인 힘을 지켜보세요.",
+      "feature4Title": "쉬운 컨트롤",
+      "feature4Description": "모든 플레이어에게 적합한 간단하고 직관적인 컨트롤."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}
