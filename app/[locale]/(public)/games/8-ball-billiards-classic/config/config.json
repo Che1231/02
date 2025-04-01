@@ -1,0 +1,120 @@
+{
+  "name": "8 Ball Billiards Classic",
+  "pagePath": "/games/8-ball-billiards-classic",
+  "pageName": "8-ball-billiards-classic",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.crazygames.com/embed/8-ball-billiards-classic",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingKraken99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken99.png",
+      "content": "Just picked up 8 Ball Billiards Classic and it’s so addicting! The AI is surprisingly good for practice. Love it!"
+    },
+    {
+      "author": "CosmicPhoenix_42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicPhoenix_42.png",
+      "content": "This game is a gem! The two-player mode is perfect for some friendly competition. 8 Ball Billiards Classic never disappoints."
+    },
+    {
+      "author": "NeonRevolver_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonRevolver_X.png",
+      "content": "Who knew a free pool game could be this fun? The controls are super smooth. Highly recommend!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "8 Ball Billiards Classic is my go-to game now. Easy to play but challenging to master. Two thumbs up!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Tried 8 Ball Billiards Classic and I’m hooked! The solo mode is great for practicing shots. Definitely worth it."
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "Played 8 Ball Billiards Classic with a friend and we had a blast! The physics are spot on. Excellent game!"
+    },
+    {
+      "author": "PhantomLeviathan87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomLeviathan87.png",
+      "content": "Wow, 8 Ball Billiards Classic is so much fun! The AI challenges are just right. Can’t stop playing!"
+    },
+    {
+      "author": "SavageKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatana_X.png",
+      "content": "This game is a masterpiece! Love how easy it is to pick up but hard to put down. 8 Ball Billiards Classic rocks!"
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "8 Ball Billiards Classic is surprisingly entertaining. The two-player mode is a total game-changer. Try it!"
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "Had a great time with 8 Ball Billiards Classic. The solo mode is perfect for honing my skills. Awesome game!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743501881534-kdi20b.avif",
+  "page_path": "/games/8-ball-billiards-classic",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Multiplayer"
+  ],
+  "createdTime": "2025-04-01 18:04:39"
+}

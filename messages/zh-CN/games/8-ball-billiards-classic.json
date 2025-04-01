@@ -1,0 +1,77 @@
+{
+  "8-ball-billiards-classic": {
+    "title": "8球台球经典版 - 免费在线桌球游戏",
+    "slogan": "在8球台球经典版中单人游戏或挑战朋友",
+    "description": "8球台球经典版是一款免费在线桌球游戏，非常适合一到两名玩家。享受单人对战AI或在双人模式中挑战朋友。8球台球经典版易于上手，适合所有水平的玩家。拿起球杆，今天开始你的第一杆吧！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "8球台球经典版",
+      "description": "玩8球台球经典版，一款免费在线桌球游戏，适合单人或多人娱乐。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "玩游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "8球台球经典版",
+      "whatIsTitle": "什么是8球台球经典版？",
+      "whatIsDescription": "8球台球经典版是我们在体育类别中的一款免费在线桌球游戏，非常适合一到两名玩家。您可以单人对战AI或在双人模式中挑战其他玩家。",
+      "howToPlayTitle": "如何玩耍",
+      "howToPlayStep1": "拿起球杆，瞄准你的击球点。",
+      "howToPlayStep2": "使用鼠标调整击球的角度和力量。",
+      "howToPlayStep3": "将所有球击落，然后击落8号球以获胜！",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "单人&多人模式",
+      "feature1Description": "单人对战AI或在双人模式中挑战朋友。",
+      "feature2Title": "易于上手的操作",
+      "feature2Description": "简单的操作让所有玩家都能轻松上手8球台球经典版。",
+      "feature3Title": "逼真的物理引擎",
+      "feature3Description": "体验逼真的球体物理，感受正宗的桌球游戏体验。",
+      "feature4Title": "免费游戏",
+      "feature4Description": "随时随地免费畅玩8球台球经典版。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐游戏"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏列表"
+    },
+    "CategoryPage": {
+      "categories": "游戏类别",
+      "noCategories": "未找到游戏类别",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

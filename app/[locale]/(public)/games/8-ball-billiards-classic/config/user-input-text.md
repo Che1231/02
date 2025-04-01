@@ -1,0 +1,1 @@
+8-Ball Billiards is a free online pool game in our sports category ideal for one or two players. You can play solo against AI or challenge other players in two-player mode. The game is easy for anyone to play, so pick up a cue and line up your first shot.

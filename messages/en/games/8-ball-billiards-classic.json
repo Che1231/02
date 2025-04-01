@@ -1,0 +1,77 @@
+{
+  "8-ball-billiards-classic": {
+    "title": "8 Ball Billiards Classic - Free Online Pool Game",
+    "slogan": "Play Solo or Challenge Friends in 8 Ball Billiards Classic",
+    "description": "8 Ball Billiards Classic is a free online pool game perfect for one or two players. Enjoy solo play against AI or challenge friends in two-player mode. With easy-to-learn controls, 8 Ball Billiards Classic is ideal for players of all skill levels. Pick up a cue and start your first shot today!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "8 Ball Billiards Classic",
+      "description": "Play 8 Ball Billiards Classic, a free online pool game for solo or multiplayer fun.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "8 Ball Billiards Classic",
+      "whatIsTitle": "What is 8 Ball Billiards Classic?",
+      "whatIsDescription": "8 Ball Billiards Classic is a free online pool game in our sports category, ideal for one or two players. You can play solo against AI or challenge other players in two-player mode.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Pick up a cue and aim your shot.",
+      "howToPlayStep2": "Use the mouse to adjust the angle and power of your shot.",
+      "howToPlayStep3": "Sink all your balls and then the 8-ball to win!",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Solo & Multiplayer Modes",
+      "feature1Description": "Play solo against AI or challenge friends in two-player mode.",
+      "feature2Title": "Easy-to-Learn Controls",
+      "feature2Description": "Simple controls make 8 Ball Billiards Classic accessible to all players.",
+      "feature3Title": "Realistic Physics",
+      "feature3Description": "Experience realistic ball physics for an authentic pool game feel.",
+      "feature4Title": "Free to Play",
+      "feature4Description": "Enjoy 8 Ball Billiards Classic completely free, anytime, anywhere."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "8-ball-billiards-classic": {
+    "title": "Billard 8 Ball Classique - Jeu de Billard en Ligne Gratuit",
+    "slogan": "Jouez en Solitaire ou Défiez vos Amis dans Billard 8 Ball Classique",
+    "description": "Le Billard 8 Ball Classique est un jeu de billard en ligne gratuit, parfait pour un ou deux joueurs. Profitez du jeu solo contre l'IA ou défiez vos amis en mode deux joueurs. Avec des commandes faciles à apprendre, Billard 8 Ball Classique est idéal pour tous les niveaux de joueurs. Prenez une queue et lancez votre premier coup aujourd'hui !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer À",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de Confidentialité",
+      "termsOfServices": "Conditions d'Utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des Articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Billard 8 Ball Classique",
+      "description": "Jouez au Billard 8 Ball Classique, un jeu de billard en ligne gratuit pour le plaisir solo ou multijoueur.",
+      "iframeTitle": "Aperçu du Jeu",
+      "fullscreenButton": "Plein Écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le Jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Billard 8 Ball Classique",
+      "whatIsTitle": "Qu'est-ce que le Billard 8 Ball Classique ?",
+      "whatIsDescription": "Billard 8 Ball Classique est un jeu de billard en ligne gratuit de notre catégorie sports, idéal pour un ou deux joueurs. Vous pouvez jouer seul contre l'IA ou défier d'autres joueurs en mode deux joueurs.",
+      "howToPlayTitle": "Comment Jouer",
+      "howToPlayStep1": "Prenez une queue et visez votre coup.",
+      "howToPlayStep2": "Utilisez la souris pour ajuster l'angle et la puissance de votre coup.",
+      "howToPlayStep3": "Enfoncez toutes vos boules, puis la boule 8 pour gagner !",
+      "keyFeaturesTitle": "Caractéristiques Principales",
+      "feature1Title": "Modes Solo et Multijoueur",
+      "feature1Description": "Jouez seul contre l'IA ou défiez vos amis en mode deux joueurs.",
+      "feature2Title": "Commandes Faciles à Apprendre",
+      "feature2Description": "Des commandes simples rendent le Billard 8 Ball Classique accessible à tous les joueurs.",
+      "feature3Title": "Physique Réaliste",
+      "feature3Description": "Découvrez une physique de billes réaliste pour une sensation authentique de jeu de billard.",
+      "feature4Title": "Jeu Gratuit",
+      "feature4Description": "Profitez de Billard 8 Ball Classique gratuitement, à tout moment, n'importe où."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du Jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires des Joueurs"
+    },
+    "GamePage": {
+      "title": "Tous les Jeux",
+      "description": "Tous les Jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir Plus",
+      "page": "Page"
+    }
+  }
+}

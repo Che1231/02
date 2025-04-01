@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Başlangıç seviyesindeki oyuncular için \"Sivrisinek Isırığı 3D\" oyununda sivrisineği nasıl kontrol edebilirler?",
+    "answer": "\"Sivrisinek Isırığı 3D\" oyununda sivrisineği kontrol etmek, hareket için joystick'i ve ısırmak için işlem düğmesini kullanmayı içerir. Örneğin, bir insana ısırmak için onlara yaklaşın ve istem göründüğünde işlem düğmesine basın. [Örneklendirme: Küçük bir arabanın direksiyonunu düşünün; tek amacı ısırmak!]"
+  },
+  {
+    "question": "Yeni oyuncular için \"Sivrisinek Isırığı 3D\" oyunundaki temel hedefler nelerdir?",
+    "answer": "\"Sivrisinek Isırığı 3D\" oyunundaki temel hedefler, sağlık kazanmak için insanları ısırması, savuşturulmaktan kaçınması ve belirli ısırma hedeflerine ulaşarak seviyeleri tamamlamasıdır. Örneğin, 1. seviyede ilerlemek için 5 kişiyi ısırmalısınız. [Örneklendirme: Hedef | Hedef | Örnek]"
+  },
+  {
+    "question": "\"Sivrisinek Isırığı 3D\" oyununda sivrisineğin sağlığı neden düşüyor ve nasıl yenilenir?",
+    "answer": "Sivrisineğin sağlığı, savuşturma girişimleri ve çevresel tehlikeler nedeniyle düşer. Sağlığı yenilemek için insanları ısırması gerekir; her başarılı ısırık, sağlığın bir kısmını geri kazandırır. Örneğin, 2. seviyede bir insanı ısırdığında %20 sağlık geri kazandırır. [Karşılaştırma: Isırmak vs. tehlikelerden kaçınmak]"
+  },
+  {
+    "question": "\"Sivrisinek Isırığı 3D\" oyununda ileri seviye oyuncular için sivrisineğin hareket hızını nasıl optimize edebilirler?",
+    "answer": "Hareket hızını optimize etmek için, joystick'e çift kez dokunarak atılım özelliğini kullanın. Bu, daha hızlı kaçışlar ve stratejik konumlandırma sağlar. Örneğin, 5. seviyede, atılım, birden fazla savuşturma girişiminden kaçınmaya yardımcı olur. [Akış Şeması: Hareket -> Atılım -> Kaçınma]"
+  },
+  {
+    "question": "\"Sivrisinek Isırığı 3D\" oyununda savuşturulmaktan nasıl kaçınabilir?",
+    "answer": "Stratejiler arasında insanlara arkasında kalmak, çevreyi koruma olarak kullanmak ve boş zamanlarında ısırmak için zamanlama yapmaktır. Örneğin, 3. seviyede mobilyaların altında saklanmak tespit edilmesini önleyebilir. [Karşılaştırma: Koruma vs. Zamanlama]"
+  },
+  {
+    "question": "\"Sivrisinek Isırığı 3D\" oyununda hangi yetenekler yükseltme için önceliklendirilmelidir?",
+    "answer": "Isırma gücünü ve sağlık yenilenmesini yükseltmeyi önceliklendirin. Örneğin, 4. seviyede ısırma gücünü yükseltmek, daha hızlı sağlık yenilenmesi sağlar. [Örneklendirme: Yetenek | Yükseltme Maliyeti | Fayda]"
+  },
+  {
+    "question": "\"Sivrisinek Isırığı 3D\" oyununda sağlık yenileme mekaniği nasıl çalışır?",
+    "answer": "Sağlık yenilenmesi başarılı ısırıklarla tetiklenir. Her ısırık, yükseltmeler miktarı artırarak, sağlığın sabit bir yüzdesini geri kazandırır. Örneğin, 3. seviye bir yükseltme, yenilenmeyi %10 oranında artırır. [Örneklendirme: Her ısırık ile küçük bir sağlık paketi gibi düşünün.]"
+  },
+  {
+    "question": "\"Sivrisinek Isırığı 3D\" oyununda çevresel tehlikeler oyun oynanışını nasıl etkiler?",
+    "answer": "Böcek öldürücü sprey ve fanlar gibi çevresel tehlikeler sağlığı azaltır ve hareketi sınırlar. Örneğin, 6. seviyedeki böcek öldürücü sprey, sağlığı hızla azaltan bölgeler oluşturur. [Karşılaştırma: Tehlikeler vs. Güvenli Bölgeler]"
+  },
+  {
+    "question": "\"Sivrisinek Isırığı 3D\" oyununda oyun ilerlemesini bir platformdan diğerine nasıl taşıyabilirler?",
+    "answer": "İlerlemeyi taşımak için bulut kaydetme özelliğini kullanın. Aynı hesabla yeni platformda oturum açarak verileri senkronize edin. Örneğin, iOS'tan Android'e geçmek, aynı kimlik bilgileriyle oturum açmayı gerektirir. [Akış Şeması: Eski Platform -> Bulut Kaydetme -> Yeni Platform]"
+  },
+  {
+    "question": "\"Sivrisinek Isırığı 3D\" oyununda başarı avcıları için hangi gizli içerikler bulunabilir?",
+    "answer": "Gizli içerik, gizli seviyeler ve nadir başarılar içerir. Örneğin, 7. seviyedeki tüm gizli yuvaları bulmak, gizli bir seviye açar. [Gizli İçerik: Gizli Seviye | Açma Koşulu]"
+  }
+]
