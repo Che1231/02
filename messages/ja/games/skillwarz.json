@@ -1,0 +1,77 @@
+{
+  "skillwarz": {
+    "title": "SkillWarz - 高度な移動メカニズムを備えた高速FPS",
+    "slogan": "SkillWarzで戦場を制覇せよ",
+    "description": "SkillWarzは、高度な移動メカニズムと、デスマッチ、ガンゲーム、スカルハントなどの多様なゲームモードを提供する、高速な一人称シューティングゲームです。バウンスパッド、テレポート、バトルピックアップを備えたダイナミックな昼夜マップをナビゲートします。ユニークなクラスをアンロックし、ギアをカスタマイズし、他のプレイヤーに挑戦したり、自分のスタイルに合わせたアクション満載のマッチでボットと練習したりできます。",
+    "Loading": {
+      "title": "SkillWarzをロード中..."
+    },
+    "Navbar": {
+      "title": "ナビ"
+    },
+    "Common": {
+      "createAt": "作成日",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "関連リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "SkillWarz - 高度な移動メカニズムを備えた高速FPS",
+      "description": "SkillWarzは、高度な移動メカニズムと、デスマッチ、ガンゲーム、スカルハントなどの多様なゲームモードを提供する、高速な一人称シューティングゲームです。バウンスパッド、テレポート、バトルピックアップを備えたダイナミックな昼夜マップをナビゲートします。ユニークなクラスをアンロックし、ギアをカスタマイズし、他のプレイヤーに挑戦したり、自分のスタイルに合わせたアクション満載のマッチでボットと練習したりできます。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "フルスクリーン",
+      "shareButton": "シェア",
+      "urlCopied": "URLをクリップボードにコピーしました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "SkillWarz - 高度な移動メカニズムを備えた高速FPS",
+      "whatIsTitle": "SkillWarzとは？",
+      "whatIsDescription": "SkillWarzは、高度な移動メカニズムと、デスマッチ、ガンゲーム、スカルハントなどの多様なゲームモードを提供する、高速な一人称シューティングゲームです。バウンスパッド、テレポート、バトルピックアップを備えたダイナミックな昼夜マップをナビゲートします。ユニークなクラスをアンロックし、ギアをカスタマイズし、他のプレイヤーに挑戦したり、自分のスタイルに合わせたアクション満載のマッチでボットと練習したりできます。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "ゲームモードを選択：デスマッチ、ガンゲーム、またはスカルハント。",
+      "howToPlayStep2": "バウンスパッドとテレポートを使用して、ダイナミックなマップをナビゲートします。",
+      "howToPlayStep3": "ギアをカスタマイズし、ユニークなクラスをアンロックして、戦場を支配します。",
+      "keyFeaturesTitle": "主な機能",
+      "feature1Title": "高度な移動メカニズム",
+      "feature1Description": "高度な移動メカニズムで戦場を制覇せよ。",
+      "feature2Title": "多様なゲームモード",
+      "feature2Description": "デスマッチ、ガンゲーム、スカルハントに参加。",
+      "feature3Title": "ダイナミックマップ",
+      "feature3Description": "バウンスパッドとテレポートを備えたダイナミックな昼夜マップをナビゲートします。",
+      "feature4Title": "カスタマイズ可能なギア",
+      "feature4Description": "ユニークなクラスをアンロックし、究極の戦闘体験のためにギアをカスタマイズします。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリ",
+      "noCategories": "カテゴリが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

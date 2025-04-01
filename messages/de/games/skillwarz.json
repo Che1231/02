@@ -1,0 +1,77 @@
+{
+  "skillwarz": {
+    "title": "SkillWarz – Schnelle FPS mit ausgefeilter Bewegungsmechanik",
+    "slogan": "Beherrsche das Schlachtfeld mit SkillWarz",
+    "description": "SkillWarz ist ein schnelles First-Person-Shooter-Spiel mit fortschrittlichen Bewegungsmechaniken und verschiedenen Spielmodi wie Deathmatch, Waffenspiel und Schädeljagd. Navigieren Sie sich durch dynamische Tag- und Nacht-Karten mit Sprungflächen, Teleportationen und Kampfausrüstungs-Sammelpunkten. Schalten Sie einzigartige Klassen frei, passen Sie Ihre Ausrüstung an und fordern Sie andere Spieler oder üben Sie gegen Bots in actionreichen Matches, die Ihrem Spielstil angepasst sind.",
+    "Loading": {
+      "title": "SkillWarz wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "SkillWarz – Schnelle FPS mit ausgefeilter Bewegungsmechanik",
+      "description": "SkillWarz ist ein schnelles First-Person-Shooter-Spiel mit fortschrittlichen Bewegungsmechaniken und verschiedenen Spielmodi wie Deathmatch, Waffenspiel und Schädeljagd. Navigieren Sie sich durch dynamische Tag- und Nacht-Karten mit Sprungflächen, Teleportationen und Kampfausrüstungs-Sammelpunkten. Schalten Sie einzigartige Klassen frei, passen Sie Ihre Ausrüstung an und fordern Sie andere Spieler oder üben Sie gegen Bots in actionreichen Matches, die Ihrem Spielstil angepasst sind.",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "SkillWarz – Schnelle FPS mit ausgefeilter Bewegungsmechanik",
+      "whatIsTitle": "Was ist SkillWarz?",
+      "whatIsDescription": "SkillWarz ist ein schnelles First-Person-Shooter-Spiel mit fortschrittlichen Bewegungsmechaniken und verschiedenen Spielmodi wie Deathmatch, Waffenspiel und Schädeljagd. Navigieren Sie sich durch dynamische Tag- und Nacht-Karten mit Sprungflächen, Teleportationen und Kampfausrüstungs-Sammelpunkten. Schalten Sie einzigartige Klassen frei, passen Sie Ihre Ausrüstung an und fordern Sie andere Spieler oder üben Sie gegen Bots in actionreichen Matches, die Ihrem Spielstil angepasst sind.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Wählen Sie Ihren Spielmodus: Deathmatch, Waffenspiel oder Schädeljagd.",
+      "howToPlayStep2": "Navigieren Sie sich durch dynamische Karten mithilfe von Sprungflächen und Teleportationen.",
+      "howToPlayStep3": "Passen Sie Ihre Ausrüstung an und schalten Sie einzigartige Klassen frei, um die Oberhand auf dem Schlachtfeld zu gewinnen.",
+      "keyFeaturesTitle": "Wichtige Merkmale",
+      "feature1Title": "Ausgefeilte Bewegungsmechanik",
+      "feature1Description": "Beherrschen Sie das Schlachtfeld mit ausgefeilter Bewegungsmechanik.",
+      "feature2Title": "Vielfältige Spielmodi",
+      "feature2Description": "Beteiligen Sie sich an Deathmatch, Waffenspiel und Schädeljagd.",
+      "feature3Title": "Dynamische Karten",
+      "feature3Description": "Navigieren Sie sich durch dynamische Tag- und Nacht-Karten mit Sprungflächen und Teleportationen.",
+      "feature4Title": "Anpassbare Ausrüstung",
+      "feature4Description": "Schalten Sie einzigartige Klassen frei und passen Sie Ihre Ausrüstung an, um das ultimative Kampferlebnis zu erleben."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}
