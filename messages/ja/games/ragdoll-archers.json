@@ -1,0 +1,77 @@
+{
+  "ragdoll-archers": {
+    "title": "ラグドールアーチャー - 無料オンラインアーチェリーゲーム",
+    "slogan": "弓を習得し、フィールドを支配する",
+    "description": "ラグドールアーチャーは、ラグドール物理学を備えた棒人間を操作する、エキサイティングなアーチェリーゲームです。敵に矢を撃ち、ポイントを獲得し、あなたの能力をアップグレードします。ソロプレイまたは、PvPモードで友達に挑戦してください。ラグドールアーチャーでアーチェリーの興奮を体験してください！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "ラグドールアーチャー",
+      "description": "ラグドールアーチャーは、ラグドール物理学を備えた弓矢を装備した棒人間が登場するアーチェリーゲームです。敵に矢を撃ち、ポイントを獲得して能力と弾薬をアップグレードしましょう。友達と2人対戦のPvPモードで遊んだり、一緒にチームを組んで様々な敵を倒しましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ラグドールアーチャー",
+      "whatIsTitle": "ラグドールアーチャーとは？",
+      "whatIsDescription": "ラグドールアーチャーは、ラグドール物理学を備えた弓矢を装備した棒人間が登場するアーチェリーゲームです。敵に矢を撃ち、ポイントを獲得して能力と弾薬をアップグレードしましょう。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "弓をターゲットに合わせます。",
+      "howToPlayStep2": "敵に矢を撃ちます。",
+      "howToPlayStep3": "ポイントを獲得して能力と弾薬をアップグレードします。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "ラグドール物理学",
+      "feature1Description": "棒人間アーチャーを操作しながら、リアリスティックなラグドール物理学を体験してください。",
+      "feature2Title": "アップグレードシステム",
+      "feature2Description": "ポイントを獲得して、能力と弾薬をアップグレードし、パフォーマンスを向上させましょう。",
+      "feature3Title": "PvPモード",
+      "feature3Description": "2人対戦のPvPモードで友達に挑戦して、競い合ってください。",
+      "feature4Title": "ソロプレイ",
+      "feature4Description": "ソロプレイでさまざまな敵を倒し、究極のアーチャーを目指しましょう。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめゲーム"
+    },
+    "HomeComments": {
+      "title": "ゲームコメント"
+    },
+    "GamePage": {
+      "title": "全てのゲーム",
+      "description": "全てのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

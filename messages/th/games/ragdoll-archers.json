@@ -1,0 +1,77 @@
+{
+  "ragdoll-archers": {
+    "title": "เกมธนูเร็กดอลล์ - เกมยิงธนูออนไลน์ฟรี",
+    "slogan": "เชี่ยวชาญธนู พิชิตสนาม",
+    "description": "Ragdoll Archers เป็นเกมยิงธนูที่น่าตื่นเต้น คุณควบคุมคนไม้กายสิทธิ์ที่มีฟิสิกส์เร็กดอลล์ ยิงธนูใส่คู่ต่อสู้ ทำคะแนน และอัพเกรดทักษะของคุณ เล่นคนเดียวหรือท้าเพื่อนในโหมด PvP  สัมผัสความตื่นเต้นของการยิงธนูใน Ragdoll Archers วันนี้!",
+    "Loading": {
+      "title": "กำลังโหลด..."
+    },
+    "Navbar": {
+      "title": "นำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดในการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์ที่เป็นมิตร",
+      "articleList": "รายการบทความ",
+      "home": "หน้าแรก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "Ragdoll Archers",
+      "description": "Ragdoll Archers เป็นเกมยิงธนูที่มีคนไม้กายสิทธิ์ติดอาวุธธนูและลูกศรพร้อมฟิสิกส์เร็กดอลล์ ยิงธนูใส่คู่ต่อสู้เพื่อทำคะแนนและอัพเกรดทักษะและอาวุธ เล่น PvP สองผู้เล่นกับเพื่อนของคุณหรือร่วมทีมเพื่อเอาชนะศัตรูหลากหลาย!",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ไปยังคลิปบอร์ดแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Ragdoll Archers",
+      "whatIsTitle": "Ragdoll Archers คืออะไร?",
+      "whatIsDescription": "Ragdoll Archers เป็นเกมยิงธนูที่มีคนไม้กายสิทธิ์ติดอาวุธธนูและลูกศรพร้อมฟิสิกส์เร็กดอลล์ ยิงธนูใส่คู่ต่อสู้เพื่อทำคะแนนและอัพเกรดทักษะและอาวุธ",
+      "howToPlayTitle": "วิธีการเล่น",
+      "howToPlayStep1": "เล็งธนูไปที่เป้าหมาย",
+      "howToPlayStep2": "ยิงธนูใส่คู่ต่อสู้",
+      "howToPlayStep3": "ทำคะแนนเพื่ออัพเกรดทักษะและอาวุธของคุณ",
+      "keyFeaturesTitle": "คุณสมบัติหลัก",
+      "feature1Title": "ฟิสิกส์เร็กดอลล์",
+      "feature1Description": "สัมผัสฟิสิกส์เร็กดอลล์ที่สมจริงขณะที่คุณควบคุมคนไม้กายสิทธิ์นักธนูของคุณ",
+      "feature2Title": "ระบบอัพเกรด",
+      "feature2Description": "ทำคะแนนเพื่ออัพเกรดทักษะและอาวุธของคุณเพื่อประสิทธิภาพที่ดีขึ้น",
+      "feature3Title": "โหมด PvP",
+      "feature3Description": "ท้าเพื่อนในโหมด PvP สองผู้เล่นเพื่อความสนุกแบบแข่งขัน",
+      "feature4Title": "เล่นคนเดียว",
+      "feature4Description": "เล่นคนเดียวและเอาชนะศัตรูหลากหลายเพื่อเป็นนักธนูผู้ยิ่งใหญ่"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นจากผู้เล่น"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

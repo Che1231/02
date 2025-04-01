@@ -1,0 +1,77 @@
+{
+  "ragdoll-archers": {
+    "title": "인형극 궁수 - 무료 온라인 궁술 게임",
+    "slogan": "활을 마스터하고 전장을 지배하세요",
+    "description": "인형극 궁수는 인형극 물리 엔진을 사용하는 흥미진진한 궁술 게임입니다. 상대에게 화살을 발사하고 점수를 얻고 능력을 업그레이드하세요. 솔로 게임을 즐기거나 PvP 모드에서 친구를 상대로 도전해 보세요. 오늘 인형극 궁수에서 궁술의 짜릿함을 경험하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "인형극 궁수",
+      "description": "인형극 궁수는 인형극 물리 엔진을 사용하는 활과 화살을 장착한 인형극 캐릭터가 등장하는 궁술 게임입니다. 다양한 상대에게 화살을 발사하고 점수를 얻어 능력과 탄약을 업그레이드하세요. 친구와 2인 PvP 대결을 펼치거나 함께 팀을 이루어 여러 적을 물리치세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "인형극 궁수",
+      "whatIsTitle": "인형극 궁수는 무엇인가요?",
+      "whatIsDescription": "인형극 궁수는 인형극 물리 엔진을 사용하는 활과 화살을 장착한 인형극 캐릭터가 등장하는 궁술 게임입니다. 다양한 상대에게 화살을 발사하고 점수를 얻어 능력과 탄약을 업그레이드하세요.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "표적을 향해 활을 조준하세요.",
+      "howToPlayStep2": "상대를 맞추기 위해 화살을 쏘세요.",
+      "howToPlayStep3": "능력과 탄약을 업그레이드하기 위해 점수를 획득하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "인형극 물리",
+      "feature1Description": "인형극 궁수를 조작하면서 사실적인 인형극 물리를 경험하세요.",
+      "feature2Title": "업그레이드 시스템",
+      "feature2Description": "능력과 탄약을 업그레이드하여 더 나은 성능을 발휘할 수 있도록 점수를 획득하세요.",
+      "feature3Title": "PvP 모드",
+      "feature3Description": "경쟁적인 재미를 위해 친구와 2인 PvP 모드에서 도전하세요.",
+      "feature4Title": "솔로 게임",
+      "feature4Description": "솔로 게임으로 다양한 적을 물리치고 최고의 궁수가 되세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Count Masters: Stickman Games is a fast-paced running game where you gather a growing army of stickmen to clash against rival crowds. Navigate through obstacles, choose the best paths to multiply your numbers, and lead your team to victory. Battle fierce opponents, defeat the King-stickman, and claim the castle in an action-packed race filled with strategy and excitement!
