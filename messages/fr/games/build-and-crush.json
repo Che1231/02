@@ -1,0 +1,77 @@
+{
+  "build-and-crush": {
+    "title": "Construction et Écrasement - Jeu multijoueur de construction et d'écrasement",
+    "slogan": "Construction et Écrasement : Créez, détruisez et amusez-vous !",
+    "description": "Build and Crush est un jeu multijoueur passionnant où vous pouvez donner libre cours à votre créativité en construisant des structures, puis en les démolissant pour un maximum de plaisir. Que vous soyez passionné par la construction ou la destruction, Build and Crush offre un divertissement sans fin. Rejoignez-nous maintenant et vivez l'aventure ultime de construction et d'écrasement !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens utiles",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Construction et Écrasement",
+      "description": "Construction et Écrasement est un jeu multijoueur où vous pouvez créer et détruire des structures. Rejoignez le plaisir dès maintenant !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Construction et Écrasement",
+      "whatIsTitle": "Qu'est-ce que Construction et Écrasement ?",
+      "whatIsDescription": "Construction et Écrasement est un jeu multijoueur où vous pouvez construire et détruire des structures pour un plaisir sans fin.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Commencez par construire des structures en utilisant les outils disponibles.",
+      "howToPlayStep2": "Invitez des amis à rejoindre votre partie et collaborez sur des créations.",
+      "howToPlayStep3": "Écrasez vos créations et regardez-les s'effondrer de manière spectaculaire.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Mode multijoueur",
+      "feature1Description": "Jouez avec des amis et construisez ou détruisez ensemble.",
+      "feature2Title": "Construction créative",
+      "feature2Description": "Utilisez une variété d'outils pour construire des structures uniques.",
+      "feature3Title": "Détruisez!",
+      "feature3Description": "Écrasez et détruisez vos créations avec une physique réaliste.",
+      "feature4Title": "Possibilités infinies",
+      "feature4Description": "Construction et Écrasement offre des façons infinies de jouer et de s'amuser."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

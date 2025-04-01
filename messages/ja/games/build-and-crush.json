@@ -1,0 +1,77 @@
+{
+  "build-and-crush": {
+    "title": "ビルドアンドクラッシュ - マルチプレイヤー建築＆破壊ゲーム",
+    "slogan": "ビルドアンドクラッシュ：創造、破壊、そして楽しみ！",
+    "description": "ビルドアンドクラッシュは、構造物を建設し、最大限の楽しみのために破壊できる、スリリングなマルチプレイヤーゲームです。建設が好きか破壊が好きか、ビルドアンドクラッシュは無限のエンターテイメントを提供します。今すぐ参加して、究極の建築と破壊の冒険を体験してください！",
+    "Loading": {
+      "title": "読み込み中…"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "ビルドアンドクラッシュ",
+      "description": "ビルドアンドクラッシュは、構造物を創造し、破壊できるマルチプレイヤーゲームです。今すぐお楽しみください！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ビルドアンドクラッシュ",
+      "whatIsTitle": "ビルドアンドクラッシュとは？",
+      "whatIsDescription": "ビルドアンドクラッシュは、構造物を建設し、破壊して無限の楽しみを得ることができるマルチプレイヤーゲームです。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "利用可能なツールを使用して、構造物を建設することから始めます。",
+      "howToPlayStep2": "友達を招待して、ゲームに参加し、創造物に協力しましょう。",
+      "howToPlayStep3": "あなたの創造物を破壊し、見事な崩壊をご覧ください。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "マルチプレイヤーモード",
+      "feature1Description": "友達と協力して、建設したり破壊したりできます。",
+      "feature2Title": "創造的な建築",
+      "feature2Description": "様々なツールを使用して、ユニークな構造物を建設できます。",
+      "feature3Title": "破壊の楽しみ",
+      "feature3Description": "リアリスティックな物理エンジンで、創造物を破壊しましょう。",
+      "feature4Title": "無限の可能性",
+      "feature4Description": "ビルドアンドクラッシュは、無限の方法でプレイして楽しめるゲームです。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "build-and-crush": {
+    "title": "建造與摧毀 - 多人線上建造與摧毀遊戲",
+    "slogan": "建造與摧毀：創造、破壞，盡情享受！",
+    "description": "建造與摧毀是一款令人興奮的多人遊戲，您可以盡情發揮創意，建造結構，然後將其摧毀，以獲得最大樂趣。無論您喜歡建造還是破壞，建造與摧毀都能提供無盡的娛樂。現在加入，體驗究極的建造與摧毀冒險！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友善連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "建造與摧毀",
+      "description": "建造與摧毀是一款多人遊戲，您可以創造和摧毀結構。現在加入樂趣！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "建造與摧毀",
+      "whatIsTitle": "建造與摧毀是什麼？",
+      "whatIsDescription": "建造與摧毀是一款多人遊戲，您可以建造和摧毀結構，以獲得無盡的樂趣。",
+      "howToPlayTitle": "如何玩遊戲",
+      "howToPlayStep1": "首先，使用提供的工具建造結構。",
+      "howToPlayStep2": "邀請朋友加入您的遊戲，共同創造。",
+      "howToPlayStep3": "摧毀您的創造，並欣賞它們以壯觀的方式崩塌。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "多人模式",
+      "feature1Description": "與朋友一起玩，共同建造或摧毀。",
+      "feature2Title": "創意建造",
+      "feature2Description": "使用各種工具來建造獨特的結構。",
+      "feature3Title": "破壞樂趣",
+      "feature3Description": "使用逼真的物理引擎，衝撞和摧毀您的創造。",
+      "feature4Title": "無限可能",
+      "feature4Description": "建造與摧毀提供無限的遊戲方式和樂趣。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "遊戲分類",
+      "noCategories": "找不到任何分類",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

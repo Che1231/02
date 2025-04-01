@@ -1,0 +1,77 @@
+{
+  "build-and-crush": {
+    "title": "Construir e Destruir - Jogo Multiplayer de Construção e Destruição",
+    "slogan": "Construir e Destruir: Crie, Destrua e Divirta-se!",
+    "description": "Construir e Destruir é um emocionante jogo multiplayer onde você pode liberar sua criatividade construindo estruturas e, em seguida, demoli-las para o máximo divertimento. Seja você fã de construção ou destruição, Construir e Destruir oferece entretenimento infinito. Junte-se agora e experimente a aventura definitiva de construção e destruição!",
+    "Loading": {
+      "title": "Carregando..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criar em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Amigáveis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Construir e Destruir",
+      "description": "Construir e Destruir é um jogo multiplayer onde você pode criar e destruir estruturas. Junte-se à diversão agora!",
+      "iframeTitle": "Prévia do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Construir e Destruir",
+      "whatIsTitle": "O que é Construir e Destruir?",
+      "whatIsDescription": "Construir e Destruir é um jogo multiplayer onde você pode construir e destruir estruturas para diversão sem fim.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Comece construindo estruturas usando as ferramentas disponíveis.",
+      "howToPlayStep2": "Convide amigos para se juntar ao seu jogo e colaborar na criação.",
+      "howToPlayStep3": "Destrua suas criações e assista ao colapso delas de forma espetacular.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Modo Multiplayer",
+      "feature1Description": "Jogue com amigos e construa ou destrua juntos.",
+      "feature2Title": "Construção Criativa",
+      "feature2Description": "Utilize uma variedade de ferramentas para construir estruturas únicas.",
+      "feature3Title": "Diversão na Destruição",
+      "feature3Description": "Destrua e demoli suas criações com física realista.",
+      "feature4Title": "Possibilidades Infinitas",
+      "feature4Description": "Construir e Destruir oferece maneiras infinitas de jogar e se divertir."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

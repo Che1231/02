@@ -3,7 +3,7 @@
     "title": "Weaver Game (Weaver Game)",
     "cover": "https://images.1games.io/cache/game/weaver-game/weavergame1-m200x130.webp",
     "url": "/games/weaver-game",
-    "category": "その他",
+    "category": "ゲーム",
     "visible": true
   },
   {
@@ -17,7 +17,7 @@
     "title": "FNF: Salty's Sunday Night (FNF: Salty's Sunday Night)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743325825692-ss2li4.png",
     "url": "/games/fnf-salty-s-sunday-night",
-    "category": "リズムアクション",
+    "category": "リズムゲーム",
     "visible": true
   },
   {
@@ -31,14 +31,14 @@
     "title": "Terraria (Terraria)",
     "cover": "https://images.1games.io/cache/game/terraria/terraria-m200x130.webp",
     "url": "/games/terraria",
-    "category": "サンドボックス",
+    "category": "アクション・アドベンチャー",
     "visible": true
   },
   {
     "title": "Basket Champs (Basket Champs)",
     "cover": "https://images.1games.io/cache/game/basket-champs/basket-champs-m200x130.webp",
     "url": "/games/basket-champs",
-    "category": "バスケットボール",
+    "category": "スポーツ",
     "visible": true
   },
   {
@@ -52,14 +52,14 @@
     "title": "Word Wipe (Word Wipe)",
     "cover": "https://images.1games.io/cache/game/word-wipe/word-wipe-m200x130.webp",
     "url": "/games/word-wipe",
-    "category": "単語ゲーム",
+    "category": "ワードゲーム",
     "visible": true
   },
   {
     "title": "Sploop.io (Sploop.io)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743303505575-0p31il.png",
     "url": "/games/sploop-io",
-    "category": "対戦型",
+    "category": "アーケードゲーム",
     "visible": true
   },
   {
@@ -73,21 +73,21 @@
     "title": "Muse Dash (Muse Dash)",
     "cover": "https://images.1games.io/cache/game/muse-dash/muse-dash-m200x130.webp",
     "url": "/games/muse-dash",
-    "category": "リズムアクション",
+    "category": "リズムゲーム",
     "visible": true
   },
   {
     "title": "Voxiom.io (Voxiom.io)",
     "cover": "https://images.1games.io/cache/game/voxiom-io/voxiom-io-m200x130.webp",
     "url": "/games/voxiom-io",
-    "category": "対戦型",
+    "category": "オンラインゲーム",
     "visible": true
   },
   {
     "title": "AstroDud.io (AstroDud.io)",
     "cover": "https://images.1games.io/cache/game/astrodud-io/astrodud-io-m200x130.webp",
     "url": "/games/astrodud-io",
-    "category": "対戦型",
+    "category": "オンラインゲーム",
     "visible": true
   },
   {
@@ -136,21 +136,21 @@
     "title": "Redactle (Redactle)",
     "cover": "https://images.1games.io/cache/game/redactle/redactle-game-m200x130.webp",
     "url": "/games/redactle",
-    "category": "単語ゲーム",
+    "category": "パズル",
     "visible": true
   },
   {
     "title": "Sedecordle (Sedecordle)",
     "cover": "https://images.1games.io/cache/game/sedecordle/sedecordle-m200x130.webp",
     "url": "/games/sedecordle",
-    "category": "単語ゲーム",
+    "category": "パズル",
     "visible": true
   },
   {
     "title": "Ev.io (Ev.io)",
     "cover": "https://images.1games.io/cache/game/ev-io/ev.io-m200x130.webp",
     "url": "/games/ev-io",
-    "category": "対戦型",
+    "category": "オンラインゲーム",
     "visible": true
   },
   {
@@ -164,7 +164,7 @@
     "title": "Zombs.io (Zombs.io)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743313357556-b717a.png",
     "url": "/games/zombs-io",
-    "category": "対戦型",
+    "category": "オンラインゲーム",
     "visible": true
   },
   {
@@ -185,7 +185,7 @@
     "title": "Squid Game Online (Squid Game Online)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743485971278-36wkuh.avif",
     "url": "/games/squid-game-online",
-    "category": "その他",
+    "category": "オンラインゲーム",
     "visible": true
   },
   {
@@ -199,7 +199,7 @@
     "title": "Betrayal.io (Betrayal.io)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743313254399-m9w8b4.png",
     "url": "/games/betrayal-io",
-    "category": "対戦型",
+    "category": "オンラインゲーム",
     "visible": true
   },
   {
@@ -220,7 +220,7 @@
     "title": "Cleverdle (Cleverdle)",
     "cover": "https://images.1games.io/cache/game/cleverdle/cleverdle2-m200x130.webp",
     "url": "/games/cleverdle",
-    "category": "単語ゲーム",
+    "category": "パズル",
     "visible": true
   },
   {
@@ -234,7 +234,7 @@
     "title": "Jacksmith (Jacksmith)",
     "cover": "https://images.1games.io/cache/game/jacksmith/jacksmith-m200x130.webp",
     "url": "/games/jacksmith",
-    "category": "その他",
+    "category": "ストラテジー",
     "visible": true
   },
   {
@@ -276,7 +276,7 @@
     "title": "Necro clicker (Necro clicker)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743489039770-ozh8wa.jpg",
     "url": "/games/necro-clicker",
-    "category": "その他",
+    "category": "クリックゲーム",
     "visible": true
   },
   {
@@ -304,14 +304,14 @@
     "title": "Word Hurdle (Word Hurdle)",
     "cover": "https://images.1games.io/cache/game/word-hurdle/wordhurdle-m200x130.webp",
     "url": "/games/word-hurdle",
-    "category": "単語ゲーム",
+    "category": "ワードゲーム",
     "visible": true
   },
   {
     "title": "Framed (Framed)",
     "cover": "https://images.1games.io/cache/game/framed/framed-m200x130.webp",
     "url": "/games/framed",
-    "category": "その他",
+    "category": "パズル",
     "visible": true
   },
   {
@@ -332,7 +332,7 @@
     "title": "Five Nights at Freddy's Sister Location (Five Nights at Freddy's Sister Location)",
     "cover": "https://images.1games.io/cache/game/five-nights-at-freddy-s-sister-location/five-nights-at-freddy-s-sister-location-m200x130.webp",
     "url": "/games/five-nights-at-freddy-s-sister-location",
-    "category": "ホラー",
+    "category": "ホラーゲーム",
     "visible": true
   },
   {
@@ -374,49 +374,49 @@
     "title": "FNF Flip-Side (FNF Flip-Side)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743325768134-nn9zoj.png",
     "url": "/games/fnf-flip-side",
-    "category": "リズムアクション",
+    "category": "リズムゲーム",
     "visible": true
   },
   {
     "title": "Taming.io (Taming.io)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743311379686-xrdbjb.png",
     "url": "/games/taming-io",
-    "category": "対戦型",
+    "category": "オンラインゲーム",
     "visible": true
   },
   {
     "title": "Phoodle (Phoodle)",
     "cover": "https://images.1games.io/cache/game/phoodle/phoodle-m200x130.webp",
     "url": "/games/phoodle",
-    "category": "その他",
+    "category": "パズル",
     "visible": true
   },
   {
     "title": "Tic Tac Toe (Tic Tac Toe)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743304639319-x5sbt5.png",
     "url": "/games/tic-tac-toe",
-    "category": "パズル",
+    "category": "ボードゲーム",
     "visible": true
   },
   {
     "title": "ColorUp (ColorUp)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743309900605-qbdj3g.png",
     "url": "/games/colorup",
-    "category": "その他",
+    "category": "パズル",
     "visible": true
   },
   {
     "title": "FNF Minus (FNF Minus)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743325707124-cw3aex.png",
     "url": "/games/fnf-minus",
-    "category": "リズムアクション",
+    "category": "リズムゲーム",
     "visible": true
   },
   {
     "title": "Tom & Jerry Run (Tom & Jerry Run)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743490019590-w7bv7.jpg",
     "url": "/games/tom-jerry-run",
-    "category": "アクション",
+    "category": "ランニング",
     "visible": true
   },
   {
@@ -430,14 +430,14 @@
     "title": "Plactions (Plactions)",
     "cover": "https://images.1games.io/cache/game/plactions/plactions1-m200x130.webp",
     "url": "/games/plactions",
-    "category": "その他",
+    "category": "アクション",
     "visible": true
   },
   {
     "title": "Sandbox City (Sandbox City)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743486291321-jz13l.avif",
     "url": "/games/sandbox-city",
-    "category": "サンドボックス",
+    "category": "シミュレーション",
     "visible": true
   },
   {
@@ -451,14 +451,14 @@
     "title": "Stabfish.io (Stabfish.io)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743313659912-zyjrff.png",
     "url": "/games/stabfish-io",
-    "category": "対戦型",
+    "category": "オンラインゲーム",
     "visible": true
   },
   {
     "title": "Battledudes.io (Battledudes.io)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743313737546-ly6onh.png",
     "url": "/games/battledudes-io",
-    "category": "対戦型",
+    "category": "オンラインゲーム",
     "visible": true
   },
   {
@@ -507,14 +507,14 @@
     "title": "StarBlast.io (StarBlast.io)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743313567893-5e5gpn.png",
     "url": "/games/starblast-io",
-    "category": "対戦型",
+    "category": "オンラインゲーム",
     "visible": true
   },
   {
     "title": "FNF: Michael Jackson's Rose Criminal (FNF: Michael Jackson's Rose Criminal)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743325605838-qr5km.png",
     "url": "/games/fnf-michael-jackson-s-rose-criminal",
-    "category": "リズムアクション",
+    "category": "リズムゲーム",
     "visible": true
   },
   {
@@ -542,7 +542,7 @@
     "title": "FNF vs Touhou (FNF vs Touhou)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743325511163-42zid.png",
     "url": "/games/fnf-vs-touhou",
-    "category": "リズムアクション",
+    "category": "リズムゲーム",
     "visible": true
   },
   {
@@ -556,7 +556,7 @@
     "title": "Skribbl.io (Skribbl.io)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743312191188-sjzgn6.png",
     "url": "/games/skribbl-io",
-    "category": "その他",
+    "category": "オンラインゲーム",
     "visible": true
   },
   {
@@ -577,21 +577,21 @@
     "title": "Papa’s Cupcakeria (Papa’s Cupcakeria)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743323081718-vles8.png",
     "url": "/games/papa-s-cupcakeria",
-    "category": "シミュレーション",
+    "category": "レストランシミュレーション",
     "visible": true
   },
   {
     "title": "Grindcraft (Grindcraft)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743310881623-68m62.png",
     "url": "/games/grindcraft",
-    "category": "サンドボックス",
+    "category": "クラフトゲーム",
     "visible": true
   },
   {
     "title": "Blob Opera (Blob Opera)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743304392523-pfaoit.png",
     "url": "/games/blob-opera",
-    "category": "アクション",
+    "category": "パズル",
     "visible": true
   },
   {
@@ -633,21 +633,21 @@
     "title": "City Blocks (City Blocks)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-29/images/1743242778622-p1lkzq.png",
     "url": "/games/city-blocks",
-    "category": "アクション",
+    "category": "パズル",
     "visible": true
   },
   {
     "title": "Papa's Taco Mia (Papa's Taco Mia)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743322933137-hvgqv.png",
     "url": "/games/papa-s-taco-mia",
-    "category": "シミュレーション",
+    "category": "レストランシミュレーション",
     "visible": true
   },
   {
     "title": "Baldi's Basics (Baldi's Basics)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743308992254-bfiu38.png",
     "url": "/games/baldi-s-basics",
-    "category": "ホラー",
+    "category": "アドベンチャー",
     "visible": true
   },
   {
@@ -661,14 +661,14 @@
     "title": "GT Formula Championship (GT Formula Championship)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743487908576-gxldgp.jpg",
     "url": "/games/gt-formula-championship",
-    "category": "レース",
+    "category": "レースゲーム",
     "visible": true
   },
   {
     "title": "Papa's Freezeria (Papa's Freezeria)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743322625066-4t6r2.png",
     "url": "/games/papa-s-freezeria",
-    "category": "シミュレーション",
+    "category": "レストランシミュレーション",
     "visible": true
   },
   {
@@ -689,28 +689,28 @@
     "title": "Octum (Octum)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743490403178-8nxtb8.jpg",
     "url": "/games/octum",
-    "category": "その他",
+    "category": "アクション",
     "visible": true
   },
   {
     "title": "Dungeon Crawler (Dungeon Crawler)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743308656072-zu90a.png",
     "url": "/games/dungeon-crawler",
-    "category": "ロールプレイング",
+    "category": "アドベンチャー",
     "visible": true
   },
   {
     "title": "FNF StarCatcher (FNF StarCatcher)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743325662029-g2utis.png",
     "url": "/games/fnf-starcatcher",
-    "category": "リズムアクション",
+    "category": "リズムゲーム",
     "visible": true
   },
   {
     "title": "Bad Ice Cream 3 (Bad Ice Cream 3)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743308151014-nmrem.png",
     "url": "/games/bad-ice-cream-3",
-    "category": "シミュレーション",
+    "category": "パズル",
     "visible": true
   },
   {
@@ -731,21 +731,21 @@
     "title": "Minibattles (Minibattles)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743308048951-prk8qu.png",
     "url": "/games/minibattles",
-    "category": "対戦型",
+    "category": "アクション",
     "visible": true
   },
   {
     "title": "Papa's Pastaria (Papa's Pastaria)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743322843395-qauuel.png",
     "url": "/games/papa-s-pastaria",
-    "category": "シミュレーション",
+    "category": "レストランシミュレーション",
     "visible": true
   },
   {
     "title": "Run Rich 3D (Run Rich 3D)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743355352956-yws4z7.jpg",
     "url": "/games/run-rich-3d",
-    "category": "アクション",
+    "category": "ランニング",
     "visible": true
   },
   {
@@ -766,14 +766,14 @@
     "title": "Impostor.io (Impostor.io)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743311644527-dfigi.png",
     "url": "/games/impostor-io",
-    "category": "対戦型",
+    "category": "オンラインゲーム",
     "visible": true
   },
   {
     "title": "Paper.IO 2 (Paper.IO 2)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743490890786-00lau.jpg",
     "url": "/games/paper-io-2",
-    "category": "対戦型",
+    "category": "オンラインゲーム",
     "visible": true
   },
   {
@@ -787,14 +787,14 @@
     "title": "Raft Wars 2 (Raft Wars 2)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743307871693-1okp17.png",
     "url": "/games/raft-wars-2",
-    "category": "対戦型",
+    "category": "オンラインゲーム",
     "visible": true
   },
   {
     "title": "Burrito Craft (Burrito Craft)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743310294881-4bnc3d.png",
     "url": "/games/burrito-craft",
-    "category": "その他",
+    "category": "クラフトゲーム",
     "visible": true
   },
   {
@@ -808,7 +808,7 @@
     "title": "Brutal.io (Brutal.io)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743311497113-bjdid1.png",
     "url": "/games/brutal-io",
-    "category": "対戦型",
+    "category": "オンラインゲーム",
     "visible": true
   },
   {
@@ -822,14 +822,14 @@
     "title": "Swingo (Swingo)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743303825562-xxq9io.png",
     "url": "/games/swingo",
-    "category": "パズル",
+    "category": "アクション",
     "visible": true
   },
   {
     "title": "Gulper.io (Gulper.io)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743311328933-61v109.png",
     "url": "/games/gulper-io",
-    "category": "対戦型",
+    "category": "オンラインゲーム",
     "visible": true
   },
   {
@@ -843,35 +843,42 @@
     "title": "Craftnite.io (Craftnite.io)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743311210550-wzbqg.png",
     "url": "/games/craftnite-io",
-    "category": "対戦型",
+    "category": "オンラインゲーム",
+    "visible": true
+  },
+  {
+    "title": "Bank Heist (Bank Heist)",
+    "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743492556748-3obzr.avif",
+    "url": "/games/bank-heist",
+    "category": "アクション",
     "visible": true
   },
   {
     "title": "Sausage Flip (Sausage Flip)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743304069378-baf9l.png",
     "url": "/games/sausage-flip",
-    "category": "その他",
+    "category": "パズル",
     "visible": true
   },
   {
     "title": "Build Royale (Build Royale)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743311125501-37pfot.png",
     "url": "/games/build-royale",
-    "category": "ストラテジー",
+    "category": "シミュレーション",
     "visible": true
   },
   {
     "title": "Papa's Pancakeria (Papa's Pancakeria)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743322458140-xuwd0y.png",
     "url": "/games/papa-s-pancakeria",
-    "category": "シミュレーション",
+    "category": "レストランシミュレーション",
     "visible": true
   },
   {
     "title": "Among Us Online Edition (Among Us Online Edition)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743489376291-c14b55.jpg",
     "url": "/games/among-us-online-edition",
-    "category": "対戦型",
+    "category": "オンラインゲーム",
     "visible": true
   },
   {
@@ -879,6 +886,13 @@
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743492236840-urlmci.avif",
     "url": "/games/stickman-destruction-3-heroes",
     "category": "アクション",
+    "visible": true
+  },
+  {
+    "title": "Build and Crush (Build and Crush)",
+    "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743492928767-sp3arf.avif",
+    "url": "/games/build-and-crush",
+    "category": "シミュレーション",
     "visible": true
   }
 ]

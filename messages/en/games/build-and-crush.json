@@ -1,0 +1,77 @@
+{
+  "build-and-crush": {
+    "title": "Build and Crush - Multiplayer Building & Crushing Game",
+    "slogan": "Build and Crush: Create, Destroy, and Have Fun!",
+    "description": "Build and Crush is a thrilling multiplayer game where you can unleash your creativity by building structures and then demolish them for maximum fun. Whether you're into construction or destruction, Build and Crush offers endless entertainment. Join now and experience the ultimate building and crushing adventure!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Build and Crush",
+      "description": "Build and Crush is a multiplayer game where you can create and destroy structures. Join the fun now!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Build and Crush",
+      "whatIsTitle": "What is Build and Crush?",
+      "whatIsDescription": "Build and Crush is a multiplayer game where you can build and destroy structures for endless fun.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Start by building structures using the available tools.",
+      "howToPlayStep2": "Invite friends to join your game and collaborate on creations.",
+      "howToPlayStep3": "Crush your creations and watch them collapse in spectacular fashion.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Multiplayer Mode",
+      "feature1Description": "Play with friends and build or destroy together.",
+      "feature2Title": "Creative Building",
+      "feature2Description": "Use a variety of tools to construct unique structures.",
+      "feature3Title": "Destruction Fun",
+      "feature3Description": "Crash and demolish your creations with realistic physics.",
+      "feature4Title": "Endless Possibilities",
+      "feature4Description": "Build and Crush offers limitless ways to play and have fun."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "build-and-crush": {
+    "title": "建造与摧毁 - 多人建造与摧毁游戏",
+    "slogan": "建造与摧毁：创造、破坏，尽享乐趣！",
+    "description": "建造与摧毁是一款令人兴奋的多人游戏，您可以尽情发挥创造力，建造建筑，然后将其摧毁以获得最大乐趣。无论您是喜欢建造还是破坏，建造与摧毁都能提供无穷无尽的娱乐。立即加入，体验终极的建造与摧毁冒险！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "建造与摧毁",
+      "description": "建造与摧毁是一款多人游戏，您可以在其中创建和摧毁建筑。现在加入游戏，一起玩！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "玩游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "建造与摧毁",
+      "whatIsTitle": "建造与摧毁是什么？",
+      "whatIsDescription": "建造与摧毁是一款多人游戏，您可以在其中建造和摧毁建筑，以获得无穷无尽的乐趣。",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "首先使用可用的工具建造建筑。",
+      "howToPlayStep2": "邀请朋友加入您的游戏，共同创建作品。",
+      "howToPlayStep3": "摧毁您创建的作品，并观看它们以壮观的方式坍塌。",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "多人模式",
+      "feature1Description": "与朋友一起玩，共同建造或破坏。",
+      "feature2Title": "创意建造",
+      "feature2Description": "使用各种工具建造独特的建筑。",
+      "feature3Title": "破坏乐趣",
+      "feature3Description": "使用逼真的物理引擎，撞击和摧毁您的作品。",
+      "feature4Title": "无限可能性",
+      "feature4Description": "建造与摧毁提供了无限的玩法和乐趣。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

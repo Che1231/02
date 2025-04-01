@@ -1,0 +1,77 @@
+{
+  "build-and-crush": {
+    "title": "Xây dựng và nghiền nát - Trò chơi xây dựng và nghiền nát nhiều người chơi",
+    "slogan": "Xây dựng và nghiền nát: Tạo dựng, phá hủy và vui chơi!",
+    "description": "Xây dựng và nghiền nát là một trò chơi nhiều người chơi hồi hộp, nơi bạn có thể thỏa sức sáng tạo bằng cách xây dựng các cấu trúc và sau đó phá hủy chúng để có được niềm vui tối đa. Cho dù bạn thích xây dựng hay phá hủy, Xây dựng và nghiền nát đều mang đến sự giải trí vô tận. Tham gia ngay bây giờ và trải nghiệm cuộc phiêu lưu xây dựng và nghiền nát tối thượng!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Đọc"
+    },
+    "Common": {
+      "createAt": "Tạo vào",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Xây dựng và nghiền nát",
+      "description": "Xây dựng và nghiền nát là một trò chơi nhiều người chơi nơi bạn có thể tạo và phá hủy các cấu trúc. Tham gia cùng chúng tôi ngay bây giờ!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào bộ nhớ tạm!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Xây dựng và nghiền nát",
+      "whatIsTitle": "Xây dựng và nghiền nát là gì?",
+      "whatIsDescription": "Xây dựng và nghiền nát là một trò chơi nhiều người chơi nơi bạn có thể xây dựng và phá hủy các cấu trúc để có niềm vui không giới hạn.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Bắt đầu bằng cách xây dựng các cấu trúc bằng các công cụ có sẵn.",
+      "howToPlayStep2": "Mời bạn bè tham gia trò chơi của bạn và hợp tác xây dựng.",
+      "howToPlayStep3": "Phá hủy các tác phẩm của bạn và xem chúng sụp đổ theo cách ngoạn mục.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Chế độ nhiều người chơi",
+      "feature1Description": "Chơi cùng bạn bè và xây dựng hoặc phá hủy cùng nhau.",
+      "feature2Title": "Xây dựng sáng tạo",
+      "feature2Description": "Sử dụng nhiều công cụ khác nhau để xây dựng các cấu trúc độc đáo.",
+      "feature3Title": "Niềm vui phá hủy",
+      "feature3Description": "Đập và phá hủy các tác phẩm của bạn với vật lý thực tế.",
+      "feature4Title": "Khả năng vô tận",
+      "feature4Description": "Xây dựng và nghiền nát cung cấp vô số cách để chơi và vui chơi."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Thể loại",
+      "noCategories": "Không tìm thấy thể loại nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "build-and-crush": {
+    "title": "Bauen und Zerschlagen - Multiplayer-Bau- und Zerschlagungsspiel",
+    "slogan": "Bauen und Zerschlagen: Erstellen, Zerstören und Spaß haben!",
+    "description": "Build and Crush ist ein aufregendes Multiplayer-Spiel, in dem Sie Ihre Kreativität entfesseln können, indem Sie Strukturen bauen und sie dann zum maximalen Spaß zerstören. Ob Sie auf Bauen oder Zerstören stehen, Build and Crush bietet endlosen Unterhaltungswert. Treten Sie jetzt bei und erleben Sie das ultimative Abenteuer des Bauens und Zerschlagens!",
+    "Loading": {
+      "title": "Lädt..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Leitfaden",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Bauen und Zerschlagen",
+      "description": "Bauen und Zerschlagen ist ein Multiplayer-Spiel, in dem Sie Strukturen erstellen und zerstören können. Machen Sie jetzt mit!",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel spielen"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Bauen und Zerschlagen",
+      "whatIsTitle": "Was ist Bauen und Zerschlagen?",
+      "whatIsDescription": "Bauen und Zerschlagen ist ein Multiplayer-Spiel, in dem Sie Strukturen bauen und zerstören können, um endlosen Spaß zu erleben.",
+      "howToPlayTitle": "Wie man spielt",
+      "howToPlayStep1": "Beginnen Sie mit dem Bau von Strukturen mithilfe der verfügbaren Werkzeuge.",
+      "howToPlayStep2": "Laden Sie Freunde ein, sich Ihrem Spiel anzuschließen, und arbeiten Sie zusammen an Kreationen.",
+      "howToPlayStep3": "Zerschlagen Sie Ihre Kreationen und beobachten Sie, wie sie auf spektakuläre Weise zusammenbrechen.",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
+      "feature1Title": "Mehrspielermodus",
+      "feature1Description": "Spielen Sie mit Freunden und bauen oder zerstören Sie zusammen.",
+      "feature2Title": "Kreatives Bauen",
+      "feature2Description": "Verwenden Sie verschiedene Werkzeuge, um einzigartige Strukturen zu erstellen.",
+      "feature3Title": "Zerstörungsspaß",
+      "feature3Description": "Zerstören Sie Ihre Kreationen mit realistischer Physik.",
+      "feature4Title": "Endlose Möglichkeiten",
+      "feature4Description": "Bauen und Zerschlagen bietet unzählige Möglichkeiten zum Spielen und Spaß haben."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

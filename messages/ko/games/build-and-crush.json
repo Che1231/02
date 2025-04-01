@@ -1,0 +1,77 @@
+{
+  "build-and-crush": {
+    "title": "빌드 앤 크러시 - 멀티플레이어 건설 및 파괴 게임",
+    "slogan": "빌드 앤 크러시: 창조, 파괴, 그리고 즐거움!",
+    "description": "빌드 앤 크러시는 흥미진진한 멀티플레이어 게임으로, 구조물을 건설하고 최대한의 재미를 위해 파괴할 수 있습니다.  건설이든 파괴이든, 빌드 앤 크러시는 끝없는 엔터테인먼트를 제공합니다. 지금 참여하여 최고의 건설 및 파괴 모험을 경험하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "컨텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "빌드 앤 크러시",
+      "description": "빌드 앤 크러시는 구조물을 만들고 파괴할 수 있는 멀티플레이어 게임입니다. 지금 재미에 참여하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "빌드 앤 크러시",
+      "whatIsTitle": "빌드 앤 크러시는 무엇인가요?",
+      "whatIsDescription": "빌드 앤 크러시는 끝없는 재미를 위해 구조물을 건설하고 파괴할 수 있는 멀티플레이어 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "사용 가능한 도구를 사용하여 구조물을 먼저 건설하세요.",
+      "howToPlayStep2": "친구들을 초대하여 게임에 참여하고 창작물에 협력하세요.",
+      "howToPlayStep3": "창작물을 파괴하고 장관을 이루는 붕괴를 지켜보세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "멀티플레이어 모드",
+      "feature1Description": "친구들과 함께 건설하거나 파괴하세요.",
+      "feature2Title": "창의적인 건설",
+      "feature2Description": "다양한 도구를 사용하여 독창적인 구조물을 만드세요.",
+      "feature3Title": "파괴의 재미",
+      "feature3Description": "현실적인 물리 엔진으로 창작물을 부수고 파괴하세요.",
+      "feature4Title": "무한한 가능성",
+      "feature4Description": "빌드 앤 크러시는 무한한 플레이 방법과 즐거움을 제공합니다."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

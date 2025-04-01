@@ -1,0 +1,120 @@
+{
+  "name": "Build and Crush",
+  "pagePath": "/games/build-and-crush",
+  "pageName": "build-and-crush",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.crazygames.com/embed/build-and-crush",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomKraken99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomKraken99.png",
+      "content": "Build and Crush is pure chaos in the best way! Building stuff just to smash it? Genius!"
+    },
+    {
+      "author": "NeonRevolver_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonRevolver_X.png",
+      "content": "Why did I spend 3 hours building a castle just to destroy it in 2 seconds? No regrets."
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "This game is wild! The multiplayer mode is so much fun, especially when you team up to crush stuff."
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Build and Crush? More like Build and Laugh! The physics are hilariously unpredictable."
+    },
+    {
+      "author": "xX_CosmicKatana_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_CosmicKatana_Xx.png",
+      "content": "I love how creative you can get in this game. Building and crushing never gets old!"
+    },
+    {
+      "author": "StalkingPhoenix87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix87.png",
+      "content": "Build and Crush is the perfect stress reliever. Smash everything after a long day!"
+    },
+    {
+      "author": "SavageBroadsword_42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBroadsword_42.png",
+      "content": "The building mechanics are surprisingly deep. But let’s be real, crushing is the real star here."
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "Build and Crush is a blast! Though sometimes the physics glitches make it even funnier."
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "This game is oddly satisfying. Building something intricate just to destroy it? Yes, please!"
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "Build and Crush is the ultimate sandbox game. So much freedom to create and destroy!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743492928767-sp3arf.avif",
+  "page_path": "/games/build-and-crush",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Action"
+  ],
+  "createdTime": "2025-04-01 15:35:30"
+}

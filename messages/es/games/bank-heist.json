@@ -1,0 +1,77 @@
+{
+  "bank-heist": {
+    "title": "Juega a Bank Heist - Juego de aventuras y acción en línea gratuito",
+    "slogan": "¡Roba, crea estrategias y escapa en Bank Heist!",
+    "description": "¡Bank Heist es un juego lleno de acción y emocionantes aventuras en el que robas bancos, tiendas y más! Crea estrategias, lucha y escapa con el botín en esta escapada criminal de alto riesgo. ¡Prepárate para vivir la vida de un maestro ladrón en Bank Heist! Juega ahora gratis y experimenta la mejor aventura de atracos.",
+    "Loading": {
+      "title": "Cargando Bank Heist..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Creado en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Bank Heist",
+      "description": "Experimenta la emoción de Bank Heist, un juego lleno de acción en el que robas bancos, creas estrategias y escapas con el botín. ¡Juega ahora gratis!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Bank Heist",
+      "whatIsTitle": "¿Qué es Bank Heist?",
+      "whatIsDescription": "¡Bank Heist es un juego lleno de acción y emocionantes aventuras en el que robas bancos, tiendas y más! Crea estrategias, lucha y escapa con el botín en esta escapada criminal de alto riesgo.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Planifica tu atraco eligiendo la estrategia correcta.",
+      "howToPlayStep2": "Ejecuta el robo y lucha contra la seguridad.",
+      "howToPlayStep3": "Escapa con el botín y evita que te atrapen.",
+      "keyFeaturesTitle": "Características principales",
+      "feature1Title": "Atracos emocionantes",
+      "feature1Description": "Experimenta la adrenalina de robar bancos y tiendas.",
+      "feature2Title": "Planificación estratégica",
+      "feature2Description": "Planifica tus movimientos cuidadosamente para maximizar tu botín.",
+      "feature3Title": "Juego lleno de acción",
+      "feature3Description": "Ábrete camino a través de la seguridad y escapa con el botín.",
+      "feature4Title": "Escapadas de alto riesgo",
+      "feature4Description": "Vive la vida de un maestro ladrón en este juego de crimen de alto riesgo."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

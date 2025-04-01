@@ -1,0 +1,77 @@
+{
+  "build-and-crush": {
+    "title": "Bangun dan Hancurkan - Game Bangun dan Hancurkan Multiplayer",
+    "slogan": "Bangun dan Hancurkan: Ciptakan, Hancurkan, dan Bersenang-senang!",
+    "description": "Bangun dan Hancurkan adalah game multiplayer menegangkan di mana Anda dapat melepaskan kreativitas dengan membangun struktur dan kemudian menghancurkannya untuk kesenangan maksimal. Apakah Anda suka konstruksi atau perusakan, Bangun dan Hancurkan menawarkan hiburan tanpa akhir. Bergabunglah sekarang dan alami petualangan membangun dan menghancurkan yang luar biasa!",
+    "Loading": {
+      "title": "Memuat..."
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Buat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Bangun dan Hancurkan",
+      "description": "Bangun dan Hancurkan adalah game multiplayer di mana Anda dapat membuat dan menghancurkan struktur. Bergabunglah dengan kesenangan sekarang!",
+      "iframeTitle": "Pratinjau Game",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Game",
+      "playGame": "Mainkan Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Bangun dan Hancurkan",
+      "whatIsTitle": "Apa itu Bangun dan Hancurkan?",
+      "whatIsDescription": "Bangun dan Hancurkan adalah permainan multipemain di mana Anda dapat membangun dan menghancurkan struktur untuk kesenangan tanpa akhir.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Mulailah dengan membangun struktur menggunakan alat yang tersedia.",
+      "howToPlayStep2": "Undang teman untuk bergabung dengan permainan Anda dan berkolaborasi dalam kreasi.",
+      "howToPlayStep3": "Hancurkan kreasi Anda dan saksikan mereka runtuh dengan cara yang spektakuler.",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Mode Multiplayer",
+      "feature1Description": "Mainkan bersama teman dan bangun atau hancurkan bersama.",
+      "feature2Title": "Pengembangan Kreatif",
+      "feature2Description": "Gunakan berbagai alat untuk membangun struktur unik.",
+      "feature3Title": "Kesenangan Penghancuran",
+      "feature3Description": "Tabrak dan hancurkan kreasi Anda dengan fisika realistis.",
+      "feature4Title": "Kemungkinan Tanpa Batas",
+      "feature4Description": "Bangun dan Hancurkan menawarkan cara tak terbatas untuk bermain dan bersenang-senang."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Game"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Game"
+    },
+    "GamePage": {
+      "title": "Semua Game",
+      "description": "Semua Game",
+      "games": "Game"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Lebih Banyak",
+      "page": "Halaman"
+    }
+  }
+}
