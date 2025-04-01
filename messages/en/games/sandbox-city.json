@@ -1,0 +1,77 @@
+{
+  "sandbox-city": {
+    "title": "Sandbox City - Explore, Drive, and Survive the Zombie Apocalypse",
+    "slogan": "Sandbox City - Cars, Zombies, Ragdolls!",
+    "description": "Step into Sandbox City, a thrilling zombie survival game where you can freely explore and drive around the city. Be cautious of the zombie infection! Find and eliminate the zombies before the infection spreads. Sandbox City offers a unique blend of action, strategy, and survival. Ready to take on the challenge? Play Sandbox City now!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Sandbox City - Zombie Survival Game",
+      "description": "Explore Sandbox City, a zombie survival game where you can drive, explore, and fight to save the city from infection.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sandbox City - Cars, Zombies, Ragdolls!",
+      "whatIsTitle": "What is Sandbox City?",
+      "whatIsDescription": "Sandbox City is a zombie survival game where you can explore freely, drive around the city, and fight to prevent the spread of infection.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Explore the city and find resources.",
+      "howToPlayStep2": "Drive around to locate and eliminate zombies.",
+      "howToPlayStep3": "Prevent the infection from spreading by killing zombies quickly.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Open World Exploration",
+      "feature1Description": "Freely explore Sandbox City and discover hidden secrets.",
+      "feature2Title": "Zombie Survival",
+      "feature2Description": "Fight off zombies and prevent the infection from spreading.",
+      "feature3Title": "Driving Mechanics",
+      "feature3Description": "Drive around the city to find resources and escape danger.",
+      "feature4Title": "Ragdoll Physics",
+      "feature4Description": "Experience realistic ragdoll physics in Sandbox City."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

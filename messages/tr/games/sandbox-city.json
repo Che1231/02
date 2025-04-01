@@ -1,0 +1,77 @@
+{
+  "sandbox-city": {
+    "title": "Sandbox Şehir - Zombi Felaketini Keşfedin, Sürün ve Hayatta Kalın",
+    "slogan": "Sandbox Şehir - Arabalar, Zombiler, Ragdoll'lar!",
+    "description": "Sandbox Şehir'e adım atın, özgürce keşfe çıkıp şehirde dolaşabileceğiniz heyecan verici bir zombi hayatta kalma oyunudur. Zombi enfeksiyonuna karşı dikkatli olun! Enfeksiyon yayılmadan önce zombileri bulun ve yok edin. Sandbox Şehir, aksiyon, strateji ve hayatta kalmanın eşsiz bir karışımını sunuyor.  Sınamaya hazır mısınız? Şimdi Sandbox Şehir'i oynayın!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti Çubuğu"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Sandbox Şehir - Zombi Hayatta Kalma Oyunu",
+      "description": "Sandbox Şehir'i keşfedin, zombi hayatta kalma oyununda, şehri enfeksiyondan kurtarmak için araba kullanın, keşfedin ve savaşın.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sandbox Şehir - Arabalar, Zombiler, Ragdoll'lar!",
+      "whatIsTitle": "Sandbox Şehir Nedir?",
+      "whatIsDescription": "Sandbox Şehir, özgürce dolaşabileceğiniz, şehirde araba kullanabileceğiniz ve enfeksiyonun yayılmasını engellemek için savaşabileceğiniz bir zombi hayatta kalma oyunudur.",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Şehri keşfedin ve kaynaklar bulun.",
+      "howToPlayStep2": "Zombileri bulmak ve ortadan kaldırmak için şehrin etrafında dolaşın.",
+      "howToPlayStep3": "Zombileri hızlıca öldürerek enfeksiyonun yayılmasını önleyin.",
+      "keyFeaturesTitle": "Ana Özellikler",
+      "feature1Title": "Açık Dünya Keşfi",
+      "feature1Description": "Sandbox Şehir'i özgürce keşfedin ve gizli sırları keşfedin.",
+      "feature2Title": "Zombi Hayatta Kalma",
+      "feature2Description": "Zombileri bertaraf edin ve enfeksiyonun yayılmasını önleyin.",
+      "feature3Title": "Sürüş Mekaniği",
+      "feature3Description": "Kaynak bulmak ve tehlikeden kaçmak için şehrin etrafında araba kullanın.",
+      "feature4Title": "Ragdoll Fiziği",
+      "feature4Description": "Sandbox Şehir'de gerçekçi ragdoll fiziğini deneyimleyin."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Hiç kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

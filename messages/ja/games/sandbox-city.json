@@ -1,0 +1,77 @@
+{
+  "sandbox-city": {
+    "title": "サンドボックスシティ -ゾンビ黙示録を探検、運転、生存",
+    "slogan": "サンドボックスシティ - 車、ゾンビ、ラグドール！",
+    "description": "サンドボックスシティへようこそ。自由探索と都市を運転できる、スリリングなゾンビ生存ゲームです。ゾンビ感染に注意！ 感染が拡大する前にゾンビを見つけ、排除してください。サンドボックスシティは、アクション、戦略、生存の独特な融合を提供しています。挑戦する準備はできましたか？ 今すぐサンドボックスシティをプレイしてください！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "サービス利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "サンドボックスシティ - ゾンビ生存ゲーム",
+      "description": "サンドボックスシティを探検し、運転し、戦い、感染から都市を救うゾンビ生存ゲームです。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "サンドボックスシティ - 車、ゾンビ、ラグドール！",
+      "whatIsTitle": "サンドボックスシティとは何ですか？",
+      "whatIsDescription": "サンドボックスシティは、自由に探索し、都市を運転し、感染の拡大を防ぐためのゾンビ生存ゲームです。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "都市を探検し、資源を見つけます。",
+      "howToPlayStep2": "都市を運転し、ゾンビを見つけ、排除します。",
+      "howToPlayStep3": "ゾンビを迅速に倒し、感染の拡大を防ぎます。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "オープンワールド探索",
+      "feature1Description": "サンドボックスシティを自由に探索し、隠された秘密を発見します。",
+      "feature2Title": "ゾンビ生存",
+      "feature2Description": "ゾンビと戦い、感染の拡大を防ぎます。",
+      "feature3Title": "運転メカニズム",
+      "feature3Description": "都市を運転して資源を見つけ、危険を回避します。",
+      "feature4Title": "ラグドール物理学",
+      "feature4Description": "サンドボックスシティで現実的なラグドール物理学を体験します。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

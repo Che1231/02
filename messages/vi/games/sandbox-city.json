@@ -1,0 +1,77 @@
+{
+  "sandbox-city": {
+    "title": "Thành phố Sandbox - Khám phá, lái xe và sinh tồn trong đại dịch Zombie",
+    "slogan": "Thành phố Sandbox - Ô tô, Zombie, Búp bê!",
+    "description": "Bước vào Thành phố Sandbox, một trò chơi sinh tồn đại dịch Zombie hồi hộp, nơi bạn có thể tự do khám phá và lái xe quanh thành phố. Hãy cảnh giác với sự lây lan của bệnh tật Zombie! Tìm và tiêu diệt các con Zombie trước khi sự lây lan lan rộng. Thành phố Sandbox mang đến sự kết hợp độc đáo giữa hành động, chiến lược và sinh tồn. Bạn đã sẵn sàng đón nhận thử thách chưa? Chơi Thành phố Sandbox ngay bây giờ!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo vào",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu nghị",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước"
+    },
+    "HomeIframe": {
+      "title": "Thành phố Sandbox - Trò chơi sinh tồn Zombie",
+      "description": "Khám phá Thành phố Sandbox, một trò chơi sinh tồn Zombie nơi bạn có thể lái xe, khám phá và chiến đấu để cứu thành phố khỏi sự lây nhiễm.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Màn hình toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào clipboard!",
+      "downloadGame": "Tải game",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Thành phố Sandbox - Ô tô, Zombie, Búp bê!",
+      "whatIsTitle": "Thành phố Sandbox là gì?",
+      "whatIsDescription": "Thành phố Sandbox là một trò chơi sinh tồn zombie, nơi bạn có thể tự do khám phá, lái xe quanh thành phố và chiến đấu để ngăn chặn sự lây lan của dịch bệnh.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Khám phá thành phố và tìm kiếm nguồn lực.",
+      "howToPlayStep2": "Lái xe quanh thành phố để tìm và tiêu diệt Zombie.",
+      "howToPlayStep3": "Ngăn chặn sự lây lan của dịch bệnh bằng cách nhanh chóng tiêu diệt Zombie.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Khám phá thế giới mở",
+      "feature1Description": "Tự do khám phá Thành phố Sandbox và khám phá những bí mật ẩn giấu.",
+      "feature2Title": "Sinh tồn Zombie",
+      "feature2Description": "Đối đầu với Zombie và ngăn chặn sự lây lan của dịch bệnh.",
+      "feature3Title": "Cơ chế lái xe",
+      "feature3Description": "Lái xe quanh thành phố để tìm kiếm nguồn lực và thoát khỏi nguy hiểm.",
+      "feature4Title": "Vật lý búp bê",
+      "feature4Description": "Trải nghiệm vật lý búp bê chân thực trong Thành phố Sandbox."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Khuyến nghị"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả trò chơi",
+      "description": "Tất cả trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}
