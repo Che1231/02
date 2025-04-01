@@ -1,0 +1,120 @@
+{
+  "name": "Golf Orbit",
+  "pagePath": "/games/golf-orbit",
+  "pageName": "golf-orbit",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.crazygames.com/embed/golf-orbit",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "CosmicKraken99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicKraken99.png",
+      "content": "Golf Orbit is insane! Launching golf balls to Mars? Never thought golf could be this epic. Totally hooked!"
+    },
+    {
+      "author": "NeonRevolver_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonRevolver_X.png",
+      "content": "Just played Golf Orbit and wow, the one-shot battles are so intense. Perfect for quick gaming sessions!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "This game is a blast! The levels are challenging but so rewarding. Golf Orbit definitely stands out."
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Tried Golf Orbit and it's surprisingly fun. Who knew golf could be this entertaining? Mars, here I come!"
+    },
+    {
+      "author": "xX_PhantomKatana_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_PhantomKatana_Xx.png",
+      "content": "Golf Orbit is a unique twist on golf games. The Mars shot is my favorite part. Highly recommend!"
+    },
+    {
+      "author": "StalkingLeviathan87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingLeviathan87.png",
+      "content": "This game is so addictive! The perfect shot mechanic is so satisfying. Golf Orbit is a must-play."
+    },
+    {
+      "author": "SavageBroadsword_42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBroadsword_42.png",
+      "content": "Golf Orbit is hilarious and fun. The one-shot battles keep me coming back for more. Great game!"
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "Just tried Golf Orbit and it's amazing. The levels are tough but so rewarding. Love it!"
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "Golf Orbit is a fresh take on golf games. The Mars shot is wild! Definitely worth checking out."
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "This game is so much fun! The one-shot battles are intense and the levels are challenging. Golf Orbit rocks!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743518013396-4kbt9f.avif",
+  "page_path": "/games/golf-orbit",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Sports"
+  ],
+  "createdTime": "2025-04-01 22:33:33"
+}

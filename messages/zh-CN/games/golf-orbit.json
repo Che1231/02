@@ -1,0 +1,77 @@
+{
+  "golf-orbit": {
+    "title": "在线高尔夫轨迹 - 令人兴奋的高尔夫模拟游戏",
+    "slogan": "在这个独特冒险中将高尔夫球发射到火星",
+    "description": "高尔夫轨迹是一款令人兴奋的高尔夫模拟游戏，您需要将高尔夫球发射到令人难以置信的高度，甚至到达火星。享受单杆高尔夫对决，完成具有挑战性的关卡，并掌握完美的击球技巧。在这个有趣且独特的打高尔夫冒险中竞争，成为高尔夫之王。现在免费玩高尔夫轨迹！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一步",
+      "previous": "上一步"
+    },
+    "HomeIframe": {
+      "title": "高尔夫轨迹",
+      "description": "体验在高尔夫轨迹中将高尔夫球发射到火星的刺激。掌握完美的击球技巧，并竞争成为高尔夫之王。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "玩游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "高尔夫轨迹",
+      "whatIsTitle": "什么是高尔夫轨迹？",
+      "whatIsDescription": "高尔夫轨迹是一款令人兴奋的高尔夫模拟游戏，您需要将高尔夫球发射到令人难以置信的高度，甚至到达火星。",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "仔细瞄准，将高尔夫球发射出去。",
+      "howToPlayStep2": "完成具有挑战性的关卡以取得进展。",
+      "howToPlayStep3": "竞争成为高尔夫之王。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "单杆对决",
+      "feature1Description": "参与刺激的单杆高尔夫对决。",
+      "feature2Title": "具有挑战性的关卡",
+      "feature2Description": "完成各种具有挑战性的关卡。",
+      "feature3Title": "完美击球技巧",
+      "feature3Description": "掌握完美击球的艺术。",
+      "feature4Title": "独特的打高尔夫冒险",
+      "feature4Description": "体验独特的打高尔夫冒险。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "golf-orbit": {
+    "title": "골프 오르비트 온라인 플레이 - 흥미진진한 골프 시뮬레이터 게임",
+    "slogan": "이 독특한 모험에서 화성에 골프 공을 발사하세요",
+    "description": "골프 오르비트는 화성에 도달할 수 있을 정도로 놀라운 높이에 골프 공을 발사하는 흥미진진한 골프 시뮬레이터 게임입니다. 원샷 골프 대결, 난이도 높은 레벨을 완료하고 완벽한 샷을 마스터하세요. 이 재미있고 독특한 골프 모험에서 골프 왕이 되기 위해 경쟁하세요. 지금 무료로 골프 오르비트를 플레이하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "유용한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "골프 오르비트",
+      "description": "골프 오르비트에서 화성에 골프 공을 발사하는 짜릿함을 경험하세요. 완벽한 샷을 마스터하고 골프 왕이 되기 위해 경쟁하세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "골프 오르비트",
+      "whatIsTitle": "골프 오르비트는 무엇인가요?",
+      "whatIsDescription": "골프 오르비트는 화성에 도달할 수 있을 정도로 놀라운 높이에 골프 공을 발사하는 흥미진진한 골프 시뮬레이터 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "골프 공을 발사하기 위해 샷을 신중하게 조준하세요.",
+      "howToPlayStep2": "진행하기 위해 난이도 높은 레벨을 완료하세요.",
+      "howToPlayStep3": "골프 왕이 되기 위해 경쟁하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "원샷 대결",
+      "feature1Description": "짜릿한 원샷 골프 대결을 즐겨보세요.",
+      "feature2Title": "난이도 높은 레벨",
+      "feature2Description": "다양한 난이도 높은 레벨을 완료하세요.",
+      "feature3Title": "완벽한 샷 마스터",
+      "feature3Description": "완벽한 샷의 기술을 마스터하세요.",
+      "feature4Title": "독특한 골프 모험",
+      "feature4Description": "독특한 골프 모험을 경험하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

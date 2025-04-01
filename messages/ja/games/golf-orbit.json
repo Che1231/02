@@ -1,0 +1,77 @@
+{
+  "golf-orbit": {
+    "title": "ゴルフオービットオンライン - エキサイティングなゴルフシミュレーターゲーム",
+    "slogan": "このユニークな冒険で火星にゴルフボールを打ち上げます",
+    "description": "ゴルフオービットは、ゴルフボールを驚くほど高い場所に、火星に到達することさえできる、エキサイティングなゴルフシミュレーターゲームです。1発勝負のゴルフバトルを楽しんだり、挑戦的なレベルをクリアしたり、完璧なショットをマスターすることができます。この楽しくユニークなゴルフ冒険で、ゴルフ王になるために競い合ってください。今すぐゴルフオービットを無料でプレイしましょう！",
+    "Loading": {
+      "title": "読み込み中…"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "ゴルフオービット",
+      "description": "ゴルフオービットで火星にゴルフボールを打ち出すスリリングな体験をお楽しみください。完璧なショットをマスターし、ゴルフ王を目指して競い合ってください。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ゴルフオービット",
+      "whatIsTitle": "ゴルフオービットとは？",
+      "whatIsDescription": "ゴルフオービットは、ゴルフボールを驚くほど高い場所に、火星に到達することさえできる、エキサイティングなゴルフシミュレーターゲームです。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "ゴルフボールを打ち出すために、ショットを慎重に狙ってください。",
+      "howToPlayStep2": "挑戦的なレベルをクリアして進めてください。",
+      "howToPlayStep3": "ゴルフ王を目指して競い合ってください。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "1発勝負の戦い",
+      "feature1Description": "スリリングな1発勝負のゴルフバトルに参加してください。",
+      "feature2Title": "挑戦的なレベル",
+      "feature2Description": "さまざまな挑戦的なレベルをクリアしてください。",
+      "feature3Title": "完璧なショットマスタリー",
+      "feature3Description": "完璧なショットの技術をマスターしてください。",
+      "feature4Title": "ユニークなゴルフ冒険",
+      "feature4Description": "ユニークなゴルフ冒険をお楽しみください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめゲーム"
+    },
+    "HomeComments": {
+      "title": "ゲームのコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリ",
+      "noCategories": "カテゴリが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "golf-orbit": {
+    "title": "Golf Orbit Online spielen – Ein aufregendes Golf-Simulatorspiel",
+    "slogan": "Schießen Sie Golfbälle auf den Mars in diesem einzigartigen Abenteuer",
+    "description": "Golf Orbit ist ein aufregendes Golf-Simulatorspiel, bei dem Sie versuchen, Golfbälle in unglaubliche Höhen zu schießen, sogar bis zum Mars. Genießen Sie ein-Schlag-Golfkämpfe, meistern Sie herausfordernde Level und perfektionieren Sie Ihren Schlag. Kämpfen Sie darum, der Golfkönig in diesem unterhaltsamen und einzigartigen Golfabenteuer zu werden. Spielen Sie Golf Orbit jetzt kostenlos!",
+    "Loading": {
+      "title": "Wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Golf Orbit",
+      "description": "Erleben Sie den Nervenkitzel, Golfbälle auf den Mars in Golf Orbit zu schießen. Meistern Sie den perfekten Schlag und kämpfen Sie darum, der Golfkönig zu werden.",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Golf Orbit",
+      "whatIsTitle": "Was ist Golf Orbit?",
+      "whatIsDescription": "Golf Orbit ist ein aufregendes Golf-Simulatorspiel, bei dem Sie versuchen, Golfbälle in unglaubliche Höhen zu schießen, sogar bis zum Mars.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Zielen Sie Ihren Schlag sorgfältig ab, um den Golfball zu starten.",
+      "howToPlayStep2": "Meistern Sie herausfordernde Level, um voranzukommen.",
+      "howToPlayStep3": "Kämpfen Sie darum, der Golfkönig zu werden.",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
+      "feature1Title": "Ein-Schlag-Kämpfe",
+      "feature1Description": "Nehmen Sie an spannenden Ein-Schlag-Golfkämpfen teil.",
+      "feature2Title": "Herausfordernde Level",
+      "feature2Description": "Meistern Sie verschiedene herausfordernde Level.",
+      "feature3Title": "Perfekter Schlag",
+      "feature3Description": "Erlernen Sie die Kunst des perfekten Schlags.",
+      "feature4Title": "Einzigartiges Golf-Abenteuer",
+      "feature4Description": "Erleben Sie ein einzigartiges Golfabenteuer."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spiel Kommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

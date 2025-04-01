@@ -1,0 +1,77 @@
+{
+  "golf-orbit": {
+    "title": "Jouer à Golf Orbit en ligne - Jeu de simulateur de golf passionnant",
+    "slogan": "Lancez des balles de golf vers Mars dans cette aventure unique",
+    "description": "Golf Orbit est un jeu de simulation de golf passionnant où vous visez à lancer des balles de golf à des hauteurs incroyables, en atteignant même Mars. Profitez de batailles de golf en un seul coup, terminez des niveaux difficiles et maîtrisez le coup parfait. Concentrez-vous pour devenir le roi du golf dans cette aventure de golf unique et divertissante. Jouez à Golf Orbit maintenant gratuitement !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens utiles",
+      "articleList": "Liste d'articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Golf Orbit",
+      "description": "Découvrez le frisson de lancer des balles de golf vers Mars dans Golf Orbit. Maîtrisez le coup parfait et devenez le roi du golf.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Golf Orbit",
+      "whatIsTitle": "Qu'est-ce que Golf Orbit ?",
+      "whatIsDescription": "Golf Orbit est un jeu de simulation de golf passionnant où vous visez à lancer des balles de golf à des hauteurs incroyables, en atteignant même Mars.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Visez soigneusement votre coup pour lancer la balle de golf.",
+      "howToPlayStep2": "Terminez des niveaux difficiles pour progresser.",
+      "howToPlayStep3": "Concentrez-vous pour devenir le roi du golf.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Batailles en un seul coup",
+      "feature1Description": "Participez à des batailles de golf passionnantes en un seul coup.",
+      "feature2Title": "Niveaux stimulants",
+      "feature2Description": "Terminez une variété de niveaux stimulants.",
+      "feature3Title": "Maîtrise du coup parfait",
+      "feature3Description": "Maîtrisez l'art du coup parfait.",
+      "feature4Title": "Une aventure de golf unique",
+      "feature4Description": "Découvrez une aventure de golf unique."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}
