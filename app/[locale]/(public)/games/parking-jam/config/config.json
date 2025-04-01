@@ -1,0 +1,120 @@
+{
+  "name": "Parking Jam",
+  "pagePath": "/games/parking-jam",
+  "pageName": "parking-jam",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.crazygames.com/embed/parking-jam-dqq",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "CosmicLeviathan87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicLeviathan87.png",
+      "content": "Parking Jam is so addictive! The way you have to plan each move to untangle the parking lot is both satisfying and challenging. Love it!"
+    },
+    {
+      "author": "NeonKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonKatana_X.png",
+      "content": "Just started playing Parking Jam and I’m already hooked! The puzzles get tricky fast, but it’s so rewarding when you finally clear the way."
+    },
+    {
+      "author": "PhantomRevolver99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomRevolver99.png",
+      "content": "Who knew moving cars around could be this fun? Parking Jam keeps me coming back for more with its clever level design."
+    },
+    {
+      "author": "SavagePhoenix42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavagePhoenix42.png",
+      "content": "Parking Jam is a brain-teaser that’s perfect for quick breaks. The increasing complexity keeps things interesting!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "This game is harder than it looks! Parking Jam makes you think outside the box to solve each puzzle. Love the challenge!"
+    },
+    {
+      "author": "StalkingKraken_Prime",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken_Prime.png",
+      "content": "Parking Jam is a great way to test your logic skills. The more cars you have to move, the more satisfying it is to solve!"
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "Love how Parking Jam makes you strategize every move. It’s simple yet incredibly engaging. Highly recommend!"
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "Parking Jam is the perfect puzzle game for my commute. It’s quick, fun, and keeps my brain sharp. Totally worth it!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Who would’ve thought parking cars could be this intense? Parking Jam is a blast—definitely give it a try!"
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "Parking Jam is surprisingly fun! The levels get harder, but it’s so satisfying when you figure out the right order to move the cars."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743497662291-aibttm.avif",
+  "page_path": "/games/parking-jam",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Racing"
+  ],
+  "createdTime": "2025-04-01 16:54:47"
+}

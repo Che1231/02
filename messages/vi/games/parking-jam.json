@@ -1,0 +1,77 @@
+{
+  "parking-jam": {
+    "title": "Tắc đường đỗ xe: Phá rối câu đố và giải phóng xe cộ",
+    "slogan": "Thử thách logic của bạn trong Tắc đường đỗ xe",
+    "description": "Tắc đường đỗ xe là một trò chơi giải đố đầy thách thức, nơi bạn phải giải phóng một bãi đỗ xe đông đúc một chiếc xe một lúc. Sử dụng logic và kỹ năng giải quyết vấn đề của bạn để di chuyển phương tiện theo thứ tự đúng, mở đường mà không gây ra hỗn loạn. Mỗi cấp độ, bạn sẽ phải giải quyết những câu đố ngày càng phức tạp với nhiều xe hơn và những trở ngại khó khăn. Chơi Tắc đường đỗ xe ngay bây giờ và thử thách kỹ năng của bạn!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Điều hướng"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Tắc đường đỗ xe",
+      "description": "Tắc đường đỗ xe là một trò chơi giải đố đầy thách thức, nơi bạn phải giải phóng một bãi đỗ xe đông đúc một chiếc xe một lúc. Sử dụng logic và kỹ năng giải quyết vấn đề của bạn để di chuyển phương tiện theo thứ tự đúng, mở đường mà không gây ra hỗn loạn. Mỗi cấp độ, bạn sẽ phải giải quyết những câu đố ngày càng phức tạp với nhiều xe hơn và những trở ngại khó khăn.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào bộ nhớ đệm!",
+      "downloadGame": "Tải xuống trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Tắc đường đỗ xe",
+      "whatIsTitle": "Tắc đường đỗ xe là gì?",
+      "whatIsDescription": "Tắc đường đỗ xe là một trò chơi giải đố đầy thách thức, nơi bạn phải giải phóng một bãi đỗ xe đông đúc một chiếc xe một lúc. Sử dụng logic và kỹ năng giải quyết vấn đề của bạn để di chuyển phương tiện theo thứ tự đúng, mở đường mà không gây ra hỗn loạn.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Di chuyển xe theo thứ tự đúng để mở đường.",
+      "howToPlayStep2": "Sử dụng logic để tránh gây ra hỗn loạn trong bãi đỗ xe.",
+      "howToPlayStep3": "Hoàn thành các cấp độ ngày càng phức tạp với nhiều xe và trở ngại hơn.",
+      "keyFeaturesTitle": "Tính năng chính",
+      "feature1Title": "Câu đố đầy thách thức",
+      "feature1Description": "Giải quyết các tình huống đỗ xe phức tạp để thử thách kỹ năng giải quyết vấn đề của bạn.",
+      "feature2Title": "Độ khó ngày càng tăng",
+      "feature2Description": "Mỗi cấp độ giới thiệu thêm nhiều xe và trở ngại khó khăn hơn.",
+      "feature3Title": "Gameplay dựa trên logic",
+      "feature3Description": "Sử dụng logic của bạn để di chuyển phương tiện theo thứ tự đúng.",
+      "feature4Title": "Trải nghiệm thú vị",
+      "feature4Description": "Tận hưởng trải nghiệm trò chơi giải đố thú vị và đầy thử thách."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

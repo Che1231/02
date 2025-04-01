@@ -1,0 +1,75 @@
+{
+  "parking-jam": {
+    "title": "Embouteillage de stationnement : Débrouillez l'énigme et libérez les voitures",
+    "slogan": "Relevez le défi logique d'Embouteillage de stationnement",
+    "description": "Embouteillage de stationnement est un jeu de puzzle stimulant où vous démêlez un parking bondé, une voiture à la fois. Utilisez votre logique et vos compétences en résolution de problèmes pour déplacer les véhicules dans le bon ordre, en dégageant le chemin sans causer de chaos. À chaque niveau, affrontez des énigmes de plus en plus complexes, remplies de plus de voitures et d'obstacles délicats. Jouez à Embouteillage de stationnement dès maintenant et testez vos compétences !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navig.",
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste d'articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Embouteillage de stationnement",
+      "description": "Embouteillage de stationnement est un jeu de puzzle stimulant où vous démêlez un parking bondé, une voiture à la fois. Utilisez votre logique et vos compétences en résolution de problèmes pour déplacer les véhicules dans le bon ordre, en dégageant le chemin sans causer de chaos.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Embouteillage de stationnement",
+      "whatIsTitle": "Qu'est-ce qu'Embouteillage de stationnement ?",
+      "whatIsDescription": "Embouteillage de stationnement est un jeu de puzzle stimulant où vous démêlez un parking bondé, une voiture à la fois. Utilisez votre logique et vos compétences en résolution de problèmes pour déplacer les véhicules dans le bon ordre, en dégageant le chemin sans causer de chaos.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Déplacez les voitures dans le bon ordre pour dégager le chemin.",
+      "howToPlayStep2": "Utilisez la logique pour éviter de créer du chaos dans le parking.",
+      "howToPlayStep3": "Réalisez des niveaux de plus en plus complexes avec plus de voitures et d'obstacles.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Des puzzles stimulants",
+      "feature1Description": "Affrontez des situations de stationnement complexes qui mettent vos compétences en résolution de problèmes à l'épreuve.",
+      "feature2Title": "Difficulté croissante",
+      "feature2Description": "Chaque niveau introduit plus de voitures et d'obstacles délicats.",
+      "feature3Title": "Gameplay basé sur la logique",
+      "feature3Description": "Utilisez votre logique pour déplacer les véhicules dans le bon ordre.",
+      "feature4Title": "Expérience captivante",
+      "feature4Description": "Profitez d'une expérience de jeu de puzzle divertissante et stimulante."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

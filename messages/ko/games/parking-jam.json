@@ -1,0 +1,77 @@
+{
+  "parking-jam": {
+    "title": "주차 정체: 퍼즐을 풀고 차들을 해방시키세요",
+    "slogan": "주차 정체에서 논리를 시험해보세요",
+    "description": "주차 정체는 혼잡한 주차장에서 한 대의 차씩 풀어나가는 난이도 높은 퍼즐 게임입니다. 논리와 문제 해결 능력을 활용하여 차량을 올바른 순서대로 이동시켜 혼란 없이 길을 확보하세요. 각 레벨에서 더 많은 차량과 까다로운 장애물로 구성된 점점 복잡해지는 퍼즐에 도전해보세요. 지금 주차 정체를 플레이하고 능력을 테스트해보세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "내용",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "주차 정체",
+      "description": "주차 정체는 혼잡한 주차장에서 한 대의 차씩 풀어나가는 난이도 높은 퍼즐 게임입니다. 논리와 문제 해결 능력을 활용하여 차량을 올바른 순서대로 이동시켜 혼란 없이 길을 확보하세요. 각 레벨에서 더 많은 차량과 까다로운 장애물로 구성된 점점 복잡해지는 퍼즐에 도전해보세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "주차 정체",
+      "whatIsTitle": "주차 정체는 무엇인가요?",
+      "whatIsDescription": "주차 정체는 혼잡한 주차장에서 한 대의 차씩 풀어나가는 난이도 높은 퍼즐 게임입니다. 논리와 문제 해결 능력을 활용하여 차량을 올바른 순서대로 이동시켜 혼란 없이 길을 확보하세요.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "차량을 올바른 순서대로 이동하여 길을 확보하세요.",
+      "howToPlayStep2": "주차장에서 혼란이 발생하지 않도록 논리를 활용하세요.",
+      "howToPlayStep3": "더 많은 차량과 장애물이 있는 점점 복잡한 레벨을 완료하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "도전적인 퍼즐",
+      "feature1Description": "문제 해결 능력을 시험하는 복잡한 주차 시나리오에 도전하세요.",
+      "feature2Title": "점점 어려워지는 난이도",
+      "feature2Description": "각 레벨마다 더 많은 차량과 까다로운 장애물이 추가됩니다.",
+      "feature3Title": "논리 기반 게임 플레이",
+      "feature3Description": "올바른 순서대로 차량을 이동하기 위해 논리를 활용하세요.",
+      "feature4Title": "몰입형 경험",
+      "feature4Description": "재미있고 도전적인 퍼즐 게임 경험을 즐기세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

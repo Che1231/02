@@ -1,0 +1,77 @@
+{
+  "parking-jam": {
+    "title": "Parking Jam: Untangle the Puzzle and Free the Cars",
+    "slogan": "Challenge Your Logic in Parking Jam",
+    "description": "Parking Jam is a challenging puzzle game where you untangle a crowded parking lot one car at a time. Use your logic and problem-solving skills to move vehicles in the correct order, clearing the way without causing chaos. With each level, tackle increasingly complex puzzles filled with more cars and tricky obstacles. Play Parking Jam now and test your skills!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Parking Jam",
+      "description": "Parking Jam is a challenging puzzle game where you untangle a crowded parking lot one car at a time. Use your logic and problem-solving skills to move vehicles in the correct order, clearing the way without causing chaos. With each level, tackle increasingly complex puzzles filled with more cars and tricky obstacles.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Parking Jam",
+      "whatIsTitle": "What is Parking Jam?",
+      "whatIsDescription": "Parking Jam is a challenging puzzle game where you untangle a crowded parking lot one car at a time. Use your logic and problem-solving skills to move vehicles in the correct order, clearing the way without causing chaos.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Move cars in the correct order to clear the path.",
+      "howToPlayStep2": "Use logic to avoid causing chaos in the parking lot.",
+      "howToPlayStep3": "Complete increasingly complex levels with more cars and obstacles.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Challenging Puzzles",
+      "feature1Description": "Tackle complex parking scenarios that test your problem-solving skills.",
+      "feature2Title": "Increasing Difficulty",
+      "feature2Description": "Each level introduces more cars and tricky obstacles.",
+      "feature3Title": "Logic-Based Gameplay",
+      "feature3Description": "Use your logic to move vehicles in the correct order.",
+      "feature4Title": "Engaging Experience",
+      "feature4Description": "Enjoy a fun and challenging puzzle game experience."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "parking-jam": {
+    "title": "Kemacetan Parkir: Entangkan Teka-teki dan Bebaskan Mobil",
+    "slogan": "Tantang Logika Anda di Kemacetan Parkir",
+    "description": "Kemacetan Parkir adalah permainan teka-teki yang menantang di mana Anda harus menyelesaikan kemacetan lahan parkir yang penuh sesak satu mobil pada satu waktu. Gunakan logika dan kemampuan pemecahan masalah Anda untuk memindahkan kendaraan dalam urutan yang benar, membuka jalan tanpa menyebabkan kekacauan. Pada setiap level, selesaikan teka-teki yang semakin kompleks dengan lebih banyak mobil dan rintangan yang rumit. Mainkan Kemacetan Parkir sekarang dan uji kemampuan Anda!",
+    "Loading": {
+      "title": "Memuat..."
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Kemacetan Parkir",
+      "description": "Kemacetan Parkir adalah permainan teka-teki yang menantang di mana Anda harus menyelesaikan kemacetan lahan parkir yang penuh sesak satu mobil pada satu waktu. Gunakan logika dan kemampuan pemecahan masalah Anda untuk memindahkan kendaraan dalam urutan yang benar, membuka jalan tanpa menyebabkan kekacauan.",
+      "iframeTitle": "Pratinjau Permainan",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke papan klip!",
+      "downloadGame": "Unduh Permainan",
+      "playGame": "Mainkan Permainan"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Kemacetan Parkir",
+      "whatIsTitle": "Apa Itu Kemacetan Parkir?",
+      "whatIsDescription": "Kemacetan Parkir adalah permainan teka-teki yang menantang di mana Anda harus menyelesaikan kemacetan lahan parkir yang penuh sesak satu mobil pada satu waktu. Gunakan logika dan kemampuan pemecahan masalah Anda untuk memindahkan kendaraan dalam urutan yang benar, membuka jalan tanpa menyebabkan kekacauan.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Pindahkan mobil dalam urutan yang benar untuk membuka jalan.",
+      "howToPlayStep2": "Gunakan logika untuk menghindari kekacauan di lahan parkir.",
+      "howToPlayStep3": "Selesaikan level yang semakin kompleks dengan lebih banyak mobil dan rintangan.",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Teka-Teki yang Menantang",
+      "feature1Description": "Hadapi skenario parkir yang kompleks yang menguji kemampuan pemecahan masalah Anda.",
+      "feature2Title": "Tingkat Kesulitan yang Meningkat",
+      "feature2Description": "Setiap level memperkenalkan lebih banyak mobil dan rintangan yang rumit.",
+      "feature3Title": "Gameplay Berbasis Logika",
+      "feature3Description": "Gunakan logika Anda untuk memindahkan kendaraan dalam urutan yang benar.",
+      "feature4Title": "Pengalaman yang Menarik",
+      "feature4Description": "Nikmati pengalaman permainan teka-teki yang menyenangkan dan menantang."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Permainan"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Permainan",
+      "description": "Semua Permainan",
+      "games": "Permainan"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Lebih Banyak",
+      "page": "Halaman"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Parking Jam is a challenging puzzle game where you untangle a crowded parking lot one car at a time. Use your logic and problem-solving skills to move vehicles in the correct order, clearing the way without causing chaos. With each level, tackle increasingly complex puzzles filled with more cars and tricky obstacles.
