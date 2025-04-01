@@ -1,0 +1,1 @@
+Assault Bots (previously Bot Machines) is an excellent real-time multiplayer vehicle battle game made by Blayze Games. Choose from an array of weapons, jump into the battlefield, and obliterate your opponents. Blayze games also make Bullet Force, Plated Glory, and more highly popular games!
