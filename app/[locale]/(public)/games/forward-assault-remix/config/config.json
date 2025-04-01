@@ -1,0 +1,120 @@
+{
+  "name": "Forward Assault Remix",
+  "pagePath": "/games/forward-assault-remix",
+  "pageName": "forward-assault-remix",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.crazygames.com/embed/forward-assault",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "NeonPhoenix87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonPhoenix87.png",
+      "content": "This game just turned my life upside down! The 3D graphics in Forward Assault Remix are mind-blowing. Can't stop playing!"
+    },
+    {
+      "author": "CosmicBlade-99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicBlade-99.png",
+      "content": "Incredible competitive matches on every corner, this game keeps me hooked! Love the clan system, it's like a family."
+    },
+    {
+      "author": "PhantomKatana42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomKatana42.png",
+      "content": "Wow, the competitive atmosphere is insane! Really feeling the adrenaline rush. This FPS experience is top-notch!"
+    },
+    {
+      "author": "CrazyReaper",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CrazyReaper.png",
+      "content": "Can't believe how polished this game is. Seriously amazing graphics and thrilling combat. It’s better than anything I’ve tried!"
+    },
+    {
+      "author": "SavageBroadsword_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBroadsword_X.png",
+      "content": "Got so much action in one place, no BS. Forward Assault Remix really packs a punch. Best browser game ever!"
+    },
+    {
+      "author": "LootGoblinXxxviii",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LootGoblinXxxviii.png",
+      "content": "Absolutely loving the clan feature—feels like being part of something. The game is super engaging too!"
+    },
+    {
+      "author": "StalkingGriffin81",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingGriffin81.png",
+      "content": "Is this what heaven feels like? So smooth, the online play is just perfect! Highly recommend to any FPS fan."
+    },
+    {
+      "author": "CtrlAltDefeating",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeating.png",
+      "content": "No words can describe this game—superb graphics and tight gameplay make it a blast! Great job devs!"
+    },
+    {
+      "author": "LagWarrior34",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarrior34.png",
+      "content": "So much fun with clans and intense matches. Not gonna lie, Forward Assault Remix made my day better."
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "What an adrenaline rush! Love the high-stakes competition that Forward Assault Remix offers. Keep up the great work!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743495651666-hk1m4l.avif",
+  "page_path": "/games/forward-assault-remix",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Shooting"
+  ],
+  "createdTime": "2025-04-01 16:20:52"
+}

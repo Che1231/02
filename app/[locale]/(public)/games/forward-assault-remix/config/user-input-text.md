@@ -1,0 +1,1 @@
+Forward Assault Remix is an exhilarating first-person shooter game from the developers of Bullet Force. This game stands out with fantastic 3D graphics, competitive games, and a fully-fledged clan system. Lock and load for a highly competitive online FPS game in your web browser!
