@@ -1,0 +1,1 @@
+Together with your friend, you must save the Sprunki characters from the rising lava. You must be very careful. The lava is rising, and youre in danger. Escape the lava with 6 different characters and jump as high as you can. An endless jumping and lava escape awaits you. Collect all the music notes along the way. You need the music notes.

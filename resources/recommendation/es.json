@@ -3,7 +3,7 @@
     "title": "Weaver Game (Weaver Game)",
     "cover": "https://images.1games.io/cache/game/weaver-game/weavergame1-m200x130.webp",
     "url": "/games/weaver-game",
-    "category": "Juego de Tejer",
+    "category": "",
     "visible": true
   },
   {
@@ -108,7 +108,7 @@
     "title": "Dino Game (Dino Game)",
     "cover": "https://images.1games.io/cache/game/dino-game/dino-game-m200x130.webp",
     "url": "/games/dino-game",
-    "category": "Juego de Dinosaurios",
+    "category": "",
     "visible": true
   },
   {
@@ -129,7 +129,7 @@
     "title": "Rocket Game (Rocket Game)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743306210305-l4d44.png",
     "url": "/games/rocket-game",
-    "category": "Juego de Cohetes",
+    "category": "",
     "visible": true
   },
   {
@@ -192,7 +192,7 @@
     "title": "Dinosaur Game (Dinosaur Game)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743307427396-uhgrn.png",
     "url": "/games/dinosaur-game",
-    "category": "Juego de Dinosaurios",
+    "category": "",
     "visible": true
   },
   {
@@ -707,7 +707,7 @@
     "visible": true
   },
   {
-    "title": "Papa’s Taco Mia (Papa’s Taco Mia)",
+    "title": "Papa's Taco Mia (Papa's Taco Mia)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743322933137-hvgqv.png",
     "url": "/games/papa-s-taco-mia",
     "category": "",
@@ -1193,6 +1193,13 @@
     "title": "Apocalypse Rush (Apocalypse Rush)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743519341110-5izh6d.jpg",
     "url": "/games/apocalypse-rush",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Sprunki Lava Escape 2Player (Sprunki Lava Escape 2Player)",
+    "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743519509799-1vq65.jpg",
+    "url": "/games/sprunki-lava-escape-2player",
     "category": "",
     "visible": true
   }
