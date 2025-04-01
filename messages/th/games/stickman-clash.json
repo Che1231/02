@@ -1,0 +1,77 @@
+{
+  "stickman-clash": {
+    "title": "Stickman Clash: เกมต่อสู้แอ็คชันออนไลน์ฟรี",
+    "slogan": "ร่วมสนุกกับการต่อสู้ Stickman ที่ตื่นเต้นเร้าใจ",
+    "description": "Stickman Clash เป็นเกมต่อสู้แอ็คชันที่รวดเร็ว ซึ่งคุณสามารถต่อสู้ในฐานะนักรบ Stickman ด้วยอาวุธสุดตื่นเต้น  สัมผัสกับสนามรบแบบไดนามิกเอาชนะคู่ต่อสู้ และแสดงทักษะของคุณ  ด้วยการกระทำที่น่าสนใจและกลไกที่ท้าทาย Stickman Clash จะทำให้คุณติดใจขณะที่คุณมุ่งมั่นที่จะเป็นแชมป์สูงสุด เล่น Stickman Clash ฟรีตอนนี้!",
+    "Loading": {
+      "title": "กำลังโหลด..."
+    },
+    "Navbar": {
+      "title": "นำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์มิตรภาพ",
+      "articleList": "รายการบทความ",
+      "home": "หน้าแรก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "Stickman Clash",
+      "description": "เข้าร่วมโลกการต่อสู้ที่เต็มไปด้วยการกระทำของ Stickman Clash และต่อสู้เพื่อชัยชนะของคุณ",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ลงในคลิปบอร์ดเรียบร้อยแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Stickman Clash",
+      "whatIsTitle": "Stickman Clash คืออะไร?",
+      "whatIsDescription": "Stickman Clash เป็นเกมต่อสู้แอ็คชันที่ตื่นเต้นเร้าใจ คุณจะต่อสู้ในฐานะนักรบ Stickman ด้วยอาวุธหลากหลายชนิด",
+      "howToPlayTitle": "วิธีการเล่น",
+      "howToPlayStep1": "เลือกนักรบ Stickman และอาวุธของคุณ",
+      "howToPlayStep2": "เข้าร่วมการต่อสู้ที่รวดเร็วในสนามรบแบบไดนามิก",
+      "howToPlayStep3": "เอาชนะคู่ต่อสู้และกลายเป็นแชมป์ Stickman สูงสุด!",
+      "keyFeaturesTitle": "คุณสมบัติสำคัญ",
+      "feature1Title": "สนามรบแบบไดนามิก",
+      "feature1Description": "ต่อสู้ในสนามรบที่เปลี่ยนแปลงตลอดเวลาเพื่อความสดใหม่ในการต่อสู้",
+      "feature2Title": "อาวุธที่น่าตื่นเต้น",
+      "feature2Description": "ติดอาวุธให้กับตัวเองด้วยอาวุธหลากหลายชนิดเพื่อเอาชนะคู่ต่อสู้ของคุณ",
+      "feature3Title": "กลไกการเล่นเกมที่ท้าทาย",
+      "feature3Description": "ฝึกฝนกลไกการเล่นเกมเพื่อให้กลายเป็นแชมป์สูงสุด",
+      "feature4Title": "การต่อสู้ที่รวดเร็ว",
+      "feature4Description": "สัมผัสกับการต่อสู้ที่เข้มข้นซึ่งทำให้คุณลุ้นระทึก"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "เกมแนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นของผู้เล่น"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกมทั้งหมด"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

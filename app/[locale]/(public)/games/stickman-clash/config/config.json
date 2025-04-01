@@ -1,0 +1,120 @@
+{
+  "name": "Stickman Clash",
+  "pagePath": "/games/stickman-clash",
+  "pageName": "stickman-clash",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://games.crazygames.com/en_US/stickman-clash/index.html?v=1.328",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomKraken42.png",
+      "content": "Stickman Clash is totally awesome! The combat is super fast-paced, and I can't stop playing. It's so addictive!"
+    },
+    {
+      "author": "SavageKatana_99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatana_99.png",
+      "content": "Whoa, the arenas are so dynamic in this game! Really enjoying Stickman Clash. A great game for killing time and showing off our skills!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "This game is pretty fun, that combat is what hooked me from the first go. You gotta try Stickman Clash, trust me!"
+    },
+    {
+      "author": "NoobMaster87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster87.png",
+      "content": "The action in Stickman Clash is insane! Best action battle game I've played in a while. Definitely recommend it."
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "This game got me hooked. Fast-paced combat? Check! And the skills you can show off are brilliant. Give Stickman Clash a try!"
+    },
+    {
+      "author": "NeonPhoenix99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonPhoenix99.png",
+      "content": "The weapons are cool, but the action in Stickman Clash is what makes the game. Loving it so far!"
+    },
+    {
+      "author": "StalkingLeviathan_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingLeviathan_X.png",
+      "content": "Outsmarting opponents is the best part! Fun and challenging mechanics. This game keeps me glued to my phone. Play Stickman Clash now!"
+    },
+    {
+      "author": "BroadswordB0ss",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/BroadswordB0ss.png",
+      "content": "This game is pure chaos. It's challenging and engaging, but I'm a total noob! Still, it is the perfect game for showing some skills."
+    },
+    {
+      "author": "CtrlAltDefeat_00",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat_00.png",
+      "content": "Man, Stickman Clash is so freakin' addictive! I'm always striving to be the ultimate champion--it's what keeps me playing."
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "The combat is nuts, it's a crazy game! Those dynamic arenas are where it's at. The game is Stickman Clash!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743486527778-smmhke.avif",
+  "page_path": "/games/stickman-clash",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Action"
+  ],
+  "createdTime": "2025-04-01 13:48:51"
+}
