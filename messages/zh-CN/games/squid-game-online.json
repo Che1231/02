@@ -1,0 +1,77 @@
+{
+  "squid-game-online": {
+    "title": "《鱿鱼游戏》在线版 - 免费多人生存游戏",
+    "slogan": "挑战自我，赢得奖励",
+    "description": "沉浸在《鱿鱼游戏》在线版引人入胜的多人生存游戏中，这款免费多人游戏受到了热门Netflix节目的启发。与30名玩家一起参加7个紧张刺激的小游戏。任何挑战失败，都会被粉色士兵淘汰。立即体验《鱿鱼游戏》在线版带来的刺激、策略和悬念！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一步",
+      "previous": "上一步"
+    },
+    "HomeIframe": {
+      "title": "《鱿鱼游戏》在线版™",
+      "description": "玩《鱿鱼游戏》在线版，终极多人生存游戏。与30名玩家一起参加 7 个小游戏。挑战自我并躲避粉色士兵的淘汰。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL 已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "《鱿鱼游戏》在线版™",
+      "whatIsTitle": "《鱿鱼游戏》在线版是什么？",
+      "whatIsDescription": "《鱿鱼游戏》在线版是一款免费多人生存游戏，您将与 30 名玩家一起参加 7 个小游戏。该游戏灵感来源于 Netflix 节目，考验您的技能、策略和生存能力。",
+      "howToPlayTitle": "如何玩游戏",
+      "howToPlayStep1": "加入包含 30 名玩家的游戏。",
+      "howToPlayStep2": "参加 7 个具有挑战性的小游戏。",
+      "howToPlayStep3": "完成所有挑战即可获胜。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "多人生存",
+      "feature1Description": "实时与 30 名玩家竞争。",
+      "feature2Title": "7 个小游戏",
+      "feature2Description": "在 7 个独特挑战中测试您的技能。",
+      "feature3Title": "粉色士兵",
+      "feature3Description": "避免被粉色士兵淘汰。",
+      "feature4Title": "免费游戏",
+      "feature4Description": "免费畅玩，没有隐藏费用。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

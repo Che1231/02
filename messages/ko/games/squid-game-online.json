@@ -1,0 +1,77 @@
+{
+  "squid-game-online": {
+    "title": "스쿼드 게임 온라인 - 무료 멀티플레이 서바이벌 게임",
+    "slogan": "도전을 이겨내고 상을 차지하세요",
+    "description": "스쿼드 게임 온라인의 짜릿한 세계로 뛰어들어 보세요. 무료 멀티플레이 서바이벌 게임으로, 바이럴 넷플릭스 시리즈를 모티브로 30명의 플레이어와 7가지 강렬한 미니게임을 즐겨보세요. 어떤 도전에서든 실패하면 핑크 병사에게 제거될 것입니다. 오늘 스쿼드 게임 온라인의 흥분, 전략, 그리고 긴장감을 경험하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "스쿼드 게임 온라인™",
+      "description": "최고의 멀티플레이 서바이벌 게임인 스쿼드 게임 온라인을 플레이하세요. 30명의 플레이어와 7개의 미니게임에서 경쟁하고, 도전을 극복하고 핑크 병사로부터 제거되는 것을 피하세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "스쿼드 게임 온라인™",
+      "whatIsTitle": "스쿼드 게임 온라인이란 무엇인가요?",
+      "whatIsDescription": "스쿼드 게임 온라인은 30명의 플레이어와 7개의 미니게임에서 경쟁하는 무료 멀티플레이 서바이벌 게임입니다. 넷플릭스 시리즈를 모티브로 하여 실력, 전략, 그리고 생존력을 시험하는 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "30명의 플레이어와 함께 게임에 참여하세요.",
+      "howToPlayStep2": "7개의 난이도 높은 미니게임에서 경쟁하세요.",
+      "howToPlayStep3": "모든 도전 과제를 성공적으로 완료하여 승리하세요.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "멀티플레이 서바이벌",
+      "feature1Description": "실시간으로 30명의 플레이어와 경쟁하세요.",
+      "feature2Title": "7가지 미니게임",
+      "feature2Description": "7가지 독특한 도전 과제에서 실력을 테스트해 보세요.",
+      "feature3Title": "핑크 병사",
+      "feature3Description": "핑크 병사에 의한 제거를 피하세요.",
+      "feature4Title": "무료 게임",
+      "feature4Description": "숨겨진 비용 없이 무료로 게임을 즐겨보세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리를 찾을 수 없습니다",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}
