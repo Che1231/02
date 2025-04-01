@@ -1,0 +1,1 @@
+Welcome to game Among Us Online Edition - game based on Among Us, but in this game you can play only solo and as imposter on the space ship. You can do sabotage on spaceship or killing them one by one and without being caught. Have a nice game!

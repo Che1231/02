@@ -1,0 +1,120 @@
+{
+  "name": "Among Us Online Edition",
+  "pagePath": "/games/among-us-online-edition",
+  "pageName": "among-us-online-edition",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://html5.gamemonetize.co/luye5rleios737wp2o9wjq7h577gl937/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken87.png",
+      "content": "This game is awesome! I love sabotaging the spaceship. Can't stop playing!"
+    },
+    {
+      "author": "AdjectiveBroadsword_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AdjectiveBroadsword_X.png",
+      "content": "Wow, killing crewmates one by one is so satisfying in this Among Us Online Edition style game."
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Is it just me, or is this solo imposter mode super addictive? Feeling like the Witcher of space!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Am I really this good at being the imposter? Maybe I'm not such a noob after all. Hehe!"
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "Killing them without getting caught is tough, but so much fun! Worth checking out if you like Among Us game."
+    },
+    {
+      "author": "Phant0mLeviathan42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Phant0mLeviathan42.png",
+      "content": "Yo, doing sabotage on the spaceship is crazily fun, i would play this 24/7!"
+    },
+    {
+      "author": "SavageRevolver_Variant",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageRevolver_Variant.png",
+      "content": "The tension is real when you try not to get caught, love the thrill!"
+    },
+    {
+      "author": "EldenRingFan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/EldenRingFan99.png",
+      "content": "This is kinda sus, I can always be the imposter here like what? lol."
+    },
+    {
+      "author": "ProGamerXpert",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/ProGamerXpert.png",
+      "content": "The solo imposter gameplay is pretty unique. A great game when you are alone!"
+    },
+    {
+      "author": "CosmicPhoenix_Z",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicPhoenix_Z.png",
+      "content": "What should I do lol, I accidentally killed two in a row and won right away!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743489376291-c14b55.jpg",
+  "page_path": "/games/among-us-online-edition",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Hot"
+  ],
+  "createdTime": "2025-04-01 14:37:24"
+}

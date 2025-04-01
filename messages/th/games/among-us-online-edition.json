@@ -1,0 +1,77 @@
+{
+  "among-us-online-edition": {
+    "title": "เล่น Among Us Online Edition - การผจญภัยคนเดียวในฐานะผู้ทรยศ",
+    "slogan": "วางระเบิด, ฆ่า, และรอดชีวิตในอวกาศ",
+    "description": "Among Us Online Edition มอบประสบการณ์ผู้ทรยศเดี่ยวที่น่าตื่นเต้นบนยานอวกาศ วางระเบิดระบบ ฆ่าลูกเรือ และหลีกเลี่ยงการถูกตรวจจับ สัมผัสกับเกมเพลย์ที่เข้มข้นของ Among Us Online Edition พร้อมความท้าทายที่ไม่เหมือนใคร ลงสนามและดูว่าคุณจะชนะได้หรือไม่!",
+    "Loading": {
+      "title": "กำลังโหลด Among Us Online Edition..."
+    },
+    "Navbar": {
+      "title": "นำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดในการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์ที่เป็นมิตร",
+      "articleList": "รายการบทความ",
+      "home": "หน้าแรก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "Among Us Online Edition",
+      "description": "สัมผัสกับความตื่นเต้นของการเป็นผู้ทรยศใน Among Us Online Edition วางระเบิด ฆ่า และเอาชีวิตรอดบนยานอวกาศ",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ลงในคลิปบอร์ดเรียบร้อยแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Among Us Online Edition",
+      "whatIsTitle": "Among Us Online Edition คืออะไร?",
+      "whatIsDescription": "Among Us Online Edition เป็นเกมผู้ทรยศเดี่ยวที่คุณวางระเบิดและฆ่าลูกเรือบนยานอวกาศ",
+      "howToPlayTitle": "วิธีการเล่น",
+      "howToPlayStep1": "วางระเบิดระบบเพื่อสร้างความวุ่นวาย",
+      "howToPlayStep2": "ฆ่าลูกเรือโดยไม่ให้ถูกจับ",
+      "howToPlayStep3": "รอดชีวิตและบรรลุภารกิจของคุณ",
+      "keyFeaturesTitle": "คุณสมบัติหลัก",
+      "feature1Title": "โหมดผู้ทรยศเดี่ยว",
+      "feature1Description": "เล่นเป็นผู้ทรยศคนเดียวในโหมดพิเศษนี้",
+      "feature2Title": "วางระเบิดระบบ",
+      "feature2Description": "ปิดการใช้งานระบบยานอวกาศเพื่อสร้างความสับสน",
+      "feature3Title": "การเล่นเกมลับ",
+      "feature3Description": "หลีกเลี่ยงการถูกตรวจจับขณะกำจัดลูกเรือ",
+      "feature4Title": "บรรยากาศที่เข้มข้น",
+      "feature4Description": "สัมผัสกับความตึงเครียดของการเป็นผู้ทรยศ"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นของผู้เล่น"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

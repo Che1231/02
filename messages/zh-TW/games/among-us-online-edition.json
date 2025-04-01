@@ -1,0 +1,77 @@
+{
+  "among-us-online-edition": {
+    "title": "線上 Among Us 版本 - 單人欺騙者冒險",
+    "slogan": "在太空中破壞、殺戮並生存",
+    "description": "Among Us 線上版本提供令人興奮的單人欺騙者體驗，在宇宙飛船上。破壞系統，消滅船員並避免被發現。享受 Among Us 線上版本獨特的挑戰，充滿緊張的遊戲體驗。找出您能否獲勝！",
+    "Loading": {
+      "title": "正在載入 Among Us 線上版本..."
+    },
+    "Navbar": {
+      "title": "導覽"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友善連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "Among Us 線上版本",
+      "description": "體驗在 Among Us 線上版本中擔任欺騙者的興奮感。在宇宙飛船上破壞、殺戮並生存。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "遊玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Among Us 線上版本",
+      "whatIsTitle": "什麼是 Among Us 線上版本？",
+      "whatIsDescription": "Among Us 線上版本是一款單人欺騙者遊戲，您可以在宇宙飛船上破壞並殺害船員。",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "破壞系統以造成混亂。",
+      "howToPlayStep2": "在不被抓到情況下殺害船員。",
+      "howToPlayStep3": "生存並完成您的任務。",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "單人欺騙者模式",
+      "feature1Description": "在此獨特模式中，單獨扮演欺騙者。",
+      "feature2Title": "破壞系統",
+      "feature2Description": "關閉船艦系統以製造干擾。",
+      "feature3Title": "隱密遊戲",
+      "feature3Description": "在消滅船員的同時避免被發現。",
+      "feature4Title": "緊張的氛圍",
+      "feature4Description": "體驗成為欺騙者的緊張感。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到分類",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "among-us-online-edition": {
+    "title": "언택트 우주 탐험: 솔로 임포스터 모드",
+    "slogan": "우주에서의 방해, 살인, 그리고 생존",
+    "description": "언택트 우주 탐험: 솔로 임포스터 모드는 우주선에서 펼쳐지는 짜릿한 솔로 임포스터 경험을 제공합니다. 시스템을 방해하고 승무원을 제거하고, 감지되지 않도록 주의해야 합니다. 언택트 우주 탐험: 솔로 임포스터 모드의 독특한 챌린지와 긴장감 넘치는 게임플레이를 즐겨보세요. 행동에 뛰어들어 승리할 수 있을지 확인해 보세요!",
+    "Loading": {
+      "title": "언택트 우주 탐험: 솔로 임포스터 모드 로딩..."
+    },
+    "Navbar": {
+      "title": "탐색 메뉴"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "언택트 우주 탐험: 솔로 임포스터 모드",
+      "description": "언택트 우주 탐험: 솔로 임포스터 모드에서 임포스터가 되는 짜릿함을 경험하세요. 우주선에서 방해, 살인, 그리고 생존을 경험해보세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "언택트 우주 탐험: 솔로 임포스터 모드",
+      "whatIsTitle": "언택트 우주 탐험: 솔로 임포스터 모드는 무엇인가요?",
+      "whatIsDescription": "언택트 우주 탐험: 솔로 임포스터 모드는 우주선에서 승무원을 방해하고 살해하는 솔로 임포스터 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "혼란을 야기하기 위해 시스템을 방해합니다.",
+      "howToPlayStep2": "발각되지 않고 승무원을 살해합니다.",
+      "howToPlayStep3": "생존하여 임무를 완료합니다.",
+      "keyFeaturesTitle": "핵심 기능",
+      "feature1Title": "솔로 임포스터 모드",
+      "feature1Description": "이 독특한 모드에서 혼자 임포스터로 플레이합니다.",
+      "feature2Title": "시스템 방해",
+      "feature2Description": "산만함을 유발하기 위해 선박 시스템을 비활성화합니다.",
+      "feature3Title": "은밀한 플레이",
+      "feature3Description": "승무원을 제거하면서 감시를 피합니다.",
+      "feature4Title": "긴장감 넘치는 분위기",
+      "feature4Description": "임포스터가 되는 긴장감을 경험하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}
