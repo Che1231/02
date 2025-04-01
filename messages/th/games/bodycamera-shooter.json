@@ -1,0 +1,77 @@
+{
+  "bodycamera-shooter": {
+    "title": "BodyCamera Shooter: เกมยิง FPS ออนไลน์ฟรี",
+    "slogan": "สัมผัสประสบการณ์การเล่นเกมยิง FPS มุมมองบุคคลที่หนึ่งสมจริงสูง",
+    "description": "BodyCamera Shooter เป็นเกม FPS ที่ให้คุณลงลึกเข้าไปในศึกการต่อสู้  สัมผัสความตื่นเต้นของการต่อสู้ที่สมจริงในอาคารร้างและซากปรักหักพัง ด้วยกราฟิกที่สมจริงสูงและการควบคุมที่ใช้งานง่าย BodyCamera Shooter  มอบประสบการณ์การเล่นเกมที่ไม่เหมือนใครทั้งบนเบราว์เซอร์และโทรศัพท์ของคุณ เข้าสู่สนามรบตอนนี้และเพลิดเพลินไปกับการผจญภัย FPS ที่สุด!",
+    "Loading": {
+      "title": "กำลังโหลด..."
+    },
+    "Navbar": {
+      "title": "นำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์เพื่อน",
+      "articleList": "รายการบทความ",
+      "home": "หน้าหลัก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "BodyCamera Shooter",
+      "description": "สัมผัสการผจญภัย FPS ที่สุดกับ BodyCamera Shooter เข้าสู่สนามรบตอนนี้!",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ไปยังคลิปบอร์ดแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "BodyCamera Shooter",
+      "whatIsTitle": "BodyCamera Shooter คืออะไร?",
+      "whatIsDescription": "BodyCamera Shooter เป็นเกมยิง FPS ที่มุมมองกล้องติดตัวของคุณ จะพาคุณไปสัมผัสประสบการณ์ที่สมจริงผ่านอาคารร้างและซากปรักหักพัง  เพื่อยิงให้ตายหรือถูกยิงตาย",
+      "howToPlayTitle": "วิธีการเล่น",
+      "howToPlayStep1": "เคลื่อนที่ผ่านอาคารร้างและซากปรักหักพัง",
+      "howToPlayStep2": "ใช้ปืนของคุณกำจัดศัตรู",
+      "howToPlayStep3": "อยู่รอดและบรรลุเป้าหมายภารกิจ",
+      "keyFeaturesTitle": "คุณสมบัติสำคัญ",
+      "feature1Title": "กราฟิกสมจริงสูง",
+      "feature1Description": "สัมผัสประสบการณ์การเล่นเกมด้วยกราฟิกสมจริงสูงที่พาคุณเข้าสู่การกระทำ",
+      "feature2Title": "การควบคุมที่ใช้งานง่าย",
+      "feature2Description": "เพลิดเพลินไปกับการควบคุมที่ราบรื่นและใช้งานง่ายเพื่อประสบการณ์การเล่นเกมที่ราบรื่น",
+      "feature3Title": "การเล่นเกมที่ดื่มด่ำ",
+      "feature3Description": "ดื่มด่ำไปกับเกมด้วยมุมมองบุคคลที่หนึ่งผ่านกล้องติดตัว",
+      "feature4Title": "พร้อมใช้งานข้ามแพลตฟอร์ม",
+      "feature4Description": "เล่น BodyCamera Shooter ทั้งบนเบราว์เซอร์และโทรศัพท์ของคุณ"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นการเล่นเกม"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

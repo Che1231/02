@@ -1,0 +1,77 @@
+{
+  "bodycamera-shooter": {
+    "title": "ボディーカメラシューター：無料のオンラインFPSアクションゲーム",
+    "slogan": "超現実的な一人称シューティングゲーム体験",
+    "description": "ボディーカメラシューターは、アクションの中心にあなたを置く没入型のFPSゲームです。廃墟や瓦礫の中を、リアルな戦闘の興奮を体験してください。超現実的なグラフィックと直感的な操作で、ボディーカメラシューターは、ブラウザとスマートフォンですぐに独自のゲーム体験を提供します。戦場に入り、究極のFPSアドベンチャーをお楽しみください！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "ボディーカメラシューター",
+      "description": "ボディーカメラシューターで究極のFPSアドベンチャーを体験。今すぐ戦場に入ろう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ボディーカメラシューター",
+      "whatIsTitle": "ボディーカメラシューターとは？",
+      "whatIsDescription": "ボディーカメラシューターは、プレイヤーの戦闘員に固定されたボディーカメラからすべてを見ることができるFPSシューティングゲームです。廃墟や瓦礫の中を、かなりリアルな体験を通して、撃ち合うか、撃たれるか、を追求します。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "廃墟や瓦礫の中を移動する。",
+      "howToPlayStep2": "武器を使って敵を排除する。",
+      "howToPlayStep3": "生き残り、ミッション目標を達成する。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "超現実的なグラフィック",
+      "feature1Description": "超現実的なグラフィックで、ゲームに没頭できます。",
+      "feature2Title": "直感的な操作",
+      "feature2Description": "シームレスなゲーム体験のためのスムーズで直感的な操作を体験してください。",
+      "feature3Title": "没入型ゲーム体験",
+      "feature3Description": "ボディーカメラによる一人称視点でゲームに没頭してください。",
+      "feature4Title": "クロスプラットフォーム対応",
+      "feature4Description": "ブラウザとスマートフォンで、そのままボディーカメラシューターをプレイできます。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリ",
+      "noCategories": "カテゴリが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

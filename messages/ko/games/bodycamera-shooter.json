@@ -1,0 +1,77 @@
+{
+  "bodycamera-shooter": {
+    "title": "바디캠 슈터: 무료 온라인 FPS 액션 게임",
+    "slogan": "초현실적인 1인칭 슈팅 게임 플레이 경험",
+    "description": "바디캠 슈터는 액션의 중심에 당신을 놓는 몰입형 FPS 게임입니다. 버려진 건물과 잔해 속에서 현실적인 전투의 짜릿함을 경험하세요. 초현실적인 그래픽과 직관적인 컨트롤로 바디캠 슈터는 브라우저와 휴대폰에서 독특한 게임 경험을 제공합니다. 지금 전장에 참여하여 최고의 FPS 모험을 즐기세요!",
+    "Loading": {
+      "title": "로딩중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친선 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "바디캠 슈터",
+      "description": "바디캠 슈터로 최고의 FPS 모험을 경험하세요. 지금 전장에 참여하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "바디캠 슈터",
+      "whatIsTitle": "바디캠 슈터는 무엇인가요?",
+      "whatIsDescription": "바디캠 슈터는 전투원의 바디캠을 통해 모든 것을 보는 FPS 슈팅 게임입니다. 버려진 건물과 잔해 속에서 매우 현실적인 경험을 제공하며, 죽이거나 죽임을 당하는 것을 목표로 합니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "버려진 건물과 잔해를 탐색하세요.",
+      "howToPlayStep2": "무기를 사용하여 적을 제거하세요.",
+      "howToPlayStep3": "생존하고 임무 목표를 완료하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "초현실적인 그래픽",
+      "feature1Description": "액션에 몰입할 수 있도록 초현실적인 그래픽으로 게임을 경험하세요.",
+      "feature2Title": "직관적인 컨트롤",
+      "feature2Description": "매끄럽고 직관적인 컨트롤로 원활한 게임 경험을 즐기세요.",
+      "feature3Title": "몰입형 플레이",
+      "feature3Description": "바디캠을 통한 1인칭 시점으로 게임에 몰입하세요.",
+      "feature4Title": "다중 플랫폼 지원",
+      "feature4Description": "브라우저와 휴대폰에서 바디캠 슈터를 직접 플레이하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

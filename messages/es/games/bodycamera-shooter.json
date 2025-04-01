@@ -1,0 +1,77 @@
+{
+  "bodycamera-shooter": {
+    "title": "BodyCamera Shooter: Juego de acción FPS en línea gratuito",
+    "slogan": "Experimenta una jugabilidad de disparos en primera persona ultra realista",
+    "description": "BodyCamera Shooter es un juego FPS inmersivo que te coloca en el corazón de la acción. Experimenta la emoción de un combate realista a través de edificios abandonados y escombros. Con gráficos ultra realistas y controles intuitivos, BodyCamera Shooter ofrece una experiencia de juego única directamente en tu navegador y en tu teléfono. ¡Entra en el campo de batalla ahora y disfruta de la aventura FPS definitiva!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "BodyCamera Shooter",
+      "description": "¡Experimenta la aventura FPS definitiva con BodyCamera Shooter! ¡Entra en el campo de batalla ahora!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "BodyCamera Shooter",
+      "whatIsTitle": "¿Qué es BodyCamera Shooter?",
+      "whatIsDescription": "BodyCamera Shooter es un juego de disparos FPS donde ves todo desde una cámara corporal fijada en tu combatiente, llevándote a través de una experiencia bastante realista a través de edificios abandonados y escombros, con el objetivo de matar o ser asesinado.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Navega por edificios abandonados y escombros.",
+      "howToPlayStep2": "Usa tus armas para eliminar a los enemigos.",
+      "howToPlayStep3": "Sobrevive y completa los objetivos de la misión.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Gráficos ultra realistas",
+      "feature1Description": "Experimenta el juego con gráficos ultra realistas que te sumergen en la acción.",
+      "feature2Title": "Controles intuitivos",
+      "feature2Description": "Disfruta de controles suaves e intuitivos para una experiencia de juego perfecta.",
+      "feature3Title": "Jugabilidad inmersiva",
+      "feature3Description": "Sumérgete en el juego con una perspectiva en primera persona a través de una cámara corporal.",
+      "feature4Title": "Disponibilidad multiplataforma",
+      "feature4Description": "Juega a BodyCamera Shooter directamente en tu navegador y en tu teléfono."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}
