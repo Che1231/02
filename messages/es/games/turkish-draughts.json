@@ -1,0 +1,77 @@
+{
+  "turkish-draughts": {
+    "title": "Jugar a las Damas Turcas Online - Juego de Estrategia Gratis",
+    "slogan": "Experimenta los movimientos únicos horizontales y verticales",
+    "description": "Descubre el emocionante mundo de las Damas Turcas, un juego estratégico de tablero donde los movimientos y capturas se realizan horizontal y verticalmente. Con una disposición inicial única de 16 fichas en un tablero de 64 celdas, las Damas Turcas ofrecen un desafío fresco para los entusiastas de la estrategia. ¡Juega ahora y disfruta de este juego clásico con un toque!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Términos de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Damas Turcas",
+      "description": "Juega a las Damas Turcas en línea gratis. Disfruta de una experiencia única en el tablero de damas con movimientos horizontales y verticales.",
+      "iframeTitle": "Vista Previa del Juego",
+      "fullscreenButton": "Pantalla Completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar Juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Damas Turcas",
+      "whatIsTitle": "¿Qué son las Damas Turcas?",
+      "whatIsDescription": "Las Damas Turcas son un juego estratégico de tablero donde sus movimientos y capturas se realizan horizontal y verticalmente, ofreciendo un giro único a las damas tradicionales.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Coloca tus 16 fichas en las segundas y terceras horizontales del tablero de 64 celdas.",
+      "howToPlayStep2": "Mueve tus fichas horizontal o verticalmente para capturar las piezas de tu oponente.",
+      "howToPlayStep3": "Estudia estrategias para capturar todas las fichas del oponente o bloquear sus movimientos para ganar el juego.",
+      "keyFeaturesTitle": "Características Clave",
+      "feature1Title": "Movimiento Único",
+      "feature1Description": "Los movimientos y capturas se realizan horizontal y verticalmente, a diferencia de las damas tradicionales.",
+      "feature2Title": "Jugabilidad Estratégica",
+      "feature2Description": "Planifica tus movimientos cuidadosamente para desviar a tu oponente y ganar el juego.",
+      "feature3Title": "Tablero Clásico",
+      "feature3Description": "Juega en un tablero de 64 celdas con una disposición inicial única de las fichas.",
+      "feature4Title": "Gratis para Jugar",
+      "feature4Description": "Disfruta de las Damas Turcas en línea gratis, en cualquier momento y lugar."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas Frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del Juego"
+    },
+    "GamePage": {
+      "title": "Todos los Juegos",
+      "description": "Todos los Juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver Más",
+      "page": "Página"
+    }
+  }
+}

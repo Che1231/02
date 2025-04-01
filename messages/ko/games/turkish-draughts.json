@@ -1,0 +1,77 @@
+{
+  "turkish-draughts": {
+    "title": "터키 장기 온라인 플레이 - 무료 전략 게임",
+    "slogan": "독특한 수평 및 수직 이동 경험",
+    "description": "터키 장기의 흥미진진한 세계를 발견하세요. 수평 및 수직으로 이동 및 캡처가 이루어지는 전략적 보드 게임입니다. 64개의 칸 보드에 16개의 체커가 독특하게 배치되어 전략 애호가들에게 새로운 도전을 제공합니다. 지금 플레이하여 이 클래식 게임의 새로운 변화를 즐기세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "터키 장기",
+      "description": "무료로 터키 장기를 온라인으로 플레이하세요. 수평 및 수직 이동으로 독특한 체커보드 경험을 즐기세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "터키 장기",
+      "whatIsTitle": "터키 장기는 무엇인가요?",
+      "whatIsDescription": "터키 장기는 수평 및 수직 이동을 통해 이동 및 캡처가 이루어지는 전략적 보드 게임으로, 전통적인 장기에 독특한 변화를 제공합니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "64개 칸 보드의 두 번째와 세 번째 가로줄에 16개의 체커를 배치하세요.",
+      "howToPlayStep2": "수평 또는 수직으로 체커를 이동하여 상대방의 말을 캡처하세요.",
+      "howToPlayStep3": "상대방의 모든 말을 캡처하거나 그들의 이동을 막아 게임에서 승리하는 전략을 세우세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "독특한 이동",
+      "feature1Description": "전통적인 장기와 달리 수평 및 수직으로 이동 및 캡처가 이루어집니다.",
+      "feature2Title": "전략적 게임 플레이",
+      "feature2Description": "상대방을 제압하고 게임에서 승리하기 위해 이동을 신중하게 계획하세요.",
+      "feature3Title": "클래식 보드",
+      "feature3Description": "체커의 독특한 초기 배치가 있는 64개의 칸 보드에서 플레이하세요.",
+      "feature4Title": "무료 플레이",
+      "feature4Description": "언제 어디서나 무료로 터키 장기를 온라인으로 즐기세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 코멘트"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

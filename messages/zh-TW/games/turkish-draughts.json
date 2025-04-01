@@ -1,0 +1,77 @@
+{
+  "turkish-draughts": {
+    "title": "線上土耳其跳棋遊戲 - 免費策略遊戲",
+    "slogan": "體驗獨特的橫向和縱向移動",
+    "description": "探索土耳其跳棋的精彩世界，這是一款策略棋盤遊戲，水平和垂直移動以及棋子捕獲。棋盤上有 64 個格子，初始棋子佈局為 16 個，土耳其跳棋為策略愛好者提供了一個新的挑戰。現在就來玩，體驗這款經典遊戲的獨特玩法！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立時間",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "土耳其跳棋",
+      "description": "免費線上玩土耳其跳棋。體驗獨特的棋盤，並使用橫向和縱向移動進行棋子對戰。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "土耳其跳棋",
+      "whatIsTitle": "什麼是土耳其跳棋？",
+      "whatIsDescription": "土耳其跳棋是一款策略棋盤遊戲，棋子水平和垂直移動來進行捕獲，這在傳統跳棋中獨樹一格。",
+      "howToPlayTitle": "如何遊戲？",
+      "howToPlayStep1": "將 16 個棋子放置在 64 格棋盤的第二和第三橫排上。",
+      "howToPlayStep2": "水平或垂直移動棋子來捕獲對手的棋子。",
+      "howToPlayStep3": "策略性地捕獲所有對手棋子或封鎖他們的移動以獲勝。",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "獨特的移動方式",
+      "feature1Description": "棋子移動和捕獲方式是水平和垂直的，不同於傳統跳棋。",
+      "feature2Title": "策略性遊戲玩法",
+      "feature2Description": "仔細規劃您的動作以超越對手並獲勝。",
+      "feature3Title": "經典棋盤",
+      "feature3Description": "在 64 格棋盤上玩，擁有獨特的棋子初始佈局。",
+      "feature4Title": "免費遊戲",
+      "feature4Description": "隨時隨地免費線上玩土耳其跳棋。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到任何類別",
+      "viewMore": "檢視更多",
+      "page": "頁面"
+    }
+  }
+}

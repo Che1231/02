@@ -1,0 +1,77 @@
+{
+  "turkish-draughts": {
+    "title": "Jouer aux Dames Turques en Ligne - Jeu Stratégique Gratuit",
+    "slogan": "Découvrez les Déplacements Uniques Horizontaux et Verticaux",
+    "description": "Découvrez le monde passionnant des Dames Turques, un jeu d'échecs stratégique où les mouvements et les captures se font horizontalement et verticalement. Avec une disposition initiale unique de 16 pions sur un plateau de 64 cases, les Dames Turques offrent un nouveau défi aux amateurs de stratégie. Jouez maintenant et appréciez ce jeu classique avec une touche originale !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de Confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des Articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Dames Turques",
+      "description": "Jouez aux Dames Turques en ligne gratuitement. Vivez une expérience unique d'échecs avec des déplacements horizontaux et verticaux.",
+      "iframeTitle": "Aperçu du Jeu",
+      "fullscreenButton": "Plein Écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le Jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Dames Turques",
+      "whatIsTitle": "Qu'est-ce que les Dames Turques ?",
+      "whatIsDescription": "Les Dames Turques est un jeu d'échecs stratégique où les mouvements et les captures se font horizontalement et verticalement, offrant une variante unique des dames traditionnelles.",
+      "howToPlayTitle": "Comment Jouer",
+      "howToPlayStep1": "Placez vos 16 pions sur les deuxième et troisième lignes horizontales du plateau de 64 cases.",
+      "howToPlayStep2": "Déplacez vos pions horizontalement ou verticalement pour capturer les pions de votre adversaire.",
+      "howToPlayStep3": "Stratégisez pour capturer tous les pions adverses ou bloquer leurs mouvements pour remporter la partie.",
+      "keyFeaturesTitle": "Caractéristiques Clés",
+      "feature1Title": "Déplacements Uniques",
+      "feature1Description": "Les mouvements et les captures se font horizontalement et verticalement, contrairement aux dames traditionnelles.",
+      "feature2Title": "Jeu Stratégique",
+      "feature2Description": "Planifiez vos mouvements avec soin pour déjouer votre adversaire et remporter la partie.",
+      "feature3Title": "Plateau Classique",
+      "feature3Description": "Jouez sur un plateau de 64 cases avec une disposition initiale unique des pions.",
+      "feature4Title": "Jeu Gratuit",
+      "feature4Description": "Profitez des Dames Turques en ligne gratuitement, n'importe quand et n'importe où."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du Jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le Jeu"
+    },
+    "GamePage": {
+      "title": "Tous les Jeux",
+      "description": "Tous les Jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir Plus",
+      "page": "Page"
+    }
+  }
+}

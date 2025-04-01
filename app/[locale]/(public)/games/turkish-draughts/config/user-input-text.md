@@ -1,0 +1,1 @@
+The main feature is that moves and captures with checkers are made horizontally and vertically, and not diagonally, as in most popular types of checkers. Accordingly, the initial arrangement of checkers is different. On a 64-cell board, opponents place their 16 checkers on all cells of the second and third horizontals. 

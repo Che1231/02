@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Türkiye dama oyununda hamle yapmak için tahtanın nasıl kurulduğunu başlangıç seviyesinde nasıl yaparım?",
+    "answer": "Türkiye damalarında bir oyun kurmak için 8x8 dama tahtasına ihtiyacınız vardır. Her oyuncu, kendilerine en yakın ikinci ve üçüncü sıralara, koyu kareleri doldurarak 16 taşını yerleştirir. Örneğin, Oyuncu 1 taşlarını 1 ve 2. sıralara, Oyuncu 2 ise 7 ve 8. sıralara yerleştirir. Bu, her iki oyuncunun da stratejik konumlarda eşit sayıda parçayla başlamasını sağlar. [Uygulama kılavuzu]"
+  },
+  {
+    "question": "Türkiye dama oyununda temel hareket kuralları nelerdir?",
+    "answer": "Türkiye damalarında, taşlar, ileri veya yanlara bitişik koyu karelere, ancak çapraz olarak hareket etmezler. Örneğin, D4'teki bir taş, boş olan C4, D5 veya E4'e hareket edebilir. Yakalama, rakibin taşının üzerinden sıçrayarak hemen ardındaki kareye düşürülerek yapılır. Bu kural hem ileri hem de yanlara uygulanır. [Örnek gösterimi]"
+  },
+  {
+    "question": "Türkiye damalarında neden taşlar çapraz hareket edemez?",
+    "answer": "Türkiye damaları, diğer dama türlerinden farklı olarak, taşların yalnızca ileri ve yanlara doğru hareket etmesine, çapraz olarak hareket etmesine izin vermez. Bu benzersiz kural, oyuncuların hamlelerini daha dikkatli bir şekilde planlamaları gerektiğinden strateji katmanı ekler. Örneğin, E5'teki bir taş, diğer dama oyunlarında mümkün olabilecek D6 veya F6'ya hareket edemez. Bu kısıtlama, oyuncuların konumlandırma ve yakalama hakkında farklı düşünmelerini teşvik eder. [Karşılaştırma tablosu]"
+  },
+  {
+    "question": "100 saatlik oyun deneyiminden sonra Türkiye damalarında yakalama stratejimi nasıl geliştirebilirim?",
+    "answer": "Türkiye damalarında yakalama stratejinizi geliştirmek için şu adımları izleyin: ADIM 1: Her hamlede birden fazla yakalama fırsatı yaratmaya her zaman bakın. ADIM 2: Taşlarınızı tahtanın ortasını kontrol edecek şekilde yerleştirin, çünkü bu yakalama şansınızı artırır. ADIM 3: Kral taşlarınızı, hem ileri hem de geriye doğru hareket etme yeteneklerinden yararlanarak etkili bir şekilde kullanın. Örneğin, C3'teki bir kral, stratejik seçeneklerinizi artırarak birden fazla yönde taşları yakalayabilir. [Akış şeması]"
+  },
+  {
+    "question": "Orta oyunda Türkiye damalarında baskın çıkarmak için kullanabileceğim gelişmiş taktikler nelerdir?",
+    "answer": "Türkiye damalarının orta oyununda şu taktiklere odaklanın: ADIM 1: Rakibin hareket seçeneklerini sınırlamak için önemli kareleri kontrol edin. ADIM 2: Taşlarınızı korurken ve bir sonraki hamleyi planlarken güçlü bir savunma hattı oluşturun. ADIM 3: Taşlarınızı birden fazla yakalamaya olanak sağlayan bir \"köprü\" oluşturmak için kullanın. Örneğin, E4'e bir taş yerleştirmek, rakibinizi engellerken aynı zamanda E6 üzerindeki potansiyel bir yakalamanın kurulumunu sağlar. [Karşılaştırma tablosu]"
+  },
+  {
+    "question": "Türkiye damalarında en etkili son oyun stratejileri nelerdir?",
+    "answer": "Türkiye damalarında etkili son oyun stratejileri şunları içerir: ADIM 1: Taşlarınızı daha büyük hareket kabiliyetine sahip krallara yükseltmeye öncelik verin. ADIM 2: Krallarınızı tahtayı kontrol etmek ve rakibinizi bir köşeye sıkıştırmak için kullanın. ADIM 3: Rakibinizin yasal hamlesi kalmayacağı bir duruma gelene kadar hamlelerinizi planlayın. Örneğin, G7'deki bir kral, rakibin seçeneklerini sınırlayarak tüm sırayı kontrol edebilir. [Akış şeması]"
+  },
+  {
+    "question": "Türkiye dama oyununda kral hareket mekaniği nasıl çalışır?",
+    "answer": "Türkiye damalarında bir kral, bir taş rakibin son sırasına ulaştığında oluşturulur. Krallar, hem ileri hem de geriye doğru yanı sıra yanlara hareket edebilirler, ancak yine de çapraz hareket edemezler. Örneğin, D8'deki bir kral, C8, D7 veya E8'e hareket edebilir, daha büyük esneklik ve stratejik seçenekler sunar. Bu mekanizma, daha dinamik bir oyun ve karmaşık stratejiler sağlar. [Uygulama kılavuzu]"
+  },
+  {
+    "question": "Türkiye damalarında \"uçan kral\" kuralının önemi nedir?",
+    "answer": "Türkiye damalarında \"uçan kral\" kuralı, kralın yolda hiçbir engel yoksa, herhangi bir sayıda kare doğrusal bir şekilde hareket etmesine izin verir. Bu kural, kralın gücünü ve stratejik değerini önemli ölçüde artırır. Örneğin, A1'deki bir kral, tüm ara kareler boşsa doğrudan H1'e hareket ederek hızlı yeniden konumlandırma ve birden fazla yakalama fırsatı sağlayabilir. [Örnek gösterimi]"
+  },
+  {
+    "question": "Farklı platformlar arasında Türkiye dama oyunumu nasıl aktarabilirim?",
+    "answer": "Oyun ilerlemenizi farklı platformlar arasında aktarmak genellikle oyun hesabınızı Google Play veya Apple Game Center gibi evrensel bir profille bağlamayı içerir. Örneğin, hem mobil hem de PC'de oynuyorsanız, ilerlemenizin senkronize olması için her iki cihazda da aynı hesaba giriş yapın. Bazı platformlar, veri göçü için ayrıca manuel kaydetme/yükleme seçenekleri de sağlayabilir. [Karşılaştırma tablosu]"
+  },
+  {
+    "question": "Türkiye damalarında rakibimi şaşırtmak için ortaya çıkarabileceğim gizli stratejiler nelerdir?",
+    "answer": "Türkiye damalarında gizli bir strateji, bir taşı kasıtlı olarak birden fazla yakalama kurmak için feda eden \"fedakarlık tuzağıdır\". Örneğin, E5'e bir taş hareket ettirmek kayıp gibi görünse de, bir sonraki hamlede üç rakip taş yakalayabilir. Bu taktik, hassas planlama gerektirir ve rakibinizi hazırlıksız yakalayabilir, oyunun gidişatını değiştirebilir. [Örnek gösterimi]"
+  }
+]

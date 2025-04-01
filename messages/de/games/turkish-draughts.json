@@ -1,0 +1,77 @@
+{
+  "turkish-draughts": {
+    "title": "Türkische Dame Online spielen – Kostenloses Strategiespiel",
+    "slogan": "Erleben Sie die einzigartigen horizontalen und vertikalen Züge",
+    "description": "Entdecken Sie die spannende Welt der Türkischen Dame, einem strategischen Brettspiel, bei dem Züge und Einschließungen horizontal und vertikal erfolgen. Mit einer einzigartigen Anfangsaufstellung von 16 Spielsteinen auf einem 64-Felder-Brett bietet die Türkische Dame eine neue Herausforderung für Strategiebegeisterte. Spielen Sie jetzt und genießen Sie dieses klassische Spiel mit einem Twist!",
+    "Loading": {
+      "title": "Wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Türkische Dame",
+      "description": "Spielen Sie die Türkische Dame kostenlos online. Genießen Sie ein einzigartiges Dame-Spielerlebnis mit horizontalen und vertikalen Zügen.",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel spielen"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Türkische Dame",
+      "whatIsTitle": "Was ist die Türkische Dame?",
+      "whatIsDescription": "Die Türkische Dame ist ein strategisches Brettspiel, bei dem Züge und Einschließungen horizontal und vertikal erfolgen, und bietet eine einzigartige Variante der traditionellen Dame.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Stellen Sie Ihre 16 Spielsteine auf die zweite und dritte horizontale Reihe des 64-Felder-Bretts.",
+      "howToPlayStep2": "Bewegen Sie Ihre Spielsteine horizontal oder vertikal, um die Spielsteine Ihres Gegners einzuschließen.",
+      "howToPlayStep3": "Strategisieren Sie, um alle Spielsteine Ihres Gegners einzuschließen oder deren Züge zu blockieren, um das Spiel zu gewinnen.",
+      "keyFeaturesTitle": "Wichtige Merkmale",
+      "feature1Title": "Einzigartige Bewegung",
+      "feature1Description": "Züge und Einschließungen erfolgen horizontal und vertikal, im Gegensatz zu traditionellen Damen.",
+      "feature2Title": "Strategisches Gameplay",
+      "feature2Description": "Planen Sie Ihre Züge sorgfältig, um Ihren Gegner zu überlisten und das Spiel zu gewinnen.",
+      "feature3Title": "Klassisches Brett",
+      "feature3Description": "Spielen Sie auf einem 64-Felder-Brett mit einer einzigartigen Anfangsaufstellung der Spielsteine.",
+      "feature4Title": "Kostenlos spielbar",
+      "feature4Description": "Genießen Sie die Türkische Dame kostenlos online, jederzeit und überall."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

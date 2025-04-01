@@ -1,0 +1,77 @@
+{
+  "turkish-draughts": {
+    "title": "在线玩土耳其跳棋 - 免费策略游戏",
+    "slogan": "体验独特的横向和纵向移动",
+    "description": "探索土耳其跳棋的精彩世界，这是一款策略棋盘游戏，其走子和吃子是通过横向和纵向进行的。凭借在 64 格棋盘上 16 枚棋子的独特初始排列，土耳其跳棋为策略爱好者提供了全新的挑战。现在就开始玩，享受这款经典游戏的新玩法！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一步",
+      "previous": "上一步"
+    },
+    "HomeIframe": {
+      "title": "土耳其跳棋",
+      "description": "免费在线玩土耳其跳棋。体验独特的棋盘体验，移动方式为横向和纵向。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL 已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "土耳其跳棋",
+      "whatIsTitle": "什么是土耳其跳棋？",
+      "whatIsDescription": "土耳其跳棋是一款策略棋盘游戏，其中移动和吃子是通过横向和纵向进行的，这与传统的跳棋游戏有所不同。",
+      "howToPlayTitle": "如何玩？",
+      "howToPlayStep1": "将你的 16 枚棋子放在 64 格棋盘的第二和第三行。",
+      "howToPlayStep2": "水平或垂直移动你的棋子，吃掉对手的棋子。",
+      "howToPlayStep3": "策略性地吃掉对手的所有棋子，或阻止他们的移动以赢得游戏。",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "独特的移动方式",
+      "feature1Description": "走子和吃子是通过横向和纵向进行的，这不同于传统的跳棋。",
+      "feature2Title": "策略性的游戏玩法",
+      "feature2Description": "仔细计划你的移动，以巧妙地击败对手并赢得游戏。",
+      "feature3Title": "经典棋盘",
+      "feature3Description": "在 64 格棋盘上玩，棋子的初始排列方式独一无二。",
+      "feature4Title": "免费游戏",
+      "feature4Description": "随时随地免费在线玩土耳其跳棋。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页数"
+    }
+  }
+}
