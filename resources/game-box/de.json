@@ -17,7 +17,7 @@
     },
     {
       "visible": true,
-      "url": "/games/join-clash-3d",
+      "url": "/games/paper-io-2",
       "position": 4
     },
     {
@@ -109,11 +109,11 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482487626-9yoz3s.png",
-      "description": "Die meistgespielten Spiele dieses Monats – verpassen Sie sie nicht!",
+      "description": "Die meistgespielten Spiele dieses Monats – verpassen Sie es nicht!",
       "position": 1
     },
     {
-      "name": "Besten",
+      "name": "Best",
       "path": "/c/best",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -129,7 +129,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Schlagen Sie sich durch Herausforderungen mit Schwertkampfabenteuern!",
+      "description": "Schlitzen Sie sich durch Herausforderungen mit Schwertschwingabenteuern!",
       "position": 3
     },
     {
@@ -150,7 +150,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "Zielen, feuern und beherrschen Sie das Schlachtfeld in Sekunden!"
+      "description": "Zielen, feuern und die Schlacht in Sekunden dominieren!"
     },
     {
       "name": "Rennen",
@@ -160,17 +160,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "Verbrennen Sie Gummi und driften Sie zum Sieg!"
-    },
-    {
-      "name": "Block",
-      "path": "/c/block",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482985191-erxdk.png",
-      "position": 7,
-      "description": "Zertrümmern Sie farbige Blöcke und erschließen Sie epische Kombos! "
+      "description": "Brennen Sie Gummi und driften Sie in den Sieg!"
     },
     {
       "name": "Hypercasual",
@@ -179,8 +169,8 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Ein-Klick-Spaß, der Ihrem vollen Terminkalender gerecht wird!",
-      "position": 8
+      "description": "Ein-Touch-Spaß, der zu Ihrem vollen Terminkalender passt!",
+      "position": 7
     },
     {
       "name": "Puzzle",
@@ -189,8 +179,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
-      "position": 9,
-      "description": "Trainieren Sie Ihr Gehirn mit kniffligen Rätseln und Labyrinthen! "
+      "position": 8,
+      "description": "Trainieren Sie Ihr Gehirn mit kniffligen Rätseln und Labyrinthen!"
     },
     {
       "name": "Musik",
@@ -199,7 +189,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
-      "position": 10,
+      "position": 9,
       "description": "Tanzen Sie zum Takt und werden Sie ein Rhythmus-Meister!"
     },
     {
@@ -209,8 +199,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
-      "position": 11,
-      "description": "Tore erzielen, Dunks schlagen und Rekorde sofort brechen!"
+      "position": 10,
+      "description": "Tore erzielen, Dunks schlagen und Rekorde brechen Sie sofort!"
     },
     {
       "name": "Mehrspieler",
@@ -219,17 +209,17 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
-      "position": 12,
-      "description": "Zusammenarbeiten oder weltweit mit Freunden konkurrieren!"
+      "position": 11,
+      "description": "Schließen Sie sich weltweit mit Freunden an oder treten Sie gegeneinander an!"
     },
     {
-      "name": "Klicker",
+      "name": "Clicker",
       "path": "/c/clicker",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483016845-q3l71i.png",
-      "position": 13,
+      "position": 12,
       "description": "Tippen Sie, um Gold zu verdienen und Ihr Imperium zu automatisieren!"
     },
     {
@@ -239,18 +229,18 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484130517-98a2qo.png",
-      "position": 14,
-      "description": "Bereiten Sie köstliche Mahlzeiten in 60 Sekunden zu!"
+      "position": 13,
+      "description": "Bereiten Sie in 60 Sekunden leckere Mahlzeiten zu! "
     },
     {
-      "name": "Landwirtschaft",
+      "name": "Bauernhof",
       "path": "/c/farming",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
-      "position": 15,
-      "description": "Ernten Sie Ernten und bauen Sie Ihre Traumfarm mit einem einzigen Fingertipp auf!"
+      "position": 14,
+      "description": "Ernten Sie Feldfrüchte und bauen Sie Ihre Traumfarm mit einem einzigen Fingertipp!"
     },
     {
       "name": ".IO",
@@ -259,8 +249,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
-      "position": 16,
-      "description": "Fressen, wachsen und dominieren Sie die .IO-Welt!"
+      "position": 15,
+      "description": "Essen, wachsen und das .IO-Universum dominieren!"
     },
     {
       "name": "3D",
@@ -269,7 +259,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
-      "position": 17,
+      "position": 16,
       "description": "Tauchen Sie ein in immersive 3D-Welten mit atemberaubenden Grafiken!"
     }
   ]

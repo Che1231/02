@@ -17,7 +17,7 @@
     },
     {
       "visible": true,
-      "url": "/games/join-clash-3d",
+      "url": "/games/paper-io-2",
       "position": 4
     },
     {
@@ -103,7 +103,7 @@
   ],
   "categories": [
     {
-      "name": "Panas",
+      "name": "Terhangat",
       "path": "/c/hot",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
@@ -120,7 +120,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482501773-ytwu4f.png",
       "position": 2,
-      "description": "Permainan unggulan dengan peringkat teratas yang dijamin menghibur!"
+      "description": "Permainan top-rated pilihan yang dijamin menghibur!"
     },
     {
       "name": "Tindakan",
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "Mulailah pencarian yang menegangkan dan temukan harta karun tersembunyi!"
+      "description": "Berangkat dalam pencarian menegangkan dan temukan harta karun tersembunyi!"
     },
     {
       "name": "Penembakan",
@@ -160,17 +160,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "Hancurkan aspal dan drift menuju kemenangan!"
-    },
-    {
-      "name": "Blok",
-      "path": "/c/block",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482985191-erxdk.png",
-      "position": 7,
-      "description": "Hancurkan blok berwarna-warni dan buka kombinasi epik!"
+      "description": "Bakar ban dan belok ke kemenangan!"
     },
     {
       "name": "Hypercasual",
@@ -179,8 +169,8 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Hiburan satu ketukan yang sesuai dengan jadwal sibuk Anda!",
-      "position": 8
+      "description": "Keseruan satu ketukan yang sesuai dengan jadwal sibuk Anda!",
+      "position": 7
     },
     {
       "name": "Teka-Teki",
@@ -189,7 +179,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
-      "position": 9,
+      "position": 8,
       "description": "Latih otak Anda dengan teka-teki dan labirin yang membingungkan!"
     },
     {
@@ -199,8 +189,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
-      "position": 10,
-      "description": "Ikuti irama dan jadilah master ritme!"
+      "position": 9,
+      "description": "Ikuti irama dan jadi master ritme!"
     },
     {
       "name": "Olahraga",
@@ -209,8 +199,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
-      "position": 11,
-      "description": "Cetak gol, slam dunk, dan pecahkan rekor seketika!"
+      "position": 10,
+      "description": "Cetak gol, slam dunk, dan pecahkan rekor secara instan!"
     },
     {
       "name": "Multiplayer",
@@ -219,8 +209,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
-      "position": 12,
-      "description": "Berganding tangan atau bersaing dengan teman-teman di seluruh dunia!"
+      "position": 11,
+      "description": "Bergabung atau bersaing dengan teman-teman secara global!"
     },
     {
       "name": "Clicker",
@@ -229,7 +219,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483016845-q3l71i.png",
-      "position": 13,
+      "position": 12,
       "description": "Ketuk untuk mendapatkan emas dan otomatisasi kerajaan Anda!"
     },
     {
@@ -239,8 +229,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484130517-98a2qo.png",
-      "position": 14,
-      "description": "Buat hidangan lezat dalam waktu 60 detik!"
+      "position": 13,
+      "description": "Buat makanan lezat dalam 60 detik!"
     },
     {
       "name": "Pertanian",
@@ -249,7 +239,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
-      "position": 15,
+      "position": 14,
       "description": "Panen tanaman dan bangun pertanian impian Anda dengan satu ketukan!"
     },
     {
@@ -259,7 +249,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
-      "position": 16,
+      "position": 15,
       "description": "Makan, tumbuh, dan kuasai alam semesta .IO!"
     },
     {
@@ -269,8 +259,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
-      "position": 17,
-      "description": "Selami dunia 3D yang mendalam dengan grafis yang menakjubkan!"
+      "position": 16,
+      "description": "Jelajahi dunia 3D yang mendalam dengan grafik yang menakjubkan!"
     }
   ]
 }

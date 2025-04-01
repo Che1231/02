@@ -17,7 +17,7 @@
     },
     {
       "visible": true,
-      "url": "/games/join-clash-3d",
+      "url": "/games/paper-io-2",
       "position": 4
     },
     {
@@ -103,7 +103,7 @@
   ],
   "categories": [
     {
-      "name": "Sıcak",
+      "name": "Popüler",
       "path": "/c/hot",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
@@ -120,7 +120,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482501773-ytwu4f.png",
       "position": 2,
-      "description": "Eğlendirmeye garantili en iyi oyundan oluşan özenle seçilmiş oyunlar!"
+      "description": "Oyuncular tarafından en çok beğenilen üst düzey oyunlar, kesinlikle eğlenmenizi sağlayacak!"
     },
     {
       "name": "Eylem",
@@ -129,7 +129,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Kılıç sallayarak maceralarla zorlukları aşın!",
+      "description": "Kılıç savurma maceralarıyla zorlukları aşın!",
       "position": 3
     },
     {
@@ -143,14 +143,14 @@
       "description": "Heyecan verici maceralara atılın ve gizli hazineleri keşfedin!"
     },
     {
-      "name": "Atak",
+      "name": "Atış",
       "path": "/c/shooting",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "Hedef alın, ateş edin ve savaş alanında saniyeler içinde hakimiyet kurun!"
+      "description": "Hedef alın, ateş edin ve savaş alanını saniyeler içinde ele geçirin!"
     },
     {
       "name": "Yarış",
@@ -160,17 +160,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "Lastikleri yakıp zafere doğru sürün!"
-    },
-    {
-      "name": "Blok",
-      "path": "/c/block",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482985191-erxdk.png",
-      "position": 7,
-      "description": "Renkli blokları parçalayın ve epik kombinasyonları açığa çıkarın!"
+      "description": "Kauçuk yakıp zafer yoluna sürüklenin!"
     },
     {
       "name": "Hiper Casual",
@@ -179,8 +169,8 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Meşgul zamanlarınıza uyan tek dokunuşla eğlence!",
-      "position": 8
+      "description": "Meşgul programınıza uyan tek dokunuşla eğlence!",
+      "position": 7
     },
     {
       "name": "Bulmaca",
@@ -189,8 +179,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
-      "position": 9,
-      "description": "Zihninizi bulmacalar ve labirentlerle eğitin!"
+      "position": 8,
+      "description": "Zihin bulandırıcı bilmeceler ve labirentlerle beyninizi eğitin!"
     },
     {
       "name": "Müzik",
@@ -199,8 +189,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
-      "position": 10,
-      "description": "Ritme uygun hareket edin ve ritim ustasına dönüşün!"
+      "position": 9,
+      "description": "Ritme uygun hareket edin ve ritim ustası olun!"
     },
     {
       "name": "Spor",
@@ -209,8 +199,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
-      "position": 11,
-      "description": "Hedeflere ulaşın, şutları yapın ve rekorları hemen kırın!"
+      "position": 10,
+      "description": "Hedefleri vurun, şutları yapın ve rekorları anında kırın!"
     },
     {
       "name": "Çok Oyunculu",
@@ -219,38 +209,38 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
-      "position": 12,
-      "description": "Dünya çapında arkadaşlarınızla takım kurun veya yarışın!"
+      "position": 11,
+      "description": "Dünya çapında arkadaşlarınızla takım olun veya yarışın!"
     },
     {
-      "name": "Tıklatıcı",
+      "name": "Tıklama",
       "path": "/c/clicker",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483016845-q3l71i.png",
-      "position": 13,
+      "position": 12,
       "description": "Altın kazanmak ve imparatorluğunuzu otomatikleştirmek için dokunun!"
     },
     {
-      "name": "Yemek Yapımı",
+      "name": "Yemek Yapma",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484130517-98a2qo.png",
-      "position": 14,
-      "description": "60 saniye içinde lezzetli yemekler hazırlayın!"
+      "position": 13,
+      "description": "60 saniyede lezzetli yemekler hazırlayın! "
     },
     {
-      "name": "Çiftçilik",
+      "name": "Çiftlik",
       "path": "/c/farming",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
-      "position": 15,
-      "description": "Tek bir dokunuşla mahsulleri toplayın ve hayalinizdeki çiftliği inşa edin!"
+      "position": 14,
+      "description": "Hasat yapın ve tek dokunuşla hayallerinizdeki çiftliği kurun! "
     },
     {
       "name": ".IO",
@@ -259,8 +249,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
-      "position": 16,
-      "description": ".IO evreninde yiyin, büyüleyin ve hakimiyet kurun!"
+      "position": 15,
+      "description": ".IO evrenini yiyin, büyüyün ve hakimiyet edin! "
     },
     {
       "name": "3B",
@@ -269,8 +259,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
-      "position": 17,
-      "description": "Çarpıcı grafiklerle etkileyici 3B dünyalara dalın!"
+      "position": 16,
+      "description": "Çarpıcı grafiklerle sürükleyici 3B dünyalara dalın! "
     }
   ]
 }

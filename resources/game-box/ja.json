@@ -17,7 +17,7 @@
     },
     {
       "visible": true,
-      "url": "/games/join-clash-3d",
+      "url": "/games/paper-io-2",
       "position": 4
     },
     {
@@ -109,7 +109,7 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482487626-9yoz3s.png",
-      "description": "今月最もプレイされているゲームです。見逃し厳禁！",
+      "description": "今月最もプレイされているゲームです。お見逃しなく！",
       "position": 1
     },
     {
@@ -120,7 +120,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482501773-ytwu4f.png",
       "position": 2,
-      "description": "厳選された高評価ゲームで、必ずお楽しみいただけます！"
+      "description": "厳選された高評価ゲームをお届けします。きっとお楽しみいただけます！"
     },
     {
       "name": "アクション",
@@ -129,7 +129,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "剣を振るう冒険で、挑戦を駆け抜けろ！",
+      "description": "剣を振るって挑戦を乗り越えよう！",
       "position": 3
     },
     {
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "スリリングな冒険に出かけ、隠された宝物を見つけよう！"
+      "description": "スリリングなクエストに乗り出し、隠された宝物を見つけよう！"
     },
     {
       "name": "シューティング",
@@ -150,7 +150,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "狙い、撃ち、戦場で瞬時に支配せよ！"
+      "description": "狙い、発射、そして瞬時に戦場で支配しよう！"
     },
     {
       "name": "レース",
@@ -160,27 +160,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "ゴムを燃やし、勝利へドリフト！"
+      "description": "ゴムを燃やし、勝利につなげよう！"
     },
     {
-      "name": "ブロック",
-      "path": "/c/block",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482985191-erxdk.png",
-      "position": 7,
-      "description": "カラフルなブロックを破壊し、エピックなコンボを解き放て！"
-    },
-    {
-      "name": "カジュアル",
+      "name": "ハイパーカジュアル",
       "path": "/c/hypercasual",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "忙しいスケジュールにもピッタリの一タップで楽しめるゲーム！",
-      "position": 8
+      "description": "忙しいスケジュールにも最適なワンタップで楽しめるゲーム！",
+      "position": 7
     },
     {
       "name": "パズル",
@@ -189,8 +179,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
-      "position": 9,
-      "description": "脳を訓練する、頭脳に挑戦するパズルと迷路！ "
+      "position": 8,
+      "description": "頭脳を鍛えよう。考えさせられるパズルと迷路で遊ぼう！"
     },
     {
       "name": "音楽",
@@ -199,8 +189,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
-      "position": 10,
-      "description": "リズムに乗って、リズムマスターになろう！"
+      "position": 9,
+      "description": "リズムに合わせ、リズムマスターになろう！"
     },
     {
       "name": "スポーツ",
@@ -209,8 +199,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
-      "position": 11,
-      "description": "ゴールを決め、ダンクシュートし、記録を瞬時に更新しよう！"
+      "position": 10,
+      "description": "ゴールを決め、ダンクを決め、瞬時に記録を破ろう！"
     },
     {
       "name": "マルチプレイヤー",
@@ -219,8 +209,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
-      "position": 12,
-      "description": "世界中の友達とチームを組んだり、競い合ったり！"
+      "position": 11,
+      "description": "世界中の友達とチームを組んだり、競い合ったりしよう！"
     },
     {
       "name": "クリック",
@@ -229,8 +219,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483016845-q3l71i.png",
-      "position": 13,
-      "description": "タップして金貨を稼ぎ、帝国を自動化しよう！"
+      "position": 12,
+      "description": "タップしてゴールドを稼ぎ、帝国を自動化しよう！"
     },
     {
       "name": "料理",
@@ -239,8 +229,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484130517-98a2qo.png",
-      "position": 14,
-      "description": "６０秒以内に美味しい料理を作ろう！"
+      "position": 13,
+      "description": "60秒で美味しい料理を作りましょう！"
     },
     {
       "name": "農業",
@@ -249,8 +239,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
-      "position": 15,
-      "description": "作物を収穫し、一タップで理想の農場を築き上げよう！"
+      "position": 14,
+      "description": "作物を収穫し、ワンタップで夢の農場を作りましょう！"
     },
     {
       "name": ".IO",
@@ -259,8 +249,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
-      "position": 16,
-      "description": ".IO宇宙で食べて、成長し、支配しよう！"
+      "position": 15,
+      "description": ".IOの世界で食べて、育ち、支配しよう！"
     },
     {
       "name": "3D",
@@ -269,8 +259,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
-      "position": 17,
-      "description": "素晴らしいグラフィックで没入型の3D世界に飛び込め！"
+      "position": 16,
+      "description": "素晴らしいグラフィックで没入型の3D世界に飛び込もう！"
     }
   ]
 }

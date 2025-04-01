@@ -17,7 +17,7 @@
     },
     {
       "visible": true,
-      "url": "/games/join-clash-3d",
+      "url": "/games/paper-io-2",
       "position": 4
     },
     {
@@ -120,7 +120,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482501773-ytwu4f.png",
       "position": 2,
-      "description": "Các trò chơi hàng đầu được lựa chọn đảm bảo giải trí!"
+      "description": "Các trò chơi hàng đầu được chọn lọc đảm bảo giải trí!"
     },
     {
       "name": "Hành động",
@@ -129,7 +129,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Vượt qua thử thách với những cuộc phiêu lưu tung kiếm!",
+      "description": "Bắn xuyên qua các thử thách với những cuộc phiêu lưu chặt chém kiếm!",
       "position": 3
     },
     {
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "Khởi hành những nhiệm vụ ly kỳ và khám phá kho báu ẩn giấu!"
+      "description": "Khởi hành vào những cuộc thám hiểm hồi hộp và khám phá những kho báu bị giấu kín!"
     },
     {
       "name": "Bắn súng",
@@ -150,27 +150,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "Nhắm mục tiêu, bắn và thống trị chiến trường trong tích tắc!"
+      "description": "Chĩa, bắn và thống trị chiến trường trong vài giây!"
     },
     {
-      "name": "Đua xe",
+      "name": "Chạy đua",
       "path": "/c/racing",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "Đốt lốp và drift để chiến thắng!"
-    },
-    {
-      "name": "Khối",
-      "path": "/c/block",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482985191-erxdk.png",
-      "position": 7,
-      "description": "Đập các khối màu sắc và mở khóa combo kinh điển!"
+      "description": "Đốt lốp và lượn vào chiến thắng!"
     },
     {
       "name": "Hypercasual",
@@ -179,18 +169,18 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Tận hưởng niềm vui một chạm phù hợp với lịch trình bận rộn của bạn!",
-      "position": 8
+      "description": "Giải trí một chạm phù hợp với lịch trình bận rộn của bạn!",
+      "position": 7
     },
     {
-      "name": "Đố vui",
+      "name": "Đố",
       "path": "/c/puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
-      "position": 9,
-      "description": "Rèn luyện bộ não của bạn với những câu đố và mê cung khó nhằn!"
+      "position": 8,
+      "description": "Đào tạo bộ não của bạn với những câu đố và mê cung khó hiểu!"
     },
     {
       "name": "Âm nhạc",
@@ -199,8 +189,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
-      "position": 10,
-      "description": "Theo nhịp điệu và trở thành bậc thầy nhịp điệu!"
+      "position": 9,
+      "description": "Bắt nhịp điệu và trở thành bậc thầy nhịp điệu!"
     },
     {
       "name": "Thể thao",
@@ -209,7 +199,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
-      "position": 11,
+      "position": 10,
       "description": "Ghi bàn, ném rổ và phá vỡ kỷ lục ngay lập tức!"
     },
     {
@@ -219,7 +209,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
-      "position": 12,
+      "position": 11,
       "description": "Đoàn kết hoặc cạnh tranh với bạn bè trên toàn cầu!"
     },
     {
@@ -229,18 +219,18 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483016845-q3l71i.png",
-      "position": 13,
+      "position": 12,
       "description": "Nhấn để kiếm vàng và tự động hóa đế chế của bạn!"
     },
     {
-      "name": "Bếp nấy",
+      "name": "Bếp",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484130517-98a2qo.png",
-      "position": 14,
-      "description": "Nấu những món ăn ngon trong vòng 60 giây!"
+      "position": 13,
+      "description": "Nấu những món ăn ngon trong 60 giây!"
     },
     {
       "name": "Trồng trọt",
@@ -249,8 +239,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
-      "position": 15,
-      "description": "Thu hoạch mùa vụ và xây dựng trang trại mơ ước của bạn chỉ bằng một cú chạm!"
+      "position": 14,
+      "description": "Thu hoạch mùa màng và xây dựng trang trại mơ ước của bạn chỉ bằng một cú chạm!"
     },
     {
       "name": ".IO",
@@ -259,8 +249,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
-      "position": 16,
-      "description": "Ăn, lớn lên và thống trị vũ trụ .IO!"
+      "position": 15,
+      "description": "Ăn, phát triển và thống trị vũ trụ .IO!"
     },
     {
       "name": "3D",
@@ -269,8 +259,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
-      "position": 17,
-      "description": "Bước vào thế giới 3D sống động với đồ họa tuyệt đẹp!"
+      "position": 16,
+      "description": "Lặn vào các thế giới 3D sống động với đồ họa tuyệt đẹp!"
     }
   ]
 }

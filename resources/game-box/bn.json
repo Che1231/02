@@ -17,7 +17,7 @@
     },
     {
       "visible": true,
-      "url": "/games/join-clash-3d",
+      "url": "/games/paper-io-2",
       "position": 4
     },
     {
@@ -109,7 +109,7 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482487626-9yoz3s.png",
-      "description": "এই মাসের সবচেয়ে বেশি খেলা গেমগুলি – মিস করবেন না!",
+      "description": "এই মাসে সবচেয়ে বেশি খেলা গেমগুলি – মিস করবেন না!",
       "position": 1
     },
     {
@@ -120,7 +120,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482501773-ytwu4f.png",
       "position": 2,
-      "description": "হাতে তোলা সেরা-রেটেড গেমগুলি যা নিশ্চিতভাবে আপনাকে বিনোদন করবে!"
+      "description": "হাতে তোলা শীর্ষ-রেটেড গেমগুলি যা নিশ্চিতভাবে আপনাকে বিনোদন করবে!"
     },
     {
       "name": "অ্যাকশন",
@@ -129,7 +129,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "তলোয়ারের ঝাঁকুনিযুক্ত অভিযানের মাধ্যমে চ্যালেঞ্জ ভেদ করুন!",
+      "description": "তরোয়াল-ছুঁড়া সাহসিকতার সাথে চ্যালেঞ্জের মধ্য দিয়ে কাটুন!",
       "position": 3
     },
     {
@@ -140,17 +140,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "উত্তেজনাপূর্ণ অনুসন্ধানে বের হন এবং গোপন ধনসম্পদ আবিষ্কার করুন!"
+      "description": "উত্তেজনাপূর্ণ অভিযানে যান এবং লুকানো ধন ভান্ডার আবিষ্কার করুন!"
     },
     {
-      "name": "ছুটি",
+      "name": "শুটিং",
       "path": "/c/shooting",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "লক্ষ্য করুন, গুলি করুন এবং দ্রুত যুদ্ধক্ষেত্রে আধিপত্য করুন!"
+      "description": "লক্ষ্য করুন, গুলি করুন এবং কয়েক সেকেন্ডেই যুদ্ধক্ষেত্রে আধিপত্য বিস্তার করুন!"
     },
     {
       "name": "রেসিং",
@@ -160,27 +160,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "রাবার জ্বালা এবং জয়ের জন্য ড্রিফ্ট!"
+      "description": "রাবার জ্বালিয়ে এবং জয়ের মধ্যে ড্রিফ্ট করুন!"
     },
     {
-      "name": "ব্লক",
-      "path": "/c/block",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482985191-erxdk.png",
-      "position": 7,
-      "description": "রঙিন ব্লক ভেঙে এবং অসাধারণ কম্বো আনলক করুন! "
-    },
-    {
-      "name": "হাইপারক্যাজুয়াল",
+      "name": "হাইপারকেশুয়াল",
       "path": "/c/hypercasual",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "আপনার ব্যস্ত সময়সূচীর জন্য এক-ট্যাপের মজা!",
-      "position": 8
+      "description": "আপনার ব্যস্ত সময়সূচির সাথে মিলে যাওয়া এক-ট্যাপের আনন্দ!",
+      "position": 7
     },
     {
       "name": "পাজল",
@@ -189,8 +179,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
-      "position": 9,
-      "description": "মানসিক ধাঁধা এবং রহস্যের মাধ্যমে আপনার মস্তিষ্ককে প্রশিক্ষণ দিন! "
+      "position": 8,
+      "description": "মন-ভ্রমণকারী রহস্য এবং ম্যাজিকের সাথে আপনার মস্তিষ্ককে প্রশিক্ষণ দিন! "
     },
     {
       "name": "সঙ্গীত",
@@ -199,8 +189,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
-      "position": 10,
-      "description": "তালের সাথে নৃত্য করুন এবং একটি তালিকা মাস্টার হোন!"
+      "position": 9,
+      "description": "গানের তালে তাল মিলিয়ে তালের মাস্টার बनুন!"
     },
     {
       "name": "ক্রীড়া",
@@ -209,18 +199,18 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
-      "position": 11,
-      "description": "লক্ষ্য করুন গোল, স্লাম ডাঙ্ক, এবং অবিলম্বে রেকর্ড ভেঙে ফেলুন!"
+      "position": 10,
+      "description": "গোল করুন, স্প্ল্যাম ডাঙ্ক করুন এবং সঙ্গে সঙ্গে রেকর্ড ভাঙুন!"
     },
     {
-      "name": "বহু-খেলোয়াড়",
+      "name": "বহুখেলোয়াড়",
       "path": "/c/multiplayer",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
-      "position": 12,
-      "description": "বৈশ্বিকভাবে বন্ধুদের সাথে দলবদ্ধ হন বা প্রতিদ্বন্দ্বিতা করুন!"
+      "position": 11,
+      "description": "বৈশ্বিকভাবে বন্ধুদের সাথে দল বেঁধে অথবা প্রতিযোগিতা করুন!"
     },
     {
       "name": "ক্লিকার",
@@ -229,7 +219,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483016845-q3l71i.png",
-      "position": 13,
+      "position": 12,
       "description": "সোনা অর্জন করতে এবং আপনার সাম্রাজ্য স্বয়ংক্রিয় করতে ট্যাপ করুন!"
     },
     {
@@ -239,18 +229,18 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484130517-98a2qo.png",
-      "position": 14,
-      "description": "60 সেকেন্ডের মধ্যে সুস্বাদু খাবার তৈরি করুন! "
+      "position": 13,
+      "description": "60 সেকেন্ডের মধ্যে সুস্বাদু খাবার তৈরি করুন!"
     },
     {
-      "name": "খামারী",
+      "name": "খামার",
       "path": "/c/farming",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
-      "position": 15,
-      "description": "ফসল কাটুন এবং এক ট্যাপে আপনার স্বপ্নের খামার তৈরি করুন! "
+      "position": 14,
+      "description": "ফসল কাটুন এবং এক ট্যাপে আপনার স্বপ্নের খামার তৈরি করুন!"
     },
     {
       "name": ".IO",
@@ -259,8 +249,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
-      "position": 16,
-      "description": "খান, বৃদ্ধি করুন এবং .IO মহাবিশ্বে আধিপত্য করুন! "
+      "position": 15,
+      "description": ".IO মহাবিশ্বে খান, বড় হোন এবং আধিপত্য বিস্তার করুন!"
     },
     {
       "name": "3D",
@@ -269,8 +259,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
-      "position": 17,
-      "description": "অসাধারণ গ্রাফিক্স সহ 3D বিশ্বে বিস্তৃত হন! "
+      "position": 16,
+      "description": "অসাধারণ গ্রাফিক্স সহ বিমোহক 3D বিশ্বে ডুব দিন!"
     }
   ]
 }

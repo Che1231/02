@@ -17,7 +17,7 @@
     },
     {
       "visible": true,
-      "url": "/games/join-clash-3d",
+      "url": "/games/paper-io-2",
       "position": 4
     },
     {
@@ -109,7 +109,7 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482487626-9yoz3s.png",
-      "description": "本月最受歡迎的遊戲 – 千萬不要錯過！",
+      "description": "本月最受歡迎的遊戲 – 不要錯過！",
       "position": 1
     },
     {
@@ -120,7 +120,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482501773-ytwu4f.png",
       "position": 2,
-      "description": "精心挑選的頂級遊戲，保證娛樂你！"
+      "description": "精心挑選的頂級遊戲，保證娛樂！"
     },
     {
       "name": "動作",
@@ -129,7 +129,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "揮舞著寶劍，挑戰冒險！",
+      "description": "揮舞著寶劍，挑戰各種冒險！",
       "position": 3
     },
     {
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "踏上刺激的探險，發現隱藏的寶藏！"
+      "description": "踏上刺激的冒險，發現隱藏的寶藏！"
     },
     {
       "name": "射擊",
@@ -150,7 +150,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "瞄準，射擊，秒殺對手！"
+      "description": "瞄準、射擊，掌控戰場！"
     },
     {
       "name": "賽車",
@@ -163,24 +163,14 @@
       "description": "燃燒橡膠，漂移取勝！"
     },
     {
-      "name": "方塊",
-      "path": "/c/block",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482985191-erxdk.png",
-      "position": 7,
-      "description": "粉碎色彩繽紛的方塊，解鎖史詩般的連擊！"
-    },
-    {
-      "name": "極簡",
+      "name": "輕鬆休閒",
       "path": "/c/hypercasual",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "輕鬆一鍵，滿足你的忙碌行程！",
-      "position": 8
+      "description": "快速上手，輕鬆休閒！",
+      "position": 7
     },
     {
       "name": "益智",
@@ -189,8 +179,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
-      "position": 9,
-      "description": "用腦筋急轉彎和迷宮鍛鍊你的大腦！"
+      "position": 8,
+      "description": "用腦筋訓練，解開謎題和迷宮！"
     },
     {
       "name": "音樂",
@@ -199,8 +189,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
-      "position": 10,
-      "description": "隨著節奏起舞，成為節奏大師！"
+      "position": 9,
+      "description": "跟著節奏，成為節奏大師！"
     },
     {
       "name": "運動",
@@ -209,8 +199,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
-      "position": 11,
-      "description": "立即得分、灌籃並打破紀錄！"
+      "position": 10,
+      "description": "立即進球、灌籃並打破紀錄！"
     },
     {
       "name": "多人遊戲",
@@ -219,17 +209,17 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
-      "position": 12,
+      "position": 11,
       "description": "與全球朋友組隊或競爭！"
     },
     {
-      "name": "點擊器",
+      "name": "點擊遊戲",
       "path": "/c/clicker",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483016845-q3l71i.png",
-      "position": 13,
+      "position": 12,
       "description": "點擊賺取黃金，自動化你的帝國！"
     },
     {
@@ -239,8 +229,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484130517-98a2qo.png",
-      "position": 14,
-      "description": "在 60 秒內製作美味佳餚！"
+      "position": 13,
+      "description": "在 60 秒內快速烹飪美味佳餚！"
     },
     {
       "name": "農場",
@@ -249,28 +239,28 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
-      "position": 15,
-      "description": "收穫農作物，點擊打造你的夢想農場！"
+      "position": 14,
+      "description": "收穫農作物，點擊即可建立夢想農場！"
     },
     {
-      "name": ".IO",
+      "name": ".IO 遊戲",
       "path": "/c/io",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
-      "position": 16,
-      "description": "吞噬、成長，稱霸 .IO 宇宙！"
+      "position": 15,
+      "description": "吃、長大，主宰 .IO 宇宙！"
     },
     {
-      "name": "3D",
+      "name": "3D 遊戲",
       "path": "/c/3d",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
-      "position": 17,
-      "description": "沉浸於令人驚嘆的 3D 世界！"
+      "position": 16,
+      "description": "沉浸在令人驚嘆的 3D 世界中！"
     }
   ]
 }

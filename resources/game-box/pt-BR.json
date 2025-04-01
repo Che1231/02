@@ -17,7 +17,7 @@
     },
     {
       "visible": true,
-      "url": "/games/join-clash-3d",
+      "url": "/games/paper-io-2",
       "position": 4
     },
     {
@@ -103,7 +103,7 @@
   ],
   "categories": [
     {
-      "name": "Quentes",
+      "name": "Em Alta",
       "path": "/c/hot",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
@@ -120,7 +120,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482501773-ytwu4f.png",
       "position": 2,
-      "description": "Jogos premiados, garantidos para entreter!"
+      "description": "Jogos premiados selecionados, garantidos para entreter!"
     },
     {
       "name": "Ação",
@@ -129,7 +129,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Enfrente desafios com aventuras de esgrima!",
+      "description": "Enfrente desafios com aventuras de balanço de espada!",
       "position": 3
     },
     {
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "Embarque em missões emocionantes e descubra tesouros escondidos!"
+      "description": "Embarque em emocionantes buscas e descubra tesouros escondidos!"
     },
     {
       "name": "Tiro",
@@ -163,24 +163,14 @@
       "description": "Queime borracha e faça derrapagens para a vitória!"
     },
     {
-      "name": "Bloco",
-      "path": "/c/block",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482985191-erxdk.png",
-      "position": 7,
-      "description": "Quebre blocos coloridos e desbloqueie combos épicos!"
-    },
-    {
-      "name": "Hypercasual",
+      "name": "Casual",
       "path": "/c/hypercasual",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Diversão de um toque que se adapta à sua agenda ocupada!",
-      "position": 8
+      "description": "Diversão com um toque que cabe na sua agenda movimentada!",
+      "position": 7
     },
     {
       "name": "Quebra-cabeça",
@@ -189,8 +179,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
-      "position": 9,
-      "description": "Treine seu cérebro com enigmas e labirintos desafiadores!"
+      "position": 8,
+      "description": "Treine seu cérebro com enigmas e labirintos desafiadores! "
     },
     {
       "name": "Música",
@@ -199,8 +189,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
-      "position": 10,
-      "description": "Entre no ritmo e se torne um mestre do ritmo!"
+      "position": 9,
+      "description": "Sincronize-se com a batida e torne-se um mestre do ritmo!"
     },
     {
       "name": "Esporte",
@@ -209,8 +199,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
-      "position": 11,
-      "description": "Marque gols, arremessos e quebre recordes instantaneamente!"
+      "position": 10,
+      "description": "Marque gols, cestas e quebre recordes instantaneamente!"
     },
     {
       "name": "Multijogador",
@@ -219,8 +209,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
-      "position": 12,
-      "description": "Junte-se ou desafie amigos globalmente!"
+      "position": 11,
+      "description": "Junte-se ou compete com amigos globalmente!"
     },
     {
       "name": "Clique",
@@ -229,18 +219,18 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483016845-q3l71i.png",
-      "position": 13,
+      "position": 12,
       "description": "Toque para ganhar ouro e automatizar seu império!"
     },
     {
-      "name": "Cozinha",
+      "name": "Cozinhar",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484130517-98a2qo.png",
-      "position": 14,
-      "description": "Prepare refeições deliciosas em 60 segundos!"
+      "position": 13,
+      "description": "Prepare refeições deliciosas em 60 segundos! "
     },
     {
       "name": "Fazenda",
@@ -249,8 +239,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
-      "position": 15,
-      "description": "Colha culturas e crie sua fazenda dos sonhos com um único toque!"
+      "position": 14,
+      "description": "Colha culturas e construa sua fazenda dos sonhos com um toque! "
     },
     {
       "name": ".IO",
@@ -259,8 +249,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
-      "position": 16,
-      "description": "Coma, cresça e domine o universo .IO!"
+      "position": 15,
+      "description": "Coma, cresça e domine o universo .IO! "
     },
     {
       "name": "3D",
@@ -269,8 +259,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
-      "position": 17,
-      "description": "Mergulhe em mundos 3D imersivos com gráficos deslumbrantes!"
+      "position": 16,
+      "description": "Mergulhe em mundos 3D imersivos com gráficos deslumbrantes! "
     }
   ]
 }

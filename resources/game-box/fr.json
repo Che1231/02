@@ -17,7 +17,7 @@
     },
     {
       "visible": true,
-      "url": "/games/join-clash-3d",
+      "url": "/games/paper-io-2",
       "position": 4
     },
     {
@@ -103,13 +103,13 @@
   ],
   "categories": [
     {
-      "name": "Tendances",
+      "name": "À la mode",
       "path": "/c/hot",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482487626-9yoz3s.png",
-      "description": "Les jeux les plus joués ce mois-ci – ne les ratez pas !",
+      "description": "Les jeux les plus joués ce mois-ci – ne les manquez pas !",
       "position": 1
     },
     {
@@ -120,7 +120,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482501773-ytwu4f.png",
       "position": 2,
-      "description": "Jeux primés et garantis pour vous divertir !"
+      "description": "Jeux primés, minutieusement sélectionnés pour vous divertir !"
     },
     {
       "name": "Action",
@@ -129,7 +129,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Défiez-vous dans des aventures d'épées tranchantes !",
+      "description": "Écrasez les défis avec des aventures d'épée !",
       "position": 3
     },
     {
@@ -160,36 +160,26 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "Faites brûler les pneus et dévalez les pistes avec brio !"
+      "description": "Faites chauffer les pneus et dérivez vers la victoire !"
     },
     {
-      "name": "Blocs",
-      "path": "/c/block",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482985191-erxdk.png",
-      "position": 7,
-      "description": "Écrasez des blocs colorés et débloquez des combos épiques !"
-    },
-    {
-      "name": "Hyper-casuels",
+      "name": "Hypercasual",
       "path": "/c/hypercasual",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Du plaisir en un seul clic pour vos moments de disponibilité !",
-      "position": 8
+      "description": "Amusez-vous en un seul clic pour s'adapter à votre emploi du temps chargé !",
+      "position": 7
     },
     {
-      "name": "Devinettes",
+      "name": "Puzzle",
       "path": "/c/puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
-      "position": 9,
+      "position": 8,
       "description": "Entraînez votre cerveau avec des énigmes et des labyrinthes captivants !"
     },
     {
@@ -199,8 +189,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
-      "position": 10,
-      "description": "Dansez au rythme et devenez un maître du rythme !"
+      "position": 9,
+      "description": "Dansez au rythme et maîtrisez le rythme !"
     },
     {
       "name": "Sports",
@@ -209,7 +199,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
-      "position": 11,
+      "position": 10,
       "description": "Marquez des buts, des paniers et battez des records instantanément !"
     },
     {
@@ -219,18 +209,18 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
-      "position": 12,
-      "description": "Faites équipe ou rivalisez avec des amis du monde entier !"
+      "position": 11,
+      "description": "Faites équipe ou affrontez des amis du monde entier !"
     },
     {
-      "name": "Cliquer",
+      "name": "Clicker",
       "path": "/c/clicker",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483016845-q3l71i.png",
-      "position": 13,
-      "description": "Touchez pour gagner de l'or et automatiser votre empire !"
+      "position": 12,
+      "description": "Appuyez pour gagner de l'or et automatisez votre empire !"
     },
     {
       "name": "Cuisine",
@@ -239,8 +229,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484130517-98a2qo.png",
-      "position": 14,
-      "description": "Préparez des plats délicieux en 60 secondes chrono !"
+      "position": 13,
+      "description": "Préparez de délicieux plats en 60 secondes chrono !"
     },
     {
       "name": "Agriculture",
@@ -249,17 +239,17 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
-      "position": 15,
-      "description": "Récoltez vos cultures et bâtissez votre ferme de rêve en un seul clic !"
+      "position": 14,
+      "description": "Récoltez des cultures et construisez votre ferme de rêve en un seul clic !"
     },
     {
-      "name": "IO",
+      "name": ".IO",
       "path": "/c/io",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
-      "position": 16,
+      "position": 15,
       "description": "Mangez, grandissez et dominez l'univers .IO !"
     },
     {
@@ -269,8 +259,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
-      "position": 17,
-      "description": "Plongez dans des mondes 3D immersifs aux graphismes époustouflants !"
+      "position": 16,
+      "description": "Pénétrez dans des mondes 3D immersifs aux graphismes époustouflants !"
     }
   ]
 }

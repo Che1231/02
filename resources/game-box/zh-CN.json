@@ -17,7 +17,7 @@
     },
     {
       "visible": true,
-      "url": "/games/join-clash-3d",
+      "url": "/games/paper-io-2",
       "position": 4
     },
     {
@@ -113,14 +113,14 @@
       "position": 1
     },
     {
-      "name": "精品",
+      "name": "最佳",
       "path": "/c/best",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482501773-ytwu4f.png",
       "position": 2,
-      "description": "精心挑选的顶级游戏，保证精彩！"
+      "description": "精心挑选的顶级游戏，保证让你玩得开心！"
     },
     {
       "name": "动作",
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "开启惊险的旅程，发现隐藏的宝藏！"
+      "description": "踏上惊险的旅程，探索隐藏的宝藏！"
     },
     {
       "name": "射击",
@@ -150,7 +150,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "瞄准、射击，在战场上称霸！"
+      "description": "瞄准，射击，在战场上迅速掌控局面！"
     },
     {
       "name": "赛车",
@@ -160,17 +160,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "燃烧轮胎，漂移取胜！"
-    },
-    {
-      "name": "方块",
-      "path": "/c/block",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482985191-erxdk.png",
-      "position": 7,
-      "description": "粉碎彩色方块，解锁史诗级连击！"
+      "description": "摩擦轮胎，漂移到胜利终点！"
     },
     {
       "name": "休闲",
@@ -179,8 +169,8 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "轻轻松松的单指操作，总能满足你的空闲时间！",
-      "position": 8
+      "description": "轻松点击，适合你的忙碌时间！",
+      "position": 7
     },
     {
       "name": "益智",
@@ -189,8 +179,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
-      "position": 9,
-      "description": "用脑筋急转弯和迷宫来锻炼你的大脑！"
+      "position": 8,
+      "description": "用脑筋急转弯和迷宫训练你的大脑！"
     },
     {
       "name": "音乐",
@@ -199,28 +189,28 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
-      "position": 10,
-      "description": "跟着节拍，成为节奏大师！"
+      "position": 9,
+      "description": "跟着节奏，成为节奏大师！"
     },
     {
-      "name": "体育",
+      "name": "运动",
       "path": "/c/sports",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
-      "position": 11,
-      "description": "进球、扣篮、打破记录，即刻完成！"
+      "position": 10,
+      "description": "得分，扣篮，打破记录！"
     },
     {
-      "name": "多人",
+      "name": "多人游戏",
       "path": "/c/multiplayer",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
-      "position": 12,
-      "description": "与全球朋友组队或竞争！"
+      "position": 11,
+      "description": "与世界各地的朋友组队或竞争！"
     },
     {
       "name": "点击器",
@@ -229,8 +219,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483016845-q3l71i.png",
-      "position": 13,
-      "description": "点击获取金币，自动化你的帝国！"
+      "position": 12,
+      "description": "点击赚取金币，自动化你的帝国！"
     },
     {
       "name": "烹饪",
@@ -239,8 +229,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484130517-98a2qo.png",
-      "position": 14,
-      "description": "60 秒内就能制作美味佳肴！"
+      "position": 13,
+      "description": "在60秒内制作美味佳肴！"
     },
     {
       "name": "农场",
@@ -249,8 +239,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
-      "position": 15,
-      "description": "收获庄稼，建设你的梦想农场，只需轻点！"
+      "position": 14,
+      "description": "收割庄稼，点击建造你梦想中的农场！"
     },
     {
       "name": ".IO",
@@ -259,8 +249,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
-      "position": 16,
-      "description": "吃、长大和统治 .IO 宇宙！"
+      "position": 15,
+      "description": "吞噬，成长，掌控 .IO 宇宙！"
     },
     {
       "name": "3D",
@@ -269,7 +259,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
-      "position": 17,
+      "position": 16,
       "description": "沉浸在令人惊叹的 3D 世界中！"
     }
   ]

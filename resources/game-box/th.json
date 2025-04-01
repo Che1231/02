@@ -17,7 +17,7 @@
     },
     {
       "visible": true,
-      "url": "/games/join-clash-3d",
+      "url": "/games/paper-io-2",
       "position": 4
     },
     {
@@ -103,13 +103,13 @@
   ],
   "categories": [
     {
-      "name": "ฮอต",
+      "name": "ร้อนแรง",
       "path": "/c/hot",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482487626-9yoz3s.png",
-      "description": "เกมที่เล่นมากที่สุดในเดือนนี้ – ห้ามพลาด!",
+      "description": "เกมที่เล่นมากที่สุดในเดือนนี้ – อย่าพลาด!",
       "position": 1
     },
     {
@@ -120,7 +120,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482501773-ytwu4f.png",
       "position": 2,
-      "description": "เกมยอดนิยมที่คัดสรรมาอย่างดี รับประกันความบันเทิง!"
+      "description": "เกมยอดนิยมที่คัดสรรมาแล้ว รับรองความสนุก!"
     },
     {
       "name": "แอ็คชัน",
@@ -129,7 +129,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "ฟันฝ่าความท้าทายด้วยการผจญภัยของการใช้ดาบ!",
+      "description": "ฟันฝ่าความท้าทายด้วยการผจญภัยการใช้ดาบ!",
       "position": 3
     },
     {
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "ออกเดินทางเพื่อภารกิจที่น่าตื่นเต้นและค้นพบสมบัติที่ซ่อนอยู่!"
+      "description": "ออกเดินทางในภารกิจที่น่าตื่นเต้นและค้นพบสมบัติที่ซ่อนอยู่!"
     },
     {
       "name": "ยิง",
@@ -150,7 +150,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "เล็งยิงและครองสนามรบในไม่กี่วินาที!"
+      "description": "เล็ง ยิง และครองสนามรบในพริบตา!"
     },
     {
       "name": "แข่งรถ",
@@ -160,27 +160,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "เผายางและลอยเข้าสู่ชัยชนะ!"
+      "description": "เผา ยาง และดริฟท์สู่ชัยชนะ!"
     },
     {
-      "name": "บล็อก",
-      "path": "/c/block",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482985191-erxdk.png",
-      "position": 7,
-      "description": "ทำลายบล็อกสีสันและปลดล็อกคอมโบสุดเจ๋ง! "
-    },
-    {
-      "name": "ไฮเปอร์คาซูเอล",
+      "name": "Hypercasual",
       "path": "/c/hypercasual",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "ความสนุกแบบแตะเดียวที่เหมาะกับตารางงานที่ยุ่งของคุณ!",
-      "position": 8
+      "description": "ความสนุกเพียงปลายนิ้วที่เหมาะกับตารางงานอันวุ่นวายของคุณ!",
+      "position": 7
     },
     {
       "name": "ปริศนา",
@@ -189,18 +179,18 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
-      "position": 9,
-      "description": "ฝึกสมองของคุณด้วยปริศนาและทางลับที่ซับซ้อน! "
+      "position": 8,
+      "description": "ฝึกสมองของคุณด้วยปริศนาและหนทางที่ซับซ้อน!"
     },
     {
-      "name": "ดนตรี",
+      "name": "เพลง",
       "path": "/c/music",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
-      "position": 10,
-      "description": "เต้นตามจังหวะและเป็นเจ้าแห่งจังหวะ!"
+      "position": 9,
+      "description": "สัมผัสจังหวะ และกลายเป็นปรมาจารย์ดนตรี!"
     },
     {
       "name": "กีฬา",
@@ -209,8 +199,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
-      "position": 11,
-      "description": "ทำประตู ทำแคร้ง และทำลายสถิติได้ในทันที!"
+      "position": 10,
+      "description": "ทำประตู สแลมดัน และทำลายสถิติทันที!"
     },
     {
       "name": "ผู้เล่นหลายคน",
@@ -219,8 +209,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
-      "position": 12,
-      "description": "ร่วมทีมหรือแข่งขันกับเพื่อนทั่วโลก!"
+      "position": 11,
+      "description": "รวมทีมหรือแข่งขันกับเพื่อนทั่วโลก!"
     },
     {
       "name": "คลิกเกอร์",
@@ -229,8 +219,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483016845-q3l71i.png",
-      "position": 13,
-      "description": "แตะเพื่อรับทองคำและสร้างอาณาจักรของคุณอัตโนมัติ!"
+      "position": 12,
+      "description": "แตะเพื่อรับทองคำและอัตโนมัติอาณาจักรของคุณ!"
     },
     {
       "name": "ทำอาหาร",
@@ -239,18 +229,18 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484130517-98a2qo.png",
-      "position": 14,
-      "description": "ทำอาหารอร่อยๆ ใน 60 วินาที!"
+      "position": 13,
+      "description": "เตรียมอาหารอร่อยๆ ใน 60 วินาที! "
     },
     {
-      "name": "เกษตรกรรม",
+      "name": "การทำฟาร์ม",
       "path": "/c/farming",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
-      "position": 15,
-      "description": "เก็บเกี่ยวพืชผลและสร้างฟาร์มฝันของคุณด้วยการแตะเพียงครั้งเดียว! "
+      "position": 14,
+      "description": "เก็บเกี่ยวพืชผลและสร้างฟาร์มฝันของคุณเพียงปลายนิ้ว! "
     },
     {
       "name": ".IO",
@@ -259,7 +249,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
-      "position": 16,
+      "position": 15,
       "description": "กิน เติบโต และครองจักรวาล .IO! "
     },
     {
@@ -269,8 +259,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
-      "position": 17,
-      "description": "ดำดิ่งสู่โลก 3 มิติที่เต็มไปด้วยกราฟิกที่สวยงาม! "
+      "position": 16,
+      "description": "ดำดิ่งสู่โลก 3 มิติอันน่าดึงดูดใจด้วยกราฟิกที่สวยงาม! "
     }
   ]
 }

@@ -163,16 +163,6 @@
       "description": "Burn rubber and drift into victory!"
     },
     {
-      "name": "Block",
-      "path": "/c/block",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482985191-erxdk.png",
-      "position": 7,
-      "description": "Smash colorful blocks and unlock epic combos! "
-    },
-    {
       "name": "Hypercasual",
       "path": "/c/hypercasual",
       "pageSize": 15,
@@ -180,7 +170,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
       "description": "One-tap fun that fits your busy schedule!",
-      "position": 8
+      "position": 7
     },
     {
       "name": "Puzzle",
@@ -189,7 +179,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
-      "position": 9,
+      "position": 8,
       "description": "Train your brain with mind-bending riddles and mazes! "
     },
     {
@@ -199,7 +189,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
-      "position": 10,
+      "position": 9,
       "description": "ap to the beat and become a rhythm master!"
     },
     {
@@ -209,7 +199,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
-      "position": 11,
+      "position": 10,
       "description": "Score goals, slam dunks, and break records instantly!"
     },
     {
@@ -219,7 +209,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
-      "position": 12,
+      "position": 11,
       "description": "Team up or compete with friends globally!"
     },
     {
@@ -229,7 +219,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483016845-q3l71i.png",
-      "position": 13,
+      "position": 12,
       "description": "Tap to earn gold and automate your empire!"
     },
     {
@@ -239,7 +229,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484130517-98a2qo.png",
-      "position": 14,
+      "position": 13,
       "description": "Whip up delicious meals in 60 seconds flat! "
     },
     {
@@ -249,7 +239,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
-      "position": 15,
+      "position": 14,
       "description": "Harvest crops and build your dream farm with a single tap! "
     },
     {
@@ -259,7 +249,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
-      "position": 16,
+      "position": 15,
       "description": "Eat, grow, and dominate the .IO universe! "
     },
     {
@@ -269,7 +259,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
-      "position": 17,
+      "position": 16,
       "description": "Dive into immersive 3D worlds with stunning graphics! "
     }
   ]

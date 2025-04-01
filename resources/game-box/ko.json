@@ -17,7 +17,7 @@
     },
     {
       "visible": true,
-      "url": "/games/join-clash-3d",
+      "url": "/games/paper-io-2",
       "position": 4
     },
     {
@@ -103,154 +103,144 @@
   ],
   "categories": [
     {
-      "name": "热门",
+      "name": "인기",
       "path": "/c/hot",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482487626-9yoz3s.png",
-      "description": "本月最受欢迎的游戏——不容错过！",
+      "description": "이달 가장 많이 플레이되는 게임 – 놓치지 마세요!",
       "position": 1
     },
     {
-      "name": "最佳",
+      "name": "최고",
       "path": "/c/best",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482501773-ytwu4f.png",
       "position": 2,
-      "description": "精心挑选的顶级游戏，保证让你玩得开心！"
+      "description": "수작으로 선정된 최고 게임 – 즐거움이 보장됩니다!"
     },
     {
-      "name": "动作",
+      "name": "액션",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "用剑舞冒险，挑战重重关卡！",
+      "description": "검을 휘두르며 도전을 극복하는 모험!",
       "position": 3
     },
     {
-      "name": "冒险",
+      "name": "모험",
       "path": "/c/adventure",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "踏上激动人心的旅程，探索隐藏的宝藏！"
+      "description": "짜릿한 모험을 떠나 숨겨진 보물을 찾으세요!"
     },
     {
-      "name": "射击",
+      "name": "슈팅",
       "path": "/c/shooting",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "瞄准，射击，迅速掌控战场！"
+      "description": "목표를 정조준하고, 발사하여 전장을 제압하세요!"
     },
     {
-      "name": "赛车",
+      "name": "레이싱",
       "path": "/c/racing",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "摩擦轮胎，漂移取胜！"
+      "description": "타이어를 태우고 승리로 질주하세요!"
     },
     {
-      "name": "方块",
-      "path": "/c/block",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482985191-erxdk.png",
-      "position": 7,
-      "description": "粉碎多彩的方块，解锁史诗般的连击！"
-    },
-    {
-      "name": "休闲",
+      "name": "하이퍼캐주얼",
       "path": "/c/hypercasual",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "一键轻松，适合你的忙碌时间！",
-      "position": 8
+      "description": "바쁜 일정에도 즐길 수 있는 터치형 게임!",
+      "position": 7
     },
     {
-      "name": "益智",
+      "name": "퍼즐",
       "path": "/c/puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
-      "position": 9,
-      "description": "用脑筋急转弯和迷宫训练你的大脑！"
+      "position": 8,
+      "description": "지혜를 테스트하는 난해한 수수께끼와 미로로 두뇌를 훈련하세요!"
     },
     {
-      "name": "音乐",
+      "name": "음악",
       "path": "/c/music",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
-      "position": 10,
-      "description": "跟着节奏，成为节奏大师！"
+      "position": 9,
+      "description": "리듬에 맞춰 박자를 익히고 리듬 마스터가 되세요!"
     },
     {
-      "name": "运动",
+      "name": "스포츠",
       "path": "/c/sports",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
-      "position": 11,
-      "description": "立即得分，扣篮，打破记录！"
+      "position": 10,
+      "description": "골을 넣고, 덩크슛을 날리고, 기록을 경신하세요!"
     },
     {
-      "name": "多人游戏",
+      "name": "멀티플레이어",
       "path": "/c/multiplayer",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
-      "position": 12,
-      "description": "与全球朋友一起组队或竞争！"
+      "position": 11,
+      "description": "전 세계 친구들과 팀을 이루거나 경쟁하세요!"
     },
     {
-      "name": "点击器",
+      "name": "클릭러",
       "path": "/c/clicker",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483016845-q3l71i.png",
-      "position": 13,
-      "description": "点击获取金币，自动化你的帝国！"
+      "position": 12,
+      "description": "탭하여 골드를 획득하고, 자동화된 제국을 건설하세요!"
     },
     {
-      "name": "烹饪",
+      "name": "요리",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484130517-98a2qo.png",
-      "position": 14,
-      "description": "60秒内制作美味佳肴！"
+      "position": 13,
+      "description": "60초 만에 맛있는 요리를 하세요!"
     },
     {
-      "name": "农场",
+      "name": "농업",
       "path": "/c/farming",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
-      "position": 15,
-      "description": "收获农作物，点击一下建立你的梦想农场！"
+      "position": 14,
+      "description": "단 한 번의 탭으로 농작물을 수확하고 꿈의 농장을 건설하세요!"
     },
     {
       "name": ".IO",
@@ -259,8 +249,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
-      "position": 16,
-      "description": "吞噬，成长，统治.IO宇宙！"
+      "position": 15,
+      "description": ".IO 유니버스에서 먹고, 자라고, 지배하세요!"
     },
     {
       "name": "3D",
@@ -269,8 +259,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
-      "position": 17,
-      "description": "沉浸在令人惊叹的3D世界中！"
+      "position": 16,
+      "description": "숨막히는 그래픽으로 몰입적인 3D 세계로 뛰어드세요!"
     }
   ]
 }

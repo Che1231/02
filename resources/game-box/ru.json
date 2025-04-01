@@ -17,7 +17,7 @@
     },
     {
       "visible": true,
-      "url": "/games/join-clash-3d",
+      "url": "/games/paper-io-2",
       "position": 4
     },
     {
@@ -120,7 +120,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482501773-ytwu4f.png",
       "position": 2,
-      "description": "Выбранные лучшие игры, гарантированно доставляющие удовольствие!"
+      "description": "Лучшие игры, отобранные вручную, гарантированно развлекут!"
     },
     {
       "name": "Экшен",
@@ -129,7 +129,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Прокладывайте путь к победе с приключениями, полными взмахов мечей!",
+      "description": "Прокладывайте путь к победе с приключениями, полными мечей!",
       "position": 3
     },
     {
@@ -140,10 +140,10 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "Отправляйтесь в захватывающие приключения и откройте для себя скрытые сокровища!"
+      "description": "Отправляйтесь в захватывающие квесты и откройте для себя скрытые сокровища!"
     },
     {
-      "name": "Стрелялки",
+      "name": "Стрельба",
       "path": "/c/shooting",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -160,17 +160,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "Жгите шины и дрифтуйте к победе!"
-    },
-    {
-      "name": "Блочные",
-      "path": "/c/block",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482985191-erxdk.png",
-      "position": 7,
-      "description": "Разрушайте разноцветные блоки и открывайте эпические комбинации!"
+      "description": "Сожгите резину и устройте дрифт к победе!"
     },
     {
       "name": "Гиперкежуальные",
@@ -179,8 +169,8 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Легкое и увлекательное развлечение на один клик, идеально подходящее для вашей занятой жизни!",
-      "position": 8
+      "description": "Развлечения одним касанием, подходящие для вашего загруженного графика!",
+      "position": 7
     },
     {
       "name": "Головоломки",
@@ -189,7 +179,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
-      "position": 9,
+      "position": 8,
       "description": "Тренируйте свой мозг с головоломками и лабиринтами!"
     },
     {
@@ -199,8 +189,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
-      "position": 10,
-      "description": "Вступайте в ритм и станьте мастером музыки!"
+      "position": 9,
+      "description": "Танцуйте под ритм и станьте мастером ритма!"
     },
     {
       "name": "Спорт",
@@ -209,7 +199,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
-      "position": 11,
+      "position": 10,
       "description": "Забивайте голы, выполняйте броски и устанавливайте рекорды мгновенно!"
     },
     {
@@ -219,8 +209,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
-      "position": 12,
-      "description": "Объединяйтесь или соревнуйтесь с друзьями по всему миру!"
+      "position": 11,
+      "description": "Соединяйтесь или соревнуйтесь с друзьями по всему миру!"
     },
     {
       "name": "Кликер",
@@ -229,7 +219,7 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483016845-q3l71i.png",
-      "position": 13,
+      "position": 12,
       "description": "Нажимайте, чтобы заработать золото и автоматизировать свою империю!"
     },
     {
@@ -239,8 +229,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484130517-98a2qo.png",
-      "position": 14,
-      "description": "Готовьте вкусные блюда за считанные секунды!"
+      "position": 13,
+      "description": "Приготовьте вкусную еду за 60 секунд!"
     },
     {
       "name": "Фермерство",
@@ -249,8 +239,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
-      "position": 15,
-      "description": "Собирайте урожай и стройте свою ферму мечты одним нажатием!"
+      "position": 14,
+      "description": "Соберите урожай и постройте свою ферму мечты одним нажатием!"
     },
     {
       "name": ".IO",
@@ -259,8 +249,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
-      "position": 16,
-      "description": "Ешьте, растите и доминируйте в .IO-вселенной!"
+      "position": 15,
+      "description": "Ешьте, растите и доминируйте в .IO вселенной!"
     },
     {
       "name": "3D",
@@ -269,8 +259,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
-      "position": 17,
-      "description": "Погрузитесь в захватывающие 3D-миры с потрясающей графикой!"
+      "position": 16,
+      "description": "Погрузитесь в захватывающие 3D миры с потрясающей графикой!"
     }
   ]
 }
