@@ -1,0 +1,77 @@
+{
+  "2player-tanks-of-war": {
+    "title": "2인용 탱크 전쟁 - 현실적인 탱크 전투 게임",
+    "slogan": "싸우고, 폭발시키고, 이기세요!",
+    "description": "2인용 탱크 전쟁에서 격렬한 탱크 전투를 준비하세요! 8개의 독특한 지도에서 친구와 도전하세요. 가장 많은 타격을 가진 사람이 승리합니다! 은하수 의상으로 탱크를 커스터마이징하고 전장을 지배하세요. 전략적으로 생각하고, 정확하게 조준하고, 친구를 폭발시켜 승리를 거머쥐세요. 도전 준비가 되셨나요? 지금 플레이하고 당신의 실력을 증명하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "유용한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "2인용 탱크 전쟁",
+      "description": "2인용 탱크 전쟁으로 현실적인 탱크 전투의 짜릿함을 경험하세요. 8개의 지도에서 친구와 싸우고, 정확하게 조준하여 상대를 공격하여 승리하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "2인용 탱크 전쟁",
+      "whatIsTitle": "2인용 탱크 전쟁이란 무엇인가요?",
+      "whatIsDescription": "2인용 탱크 전쟁은 8개의 독특한 지도에서 친구와 겨루는 흥미진진한 탱크 전투 게임입니다. 목표는 상대를 가장 많이 공격하여 승리하는 것입니다!",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "지도를 선택하고 전투를 시작합니다.",
+      "howToPlayStep2": "정확히 조준하여 상대를 공격합니다.",
+      "howToPlayStep3": "가장 많은 타격을 가진 플레이어가 게임에서 승리합니다!",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "현실적인 탱크 전투",
+      "feature1Description": "디테일한 그래픽과 물리 엔진으로 현실적인 탱크 전투의 긴장감을 경험하세요.",
+      "feature2Title": "8개의 독특한 지도",
+      "feature2Description": "각각 고유한 난이도와 지형이 있는 8개의 서로 다른 지도에서 전투를 벌이세요.",
+      "feature3Title": "은하수 의상",
+      "feature3Description": "전장에서 눈에 띄도록 탱크를 은하수 의상으로 커스터마이징하세요.",
+      "feature4Title": "전략적인 플레이",
+      "feature4Description": "움직임을 신중하게 계획하고, 정확하게 조준하여 상대를 제압하고 승리하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

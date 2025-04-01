@@ -1,0 +1,77 @@
+{
+  "2player-tanks-of-war": {
+    "title": "2Player Tanks of War - Realistic Tank Battle Game",
+    "slogan": "Fight, Blow Up, and Win!",
+    "description": "Get ready for an intense tank battle in 2Player Tanks of War! Challenge your friend across 8 unique maps. The one with the most hits wins! Customize your tank with a galaxy costume and dominate the battlefield. Be strategic, aim carefully, and blow up your friend to claim victory. Are you ready to take on the challenge? Play now and prove your skills!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "2Player Tanks of War",
+      "description": "Experience the thrill of a realistic tank battle with 2Player Tanks of War. Fight your friend across 8 maps, aim carefully, and blow up your opponent to win!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "2Player Tanks of War",
+      "whatIsTitle": "What is 2Player Tanks of War?",
+      "whatIsDescription": "2Player Tanks of War is a thrilling tank battle game where you face off against a friend across 8 unique maps. The goal is simple: blow up your opponent the most times to win!",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Choose a map and start the battle.",
+      "howToPlayStep2": "Aim carefully and shoot to hit your opponent.",
+      "howToPlayStep3": "The player with the most hits wins the game!",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Realistic Tank Battles",
+      "feature1Description": "Experience the intensity of realistic tank battles with detailed graphics and physics.",
+      "feature2Title": "8 Unique Maps",
+      "feature2Description": "Fight across 8 different maps, each with unique challenges and terrain.",
+      "feature3Title": "Galaxy Costume",
+      "feature3Description": "Customize your tank with a galaxy costume to stand out on the battlefield.",
+      "feature4Title": "Strategic Gameplay",
+      "feature4Description": "Plan your moves carefully, aim precisely, and outsmart your opponent to win."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

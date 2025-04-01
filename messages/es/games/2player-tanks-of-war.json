@@ -1,0 +1,77 @@
+{
+  "2player-tanks-of-war": {
+    "title": "2Player Tanques de Guerra - Juego de Batalla de Tanques Realista",
+    "slogan": "¡Lucha, explota y gana!",
+    "description": "¡Prepárate para una intensa batalla de tanques en 2Player Tanks of War! Desafía a tu amigo en 8 mapas únicos. ¡El que más golpes registre gana! Personaliza tu tanque con un disfraz galáctico y domina el campo de batalla. Sé estratégico, apunta con cuidado y explota a tu amigo para reclamar la victoria. ¿Estás listo para asumir el desafío? ¡Juega ahora y demuestra tus habilidades!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Términos de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "2Player Tanques de Guerra",
+      "description": "Experimenta la emoción de una batalla de tanques realista con 2Player Tanks of War. Lucha contra tu amigo en 8 mapas, apunta con cuidado y explota a tu oponente para ganar!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "2Player Tanques de Guerra",
+      "whatIsTitle": "¿Qué es 2Player Tanks of War?",
+      "whatIsDescription": "2Player Tanks of War es un emocionante juego de batalla de tanques donde te enfrentas a un amigo en 8 mapas únicos. ¡El objetivo es simple: ¡explota a tu oponente la mayor cantidad de veces para ganar!",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Elige un mapa y comienza la batalla.",
+      "howToPlayStep2": "Apunta con cuidado y dispara para golpear a tu oponente.",
+      "howToPlayStep3": "¡El jugador con más golpes gana el juego!",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Batallas de tanques realistas",
+      "feature1Description": "Experimenta la intensidad de las batallas de tanques realistas con gráficos y físicas detalladas.",
+      "feature2Title": "8 Mapas únicos",
+      "feature2Description": "Lucha en 8 mapas diferentes, cada uno con desafíos y terrenos únicos.",
+      "feature3Title": "Disfraz galáctico",
+      "feature3Description": "Personaliza tu tanque con un disfraz galáctico para destacar en el campo de batalla.",
+      "feature4Title": "Jugabilidad estratégica",
+      "feature4Description": "Planifica tus movimientos con cuidado, apunta con precisión y supera a tu oponente para ganar."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

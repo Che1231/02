@@ -1,0 +1,77 @@
+{
+  "2player-tanks-of-war": {
+    "title": "2Player Panzerkriege - Realistisches Panzer-Kampfspiel",
+    "slogan": "Kämpfen, Sprengen und Gewinnen!",
+    "description": "Bereiten Sie sich auf einen intensiven Panzerkampf in 2Player Tanks of War vor! Fordern Sie Ihren Freund auf 8 einzigartigen Karten heraus. Derjenige mit den meisten Treffern gewinnt! Passen Sie Ihren Panzer mit einem Galaxie-Kostüm an und dominieren Sie das Schlachtfeld. Seien Sie strategisch, zielen Sie genau und sprengen Sie Ihren Freund, um den Sieg zu erringen. Sind Sie bereit, die Herausforderung anzunehmen? Spielen Sie jetzt und beweisen Sie Ihr Können!",
+    "Loading": {
+      "title": "Lädt..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "2Player Panzerkriege",
+      "description": "Erleben Sie den Nervenkitzel eines realistischen Panzerkampfes mit 2Player Panzerkriege. Kämpfen Sie Ihren Freund auf 8 Karten, zielen Sie genau und sprengen Sie Ihren Gegner, um zu gewinnen!",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "2Player Panzerkriege",
+      "whatIsTitle": "Was ist 2Player Panzerkriege?",
+      "whatIsDescription": "2Player Panzerkriege ist ein spannendes Panzerkampfspiel, bei dem Sie sich mit einem Freund auf 8 einzigartigen Karten messen. Das Ziel ist einfach: Sprengen Sie Ihren Gegner so oft wie möglich, um zu gewinnen!",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Wählen Sie eine Karte und starten Sie den Kampf.",
+      "howToPlayStep2": "Zielen Sie genau und schießen Sie auf Ihren Gegner.",
+      "howToPlayStep3": "Der Spieler mit den meisten Treffern gewinnt das Spiel!",
+      "keyFeaturesTitle": "Hauptmerkmale",
+      "feature1Title": "Realistische Panzerkämpfe",
+      "feature1Description": "Erleben Sie die Intensität realistischen Panzerkämpfen mit detaillierter Grafik und Physik.",
+      "feature2Title": "8 einzigartige Karten",
+      "feature2Description": "Kämpfen Sie auf 8 verschiedenen Karten, jede mit einzigartigen Herausforderungen und Gelände.",
+      "feature3Title": "Galaxie-Kostüm",
+      "feature3Description": "Passen Sie Ihren Panzer mit einem Galaxie-Kostüm an, um sich auf dem Schlachtfeld abzuheben.",
+      "feature4Title": "Strategisches Gameplay",
+      "feature4Description": "Planen Sie Ihre Züge sorgfältig, zielen Sie präzise und überlisten Sie Ihren Gegner, um zu gewinnen."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

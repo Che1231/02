@@ -1,0 +1,77 @@
+{
+  "2player-tanks-of-war": {
+    "title": "2人坦克大战 - 真实坦克对战游戏",
+    "slogan": "战斗、爆炸并获胜！",
+    "description": "准备好参加2人坦克大战的激烈坦克对战吧！在8张独特的地图上挑战你的朋友。击中次数最多的人获胜！用银河服装定制你的坦克，并在战场上称霸。制定策略，仔细瞄准，炸掉你的朋友以取得胜利。你准备好接受挑战了吗？现在就玩，证明你的技能！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "2人坦克大战",
+      "description": "体验2人坦克大战带来的真实坦克对战乐趣。在8张地图上与你的朋友战斗，仔细瞄准，炸毁对手以获胜！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "2人坦克大战",
+      "whatIsTitle": "什么是2人坦克大战？",
+      "whatIsDescription": "2人坦克大战是一款令人兴奋的坦克对战游戏，让你在8张独特的图上与你的朋友对战。目标很简单：击中你的对手次数最多，以取得胜利！",
+      "howToPlayTitle": "如何游戏",
+      "howToPlayStep1": "选择地图并开始战斗。",
+      "howToPlayStep2": "仔细瞄准并射击以击中对手。",
+      "howToPlayStep3": "击中次数最多的人赢得游戏！",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "真实坦克对战",
+      "feature1Description": "体验逼真的坦克对战，拥有详细的图形和物理效果。",
+      "feature2Title": "8张独特地图",
+      "feature2Description": "在8张不同的地图上战斗，每张地图都有独特的挑战和地形。",
+      "feature3Title": "银河服装",
+      "feature3Description": "用银河服装定制你的坦克，在战场上脱颖而出。",
+      "feature4Title": "策略游戏",
+      "feature4Description": "仔细计划你的行动，精确瞄准，击败对手以取得胜利。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏列表"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}
