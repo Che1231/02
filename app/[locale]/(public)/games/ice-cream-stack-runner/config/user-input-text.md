@@ -1,0 +1,1 @@
+Ice Cream Stack Runner is a fun game combining parkour with everyones favorite food: ice cream.Run through a world full of obstacles while stacking the best ice cream cones. You will control ten stickmen on the parkour platform. Lead them to collect ice cream cones. Top it up with ice cream and candy.
