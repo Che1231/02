@@ -1,0 +1,77 @@
+{
+  "stack-n-sort": {
+    "title": "堆疊排序：免費線上益智遊戲",
+    "slogan": "排序、堆疊並整理彩環！",
+    "description": "體驗堆疊排序的究極益智挑戰！在本款有趣且令人上癮的遊戲中，將彩環排序並堆疊到正確的柱子上。在有限的空間和棘手的排列下，測試您的邏輯和策略。準備好迎接刺激大腦的體驗了嗎？現在就玩堆疊排序！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導覽列"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "堆疊排序：究極的排序益智挑戰",
+      "description": "在本款有趣且令人上癮的益智遊戲中，排序、堆疊並整理彩環！在有限的空間和棘手的排列下，測試您的邏輯和策略。現在就玩堆疊排序！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "堆疊排序：究極的排序益智挑戰",
+      "whatIsTitle": "什麼是堆疊排序？",
+      "whatIsDescription": "堆疊排序是一款有趣且令人上癮的益智遊戲，您需要將彩環排序並堆疊到正確的柱子上。在有限的空間和棘手的排列下，測試您的邏輯和策略。",
+      "howToPlayTitle": "如何遊戲",
+      "howToPlayStep1": "點擊並拖動將環移到不同柱子上。",
+      "howToPlayStep2": "將相同顏色的環堆疊在一起。",
+      "howToPlayStep3": "仔細計劃您的動作 – 空間有限！",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "繽紛的環",
+      "feature1Description": "在本款有趣的益智遊戲中排序及堆疊不同顏色的環。",
+      "feature2Title": "具有挑戰性的關卡",
+      "feature2Description": "在棘手的排列下，測試您的邏輯性和策略性思維。",
+      "feature3Title": "令人上癮的遊戲體驗",
+      "feature3Description": "享受數小時的樂趣，體驗這款令人上癮的益智遊戲。",
+      "feature4Title": "刺激大腦的益智謎題",
+      "feature4Description": "在有限的空間和棘手的謎題中挑戰您的思維。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題集"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "玩家評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "檢視更多",
+      "page": "頁碼"
+    }
+  }
+}

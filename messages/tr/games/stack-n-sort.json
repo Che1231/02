@@ -1,0 +1,77 @@
+{
+  "stack-n-sort": {
+    "title": "Yığın ve Sırala: Ücretsiz Çevrimiçi Bulmaca Oyunu",
+    "slogan": "Renkli Halkaları Sırala, Yığınla ve Düzenle!",
+    "description": "Yığın ve Sırala ile en son bulmaca meydan okumasını yaşayın! Bu eğlenceli ve bağımlılık yapan oyunda renkli halkaları doğru direklere sıralayın ve yığınlayın. Sınırlı alan ve karmaşık düzenlemelerle mantığınızı ve stratejinizi test edin. Beyin zorlayıcı bir deneyime hazır mısınız? Şimdi Yığın ve Sırala oynayın!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Yığın ve Sırala: En Son Sıralama Bulmaca Meydan Okuması",
+      "description": "Bu eğlenceli ve bağımlılık yapan bulmaca oyununda renkli halkaları sıralayın, yığınlayın ve düzenleyin! Sınırlı alan ve karmaşık düzenlemelerle mantığınızı ve stratejinizi test edin. Şimdi Yığın ve Sırala oynayın!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Yığın ve Sırala: En Son Sıralama Bulmaca Meydan Okuması",
+      "whatIsTitle": "Yığın ve Sırala Nedir?",
+      "whatIsDescription": "Yığın ve Sırala, renkli halkaları doğru direklere sıralayıp yığdığınız eğlenceli ve bağımlılık yapan bir bulmaca oyunudur. Sınırlı alan ve karmaşık düzenlemelerle mantığınızı ve stratejinizi test edin.",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Halkaları direkler arasında taşımak için dokunun ve sürükleyin.",
+      "howToPlayStep2": "Aynı renkteki halkaları yığınlayın.",
+      "howToPlayStep3": "Hareketlerinizi dikkatlice planlayın – sınırlı alan!",
+      "keyFeaturesTitle": "Temel Özellikler",
+      "feature1Title": "Renkli Halkalar",
+      "feature1Description": "Bu eğlenceli bulmaca oyununda renkli halkaları sıralayın ve yığınlayın.",
+      "feature2Title": "Zorlu Seviyeler",
+      "feature2Description": "Karmaşık düzenlemelerle mantığınızı ve stratejinizi test edin.",
+      "feature3Title": "Bağımlılık Yapan Oyun",
+      "feature3Description": "Bu bağımlılık yapan bulmaca oyunuyla saatlerce eğlenin.",
+      "feature4Title": "Zihin Zorlayıcı Bulmacalar",
+      "feature4Description": "Sınırlı alan ve karmaşık bulmacalar ile beyninizi zorlayın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Hiç kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

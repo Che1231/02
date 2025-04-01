@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Cómo realizo apilamientos básicos en Stack N Sort?",
+    "answer": "Para realizar apilamientos básicos en Stack N Sort, siga estos pasos: PASO 1: Seleccione un elemento del inventario. PASO 2: Arrastre y suelte el elemento sobre el área de apilamiento. PASO 3: Alinéelo cuidadosamente para asegurar la estabilidad. Por ejemplo, colocar una caja más pequeña encima de una más grande evita que la pila se vuelque. Utilice la función \"Apilamiento automático\" para simplificar el proceso para principiantes."
+  },
+  {
+    "question": "¿Cuáles son las estrategias esenciales para jugadores avanzados en Stack N Sort?",
+    "answer": "Los jugadores avanzados en Stack N Sort deben concentrarse en: PASO 1: Priorizar la apilación de elementos con formas similares para maximizar el espacio. PASO 2: Utilice la función \"Rotar\" para ajustar los elementos de manera más eficiente. PASO 3: Planifique con anticipación visualizando el diseño final de la pila. Por ejemplo, rotar una caja rectangular verticalmente puede ahorrar espacio horizontal. Considere usar la opción \"Apilamiento múltiple\" para arreglos complejos."
+  },
+  {
+    "question": "¿Por qué el medidor de estabilidad en Stack N Sort fluctúa?",
+    "answer": "El medidor de estabilidad en Stack N Sort fluctúa según el equilibrio y la distribución del peso de la pila. Por ejemplo, colocar un elemento pesado encima de uno más ligero disminuye la estabilidad. Para mantener una alta estabilidad, asegúrese de que los elementos más pesados se coloquen en la parte inferior y los más ligeros en la parte superior. El medidor también considera la alineación y la simetría de la pila."
+  },
+  {
+    "question": "¿Cómo funciona el sistema de puntuación en Stack N Sort?",
+    "answer": "El sistema de puntuación en Stack N Sort evalúa tres factores principales: estabilidad, velocidad y eficiencia. La estabilidad se determina por la capacidad de la pila para mantener su equilibrio. La velocidad se basa en la rapidez con la que completa la tarea de apilamiento. La eficiencia mide qué tan bien utiliza el espacio disponible. Por ejemplo, una pila perfectamente equilibrada con un mínimo de espacio desperdiciado obtendrá la puntuación más alta."
+  },
+  {
+    "question": "¿Qué objetos en Stack N Sort son los más difíciles de apilar?",
+    "answer": "Los objetos más difíciles de apilar en Stack N Sort son los de forma irregular, como las esferas y los conos. Estos objetos requieren una colocación precisa para mantener la estabilidad. Por ejemplo, apilar un cono sobre una superficie plana es más fácil que colocarlo sobre una superficie curva. Utilice el modo \"Precisión\" para ajustar la posición de estos objetos con mayor precisión."
+  },
+  {
+    "question": "¿Cuáles son las mejores prácticas para la migración de datos en Stack N Sort entre diferentes plataformas?",
+    "answer": "Para migrar datos en Stack N Sort entre plataformas: PASO 1: Asegúrese de que ambos dispositivos estén conectados a la misma cuenta. PASO 2: Utilice la función \"Guardar en la nube\" para cargar su progreso. PASO 3: Descargue los datos guardados en el nuevo dispositivo. Por ejemplo, transferir el progreso de un dispositivo móvil a una PC requiere iniciar sesión en la misma cuenta en ambas plataformas. Verifique la integridad de los datos después de la migración."
+  },
+  {
+    "question": "¿Cómo puedo desbloquear niveles ocultos en Stack N Sort?",
+    "answer": "Los niveles ocultos en Stack N Sort se desbloquean al lograr hitos específicos. Por ejemplo, completar 50 apilamientos con una calificación de estabilidad superior al 90% desbloquea un nivel especial. Además, encontrar y apilar elementos ocultos dentro del juego también puede revelar niveles secretos. Esté atento a elementos inusuales que no se ajusten a los criterios de apilamiento habituales."
+  },
+  {
+    "question": "¿Cuál es el impacto del peso del objeto en la apilación en Stack N Sort?",
+    "answer": "El peso del objeto afecta significativamente la apilación en Stack N Sort. Los objetos más pesados proporcionan una base más estable, pero son más difíciles de colocar encima de objetos más ligeros. Por ejemplo, colocar una caja de 10 kg en la base de la pila y una de 2 kg encima asegura una mejor estabilidad. El juego penaliza la inestabilidad reduciendo la puntuación total, así que siempre considere la distribución del peso."
+  },
+  {
+    "question": "¿Cómo puedo optimizar la velocidad de apilamiento en Stack N Sort sin comprometer la estabilidad?",
+    "answer": "Para optimizar la velocidad de apilamiento en Stack N Sort manteniendo la estabilidad: PASO 1: Familiarícese con las formas y pesos de los objetos. PASO 2: Utilice la función \"Apilamiento rápido\" para los objetos que usa con frecuencia. PASO 3: Practique movimientos de manos eficientes para reducir el tiempo de colocación. Por ejemplo, apilar objetos similares en rápida sucesión puede ahorrar tiempo sin sacrificar la estabilidad. Revise regularmente su rendimiento para identificar áreas de mejora."
+  },
+  {
+    "question": "¿Cuáles son los beneficios de usar la función \"Apilamiento múltiple\" en Stack N Sort?",
+    "answer": "La función \"Apilamiento múltiple\" en Stack N Sort permite a los jugadores apilar varios objetos simultáneamente, mejorando la eficiencia y reduciendo el tiempo. Por ejemplo, apilar tres cajas a la vez puede ahorrar mucho tiempo en comparación con apilarlas individualmente. Esta función es particularmente útil en niveles cronometrados donde la velocidad es crucial. Sin embargo, requiere una alineación precisa para mantener la estabilidad de la pila."
+  }
+]

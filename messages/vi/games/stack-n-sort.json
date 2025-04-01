@@ -1,0 +1,77 @@
+{
+  "stack-n-sort": {
+    "title": "Trò chơi xếp chồng và sắp xếp: Trò chơi giải đố trực tuyến miễn phí",
+    "slogan": "Sắp xếp, chồng lên và sắp đặt những chiếc vòng nhiều màu sắc!",
+    "description": "Trải nghiệm thử thách giải đố cuối cùng với Stack N Sort! Sắp xếp và chồng những chiếc vòng nhiều màu sắc lên các thanh đúng trong trò chơi thú vị và gây nghiện này. Kiểm tra logic và chiến lược của bạn với không gian hạn chế và những sắp xếp khó khăn. Bạn đã sẵn sàng cho một trải nghiệm thử thách trí não chưa? Chơi Stack N Sort ngay bây giờ!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Đường dẫn"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Stack N Sort: Thử thách giải đố sắp xếp tối thượng",
+      "description": "Sắp xếp, chồng lên và sắp đặt các vòng nhiều màu sắc trong trò chơi giải đố thú vị và gây nghiện này! Kiểm tra logic và chiến lược của bạn với không gian hạn chế và những sắp xếp khó khăn. Chơi Stack N Sort ngay bây giờ!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào bộ nhớ tạm!",
+      "downloadGame": "Tải game xuống",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Stack N Sort: Thử thách giải đố sắp xếp tối thượng",
+      "whatIsTitle": "Stack N Sort là gì?",
+      "whatIsDescription": "Stack N Sort là một trò chơi giải đố thú vị và gây nghiện nơi bạn sắp xếp và chồng các vòng nhiều màu sắc lên các thanh đúng. Kiểm tra logic và chiến lược của bạn với không gian hạn chế và những sắp xếp khó khăn.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Nhấn và kéo để di chuyển các vòng giữa các thanh.",
+      "howToPlayStep2": "Chồng các vòng cùng màu lại với nhau.",
+      "howToPlayStep3": "Lên kế hoạch cho các bước di chuyển của bạn một cách cẩn thận - không gian hạn chế!",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Các vòng nhiều màu sắc",
+      "feature1Description": "Sắp xếp và chồng lên các vòng nhiều màu sắc trong trò chơi giải đố thú vị này.",
+      "feature2Title": "Các cấp độ đầy thách thức",
+      "feature2Description": "Kiểm tra logic và chiến lược của bạn với những sắp xếp khó khăn.",
+      "feature3Title": "Gameplay gây nghiện",
+      "feature3Description": "Tận hưởng những giờ phút vui vẻ với trò chơi giải đố gây nghiện này.",
+      "feature4Title": "Những câu đố thử thách trí não",
+      "feature4Description": "Thử thách trí não của bạn với không gian hạn chế và những câu đố khó khăn."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

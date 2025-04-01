@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Bagaimana cara melakukan penumpukan dasar di Stack N Sort?",
+    "answer": "Untuk melakukan penumpukan dasar di Stack N Sort, ikuti langkah-langkah berikut: LANGKAH 1: Pilih barang dari inventaris. LANGKAH 2: Seret dan lepas ke area tumpukan. LANGKAH 3: Sesuaikan posisinya dengan hati-hati untuk memastikan kestabilan. Misalnya, meletakkan kotak yang lebih kecil di atas kotak yang lebih besar mencegah tumpukan roboh. Gunakan fitur 'Otomatis-Tumpuk' untuk pemula agar prosesnya lebih mudah."
+  },
+  {
+    "question": "Apa strategi penting untuk pemain tingkat lanjut di Stack N Sort?",
+    "answer": "Pemain tingkat lanjut di Stack N Sort harus fokus pada: LANGKAH 1: Prioritaskan penumpukan barang dengan bentuk yang serupa untuk memaksimalkan ruang. LANGKAH 2: Gunakan fitur 'Putar' untuk menyesuaikan barang dengan lebih efisien. LANGKAH 3: Rencanakan terlebih dahulu dengan memvisualisasikan tata letak tumpukan akhir. Misalnya, memutar kotak persegi panjang secara vertikal dapat menghemat ruang horizontal. Pertimbangkan untuk menggunakan opsi 'Multi-Tumpuk' untuk pengaturan yang kompleks."
+  },
+  {
+    "question": "Mengapa meteran stabilitas di Stack N Sort berfluktuasi?",
+    "answer": "Meteran stabilitas di Stack N Sort berfluktuasi berdasarkan keseimbangan dan distribusi berat tumpukan. Misalnya, meletakkan barang berat di atas barang ringan mengurangi stabilitas. Untuk mempertahankan stabilitas tinggi, pastikan barang yang lebih berat diletakkan di bawah dan barang yang lebih ringan di atas. Meteran juga mempertimbangkan penyesuaian dan simetri tumpukan."
+  },
+  {
+    "question": "Bagaimana sistem penilaian di Stack N Sort bekerja?",
+    "answer": "Sistem penilaian di Stack N Sort mengevaluasi tiga faktor utama: stabilitas, kecepatan, dan efisiensi. Stabilitas ditentukan oleh seberapa baik tumpukan mempertahankan keseimbangannya. Kecepatan didasarkan pada seberapa cepat Anda menyelesaikan tugas penumpukan. Efisiensi mengukur seberapa baik Anda memanfaatkan ruang yang tersedia. Misalnya, tumpukan yang seimbang sempurna dengan ruang yang terpakai minimal akan menghasilkan skor tertinggi."
+  },
+  {
+    "question": "Barang apa di Stack N Sort yang paling menantang untuk ditumpuk?",
+    "answer": "Barang yang paling menantang di Stack N Sort adalah benda dengan bentuk tidak beraturan seperti bola dan kerucut. Barang-barang ini membutuhkan penempatan yang tepat untuk menjaga stabilitas. Misalnya, menumpuk kerucut di atas permukaan datar lebih mudah daripada meletakkannya di permukaan melengkung. Gunakan 'Mode Presisi' untuk menyesuaikan posisi barang-barang ini dengan lebih akurat."
+  },
+  {
+    "question": "Apa praktik terbaik untuk migrasi data di Stack N Sort di berbagai platform?",
+    "answer": "Untuk melakukan migrasi data di Stack N Sort di berbagai platform: LANGKAH 1: Pastikan kedua perangkat terhubung ke akun yang sama. LANGKAH 2: Gunakan fitur 'Simpan Cloud' untuk mengunggah kemajuan Anda. LANGKAH 3: Unduh data yang disimpan di perangkat baru. Misalnya, mentransfer kemajuan dari perangkat seluler ke PC membutuhkan masuk ke akun yang sama di kedua platform. Pastikan integritas data setelah migrasi."
+  },
+  {
+    "question": "Bagaimana saya dapat membuka level tersembunyi di Stack N Sort?",
+    "answer": "Level tersembunyi di Stack N Sort dibuka dengan mencapai tonggak tertentu. Misalnya, menyelesaikan 50 tumpukan dengan peringkat stabilitas di atas 90% membuka level khusus. Selain itu, menemukan dan menumpuk barang tersembunyi di dalam game juga dapat mengungkapkan level rahasia. Perhatikan barang-barang tidak biasa yang mungkin tidak sesuai dengan kriteria penumpukan biasa."
+  },
+  {
+    "question": "Bagaimana dampak berat barang terhadap penumpukan di Stack N Sort?",
+    "answer": "Berat barang sangat memengaruhi penumpukan di Stack N Sort. Barang yang lebih berat memberikan dasar yang lebih stabil tetapi lebih sulit diletakkan di atas barang yang lebih ringan. Misalnya, meletakkan kotak 10 kg di dasar tumpukan dan kotak 2 kg di atasnya memastikan stabilitas yang lebih baik. Gim menghukum ketidakstabilan dengan mengurangi skor keseluruhan, jadi selalu pertimbangkan distribusi berat."
+  },
+  {
+    "question": "Bagaimana cara mengoptimalkan kecepatan penumpukan saya di Stack N Sort tanpa mengorbankan stabilitas?",
+    "answer": "Untuk mengoptimalkan kecepatan penumpukan di Stack N Sort sambil mempertahankan stabilitas: LANGKAH 1: Biasakan diri Anda dengan bentuk dan berat barang. LANGKAH 2: Gunakan fitur 'Tumpukan Cepat' untuk barang yang sering digunakan. LANGKAH 3: Latih gerakan tangan yang efisien untuk mengurangi waktu penempatan. Misalnya, menumpuk barang serupa secara cepat dapat menghemat waktu tanpa mengorbankan stabilitas. Tinjau kinerja Anda secara teratur untuk mengidentifikasi area yang perlu ditingkatkan."
+  },
+  {
+    "question": "Apa manfaat menggunakan fitur 'Multi-Tumpuk' di Stack N Sort?",
+    "answer": "Fitur 'Multi-Tumpuk' di Stack N Sort memungkinkan pemain untuk menumpuk beberapa barang secara bersamaan, meningkatkan efisiensi dan mengurangi waktu. Misalnya, menumpuk tiga kotak sekaligus dapat menghemat waktu yang signifikan dibandingkan menumpuknya satu per satu. Fitur ini sangat berguna dalam level waktu yang dibatasi di mana kecepatan sangat penting. Namun, dibutuhkan penyesuaian yang tepat untuk mempertahankan stabilitas tumpukan."
+  }
+]

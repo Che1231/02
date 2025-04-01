@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Comment réaliser un empilage de base dans Stack N Sort ?",
+    "answer": "Pour effectuer un empilage de base dans Stack N Sort, suivez ces étapes : ÉTAPE 1 : Sélectionnez un élément dans l'inventaire. ÉTAPE 2 : Faites glisser et déposez-le sur la zone d'empilage. ÉTAPE 3 : Alignez-le soigneusement pour garantir la stabilité. Par exemple, placer une petite boîte sur une plus grande évite que l'empilement ne bascule. Utilisez la fonction « Empilage automatique » pour simplifier le processus pour les débutants."
+  },
+  {
+    "question": "Quelles sont les stratégies essentielles pour les joueurs avancés dans Stack N Sort ?",
+    "answer": "Les joueurs avancés dans Stack N Sort doivent se concentrer sur : ÉTAPE 1 : Privilégiez l'empilage d'objets de formes similaires pour maximiser l'espace. ÉTAPE 2 : Utilisez la fonction « Rotation » pour ajuster les objets plus efficacement. ÉTAPE 3 : Planifiez à l'avance en visualisant la disposition finale de l'empilement. Par exemple, faire pivoter une boîte rectangulaire verticalement peut économiser de l'espace horizontal. Envisagez d'utiliser l'option « Empilement multiple » pour des arrangements complexes."
+  },
+  {
+    "question": "Pourquoi le compteur de stabilité dans Stack N Sort fluctue-t-il ?",
+    "answer": "Le compteur de stabilité dans Stack N Sort fluctue en fonction de l'équilibre et de la répartition du poids de l'empilement. Par exemple, placer un objet lourd sur un objet plus léger diminue la stabilité. Pour maintenir une stabilité élevée, assurez-vous que les objets les plus lourds sont placés en bas et les plus légers en haut. Le compteur prend également en compte l'alignement et la symétrie de l'empilement."
+  },
+  {
+    "question": "Comment fonctionne le système de notation dans Stack N Sort ?",
+    "answer": "Le système de notation dans Stack N Sort évalue trois facteurs principaux : la stabilité, la vitesse et l'efficacité. La stabilité est déterminée par la capacité de l'empilement à maintenir son équilibre. La vitesse est basée sur la rapidité avec laquelle vous terminez la tâche d'empilage. L'efficacité mesure la manière dont vous utilisez l'espace disponible. Par exemple, un empilement parfaitement équilibré avec un minimum d'espace perdu permettra d'obtenir le meilleur score."
+  },
+  {
+    "question": "Quels sont les objets dans Stack N Sort les plus difficiles à empiler ?",
+    "answer": "Les objets les plus difficiles à empiler dans Stack N Sort sont les objets aux formes irrégulières comme les sphères et les cônes. Ces objets nécessitent un placement précis pour maintenir la stabilité. Par exemple, empiler un cône sur une surface plane est plus facile que de le placer sur une surface incurvée. Utilisez le mode « Précision » pour ajuster plus précisément la position de ces objets."
+  },
+  {
+    "question": "Quelles sont les meilleures pratiques pour la migration des données dans Stack N Sort entre différentes plateformes ?",
+    "answer": "Pour migrer les données dans Stack N Sort entre les plateformes : ÉTAPE 1 : Assurez-vous que les deux appareils sont connectés au même compte. ÉTAPE 2 : Utilisez la fonction « Sauvegarde dans le Cloud » pour télécharger vos progrès. ÉTAPE 3 : Téléchargez les données sauvegardées sur le nouvel appareil. Par exemple, transférer les progrès d'un appareil mobile vers un PC nécessite de se connecter au même compte sur les deux plateformes. Vérifiez l'intégrité des données après la migration."
+  },
+  {
+    "question": "Comment débloquer les niveaux cachés dans Stack N Sort ?",
+    "answer": "Les niveaux cachés dans Stack N Sort sont débloqués en atteignant des jalons spécifiques. Par exemple, terminer 50 empilements avec une cote de stabilité supérieure à 90 % débloque un niveau spécial. De plus, trouver et empiler des objets cachés dans le jeu peut également révéler des niveaux secrets. Gardez un œil sur les objets inhabituels qui pourraient ne pas correspondre aux critères d'empilement habituels."
+  },
+  {
+    "question": "Quel est l'impact du poids des objets sur l'empilage dans Stack N Sort ?",
+    "answer": "Le poids des objets a un impact significatif sur l'empilage dans Stack N Sort. Les objets plus lourds fournissent une base plus stable mais sont plus difficiles à placer sur des objets plus légers. Par exemple, placer une boîte de 10 kg au bas de l'empilement et une boîte de 2 kg sur le dessus assure une meilleure stabilité. Le jeu pénalise l'instabilité en réduisant le score global, alors tenez toujours compte de la répartition des poids."
+  },
+  {
+    "question": "Comment optimiser ma vitesse d'empilage dans Stack N Sort sans compromettre la stabilité ?",
+    "answer": "Pour optimiser la vitesse d'empilage dans Stack N Sort tout en maintenant la stabilité : ÉTAPE 1 : Familiarisez-vous avec les formes et les poids des objets. ÉTAPE 2 : Utilisez la fonction « Empilement rapide » pour les objets fréquemment utilisés. ÉTAPE 3 : Pratiquez des mouvements de mains efficaces pour réduire le temps de placement. Par exemple, empiler des objets similaires rapidement peut gagner du temps sans sacrifier la stabilité. Passez en revue régulièrement vos performances pour identifier les domaines à améliorer."
+  },
+  {
+    "question": "Quels sont les avantages de l'utilisation de la fonction « Empilement multiple » dans Stack N Sort ?",
+    "answer": "La fonction « Empilement multiple » dans Stack N Sort permet aux joueurs d'empiler plusieurs objets simultanément, améliorant l'efficacité et réduisant le temps. Par exemple, empiler trois boîtes à la fois peut économiser du temps considérable par rapport à leur empilage individuel. Cette fonctionnalité est particulièrement utile dans les niveaux chronométrés où la vitesse est essentielle. Cependant, elle exige un alignement précis pour maintenir la stabilité de l'empilement."
+  }
+]

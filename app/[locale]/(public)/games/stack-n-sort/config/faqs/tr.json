@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Stack N Sort'te temel istiflemeyi nasıl gerçekleştiririm?",
+    "answer": "Stack N Sort'ta temel istiflemeyi gerçekleştirmek için şu adımları izleyin: ADIM 1: Envanterden bir öğe seçin. ADIM 2: Üzerine sürükle bırak yöntemiyle istif alanına taşıyın. ADIM 3: İstikrarı sağlamak için dikkatlice hizalayın. Örneğin, daha küçük bir kutuyu daha büyük bir kutunun üzerine koymak, istifin devrilmesini önler. İşlemi basitleştirmek için acemiler için \"Otomatik İstif\" özelliğini kullanın."
+  },
+  {
+    "question": "Stack N Sort'ta gelişmiş oyuncular için temel stratejiler nelerdir?",
+    "answer": "Stack N Sort'ta gelişmiş oyuncular: ADIM 1: Alanı en üst düzeye çıkarmak için benzer şekillere sahip öğeleri istiflemeye öncelik vermelidir. ADIM 2: Öğeleri daha verimli bir şekilde yerleştirmek için \"Döndürme\" özelliğini kullanın. ADIM 3: Nihai istif düzenini görselleştirerek önceden planlayın. Örneğin, dikdörtgen bir kutuyu dikey olarak döndürmek yatay alanı tasarruf edebilir. Karmaşık düzenlemelerde \"Çoklu İstif\" seçeneğini göz önünde bulundurun."
+  },
+  {
+    "question": "Stack N Sort'taki istikrar ölçer neden dalgalanır?",
+    "answer": "Stack N Sort'taki istikrar ölçeri, istifin dengesine ve ağırlık dağılımına bağlı olarak dalgalanır. Örneğin, hafif bir eşyanın üzerine ağır bir eşya koymak, istikrarı azaltır. Yüksek istikrarı korumak için ağır eşyaları alttan, hafif eşyaları üstten yerleştirdiğinizden emin olun. Ölçer ayrıca istifin hizalamasını ve simetrisini de dikkate alır."
+  },
+  {
+    "question": "Stack N Sort'taki puanlama sistemi nasıl çalışır?",
+    "answer": "Stack N Sort'taki puanlama sistemi, üç ana faktörü değerlendirir: istikrar, hız ve verimlilik. İstikrar, istifin ne kadar iyi dengede kaldığıyla belirlenir. Hız, istifleme görevini ne kadar hızlı tamamladığınızla ilgilidir. Verimlilik, mevcut alanı ne kadar iyi kullandığınızı ölçer. Örneğin, mükemmel dengede ve minimum boş alanla bir istif en yüksek puanı getirecektir."
+  },
+  {
+    "question": "Stack N Sort'ta hangi öğeler istiflenmesi en zor olanlardır?",
+    "answer": "Stack N Sort'ta istiflenmesi en zor olan öğeler, küreler ve koniler gibi düzensiz şekilli nesnelerdir. Bu öğelerin istikrarını korumak için hassas bir şekilde yerleştirilmesi gerekir. Örneğin, bir koniyi düz bir yüzeyin üzerine koymak, eğimli bir yüzeyin üzerine koymaktan daha kolaydır. Bu öğelerin pozisyonunu daha doğru ayarlamak için \"Hassasiyet Modu\"nu kullanın."
+  },
+  {
+    "question": "Farklı platformlar arasında Stack N Sort'ta veri göçü için en iyi uygulamalar nelerdir?",
+    "answer": "Farklı platformlar arasında Stack N Sort'ta veri göçü yapmak için: ADIM 1: Her iki cihazın da aynı hesaba bağlı olduğundan emin olun. ADIM 2: \"Bulut Kaydet\" özelliğini kullanarak ilerlemenizi yükleyin. ADIM 3: Yeni cihazda kaydedilen verileri indirin. Örneğin, mobil bir cihazdan bir PC'ye ilerleme aktarımı, her iki platformda da aynı hesaba giriş yapmayı gerektirir. Göç sonrası veri bütünlüğünü doğrulayın."
+  },
+  {
+    "question": "Stack N Sort'ta gizli seviyeleri nasıl açabilirim?",
+    "answer": "Stack N Sort'taki gizli seviyeler, belirli kilometre taşlarına ulaşılmak suretiyle açılır. Örneğin, %90'ın üzerinde istikrar derecesi ile 50 istif tamamlamak özel bir seviye açar. Ayrıca, oyunda gizli öğeleri bulup istiflemek de gizli seviyelerin ortaya çıkmasına neden olabilir. Olağandışı öğelere, normal istifleme kriterlerine uymayan öğelere dikkat edin."
+  },
+  {
+    "question": "Stack N Sort'ta öğe ağırlığının istifleme üzerindeki etkisi nedir?",
+    "answer": "Stack N Sort'ta öğe ağırlığı, istiflemeyi önemli ölçüde etkiler. Daha ağır öğeler daha istikrarlı bir taban sağlar ancak daha hafif öğelerin üzerine yerleştirilmesi daha zordur. Örneğin, istifin altına 10 kg'lık bir kutu ve üzerine 2 kg'lık bir kutu koymak daha iyi bir istikrar sağlar. Oyun istikrarsızlığı cezalandırır, bu nedenle her zaman ağırlık dağılımını göz önünde bulundurun."
+  },
+  {
+    "question": "Stack N Sort'ta istikrarı bozmadan istifleme hızımı nasıl optimize edebilirim?",
+    "answer": "Stack N Sort'ta istikrarı bozmadan istifleme hızınızı optimize etmek için: ADIM 1: Öğe şekilleri ve ağırlıklarıyla ilgili bilgi sahibi olun. ADIM 2: Sık kullanılan öğeler için \"Hızlı İstif\" özelliğini kullanın. ADIM 3: Yerleştirme süresini azaltmak için verimli el hareketleri uygulayın. Örneğin, benzer öğeleri hızlı bir şekilde ard arda istiflemek istikrarı feda etmeden zaman tasarrufu sağlayabilir. Düzenli olarak performansınızı gözden geçirerek iyileştirme alanlarını belirleyin."
+  },
+  {
+    "question": "Stack N Sort'ta \"Çoklu İstif\" özelliğini kullanmanın faydaları nelerdir?",
+    "answer": "\"Çoklu İstif\" özelliği, Stack N Sort'ta oyuncuların birden fazla öğeyi aynı anda istiflemesine olanak tanıyarak verimliliği artırır ve süreyi kısaltır. Örneğin, üç kutuyu aynı anda istiflemek, bunları tek tek istiflemekten önemli ölçüde zaman tasarrufu sağlayabilir. Bu özellik, hızın önemli olduğu zamanlanmış seviyelerde özellikle faydalıdır. Bununla birlikte, istif istikrarını korumak için hassas hizalama gerektirir."
+  }
+]

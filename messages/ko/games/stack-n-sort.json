@@ -1,0 +1,77 @@
+{
+  "stack-n-sort": {
+    "title": "스택앤소트: 무료 온라인 퍼즐 게임",
+    "slogan": "색색의 링을 정렬하고 쌓으세요!",
+    "description": "스택앤소트로 최고의 퍼즐 도전을 경험하세요! 재미있고 중독성 있는 게임에서 다양한 색깔의 링을 올바른 기둥에 정렬하고 쌓으세요. 제한된 공간과 까다로운 배열로 논리와 전략을 테스트해보세요. 지금 스택앤소트를 플레이하고 머리를 풀어보세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "스택앤소트: 최고의 정렬 퍼즐 도전",
+      "description": "재미있고 중독성 있는 퍼즐 게임에서 색색의 링을 정렬하고 쌓으세요! 제한된 공간과 까다로운 배열로 논리와 전략을 테스트해보세요. 지금 스택앤소트를 플레이하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "스택앤소트: 최고의 정렬 퍼즐 도전",
+      "whatIsTitle": "스택앤소트는 무엇인가요?",
+      "whatIsDescription": "스택앤소트는 다양한 색깔의 링을 올바른 기둥에 정렬하고 쌓는 재미있고 중독성 있는 퍼즐 게임입니다. 제한된 공간과 까다로운 배열로 논리와 전략을 테스트해보세요.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "기둥 사이에서 링을 탭하고 드래그하여 이동하세요.",
+      "howToPlayStep2": "같은 색깔의 링을 함께 쌓으세요.",
+      "howToPlayStep3": "제한된 공간에서 신중하게 이동 계획을 세우세요!",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "색색의 링",
+      "feature1Description": "이 재미있는 퍼즐 게임에서 다양한 색깔의 링을 정렬하고 쌓으세요.",
+      "feature2Title": "도전적인 레벨",
+      "feature2Description": "까다로운 배열로 논리와 전략을 테스트해보세요.",
+      "feature3Title": "중독성 있는 게임 플레이",
+      "feature3Description": "이 중독성 있는 퍼즐 게임으로 수많은 즐거움을 경험하세요.",
+      "feature4Title": "두뇌 자극 퍼즐",
+      "feature4Description": "제한된 공간과 까다로운 퍼즐로 두뇌를 자극해보세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

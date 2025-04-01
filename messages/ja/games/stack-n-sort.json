@@ -1,0 +1,77 @@
+{
+  "stack-n-sort": {
+    "title": "積み重ねソート：無料のオンラインパズルゲーム",
+    "slogan": "カラフルなリングを並べ、積み重ねて整理！",
+    "description": "Stack N Sortで究極のパズルに挑戦！この楽しい中毒性のあるゲームで、カラフルなリングを正しいポールに並べ、積み重ねましょう。限られたスペースと難しい配置で、あなたの論理力と戦略を試してみてください。頭脳を刺激する経験の準備はできましたか？今すぐStack N Sortをプレイしましょう！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "Stack N Sort：究極のソートパズルに挑戦",
+      "description": "この楽しい中毒性のあるパズルゲームで、カラフルなリングを並べ、積み重ねて整理しましょう！限られたスペースと難しい配置で、あなたの論理力と戦略を試してみてください。今すぐStack N Sortをプレイしましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Stack N Sort：究極のソートパズルに挑戦",
+      "whatIsTitle": "Stack N Sortとは？",
+      "whatIsDescription": "Stack N Sortは、カラフルなリングを正しいポールに並べ、積み重ねる楽しい中毒性のあるパズルゲームです。限られたスペースと難しい配置で、あなたの論理力と戦略を試してみてください。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "リングをポール間で移動するには、タップ＆ドラッグします。",
+      "howToPlayStep2": "同じ色のリングを一緒に積み重ねます。",
+      "howToPlayStep3": "移動を慎重に計画しましょう – スペースは限られています！",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "カラフルなリング",
+      "feature1Description": "この楽しいパズルゲームで、カラフルなリングを並べ、積み重ねましょう。",
+      "feature2Title": "挑戦的なレベル",
+      "feature2Description": "難しい配置で、あなたの論理力と戦略を試してください。",
+      "feature3Title": "中毒性のあるゲームプレイ",
+      "feature3Description": "この中毒性のあるパズルゲームで、数時間楽しめます。",
+      "feature4Title": "頭脳を刺激するパズル",
+      "feature4Description": "限られたスペースと難しいパズルで、あなたの知性を試しましょう。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "コメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}
