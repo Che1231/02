@@ -1,0 +1,1 @@
+Welcome to Mini Chef Overcooked, a super fun and exciting cooking simulation game. Here you will operate a tiny kitchen and experience super fast-paced cooking challenges. The game will have different ingredients and cooking requirements like tomato soup, lemonade, etc.

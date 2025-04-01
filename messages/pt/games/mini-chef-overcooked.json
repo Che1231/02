@@ -1,0 +1,77 @@
+{
+  "mini-chef-overcooked": {
+    "title": "Mini Chef Overcooked - Jogo de Cozinha Online Grátis",
+    "slogan": "Experimente desafios de cozinha frenéticos em Mini Chef Overcooked!",
+    "description": "Bem-vindo ao Mini Chef Overcooked, um jogo de simulação de cozinha super divertido e emocionante. Operar uma pequena cozinha e encarar desafios de culinária frenéticos com vários ingredientes e receitas como sopa de tomate e limonada. Mergulhe na ação e torne-se o Mini Chef definitivo! Jogue Mini Chef Overcooked agora e teste suas habilidades culinárias.",
+    "Loading": {
+      "title": "Carregando..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links de Amizade",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Mini Chef Overcooked™",
+      "description": "Jogue Mini Chef Overcooked e desfrute de desafios de cozinha frenéticos em uma pequena cozinha. Domine receitas como sopa de tomate e limonada para se tornar o Mini Chef definitivo!",
+      "iframeTitle": "Pré-visualização do Jogo",
+      "fullscreenButton": "Tela cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Mini Chef Overcooked™",
+      "whatIsTitle": "O que é Mini Chef Overcooked?",
+      "whatIsDescription": "Mini Chef Overcooked é um jogo de simulação de cozinha frenético onde você opera uma pequena cozinha e enfrenta vários desafios culinários.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Comece selecionando uma receita, como sopa de tomate ou limonada.",
+      "howToPlayStep2": "Reúna os ingredientes necessários e siga as instruções de cozimento.",
+      "howToPlayStep3": "Complete o desafio dentro do limite de tempo para se tornar o Mini Chef definitivo!",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Cozinha Frenética",
+      "feature1Description": "Experimente desafios de cozinha intensos que testam sua velocidade e habilidades.",
+      "feature2Title": "Variedade de Receitas",
+      "feature2Description": "Cozinhe uma ampla variedade de pratos, desde sopa de tomate até limonada.",
+      "feature3Title": "Cozinha Pequena",
+      "feature3Description": "Opere uma cozinha compacta e gerencie seu tempo com eficiência.",
+      "feature4Title": "Jogabilidade Empolgante",
+      "feature4Description": "Desfrute de uma experiência de simulação de cozinha divertida e envolvente."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

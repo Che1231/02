@@ -1,0 +1,120 @@
+{
+  "name": "Mini Chef Overcooked",
+  "pagePath": "/games/mini-chef-overcooked",
+  "pageName": "mini-chef-overcooked",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://html5.gamemonetize.co/1l9y6l612p1kiq43mhgfov3kofpvo64b/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingPhoenix99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix99.png",
+      "content": "I'm on fire in this Tiny Kitchen! Love the lemonade challenge!"
+    },
+    {
+      "author": "NeonLeviathan87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonLeviathan87.png",
+      "content": "Mini Chef Overcooked is crazy fast-paced, keeps me on my toes all the time."
+    },
+    {
+      "author": "PhantomRevolver42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomRevolver42.png",
+      "content": "Tomato soup cooking like a pro here! Can't get enough of this game."
+    },
+    {
+      "author": "CosmicKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicKatana_X.png",
+      "content": "This lemonade recipe is giving me life! What a rush!"
+    },
+    {
+      "author": "SavageBlade_Prime",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBlade_Prime.png",
+      "content": "Mini Chef Overcooked is more intense than I expected, but it's still fun."
+    },
+    {
+      "author": "xX_BlazingAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_BlazingAura_Xx.png",
+      "content": "So thrilling, every level feels like a test of skill!"
+    },
+    {
+      "author": "NoobCrafter89",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobCrafter89.png",
+      "content": "The pace is insane, but I’m getting better at it each time!"
+    },
+    {
+      "author": "LightningStrikeXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LightningStrikeXX.png",
+      "content": "Tomato soup or lemonade? It's all about the speed!"
+    },
+    {
+      "author": "GigaByte_Defy",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/GigaByte_Defy.png",
+      "content": "This game is nuts! Every minute counts!"
+    },
+    {
+      "author": "DarkNinja420",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/DarkNinja420.png",
+      "content": "The pressure is on. Love every second of it!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743522138507-udn0jf.jpg",
+  "page_path": "/games/mini-chef-overcooked",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Cooking"
+  ],
+  "createdTime": "2025-04-01 23:44:17"
+}

@@ -1,0 +1,77 @@
+{
+  "mini-chef-overcooked": {
+    "title": "미니 셰프 오버쿡드 - 무료 온라인 요리 게임 플레이",
+    "slogan": "미니 셰프 오버쿡드에서 빠르게 진행되는 요리 도전을 경험하세요!",
+    "description": "미니 셰프 오버쿡드에 오신 것을 환영합니다. 매우 재미있고 흥미진진한 요리 시뮬레이션 게임입니다. 작은 주방에서 토마토 수프와 레모네이드 같은 다양한 재료와 레시피로 빠르게 진행되는 요리 도전 과제에 도전하세요. 액션에 뛰어들어 최고의 미니 셰프가 되세요! 지금 미니 셰프 오버쿡드를 플레이하고 요리 실력을 테스트하세요.",
+    "Loading": {
+      "title": "로딩중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "미니 셰프 오버쿡드™",
+      "description": "미니 셰프 오버쿡드를 플레이하고 작은 주방에서 빠르게 진행되는 요리 도전을 즐기세요. 토마토 수프와 레모네이드 같은 레시피를 마스터하여 최고의 미니 셰프가 되세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "미니 셰프 오버쿡드™",
+      "whatIsTitle": "미니 셰프 오버쿡드란 무엇인가요?",
+      "whatIsDescription": "미니 셰프 오버쿡드는 작은 주방에서 다양한 요리 도전 과제에 도전하는 빠르게 진행되는 요리 시뮬레이션 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "토마토 수프나 레모네이드와 같은 레시피를 선택하여 시작하세요.",
+      "howToPlayStep2": "필요한 재료를 모으고 요리 지침을 따르세요.",
+      "howToPlayStep3": "시간 제한 내에 도전 과제를 완료하여 최고의 미니 셰프가 되세요!",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "빠르게 진행되는 요리",
+      "feature1Description": "속도와 기술을 시험하는 격렬한 요리 도전을 경험하세요.",
+      "feature2Title": "다양한 레시피",
+      "feature2Description": "토마토 수프부터 레모네이드까지 다양한 요리를 요리하세요.",
+      "feature3Title": "작은 주방",
+      "feature3Description": "작은 주방을 운영하고 시간을 효율적으로 관리하세요.",
+      "feature4Title": "흥미진진한 게임 플레이",
+      "feature4Description": "재미있고 매력적인 요리 시뮬레이션 경험을 즐기세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}
