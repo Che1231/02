@@ -1,0 +1,1 @@
+Hazmob FPS: Online Shooter is a multiplayer shooting FPS game where every second counts! Play against other players across multiple game modes in non-stop combat. This first-person shooter game is ideal for those seeking a bit of thrill.
