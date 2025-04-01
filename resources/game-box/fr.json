@@ -2,58 +2,108 @@
   "recommended": [
     {
       "visible": true,
-      "url": "/games/fnf-vs-touhou",
+      "url": "/games/rainbow-obby",
       "position": 1
     },
     {
       "visible": true,
-      "url": "/games/craftnite-io",
+      "url": "/games/right-shot",
       "position": 2
     },
     {
       "visible": true,
-      "url": "/games/city-blocks",
+      "url": "/games/knock-balls",
       "position": 3
     },
     {
       "visible": true,
-      "url": "/games/build-royale",
+      "url": "/games/join-clash-3d",
       "position": 4
     },
     {
       "visible": true,
-      "url": "/games/sausage-flip",
+      "url": "/games/level-up-balls",
       "position": 5
     },
     {
       "visible": true,
-      "url": "/games/papa-s-pancakeria",
+      "url": "/games/doodle-jump-ninja",
       "position": 6
     },
     {
       "visible": true,
-      "url": "/games/stickman-school-run",
+      "url": "/games/city-blocks",
       "position": 7
     },
     {
       "visible": true,
-      "url": "/games/raft-wars-2",
+      "url": "/games/tic-tac-toe",
       "position": 8
     },
     {
       "visible": true,
-      "url": "/games/bomb-it-7",
+      "url": "/games/coreball",
       "position": 9
     },
     {
       "visible": true,
-      "url": "/games/blob-opera",
+      "url": "/games/swingo",
       "position": 10
+    },
+    {
+      "visible": true,
+      "url": "/games/dino-game",
+      "position": 11
+    },
+    {
+      "visible": true,
+      "url": "/games/geometry-dash-nine-circles",
+      "position": 12
+    },
+    {
+      "visible": true,
+      "url": "/games/lava-bird",
+      "position": 13
+    },
+    {
+      "visible": true,
+      "url": "/games/plactions",
+      "position": 14
+    },
+    {
+      "visible": true,
+      "url": "/games/geometry-dash-silent-circles",
+      "position": 15
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-pancakeria",
+      "position": 16
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-pastaria",
+      "position": 17
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-freezeria",
+      "position": 18
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-taco-mia",
+      "position": 19
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-cupcakeria",
+      "position": 20
     }
   ],
   "categories": [
     {
-      "name": "Jeux vedette",
+      "name": "Jeux en vedette",
       "path": "/c/featured",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
@@ -73,7 +123,7 @@
       "description": "Des jeux .IO passionnants !"
     },
     {
-      "name": "Jeux Arcade",
+      "name": "Jeux d'arcade",
       "path": "/c/arcade-games",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
@@ -83,7 +133,7 @@
       "position": 3
     },
     {
-      "name": "Jeux d'Aventure",
+      "name": "Jeux d'aventure",
       "path": "/c/adventure-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -93,7 +143,7 @@
       "description": "Des jeux d'aventure passionnants !"
     },
     {
-      "name": "Jeux d'Action",
+      "name": "Jeux d'action",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
@@ -103,7 +153,7 @@
       "position": 5
     },
     {
-      "name": "Jeux Musicaux",
+      "name": "Jeux musicaux",
       "path": "/c/music-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -113,14 +163,14 @@
       "description": "Des jeux musicaux passionnants !"
     },
     {
-      "name": "Jeux de Puzzles",
+      "name": "Jeux de puzzle",
       "path": "/c/puzzle-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347794115-vx5hb.png",
       "position": 7,
-      "description": "Des jeux de puzzles passionnants !"
+      "description": "Des jeux de puzzle passionnants !"
     },
     {
       "name": "Cuisine",
@@ -143,14 +193,24 @@
       "description": "Des jeux de course et de conduite passionnants !"
     },
     {
-      "name": "Jeux de sport",
+      "name": "Jeux sportifs",
       "path": "/c/sports-games",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346747232-br5i5z.png",
       "position": 10,
-      "description": "Des jeux de sport passionnants !"
+      "description": "Des jeux sportifs passionnants !"
+    },
+    {
+      "name": "Jeux de blocs",
+      "path": "/c/block-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 11,
+      "description": "Des jeux de blocs passionnants !"
     }
   ]
 }

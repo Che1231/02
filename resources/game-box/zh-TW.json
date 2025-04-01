@@ -2,53 +2,103 @@
   "recommended": [
     {
       "visible": true,
-      "url": "/games/fnf-vs-touhou",
+      "url": "/games/rainbow-obby",
       "position": 1
     },
     {
       "visible": true,
-      "url": "/games/craftnite-io",
+      "url": "/games/right-shot",
       "position": 2
     },
     {
       "visible": true,
-      "url": "/games/city-blocks",
+      "url": "/games/knock-balls",
       "position": 3
     },
     {
       "visible": true,
-      "url": "/games/build-royale",
+      "url": "/games/join-clash-3d",
       "position": 4
     },
     {
       "visible": true,
-      "url": "/games/sausage-flip",
+      "url": "/games/level-up-balls",
       "position": 5
     },
     {
       "visible": true,
-      "url": "/games/papa-s-pancakeria",
+      "url": "/games/doodle-jump-ninja",
       "position": 6
     },
     {
       "visible": true,
-      "url": "/games/stickman-school-run",
+      "url": "/games/city-blocks",
       "position": 7
     },
     {
       "visible": true,
-      "url": "/games/raft-wars-2",
+      "url": "/games/tic-tac-toe",
       "position": 8
     },
     {
       "visible": true,
-      "url": "/games/bomb-it-7",
+      "url": "/games/coreball",
       "position": 9
     },
     {
       "visible": true,
-      "url": "/games/blob-opera",
+      "url": "/games/swingo",
       "position": 10
+    },
+    {
+      "visible": true,
+      "url": "/games/dino-game",
+      "position": 11
+    },
+    {
+      "visible": true,
+      "url": "/games/geometry-dash-nine-circles",
+      "position": 12
+    },
+    {
+      "visible": true,
+      "url": "/games/lava-bird",
+      "position": 13
+    },
+    {
+      "visible": true,
+      "url": "/games/plactions",
+      "position": 14
+    },
+    {
+      "visible": true,
+      "url": "/games/geometry-dash-silent-circles",
+      "position": 15
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-pancakeria",
+      "position": 16
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-pastaria",
+      "position": 17
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-freezeria",
+      "position": 18
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-taco-mia",
+      "position": 19
+    },
+    {
+      "visible": true,
+      "url": "/games/papa-s-cupcakeria",
+      "position": 20
     }
   ],
   "categories": [
@@ -59,7 +109,7 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347747884-98blap.png",
-      "description": "我們已為您精選最佳遊戲！",
+      "description": "我們已為您精選了最佳遊戲！",
       "position": 1
     },
     {
@@ -123,7 +173,7 @@
       "description": "令人興奮的益智遊戲！"
     },
     {
-      "name": "烹飪",
+      "name": "烹飪遊戲",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -133,14 +183,14 @@
       "description": "令人興奮的烹飪遊戲！"
     },
     {
-      "name": "賽車及駕駛",
+      "name": "賽車與駕駛",
       "path": "/c/racing-driving",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
       "position": 9,
-      "description": "令人興奮的賽車及駕駛遊戲！"
+      "description": "令人興奮的賽車與駕駛遊戲！"
     },
     {
       "name": "運動遊戲",
@@ -151,6 +201,16 @@
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346747232-br5i5z.png",
       "position": 10,
       "description": "令人興奮的運動遊戲！"
+    },
+    {
+      "name": "積木遊戲",
+      "path": "/c/block-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 11,
+      "description": "令人興奮的積木遊戲！"
     }
   ]
 }

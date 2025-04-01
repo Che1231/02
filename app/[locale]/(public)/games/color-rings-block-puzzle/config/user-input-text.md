@@ -1,0 +1,1 @@
+Color Rings Block Puzzle is a fun and addictive mobile game that challenges your problem-solving skills and reflexes. The game is simple to play but difficult to master, making it perfect for both casual and hardcore gamers. With its engaging mechanics and vibrant visuals, Color Rings Block Puzzle offers hours of entertainment.
