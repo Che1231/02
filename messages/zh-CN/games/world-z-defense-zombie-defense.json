@@ -1,0 +1,77 @@
+{
+  "world-z-defense-zombie-defense": {
+    "title": "玩世界Z防御 - 免费在线僵尸防御游戏 | 令人兴奋的僵尸生存游戏",
+    "slogan": "保卫世界免受僵尸大军",
+    "description": "《世界Z防御 - 僵尸防御》是一款令人兴奋的动作防御游戏，玩家必须对抗试图吞噬世界的僵尸大军。在这个末日场景中，你的任务是通过战略性地放置不同武器的士兵，来保卫全球各城市。每种武器都有独特的属性，例如伤害、射击速度和装填速度。立即加入战斗，体验终极僵尸生存挑战！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一个",
+      "previous": "上一个"
+    },
+    "HomeIframe": {
+      "title": "世界Z防御 - 僵尸防御",
+      "description": "在《世界Z防御 - 僵尸防御》中体验终极僵尸生存挑战。通过战略性地放置拥有独特武器的士兵，保卫全球各城市。现在开始游戏，加入对抗僵尸大军！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "世界Z防御 - 僵尸防御",
+      "whatIsTitle": "什么是世界Z防御 - 僵尸防御？",
+      "whatIsDescription": "《世界Z防御 - 僵尸防御》是一款令人兴奋的动作防御游戏，玩家必须对抗试图吞噬世界的僵尸大军。在这个末日场景中，你的任务是通过战略性地放置不同武器的士兵，来保卫全球各城市。每种武器都有独特的属性，例如伤害、射击速度和装填速度。",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "战略性地放置不同武器的士兵来保卫城市。",
+      "howToPlayStep2": "利用武器的独特属性，例如伤害、射击速度和装填速度。",
+      "howToPlayStep3": "加入对抗僵尸大军、拯救世界的战斗！",
+      "keyFeaturesTitle": "关键特性",
+      "feature1Title": "战略防御",
+      "feature1Description": "战略性地部署士兵，保卫城市免受僵尸的袭击。",
+      "feature2Title": "独特武器",
+      "feature2Description": "从各种拥有独特属性（例如伤害、射击速度和装填速度）的武器中进行选择。",
+      "feature3Title": "全球任务",
+      "feature3Description": "在这个末日场景中，保卫全球各城市。",
+      "feature4Title": "激动人心的行动",
+      "feature4Description": "体验最终的僵尸生存挑战，以及紧张刺激的游戏体验。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐游戏"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

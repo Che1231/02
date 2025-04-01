@@ -1,0 +1,120 @@
+{
+  "name": "World Z Defense - Zombie Defense",
+  "pagePath": "/games/world-z-defense-zombie-defense",
+  "pageName": "world-z-defense-zombie-defense",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.crazygames.com/embed/world-z-defense---zombie-defense",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomKraken42.png",
+      "content": "World Z Defense is insane! The zombie hordes are relentless, but the strategy element with different soldiers keeps it fresh. Totally addicted!"
+    },
+    {
+      "author": "NeonKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonKatana_X.png",
+      "content": "Who knew defending cities from zombies could be this fun? Love the weapon variety and the global map!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Just started World Z Defense and already hooked. The shooting speed and reload mechanics are spot on. More maps, please!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Tried World Z Defense, and it's way better than I expected. The zombie waves are crazy, but it’s so satisfying to win!"
+    },
+    {
+      "author": "xX_CosmicRevolver_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_CosmicRevolver_Xx.png",
+      "content": "This game is a blast! The stats for each weapon make it super strategic. Can’t stop playing!"
+    },
+    {
+      "author": "LootGoblin89",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LootGoblin89.png",
+      "content": "World Z Defense is a gem. Love how each soldier feels unique. The global defense mechanic is genius!"
+    },
+    {
+      "author": "SavageBlade_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBlade_X.png",
+      "content": "The zombie waves never stop! But that’s what makes World Z Defense so thrilling. Great game design!"
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "Super fun game! The weapon stats add a lot of depth. Perfect for quick sessions or long playthroughs."
+    },
+    {
+      "author": "VoidWalker_Prime",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/VoidWalker_Prime.png",
+      "content": "World Z Defense is a must-play for zombie fans. The strategy and action blend perfectly. Highly recommend!"
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "Whoa, this game is intense! The reload speed mechanic keeps you on your toes. Great job devs!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743493409431-79uk07.avif",
+  "page_path": "/games/world-z-defense-zombie-defense",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Action"
+  ],
+  "createdTime": "2025-04-01 15:46:11"
+}

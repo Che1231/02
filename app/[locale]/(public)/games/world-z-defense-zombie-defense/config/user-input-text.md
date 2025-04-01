@@ -1,0 +1,1 @@
+World Z Defense - Zombie Defense is a thrilling action defense game where players must fight against hordes of zombies trying to overrun the world. In this post-apocalyptic scenario, your mission is to defend cities across the globe by strategically placing soldiers with different weapons, each offering unique stats like damage, shooting speed, and reload speed.
