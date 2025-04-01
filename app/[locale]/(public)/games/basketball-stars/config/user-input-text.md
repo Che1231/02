@@ -1,0 +1,1 @@
+Basketball Stars is a 2-player basketball game created by Madpuffers. Shoot b-ball with the likes of LeBron James, James Harden, and Stephen Curry in Basketball Stars! You can play solo or with a friend as a variety of legendary basketball players.

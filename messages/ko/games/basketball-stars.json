@@ -1,0 +1,77 @@
+{
+  "basketball-stars": {
+    "title": "농구 스타: NBA 레전드와 함께 온라인 플레이",
+    "slogan": "농구 스타에서 최고의 선수들과 함께 농구를 즐겨보세요!",
+    "description": "농구 스타는 레브론 제임스, 제임스 하든, 스테판 커리와 같은 레전드급 선수들과 경쟁할 수 있는 흥미진진한 2인용 농구 게임입니다. 솔로 도전이나 멀티플레이어 모드를 선호하든, 농구 스타는 모든 농구 팬들에게 짜릿한 경험을 선사합니다. 지금 바로 코트에 합류하여 농구 스타에서 당신의 실력을 보여주세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "농구 스타",
+      "description": "농구 스타와 함께 NBA 레전드와 짜릿한 게임 플레이를 경험하세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "농구 스타",
+      "whatIsTitle": "농구 스타는 무엇인가요?",
+      "whatIsDescription": "농구 스타는 Madpuffers가 만든 2인용 농구 게임입니다. 레브론 제임스, 제임스 하든, 스테판 커리와 같은 NBA 레전드와 함께 플레이하세요.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "선수를 선택하세요.",
+      "howToPlayStep2": "솔로 또는 멀티플레이 모드에서 경쟁하세요.",
+      "howToPlayStep3": "점수를 얻고 게임을 이기세요!",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "레전드 선수",
+      "feature1Description": "레브론 제임스, 스테판 커리와 같은 NBA 레전드로 게임하세요.",
+      "feature2Title": "멀티플레이어 모드",
+      "feature2Description": "친구들과 흥미진진한 2인용 경기에서 경쟁하세요.",
+      "feature3Title": "솔로 도전",
+      "feature3Description": "AI 상대로 솔로 게임으로 실력을 테스트하세요.",
+      "feature4Title": "현실적인 게임 플레이 환경",
+      "feature4Description": "현실적인 농구 메커니즘과 조작을 경험하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

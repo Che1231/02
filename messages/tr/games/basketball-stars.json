@@ -1,0 +1,77 @@
+{
+  "basketball-stars": {
+    "title": "Basketbol Yıldızları: NBA Efsaneleriyle Çevrimiçi Oynayın",
+    "slogan": "Basketbol Yıldızları'nda en iyilerle şut atın!",
+    "description": "Basketbol Yıldızları, LeBron James, James Harden ve Stephen Curry gibi efsanevi oyuncularla yarışabileceğiniz heyecan verici bir 2 kişilik basketbol oyunudur. İster tek kişilik meydan okumaları ister çok oyunculu aksiyonu tercih edin, Basketbol Yıldızları tüm basketbol hayranları için heyecan verici bir deneyim sunar. Bugünden itibaren sahaya katılın ve Basketbol Yıldızları'nda becerilerinizi sergileyin!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Rehber",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Basketbol Yıldızları",
+      "description": "NBA efsaneleri ve heyecan verici oyun tarzıyla Basketbol Yıldızları'nın heyecanını yaşayın.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Basketbol Yıldızları",
+      "whatIsTitle": "Basketbol Yıldızları Nedir?",
+      "whatIsDescription": "Basketbol Yıldızları, Madpuffers tarafından yaratılan 2 kişilik bir basketbol oyunudur. LeBron James, James Harden ve Stephen Curry gibi NBA efsaneleriyle oynayın.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Favorinizi seçin.",
+      "howToPlayStep2": "Tek veya çok oyunculu modlarda yarışın.",
+      "howToPlayStep3": "Puan alıp oyunu kazanın!",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Efsanevi Oyuncular",
+      "feature1Description": "LeBron James ve Stephen Curry gibi NBA efsaneleri olarak oynayın.",
+      "feature2Title": "Çok Oyunculu Mod",
+      "feature2Description": "Arkadaşlarınızla heyecan verici 2 kişilik maçlarda yarışın.",
+      "feature3Title": "Tek Oyunculu Meydan Okumalar",
+      "feature3Description": "Yapay zeka rakiplerine karşı tek oyunculu oyunlarda becerilerinizi test edin.",
+      "feature4Title": "Gerçekçi Oyun",
+      "feature4Description": "Gerçekçi basketbol mekaniği ve kontrollerini yaşayın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Hiç kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}
