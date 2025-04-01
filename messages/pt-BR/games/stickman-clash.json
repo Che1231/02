@@ -1,8 +1,8 @@
 {
   "stickman-clash": {
-    "title": "Stickman Clash: Jogo de Batalha de Ação Online Grátis",
-    "slogan": "Participe de emocionantes combates de Stickman",
-    "description": "Stickman Clash é um jogo de batalha de ação frenético onde você pode lutar como guerreiros stickman com armas empolgantes. Experimente arenas dinâmicas, supere seus oponentes e mostre suas habilidades. Com ação cativante e mecânicas desafiadoras, Stickman Clash mantém você envolvido enquanto você busca se tornar o campeão definitivo. Jogue Stickman Clash agora de graça!",
+    "title": "Stickman Clash - Jogo de Batalha de Ação Empolgante",
+    "slogan": "Torne-se o Campeão Stickman Supremo!",
+    "description": "Stickman Clash é um emocionante jogo de luta de ação onde você luta como guerreiros stickman armados com uma variedade de armas empolgantes. Envolva-se em combates rápidos, supere os oponentes e mostre suas habilidades em arenas dinâmicas. A ação cativante e a mecânica desafiadora do jogo mantêm você envolvido enquanto você luta para se tornar o campeão stickman supremo!",
     "Loading": {
       "title": "Carregando..."
     },
@@ -10,13 +10,13 @@
       "title": "Navegação"
     },
     "Common": {
-      "createAt": "Criado Em",
+      "createAt": "Criado em",
       "guide": "Guia",
       "privacyPolicy": "Política de Privacidade",
       "termsOfServices": "Termos de Serviço",
       "text": "Conteúdo",
       "help": "Ajuda",
-      "friendlyLinks": "Links Úteis",
+      "friendlyLinks": "Links Amigáveis",
       "articleList": "Lista de Artigos",
       "home": "Página Inicial",
       "next": "Próximo",
@@ -24,7 +24,7 @@
     },
     "HomeIframe": {
       "title": "Stickman Clash",
-      "description": "Junte-se ao mundo cheio de ação de Stickman Clash e lute seu caminho para a vitória.",
+      "description": "Experimente a emoção de Stickman Clash, onde combates rápidos e arenas dinâmicas aguardam. Jogue agora e torne-se o campeão stickman supremo!",
       "iframeTitle": "Prévia do Jogo",
       "fullscreenButton": "Tela Cheia",
       "shareButton": "Compartilhar",
@@ -35,20 +35,20 @@
     "HomeFeatures": {
       "gameTitle": "Stickman Clash",
       "whatIsTitle": "O que é Stickman Clash?",
-      "whatIsDescription": "Stickman Clash é um jogo de batalha de ação emocionante onde você luta como guerreiros stickman armados com uma variedade de armas empolgantes.",
+      "whatIsDescription": "Stickman Clash é um emocionante jogo de luta de ação onde você luta como guerreiros stickman armados com uma variedade de armas empolgantes.",
       "howToPlayTitle": "Como Jogar",
-      "howToPlayStep1": "Escolha seu guerreiro stickman e arma.",
-      "howToPlayStep2": "Participe de combates frenéticos em arenas dinâmicas.",
-      "howToPlayStep3": "Supere seus oponentes e se torne o campeão stickman definitivo!",
+      "howToPlayStep1": "Escolha seu guerreiro stickman e sua arma.",
+      "howToPlayStep2": "Envolva-se em combates rápidos em arenas dinâmicas.",
+      "howToPlayStep3": "Supere os oponentes e torne-se o campeão supremo!",
       "keyFeaturesTitle": "Principais Características",
       "feature1Title": "Arenas Dinâmicas",
-      "feature1Description": "Lute em campos de batalha em constante mudança que mantêm a ação fresca.",
+      "feature1Description": "Lute em arenas em constante mudança que mantêm o combate emocionante.",
       "feature2Title": "Armas Empolgantes",
-      "feature2Description": "Arme-se com uma variedade de armas para superar seus oponentes.",
-      "feature3Title": "Mecânicas Desafadoras",
-      "feature3Description": "Domine as mecânicas do jogo para se tornar o campeão definitivo.",
-      "feature4Title": "Combates Frenéticos",
-      "feature4Description": "Experimente batalhas intensas que o manterão na ponta do assento."
+      "feature2Description": "Escolha entre uma variedade de armas para atender ao seu estilo de combate.",
+      "feature3Title": "Combate Rápido",
+      "feature3Description": "Envolva-se em batalhas rápidas e intensas que testam suas habilidades.",
+      "feature4Title": "Mecânica Desafiante",
+      "feature4Description": "Domine a mecânica do jogo para superar seus oponentes."
     },
     "HomeFAQs": {
       "title": "Perguntas Frequentes"

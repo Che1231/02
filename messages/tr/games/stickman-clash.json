@@ -1,8 +1,8 @@
 {
   "stickman-clash": {
-    "title": "Çubuk Adam Çarpışması: Ücretsiz Online Aksiyon Savaş Oyunu",
-    "slogan": "Heyecan Verici Çubuk Adam Dövüşüne Katılın",
-    "description": "Çubuk Adam Çarpışması, heyecan verici silahlarla çubuk adam savaşçıları olarak savaşabileceğiniz hızlı tempolu bir aksiyon savaş oyunudur. Dinamik arenalar deneyin, rakiplerinizi alt edin ve becerilerinizi sergileyin. B büyüleyici aksiyon ve zorlayıcı mekaniklerle Çubuk Adam Çarpışması, en büyük şampiyon olmak için mücadele ederken sizi kendine çekiyor. Şimdi ücretsiz olarak Çubuk Adam Çarpışması oyna!",
+    "title": "Çubuk Adam Çarpışması - Heyecan Verici Aksiyon Savaş Oyunu",
+    "slogan": "En Son Çubuk Adam Şampiyonu Olun!",
+    "description": "Çubuk Adam Çarpışması, heyecan verici silahlar yelpazesi ile savaşan çubuk adam savaşçıları olarak savaştığınız heyecan verici bir aksiyon savaş oyunudur. Dinamik arenalarında hızlı tempolu savaşlara katılın, rakiplerinizi alt edin ve becerilerinizi sergileyin. Oyunun büyüleyici hareketi ve zorlayıcı mekaniği, en son çubuk adam şampiyonu olmaya çalışırken sizi büyüleyici kılar!",
     "Loading": {
       "title": "Yükleniyor..."
     },
@@ -10,10 +10,10 @@
       "title": "Gezinti"
     },
     "Common": {
-      "createAt": "Oluşturma Tarihi",
+      "createAt": "Oluşturulma Tarihi",
       "guide": "Yönerge",
       "privacyPolicy": "Gizlilik Politikası",
-      "termsOfServices": "Hizmet Koşulları",
+      "termsOfServices": "Hizmet Şartları",
       "text": "İçerik",
       "help": "Yardım",
       "friendlyLinks": "Dost Bağlantılar",
@@ -24,7 +24,7 @@
     },
     "HomeIframe": {
       "title": "Çubuk Adam Çarpışması",
-      "description": "Çubuk Adam Çarpışması'nın hareketli dünyasına katılın ve zafer yolunda savaşın.",
+      "description": "Hızlı tempolu savaşlar ve dinamik arenaların beklediği Çubuk Adam Çarpışması'nın heyecanını yaşayın. Şimdi oynayın ve en son çubuk adam şampiyonu olun!",
       "iframeTitle": "Oyun Önizlemesi",
       "fullscreenButton": "Tam Ekran",
       "shareButton": "Paylaş",
@@ -35,20 +35,20 @@
     "HomeFeatures": {
       "gameTitle": "Çubuk Adam Çarpışması",
       "whatIsTitle": "Çubuk Adam Çarpışması Nedir?",
-      "whatIsDescription": "Çubuk Adam Çarpışması, çeşitli heyecan verici silahlarla donanmış çubuk adam savaşçıları olarak savaştığınız heyecan verici bir aksiyon savaş oyunudur.",
-      "howToPlayTitle": "Nasıl Oynanır",
+      "whatIsDescription": "Çubuk Adam Çarpışması, heyecan verici silahlar yelpazesi ile savaşan çubuk adam savaşçıları olarak savaştığınız heyecan verici bir aksiyon savaş oyunudur.",
+      "howToPlayTitle": "Nasıl Oynanır?",
       "howToPlayStep1": "Çubuk adam savaşçınızı ve silahınızı seçin.",
-      "howToPlayStep2": "Dinamik arenalar arasında hızlı tempolu bir mücadeleye katılın.",
-      "howToPlayStep3": "Rakiplerinizi alt edin ve en iyi çubuk adam şampiyonu olun!",
+      "howToPlayStep2": "Dinamik arenalarında hızlı tempolu savaşlara katılın.",
+      "howToPlayStep3": "Rakiplerinizi alt edin ve en son şampiyon olun!",
       "keyFeaturesTitle": "Ana Özellikler",
       "feature1Title": "Dinamik Arenalar",
-      "feature1Description": "Hareketi canlı tutan sürekli değişen savaş alanlarında savaşın.",
+      "feature1Description": "Savaşları heyecanlı tutan sürekli değişen arenalar.",
       "feature2Title": "Heyecan Verici Silahlar",
-      "feature2Description": "Rakiplerinizi alt etmek için çeşitli silahlarla donanın.",
-      "feature3Title": "Zorlayıcı Mekanikler",
-      "feature3Description": "En iyi şampiyon olmak için oyunun mekaniklerini ustalaştırın.",
-      "feature4Title": "Hızlı Tempolu Savaş",
-      "feature4Description": "Sizi koltuğunuzun ucunda tutacak yoğun savaşları deneyimleyin."
+      "feature2Description": "Savaş tarzınıza uygun çeşitli silahlardan seçim yapın.",
+      "feature3Title": "Hızlı Tempolu Savaş",
+      "feature3Description": "Becerinizi test eden hızlı ve yoğun savaşlara katılın.",
+      "feature4Title": "Zorlayıcı Mekanizmalar",
+      "feature4Description": "Rakiplerinizi alt etmek için oyun mekanizmalarını ustalaştırın."
     },
     "HomeFAQs": {
       "title": "SSS"
@@ -57,7 +57,7 @@
       "title": "Oyun Videosu"
     },
     "HomeRecommendation": {
-      "title": "Tavsiye Eder"
+      "title": "Tavsiyeler"
     },
     "HomeComments": {
       "title": "Oyun Yorumları"
@@ -69,8 +69,8 @@
     },
     "CategoryPage": {
       "categories": "Kategoriler",
-      "noCategories": "Hiç kategori bulunamadı",
-      "viewMore": "Daha Fazlasını Gör",
+      "noCategories": "Hiçbir kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
       "page": "Sayfa"
     }
   }

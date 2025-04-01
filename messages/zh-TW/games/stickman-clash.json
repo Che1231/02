@@ -1,8 +1,8 @@
 {
   "stickman-clash": {
-    "title": "街機人衝突：免費線上動作戰鬥遊戲",
-    "slogan": "參與刺激的街機人戰鬥",
-    "description": "街機人衝突是一款快速節奏的動作戰鬥遊戲，您可以在其中以街機人戰士的身份，使用令人興奮的武器戰鬥。體驗動態競技場，智取對手，展現您的技能。透過引人入勝的動作和具有挑戰性的機制，街機人衝突讓您欲罷不能，目標成為終極冠軍。現在免費玩街機人衝突！",
+    "title": "棍人衝突 - 刺激的動作戰鬥遊戲",
+    "slogan": "成為終極棍人冠軍！",
+    "description": "棍人衝突是一款刺激的動作戰鬥遊戲，您將以棍人戰士的身分，使用各種令人興奮的武器進行戰鬥。參與快節奏的戰鬥，智取對手，並在動態的競技場中展現您的技能。遊戲的引人入勝的動作和具有挑戰性的機制會讓您欲罷不能，努力成為終極棍人冠軍！",
     "Loading": {
       "title": "載入中..."
     },
@@ -15,7 +15,7 @@
       "privacyPolicy": "隱私權政策",
       "termsOfServices": "服務條款",
       "text": "內容",
-      "help": "說明",
+      "help": "幫助",
       "friendlyLinks": "友情連結",
       "articleList": "文章列表",
       "home": "首頁",
@@ -23,35 +23,35 @@
       "previous": "上一頁"
     },
     "HomeIframe": {
-      "title": "街機人衝突",
-      "description": "加入充滿動作的街機人衝突世界，戰鬥到勝利！",
+      "title": "棍人衝突",
+      "description": "體驗棍人衝突的刺激，在快節奏的戰鬥和動態競技場中等待您。現在就玩，成為終極棍人冠軍！",
       "iframeTitle": "遊戲預覽",
       "fullscreenButton": "全螢幕",
       "shareButton": "分享",
       "urlCopied": "網址已複製到剪貼簿！",
       "downloadGame": "下載遊戲",
-      "playGame": "開始遊戲"
+      "playGame": "遊玩遊戲"
     },
     "HomeFeatures": {
-      "gameTitle": "街機人衝突",
-      "whatIsTitle": "什麼是街機人衝突？",
-      "whatIsDescription": "街機人衝突是一款令人興奮的動作戰鬥遊戲，您可以在其中以街機人戰士的身份，使用各種令人興奮的武器戰鬥。",
-      "howToPlayTitle": "如何遊戲",
-      "howToPlayStep1": "選擇您的街機人戰士和武器。",
-      "howToPlayStep2": "在動態競技場中進行快速節奏的戰鬥。",
-      "howToPlayStep3": "智取對手，成為終極街機人冠軍！",
-      "keyFeaturesTitle": "主要功能",
+      "gameTitle": "棍人衝突",
+      "whatIsTitle": "棍人衝突是什麼？",
+      "whatIsDescription": "棍人衝突是一款刺激的動作戰鬥遊戲，您將以棍人戰士的身分，使用各種令人興奮的武器進行戰鬥。",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "選擇您的棍人戰士和武器。",
+      "howToPlayStep2": "在動態的競技場中進行快節奏的戰鬥。",
+      "howToPlayStep3": "智取對手，成為終極冠軍！",
+      "keyFeaturesTitle": "主要特色",
       "feature1Title": "動態競技場",
-      "feature1Description": "在不斷變化的戰場中戰鬥，保持戰鬥的活力。",
+      "feature1Description": "在不斷變化的競技場中戰鬥，讓戰鬥保持刺激。",
       "feature2Title": "令人興奮的武器",
-      "feature2Description": "使用各種武器來智取對手。",
-      "feature3Title": "具有挑戰性的機制",
-      "feature3Description": "掌握遊戲機制，成為終極冠軍。",
-      "feature4Title": "快速節奏的戰鬥",
-      "feature4Description": "體驗讓你心跳加速的激烈戰鬥。"
+      "feature2Description": "選擇各種武器以適合您的戰鬥風格。",
+      "feature3Title": "快節奏戰鬥",
+      "feature3Description": "參與快速而激烈的戰鬥，考驗您的技能。",
+      "feature4Title": "具有挑戰性的機制",
+      "feature4Description": "掌握遊戲機制，智取對手。"
     },
     "HomeFAQs": {
-      "title": "常見問題"
+      "title": "常見問題集"
     },
     "HomeRelatedVideo": {
       "title": "遊戲影片"
@@ -70,7 +70,7 @@
     "CategoryPage": {
       "categories": "類別",
       "noCategories": "找不到類別",
-      "viewMore": "查看更多",
+      "viewMore": "檢視更多",
       "page": "頁面"
     }
   }
