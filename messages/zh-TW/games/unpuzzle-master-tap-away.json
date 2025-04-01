@@ -1,0 +1,77 @@
+{
+  "unpuzzle-master-tap-away": {
+    "title": "輕鬆拆解大師 - 免費線上拼圖遊戲",
+    "slogan": "放鬆身心，掌握瓦片拆解藝術",
+    "description": "這款輕鬆的拼圖遊戲，讓您在各種方向上拆解瓦片。獨特的障礙和挑戰，提升您的準確性和專注力。免費線上玩輕鬆拆解大師，享受趣味且引人入勝的體驗。立即開始您的拼圖之旅！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導覽"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友善連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "輕鬆拆解大師",
+      "description": "這款輕鬆的拼圖遊戲，讓您在各種方向上拆解瓦片。獨特的障礙和挑戰，提升您的準確性和專注力。免費線上玩輕鬆拆解大師，享受趣味且引人入勝的體驗。立即開始您的拼圖之旅！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "輕鬆拆解大師",
+      "whatIsTitle": "輕鬆拆解大師是什麼？",
+      "whatIsDescription": "這款輕鬆的拼圖遊戲，讓您在各種方向上拆解瓦片。獨特的障礙和挑戰，提升您的準確性和專注力。",
+      "howToPlayTitle": "如何遊戲",
+      "howToPlayStep1": "點擊瓦片，以正確的方向拆解它們。",
+      "howToPlayStep2": "避開障礙，並準確地完成每個關卡。",
+      "howToPlayStep3": "挑戰自己，獲得最高分！",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "放鬆的遊戲體驗",
+      "feature1Description": "在您自己的節奏中解開拼圖，享受平靜的體驗。",
+      "feature2Title": "獨特的障礙",
+      "feature2Description": "面對各種挑戰，讓遊戲變得更有趣。",
+      "feature3Title": "提升準確度",
+      "feature3Description": "每個關卡都能提升您的專注力和精度。",
+      "feature4Title": "免費遊戲",
+      "feature4Description": "免費線上玩輕鬆拆解大師，享受無盡的樂趣。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦遊戲"
+    },
+    "HomeComments": {
+      "title": "玩家評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "遊戲分類",
+      "noCategories": "找不到遊戲分類",
+      "viewMore": "檢視更多",
+      "page": "頁面"
+    }
+  }
+}
