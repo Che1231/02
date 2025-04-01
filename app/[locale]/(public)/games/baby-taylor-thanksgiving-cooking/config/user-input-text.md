@@ -1,0 +1,1 @@
+This is an online cooking game for Thanksgiving. You will have the opportunity to go into Taylors house to help them prepare for Thanksgiving. Firstly you will need to go to the supermarket and go shopping for ingredients and items to prepare the decorations. 
