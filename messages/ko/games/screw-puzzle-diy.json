@@ -1,0 +1,77 @@
+{
+  "screw-puzzle-diy": {
+    "title": "나사 퍼즐 - DIY: 무료 온라인 퍼즐 게임",
+    "slogan": "나사 퍼즐 - DIY로 기술을 시험하십시오",
+    "description": "나사 퍼즐 - DIY에 오신 것을 환영합니다. 여기에서 진정으로 까다로운 퍼즐로 문제 해결 능력을 테스트할 수 있습니다. 이 혁신적인 게임에서 못을 풀고 조이는 짜릿함을 경험하세요. 초보자이든 전문가이든 나사 퍼즐 - DIY는 끝없는 재미와 도전 과제를 제공합니다. 지금 플레이하고 나사의 달인이 되세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "유용한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "나사 퍼즐 - DIY",
+      "description": "나사 퍼즐 - DIY로 최고의 나사 퍼즐 도전에 참여하세요. 기술을 연마하고 복잡한 퍼즐을 푸는 짜릿함을 만끽하세요. 지금 플레이하고 흥분을 경험하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "나사 퍼즐 - DIY",
+      "whatIsTitle": "나사 퍼즐 - DIY는 무엇인가요?",
+      "whatIsDescription": "나사 퍼즐 - DIY는 복잡한 퍼즐을 푸는 데 못을 풀고 조이는 까다로운 퍼즐 게임입니다. 기술, 인내심 및 정밀도의 시험입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "게임을 시작하려면 퍼즐을 선택합니다.",
+      "howToPlayStep2": "마우스를 사용하여 못을 풀고 조입니다.",
+      "howToPlayStep3": "퍼즐을 완성하여 다음 레벨로 진행합니다.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "까다로운 퍼즐",
+      "feature1Description": "문제 해결 능력을 테스트하는 복잡한 퍼즐에 참여하세요.",
+      "feature2Title": "현실적인 메커니즘",
+      "feature2Description": "현실적인 못 풀기 및 조이기 메커니즘을 경험하세요.",
+      "feature3Title": "여러 레벨",
+      "feature3Description": "점점 어려워지는 레벨을 통해 진행하세요.",
+      "feature4Title": "숙달",
+      "feature4Description": "각 퍼즐을 완성할 때마다 나사의 달인이 되세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}
