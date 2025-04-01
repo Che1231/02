@@ -1,0 +1,1 @@
+To be a slap king! Try to have relaxed and release your press by beat your opponent. Grab the right timing and hit until your opponents fly out the arena area and knock out them.
