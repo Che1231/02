@@ -1,0 +1,77 @@
+{
+  "basketbros": {
+    "title": "BasketBros - Gioco di Basket Veloce Online e Offline",
+    "slogan": "Dunk, Personalizza, Competi!",
+    "description": "BasketBros è un emozionante gioco di basket con modalità di gioco sia online che offline. Scegli il tuo giocatore, personalizza il tuo stile e competi in modalità single player e multiplayer. Mostra le tue abilità con schiacciate epiche, vinci le partite e sblocca miglioramenti. Immergiti ora in BasketBros e vivi la sfida definitiva del basket!",
+    "Loading": {
+      "title": "Caricamento..."
+    },
+    "Navbar": {
+      "title": "Navigazione"
+    },
+    "Common": {
+      "createAt": "Crea in",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla privacy",
+      "termsOfServices": "Termini di servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Collegamenti utili",
+      "articleList": "Elenco articoli",
+      "home": "Home",
+      "next": "Successivo",
+      "previous": "Precedente"
+    },
+    "HomeIframe": {
+      "title": "BasketBros™",
+      "description": "Vivi l'azione frenetica di BasketBros. Personalizza il tuo giocatore, competi in emozionanti partite e sblocca nuove funzionalità.",
+      "iframeTitle": "Anteprima del Gioco",
+      "fullscreenButton": "Schermo intero",
+      "shareButton": "Condividi",
+      "urlCopied": "URL copiato negli appunti!",
+      "downloadGame": "Scarica il Gioco",
+      "playGame": "Gioca"
+    },
+    "HomeFeatures": {
+      "gameTitle": "BasketBros™",
+      "whatIsTitle": "Cos'è BasketBros?",
+      "whatIsDescription": "BasketBros è un gioco di basket frenetico con modalità di gioco online e offline. Scegli un giocatore, personalizza il tuo stile e competi in partite single player e multiplayer.",
+      "howToPlayTitle": "Come Giocare",
+      "howToPlayStep1": "Scegli il tuo giocatore e personalizza il tuo stile.",
+      "howToPlayStep2": "Competi in partite single player o multiplayer.",
+      "howToPlayStep3": "Vinci le partite per guadagnare miglioramenti e sbloccare contenuti.",
+      "keyFeaturesTitle": "Caratteristiche principali",
+      "feature1Title": "Giocatori Personalizzabili",
+      "feature1Description": "Personalizza il tuo giocatore con stili unici.",
+      "feature2Title": "Modalità Online e Offline",
+      "feature2Description": "Gioca in qualsiasi momento, ovunque, con modalità di gioco sia online che offline.",
+      "feature3Title": "Schiacciate Epiche",
+      "feature3Description": "Mostra le tue abilità con schiacciate straordinarie.",
+      "feature4Title": "Contenuti Sbloccabili",
+      "feature4Description": "Vinci le partite per guadagnare miglioramenti e sbloccare nuove funzionalità."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Raccomandazioni"
+    },
+    "HomeComments": {
+      "title": "Commenti sul Gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i Giochi",
+      "description": "Tutti i Giochi",
+      "games": "Giochi"
+    },
+    "CategoryPage": {
+      "categories": "Categorie",
+      "noCategories": "Nessuna categoria trovata",
+      "viewMore": "Visualizza altro",
+      "page": "Pagina"
+    }
+  }
+}

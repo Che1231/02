@@ -1,0 +1,77 @@
+{
+  "basketbros": {
+    "title": "BasketBros – Schnelles Basketballspiel online und offline",
+    "slogan": "Dunk, anpassen, antreten!",
+    "description": "BasketBros ist ein spannendes Basketballspiel mit Online- und Offline-Gameplay. Wähle deinen Basketballer, passe deinen Stil an und tritt im Einzelspieler- und Mehrspielermodus an. Zeige deine Fähigkeiten mit epischen Dunks, gewinne Spiele und schalte Upgrades frei. Tauche jetzt in BasketBros ein und erlebe die ultimative Basketballherausforderung!",
+    "Loading": {
+      "title": "Lädt..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundschaftslinks",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Nächstes",
+      "previous": "Vorheriges"
+    },
+    "HomeIframe": {
+      "title": "BasketBros™",
+      "description": "Erlebe die rasante Basketball-Action von BasketBros. Passe deinen Spieler an, tritt in spannenden Matches an und schalte neue Funktionen frei.",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "BasketBros™",
+      "whatIsTitle": "Was ist BasketBros?",
+      "whatIsDescription": "BasketBros ist ein schnelles Basketballspiel mit Online- und Offline-Gameplay. Wähle einen Basketballer, passe deinen Stil an und tritt in Einzel- und Mehrspieler-Spielen an.",
+      "howToPlayTitle": "So spielst du",
+      "howToPlayStep1": "Wähle deinen Basketballer und passe deinen Stil an.",
+      "howToPlayStep2": "Tritt in Einzel- oder Mehrspieler-Matches an.",
+      "howToPlayStep3": "Gewinne Spiele, um Upgrades und Freischaltungen zu erhalten.",
+      "keyFeaturesTitle": "Hauptmerkmale",
+      "feature1Title": "Anpassbare Spieler",
+      "feature1Description": "Personalisieren Sie Ihren Basketballer mit einzigartigen Stilen.",
+      "feature2Title": "Online- und Offline-Modi",
+      "feature2Description": "Spiele jederzeit und überall mit Online- und Offline-Gameplay.",
+      "feature3Title": "Epische Dunks",
+      "feature3Description": "Zeige deine Fähigkeiten mit kranken Dunks.",
+      "feature4Title": "Freischaltbares",
+      "feature4Description": "Gewinne Spiele, um Upgrades und neue Funktionen freizuschalten."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

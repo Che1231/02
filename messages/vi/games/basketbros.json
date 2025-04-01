@@ -1,0 +1,77 @@
+{
+  "basketbros": {
+    "title": "BasketBros - Trò chơi bóng rổ nhanh nhạy trên và ngoại tuyến",
+    "slogan": "Ném rổ, tùy chỉnh, thi đấu!",
+    "description": "BasketBros là một trò chơi bóng rổ hồi hộp cung cấp cả chế độ chơi trực tuyến và ngoại tuyến. Chọn cầu thủ bóng rổ của bạn, tùy chỉnh phong cách của bạn và thi đấu trong chế độ đơn người và nhiều người chơi. Trình diễn kỹ năng của bạn với những pha ném rổ ngoạn mục, giành chiến thắng trong trận đấu và mở khóa các nâng cấp. Tham gia BasketBros ngay bây giờ và trải nghiệm thử thách bóng rổ cuối cùng!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Đọc"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "BasketBros™",
+      "description": "Trải nghiệm hành động bóng rổ nhanh nhạy của BasketBros. Tùy chỉnh cầu thủ của bạn, thi đấu trong những trận đấu hồi hộp và mở khóa tính năng mới.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "BasketBros™",
+      "whatIsTitle": "BasketBros là gì?",
+      "whatIsDescription": "BasketBros là một trò chơi bóng rổ nhanh nhạy với chế độ chơi trực tuyến và ngoại tuyến. Chọn một cầu thủ bóng rổ, tùy chỉnh phong cách của bạn và thi đấu trong các trò chơi đơn người và nhiều người chơi.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Chọn cầu thủ bóng rổ của bạn và tùy chỉnh phong cách của bạn.",
+      "howToPlayStep2": "Thi đấu trong các trận đấu đơn người hoặc nhiều người chơi.",
+      "howToPlayStep3": "Thắng các trận đấu để kiếm được nâng cấp và mở khóa vật phẩm.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Cầu thủ có thể tùy chỉnh",
+      "feature1Description": "Cá nhân hóa cầu thủ bóng rổ của bạn với các phong cách độc đáo.",
+      "feature2Title": "Chế độ trực tuyến và ngoại tuyến",
+      "feature2Description": "Chơi bất cứ lúc nào, ở bất cứ đâu với cả chế độ chơi trực tuyến và ngoại tuyến.",
+      "feature3Title": "Những pha ném rổ ngoạn mục",
+      "feature3Description": "Thể hiện kỹ năng của bạn với những pha ném rổ đẹp mắt.",
+      "feature4Title": "Mở khóa vật phẩm",
+      "feature4Description": "Thắng các trận đấu để kiếm được nâng cấp và mở khóa các tính năng mới."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

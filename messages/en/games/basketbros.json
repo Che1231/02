@@ -1,0 +1,77 @@
+{
+  "basketbros": {
+    "title": "BasketBros - Fast-Paced Basketball Game Online & Offline",
+    "slogan": "Dunk, Customize, Compete!",
+    "description": "BasketBros is a thrilling basketball game offering both online and offline gameplay. Choose your basketballer, customize your style, and compete in singleplayer and multiplayer modes. Show off your skills with epic dunks, win matches, and unlock upgrades. Dive into BasketBros now and experience the ultimate basketball challenge!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "BasketBros™",
+      "description": "Experience the fast-paced basketball action of BasketBros. Customize your player, compete in thrilling matches, and unlock new features.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "BasketBros™",
+      "whatIsTitle": "What is BasketBros?",
+      "whatIsDescription": "BasketBros is a fast-paced basketball game with online and offline gameplay. Choose a basketballer, customize your style, and compete in singleplayer and multiplayer games.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Choose your basketballer and customize your style.",
+      "howToPlayStep2": "Compete in singleplayer or multiplayer matches.",
+      "howToPlayStep3": "Win games to earn upgrades and unlockables.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Customizable Players",
+      "feature1Description": "Personalize your basketballer with unique styles.",
+      "feature2Title": "Online & Offline Modes",
+      "feature2Description": "Play anytime, anywhere with both online and offline gameplay.",
+      "feature3Title": "Epic Dunks",
+      "feature3Description": "Show off your skills with sick dunks.",
+      "feature4Title": "Unlockables",
+      "feature4Description": "Win matches to earn upgrades and unlock new features."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

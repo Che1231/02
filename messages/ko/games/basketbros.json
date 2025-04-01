@@ -1,0 +1,77 @@
+{
+  "basketbros": {
+    "title": "BasketBros - 빠르게 진행되는 농구 게임 (온라인 및 오프라인)",
+    "slogan": "덩크, 커스터마이징, 경쟁!",
+    "description": "BasketBros는 온라인 및 오프라인 게임 플레이를 제공하는 흥미진진한 농구 게임입니다. 농구 선수를 선택하고 스타일을 커스터마이징하고 싱글 플레이어 및 멀티플레이어 모드에서 경쟁하십시오. 멋진 덩크슛으로 기술을 선보이고 경기를 이기고 업그레이드를 해제하십시오. 지금 BasketBros에 참여하여 최고의 농구 챌린지를 경험하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "컨텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "BasketBros™",
+      "description": "BasketBros의 빠르게 진행되는 농구 액션을 경험하세요. 플레이어를 커스터마이징하고 짜릿한 경기에서 경쟁하고 새로운 기능을 해제하세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "BasketBros™",
+      "whatIsTitle": "BasketBros는 무엇인가요?",
+      "whatIsDescription": "BasketBros는 온라인 및 오프라인 게임 플레이를 갖춘 빠르게 진행되는 농구 게임입니다. 농구 선수를 선택하고 스타일을 커스터마이징하고 싱글플레이어 및 멀티플레이어 게임에서 경쟁하십시오.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "농구 선수를 선택하고 스타일을 커스터마이징하세요.",
+      "howToPlayStep2": "싱글플레이어 또는 멀티플레이어 경기에서 경쟁하세요.",
+      "howToPlayStep3": "게임에서 승리하여 업그레이드 및 잠금 해제 가능 항목을 얻으십시오.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "커스터마이징 가능한 플레이어",
+      "feature1Description": "고유한 스타일로 농구 선수를 개성화하세요.",
+      "feature2Title": "온라인 및 오프라인 모드",
+      "feature2Description": "온라인 및 오프라인 게임 플레이로 언제 어디서든 플레이하세요.",
+      "feature3Title": "에픽 덩크",
+      "feature3Description": "멋진 덩크슛으로 기술을 선보이세요.",
+      "feature4Title": "잠금 해제 가능 항목",
+      "feature4Description": "경기에서 승리하여 업그레이드 및 새로운 기능을 해제하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "자세히 보기",
+      "page": "페이지"
+    }
+  }
+}

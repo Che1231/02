@@ -1,0 +1,77 @@
+{
+  "basketbros": {
+    "title": "BasketBros - Juego de Baloncesto Rápido Online y Offline",
+    "slogan": "¡Encestes, Personaliza, Compite!",
+    "description": "BasketBros es un emocionante juego de baloncesto que ofrece juego online y offline. Elige a tu jugador de baloncesto, personaliza tu estilo y compite en modos singleplayer y multiplayer. Demuestra tus habilidades con increíbles encestes, gana partidos y desbloquea mejoras. Sumérgete ahora en BasketBros y experimenta el desafío de baloncesto definitivo!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Términos de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "BasketBros™",
+      "description": "Experimenta la acción de baloncesto rápida de BasketBros. Personaliza a tu jugador, compite en emocionantes partidos y desbloquea nuevas funciones.",
+      "iframeTitle": "Vista Previa del Juego",
+      "fullscreenButton": "Pantalla Completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar Juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "BasketBros™",
+      "whatIsTitle": "¿Qué es BasketBros?",
+      "whatIsDescription": "BasketBros es un juego de baloncesto rápido con juego online y offline. Elige a un jugador de baloncesto, personaliza tu estilo y compite en juegos singleplayer y multiplayer.",
+      "howToPlayTitle": "Cómo Jugar",
+      "howToPlayStep1": "Elige a tu jugador de baloncesto y personaliza su estilo.",
+      "howToPlayStep2": "Compite en partidos singleplayer o multiplayer.",
+      "howToPlayStep3": "Gana partidos para obtener mejoras y desbloqueables.",
+      "keyFeaturesTitle": "Características Clave",
+      "feature1Title": "Jugadores Personalizables",
+      "feature1Description": "Personaliza a tu jugador de baloncesto con estilos únicos.",
+      "feature2Title": "Modos Online y Offline",
+      "feature2Description": "Juega en cualquier momento y lugar con juego online y offline.",
+      "feature3Title": "Encestes Épicos",
+      "feature3Description": "Muestra tus habilidades con impresionantes encestes.",
+      "feature4Title": "Desbloqueables",
+      "feature4Description": "Gana partidos para obtener mejoras y desbloquear nuevas funciones."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo del Juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del Juego"
+    },
+    "GamePage": {
+      "title": "Todos los Juegos",
+      "description": "Todos los Juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

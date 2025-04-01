@@ -1,0 +1,120 @@
+{
+  "name": "BasketBros",
+  "pagePath": "/games/basketbros",
+  "pageName": "basketbros",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.crazygames.com/embed/basketbros",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken87.png",
+      "content": "This game's dope! The dunks are so sick, and customizing my basketballer is the best. Worth every penny!"
+    },
+    {
+      "author": "SavageBroadsword_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBroadsword_X.png",
+      "content": "Is it just me, or is the online gameplay seriously addictive? Can't stop playing BasketBros!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "The single player is a good time waster. But the online matches make it better."
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Lol, the customization options? Straight fire. I look amazing while losing."
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "Fast-paced and fun! Wish there were more unlockables, though. But still a banger."
+    },
+    {
+      "author": "PhantomPhoenix99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix99.png",
+      "content": "Playing offline is surprisingly fun! Good way to practice before getting wrecked online."
+    },
+    {
+      "author": "AdjectiveRevolver_V",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AdjectiveRevolver_V.png",
+      "content": "Okay, the fast-paced gameplay is really something. This is good game."
+    },
+    {
+      "author": "TheLastOfUsAll",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/TheLastOfUsAll.png",
+      "content": "How do you win? Seriously, what's the secret? I'm terrible but addicted."
+    },
+    {
+      "author": "CtrlAltDefeat42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat42.png",
+      "content": "The game BasketBros is awesome. Controls are easy. Online competition is intense!"
+    },
+    {
+      "author": "CosmicLeviathan",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicLeviathan.png",
+      "content": "Upgrades are cool. It really gives you the incentive to keep playing. Thumbs up from me!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743502516212-r42mb.avif",
+  "page_path": "/games/basketbros",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Sports"
+  ],
+  "createdTime": "2025-04-01 18:15:15"
+}

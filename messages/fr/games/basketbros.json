@@ -1,0 +1,77 @@
+{
+  "basketbros": {
+    "title": "BasketBros - Jeu de basket-ball rapide en ligne et hors ligne",
+    "slogan": "Plongez-vous dans le dunk, personnalisez, affrontez!",
+    "description": "BasketBros est un jeu de basket-ball palpitant proposant des parties en ligne et hors ligne. Choisissez votre joueur de basket, personnalisez votre style et affrontez-vous en mode solo et multijoueur. Montrez vos prouesses avec des dunks épiques, gagnez des matchs et débloquez des améliorations. Plongez-vous dans BasketBros et vivez le défi ultime du basket-ball!",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste d'articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "BasketBros™",
+      "description": "Découvrez l'action frénétique de BasketBros. Personnalisez votre joueur, affrontez des matchs passionnants et débloquez de nouvelles fonctionnalités.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer au jeu"
+    },
+    "HomeFeatures": {
+      "gameTitle": "BasketBros™",
+      "whatIsTitle": "Qu'est-ce que BasketBros ?",
+      "whatIsDescription": "BasketBros est un jeu de basket-ball rapide avec des parties en ligne et hors ligne. Choisissez un joueur de basket, personnalisez votre style et participez à des matchs en solo et multijoueur.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Choisissez votre joueur de basket et personnalisez votre style.",
+      "howToPlayStep2": "Affrontez-vous en mode solo ou multijoueur.",
+      "howToPlayStep3": "Gagnez des matchs pour obtenir des améliorations et débloquer des éléments.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Joueurs personnalisables",
+      "feature1Description": "Personnalisez votre joueur de basket avec des styles uniques.",
+      "feature2Title": "Modes en ligne et hors ligne",
+      "feature2Description": "Jouez à tout moment, n'importe où avec des parties en ligne et hors ligne.",
+      "feature3Title": "Dunks épiques",
+      "feature3Description": "Montrez vos compétences avec des dunks impressionnants.",
+      "feature4Title": "Éléments déblocables",
+      "feature4Description": "Gagnez des matchs pour obtenir des améliorations et débloquer de nouvelles fonctionnalités."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}
