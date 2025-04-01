@@ -1,0 +1,77 @@
+{
+  "bridge-race": {
+    "title": "다리 경주: 경쟁적인 다리 건설 게임",
+    "slogan": "건설하고, 전략을 세우고, 승리하세요!",
+    "description": "다리 경주는 경쟁적인 캐주얼 컬렉션 건설 게임으로, 당신은 블록을 모아 다리를 건설하면서 라이벌들을 속여 넘어서야 합니다. 다른 플레이어들이 당신의 진척 상황을 훔치려고 할 수 있으니 주의하세요. 이 짜릿한 기술과 속도의 시험에서 전략을 세우고 다리를 먼저 완성하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색 메뉴"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 연결",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "다리 경주: 건설하고 승리하세요",
+      "description": "블록을 모으고, 다리를 건설하고, 라이벌들을 속여 넘어서는 경쟁적인 캐주얼 게임인 다리 경주의 짜릿함을 경험하세요. 다리를 먼저 완성하고 승리를 거머쥐세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "다리 경주: 최고의 다리 건설 챌린지",
+      "whatIsTitle": "다리 경주는 무엇인가요?",
+      "whatIsDescription": "다리 경주는 경쟁적인 캐주얼 컬렉션 건설 게임으로, 당신은 블록을 모아 다리를 건설하면서 라이벌들을 속여 넘어서야 합니다. 다른 플레이어들이 당신의 진척 상황을 훔치려고 할 수 있으니 주의하세요.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "블록을 모아 다리를 건설하세요.",
+      "howToPlayStep2": "전략을 세워 라이벌을 속여 넘어서세요.",
+      "howToPlayStep3": "다리를 먼저 완성하고 승리하세요!",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "경쟁적인 게임 플레이",
+      "feature1Description": "최고의 다리를 건설하기 위해 다른 플레이어들과 경쟁하세요.",
+      "feature2Title": "전략적 사고",
+      "feature2Description": "라이벌들을 속이기 위해 신중하게 계획을 세우세요.",
+      "feature3Title": "짜릿한 반전",
+      "feature3Description": "다른 플레이어들이 당신의 진척 상황을 훔치려고 할 수 있으니 주의하세요.",
+      "feature4Title": "기술과 속도",
+      "feature4Description": "다리를 가장 먼저 완성하기 위해 기술과 속도를 시험해보세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

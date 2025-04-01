@@ -1,0 +1,77 @@
+{
+  "bridge-race": {
+    "title": "Course de ponts : Jeu de construction de ponts compétitif",
+    "slogan": "Construisez, stratégisez et gagnez !",
+    "description": "Bridge Race est un jeu de construction de collecte décontracté et compétitif où vous rassemblez des blocs pour construire votre pont tout en déjouant vos rivaux. Restez vigilant car d'autres joueurs peuvent essayer de voler vos progrès, ajoutant une torsion passionnante au défi. Stratégisez et course pour compléter votre pont en premier dans ce test captivant de compétence et de vitesse !",
+    "Loading": {
+      "title": "Chargement…"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens utiles",
+      "articleList": "Liste d'articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Bridge Race : Construisez et gagnez",
+      "description": "Découvrez le frisson de Bridge Race, un jeu décontracté et compétitif où vous collectez des blocs, construisez votre pont et déjouez vos rivaux. Soyez le premier à terminer votre pont et revendiquez la victoire !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Bridge Race : Le défi ultime de construction de ponts",
+      "whatIsTitle": "Qu'est-ce que Bridge Race ?",
+      "whatIsDescription": "Bridge Race est un jeu de construction de collecte décontracté et compétitif où vous rassemblez des blocs pour construire votre pont tout en déjouant vos rivaux. Restez vigilant car d'autres joueurs peuvent essayer de voler vos progrès, ajoutant une torsion passionnante au défi.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Collectionnez des blocs pour construire votre pont.",
+      "howToPlayStep2": "Stratégisez pour déjouer vos rivaux.",
+      "howToPlayStep3": "Soyez le premier à terminer votre pont et gagnez !",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Gameplay compétitif",
+      "feature1Description": "Défiez d'autres joueurs dans une course pour construire le meilleur pont.",
+      "feature2Title": "Pensée stratégique",
+      "feature2Description": "Planifiez vos mouvements avec soin pour déjouer vos rivaux.",
+      "feature3Title": "Tours passionnants",
+      "feature3Description": "Restez vigilant car d'autres joueurs peuvent essayer de voler vos progrès.",
+      "feature4Title": "Compétence et vitesse",
+      "feature4Description": "Testez votre compétence et votre vitesse pour être le premier à terminer votre pont."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

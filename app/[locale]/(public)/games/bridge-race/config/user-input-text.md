@@ -1,0 +1,1 @@
+Bridge Race is a competitive casual collect building game where you gather blocks to construct your bridge while outsmarting rivals. Stay alert as other players may try to steal your progress, adding an exciting twist to the challenge. Strategize and race to complete your bridge first in this thrilling test of skill and speed!
