@@ -1,0 +1,77 @@
+{
+  "sky-riders": {
+    "title": "スカイライダーズ：高速レースアドベンチャー",
+    "slogan": "トラックを制し、アドレナリンを体感！",
+    "description": "スカイライダーズは、あなたのスキルを試す高速カジュアルな乗り物運転ゲームです。挑戦的なコースをクリアし、転倒を避け、アドレナリンを爆発させる瞬間を体験してください。車やバイクを選んで、忘れられないレース体験をしましょう。さあ、トラックを制覇する準備はできましたか？今すぐスカイライダーズをプレイしましょう！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "スカイライダーズ™",
+      "description": "スカイライダーズで高速レースを体験。挑戦的なトラックを制し、アドレナリンを体感！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "スカイライダーズ™",
+      "whatIsTitle": "スカイライダーズとは？",
+      "whatIsDescription": "スカイライダーズは、挑戦的なトラックであなたの運転スキルを試せる高速カジュアルな乗り物運転ゲームです。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "車かバイクを選んでください。",
+      "howToPlayStep2": "障害物を避けながら、挑戦的なトラックをクリアしてください。",
+      "howToPlayStep3": "集中力を保ち、転倒を避けて勝利を目指しましょう！",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "高速レース",
+      "feature1Description": "高速レースでアドレナリンを爆発させる瞬間を体験してください。",
+      "feature2Title": "挑戦的なトラック",
+      "feature2Description": "運転スキルを試される難しいトラックを制覇してください。",
+      "feature3Title": "複数の乗り物",
+      "feature3Description": "車とバイクを選んで、様々なレース体験を楽しんでください。",
+      "feature4Title": "忘れられない瞬間",
+      "feature4Description": "スカイライダーズで忘れられないレースの瞬間を満喫してください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "全てのゲーム",
+      "description": "全てのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

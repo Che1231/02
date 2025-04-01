@@ -1,0 +1,77 @@
+{
+  "sky-riders": {
+    "title": "Sky Riders : Une aventure de course à grande vitesse",
+    "slogan": "Dominez les pistes, ressentez l'adrénaline !",
+    "description": "Sky Riders est un jeu de conduite de véhicules décontractés à grande vitesse qui met vos compétences à l'épreuve.  Réalisez des pistes difficiles, évitez de tomber, et vivez des moments remplis d'adrénaline. Que vous conduisiez une voiture ou que vous fassiez du motocyclisme, Sky Riders offre des expériences de course inoubliables. Prêt à dominer les pistes ? Jouez à Sky Riders maintenant !",
+    "Loading": {
+      "title": "Chargement…"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Sky Riders™",
+      "description": "Découvrez des courses à grande vitesse dans Sky Riders. Dominez des pistes difficiles et ressentez l'adrénaline !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sky Riders™",
+      "whatIsTitle": "Qu'est-ce que Sky Riders ?",
+      "whatIsDescription": "Sky Riders est un jeu de conduite de véhicules décontractés à grande vitesse où vous pouvez mettre vos compétences de conduite à l'épreuve sur des pistes difficiles.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Choisissez votre véhicule : voiture ou moto.",
+      "howToPlayStep2": "Parcourez des pistes difficiles tout en évitant les obstacles.",
+      "howToPlayStep3": "Restez concentré et évitez de tomber pour gagner !",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Course à grande vitesse",
+      "feature1Description": "Ressentez des moments palpitants d'adrénaline avec des courses à grande vitesse.",
+      "feature2Title": "Pistes difficiles",
+      "feature2Description": "Dominez des pistes complexes qui mettent vos compétences de conduite à l'épreuve.",
+      "feature3Title": "Plusieurs véhicules",
+      "feature3Description": "Choisissez entre des voitures et des motos pour des expériences de course variées.",
+      "feature4Title": "Moments inoubliables",
+      "feature4Description": "Profitez de moments de course inoubliables dans Sky Riders."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

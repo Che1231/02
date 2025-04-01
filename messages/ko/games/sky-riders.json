@@ -1,0 +1,77 @@
+{
+  "sky-riders": {
+    "title": "스카이 라이더스: 고속 레이싱 모험",
+    "slogan": "트랙을 정복하고, 아드레날린을 느껴보세요!",
+    "description": "스카이 라이더스는 고속 캐주얼 차량 운전 게임으로, 여러분의 기술을 시험하는 게임입니다. 까다로운 트랙을 완주하고, 떨어지는 것을 피하며, 아드레날린이 솟구치는 순간들을 경험하세요. 자동차를 운전하든 오토바이를 타든, 스카이 라이더스는 잊을 수 없는 레이싱 경험을 제공합니다. 트랙을 정복할 준비가 되셨나요? 지금 스카이 라이더스를 플레이하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "스카이 라이더스™",
+      "description": "스카이 라이더스에서 고속 레이싱을 경험하세요. 까다로운 트랙을 정복하고 아드레날린을 느껴보세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "스카이 라이더스™",
+      "whatIsTitle": "스카이 라이더스는 무엇인가요?",
+      "whatIsDescription": "스카이 라이더스는 까다로운 트랙에서 드라이빙 실력을 테스트할 수 있는 고속 캐주얼 차량 운전 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "자동차 또는 오토바이를 선택하세요.",
+      "howToPlayStep2": "장애물을 피하며 까다로운 트랙을 완주하세요.",
+      "howToPlayStep3": "집중력을 유지하고 떨어지는 것을 피해 승리하세요!",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "고속 레이싱",
+      "feature1Description": "고속 레이싱으로 아드레날린 솟구치는 순간들을 경험하세요.",
+      "feature2Title": "까다로운 트랙",
+      "feature2Description": "드라이빙 실력을 시험하는 어려운 트랙을 정복하세요.",
+      "feature3Title": "다양한 차량",
+      "feature3Description": "다양한 레이싱 경험을 위해 자동차와 오토바이 중 선택하세요.",
+      "feature4Title": "잊을 수 없는 순간",
+      "feature4Description": "스카이 라이더스에서 잊을 수 없는 레이싱 순간들을 즐겨보세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}
