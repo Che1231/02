@@ -1,0 +1,120 @@
+{
+  "name": "Crazy Flips 3D",
+  "pagePath": "/games/crazy-flips-3d",
+  "pageName": "crazy-flips-3d",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.crazygames.com/embed/crazy-flips-3d",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "CosmicKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicKraken42.png",
+      "content": "This game is insane! Pulling off frontflips from those cliffs? Seriously addictive, y'all!"
+    },
+    {
+      "author": "SavageRevolver_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageRevolver_X.png",
+      "content": "Crazy Flips 3D is okay. Nothing special. Gainer tricks get old fast."
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "OMG! Backflips for days! This game's got me hooked. Can't stop, won't stop flipping!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Is it just me, or are the controls kinda clunky? Still, those high cliffs are somethin' else."
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "The gainer tricks in Crazy Flips 3D are so satisfying! Worth the download just for that."
+    },
+    {
+      "author": "PhantomLeviathan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomLeviathan99.png",
+      "content": "Seriously fun game! Frontflips feel awesome, but wish there were more levels! Addictive!"
+    },
+    {
+      "author": "RadKatana_Z",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/RadKatana_Z.png",
+      "content": "Perfect flips require perfect timing. Frustrating, but rewarding. Give Crazy Flips 3D a try."
+    },
+    {
+      "author": "Valorant4Ever",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Valorant4Ever.png",
+      "content": "What's the deal with the physics in this game? Feels kinda off. Backflips are janky!"
+    },
+    {
+      "author": "NeonPhoenix87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonPhoenix87.png",
+      "content": "This game is a blast! So many fun things too do!!! Frontflips are the best!"
+    },
+    {
+      "author": "AntiGamer69",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AntiGamer69.png",
+      "content": "The physics need some fixing, but pulling off a gainer is still funny. Worth a giggle"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743517762026-99vlix.avif",
+  "page_path": "/games/crazy-flips-3d",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Sports"
+  ],
+  "createdTime": "2025-04-01 22:29:20"
+}
