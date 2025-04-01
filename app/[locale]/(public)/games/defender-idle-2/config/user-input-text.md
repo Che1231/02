@@ -1,0 +1,1 @@
+Defender Idle 2 is an endless idle defense game where you unlock slots, strategically place turrets, and invest in a wide range of upgrades to safeguard your base. Your mission is to fortify your defenses and conquer the relentless onslaught. Can you outlast the ever-growing threats and emerge as the ultimate defender?
