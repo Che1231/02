@@ -1,0 +1,120 @@
+{
+  "name": "BalloonPop",
+  "pagePath": "/games/balloonpop",
+  "pageName": "balloonpop",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://html5.gamemonetize.co/tzudq90tldjuk9x3k3wb8off7lavlf43/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomKraken42.png",
+      "content": "Balloon Pop is super addictive! Just tapping the balloons is so satisfying, and the colorful graphics are really nice. Definitely recommend it!"
+    },
+    {
+      "author": "SavageKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatana_X.png",
+      "content": "OMG, this Balloon Pop game is so much fun! Each pop sound is pure bliss, like, seriously. I can't put it down lol."
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "I love Balloon Pop! The gameplay is easy to pick up, just tap and pop, and the endless fun is a big plus. Great game to chill!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "This game is addictive! I’ve spent hours popping balloons, and it's still fun. Give Balloon Pop a try; you won't regret it!"
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "The colorful graphics of Balloon Pop are amazing! I love the bright, vibrant balloons. Seriously, this game is the best."
+    },
+    {
+      "author": "StalkingPhoenix87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix87.png",
+      "content": "Easy gameplay? Check! Addictive? Double check! I'm totally hooked on Balloon Pop. Just tap the balloons to pop them!"
+    },
+    {
+      "author": "NeonRevolver_42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonRevolver_42.png",
+      "content": "Balloon Pop, huh? Well, It's fun for like, a whole 5 minutes then you’re bored. The sounds are kinda cool tho."
+    },
+    {
+      "author": "CtrlAltDefeat42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat42.png",
+      "content": "This game's endless fun is what keeps me coming back for more. Simple, yet super engaging – Balloon Pop is a winner!"
+    },
+    {
+      "author": "PhantomLeviathan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomLeviathan99.png",
+      "content": "Wow! This game, Balloon Pop, is the best. You just tap and pop the balloons, and it is super satisfying. I'm hooked!"
+    },
+    {
+      "author": "LagWarrior_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarrior_X.png",
+      "content": "Anyone else feel like popping balloons all day? Yeah, because that's me. Balloon Pop is my go-to game now, no limits!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743499740792-111yy.jpg",
+  "page_path": "/games/balloonpop",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Hypercasual"
+  ],
+  "createdTime": "2025-04-01 17:29:00"
+}

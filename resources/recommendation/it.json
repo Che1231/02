@@ -3,7 +3,7 @@
     "title": "Weaver Game",
     "cover": "https://images.1games.io/cache/game/weaver-game/weavergame1-m200x130.webp",
     "url": "/games/weaver-game",
-    "category": "Gioco del Tessitore",
+    "category": "Gioco Weaver",
     "visible": true
   },
   {
@@ -17,7 +17,7 @@
     "title": "FNF: Salty's Sunday Night",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743325825692-ss2li4.png",
     "url": "/games/fnf-salty-s-sunday-night",
-    "category": "FNF: Domenica sera di Salty",
+    "category": "FNF: Salty's Sunday Night",
     "visible": true
   },
   {
@@ -38,14 +38,14 @@
     "title": "Basket Champs",
     "cover": "https://images.1games.io/cache/game/basket-champs/basket-champs-m200x130.webp",
     "url": "/games/basket-champs",
-    "category": "Campioni del Basket",
+    "category": "Basket Champs",
     "visible": true
   },
   {
     "title": "Bullet Force",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743494525355-57rts7.avif",
     "url": "/games/bullet-force",
-    "category": "Forza Proiettile",
+    "category": "Bullet Force",
     "visible": true
   },
   {
@@ -59,7 +59,7 @@
     "title": "Word Wipe",
     "cover": "https://images.1games.io/cache/game/word-wipe/word-wipe-m200x130.webp",
     "url": "/games/word-wipe",
-    "category": "Cancellazione di Parole",
+    "category": "Word Wipe",
     "visible": true
   },
   {
@@ -73,7 +73,7 @@
     "title": "Ape Sling",
     "cover": "https://images.1games.io/cache/game/ape-sling/ape-sling-m200x130.webp",
     "url": "/games/ape-sling",
-    "category": "Scimmia Fionda",
+    "category": "Ape Sling",
     "visible": true
   },
   {
@@ -101,42 +101,42 @@
     "title": "Urban Stack",
     "cover": "https://images.1games.io/cache/game/urban-stack/urban-stack.png1-m200x130.webp",
     "url": "/games/urban-stack",
-    "category": "Cumulo Urbano",
+    "category": "Urban Stack",
     "visible": true
   },
   {
     "title": "Dino Game",
     "cover": "https://images.1games.io/cache/game/dino-game/dino-game-m200x130.webp",
     "url": "/games/dino-game",
-    "category": "Gioco del Dinosauro",
+    "category": "Gioco Dino",
     "visible": true
   },
   {
     "title": "Doodle Jump Ninja",
     "cover": "https://images.1games.io/cache/game/doodle-jump-ninja/doodle-jump-ninja-m200x130.webp",
     "url": "/games/doodle-jump-ninja",
-    "category": "Ninja Doodle Jump",
+    "category": "Doodle Jump Ninja",
     "visible": true
   },
   {
     "title": "Lava Bird",
     "cover": "https://images.1games.io/cache/game/lava-bird/lava-bird-m200x130.webp",
     "url": "/games/lava-bird",
-    "category": "Uccello di Lava",
+    "category": "Lava Bird",
     "visible": true
   },
   {
     "title": "Rocket Game",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743306210305-l4d44.png",
     "url": "/games/rocket-game",
-    "category": "Gioco del Rocket",
+    "category": "Gioco Rocket",
     "visible": true
   },
   {
     "title": "Bad Time Simulator",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743303636730-ekbyar.png",
     "url": "/games/bad-time-simulator",
-    "category": "Simulatore di Cattivo Tempo",
+    "category": "Simulator Tempi Cattivi",
     "visible": true
   },
   {
@@ -185,35 +185,35 @@
     "title": "Gun Mayhem Redux",
     "cover": "https://images.1games.io/cache/game/gun-mayhem-redux/gun-mayhem-redux2-m200x130.webp",
     "url": "/games/gun-mayhem-redux",
-    "category": "Caos delle Armi Redux",
+    "category": "Gun Mayhem Redux",
     "visible": true
   },
   {
     "title": "Dinosaur Game",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743307427396-uhgrn.png",
     "url": "/games/dinosaur-game",
-    "category": "Gioco del Dinosauro",
+    "category": "Gioco Dinosauro",
     "visible": true
   },
   {
     "title": "Squid Game Online",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743485971278-36wkuh.avif",
     "url": "/games/squid-game-online",
-    "category": "Gioco dei Calamari Online",
+    "category": "Squid Game Online",
     "visible": true
   },
   {
     "title": "Survival Race",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743488184219-we0vg.jpg",
     "url": "/games/survival-race",
-    "category": "Corsa di Sopravvivenza",
+    "category": "Survival Race",
     "visible": true
   },
   {
     "title": "Betrayal.io",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743313254399-m9w8b4.png",
     "url": "/games/betrayal-io",
-    "category": "Tradimento.io",
+    "category": "Betrayal.io",
     "visible": true
   },
   {
@@ -227,14 +227,14 @@
     "title": "The Impossible Quiz 2",
     "cover": "https://images.1games.io/cache/game/the-impossible-quiz-2/the-impossible-quiz-2-m200x130.webp",
     "url": "/games/the-impossible-quiz-2",
-    "category": "Il Quiz Impossibile 2",
+    "category": "Quiz Impossibile 2",
     "visible": true
   },
   {
     "title": "Little Alchemy 2",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743307321950-r2d2km.png",
     "url": "/games/little-alchemy-2",
-    "category": "Piccola Alchimia 2",
+    "category": "Little Alchemy 2",
     "visible": true
   },
   {
@@ -255,7 +255,7 @@
     "title": "Jacksmith",
     "cover": "https://images.1games.io/cache/game/jacksmith/jacksmith-m200x130.webp",
     "url": "/games/jacksmith",
-    "category": "Fabbro",
+    "category": "Jacksmith",
     "visible": true
   },
   {
@@ -276,7 +276,7 @@
     "title": "Ice Cream Stack Runner",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743487255919-r6i4uq.jpg",
     "url": "/games/ice-cream-stack-runner",
-    "category": "Corridore di Pile di Gelato",
+    "category": "Ice Cream Stack Runner",
     "visible": true
   },
   {
@@ -290,14 +290,14 @@
     "title": "Assault Bots",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743495871655-36i21l.avif",
     "url": "/games/assault-bots",
-    "category": "Bot Assalto",
+    "category": "Assault Bots",
     "visible": true
   },
   {
     "title": "Hero Wars",
     "cover": "https://images.1games.io/cache/game/hero-wars/hero-wars-m200x130.webp",
     "url": "/games/hero-wars",
-    "category": "Guerre degli Eroi",
+    "category": "Hero Wars",
     "visible": true
   },
   {
@@ -311,14 +311,14 @@
     "title": "Fruita Crush",
     "cover": "https://images.1games.io/cache/game/fruita-crush/fruita-crush-m200x130.webp",
     "url": "/games/fruita-crush",
-    "category": "Frutta Crush",
+    "category": "Fruita Crush",
     "visible": true
   },
   {
     "title": "War Brokers",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743312481572-0b7eo.png",
     "url": "/games/war-brokers",
-    "category": "Broker di Guerra",
+    "category": "War Brokers",
     "visible": true
   },
   {
@@ -332,7 +332,7 @@
     "title": "Word Hurdle",
     "cover": "https://images.1games.io/cache/game/word-hurdle/wordhurdle-m200x130.webp",
     "url": "/games/word-hurdle",
-    "category": "Ostacolo di Parole",
+    "category": "Word Hurdle",
     "visible": true
   },
   {
@@ -346,7 +346,7 @@
     "title": "Death Run 3D",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743306362316-duo6ao.png",
     "url": "/games/death-run-3d",
-    "category": "Morte Corsa 3D",
+    "category": "Morte Run 3D",
     "visible": true
   },
   {
@@ -360,56 +360,56 @@
     "title": "Sky Riders",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743496564105-zvpk36bd.avif",
     "url": "/games/sky-riders",
-    "category": "Cavalieri del Cielo",
+    "category": "Sky Riders",
     "visible": true
   },
   {
     "title": "Five Nights at Freddy's Sister Location",
     "cover": "https://images.1games.io/cache/game/five-nights-at-freddy-s-sister-location/five-nights-at-freddy-s-sister-location-m200x130.webp",
     "url": "/games/five-nights-at-freddy-s-sister-location",
-    "category": "Cinque Notti da Freddy Sister Location",
+    "category": "Five Nights at Freddy's Sorella Location",
     "visible": true
   },
   {
     "title": "World's Hardest Game",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743303701832-nvgo5b.png",
     "url": "/games/world-s-hardest-game",
-    "category": "Il Gioco Più Difficile del Mondo",
+    "category": "Gioco Più Difficile del Mondo",
     "visible": true
   },
   {
     "title": "Knock Balls",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743354353284-kap43m.jpg",
     "url": "/games/knock-balls",
-    "category": "Palla di Colpo",
+    "category": "Palla Knock",
     "visible": true
   },
   {
     "title": "Color Rings Block Puzzle",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743480453817-xlqigl.jpg",
     "url": "/games/color-rings-block-puzzle",
-    "category": "Puzzle Blocco Anelli di Colore",
+    "category": "Puzzle Anello di Colore",
     "visible": true
   },
   {
     "title": "Sniper Simulator",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743489609302-890x8.jpg",
     "url": "/games/sniper-simulator",
-    "category": "Simulatore di Sniper",
+    "category": "Simulatore Sniper",
     "visible": true
   },
   {
     "title": "Funny Mad Racing",
     "cover": "https://images.1games.io/cache/game/funny-mad-racing/funny-mad-racing-m200x130.webp",
     "url": "/games/funny-mad-racing",
-    "category": "Divertente Corsa Pazza",
+    "category": "Divertente Follia Racing",
     "visible": true
   },
   {
     "title": "Smash Karts",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743496878136-rnrxyq.avif",
     "url": "/games/smash-karts",
-    "category": "Kart Smash",
+    "category": "Smash Karts",
     "visible": true
   },
   {
@@ -423,7 +423,7 @@
     "title": "Taming.io",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743311379686-xrdbjb.png",
     "url": "/games/taming-io",
-    "category": "Addomesticamento.io",
+    "category": "Taming.io",
     "visible": true
   },
   {
@@ -437,14 +437,14 @@
     "title": "Tic Tac Toe",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743304639319-x5sbt5.png",
     "url": "/games/tic-tac-toe",
-    "category": "Gioco della Vita",
+    "category": "Tic Tac Toe",
     "visible": true
   },
   {
     "title": "Sandbox City",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743497083741-xk0mb.avif",
     "url": "/games/sandbox-city",
-    "category": "Città Sandbox",
+    "category": "Sandbox City",
     "visible": true
   },
   {
@@ -465,14 +465,14 @@
     "title": "Tom & Jerry Run",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743490019590-w7bv7.jpg",
     "url": "/games/tom-jerry-run",
-    "category": "Corri Tom & Jerry",
+    "category": "Tom & Jerry Run",
     "visible": true
   },
   {
     "title": "Hop Warp",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743309836970-u0kac.png",
     "url": "/games/hop-warp",
-    "category": "Salto Warp",
+    "category": "Hop Warp",
     "visible": true
   },
   {
@@ -493,7 +493,7 @@
     "title": "Tiles Hop: EDM Rush!",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743487492925-f2exdl.jpg",
     "url": "/games/tiles-hop-edm-rush",
-    "category": "Piastrelle Salto: EDM Rush!",
+    "category": "Tessere Hop: EDM Rush!",
     "visible": true
   },
   {
@@ -514,7 +514,7 @@
     "title": "92 Second Basketball",
     "cover": "https://images.1games.io/cache/game/92-second-basketball/92-second-basketball.png3-m200x130.webp",
     "url": "/games/92-second-basketball",
-    "category": "Pallacanestro di 92 secondi",
+    "category": "Pallacanestro 92 Secondo",
     "visible": true
   },
   {
@@ -528,7 +528,7 @@
     "title": "Armor Clash",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743303759222-fa636p.png",
     "url": "/games/armor-clash",
-    "category": "Scontro di Armatura",
+    "category": "Armor Clash",
     "visible": true
   },
   {
@@ -563,21 +563,21 @@
     "title": "Parking Jam",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743497662291-aibttm.avif",
     "url": "/games/parking-jam",
-    "category": "Blocco di Parcheggio",
+    "category": "Parking Jam",
     "visible": true
   },
   {
     "title": "FNF: Michael Jackson's Rose Criminal",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743325605838-qr5km.png",
     "url": "/games/fnf-michael-jackson-s-rose-criminal",
-    "category": "FNF: Il Crimine di Rosa di Michael Jackson",
+    "category": "FNF: Michael Jackson's Rose Criminale",
     "visible": true
   },
   {
     "title": "Stickman School Run",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743310676293-kq79sh.png",
     "url": "/games/stickman-school-run",
-    "category": "Corri Scuola Stickman",
+    "category": "Stickman Scuola Run",
     "visible": true
   },
   {
@@ -598,7 +598,7 @@
     "title": "FNF vs Touhou",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743325511163-42zid.png",
     "url": "/games/fnf-vs-touhou",
-    "category": "FNF vs Touhou",
+    "category": "FNF contro Touhou",
     "visible": true
   },
   {
@@ -626,14 +626,14 @@
     "title": "Temple Run 2: Jungle Fall",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743310820429-y9a15e.png",
     "url": "/games/temple-run-2-jungle-fall",
-    "category": "Temple Run 2: La Caduta della Giungla",
+    "category": "Temple Run 2: Cascata della Giungla",
     "visible": true
   },
   {
     "title": "Papa’s Cupcakeria",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743323081718-vles8.png",
     "url": "/games/papa-s-cupcakeria",
-    "category": "Cupcakeria di Papa",
+    "category": "Panetteria di Papa",
     "visible": true
   },
   {
@@ -654,14 +654,14 @@
     "title": "Blob Opera",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743304392523-pfaoit.png",
     "url": "/games/blob-opera",
-    "category": "Opera di Blob",
+    "category": "Blob Opera",
     "visible": true
   },
   {
     "title": "Level Up Balls",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743351540686-0p3w4g.jpg",
     "url": "/games/level-up-balls",
-    "category": "Palle di Livello Superiore",
+    "category": "Palle Level Up",
     "visible": true
   },
   {
@@ -675,14 +675,14 @@
     "title": "Right Shot",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743353671407-k918mk.png",
     "url": "/games/right-shot",
-    "category": "Scontro Corretto",
+    "category": "Schot corretto",
     "visible": true
   },
   {
     "title": "Cube Tower Surfer",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743354800955-5wfzb.jpg",
     "url": "/games/cube-tower-surfer",
-    "category": "Surfista Torre di Cubi",
+    "category": "Torre di Cubo Surfer",
     "visible": true
   },
   {
@@ -696,42 +696,42 @@
     "title": "Slice Master",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743499412132-56f7hh.avif",
     "url": "/games/slice-master",
-    "category": "Maestro di Taglio",
+    "category": "Maestro di Fetta",
     "visible": true
   },
   {
     "title": "City Blocks",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743498405292-0gsar.avif",
     "url": "/games/city-blocks",
-    "category": "Blocchi di Città",
+    "category": "Blocchi Città",
     "visible": true
   },
   {
     "title": "Papa's Taco Mia",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743322933137-hvgqv.png",
     "url": "/games/papa-s-taco-mia",
-    "category": "Taco Mia di Papa",
+    "category": "Tacos di Papa Mia",
     "visible": true
   },
   {
     "title": "Baldi's Basics",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743308992254-bfiu38.png",
     "url": "/games/baldi-s-basics",
-    "category": "Fondamentali di Baldi",
+    "category": "Nozioni Base di Baldi",
     "visible": true
   },
   {
     "title": "Horse Simulator 3D",
     "cover": "https://images.1games.io/cache/game/horse-simulator-3d/horse-simulator-3d1-m200x130.webp",
     "url": "/games/horse-simulator-3d",
-    "category": "Simulatore di Cavallo 3D",
+    "category": "Simulatore Cavalli 3D",
     "visible": true
   },
   {
     "title": "GT Formula Championship",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743487908576-gxldgp.jpg",
     "url": "/games/gt-formula-championship",
-    "category": "Campionato di Formula GT",
+    "category": "GT Formula Campionato",
     "visible": true
   },
   {
@@ -745,14 +745,14 @@
     "title": "Football Blitz",
     "cover": "https://images.1games.io/cache/game/football-blitz/football-blitz-m200x130.webp",
     "url": "/games/football-blitz",
-    "category": "Blitz di Calcio",
+    "category": "Football Blitz",
     "visible": true
   },
   {
     "title": "Run 2",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743310474587-k44sb.png",
     "url": "/games/run-2",
-    "category": "Corri 2",
+    "category": "Run 2",
     "visible": true
   },
   {
@@ -780,7 +780,7 @@
     "title": "Bad Ice Cream 3",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743308151014-nmrem.png",
     "url": "/games/bad-ice-cream-3",
-    "category": "Cattivo Gelato 3",
+    "category": "Gelato Cattivo 3",
     "visible": true
   },
   {
@@ -794,7 +794,7 @@
     "title": "Rambling Racer",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743323551524-v4deai.png",
     "url": "/games/rambling-racer",
-    "category": "Corridore Vagabondo",
+    "category": "Rambling Racer",
     "visible": true
   },
   {
@@ -815,14 +815,14 @@
     "title": "Run Rich 3D",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743355352956-yws4z7.jpg",
     "url": "/games/run-rich-3d",
-    "category": "Diventa Ricco 3D",
+    "category": "Run Rich 3D",
     "visible": true
   },
   {
     "title": "Stickman Clash",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743486527778-smmhke.avif",
     "url": "/games/stickman-clash",
-    "category": "Scontro Stickman",
+    "category": "Stickman Clash",
     "visible": true
   },
   {
@@ -843,7 +843,7 @@
     "title": "Paper.IO 2",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743490890786-00lau.jpg",
     "url": "/games/paper-io-2",
-    "category": "Paper.IO 2",
+    "category": "Carta.IO 2",
     "visible": true
   },
   {
@@ -857,21 +857,28 @@
     "title": "Raft Wars 2",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743307871693-1okp17.png",
     "url": "/games/raft-wars-2",
-    "category": "Guerre di Zattera 2",
+    "category": "Raft Wars 2",
+    "visible": true
+  },
+  {
+    "title": "BalloonPop",
+    "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743499740792-111yy.jpg",
+    "url": "/games/balloonpop",
+    "category": "BalloonPop",
     "visible": true
   },
   {
     "title": "Burrito Craft",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743310294881-4bnc3d.png",
     "url": "/games/burrito-craft",
-    "category": "Arte del Burrito",
+    "category": "Burrito Craft",
     "visible": true
   },
   {
     "title": "Bomb It 7",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743307734536-z1zpqi.png",
     "url": "/games/bomb-it-7",
-    "category": "Bombardalo 7",
+    "category": "Bomb It 7",
     "visible": true
   },
   {
@@ -885,7 +892,7 @@
     "title": "Geometry Dash Bloodbath",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743344633221-ll982h.png",
     "url": "/games/geometry-dash-bloodbath",
-    "category": "Geometry Dash Massacro",
+    "category": "Geometry Dash Bloodbath",
     "visible": true
   },
   {
@@ -906,7 +913,7 @@
     "title": "Ooze Odyssey",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743310055154-a75g05.png",
     "url": "/games/ooze-odyssey",
-    "category": "Odissea di Slime",
+    "category": "Ooze Odyssey",
     "visible": true
   },
   {
@@ -927,7 +934,7 @@
     "title": "Sausage Flip",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743304069378-baf9l.png",
     "url": "/games/sausage-flip",
-    "category": "Salto della Salsiccia",
+    "category": "Sausage Flip",
     "visible": true
   },
   {
@@ -955,7 +962,7 @@
     "title": "Stickman Destruction 3 Heroes",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743492236840-urlmci.avif",
     "url": "/games/stickman-destruction-3-heroes",
-    "category": "Eroi di Distruzione Stickman 3",
+    "category": "Stickman Distruzione 3 Eroi",
     "visible": true
   },
   {
@@ -976,28 +983,28 @@
     "title": "World Z Defense - Zombie Defense",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743493409431-79uk07.avif",
     "url": "/games/world-z-defense-zombie-defense",
-    "category": "Difesa del Mondo Z - Difesa Zombie",
+    "category": "Difesa Mondo Z - Difesa Zombie",
     "visible": true
   },
   {
     "title": "Hazmob FPS: Online Shooter",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743493793041-qu89uo.avif",
     "url": "/games/hazmob-fps-online-shooter",
-    "category": "Hazmob FPS: Sparatore Online",
+    "category": "Hazmob FPS: Tiratore Online",
     "visible": true
   },
   {
     "title": "BodyCamera Shooter",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743495482324-hgqm1e.avif",
     "url": "/games/bodycamera-shooter",
-    "category": "Sparatore con Telecamera Corporea",
+    "category": "Tiratore BodyCamera",
     "visible": true
   },
   {
     "title": "Forward Assault Remix",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743495651666-hk1m4l.avif",
     "url": "/games/forward-assault-remix",
-    "category": "Remix di Assalto Avanti",
+    "category": "Remix Assalto Avanti",
     "visible": true
   },
   {
@@ -1011,7 +1018,7 @@
     "title": "Sprunki Shooter 2025",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743496235920-uw577r.jpg",
     "url": "/games/sprunki-shooter-2025",
-    "category": "Sparatore Sprunki 2025",
+    "category": "Sprunki Shooter 2025",
     "visible": true
   },
   {
@@ -1039,7 +1046,7 @@
     "title": "Bumper Car Demolition Race",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743497864989-wgfmb.jpg",
     "url": "/games/bumper-car-demolition-race",
-    "category": "Demolizione Corsa Auto Carambola",
+    "category": "Corse Demolizione Auto a Urti",
     "visible": true
   },
   {
@@ -1053,21 +1060,21 @@
     "title": "Count Masters: Stickman Games",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743498963321-i2dwh7.avif",
     "url": "/games/count-masters-stickman-games",
-    "category": "Maestri del Conte: Giochi Stickman",
+    "category": "Maestri di Conteggio: Giochi Stickman",
     "visible": true
   },
   {
     "title": "Planet Smash Destruction",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743499174484-74cgm.avif",
     "url": "/games/planet-smash-destruction",
-    "category": "Distruzione Planetaria Smash",
+    "category": "Distruzione di Pianeta Smash",
     "visible": true
   },
   {
     "title": "Supermarket Simulator: Store Manager",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743499656742-v816me.avif",
     "url": "/games/supermarket-simulator-store-manager",
-    "category": "Simulatore Supermercato: Gestore Negozio",
+    "category": "Simulatore Supermarket: Gestione Negozio",
     "visible": true
   }
 ]
