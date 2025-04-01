@@ -1,0 +1,77 @@
+{
+  "apocalypse-rush": {
+    "title": "終末疾走™ - この高速パズルゲームで混沌を生き延びろ",
+    "slogan": "防衛、アップグレード、生存！",
+    "description": "終末疾走は、絶え間ない敵の波からトレーラーを守る必要がある、スリリングなサバイバルゲームです。強力な武器を手に入れ、アップグレードのためのコインを集め、できる限り生き延びましょう。難易度が上昇するにつれて、終末疾走はノンストップのアクションと挑戦を提供します。混沌に立ち向かう準備はできていますか？ 今すぐ終末疾走をプレイして、あなたの生存スキルを試してみてください！",
+    "Loading": {
+      "title": "ロード中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "終末疾走™ - 防御と生存",
+      "description": "この高速パズルゲームで終末疾走の混沌を体験してください。トレーラーを守り、武器をアップグレードし、絶え間ない敵の波から生き延びましょう。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "終末疾走™",
+      "whatIsTitle": "終末疾走とは？",
+      "whatIsDescription": "終末疾走は、絶え間ない敵の波からトレーラーを守る高速パズルゲームです。コインを集め、武器をアップグレードし、混沌を生き延びましょう！",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "襲いかかる敵からトレーラーを守ります。",
+      "howToPlayStep2": "武器と防御をアップグレードするためにコインを集めます。",
+      "howToPlayStep3": "難易度が上がるにつれて、できる限り生き延びます。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "無限の波",
+      "feature1Description": "ますます困難な敵の波に対処します。",
+      "feature2Title": "武器アップグレード",
+      "feature2Description": "武器を強化するためにコインを集めます。",
+      "feature3Title": "高速アクション",
+      "feature3Description": "ノンストップの生存チャレンジを体験してください。",
+      "feature4Title": "戦略的な防衛",
+      "feature4Description": "より長く生き延びるために、防衛を計画します。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームコメント"
+    },
+    "GamePage": {
+      "title": "全てのゲーム",
+      "description": "全てのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

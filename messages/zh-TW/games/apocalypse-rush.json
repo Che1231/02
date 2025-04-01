@@ -1,0 +1,77 @@
+{
+  "apocalypse-rush": {
+    "title": "末日衝鋒™ - 在這快速節奏的遊戲中生存下來",
+    "slogan": "保衛、升級、生存！",
+    "description": "末日衝鋒是一款令人興奮的生存遊戲，您必須保衛您的拖車，抵禦一波又一波的敵人。使用強大的武器，收集金幣進行升級，並盡可能長時間生存。隨著難度的增加，末日衝鋒提供不斷的動作和挑戰。你準備好面對混亂了嗎？現在就玩末日衝鋒，測試你的生存技能！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "末日衝鋒™ - 保衛並生存",
+      "description": "在這款快速節奏的生存遊戲中體驗末日衝鋒的混亂。保衛您的拖車、升級您的武器，並生存下來，抵禦一波又一波的敵人。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "末日衝鋒™",
+      "whatIsTitle": "末日衝鋒是什麼？",
+      "whatIsDescription": "末日衝鋒是一款快速節奏的生存遊戲，您必須保衛您的拖車，抵禦一波又一波的敵人。收集金幣，升級您的武器，並在混亂中生存！",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "保衛您的拖車免受敵人的攻擊。",
+      "howToPlayStep2": "收集金幣升級您的武器和防禦。",
+      "howToPlayStep3": "隨著難度的增加，盡可能長時間生存。",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "無限波數",
+      "feature1Description": "面對越來越困難的敵人波數。",
+      "feature2Title": "武器升級",
+      "feature2Description": "收集金幣升級您的武器庫。",
+      "feature3Title": "快速節奏的動作",
+      "feature3Description": "體驗永無止境的生存挑戰。",
+      "feature4Title": "策略防衛",
+      "feature4Description": "規劃您的防禦以延長生存時間。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "沒有找到類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

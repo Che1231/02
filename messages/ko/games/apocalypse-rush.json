@@ -1,0 +1,77 @@
+{
+  "apocalypse-rush": {
+    "title": "묵시록 러쉬™ - 이 빠르게 진행되는 게임에서 혼돈을 버텨내세요",
+    "slogan": "방어, 업그레이드, 생존!",
+    "description": "묵시록 러쉬는 끝없이 몰려오는 적에게 트레일러를 방어해야 하는 흥미진진한 생존 게임입니다. 강력한 무기를 장착하고 동전을 모아 업그레이드를 하고 가능한 한 오래 살아남으세요. 난이도가 점점 높아짐에 따라 묵시록 러쉬는 끊임없는 액션과 도전을 제공합니다. 혼돈에 맞서 생존 기술을 테스트할 준비가 되셨나요? 지금 묵시록 러쉬를 플레이하고 생존 능력을 시험해 보세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "내용",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "묵시록 러쉬™ - 방어와 생존",
+      "description": "이 빠르게 진행되는 생존 게임에서 묵시록 러쉬의 혼돈을 경험하세요. 트레일러를 방어하고 무기를 업그레이드하고 끝없이 몰려오는 적에게 맞서 생존하세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "묵시록 러쉬™",
+      "whatIsTitle": "묵시록 러쉬는 무엇인가요?",
+      "whatIsDescription": "묵시록 러쉬는 끝없이 몰려오는 적에게 트레일러를 방어해야 하는 빠르게 진행되는 생존 게임입니다. 동전을 모아 무기를 업그레이드하고 혼돈을 버텨내세요!",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "몰려오는 적에게서 트레일러를 방어하세요.",
+      "howToPlayStep2": "동전을 모아 무기와 방어력을 업그레이드하세요.",
+      "howToPlayStep3": "난이도가 높아짐에 따라 가능한 한 오래 버티세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "무한한 적의 물결",
+      "feature1Description": "점점 더 어려워지는 적의 물결에 맞서세요.",
+      "feature2Title": "무기 업그레이드",
+      "feature2Description": "동전을 모아 무기를 강화하세요.",
+      "feature3Title": "빠르게 진행되는 액션",
+      "feature3Description": "끊임없는 생존 도전을 경험하세요.",
+      "feature4Title": "전략적인 방어",
+      "feature4Description": "더 오래 생존할 수 있도록 방어를 계획하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

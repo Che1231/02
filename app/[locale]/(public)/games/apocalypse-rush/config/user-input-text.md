@@ -1,0 +1,1 @@
+Apocalypse Rush is a fast-paced survival game where you must defend your trailer against endless waves of enemies! Arm yourself with various weapons, collect coins for upgrades, and try to survive as long as possible. The longer you last, the more challenging the game becomes! Are you ready for the chaos?
