@@ -1,0 +1,1 @@
+Everyone wants to relax after the a hectic pace of a work day, and this game knows how to help with that, Simple actions, fresh and cool design, a wide variety of tasks - this game has plenty of levels so you can have lots of fun while playing game.

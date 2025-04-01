@@ -1,0 +1,77 @@
+{
+  "candy-balls": {
+    "title": "Online Candy Balls spielen - Entspannendes & unterhaltsames Spiel",
+    "slogan": "Entspannen und genießen Sie mit Candy Balls",
+    "description": "Candy Balls ist das perfekte Spiel, um sich nach einem anstrengenden Tag zu entspannen. Mit seinen einfachen Aktionen, dem frischen Design und einer Vielzahl an Aufgaben finden Sie unzählige Level, die Sie unterhalten werden. Tauchen Sie ein in den Spaß und spielen Sie Candy Balls jetzt!",
+    "Loading": {
+      "title": "Lädt..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Candy Balls",
+      "description": "Genießen Sie ein entspannendes und unterhaltsames Erlebnis mit Candy Balls. Einfache Aktionen und eine Vielzahl an Aufgaben erwarten Sie!",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel spielen"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Candy Balls",
+      "whatIsTitle": "Was ist Candy Balls?",
+      "whatIsDescription": "Candy Balls ist ein entspannendes und unterhaltsames Spiel, das entwickelt wurde, um Ihnen zu helfen, sich nach einem anstrengenden Tag zu entspannen. Mit einfachen Aktionen und einer Vielzahl an Aufgaben bietet es endlose Unterhaltung.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Tippen Sie, um die Bonbons zu starten.",
+      "howToPlayStep2": "Führen Sie die Bonbons, um die Aufgaben zu erledigen.",
+      "howToPlayStep3": "Genießen Sie das entspannende und unterhaltsame Gameplay!",
+      "keyFeaturesTitle": "Wichtige Merkmale",
+      "feature1Title": "Einfache Aktionen",
+      "feature1Description": "Einfaches Gameplay für jedes Alter.",
+      "feature2Title": "Frisches Design",
+      "feature2Description": "Visuell ansprechende und moderne Grafiken.",
+      "feature3Title": "Vielfalt der Aufgaben",
+      "feature3Description": "Unzählige Level, die Sie unterhalten werden.",
+      "feature4Title": "Entspannendes Erlebnis",
+      "feature4Description": "Perfekt, um sich nach einem anstrengenden Tag zu entspannen."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

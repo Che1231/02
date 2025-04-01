@@ -1,0 +1,77 @@
+{
+  "candy-balls": {
+    "title": "キャンディボールオンラインゲーム - リラックス＆楽しいゲーム",
+    "slogan": "キャンディボールでリラックスして楽しんでください",
+    "description": "キャンディボールは、忙しい一日を過ごした後にリラックスするのに最適なゲームです。簡単な操作、新鮮なデザイン、さまざまなタスクで、飽きさせない多くのレベルがあります。すぐに楽しさを体験して、キャンディボールをプレイしましょう！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "キャンディボール",
+      "description": "キャンディボールでリラックスして楽しい体験をお楽しみください。簡単な操作とさまざまなタスクがあります！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "キャンディボール",
+      "whatIsTitle": "キャンディボールとは？",
+      "whatIsDescription": "キャンディボールは、忙しい一日を過ごした後にリラックスするのに役立つ、リラックスできる楽しいゲームです。簡単な操作とさまざまなタスクで、無限のエンターテイメントを提供します。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "キャンディボールをタップして発射します。",
+      "howToPlayStep2": "タスクを完了するためにボールを導きます。",
+      "howToPlayStep3": "リラックスして楽しいゲームプレイをお楽しみください！",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "簡単な操作",
+      "feature1Description": "あらゆる年齢層で簡単にプレイできます。",
+      "feature2Title": "新鮮なデザイン",
+      "feature2Description": "視覚的に魅力的でモダンなグラフィック。",
+      "feature3Title": "様々なタスク",
+      "feature3Description": "飽きさせない多くのレベルがあります。",
+      "feature4Title": "リラックスできる体験",
+      "feature4Description": "忙しい一日を過ごした後にリラックスするのに最適です。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

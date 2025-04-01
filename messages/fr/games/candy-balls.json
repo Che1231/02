@@ -1,0 +1,77 @@
+{
+  "candy-balls": {
+    "title": "Jouez aux billes sucrées en ligne - Jeu relaxant et amusant",
+    "slogan": "Détendez-vous et amusez-vous avec les billes sucrées",
+    "description": "Candy Balls est le jeu idéal pour se détendre après une journée bien remplie. Avec ses actions simples, son design rafraîchissant et une variété de tâches, vous trouverez de nombreux niveaux pour vous divertir. Plongez-vous dans le plaisir et jouez à Candy Balls dès maintenant !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Billes sucrées",
+      "description": "Profitez d'une expérience relaxante et amusante avec Candy Balls. Des actions simples et une variété de tâches vous attendent !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Billes sucrées",
+      "whatIsTitle": "Qu'est-ce que Candy Balls ?",
+      "whatIsDescription": "Candy Balls est un jeu relaxant et amusant conçu pour vous aider à vous détendre après une journée bien remplie. Avec des actions simples et une variété de tâches, il offre un divertissement infini.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Appuyez pour lancer les billes sucrées.",
+      "howToPlayStep2": "Guidez les billes pour accomplir les tâches.",
+      "howToPlayStep3": "Profitez du jeu relaxant et amusant !",
+      "keyFeaturesTitle": "Caractéristiques clés",
+      "feature1Title": "Actions simples",
+      "feature1Description": "Un gameplay facile à apprendre pour tous les âges.",
+      "feature2Title": "Design rafraîchissant",
+      "feature2Description": "Graphismes visuellement attrayants et modernes.",
+      "feature3Title": "Variété de tâches",
+      "feature3Description": "Nombreux niveaux pour vous divertir.",
+      "feature4Title": "Expérience relaxante",
+      "feature4Description": "Parfait pour se détendre après une journée bien remplie."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}
