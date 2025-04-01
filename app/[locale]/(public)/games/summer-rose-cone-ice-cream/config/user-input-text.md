@@ -1,0 +1,1 @@
+Its a really hot summer! Want some sweet frozen food? Eating ice cream on a hot summer day is one of the best ways to beat the heat. Vanilla, chocolate, strawberry, mint.... More than ten sweet flavors to choose from. 
