@@ -1,0 +1,77 @@
+{
+  "match-arena": {
+    "title": "매치 아레나 - 무료 온라인 매치쓰리 퍼즐 게임 플레이",
+    "slogan": "매치 아레나: 멀티플레이어 매치쓰리 혼돈!",
+    "description": "매치 아레나란 전 세계 플레이어와 경쟁할 수 있는 흥미진진한 매치쓰리 퍼즐 게임입니다. 각 매치는 최고 점수 달성 또는 최다 매치 성공과 같은 독특한 목표를 갖고 있습니다. 지금 매치 아레나에 참여하여 멀티플레이어 매치쓰리 액션의 흥분을 경험하세요!",
+    "Loading": {
+      "title": "매치 아레나 로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "매치 아레나",
+      "description": "매치 아레나란 전 세계 플레이어들과 멀티플레이어 매치쓰리 혼돈을 즐길 수 있는 훌륭한 매치쓰리 퍼즐 게임입니다. 각 매치에는 게임을 신선하고 흥미롭게 유지하는 독특한 목표가 있습니다.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "매치 아레나",
+      "whatIsTitle": "매치 아레나란 무엇인가요?",
+      "whatIsDescription": "매치 아레나는 전 세계 플레이어와 경쟁하여 각 매치의 특정 목표를 달성하는 멀티플레이어 매치쓰리 퍼즐 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "세 개 이상의 타일을 일치시켜 점수를 얻으세요.",
+      "howToPlayStep2": "전 세계 플레이어와 경쟁하여 최고 점수 또는 최다 매치를 달성하세요.",
+      "howToPlayStep3": "각 매치의 독특한 목표를 완료하여 승리하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "멀티플레이어 모드",
+      "feature1Description": "실시간 매치쓰리 전투에서 전 세계 플레이어와 경쟁하세요.",
+      "feature2Title": "다이나믹 목표",
+      "feature2Description": "각 매치에는 게임 플레이를 신선하고 흥미롭게 유지하는 독특한 목표가 있습니다.",
+      "feature3Title": "전 세계 순위표",
+      "feature3Description": "전 세계 순위표를 올라가 매치쓰리 실력을 증명하세요.",
+      "feature4Title": "압도적인 비주얼",
+      "feature4Description": "게임 환경을 더욱 향상시키는 생생하고 매력적인 비주얼을 즐기세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

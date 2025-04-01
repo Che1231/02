@@ -1,0 +1,77 @@
+{
+  "match-arena": {
+    "title": "连连看 - 免费在线三消益智游戏",
+    "slogan": "连连看：多人三消大战！",
+    "description": "连连看是一款令人兴奋的三消益智游戏，您可以在其中与全球玩家竞争。每场比赛都有独特的目标，例如获得最高分或完成最多场比赛。现在加入连连看，体验多人三消游戏的刺激！",
+    "Loading": {
+      "title": "正在加载连连看..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "连连看",
+      "description": "连连看是一款精彩的三消益智游戏，您可以与全球玩家一起体验多人三消的乐趣。每一场比赛都有独特的目标，让游戏保持新鲜和刺激。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "网址已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "连连看",
+      "whatIsTitle": "连连看是什么？",
+      "whatIsDescription": "连连看是一款多人三消益智游戏，您可以在其中与全球玩家竞争，以完成每场比赛的特定目标。",
+      "howToPlayTitle": "如何玩？",
+      "howToPlayStep1": "将三个或更多相同的方块连在一起以获得分数。",
+      "howToPlayStep2": "与全球玩家竞争，以获得最高分数或完成最多场比赛。",
+      "howToPlayStep3": "完成每场比赛的独特目标以获胜。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "多人模式",
+      "feature1Description": "实时与全球玩家进行三消对战。",
+      "feature2Title": "动态目标",
+      "feature2Description": "每场比赛都有独特的目标，让游戏玩法保持新鲜感和刺激性。",
+      "feature3Title": "全球排行榜",
+      "feature3Description": "攀登全球排行榜，展现您的三消技巧。",
+      "feature4Title": "精美画面",
+      "feature4Description": "体验充满活力和引人入胜的画面，提升您的游戏体验。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐游戏"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏列表"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

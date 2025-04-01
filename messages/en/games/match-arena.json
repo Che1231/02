@@ -1,0 +1,77 @@
+{
+  "match-arena": {
+    "title": "Match Arena - Play Free Online Match-Three Puzzle Game",
+    "slogan": "Match Arena: Multiplayer Match-Three Mayhem!",
+    "description": "Match Arena is a thrilling match-three puzzle game where you can compete with players worldwide. Each match has unique goals like achieving the highest score or most matches. Dive into Match Arena now and experience the excitement of multiplayer match-three action!",
+    "Loading": {
+      "title": "Loading Match Arena..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Match Arena",
+      "description": "Match Arena is a superb match-three puzzle game where you can play multiplayer match-three mayhem with players worldwide. Each match has unique goals to keep the game fresh and exciting.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Match Arena",
+      "whatIsTitle": "What is Match Arena?",
+      "whatIsDescription": "Match Arena is a multiplayer match-three puzzle game where you compete with players worldwide to achieve specific goals in each match.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Match three or more tiles to score points.",
+      "howToPlayStep2": "Compete with players worldwide to achieve the highest score or most matches.",
+      "howToPlayStep3": "Complete unique goals in each match to win.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Multiplayer Mode",
+      "feature1Description": "Compete with players worldwide in real-time match-three battles.",
+      "feature2Title": "Dynamic Goals",
+      "feature2Description": "Each match has unique goals to keep the gameplay fresh and exciting.",
+      "feature3Title": "Global Leaderboard",
+      "feature3Description": "Climb the global leaderboard and prove your match-three skills.",
+      "feature4Title": "Stunning Visuals",
+      "feature4Description": "Enjoy vibrant and engaging visuals that enhance your gaming experience."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

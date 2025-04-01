@@ -1,0 +1,77 @@
+{
+  "match-arena": {
+    "title": "マッチアリーナ - 無料オンラインマッチ3パズルゲームをプレイ",
+    "slogan": "マッチアリーナ：マルチプレイヤーマッチ3大混乱！",
+    "description": "マッチアリーナは、世界中のプレイヤーと競い合うことができる、スリリングなマッチ3パズルゲームです。各試合には、最高スコアや最多マッチなど、ユニークな目標があります。今すぐマッチアリーナに入り、マルチプレイヤーマッチ3アクションの興奮を体験してください！",
+    "Loading": {
+      "title": "マッチアリーナを読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "マッチアリーナ",
+      "description": "マッチアリーナは、世界中のプレイヤーとマルチプレイヤーマッチ3大騒動を楽しめる、優れたマッチ3パズルゲームです。各試合には、ゲームを新鮮でエキサイティングに保つユニークな目標があります。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "マッチアリーナ",
+      "whatIsTitle": "マッチアリーナとは何ですか？",
+      "whatIsDescription": "マッチアリーナは、各試合で特定の目標を達成するために、世界中のプレイヤーと競い合うマルチプレイヤーマッチ3パズルゲームです。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "3つ以上のタイルをマッチさせてポイントを獲得します。",
+      "howToPlayStep2": "世界中のプレイヤーと競い合い、最高スコアまたは最多マッチを目指します。",
+      "howToPlayStep3": "各試合のユニークな目標を達成して勝利を目指しましょう。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "マルチプレイヤーモード",
+      "feature1Description": "リアルタイムのマッチ3バトルで世界中のプレイヤーと競い合います。",
+      "feature2Title": "ダイナミックな目標",
+      "feature2Description": "各試合には、ゲームプレイを新鮮でエキサイティングに保つユニークな目標があります。",
+      "feature3Title": "グローバルリーダーボード",
+      "feature3Description": "グローバルリーダーボードを駆け上がり、あなたのマッチ3スキルを証明しましょう。",
+      "feature4Title": "素晴らしいビジュアル",
+      "feature4Description": "ゲーム体験をさらに豊かにする、鮮やかで魅力的なビジュアルをお楽しみください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりませんでした",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

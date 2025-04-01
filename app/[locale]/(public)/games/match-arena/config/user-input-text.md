@@ -1,0 +1,1 @@
+Match Arena is a superb match-three puzzle game in which you can play multiplayer match-three mayhem with other players worldwide! During each match, you must accomplish a specific goal to win. Goals include having a higher number of total matches or having a higher score than your opponent. These goals change to keep the game fresh.

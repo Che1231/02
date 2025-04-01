@@ -1,0 +1,77 @@
+{
+  "match-arena": {
+    "title": "Arena de Partidas - Juega gratis al juego de rompecabezas Match-Three en línea",
+    "slogan": "¡Arena de Partidas: ¡Locura multijugador Match-Three!",
+    "description": "Arena de Partidas es un emocionante juego de rompecabezas Match-Three donde puedes competir con jugadores de todo el mundo. Cada partida tiene objetivos únicos, como alcanzar la puntuación más alta o la mayor cantidad de partidas. ¡Sumérgete ahora en Arena de Partidas y experimenta la emoción de la acción multijugador Match-Three!",
+    "Loading": {
+      "title": "Cargando Arena de Partidas..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amistosos",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Arena de Partidas",
+      "description": "Arena de Partidas es un excelente juego de rompecabezas Match-Three donde puedes jugar a la locura multijugador Match-Three con jugadores de todo el mundo. Cada partida tiene objetivos únicos para mantener el juego fresco y emocionante.",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Arena de Partidas",
+      "whatIsTitle": "¿Qué es Arena de Partidas?",
+      "whatIsDescription": "Arena de Partidas es un juego de rompecabezas multijugador Match-Three donde compites con jugadores de todo el mundo para lograr objetivos específicos en cada partida.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Combina tres o más fichas para obtener puntos.",
+      "howToPlayStep2": "Compite con jugadores de todo el mundo para alcanzar la puntuación más alta o la mayor cantidad de partidas.",
+      "howToPlayStep3": "Completa los objetivos únicos de cada partida para ganar.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Modo multijugador",
+      "feature1Description": "Compite con jugadores de todo el mundo en batallas multijugador Match-Three en tiempo real.",
+      "feature2Title": "Objetivos dinámicos",
+      "feature2Description": "Cada partida tiene objetivos únicos para mantener el juego fresco y emocionante.",
+      "feature3Title": "Tabla de clasificación global",
+      "feature3Description": "Sube en la tabla de clasificación global y demuestra tus habilidades en Match-Three.",
+      "feature4Title": "Gráficos impresionantes",
+      "feature4Description": "Disfruta de imágenes vibrantes e interesantes que mejoran tu experiencia de juego."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

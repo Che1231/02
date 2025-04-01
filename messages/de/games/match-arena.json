@@ -1,0 +1,77 @@
+{
+  "match-arena": {
+    "title": "Match Arena – Spielen Sie ein kostenloses Online-Match-Three-Puzzle-Spiel",
+    "slogan": "Match Arena: Multiplayer Match-Three Mayhem!",
+    "description": "Match Arena ist ein spannendes Match-Three-Puzzle-Spiel, in dem Sie mit Spielern weltweit antreten können. Jeder Spiel hat einzigartige Ziele, wie die Erzielung der höchsten Punktzahl oder der meisten Spiele. Tauchen Sie jetzt in Match Arena ein und erleben Sie die Spannung von Multiplayer-Match-Three-Action!",
+    "Loading": {
+      "title": "Match Arena wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Match Arena",
+      "description": "Match Arena ist ein hervorragendes Match-Three-Puzzle-Spiel, in dem Sie Multiplayer-Match-Three-Chaos mit Spielern weltweit erleben können. Jedes Match hat einzigartige Ziele, um das Spiel frisch und spannend zu halten.",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Match Arena",
+      "whatIsTitle": "Was ist Match Arena?",
+      "whatIsDescription": "Match Arena ist ein Multiplayer-Match-Three-Puzzle-Spiel, in dem Sie mit Spielern weltweit antreten, um in jedem Match spezifische Ziele zu erreichen.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Bringen Sie drei oder mehr Kacheln zusammen, um Punkte zu erzielen.",
+      "howToPlayStep2": "Treten Sie mit Spielern weltweit an, um die höchste Punktzahl oder die meisten Spiele zu erreichen.",
+      "howToPlayStep3": "Schließen Sie einzigartige Ziele in jedem Spiel ab, um zu gewinnen.",
+      "keyFeaturesTitle": "Wichtige Funktionen",
+      "feature1Title": "Multiplayer-Modus",
+      "feature1Description": "Treten Sie mit Spielern weltweit in Echtzeit-Match-Three-Kämpfen an.",
+      "feature2Title": "Dynamische Ziele",
+      "feature2Description": "Jedes Match hat einzigartige Ziele, um das Gameplay frisch und spannend zu halten.",
+      "feature3Title": "Globale Bestenliste",
+      "feature3Description": "Steigen Sie auf der globalen Bestenliste auf und beweisen Sie Ihre Match-Three-Fähigkeiten.",
+      "feature4Title": "Atemberaubende Grafiken",
+      "feature4Description": "Genießen Sie lebendige und fesselnde Grafiken, die Ihr Spielerlebnis verbessern."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

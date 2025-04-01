@@ -1,0 +1,77 @@
+{
+  "match-arena": {
+    "title": "Arène des Combats - Jeu de puzzle de correspondance à trois gratuit en ligne",
+    "slogan": "Arène de Combat : Fou-rire multijoueur à trois correspondances !",
+    "description": "Match Arena est un jeu de puzzle de correspondance à trois passionnant où vous pouvez rivaliser avec des joueurs du monde entier. Chaque partie a des objectifs uniques, comme atteindre le meilleur score ou le plus de correspondances. Plongez-vous maintenant dans l'Arène des Combats et ressentez l'excitation de l'action multijoueur à trois correspondances !",
+    "Loading": {
+      "title": "Chargement de l'Arène des Combats..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste d'articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Arène des Combats",
+      "description": "Match Arena est un excellent jeu de puzzle de correspondance à trois où vous pouvez jouer des combats multijoueurs à trois correspondances avec des joueurs du monde entier. Chaque partie a des objectifs uniques pour maintenir le jeu frais et passionnant.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Arène des Combats",
+      "whatIsTitle": "Qu'est-ce que l'Arène des Combats ?",
+      "whatIsDescription": "Match Arena est un jeu de puzzle de correspondance à trois multijoueur où vous rivalisez avec des joueurs du monde entier pour atteindre des objectifs spécifiques dans chaque partie.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Faites correspondre trois tuiles ou plus pour marquer des points.",
+      "howToPlayStep2": "Rivalisez avec des joueurs du monde entier pour obtenir le meilleur score ou le plus de correspondances.",
+      "howToPlayStep3": "Réalisez des objectifs uniques dans chaque partie pour gagner.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Mode multijoueur",
+      "feature1Description": "Rivalisez avec des joueurs du monde entier dans des batailles de correspondance à trois en temps réel.",
+      "feature2Title": "Objectifs dynamiques",
+      "feature2Description": "Chaque partie a des objectifs uniques pour maintenir le gameplay frais et passionnant.",
+      "feature3Title": "Classement mondial",
+      "feature3Description": "Gravissez le classement mondial et prouvez vos compétences en correspondance à trois.",
+      "feature4Title": "Visuels époustouflants",
+      "feature4Description": "Profitez de visuels vibrants et captivants qui amélioreront votre expérience de jeu."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

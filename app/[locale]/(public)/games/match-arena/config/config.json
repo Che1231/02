@@ -1,0 +1,84 @@
+{
+  "name": "Match Arena",
+  "pagePath": "/games/match-arena",
+  "pageName": "match-arena",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.crazygames.com/embed/match-arena",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingPhoenix87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix87.png",
+      "content": "Just played Match Arena, so much fun! Changing goals kept me on my toes, really love that feature."
+    },
+    {
+      "author": "CosmicRevolver_42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicRevolver_42.png",
+      "content": "I had no idea a match-three could be this exciting. Love the competitive element!"
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "Wow, I've been playing Multiplayer Match-Three Mayhem, and it's insane! Always new challenges!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Totally newb, but Match Arena is super easy to jump into. Great for killing time."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743519033240-3uggpy.avif",
+  "page_path": "/games/match-arena",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Multiplayer"
+  ],
+  "createdTime": "2025-04-01 22:50:32"
+}
