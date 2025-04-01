@@ -1,0 +1,1 @@
+BuildNow GG is an online build-and-shoot game featuring various game modes, weapons, and maps. Build and battle your way to the top of the leaderboard and hone your skills in offline training mode.

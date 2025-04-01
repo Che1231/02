@@ -1,0 +1,77 @@
+{
+  "buildnow-gg": {
+    "title": "BuildNow GG - เกมยิงสร้างอาคารออนไลน์ | เล่นฟรี",
+    "slogan": "สร้าง  ต่อสู้ และพิชิตใน BuildNow GG",
+    "description": "BuildNow GG เป็นเกมยิงสร้างอาคารออนไลน์ที่น่าตื่นเต้น มีโหมดการเล่นอาวุธและแผนที่หลากหลาย  แข่งขันเพื่อขึ้นอันดับและพัฒนาฝีมือในโหมดฝึกฝนออฟไลน์ เข้าร่วมการกระทำวันนี้และสัมผัสกับความตื่นเต้นของ BuildNow GG!",
+    "Loading": {
+      "title": "กำลังโหลด..."
+    },
+    "Navbar": {
+      "title": "แถบนำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดในการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์ที่เป็นมิตร",
+      "articleList": "รายการบทความ",
+      "home": "หน้าหลัก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "BuildNow GG",
+      "description": "BuildNow GG เป็นเกมยิงสร้างอาคารออนไลน์ที่มีโหมดการเล่นอาวุธและแผนที่หลากหลาย สร้างและต่อสู้เพื่อขึ้นไปอยู่บนสุดของตารางอันดับและพัฒนาฝีมือในโหมดฝึกฝนออฟไลน์",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ไปยังคลิปบอร์ดแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "BuildNow GG",
+      "whatIsTitle": "BuildNow GG คืออะไร?",
+      "whatIsDescription": "BuildNow GG เป็นเกมยิงสร้างอาคารออนไลน์ที่มีโหมดการเล่นอาวุธและแผนที่หลากหลาย สร้างและต่อสู้เพื่อขึ้นไปอยู่บนสุดของตารางอันดับและพัฒนาฝีมือในโหมดฝึกฝนออฟไลน์",
+      "howToPlayTitle": "วิธีการเล่น",
+      "howToPlayStep1": "เลือกโหมดการเล่นและแผนที่",
+      "howToPlayStep2": "วางแผนกลยุทธ์และเลือกอาวุธของคุณ",
+      "howToPlayStep3": "ต่อสู้กับคู่ต่อสู้และขึ้นอันดับ",
+      "keyFeaturesTitle": "คุณสมบัติหลัก",
+      "feature1Title": "โหมดการเล่นหลายแบบ",
+      "feature1Description": "เข้าร่วมในโหมดการเล่นต่างๆ เพื่อความสนุกสนานไม่รู้จบ",
+      "feature2Title": "อาวุธหลากหลาย",
+      "feature2Description": "เลือกจากอาวุธหลากหลายประเภทเพื่อให้เหมาะกับสไตล์การเล่นของคุณ",
+      "feature3Title": "แผนที่พิเศษ",
+      "feature3Description": "สำรวจและควบคุมแผนที่ต่างๆ พร้อมกับความท้าทายเฉพาะตัว",
+      "feature4Title": "การฝึกฝนออฟไลน์",
+      "feature4Description": "พัฒนาฝีมือในโหมดฝึกฝนออฟไลน์"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นของผู้เล่น"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "buildnow-gg": {
+    "title": "BuildNow GG - Jeu de construction et de tir en ligne | Gratuit",
+    "slogan": "Construisez, battez-vous et triomphez dans BuildNow GG",
+    "description": "BuildNow GG est un jeu passionnant de construction et de tir en ligne proposant divers modes de jeu, armes et cartes. Affrontez la compétition pour gravir les classements et améliorer vos compétences en mode d'entraînement hors ligne. Rejoignez l'action dès aujourd'hui et vivez le frisson de BuildNow GG !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "BuildNow GG",
+      "description": "BuildNow GG est un jeu de construction et de tir en ligne proposant divers modes de jeu, d'armes et de cartes. Construisez et battez-vous pour atteindre le sommet du classement et perfectionner vos compétences en mode d'entraînement hors ligne.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "BuildNow GG",
+      "whatIsTitle": "Qu'est-ce que BuildNow GG ?",
+      "whatIsDescription": "BuildNow GG est un jeu de construction et de tir en ligne proposant divers modes de jeu, d'armes et de cartes. Construisez et battez-vous pour atteindre le sommet du classement et perfectionner vos compétences en mode d'entraînement hors ligne.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Choisissez votre mode de jeu et votre carte.",
+      "howToPlayStep2": "Développez votre stratégie et sélectionnez vos armes.",
+      "howToPlayStep3": "Affrontez les adversaires et gravissez les échelons du classement.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Plusieurs modes de jeu",
+      "feature1Description": "Participez à divers modes de jeu pour un plaisir sans fin.",
+      "feature2Title": "Armes variées",
+      "feature2Description": "Choisissez parmi une large gamme d'armes pour s'adapter à votre style de jeu.",
+      "feature3Title": "Cartes uniques",
+      "feature3Description": "Explorez et maîtrisez différentes cartes aux défis uniques.",
+      "feature4Title": "Entraînement hors ligne",
+      "feature4Description": "Perfectionnez vos compétences en mode d'entraînement hors ligne."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

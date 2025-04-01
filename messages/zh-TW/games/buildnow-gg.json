@@ -1,0 +1,77 @@
+{
+  "buildnow-gg": {
+    "title": "BuildNow GG - 線上建造射擊遊戲 | 免費遊玩",
+    "slogan": "在 BuildNow GG 建造、戰鬥並征服",
+    "description": "BuildNow GG 是一款令人興奮的線上建造射擊遊戲，提供多種遊戲模式、武器和地圖。在離線訓練模式中競爭，攀爬排行榜並提升您的技能。立即加入行動，體驗 BuildNow GG 的刺激！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導覽列"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "BuildNow GG",
+      "description": "BuildNow GG 是一款線上建造射擊遊戲，提供多種遊戲模式、武器和地圖。建造並戰鬥，爭奪排行榜頂端，並在離線訓練模式中磨練您的技能。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "遊玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "BuildNow GG",
+      "whatIsTitle": "BuildNow GG 簡介？",
+      "whatIsDescription": "BuildNow GG 是一款線上建造射擊遊戲，提供多種遊戲模式、武器和地圖。建造並戰鬥，爭奪排行榜頂端，並在離線訓練模式中磨練您的技能。",
+      "howToPlayTitle": "遊戲玩法",
+      "howToPlayStep1": "選擇您的遊戲模式和地圖。",
+      "howToPlayStep2": "制定您的策略並選擇武器。",
+      "howToPlayStep3": "與對手戰鬥並攀爬排行榜。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "多種遊戲模式",
+      "feature1Description": "參與各種遊戲模式，享受無盡的樂趣。",
+      "feature2Title": "多元化武器",
+      "feature2Description": "從各種武器中選擇適合您的遊戲風格。",
+      "feature3Title": "獨特地圖",
+      "feature3Description": "探索並掌握不同地圖，挑戰獨特的難關。",
+      "feature4Title": "離線訓練",
+      "feature4Description": "在離線訓練模式中磨練您的技能。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "檢視更多",
+      "page": "頁面"
+    }
+  }
+}
