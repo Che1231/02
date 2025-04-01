@@ -1,0 +1,77 @@
+{
+  "survival-race": {
+    "title": "서바이벌 레이스: 초고속 전투 아레나",
+    "slogan": "레이스, 생존, 지배!",
+    "description": "서바이벌 레이스는 육각형 아레나에서 생존을 위한 초고속 전투 게임입니다. 각 타일은 차량이 지나감에 따라 무너지며, 이는 민첩성과 전략의 시험대가 됩니다. 날카로운 코너링, 적절한 점프, 계산된 움직임으로 아레나에 머물러야 합니다. 상대를 물, 용암 또는 산성 물질과 같은 위험한 지형으로 밀어내십시오. 격파한 라이벌마다 금빛 왕관을 얻고, 동전을 수집하며, 특技를 수행하여 새로운 차량을 잠금 해제하십시오. 순위가 높아질수록 경쟁은 더욱 치열해지며, 아레나를 지배할 수 있는 자는 오직 최고의 선수들뿐입니다!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "컨텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "서바이벌 레이스™",
+      "description": "전략과 민첩성이 중요한 초고속 전투 아레나, 서바이벌 레이스의 짜릿함을 경험하세요. 레이스, 생존, 육각형 아레나를 지배하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "서바이벌 레이스™",
+      "whatIsTitle": "서바이벌 레이스는 무엇인가요?",
+      "whatIsDescription": "서바이벌 레이스는 플레이어들이 육각형 아레나에서 경쟁하는 초고속 전투 아레나 게임입니다. 목표는 날카로운 코너링, 적절한 점프, 계산된 움직임으로 아레나에 머무르면서 상대를 플랫폼에서 밀어내는 것입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "타일 위를 주행하여 타일을 파괴하고 상대를 가두십시오.",
+      "howToPlayStep2": "날카로운 코너링과 점프로 아레나에 머무르십시오.",
+      "howToPlayStep3": "상대를 플랫폼에서 밀어내어 금빛 왕관을 획득하고 새로운 차량을 잠금 해제하십시오.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "육각형 아레나",
+      "feature1Description": "각 타일이 주행 시 무너지는 독특한 육각형 아레나에서 레이스를 즐기세요.",
+      "feature2Title": "위험한 지형",
+      "feature2Description": "상대를 물, 용암 또는 산성 물질 속으로 밀어내어 레이스에서 제외시키세요.",
+      "feature3Title": "금빛 왕관",
+      "feature3Description": "격파한 라이벌마다 금빛 왕관을 획득하고 순위를 높이세요.",
+      "feature4Title": "새로운 차량 잠금 해제",
+      "feature4Description": "동전을 수집하고 특技를 수행하여 새로운 차량을 잠금 해제하고 아레나를 지배하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

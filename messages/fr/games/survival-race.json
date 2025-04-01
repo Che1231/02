@@ -1,0 +1,77 @@
+{
+  "survival-race": {
+    "title": "Course de survie : arène de bataille à grande vitesse",
+    "slogan": "Courir, survivre, dominer !",
+    "description": "Survival Race est une bataille de survie à grande vitesse dans une arène hexagonale. Chaque tuile s'effondre lorsque vous la traversez, transformant la course en un test d'agilité et de stratégie. Restez dans l'arène en effectuant des virages serrés, des sauts bien chronométrés et des mouvements calculés. Éjectez vos adversaires de la plateforme dans des terrains dangereux comme l'eau, la lave ou l'acide. Gagnez des couronnes d'or pour chaque rival éliminé, récupérez des pièces et effectuez des cascades pour débloquer de nouvelles voitures. Plus votre rang est élevé, plus la compétition est rude ; seuls les meilleurs peuvent dominer l'arène !",
+    "Loading": {
+      "title": "Chargement…"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Survival Race™",
+      "description": "Découvrez le frisson de Survival Race, une arène de bataille à grande vitesse où la stratégie et l'agilité sont essentielles. Courez, survivez et dominez l'arène hexagonale !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Survival Race™",
+      "whatIsTitle": "Qu'est-ce que Survival Race ?",
+      "whatIsDescription": "Survival Race est une arène de bataille à grande vitesse où les joueurs s'affrontent dans une arène hexagonale. L'objectif est de rester dans l'arène en effectuant des virages serrés, des sauts précis et des mouvements calculés tout en projetant les adversaires hors de la plateforme.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Traversez les tuiles pour les faire s'effondrer et piéger vos adversaires.",
+      "howToPlayStep2": "Utilisez des virages serrés et des sauts pour rester dans l'arène.",
+      "howToPlayStep3": "Éjectez vos adversaires de la plateforme pour remporter des couronnes d'or et débloquer de nouvelles voitures.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Arène hexagonale",
+      "feature1Description": "Faites la course dans une arène hexagonale unique où chaque tuile s'effondre lorsque vous la traversez.",
+      "feature2Title": "Terrain dangereux",
+      "feature2Description": "Projeter vos adversaires dans l'eau, la lave ou l'acide pour les éliminer de la course.",
+      "feature3Title": "Couronnes d'or",
+      "feature3Description": "Gagnez des couronnes d'or pour chaque rival éliminé et gravissez les échelons.",
+      "feature4Title": "Débloquer de nouvelles voitures",
+      "feature4Description": "Recueillez des pièces et effectuez des cascades pour débloquer de nouvelles voitures et dominer l'arène."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

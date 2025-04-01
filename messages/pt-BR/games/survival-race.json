@@ -1,0 +1,77 @@
+{
+  "survival-race": {
+    "title": "Corrida de Sobrevivência: Arena de Batalha de Alta Velocidade",
+    "slogan": "Corra, sobreviva, domine!",
+    "description": "A Corrida de Sobrevivência é uma batalha de alta velocidade pela sobrevivência em uma arena hexagonal. Cada laje colapsa quando você passa por cima dela, transformando a corrida em um teste de agilidade e estratégia. Permanea na arena fazendo curvas fechadas, saltos bem-cronometrados e movimentos calculados. Empurre os oponentes para fora da plataforma em terrenos perigosos, como água, lava ou ácido. Ganhe coroas de ouro por cada rival eliminado, colete moedas e faça manobras para desbloquear novos carros. Quanto maior sua classificação, mais difícil fica a competição - apenas os melhores podem dominar a arena!",
+    "Loading": {
+      "title": "Carregando..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado Em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links de Amizade",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Survival Race™",
+      "description": "Experimente a emoção da Corrida de Sobrevivência, uma arena de batalha de alta velocidade onde estratégia e agilidade são essenciais. Corra, sobreviva e domine a arena hexagonal!",
+      "iframeTitle": "Prévia do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Survival Race™",
+      "whatIsTitle": "O que é a Corrida de Sobrevivência?",
+      "whatIsDescription": "A Corrida de Sobrevivência é uma arena de batalha de alta velocidade onde os jogadores competem em uma arena hexagonal. O objetivo é permanecer na arena fazendo curvas fechadas, saltos bem-cronometrados e movimentos calculados, ao mesmo tempo que elimina oponentes da plataforma.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Passe por cima das lajes para derrubá-las e aprisionar os oponentes.",
+      "howToPlayStep2": "Use curvas fechadas e saltos para permanecer na arena.",
+      "howToPlayStep3": "Empurre os oponentes para fora da plataforma para ganhar coroas de ouro e desbloquear novos carros.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Arena Hexagonal",
+      "feature1Description": "Corra em uma arena hexagonal única, onde cada laje colapsa ao passar por cima.",
+      "feature2Title": "Terreno Perigoso",
+      "feature2Description": "Jogue oponentes em água, lava ou ácido para eliminá-los da corrida.",
+      "feature3Title": "Coroas de Ouro",
+      "feature3Description": "Ganhe coroas de ouro para cada rival eliminado e suba nas posições.",
+      "feature4Title": "Desbloqueie Novos Carros",
+      "feature4Description": "Colete moedas e execute manobras para desbloquear novos carros e dominar a arena."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "survival-race": {
+    "title": "Survival Race: Arena di Battaglia ad Alta Velocità",
+    "slogan": "Gareggia, Sopravvivi, Domina!",
+    "description": "Survival Race è una battaglia di sopravvivenza ad alta velocità in un'arena esagonale. Ogni piastrella collassa quando ci si guida sopra, trasformando la gara in una sfida di agilità e strategia. Rimani in arena effettuando bruschi cambi di direzione, salti ben sincronizzati e mosse calcolate. Scaglia gli avversari dalla piattaforma in terreni pericolosi come acqua, lava o acido. Vinci corone d'oro per ogni avversario eliminato, raccogli monete e esegui acrobazie per sbloccare nuove auto. Più alto è il tuo rango, più dura la competizione: solo i migliori possono dominare l'arena!",
+    "Loading": {
+      "title": "Caricamento..."
+    },
+    "Navbar": {
+      "title": "Navigazione"
+    },
+    "Common": {
+      "createAt": "Creato il",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla Privacy",
+      "termsOfServices": "Termini di Servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Collegamenti Utili",
+      "articleList": "Elenco Articoli",
+      "home": "Home",
+      "next": "Successivo",
+      "previous": "Precedente"
+    },
+    "HomeIframe": {
+      "title": "Survival Race™",
+      "description": "Vivi l'emozione di Survival Race, un'arena di battaglia ad alta velocità dove strategia e agilità sono fondamentali. Gareggia, sopravvivi e domina l'arena esagonale!",
+      "iframeTitle": "Anteprima del Gioco",
+      "fullscreenButton": "Schermo intero",
+      "shareButton": "Condividi",
+      "urlCopied": "Url copiato negli appunti!",
+      "downloadGame": "Scarica il Gioco",
+      "playGame": "Gioca"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Survival Race™",
+      "whatIsTitle": "Cos'è Survival Race?",
+      "whatIsDescription": "Survival Race è un'arena di battaglia ad alta velocità dove i giocatori competono in un'arena esagonale. L'obiettivo è rimanere nell'arena effettuando bruschi cambi di direzione, salti ben sincronizzati e mosse calcolate, mentre si scagliano gli avversari dalla piattaforma.",
+      "howToPlayTitle": "Come Giocare",
+      "howToPlayStep1": "Guida sopra le piastrelle per farle collassare ed intrappolare gli avversari.",
+      "howToPlayStep2": "Utilizza bruschi cambi di direzione e salti per rimanere nell'arena.",
+      "howToPlayStep3": "Scaglia gli avversari dalla piattaforma per vincere corone d'oro e sbloccare nuove auto.",
+      "keyFeaturesTitle": "Caratteristiche principali",
+      "feature1Title": "Arena Esagonale",
+      "feature1Description": "Gareggia in un'arena esagonale unica, dove ogni piastrella collassa quando ci si guida sopra.",
+      "feature2Title": "Territorio Pericoloso",
+      "feature2Description": "Scaglia gli avversari in acqua, lava o acido per eliminarli dalla gara.",
+      "feature3Title": "Corone d'Oro",
+      "feature3Description": "Vinci corone d'oro per ogni avversario eliminato e scala le classifiche.",
+      "feature4Title": "Sblocca nuove Auto",
+      "feature4Description": "Raccogli monete ed esegui acrobazie per sbloccare nuove auto e dominare l'arena."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Consigliati"
+    },
+    "HomeComments": {
+      "title": "Commenti sul Gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i Giochi",
+      "description": "Tutti i Giochi",
+      "games": "Giochi"
+    },
+    "CategoryPage": {
+      "categories": "Categorie",
+      "noCategories": "Nessuna categoria trovata",
+      "viewMore": "Visualizza di più",
+      "page": "Pagina"
+    }
+  }
+}

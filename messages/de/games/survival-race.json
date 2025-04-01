@@ -1,0 +1,77 @@
+{
+  "survival-race": {
+    "title": "Survival Race: Hochgeschwindigkeits-Kampfarena",
+    "slogan": "Rennen, Überleben, Dominieren!",
+    "description": "Survival Race ist ein Hochgeschwindigkeits-Überlebenskampf in einer sechseckigen Arena. Jede Fliese bricht zusammen, wenn Sie darüber fahren, was das Rennen zu einem Test an Beweglichkeit und Strategie macht. Bleiben Sie in der Arena, indem Sie scharfe Kurven, gut getimte Sprünge und kalkulierte Bewegungen ausführen. Schlagen Sie Gegner von der Plattform in gefährliche Gebiete wie Wasser, Lava oder Säure. Gewinnen Sie goldene Kronen für jeden eliminierten Rivalen, sammeln Sie Münzen und führen Sie Stunts aus, um neue Autos freizuschalten. Je höher Ihr Rang, desto härter der Wettbewerb – nur die Besten können die Arena dominieren!",
+    "Loading": {
+      "title": "Lade..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Leitfaden",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Survival Race™",
+      "description": "Erleben Sie den Nervenkitzel von Survival Race, einer Hochgeschwindigkeits-Kampfarena, in der Strategie und Beweglichkeit entscheidend sind. Rennen, überleben und dominieren Sie die sechseckige Arena!",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Survival Race™",
+      "whatIsTitle": "Was ist Survival Race?",
+      "whatIsDescription": "Survival Race ist eine Hochgeschwindigkeits-Kampfarena, in der Spieler in einer sechseckigen Arena gegeneinander antreten. Das Ziel ist es, in der Arena zu bleiben, indem man scharfe Kurven, gut getimte Sprünge und kalkulierte Bewegungen ausführt, während man Gegner von der Plattform stößt.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Fahren Sie über Fliesen, um diese zu zerstören und Gegner zu fangen.",
+      "howToPlayStep2": "Nutzen Sie scharfe Kurven und Sprünge, um in der Arena zu bleiben.",
+      "howToPlayStep3": "Schlagen Sie Gegner von der Plattform, um goldene Kronen zu gewinnen und neue Autos freizuschalten.",
+      "keyFeaturesTitle": "Hauptmerkmale",
+      "feature1Title": "Sechseckige Arena",
+      "feature1Description": "Rennen Sie in einer einzigartigen sechseckigen Arena, in der jede Fliese zusammenbricht, wenn Sie darüber fahren.",
+      "feature2Title": "Gefährliches Gelände",
+      "feature2Description": "Schlagen Sie Gegner in Wasser, Lava oder Säure, um sie aus dem Rennen zu eliminieren.",
+      "feature3Title": "Goldene Kronen",
+      "feature3Description": "Gewinnen Sie goldene Kronen für jeden eliminierten Rivalen und steigen Sie in der Rangliste auf.",
+      "feature4Title": "Neue Autos freischalten",
+      "feature4Description": "Sammeln Sie Münzen und führen Sie Stunts aus, um neue Autos freizuschalten und die Arena zu dominieren."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

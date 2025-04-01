@@ -1,0 +1,77 @@
+{
+  "survival-race": {
+    "title": "生存競賽：高速戰鬥競技場",
+    "slogan": "競速、生存、稱霸！",
+    "description": "生存競賽是一款在六角形競技場中進行的高速生存戰鬥遊戲。你所駛過的每塊磚塊都會崩塌，將比賽變成一場考驗靈活性和策略的考驗。透過精準的轉向、及時的跳躍和精算的動作，留在競技場內。將對手撞下平台，掉入危險的地形，例如水、熔岩或酸液。擊敗對手獲得金冠，收集硬幣，並完成特技動作來解鎖新車。你的等級越高，競爭就越激烈，只有最強者才能稱霸競技場！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導覽"
+    },
+    "Common": {
+      "createAt": "建立時間",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "生存競賽™",
+      "description": "體驗生存競賽的刺激，這是一款高速戰鬥競技場，策略和敏捷性是關鍵。競速、生存並稱霸六角形競技場！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "生存競賽™",
+      "whatIsTitle": "生存競賽是什麼？",
+      "whatIsDescription": "生存競賽是一款高速戰鬥競技場遊戲，玩家在六角形競技場中競爭。目標是透過精準的轉向、及時的跳躍和精算的動作留在競技場內，同時將對手撞下平台。",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "駛過磚塊會使其崩塌並困住對手。",
+      "howToPlayStep2": "使用精準的轉向和跳躍留在競技場內。",
+      "howToPlayStep3": "將對手撞下平台獲得金冠並解鎖新車。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "六角形競技場",
+      "feature1Description": "在獨特的六角形競技場中競速，您駛過每塊磚塊時，都會崩塌。",
+      "feature2Title": "危險地形",
+      "feature2Description": "將對手撞入水中、熔岩或酸液中，從比賽中淘汰他們。",
+      "feature3Title": "金冠",
+      "feature3Description": "擊敗每個對手獲得金冠，並提升您的排名。",
+      "feature4Title": "解鎖新車",
+      "feature4Description": "收集硬幣並完成特技動作來解鎖新車並稱霸競技場。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦遊戲"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

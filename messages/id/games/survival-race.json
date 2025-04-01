@@ -1,0 +1,77 @@
+{
+  "survival-race": {
+    "title": "Survival Race: Arena Pertempuran Berkecepatan Tinggi",
+    "slogan": "Berlomba, Bertahan Hidup, Mendominasi!",
+    "description": "Survival Race adalah arena pertempuran bertahan hidup berkecepatan tinggi di arena heksagonal. Setiap ubin runtuh saat Anda melewatinya, mengubah perlombaan menjadi ujian kelincahan dan strategi. Tetap berada di arena dengan berbelok tajam, melompat tepat waktu, dan melakukan gerakan yang terhitung. Jatuhkan lawan dari platform ke medan berbahaya seperti air, lava, atau asam. Menangkan mahkota emas untuk setiap saingan yang dihilangkan, kumpulkan koin, dan lakukan aksi ekstrem untuk membuka mobil baru. Semakin tinggi peringkat Anda, semakin berat persaingannya—hanya yang terbaik yang dapat mendominasi arena!",
+    "Loading": {
+      "title": "Memuat..."
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Teman",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Survival Race™",
+      "description": "Rasakan sensasi Survival Race, arena pertempuran berkecepatan tinggi di mana strategi dan kelincahan menjadi kunci. Berlomba, bertahan hidup, dan kuasai arena heksagonal!",
+      "iframeTitle": "Pratinjau Game",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Game",
+      "playGame": "Mainkan Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Survival Race™",
+      "whatIsTitle": "Apa itu Survival Race?",
+      "whatIsDescription": "Survival Race adalah arena pertempuran berkecepatan tinggi di mana pemain bersaing di arena heksagonal. Tujuannya adalah untuk tetap berada di arena dengan berbelok tajam, melompat tepat waktu, dan melakukan gerakan yang dipikirkan dengan matang sambil menjatuhkan lawan dari platform.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Lewati ubin untuk menghancurkannya dan menjebak lawan.",
+      "howToPlayStep2": "Gunakan tikungan tajam dan lompatan untuk tetap berada di arena.",
+      "howToPlayStep3": "Jatuhkan lawan dari platform untuk memenangkan mahkota emas dan membuka mobil baru.",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Arena Heksagonal",
+      "feature1Description": "Berlomba di arena heksagonal unik di mana setiap ubin runtuh saat Anda melewatinya.",
+      "feature2Title": "Medan Berbahaya",
+      "feature2Description": "Jatuhkan lawan ke dalam air, lava, atau asam untuk menghilangkan mereka dari perlombaan.",
+      "feature3Title": "Mahkota Emas",
+      "feature3Description": "Menangkan mahkota emas untuk setiap saingan yang dihilangkan dan naik peringkat.",
+      "feature4Title": "Buka Mobil Baru",
+      "feature4Description": "Kumpulkan koin dan lakukan aksi ekstrem untuk membuka mobil baru dan mendominasi arena."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Game"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Game",
+      "description": "Semua Game",
+      "games": "Game"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Lebih Banyak",
+      "page": "Halaman"
+    }
+  }
+}

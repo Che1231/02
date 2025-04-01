@@ -1,0 +1,77 @@
+{
+  "survival-race": {
+    "title": "Cuộc đua sinh tồn: Sân vận động chiến đấu tốc độ cao",
+    "slogan": "Đua, sinh tồn, thống trị!",
+    "description": "Cuộc đua sinh tồn là trận chiến sinh tồn tốc độ cao trong một đấu trường lục giác. Mỗi ô gạch sụp đổ khi bạn lái xe qua nó, biến cuộc đua thành bài kiểm tra sự nhanh nhẹn và chiến lược. Giữ chỗ trong đấu trường bằng cách rẽ ngoặt sắc nét, nhảy đúng lúc và di chuyển có tính toán. Đẩy đối thủ khỏi nền tảng xuống địa hình nguy hiểm như nước, dung nham hoặc axit. Thắng vương miện vàng cho mỗi đối thủ bị loại bỏ, thu thập tiền xu và thực hiện những pha biểu diễn mạo hiểm để mở khóa những chiếc xe mới. Hàng hạng của bạn càng cao, cuộc cạnh tranh càng khốc liệt - chỉ những người giỏi nhất mới có thể thống trị đấu trường!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Đường dẫn"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu nghị",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Survival Race™",
+      "description": "Trải nghiệm niềm phấn khích của Cuộc đua sinh tồn, một đấu trường chiến đấu tốc độ cao nơi chiến lược và sự nhanh nhẹn là chìa khóa. Đua, sinh tồn và thống trị đấu trường lục giác!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào clipboard!",
+      "downloadGame": "Tải xuống trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Survival Race™",
+      "whatIsTitle": "Cuộc đua sinh tồn là gì?",
+      "whatIsDescription": "Cuộc đua sinh tồn là một đấu trường chiến đấu tốc độ cao nơi người chơi cạnh tranh trong một đấu trường lục giác. Mục tiêu là ở lại trong đấu trường bằng cách rẽ ngoặt sắc nét, nhảy đúng lúc và di chuyển có tính toán trong khi đẩy đối thủ khỏi nền tảng.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Lái xe qua các ô gạch để làm sập chúng và bẫy đối thủ.",
+      "howToPlayStep2": "Sử dụng các vòng quay và cú nhảy sắc nét để ở lại trong đấu trường.",
+      "howToPlayStep3": "Đẩy đối thủ khỏi nền tảng để giành vương miện vàng và mở khóa những chiếc xe mới.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Đấu trường lục giác",
+      "feature1Description": "Đua trong một đấu trường lục giác độc đáo nơi mỗi ô gạch sụp đổ khi bạn lái xe qua nó.",
+      "feature2Title": "Địa hình nguy hiểm",
+      "feature2Description": "Đẩy đối thủ vào nước, dung nham hoặc axit để loại bỏ họ khỏi cuộc đua.",
+      "feature3Title": "Vương miện vàng",
+      "feature3Description": "Giành vương miện vàng cho mỗi đối thủ bị loại bỏ và leo lên bảng xếp hạng.",
+      "feature4Title": "Mở khóa xe mới",
+      "feature4Description": "Thu thập tiền xu và thực hiện các pha biểu diễn mạo hiểm để mở khóa những chiếc xe mới và thống trị đấu trường."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Khuyến nghị"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

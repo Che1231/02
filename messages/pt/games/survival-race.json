@@ -1,0 +1,77 @@
+{
+  "survival-race": {
+    "title": "Corrida de Sobrevivência: Arena de Batalha de Alta Velocidade",
+    "slogan": "Corrida, Sobrevivência, Dominação!",
+    "description": "Corrida de Sobrevivência é uma batalha de alta velocidade pela sobrevivência numa arena hexagonal. Cada ladrilho colapsa à medida que conduz sobre ele, transformando a corrida num teste de agilidade e estratégia. Permaneça na arena fazendo curvas fechadas, saltos bem-timedos e movimentos calculados. Faça oponentes caírem da plataforma para terrenos perigosos como água, lava ou ácido. Ganhe coroas de ouro por cada rival eliminado, colecione moedas e faça acrobacias para desbloquear novos carros. Quanto maior a sua classificação, mais difícil será a competição - apenas os melhores podem dominar a arena!",
+    "Loading": {
+      "title": "Carregando..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criar em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Amigáveis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Corrida de Sobrevivência™",
+      "description": "Experimente a emoção da Corrida de Sobrevivência, uma arena de batalha de alta velocidade onde a estratégia e a agilidade são essenciais. Corra, sobreviva e domine a arena hexagonal!",
+      "iframeTitle": "Pré-visualização do Jogo",
+      "fullscreenButton": "Ecrã Cheio",
+      "shareButton": "Partilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Descarregar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Corrida de Sobrevivência™",
+      "whatIsTitle": "O que é a Corrida de Sobrevivência?",
+      "whatIsDescription": "Corrida de Sobrevivência é uma arena de batalha de alta velocidade onde os jogadores competem numa arena hexagonal. O objetivo é permanecer na arena, fazendo curvas fechadas, saltos bem-timedos e movimentos calculados, enquanto atira os oponentes da plataforma.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Conduza sobre os ladrilhos para os fazer colapsar e aprisionar os oponentes.",
+      "howToPlayStep2": "Use curvas fechadas e saltos para permanecer na arena.",
+      "howToPlayStep3": "Faça cair os oponentes da plataforma para ganhar coroas de ouro e desbloquear novos carros.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Arena Hexagonal",
+      "feature1Description": "Corra numa arena hexagonal única onde cada ladrilho colapsa à medida que conduz sobre ele.",
+      "feature2Title": "Terreno Perigoso",
+      "feature2Description": "Faça cair os oponentes na água, lava ou ácido para os eliminar da corrida.",
+      "feature3Title": "Coroas de Ouro",
+      "feature3Description": "Ganhe coroas de ouro por cada rival eliminado e suba de classificação.",
+      "feature4Title": "Desbloquear Novos Carros",
+      "feature4Description": "Recolha moedas e faça acrobacias para desbloquear novos carros e dominar a arena."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

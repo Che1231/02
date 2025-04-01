@@ -1,0 +1,120 @@
+{
+  "name": "Survival Race",
+  "pagePath": "/games/survival-race",
+  "pageName": "survival-race",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://html5.gamemonetize.co/9km7avlf26r9se5gam8028uq4p6drmx1/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "CosmicKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicKraken87.png",
+      "content": "Survival Race is insane! The collapsing tiles add so much tension, and knocking opponents into lava? Pure satisfaction!"
+    },
+    {
+      "author": "NeonBroadsword_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonBroadsword_X.png",
+      "content": "Just unlocked a new car after pulling off some sick stunts. This game keeps me on the edge of my seat!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "The hexagonal arena in Survival Race is genius. It’s like a mix of racing and chess—so many strategies!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "LOL, I keep falling into acid. This game is a chaos simulator, but I can’t stop playing!"
+    },
+    {
+      "author": "xX_PhantomBlade_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_PhantomBlade_Xx.png",
+      "content": "Survival Race is addicting! The higher ranks are brutal though. Can’t wait to dominate the arena!"
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "The collapsing tiles always get me, but the golden crowns make it worth it. Great game!"
+    },
+    {
+      "author": "SavageLeviathan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageLeviathan99.png",
+      "content": "Knocking opponents into hazardous terrain is so fun. Survival Race is pure adrenaline!"
+    },
+    {
+      "author": "StalkingRevolver_42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingRevolver_42.png",
+      "content": "The stunts in this game are so cool. Just unlocked my third car, and the competition is heating up!"
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "Survival Race is a wild ride! The collapsing tiles keep you on your toes, and the golden crowns are a nice bonus."
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "This game is hilarious! I keep messing up and falling off, but it’s so much fun. Survival Race FTW!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743488184219-we0vg.jpg",
+  "page_path": "/games/survival-race",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Action"
+  ],
+  "createdTime": "2025-04-01 14:16:26"
+}

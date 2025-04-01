@@ -1,0 +1,77 @@
+{
+  "survival-race": {
+    "title": "Survival Race: High-Speed Battle Arena",
+    "slogan": "Race, Survive, Dominate!",
+    "description": "Survival Race is a high-speed battle for survival in a hexagonal arena. Each tile collapses as you drive over it, turning the race into a test of agility and strategy. Stay in the arena by making sharp turns, well-timed jumps, and calculated moves. Knock opponents off the platform into hazardous terrain like water, lava, or acid. Win golden crowns for each eliminated rival, collect coins, and pull off stunts to unlock new cars. The higher your rank, the tougher the competition—only the best can dominate the arena!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Survival Race™",
+      "description": "Experience the thrill of Survival Race, a high-speed battle arena where strategy and agility are key. Race, survive, and dominate the hexagonal arena!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Survival Race™",
+      "whatIsTitle": "What is Survival Race?",
+      "whatIsDescription": "Survival Race is a high-speed battle arena where players compete in a hexagonal arena. The goal is to stay in the arena by making sharp turns, well-timed jumps, and calculated moves while knocking opponents off the platform.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Drive over tiles to collapse them and trap opponents.",
+      "howToPlayStep2": "Use sharp turns and jumps to stay in the arena.",
+      "howToPlayStep3": "Knock opponents off the platform to win golden crowns and unlock new cars.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Hexagonal Arena",
+      "feature1Description": "Race in a unique hexagonal arena where each tile collapses as you drive over it.",
+      "feature2Title": "Hazardous Terrain",
+      "feature2Description": "Knock opponents into water, lava, or acid to eliminate them from the race.",
+      "feature3Title": "Golden Crowns",
+      "feature3Description": "Win golden crowns for each eliminated rival and climb the ranks.",
+      "feature4Title": "Unlock New Cars",
+      "feature4Description": "Collect coins and perform stunts to unlock new cars and dominate the arena."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}
