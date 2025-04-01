@@ -1,0 +1,77 @@
+{
+  "octum": {
+    "title": "Jouer à Octum en ligne - Attraper les bulles et faire correspondre les couleurs",
+    "slogan": "Attrapez les bulles de la bonne couleur !",
+    "description": "Octum est un jeu de correspondance de couleurs amusant et addictif où vous attrapez des bulles pour faire correspondre les couleurs correctes. Grâce à son gameplay simple mais stimulant, Octum est parfait pour les joueurs de tous âges. Vivez le frisson de la correspondance des couleurs et améliorez vos réflexes. Jouez à Octum maintenant et voyez jusqu'où vous pouvez monter dans le classement !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Octum - Attrapez les bulles",
+      "description": "Rejoignez le plaisir et attrapez les bulles dans Octum ! Faites correspondre les couleurs et appréciez le gameplay captivant.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer au jeu"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Octum - Le jeu de correspondance de couleurs",
+      "whatIsTitle": "Qu'est-ce qu'Octum ?",
+      "whatIsDescription": "Octum est un jeu de correspondance de couleurs où les joueurs attrapent des bulles pour faire correspondre les couleurs correctes. C'est un jeu simple mais stimulant qui met à l'épreuve vos réflexes et vos compétences de reconnaissance des couleurs.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Attrapez les bulles qui correspondent à la couleur cible.",
+      "howToPlayStep2": "Évitez les bulles qui ne correspondent pas à la couleur cible.",
+      "howToPlayStep3": "Gagnez des points en faisant correspondre correctement les couleurs et voyez jusqu'où vous pouvez aller !",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Correspondance des couleurs",
+      "feature1Description": "Faites correspondre les couleurs des bulles à la couleur cible.",
+      "feature2Title": "Défi de réflexes",
+      "feature2Description": "Testez vos réflexes en attrapant les bulles correctes.",
+      "feature3Title": "Gameplay simple",
+      "feature3Description": "Facile à jouer mais difficile à maîtriser, Octum est amusant pour tous les âges.",
+      "feature4Title": "Système de points",
+      "feature4Description": "Gagnez des points en faisant correspondre les couleurs et visez le score le plus élevé !"
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

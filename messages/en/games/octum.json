@@ -1,0 +1,77 @@
+{
+  "octum": {
+    "title": "Play Octum Online - Catch Bubbles & Match Colors",
+    "slogan": "Catch the bubbles on the right color!",
+    "description": "Octum is a fun and addictive color-matching game where you catch bubbles to match the correct colors. With its simple yet challenging gameplay, Octum is perfect for players of all ages. Experience the thrill of matching colors and improving your reflexes. Play Octum now and see how high you can score!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Octum - Catch the Bubbles",
+      "description": "Join the fun and catch the bubbles in Octum! Match the colors and enjoy the exciting gameplay.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Octum - The Color Matching Game",
+      "whatIsTitle": "What is Octum?",
+      "whatIsDescription": "Octum is a color-matching game where players catch bubbles to match the correct colors. It's a simple yet challenging game that tests your reflexes and color recognition skills.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Catch the bubbles that match the target color.",
+      "howToPlayStep2": "Avoid bubbles that don't match the target color.",
+      "howToPlayStep3": "Score points by successfully matching colors and see how high you can go!",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Color Matching",
+      "feature1Description": "Match the colors of the bubbles to the target color.",
+      "feature2Title": "Reflex Challenge",
+      "feature2Description": "Test your reflexes as you catch the right bubbles.",
+      "feature3Title": "Simple Gameplay",
+      "feature3Description": "Easy to play but hard to master, Octum is fun for all ages.",
+      "feature4Title": "Score System",
+      "feature4Description": "Earn points by matching colors and aim for the high score!"
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}
