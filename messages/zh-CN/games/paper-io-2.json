@@ -1,0 +1,77 @@
+{
+  "paper-io-2": {
+    "title": "在线玩 Paper.IO 2 - 占领领土并击败敌人",
+    "slogan": "扩张你的岛屿，征服新的领土！",
+    "description": "体验 Paper.IO 2 的刺激，你从一个小岛开始，通过占领新的领土来扩张。在你的地盘之外要小心，因为敌人可能会攻击。保护你的尾巴并反击以统治游戏。立即玩 Paper.IO 2，享受终极的领土征服！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建于",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "Paper.IO 2",
+      "description": "在激动人心的游戏 Paper.IO 2 中占领新的领土并击败敌人。扩张你的岛屿并保护你的尾巴免受对手的攻击。现在就玩，享受挑战！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL 已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Paper.IO 2",
+      "whatIsTitle": "什么是 Paper.IO 2？",
+      "whatIsDescription": "Paper.IO 2 是一款激动人心的游戏，玩家从一个小岛开始，通过占领新的领土来扩张。在你的地盘之外要小心，因为敌人可能会攻击。保护你的尾巴并反击以统治游戏。",
+      "howToPlayTitle": "怎么玩",
+      "howToPlayStep1": "从一个小岛开始，通过占领新的领土来扩张。",
+      "howToPlayStep2": "在你的地盘之外要小心，因为敌人可能会攻击。",
+      "howToPlayStep3": "保护你的尾巴并反击以统治游戏。",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "领土征服",
+      "feature1Description": "通过占领新的领土来扩张你的岛屿。",
+      "feature2Title": "战略游戏",
+      "feature2Description": "在你的地盘之外要小心，并保护你的尾巴。",
+      "feature3Title": "反击",
+      "feature3Description": "反击敌人以统治游戏。",
+      "feature4Title": "激动人心的挑战",
+      "feature4Description": "在 Paper.IO 2 中享受领土征服的刺激。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "分类",
+      "noCategories": "未找到分类",
+      "viewMore": "查看更多",
+      "page": "页"
+    }
+  }
+}

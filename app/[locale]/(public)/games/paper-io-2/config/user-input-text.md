@@ -1,0 +1,1 @@
+Capture new territories and defeat enemies in the new exciting game Paper.io 2Each player starts out with a small island, make it larger by adding new areas to it, but watch out for enemies. You are safe on your own turf but once you are outside you become vulnerable. Protect your tail from opponents and don't hesitate to counter attack!

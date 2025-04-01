@@ -1,0 +1,77 @@
+{
+  "paper-io-2": {
+    "title": "Juega a Paper.IO 2 en línea: captura territorios y derrota a los enemigos",
+    "slogan": "¡Expande tu isla, conquista nuevos territorios!",
+    "description": "Experimenta la emoción de Paper.IO 2, donde empiezas con una pequeña isla y te expandes capturando nuevos territorios. Ten cuidado fuera de tu territorio, ya que los enemigos pueden atacar. Protege tu cola y contraataca para dominar el juego. ¡Juega a Paper.IO 2 ahora y disfruta de la conquista territorial definitiva!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigos",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Paper.IO 2",
+      "description": "Captura nuevos territorios y derrota a los enemigos en el emocionante juego Paper.IO 2. Expande tu isla y protege tu cola de los oponentes. ¡Juega ahora y disfruta del desafío!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Paper.IO 2",
+      "whatIsTitle": "¿Qué es Paper.IO 2?",
+      "whatIsDescription": "Paper.IO 2 es un juego emocionante donde los jugadores comienzan con una pequeña isla y se expanden capturando nuevos territorios. Ten cuidado fuera de tu territorio, ya que los enemigos pueden atacar. Protege tu cola y contraataca para dominar el juego.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Comienza con una pequeña isla y expandete capturando nuevos territorios.",
+      "howToPlayStep2": "Ten cuidado fuera de tu territorio, ya que los enemigos pueden atacar.",
+      "howToPlayStep3": "Protege tu cola y contraataca para dominar el juego.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Conquista territorial",
+      "feature1Description": "Expande tu isla capturando nuevos territorios.",
+      "feature2Title": "Jugabilidad estratégica",
+      "feature2Description": "Ten cuidado fuera de tu territorio y protege tu cola.",
+      "feature3Title": "Contraataque",
+      "feature3Description": "Contragolpea a los enemigos para dominar el juego.",
+      "feature4Title": "Desafíos emocionantes",
+      "feature4Description": "Disfruta de la emoción de la conquista territorial en Paper.IO 2."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

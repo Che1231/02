@@ -1,0 +1,77 @@
+{
+  "paper-io-2": {
+    "title": "Çevrimiçi Kağıt.IO 2 Oyna - Bölgeleri Ele Geçirin ve Düşmanları Yenen",
+    "slogan": "Adanızı Genişletin, Yeni Bölgeleri Fethedin!",
+    "description": "Küçük bir adayla başlayıp yeni bölgeleri ele geçirerek Kağıt.IO 2'nin heyecanını yaşayın. Düşmanlar saldırıda bulunabilir, alanınızın dışındayken dikkatli olun. Kuyruğunuzu koruyun ve oyunu hakimiyet altına almak için karşı saldırıya geçin. Şimdi Kağıt.IO 2'yi oynayın ve en son bölgesel fethi yaşayın!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Kağıt.IO 2",
+      "description": "Heyecan verici Kağıt.IO 2 oyununda yeni bölgeleri ele geçirin ve düşmanları yenen. Adanızı genişletin ve kuyruğunuzu rakiplerden koruyun. Şimdi oynayın ve meydan okumaya hazır olun!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Kağıt.IO 2",
+      "whatIsTitle": "Kağıt.IO 2 Nedir?",
+      "whatIsDescription": "Kağıt.IO 2, oyuncuların küçük bir adayla başlayıp yeni bölgeleri ele geçirerek genişlettiği heyecan verici bir oyundur. Alanınızın dışındayken dikkatli olun, çünkü düşmanlar saldırıda bulunabilir. Kuyruğunuzu koruyun ve oyunu hakimiyet altına almak için karşı saldırıya geçin.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Küçük bir adayla başlayın ve yeni bölgeleri ele geçirerek genişletin.",
+      "howToPlayStep2": "Alanınızın dışındayken dikkatli olun, çünkü düşmanlar saldırıda bulunabilir.",
+      "howToPlayStep3": "Kuyruğunuzu koruyun ve oyunu hakimiyet altına almak için karşı saldırıya geçin.",
+      "keyFeaturesTitle": "Temel Özellikler",
+      "feature1Title": "Bölgesel Fetih",
+      "feature1Description": "Yeni bölgeleri ele geçirerek adanızı genişletin.",
+      "feature2Title": "Stratejik Oyun",
+      "feature2Description": "Alanınızın dışındayken dikkatli olun ve kuyruğunuzu koruyun.",
+      "feature3Title": "Karşı Saldırı",
+      "feature3Description": "Oyunu hakimiyet altına almak için düşmanlara karşı saldırın.",
+      "feature4Title": "Heyecan Verici Zorluklar",
+      "feature4Description": "Kağıt.IO 2'de bölgesel fethin heyecanını yaşayın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

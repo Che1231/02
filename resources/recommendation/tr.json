@@ -10,7 +10,7 @@
     "title": "Rolly Vortex (Rolly Vortex)",
     "cover": "https://images.1games.io/cache/game/rolly-vortex/rolly-vortex-m200x130.webp",
     "url": "/games/rolly-vortex",
-    "category": "Mobil Oyunlar",
+    "category": "",
     "visible": true
   },
   {
@@ -66,7 +66,7 @@
     "title": "Ape Sling (Ape Sling)",
     "cover": "https://images.1games.io/cache/game/ape-sling/ape-sling-m200x130.webp",
     "url": "/games/ape-sling",
-    "category": "Mobil Oyunlar",
+    "category": "Macera Oyunları",
     "visible": true
   },
   {
@@ -101,7 +101,7 @@
     "title": "Dino Game (Dino Game)",
     "cover": "https://images.1games.io/cache/game/dino-game/dino-game-m200x130.webp",
     "url": "/games/dino-game",
-    "category": "Mobil Oyunlar",
+    "category": "Macera Oyunları",
     "visible": true
   },
   {
@@ -115,14 +115,14 @@
     "title": "Lava Bird (Lava Bird)",
     "cover": "https://images.1games.io/cache/game/lava-bird/lava-bird-m200x130.webp",
     "url": "/games/lava-bird",
-    "category": "Mobil Oyunlar",
+    "category": "Platform Oyunları",
     "visible": true
   },
   {
     "title": "Rocket Game (Rocket Game)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743306210305-l4d44.png",
     "url": "/games/rocket-game",
-    "category": "Mobil Oyunlar",
+    "category": "Macera Oyunları",
     "visible": true
   },
   {
@@ -136,14 +136,14 @@
     "title": "Redactle (Redactle)",
     "cover": "https://images.1games.io/cache/game/redactle/redactle-game-m200x130.webp",
     "url": "/games/redactle",
-    "category": "Bulmaca Oyunları",
+    "category": "Kelime Oyunları",
     "visible": true
   },
   {
     "title": "Sedecordle (Sedecordle)",
     "cover": "https://images.1games.io/cache/game/sedecordle/sedecordle-m200x130.webp",
     "url": "/games/sedecordle",
-    "category": "Bulmaca Oyunları",
+    "category": "Kelime Oyunları",
     "visible": true
   },
   {
@@ -171,21 +171,21 @@
     "title": "Gun Mayhem Redux (Gun Mayhem Redux)",
     "cover": "https://images.1games.io/cache/game/gun-mayhem-redux/gun-mayhem-redux2-m200x130.webp",
     "url": "/games/gun-mayhem-redux",
-    "category": "Aksiyon Oyunları",
+    "category": "Atış Oyunları",
     "visible": true
   },
   {
     "title": "Dinosaur Game (Dinosaur Game)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743307427396-uhgrn.png",
     "url": "/games/dinosaur-game",
-    "category": "Mobil Oyunlar",
+    "category": "Macera Oyunları",
     "visible": true
   },
   {
     "title": "Squid Game Online (Squid Game Online)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743485971278-36wkuh.avif",
     "url": "/games/squid-game-online",
-    "category": "Çevrimiçi Oyunlar",
+    "category": "Sosyal Oyunlar",
     "visible": true
   },
   {
@@ -213,14 +213,14 @@
     "title": "Little Alchemy 2 (Little Alchemy 2)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743307321950-r2d2km.png",
     "url": "/games/little-alchemy-2",
-    "category": "Bulmaca Oyunları",
+    "category": "Strateji Oyunları",
     "visible": true
   },
   {
     "title": "Cleverdle (Cleverdle)",
     "cover": "https://images.1games.io/cache/game/cleverdle/cleverdle2-m200x130.webp",
     "url": "/games/cleverdle",
-    "category": "Bulmaca Oyunları",
+    "category": "Kelime Oyunları",
     "visible": true
   },
   {
@@ -255,7 +255,7 @@
     "title": "Ice Cream Stack Runner (Ice Cream Stack Runner)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743487255919-r6i4uq.jpg",
     "url": "/games/ice-cream-stack-runner",
-    "category": "Mobil Oyunlar",
+    "category": "Bulmaca Oyunları",
     "visible": true
   },
   {
@@ -269,7 +269,7 @@
     "title": "Hero Wars (Hero Wars)",
     "cover": "https://images.1games.io/cache/game/hero-wars/hero-wars-m200x130.webp",
     "url": "/games/hero-wars",
-    "category": "Strateji Oyunları",
+    "category": "Rol Yapma Oyunları",
     "visible": true
   },
   {
@@ -283,7 +283,7 @@
     "title": "Fruita Crush (Fruita Crush)",
     "cover": "https://images.1games.io/cache/game/fruita-crush/fruita-crush-m200x130.webp",
     "url": "/games/fruita-crush",
-    "category": "Mobil Oyunlar",
+    "category": "Bulmaca Oyunları",
     "visible": true
   },
   {
@@ -318,7 +318,7 @@
     "title": "Death Run 3D (Death Run 3D)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743306362316-duo6ao.png",
     "url": "/games/death-run-3d",
-    "category": "Aksiyon Oyunları",
+    "category": "Macera Oyunları",
     "visible": true
   },
   {
@@ -339,7 +339,7 @@
     "title": "World's Hardest Game (World's Hardest Game)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743303701832-nvgo5b.png",
     "url": "/games/world-s-hardest-game",
-    "category": "Bulmaca Oyunları",
+    "category": "Zor Oyunlar",
     "visible": true
   },
   {
@@ -360,7 +360,7 @@
     "title": "Sniper Simulator (Sniper Simulator)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743489609302-890x8.jpg",
     "url": "/games/sniper-simulator",
-    "category": "Aksiyon Oyunları",
+    "category": "Atış Oyunları",
     "visible": true
   },
   {
@@ -381,14 +381,14 @@
     "title": "Taming.io (Taming.io)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743311379686-xrdbjb.png",
     "url": "/games/taming-io",
-    "category": "Çevrimiçi Oyunlar",
+    "category": "Hayvan Bakımı Oyunları",
     "visible": true
   },
   {
     "title": "Phoodle (Phoodle)",
     "cover": "https://images.1games.io/cache/game/phoodle/phoodle-m200x130.webp",
     "url": "/games/phoodle",
-    "category": "Mobil Oyunlar",
+    "category": "Beslenme Oyunları",
     "visible": true
   },
   {
@@ -402,7 +402,7 @@
     "title": "ColorUp (ColorUp)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743309900605-qbdj3g.png",
     "url": "/games/colorup",
-    "category": "Bulmaca Oyunları",
+    "category": "Renk Oyunları",
     "visible": true
   },
   {
@@ -416,7 +416,7 @@
     "title": "Tom & Jerry Run (Tom & Jerry Run)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743490019590-w7bv7.jpg",
     "url": "/games/tom-jerry-run",
-    "category": "Platform Oyunları",
+    "category": "Macera Oyunları",
     "visible": true
   },
   {
@@ -430,21 +430,21 @@
     "title": "Plactions (Plactions)",
     "cover": "https://images.1games.io/cache/game/plactions/plactions1-m200x130.webp",
     "url": "/games/plactions",
-    "category": "Mobil Oyunlar",
+    "category": "Bulmaca Oyunları",
     "visible": true
   },
   {
     "title": "Sandbox City (Sandbox City)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743486291321-jz13l.avif",
     "url": "/games/sandbox-city",
-    "category": "Mobil Oyunlar",
+    "category": "Kum Kutusu Oyunları",
     "visible": true
   },
   {
     "title": "Tiles Hop: EDM Rush! (Tiles Hop: EDM Rush!)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743487492925-f2exdl.jpg",
     "url": "/games/tiles-hop-edm-rush",
-    "category": "Platform Oyunları",
+    "category": "Ritmik Oyunlar",
     "visible": true
   },
   {
@@ -479,7 +479,7 @@
     "title": "Armor Clash (Armor Clash)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743303759222-fa636p.png",
     "url": "/games/armor-clash",
-    "category": "Strateji Oyunları",
+    "category": "Aksiyon Oyunları",
     "visible": true
   },
   {
@@ -500,7 +500,7 @@
     "title": "Coreball (Coreball)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-29/images/1743263086456-mvtdv.png",
     "url": "/games/coreball",
-    "category": "Platform Oyunları",
+    "category": "Top Oyunları",
     "visible": true
   },
   {
@@ -521,7 +521,7 @@
     "title": "Stickman School Run (Stickman School Run)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743310676293-kq79sh.png",
     "url": "/games/stickman-school-run",
-    "category": "Aksiyon Oyunları",
+    "category": "Koşma Oyunları",
     "visible": true
   },
   {
@@ -549,7 +549,7 @@
     "title": "Toaster Dash (Toaster Dash)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743304511320-i7d113.png",
     "url": "/games/toaster-dash",
-    "category": "Mobil Oyunlar",
+    "category": "Platform Oyunları",
     "visible": true
   },
   {
@@ -570,56 +570,56 @@
     "title": "Temple Run 2: Jungle Fall (Temple Run 2: Jungle Fall)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743310820429-y9a15e.png",
     "url": "/games/temple-run-2-jungle-fall",
-    "category": "Koşucu Oyunları",
+    "category": "Koşma Oyunları",
     "visible": true
   },
   {
     "title": "Papa’s Cupcakeria (Papa’s Cupcakeria)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743323081718-vles8.png",
     "url": "/games/papa-s-cupcakeria",
-    "category": "Restoran Simülasyonu",
+    "category": "Restoran Oyunları",
     "visible": true
   },
   {
     "title": "Grindcraft (Grindcraft)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743310881623-68m62.png",
     "url": "/games/grindcraft",
-    "category": "Simülasyon Oyunları",
+    "category": "Zanaat Oyunları",
     "visible": true
   },
   {
     "title": "Blob Opera (Blob Opera)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743304392523-pfaoit.png",
     "url": "/games/blob-opera",
-    "category": "Mobil Oyunlar",
+    "category": "Platform Oyunları",
     "visible": true
   },
   {
     "title": "Level Up Balls (Level Up Balls)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743351540686-0p3w4g.jpg",
     "url": "/games/level-up-balls",
-    "category": "Mobil Oyunlar",
+    "category": "Platform Oyunları",
     "visible": true
   },
   {
     "title": "Join Clash 3D (Join Clash 3D)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743351732296-b3ergf.jpg",
     "url": "/games/join-clash-3d",
-    "category": "Çevrimiçi Oyunlar",
+    "category": "Akış Oyunları",
     "visible": true
   },
   {
     "title": "Right Shot (Right Shot)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743353671407-k918mk.png",
     "url": "/games/right-shot",
-    "category": "Aksiyon Oyunları",
+    "category": "Atış Oyunları",
     "visible": true
   },
   {
     "title": "Cube Tower Surfer (Cube Tower Surfer)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743354800955-5wfzb.jpg",
     "url": "/games/cube-tower-surfer",
-    "category": "Mobil Oyunlar",
+    "category": "Platform Oyunları",
     "visible": true
   },
   {
@@ -633,28 +633,28 @@
     "title": "City Blocks (City Blocks)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-29/images/1743242778622-p1lkzq.png",
     "url": "/games/city-blocks",
-    "category": "Mobil Oyunlar",
+    "category": "Yapı Oyunları",
     "visible": true
   },
   {
     "title": "Papa's Taco Mia (Papa's Taco Mia)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743322933137-hvgqv.png",
     "url": "/games/papa-s-taco-mia",
-    "category": "Restoran Simülasyonu",
+    "category": "Restoran Oyunları",
     "visible": true
   },
   {
     "title": "Baldi's Basics (Baldi's Basics)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743308992254-bfiu38.png",
     "url": "/games/baldi-s-basics",
-    "category": "Macera Oyunları",
+    "category": "Korku Oyunları",
     "visible": true
   },
   {
     "title": "Horse Simulator 3D (Horse Simulator 3D)",
     "cover": "https://images.1games.io/cache/game/horse-simulator-3d/horse-simulator-3d1-m200x130.webp",
     "url": "/games/horse-simulator-3d",
-    "category": "Hayvan Simülasyonu",
+    "category": "Hayvan Simülasyon Oyunları",
     "visible": true
   },
   {
@@ -668,7 +668,7 @@
     "title": "Papa's Freezeria (Papa's Freezeria)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743322625066-4t6r2.png",
     "url": "/games/papa-s-freezeria",
-    "category": "Restoran Simülasyonu",
+    "category": "Restoran Oyunları",
     "visible": true
   },
   {
@@ -682,14 +682,14 @@
     "title": "Run 2 (Run 2)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743310474587-k44sb.png",
     "url": "/games/run-2",
-    "category": "Koşucu Oyunları",
+    "category": "Koşma Oyunları",
     "visible": true
   },
   {
     "title": "Octum (Octum)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743490403178-8nxtb8.jpg",
     "url": "/games/octum",
-    "category": "Mobil Oyunlar",
+    "category": "Strateji Oyunları",
     "visible": true
   },
   {
@@ -710,7 +710,7 @@
     "title": "Bad Ice Cream 3 (Bad Ice Cream 3)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743308151014-nmrem.png",
     "url": "/games/bad-ice-cream-3",
-    "category": "Mobil Oyunlar",
+    "category": "Bulmaca Oyunları",
     "visible": true
   },
   {
@@ -731,41 +731,48 @@
     "title": "Minibattles (Minibattles)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743308048951-prk8qu.png",
     "url": "/games/minibattles",
-    "category": "Aksiyon Oyunları",
+    "category": "Akış Oyunları",
     "visible": true
   },
   {
     "title": "Papa's Pastaria (Papa's Pastaria)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743322843395-qauuel.png",
     "url": "/games/papa-s-pastaria",
-    "category": "Restoran Simülasyonu",
+    "category": "Restoran Oyunları",
     "visible": true
   },
   {
     "title": "Run Rich 3D (Run Rich 3D)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743355352956-yws4z7.jpg",
     "url": "/games/run-rich-3d",
-    "category": "Mobil Oyunlar",
+    "category": "Simülasyon Oyunları",
     "visible": true
   },
   {
     "title": "Stickman Clash (Stickman Clash)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743486527778-smmhke.avif",
     "url": "/games/stickman-clash",
-    "category": "Aksiyon Oyunları",
+    "category": "Çatışma Oyunları",
     "visible": true
   },
   {
     "title": "Homescapes (Homescapes)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743490592507-5w1nmp.jpg",
     "url": "/games/homescapes",
-    "category": "Bulmaca Oyunları",
+    "category": "Mekân Oyunları",
     "visible": true
   },
   {
     "title": "Impostor.io (Impostor.io)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743311644527-dfigi.png",
     "url": "/games/impostor-io",
+    "category": "Takim Oyunları",
+    "visible": true
+  },
+  {
+    "title": "Paper.IO 2 (Paper.IO 2)",
+    "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743490890786-00lau.jpg",
+    "url": "/games/paper-io-2",
     "category": "Çevrimiçi Oyunlar",
     "visible": true
   },
@@ -773,28 +780,28 @@
     "title": "Bouncemasters (Bouncemasters)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743310191179-7wxght.png",
     "url": "/games/bouncemasters",
-    "category": "Aksiyon Oyunları",
+    "category": "Top Oyunları",
     "visible": true
   },
   {
     "title": "Raft Wars 2 (Raft Wars 2)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743307871693-1okp17.png",
     "url": "/games/raft-wars-2",
-    "category": "Çevrimiçi Oyunlar",
+    "category": "Su Oyunları",
     "visible": true
   },
   {
     "title": "Burrito Craft (Burrito Craft)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743310294881-4bnc3d.png",
     "url": "/games/burrito-craft",
-    "category": "Mobil Oyunlar",
+    "category": "Zanaat Oyunları",
     "visible": true
   },
   {
     "title": "Bomb It 7 (Bomb It 7)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743307734536-z1zpqi.png",
     "url": "/games/bomb-it-7",
-    "category": "Aksiyon Oyunları",
+    "category": "Patlatma Oyunları",
     "visible": true
   },
   {
@@ -815,7 +822,7 @@
     "title": "Swingo (Swingo)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743303825562-xxq9io.png",
     "url": "/games/swingo",
-    "category": "Mobil Oyunlar",
+    "category": "Ritmik Oyunlar",
     "visible": true
   },
   {
@@ -829,7 +836,7 @@
     "title": "Ooze Odyssey (Ooze Odyssey)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743310055154-a75g05.png",
     "url": "/games/ooze-odyssey",
-    "category": "Mobil Oyunlar",
+    "category": "Macera Oyunları",
     "visible": true
   },
   {
@@ -843,28 +850,28 @@
     "title": "Sausage Flip (Sausage Flip)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743304069378-baf9l.png",
     "url": "/games/sausage-flip",
-    "category": "Mobil Oyunlar",
+    "category": "Akış Oyunları",
     "visible": true
   },
   {
     "title": "Build Royale (Build Royale)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743311125501-37pfot.png",
     "url": "/games/build-royale",
-    "category": "Çevrimiçi Oyunlar",
+    "category": "Yapı Oyunları",
     "visible": true
   },
   {
     "title": "Papa's Pancakeria (Papa's Pancakeria)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743322458140-xuwd0y.png",
     "url": "/games/papa-s-pancakeria",
-    "category": "Restoran Simülasyonu",
+    "category": "Restoran Oyunları",
     "visible": true
   },
   {
     "title": "Among Us Online Edition (Among Us Online Edition)",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743489376291-c14b55.jpg",
     "url": "/games/among-us-online-edition",
-    "category": "Çevrimiçi Oyunlar",
+    "category": "Sosyal Oyunlar",
     "visible": true
   }
 ]
