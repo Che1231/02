@@ -1,0 +1,77 @@
+{
+  "penalty-shooters": {
+    "title": "ペナルティシューターズ - 無料オンラインサッカーゲーム",
+    "slogan": "お気に入りの漫画のスターと一緒に、フィールドに立ち、サッカーをプレイしましょう！",
+    "description": "ペナルティシューターズ、アクション満点のサッカーゲームを体験しましょう。得点し、素晴らしいパスを出し、チームを守り抜きます。エキサイティングな挑戦で他のキャラクターと競い合い、あなたのスキルを披露してください。ベテランプレイヤーであろうと初心者であろうと、ペナルティシューターズはあらゆる年齢のサッカーファンに無限のエンターテイメントを提供します。楽しいゲームに参加し、ピッチの伝説になりましょう！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "ペナルティシューターズ",
+      "description": "あらゆる年齢のファンにとって究極のサッカーゲーム、ペナルティシューターズをプレイしましょう。ゴールを決め、チームを守り、スリリングな試合に挑戦してください！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ペナルティシューターズ",
+      "whatIsTitle": "ペナルティシューターズとは？",
+      "whatIsDescription": "ペナルティシューターズは、お気に入りの漫画のスターと一緒にプレイできる、楽しくてアクション満点のサッカーゲームです。スリリングな試合を体験し、あなたのスキルを披露してください！",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "ボールをネットに当てて、ゴールを決めましょう。",
+      "howToPlayStep2": "相手からのシュートをブロックして、チームを守りましょう。",
+      "howToPlayStep3": "エキサイティングな挑戦で競い合い、究極のサッカーレジェンドを目指しましょう。",
+      "keyFeaturesTitle": "主な機能",
+      "feature1Title": "アクション満点の試合",
+      "feature1Description": "ペナルティシューターズでスリリングなサッカー試合を体験してください。",
+      "feature2Title": "スキルに基づいたゲームプレイ",
+      "feature2Description": "ゴールを決めて、チームを守り抜くことであなたのスキルを披露してください。",
+      "feature3Title": "エキサイティングな挑戦",
+      "feature3Description": "他のキャラクターとエキサイティングな挑戦で競い合いましょう。",
+      "feature4Title": "無限のエンターテイメント",
+      "feature4Description": "ペナルティシューターズは、あらゆる年齢のサッカーファンに無限の楽しみを提供します。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}
