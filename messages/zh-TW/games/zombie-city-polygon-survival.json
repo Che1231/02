@@ -1,0 +1,77 @@
+{
+  "zombie-city-polygon-survival": {
+    "title": "殭屍城市多邊形生存 - 免費線上動作射擊遊戲",
+    "slogan": "以風格度過末日",
+    "description": "《殭屍城市多邊形生存》是一款充滿動作的、多邊形風格的射擊遊戲，玩家需要在殭屍橫行的末日城市中穿梭。手持槍支，玩家必須生存下來，面對一波又一波的敵人，運用戰術策略和快速反應來清除每個區域。遊戲簡潔的圖形和激烈的戰鬥提供了令人興奮的生存遊戲體驗。準備檢驗您的技能了嗎？現在就玩《殭屍城市多邊形生存》！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "殭屍城市多邊形生存",
+      "description": "在《殭屍城市多邊形生存》中體驗末日世界生存的刺激。參與激烈的戰鬥，制定您的策略，並在無情的殭屍浪潮中生存。現在就開始遊戲，看看您能否活下來！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "殭屍城市多邊形生存",
+      "whatIsTitle": "什麼是殭屍城市多邊形生存？",
+      "whatIsDescription": "《殭屍城市多邊形生存》是一款多邊形風格的射擊遊戲，設置在殭屍橫行的末日城市中。玩家必須運用策略和快速反應來生存下來，面對一波又一波的敵人。",
+      "howToPlayTitle": "如何遊戲",
+      "howToPlayStep1": "使用 WASD 鍵移動您的角色。",
+      "howToPlayStep2": "使用滑鼠瞄準並射擊殭屍。",
+      "howToPlayStep3": "生存下來，清除每個區域。",
+      "keyFeaturesTitle": "主要特點",
+      "feature1Title": "多邊形風格圖形",
+      "feature1Description": "享受簡潔的多邊形風格圖形，提升遊戲獨特的氛圍。",
+      "feature2Title": "激烈戰鬥",
+      "feature2Description": "參與快速而激烈的戰鬥，對抗無情的殭屍浪潮。",
+      "feature3Title": "戰略",
+      "feature3Description": "運用戰術來巧妙地超越和擊敗您的敵人。",
+      "feature4Title": "生存遊戲",
+      "feature4Description": "在殭屍橫行的末日城市中測試您的生存技能。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦遊戲"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

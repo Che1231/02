@@ -1,0 +1,77 @@
+{
+  "zombie-city-polygon-survival": {
+    "title": "좀비 도시 폴리곤 생존 - 무료 온라인 액션 슈팅",
+    "slogan": "스타일로 아포칼립스를 생존하세요",
+    "description": "좀비 도시 폴리곤 생존은 좀비로 가득 찬 종말 이후 도시를 탐색하는 플레이어를 위한 액션 가득한 폴리곤 스타일 슈팅 게임입니다. 총기를 장착한 플레이어는 끊임없이 몰려드는 적들과 맞서 싸워야 하며, 전술적인 전략과 빠른 반응 속도를 활용하여 각 지역을 정리해야 합니다. 게임의 미니멀한 그래픽과 강렬한 전투는 짜릿한 생존 게임 경험을 선사합니다. 당신의 기술을 테스트할 준비가 되셨나요? 지금 바로 좀비 도시 폴리곤 생존을 플레이하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "컨텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "좀비 도시 폴리곤 생존",
+      "description": "좀비 도시 폴리곤 생존과 함께 종말 이후 세계에서 생존의 짜릿함을 경험해보세요. 치열한 전투에 참여하고, 전략적으로 움직이며, 끊임없이 몰려드는 좀비들과 맞서 싸워 생존해보세요. 지금 플레이하고 살아남을 수 있을지 확인해보세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "좀비 도시 폴리곤 생존",
+      "whatIsTitle": "좀비 도시 폴리곤 생존이란 무엇인가요?",
+      "whatIsDescription": "좀비 도시 폴리곤 생존은 좀비로 가득 찬 종말 이후 도시를 배경으로 한 폴리곤 스타일의 슈팅 게임입니다. 플레이어는 전략과 빠른 반응 속도를 사용하여 몰려드는 적들을 상대로 생존해야 합니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "WASD 키를 사용하여 캐릭터를 이동하세요.",
+      "howToPlayStep2": "마우스를 사용하여 좀비를 조준하고 사격하세요.",
+      "howToPlayStep3": "적들의 공격을 버텨내고 각 지역을 정리하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "폴리곤 스타일 그래픽",
+      "feature1Description": "게임의 독특한 분위기를 더욱 강조하는 최소한적이고 폴리곤 스타일의 그래픽을 즐겨보세요.",
+      "feature2Title": "강렬한 전투",
+      "feature2Description": "끊임없이 몰려드는 좀비들과 격렬한 전투를 벌이세요.",
+      "feature3Title": "전략적인 전투",
+      "feature3Description": "전략적인 전투를 통해 적들을 제압하고 이겨내세요.",
+      "feature4Title": "생존 게임",
+      "feature4Description": "좀비로 가득 찬 종말 이후 도시에서 생존 능력을 시험해보세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문(FAQ)"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}
