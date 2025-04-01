@@ -1,0 +1,77 @@
+{
+  "tanks": {
+    "title": "Tanklar - Destansı Tank Savaşlarında Savaş Alanına Hükmedin",
+    "slogan": "Tanklarla Savaş Alanına Hükmedin!",
+    "description": "Sadece en güçlülerin hayatta kaldığı hızlı tempolu, 2D yukarıdan aşağıya nişancı oyunu Tanks'ın patlayıcı dünyasına girin! Güçlü tankların kontrolünü elinize alın, yoğun savaşlara katılın ve stratejik kaçma, kalkanlar ve çevresel avantajlarla düşmanlarınızı alt edin. Düşmanlarınızı Vurun – Sizi alt etmeden önce düşman tanklarını yok etmek için bir silah cephaneliği kullanın! Savunun ve Kaçın – Kendinizi koruyun ve savaşta kalmak için ölümcül mermilerin arasından geçin. Yükseltin ve Fethedin – Tankınızı geliştirmek, yıkıcı ateş gücünün kilidini açmak ve durdurulamaz hale gelmek için para kazanın. Bağımlılık Yapan Oynanış – Hızlı, yoğun ve aksiyon dolu!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Oluşturma Zamanı",
+      "guide": "Rehber",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Anasayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Tanklar - Savaş Alanına Hükmedin",
+      "description": "Tanks'ta tank savaşlarının heyecanını yaşayın! Güçlü tankların kontrolünü elinize alın, yoğun savaşlara katılın ve stratejik kaçma, kalkanlar ve çevresel avantajlarla düşmanlarınızı alt edin. Tankınızı yükseltin, yıkıcı ateş gücünün kilidini açın ve durdurulamaz hale gelin. Hemen oynayın ve savaş alanına hükmedin!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Tanklar - Savaş Alanına Hükmedin",
+      "whatIsTitle": "Tanklar Nedir?",
+      "whatIsDescription": "Tanks, güçlü tankların kontrolünü ele geçirdiğiniz ve yoğun savaşlara katıldığınız hızlı tempolu bir 2D yukarıdan aşağıya nişancı oyunudur. Stratejik kaçma, kalkanlar ve çevresel avantajlarla düşmanlarınızı alt edin. Bir silah cephaneliği ile düşmanlarınızı vurun ve nihai tank komutanı olun!",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Tankınızın kontrolünü elinize alın ve savaş alanında gezinin.",
+      "howToPlayStep2": "Düşman tanklarını yok etmek için silah cephaneliğinizi kullanın.",
+      "howToPlayStep3": "Tankınızı yükseltin ve durdurulamaz hale gelmek için yıkıcı ateş gücünün kilidini açın.",
+      "keyFeaturesTitle": "Temel Özellikler",
+      "feature1Title": "Yoğun Savaşlar",
+      "feature1Description": "Hızlı tempolu, aksiyon dolu tank savaşlarına katılın.",
+      "feature2Title": "Stratejik Oynanış",
+      "feature2Description": "Düşmanlarınızı alt etmek için stratejik kaçma, kalkanlar ve çevresel avantajlar kullanın.",
+      "feature3Title": "Yükseltme Sistemi",
+      "feature3Description": "Tankınızı geliştirmek ve yıkıcı ateş gücünün kilidini açmak için para kazanın.",
+      "feature4Title": "Bağımlılık Yapan Oynanış",
+      "feature4Description": "Sizi daha fazlası için geri getiren hızlı, yoğun ve bağımlılık yapan oynanışı deneyimleyin."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategori bulunamadı",
+      "viewMore": "Daha Fazla Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

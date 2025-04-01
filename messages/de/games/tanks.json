@@ -1,0 +1,77 @@
+{
+  "tanks": {
+    "title": "Panzer - Erobern Sie das Schlachtfeld in epischen Panzerschlachten",
+    "slogan": "Erobern Sie das Schlachtfeld mit Panzern!",
+    "description": "Betreten Sie die explosive Welt von Panzer, einem rasanten 2D-Shooter von oben nach unten, in dem nur die Stärksten überleben! Übernehmen Sie die Kontrolle über mächtige Panzer, beteiligen Sie sich an intensiven Schlachten und überlisten Sie Feinde mit strategischem Ausweichen, Schilden und Geländevorteilen. Zerstören Sie Ihre Feinde – Nutzen Sie ein Arsenal an Waffen, um feindliche Panzer zu vernichten, bevor diese Sie niederringen! Verteidigen & Ausweichen – Schützen Sie sich und manövrieren Sie durch tödliche Projektile, um im Kampf zu bleiben. Verbessern & Erobern – Verdienen Sie Münzen, um Ihren Panzer zu verbessern, verheerende Feuerkraft freizuschalten und unaufhaltsam zu werden. Suchtendes Gameplay – Schnell, intensiv und actiongeladen!",
+    "Loading": {
+      "title": "Lädt..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Leitfaden",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Panzer - Erobern Sie das Schlachtfeld",
+      "description": "Erleben Sie den Nervenkitzel von Panzerschlachten in Panzer! Übernehmen Sie die Kontrolle über mächtige Panzer, beteiligen Sie sich an intensiven Schlachten und überlisten Sie Feinde mit strategischem Ausweichen, Schilden und Geländevorteilen. Verbessern Sie Ihren Panzer, schalten Sie verheerende Feuerkraft frei und werden Sie unaufhaltsam. Spielen Sie jetzt und erobern Sie das Schlachtfeld!",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Panzer - Erobern Sie das Schlachtfeld",
+      "whatIsTitle": "Was ist Panzer?",
+      "whatIsDescription": "Panzer ist ein rasanter 2D-Shooter von oben nach unten, in dem Sie die Kontrolle über mächtige Panzer übernehmen und an intensiven Schlachten teilnehmen. Überlisten Sie Feinde mit strategischem Ausweichen, Schilden und Geländevorteilen. Zerstören Sie Ihre Gegner mit einem Arsenal an Waffen und werden Sie zum ultimativen Panzerkommandanten!",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Übernehmen Sie die Kontrolle über Ihren Panzer und navigieren Sie auf dem Schlachtfeld.",
+      "howToPlayStep2": "Verwenden Sie Ihr Waffenarsenal, um feindliche Panzer zu zerstören.",
+      "howToPlayStep3": "Verbessern Sie Ihren Panzer und schalten Sie verheerende Feuerkraft frei, um unaufhaltsam zu werden.",
+      "keyFeaturesTitle": "Wichtigste Funktionen",
+      "feature1Title": "Intensive Schlachten",
+      "feature1Description": "Nehmen Sie an rasanten, actiongeladenen Panzerschlachten teil.",
+      "feature2Title": "Strategisches Gameplay",
+      "feature2Description": "Nutzen Sie strategisches Ausweichen, Schilde und Geländevorteile, um Feinde zu überlisten.",
+      "feature3Title": "Verbesserungssystem",
+      "feature3Description": "Verdienen Sie Münzen, um Ihren Panzer zu verbessern und verheerende Feuerkraft freizuschalten.",
+      "feature4Title": "Süchtiges Gameplay",
+      "feature4Description": "Erleben Sie schnelles, intensives und süchtiges Gameplay, das Sie immer wieder zurückkehren lässt."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spiel-Kommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

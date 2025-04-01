@@ -1,0 +1,77 @@
+{
+  "tanks": {
+    "title": "Tanques - Domine o Campo de Batalha em Épicas Batalhas de Tanques",
+    "slogan": "Domine o Campo de Batalha em Tanques!",
+    "description": "Entre no explosivo mundo de Tanques, um jogo de tiro de cima para baixo em 2D de ritmo acelerado, onde apenas os mais fortes sobrevivem! Assuma o controle de tanques poderosos, envolva-se em batalhas intensas e supere os inimigos com esquiva estratégica, escudos e vantagens ambientais. Exploda seus Inimigos - Use um arsenal de armas para destruir tanques inimigos antes que eles o derrotem! Defenda e Escale - Proteja-se e navegue por projéteis mortais para permanecer na luta. Aprimore e Conquiste - Ganhe moedas para aprimorar seu tanque, desbloqueie poder de fogo devastador e torne-se imparável. Jogabilidade viciante - Rápido, intenso e cheio de ação!",
+    "Loading": {
+      "title": "Carregando..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criar em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Úteis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Tanques - Domine o Campo de Batalha",
+      "description": "Experimente a emoção das batalhas de tanques em Tanques! Assuma o controle de tanques poderosos, envolva-se em batalhas intensas e supere os inimigos com esquiva estratégica, escudos e vantagens ambientais. Aprimore seu tanque, desbloqueie poder de fogo devastador e torne-se imparável. Jogue agora e domine o campo de batalha!",
+      "iframeTitle": "Pré-visualização do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Tanques - Domine o Campo de Batalha",
+      "whatIsTitle": "O que são Tanques?",
+      "whatIsDescription": "Tanques é um jogo de tiro de cima para baixo em 2D de ritmo acelerado, onde você assume o controle de tanques poderosos e se envolve em batalhas intensas. Supere os inimigos com esquiva estratégica, escudos e vantagens ambientais. Exploda seus inimigos com um arsenal de armas e torne-se o comandante de tanques definitivo!",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Assuma o controle de seu tanque e navegue pelo campo de batalha.",
+      "howToPlayStep2": "Use seu arsenal de armas para destruir tanques inimigos.",
+      "howToPlayStep3": "Aprimore seu tanque e desbloqueie poder de fogo devastador para se tornar invencível.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Batalhas Intensas",
+      "feature1Description": "Envolva-se em batalhas de tanques rápidas e cheias de ação.",
+      "feature2Title": "Jogabilidade Estratégica",
+      "feature2Description": "Use esquiva estratégica, escudos e vantagens ambientais para superar os inimigos.",
+      "feature3Title": "Sistema de Aprimoramento",
+      "feature3Description": "Ganhe moedas para aprimorar seu tanque e desbloquear poder de fogo devastador.",
+      "feature4Title": "Jogabilidade Viciante",
+      "feature4Description": "Experimente uma jogabilidade rápida, intensa e viciante que o manterá voltando para mais."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

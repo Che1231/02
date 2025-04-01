@@ -1,0 +1,77 @@
+{
+  "tanks": {
+    "title": "Xe tăng - Chiếm lĩnh chiến trường trong các trận chiến xe tăng kịch tính",
+    "slogan": "Chiếm lĩnh chiến trường trên xe tăng!",
+    "description": "Bước vào thế giới đầy khói lửa của Xe tăng, một tựa game bắn súng góc nhìn trên xuống 2D nhanh nhạy, nơi chỉ những kẻ mạnh nhất mới sống sót! Điều khiển những chiếc xe tăng mạnh mẽ, tham gia vào các trận chiến khốc liệt, và vượt mặt kẻ thù bằng những cú né tránh chiến lược, lá chắn và lợi thế môi trường. Phá hủy kẻ thù của bạn – Sử dụng kho vũ khí để tiêu diệt xe tăng địch trước khi chúng hạ gục bạn! Phòng thủ & Né tránh – Bảo vệ bản thân và len lỏi qua những đạn đạo chết người để tiếp tục chiến đấu. Nâng cấp & Chiến thắng – Kiếm tiền xu để nâng cấp xe tăng của bạn, mở khóa sức mạnh hủy diệt và trở nên bất khả chiến bại. Gameplay gây nghiện – Nhanh, kịch tính và đầy hành động!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Đọc"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu nghị",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Xe tăng - Chiếm lĩnh chiến trường",
+      "description": "Trải nghiệm cảm giác hồi hộp của các trận chiến xe tăng trong Xe tăng! Điều khiển những chiếc xe tăng mạnh mẽ, tham gia vào các trận chiến khốc liệt, và vượt mặt kẻ thù bằng những cú né tránh chiến lược, lá chắn và lợi thế môi trường. Nâng cấp xe tăng của bạn, mở khóa sức mạnh hủy diệt và trở nên bất khả chiến bại. Chơi ngay và chiếm lĩnh chiến trường!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào clipboard!",
+      "downloadGame": "Tải game",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Xe tăng - Chiếm lĩnh chiến trường",
+      "whatIsTitle": "Xe tăng là gì?",
+      "whatIsDescription": "Xe tăng là một tựa game bắn súng góc nhìn trên xuống 2D nhanh nhạy, bạn điều khiển xe tăng mạnh mẽ tham gia vào các trận chiến khốc liệt. Vượt mặt kẻ thù bằng những cú né tránh chiến lược, lá chắn và lợi thế môi trường. Phá hủy kẻ thù bằng vũ khí và trở thành chỉ huy xe tăng vĩ đại!",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Điều khiển xe tăng của bạn và di chuyển trên chiến trường.",
+      "howToPlayStep2": "Sử dụng kho vũ khí của bạn để tiêu diệt xe tăng địch.",
+      "howToPlayStep3": "Nâng cấp xe tăng của bạn và mở khóa sức mạnh hủy diệt để trở nên bất khả chiến bại.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Trận chiến kịch liệt",
+      "feature1Description": "Tham gia vào các trận chiến xe tăng nhanh nhạy, đầy hành động.",
+      "feature2Title": "Gameplay chiến lược",
+      "feature2Description": "Sử dụng những cú né tránh chiến lược, lá chắn và lợi thế môi trường để vượt mặt kẻ thù.",
+      "feature3Title": "Hệ thống nâng cấp",
+      "feature3Description": "Kiếm tiền xu để nâng cấp xe tăng của bạn và mở khóa sức mạnh hủy diệt.",
+      "feature4Title": "Gameplay gây nghiện",
+      "feature4Description": "Trải nghiệm gameplay nhanh, kịch tính và gây nghiện, khiến bạn muốn chơi thêm!"
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video game"
+    },
+    "HomeRecommendation": {
+      "title": "Khuyến nghị"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các thể loại",
+      "noCategories": "Không tìm thấy thể loại nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

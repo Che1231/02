@@ -1,0 +1,77 @@
+{
+  "tanks": {
+    "title": "坦克 - 在史詩般的坦克戰鬥中掌控戰場",
+    "slogan": "在坦克中掌控戰場！",
+    "description": "進入坦克的爆炸性世界，這是一款快速節奏的 2D 頂視射擊遊戲，只有最強者才能生存！控制強大的坦克，參與激烈的戰鬥，並利用戰略性的閃避、護盾和環境優勢來巧妙擊敗敵人。摧毀你的敵人 - 使用一系列武器來摧毀敵方坦克，以免他們擊敗你！防禦和閃避 - 保護自己並穿過致命的射擊物體，繼續戰鬥。升級並征服 - 賺取金幣來強化你的坦克，解鎖毀滅性的火力，並變得無敵。上癮的遊戲體驗 - 快速、激烈且充滿動作！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "坦克 - 主宰戰場",
+      "description": "在坦克中體驗坦克戰鬥的刺激！控制強大的坦克，參與激烈的戰鬥，並利用戰略性的閃避、護盾和環境優勢來巧妙擊敗敵人。升級你的坦克，解鎖毀滅性的火力，並變得無敵。現在開始遊戲並掌控戰場！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "坦克 - 主宰戰場",
+      "whatIsTitle": "坦克是什麼？",
+      "whatIsDescription": "坦克是一款快速節奏的 2D 頂視射擊遊戲，您將控制強大的坦克並參與激烈的戰鬥。利用戰略性的閃避、護盾和環境優勢來巧妙擊敗敵人。用一系列武器摧毀敵人，成為最終的坦克指揮官！",
+      "howToPlayTitle": "如何遊戲",
+      "howToPlayStep1": "控制你的坦克並駕馭戰場。",
+      "howToPlayStep2": "使用你的武器庫摧毀敵方坦克。",
+      "howToPlayStep3": "升級你的坦克並解鎖毀滅性的火力，變得無敵。",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "激烈戰鬥",
+      "feature1Description": "參與快速節奏、動作緊張的坦克戰鬥。",
+      "feature2Title": "戰略遊戲",
+      "feature2Description": "使用戰略性的閃避、護盾和環境優勢來巧妙擊敗敵人。",
+      "feature3Title": "升級系統",
+      "feature3Description": "賺取金幣來強化你的坦克並解鎖毀滅性的火力。",
+      "feature4Title": "上癮的遊戲體驗",
+      "feature4Description": "體驗快速、激烈且上癮的遊戲體驗，讓您一次又一次地回味無窮。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到分類",
+      "viewMore": "檢視更多",
+      "page": "頁面"
+    }
+  }
+}

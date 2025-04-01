@@ -1,0 +1,77 @@
+{
+  "tanks": {
+    "title": "坦克 - 在史诗般的坦克战中统治战场",
+    "slogan": "在坦克中统治战场！",
+    "description": "进入充满爆炸的坦克世界，这是一个快节奏的2D俯视射击游戏，只有最强大的才能生存！控制强大的坦克，参与激烈的战斗，并利用战略性的躲避、护盾和环境优势来超越敌人。摧毁你的敌人——使用各种武器摧毁敌方坦克，以免他们击败你！防御和躲避——保护自己，穿梭于致命的弹丸之中，继续战斗。升级并征服——赚取金币来增强你的坦克，解锁毁灭性的火力，变得势不可挡。上瘾的游戏体验——快速、强烈且充满动作！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一个",
+      "previous": "上一个"
+    },
+    "HomeIframe": {
+      "title": "坦克 - 统治战场",
+      "description": "体验坦克中坦克大战的刺激！控制强大的坦克，参与激烈的战斗，并利用战略性的躲避、护盾和环境优势来超越敌人。升级你的坦克，解锁毁灭性的火力，变得势不可挡。现在开始游戏，统治战场！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "坦克 - 统治战场",
+      "whatIsTitle": "坦克是什么？",
+      "whatIsDescription": "坦克是一款快节奏的2D俯视射击游戏，让你控制强大的坦克，参与激烈的战斗。利用战略性的躲避、护盾和环境优势来超越敌人。用各种武器摧毁敌人，成为最终的坦克指挥官！",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "控制你的坦克并驾驭战场。",
+      "howToPlayStep2": "使用你的武器库摧毁敌方坦克。",
+      "howToPlayStep3": "升级你的坦克并解锁毁灭性的火力，变得势不可挡。",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "激烈战斗",
+      "feature1Description": "参与快节奏、充满动作的坦克战斗。",
+      "feature2Title": "战略性游戏玩法",
+      "feature2Description": "利用战略性的躲避、护盾和环境优势来超越敌人。",
+      "feature3Title": "升级系统",
+      "feature3Description": "赚取金币来增强你的坦克，并解锁毁灭性的火力。",
+      "feature4Title": "上瘾的游戏体验",
+      "feature4Description": "体验快速、强烈且上瘾的游戏体验，让你不断玩下去。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页数"
+    }
+  }
+}

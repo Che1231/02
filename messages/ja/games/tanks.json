@@ -1,0 +1,77 @@
+{
+  "tanks": {
+    "title": "戦車 - エピックタンクバトルで戦場を支配する",
+    "slogan": "戦車で戦場を支配せよ！",
+    "description": "爆発的な戦車の世界、戦車に入り、速いペースで2Dトップダウンシューター、最強の生き残るだけ！強力な戦車の制御、激しい戦闘に参加し、戦略的な回避、シールド、環境上の利点を持って敵を出し抜く。敵の戦車を破壊する前に、あなたの敵を破壊するために武器のアーセナルを使用してください！戦場で戦い続けるために、自分自身を保護し、致命的な弾丸を織り込んでください。戦車強化コインを獲得し、壊滅的な火力を開放し、止められない存在に！中毒性のあるゲームプレイ - 素晴らしい、激しい、そしてアクション満点！",
+    "Loading": {
+      "title": "ロード中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "戦車 - 戦場を支配する",
+      "description": "戦車での戦車戦闘の興奮を体験！強力な戦車の制御、激しい戦闘に参加し、戦略的な回避、シールド、環境上の利点を持って敵を出し抜く。あなたの戦車をアップグレードし、壊滅的な火力を開放し、止められない存在に。今すぐプレイして、戦場を支配せよ！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "戦車 - 戦場を支配する",
+      "whatIsTitle": "戦車とは？",
+      "whatIsDescription": "戦車は、強力な戦車の制御、激しい戦闘に参加する、速いペースの2Dトップダウンシューターです。戦略的な回避、シールド、環境上の利点を持って敵を出し抜いてください。武器のアーセナルであなたの敵を破壊し、究極の戦車司令官になりましょう！",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "あなたの戦車を制御して戦場を移動してください。",
+      "howToPlayStep2": "武器のアーセナルを使用して敵の戦車を破壊してください。",
+      "howToPlayStep3": "あなたの戦車をアップグレードし、破壊的な火力を開放して、止められない存在にしましょう。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "激しい戦闘",
+      "feature1Description": "速いペースでアクション満点の戦車戦闘に参加してください。",
+      "feature2Title": "戦略的なゲームプレイ",
+      "feature2Description": "戦略的な回避、シールド、環境上の利点を使って敵を出し抜く。",
+      "feature3Title": "アップグレードシステム",
+      "feature3Description": "コインを獲得してあなたの戦車を強化し、壊滅的な火力を開放します。",
+      "feature4Title": "中毒性のあるゲームプレイ",
+      "feature4Description": "あなたをもっと遊び続けさせる、速く、激しく、中毒性のあるゲームプレイを体験してください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイヤーコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリ",
+      "noCategories": "カテゴリが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

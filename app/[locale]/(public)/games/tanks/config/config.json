@@ -1,0 +1,120 @@
+{
+  "name": "Tanks",
+  "pagePath": "/games/tanks",
+  "pageName": "tanks",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://html5.gamemonetize.co/cfn9xlk5tka8b4v7gz255k7tcqesqali/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken87.png",
+      "content": "Tanks is awesome! Dodging projectiles and blasting enemies is so addictive! Can't stop playing!"
+    },
+    {
+      "author": "SavageBroadsword_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBroadsword_X.png",
+      "content": "The upgrades in Tanks are insane! Makes you feel unstoppable! Worth every penny."
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Seriously, how much fun is this game? Environmental advantages add a cool twist to the battles!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Why are the battles so intense?! My heart can't take it, but I love it!"
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "The 2D top-down view is surprisingly engaging. Love the fast-paced action!"
+    },
+    {
+      "author": "PhantomPhoenix42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix42.png",
+      "content": "Shielding is key! But sometimes I still get wrecked haha. Good game tho."
+    },
+    {
+      "author": "AdjectiveKatana_V",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AdjectiveKatana_V.png",
+      "content": "Tanks is pretty rad. Easy to pick up, hard to master. Addictive gameplay for sure."
+    },
+    {
+      "author": "AmongUsSus99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AmongUsSus99.png",
+      "content": "I can't believe how much firepower you can unlock. The progression is very satisfying."
+    },
+    {
+      "author": "NeOnLeviathan22",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeOnLeviathan22.png",
+      "content": "Is it just me, or are the controls super smooth? Makes dodging so much easier."
+    },
+    {
+      "author": "CosmicRevolver_Z",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicRevolver_Z.png",
+      "content": "This game slaps! The arsenal variety keeps things fresh. Never a dull moment."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743498027329-jblxca.jpg",
+  "page_path": "/games/tanks",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Racing"
+  ],
+  "createdTime": "2025-04-01 17:00:25"
+}

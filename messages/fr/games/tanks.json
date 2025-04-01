@@ -1,0 +1,77 @@
+{
+  "tanks": {
+    "title": "Chars - Dominez le champ de bataille dans les batailles de chars épiques",
+    "slogan": "Dominez le champ de bataille dans les chars !",
+    "description": "Entrez dans le monde explosif de Chars, un jeu de tir 2D à vue de dessus rapide où seuls les plus forts survivent ! Prenez le contrôle de chars puissants, engagez-vous dans des batailles intenses et déjouez les ennemis grâce à des esquives stratégiques, des boucliers et des avantages environnementaux. Frappez vos ennemis - Utilisez un arsenal d'armes pour détruire les chars ennemis avant qu'ils ne vous atteignent ! Défense et esquive - Protégez-vous et déjouez les projectiles mortels pour rester en action. Amélioration et conquête - Gagnez des pièces pour améliorer votre char, débloquez une puissance dévastatrice et devenez invincible. Jeu addictif - Rapide, intense et plein d'action !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Chars - Dominez le champ de bataille",
+      "description": "Découvrez le frisson des batailles de chars dans Chars ! Prenez le contrôle de chars puissants, engagez-vous dans des batailles intenses et déjouez les ennemis grâce à des esquives stratégiques, des boucliers et des avantages environnementaux. Améliorez votre char, débloquez une puissance dévastatrice et devenez invincible. Jouez maintenant et dominez le champ de bataille !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Chars - Dominez le champ de bataille",
+      "whatIsTitle": "Qu'est-ce que Chars ?",
+      "whatIsDescription": "Chars est un jeu de tir 2D à vue de dessus rapide où vous prenez le contrôle de chars puissants et vous engagez dans des batailles intenses. Déjouez les ennemis grâce à des esquives stratégiques, des boucliers et des avantages environnementaux. Frappez vos ennemis avec un arsenal d'armes et devenez le commandant de char ultime!",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Prenez le contrôle de votre char et naviguez sur le champ de bataille.",
+      "howToPlayStep2": "Utilisez votre arsenal d'armes pour détruire les chars ennemis.",
+      "howToPlayStep3": "Améliorez votre char et débloquez une puissance dévastatrice pour devenir invincible.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Batailles intenses",
+      "feature1Description": "Engagez-vous dans des batailles de chars rapides et pleines d'action.",
+      "feature2Title": "Jeu stratégique",
+      "feature2Description": "Utilisez des esquives stratégiques, des boucliers et des avantages environnementaux pour déjouer les ennemis.",
+      "feature3Title": "Système d'amélioration",
+      "feature3Description": "Gagnez des pièces pour améliorer votre char et débloquer une puissance dévastatrice.",
+      "feature4Title": "Jeu addictif",
+      "feature4Description": "Découvrez un gameplay rapide, intense et addictif qui vous ramènera encore et encore."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "tanks": {
+    "title": "Tanques: Domina el Campo de Batalla en Épicas Batallas de Tanques",
+    "slogan": "¡Domina el Campo de Batalla en Tanques!",
+    "description": "Entra en el explosivo mundo de Tanques, un juego de disparos 2D de arriba hacia abajo de ritmo rápido donde solo los más fuertes sobreviven. ¡Toma el control de poderosos tanques, participa en intensas batallas y supera a los enemigos con esquivadas estratégicas, escudos y ventajas ambientales! ¡Destruye a tus enemigos – Usa un arsenal de armas para destruir los tanques enemigos antes de que te derriben! ¡Defiende y esquívate – Escóndete detrás de tu escudo y deslízate entre proyectiles mortales para mantenerte en la pelea! ¡Mejora y conquista – Gana monedas para mejorar tu tanque, desbloquea un poder destructivo y conviértete en imparable! ¡Jugabilidad adictiva – ¡Rápido, intenso y lleno de acción!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Términos de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Tanques: Domina el Campo de Batalla",
+      "description": "¡Experimenta la emoción de las batallas de tanques en Tanques! ¡Toma el control de poderosos tanques, participa en batallas intensas y supera a los enemigos con esquivadas estratégicas, escudos y ventajas ambientales! ¡Mejora tu tanque, desbloquea un poder destructivo y conviértete en imparable! ¡Juega ahora y domina el campo de batalla!",
+      "iframeTitle": "Vista Previa del Juego",
+      "fullscreenButton": "Pantalla Completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar Juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Tanques: Domina el Campo de Batalla",
+      "whatIsTitle": "¿Qué son los Tanques?",
+      "whatIsDescription": "Tanques es un juego de disparos 2D de arriba hacia abajo de ritmo rápido en el que tomas el control de poderosos tanques y participas en batallas intensas. Supera a los enemigos con esquivadas estratégicas, escudos y ventajas ambientales. ¡Destruye a tus enemigos con un arsenal de armas y conviértete en el comandante de tanques definitivo!",
+      "howToPlayTitle": "Cómo Jugar",
+      "howToPlayStep1": "Toma el control de tu tanque y navega por el campo de batalla.",
+      "howToPlayStep2": "Usa tu arsenal de armas para destruir los tanques enemigos.",
+      "howToPlayStep3": "Mejora tu tanque y desbloquea un poder destructivo para volverte imparable.",
+      "keyFeaturesTitle": "Características Clave",
+      "feature1Title": "Batallas Intensas",
+      "feature1Description": "Participa en rápidas y llenas de acción batallas de tanques.",
+      "feature2Title": "Jugabilidad Estratégica",
+      "feature2Description": "Utiliza esquivadas estratégicas, escudos y ventajas ambientales para superar a los enemigos.",
+      "feature3Title": "Sistema de Mejora",
+      "feature3Description": "Gana monedas para mejorar tu tanque y desbloquear un poder destructivo.",
+      "feature4Title": "Jugabilidad Adictiva",
+      "feature4Description": "Experimenta una jugabilidad rápida, intensa y adictiva que te hará volver por más."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del Juego"
+    },
+    "GamePage": {
+      "title": "Todos los Juegos",
+      "description": "Todos los Juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver Más",
+      "page": "Página"
+    }
+  }
+}
