@@ -1,0 +1,1 @@
+Paper Doll Diary: Doll DressUp is a delightful fusion of classic paper doll charm and modern fashion fun. Unleash your creativity as you design stunning outfits and style your enchanting paper doll. With endless possibilities, this game invites you to become the ultimate fashion stylist in a world filled with imagination and charm.
