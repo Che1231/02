@@ -1,0 +1,77 @@
+{
+  "kingdom-puzzles": {
+    "title": "Jeux de Royaume : Jeu cérébral relaxant",
+    "slogan": "Défiez votre esprit avec les Jeux de Royaume",
+    "description": "Kingdom Puzzles est un jeu cérébral relaxant où vous placez des rois sur une grille, en suivant des règles spécifiques. Chaque région ne peut contenir qu'un seul roi, et ils ne peuvent pas se trouver dans la même ligne, la même colonne ou sur des tuiles adjacentes. Mettez vos compétences en logique et en stratégie à l'épreuve pour gagner ! Jouez à Kingdom Puzzles et appréciez le défi.",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de Confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des Articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Jeux de Royaume",
+      "description": "Placez stratégiquement les rois pour gagner dans Kingdom Puzzles. Chaque région ne peut contenir qu'un seul roi, et ils ne peuvent pas se trouver dans la même ligne, la même colonne ou sur des tuiles adjacentes. Jouez maintenant et appréciez le défi !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Jeux de Royaume",
+      "whatIsTitle": "Qu'est-ce que Kingdom Puzzles ?",
+      "whatIsDescription": "Kingdom Puzzles est un jeu cérébral relaxant où vous placez des rois sur une grille, en suivant des règles spécifiques. Chaque région ne peut contenir qu'un seul roi, et ils ne peuvent pas se trouver dans la même ligne, la même colonne ou sur des tuiles adjacentes.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Placez un roi dans chaque région.",
+      "howToPlayStep2": "Assurez-vous que les rois ne se trouvent pas dans la même ligne ou la même colonne.",
+      "howToPlayStep3": "Assurez-vous que les rois ne sont pas adjacents les uns aux autres.",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Placement stratégique",
+      "feature1Description": "Placez les rois stratégiquement pour gagner.",
+      "feature2Title": "Gameplay relaxant",
+      "feature2Description": "Profitez d'une expérience de jeu cérébral relaxante.",
+      "feature3Title": "Défiez votre esprit",
+      "feature3Description": "Mettez vos compétences en logique et en stratégie à l'épreuve.",
+      "feature4Title": "Plusieurs niveaux",
+      "feature4Description": "Parcourez plusieurs niveaux stimulants."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

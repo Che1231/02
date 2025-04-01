@@ -1,0 +1,77 @@
+{
+  "kingdom-puzzles": {
+    "title": "Kingdom Puzzles: Jogo Relaxante de Quebra-Cabeças Mental",
+    "slogan": "Desafie a Sua Mente com os Puzzles do Reino",
+    "description": "Kingdom Puzzles é um jogo relaxante de quebra-cabeças mentais onde você posiciona reis em uma grade, seguindo regras específicas. Cada região só pode ter um rei, e eles não podem estar na mesma linha, coluna ou em azulejos adjacentes. Teste sua lógica e estratégia para vencer! Jogue Kingdom Puzzles agora e aproveite o desafio.",
+    "Loading": {
+      "title": "Carregando..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado Em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Amigáveis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Kingdom Puzzles",
+      "description": "Posicione os reis estrategicamente para vencer em Kingdom Puzzles. Cada região só pode ter um rei, e eles não podem estar na mesma linha, coluna ou em azulejos adjacentes. Jogue agora e divirta-se com o desafio!",
+      "iframeTitle": "Pré-visualização do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Kingdom Puzzles",
+      "whatIsTitle": "O que é Kingdom Puzzles?",
+      "whatIsDescription": "Kingdom Puzzles é um jogo relaxante de quebra-cabeças mentais onde você posiciona reis em uma grade, seguindo regras específicas. Cada região só pode ter um rei, e eles não podem estar na mesma linha, coluna ou em azulejos adjacentes.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Coloque um rei em cada região.",
+      "howToPlayStep2": "Certifique-se de que os reis não estejam na mesma linha ou coluna.",
+      "howToPlayStep3": "Certifique-se de que os reis não estejam adjacentes uns aos outros.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Colocação Estratégica",
+      "feature1Description": "Posicione os reis estrategicamente para vencer.",
+      "feature2Title": "Jogabilidade Relaxante",
+      "feature2Description": "Experimente uma jogabilidade relaxante e desafiadora.",
+      "feature3Title": "Desafie a Sua Mente",
+      "feature3Description": "Teste suas habilidades de lógica e estratégia.",
+      "feature4Title": "Múltiplos Níveis",
+      "feature4Description": "Jogue vários níveis desafiadores."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

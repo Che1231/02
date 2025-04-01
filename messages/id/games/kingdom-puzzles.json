@@ -1,0 +1,77 @@
+{
+  "kingdom-puzzles": {
+    "title": "Permainan Kerajaan: Permainan Otak yang Menyenangkan",
+    "slogan": "Tantang Pikiran Anda dengan Permainan Kerajaan",
+    "description": "Permainan Kerajaan adalah permainan otak yang menenangkan di mana Anda menempatkan raja di atas kisi-kisi, mengikuti aturan tertentu. Setiap wilayah hanya dapat memiliki satu raja, dan mereka tidak dapat berada di baris, kolom, atau ubin yang berdekatan. Uji logika dan strategi Anda untuk menang! Mainkan Permainan Kerajaan sekarang dan nikmati tantangannya.",
+    "Loading": {
+      "title": "Memuat..."
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Syarat dan Ketentuan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Permainan Kerajaan",
+      "description": "Tempatkan raja secara strategis untuk menang dalam Permainan Kerajaan. Setiap wilayah hanya dapat memiliki satu raja, dan mereka tidak dapat berada di baris, kolom, atau ubin yang berdekatan. Mainkan sekarang dan nikmati tantangannya!",
+      "iframeTitle": "Pratinjau Permainan",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Permainan",
+      "playGame": "Mainkan Permainan"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Permainan Kerajaan",
+      "whatIsTitle": "Apa itu Permainan Kerajaan?",
+      "whatIsDescription": "Permainan Kerajaan adalah permainan otak yang menenangkan di mana Anda menempatkan raja di atas kisi-kisi, mengikuti aturan tertentu. Setiap wilayah hanya dapat memiliki satu raja, dan mereka tidak dapat berada di baris, kolom, atau ubin yang berdekatan.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Tempatkan satu raja di setiap wilayah.",
+      "howToPlayStep2": "Pastikan raja tidak berada di baris atau kolom yang sama.",
+      "howToPlayStep3": "Pastikan raja tidak berdekatan satu sama lain.",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Penempatan Strategis",
+      "feature1Description": "Tempatkan raja secara strategis untuk menang.",
+      "feature2Title": "Gameplay yang Menenangkan",
+      "feature2Description": "Nikmati pengalaman permainan otak yang menenangkan.",
+      "feature3Title": "Tantang Pikiran Anda",
+      "feature3Description": "Uji kemampuan logika dan strategi Anda.",
+      "feature4Title": "Tingkat yang Beragam",
+      "feature4Description": "Mainkan melalui berbagai tingkatan yang menantang."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Permainan"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Permainan",
+      "description": "Semua Permainan",
+      "games": "Permainan"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Lainnya",
+      "page": "Halaman"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "kingdom-puzzles": {
+    "title": "王国拼图：轻松益智游戏",
+    "slogan": "用王国拼图挑战你的思维",
+    "description": "王国拼图是一款轻松的益智游戏，你需要按照特定规则将国王放置在一个网格上。每个区域只能有一个国王，并且它们不能位于同一行、同一列或相邻方格中。测试你的逻辑和策略来获胜！现在玩王国拼图，享受挑战！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "王国拼图",
+      "description": "在王国拼图中策略性地放置国王以获胜。每个区域只能有一个国王，并且它们不能位于同一行、同一列或相邻方格中。现在玩，享受挑战！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "王国拼图",
+      "whatIsTitle": "什么是王国拼图？",
+      "whatIsDescription": "王国拼图是一款轻松的益智游戏，你需要按照特定规则将国王放置在一个网格上。每个区域只能有一个国王，并且它们不能位于同一行、同一列或相邻方格中。",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "在每个区域放置一个国王。",
+      "howToPlayStep2": "确保国王不在同一行或同一列。",
+      "howToPlayStep3": "确保国王彼此不相邻。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "战略布局",
+      "feature1Description": "策略性地放置国王以获胜。",
+      "feature2Title": "轻松的游戏体验",
+      "feature2Description": "享受轻松的益智游戏体验。",
+      "feature3Title": "挑战你的思维",
+      "feature3Description": "测试你的逻辑和策略技能。",
+      "feature4Title": "多级关卡",
+      "feature4Description": "在多个具有挑战性的关卡中进行游戏。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "kingdom-puzzles": {
+    "title": "Những trò chơi trí tuệ Vương quốc: Trò chơi thư giãn",
+    "slogan": "Thử thách trí tuệ của bạn với Những trò chơi trí tuệ Vương quốc",
+    "description": "Những trò chơi trí tuệ Vương quốc là một trò chơi trí tuệ thư giãn nơi bạn đặt các vị vua lên trên lưới, tuân theo các quy tắc cụ thể. Mỗi khu vực chỉ có thể có một vị vua, và chúng không được ở cùng hàng, cột hoặc các ô liền kề. Kiểm tra logic và chiến lược của bạn để giành chiến thắng! Chơi Những trò chơi trí tuệ Vương quốc ngay bây giờ và tận hưởng thử thách.",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Những trò chơi trí tuệ Vương quốc",
+      "description": "Đặt các vị vua một cách chiến lược để giành chiến thắng trong Những trò chơi trí tuệ Vương quốc. Mỗi khu vực chỉ có thể có một vị vua, và chúng không được ở cùng hàng, cột hoặc các ô liền kề. Chơi ngay bây giờ và tận hưởng thử thách!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Những trò chơi trí tuệ Vương quốc",
+      "whatIsTitle": "Những trò chơi trí tuệ Vương quốc là gì?",
+      "whatIsDescription": "Những trò chơi trí tuệ Vương quốc là một trò chơi trí tuệ thư giãn nơi bạn đặt các vị vua lên trên lưới, tuân theo các quy tắc cụ thể. Mỗi khu vực chỉ có thể có một vị vua, và chúng không được ở cùng hàng, cột hoặc các ô liền kề.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Đặt một vị vua vào mỗi khu vực.",
+      "howToPlayStep2": "Đảm bảo các vị vua không ở cùng hàng hoặc cột.",
+      "howToPlayStep3": "Đảm bảo các vị vua không liền kề nhau.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Đặt vị trí chiến lược",
+      "feature1Description": "Đặt các vị vua một cách chiến lược để giành chiến thắng.",
+      "feature2Title": "Gameplay thư giãn",
+      "feature2Description": "Tận hưởng trải nghiệm trò chơi trí tuệ thư giãn.",
+      "feature3Title": "Thử thách trí tuệ của bạn",
+      "feature3Description": "Kiểm tra kỹ năng logic và chiến lược của bạn.",
+      "feature4Title": "Nhiều cấp độ",
+      "feature4Description": "Chơi qua nhiều cấp độ đầy thử thách."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

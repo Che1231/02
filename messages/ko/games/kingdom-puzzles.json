@@ -1,0 +1,77 @@
+{
+  "kingdom-puzzles": {
+    "title": "왕국 퍼즐: 이완적인 두뇌 게임",
+    "slogan": "왕국 퍼즐로 마음을 시험하세요",
+    "description": "왕국 퍼즐은 특정 규칙에 따라 그리드에 왕을 배치하는 이완적인 두뇌 게임입니다. 각 지역에는 한 명의 왕만 있을 수 있으며, 같은 행, 열 또는 인접한 타일에는 없어야 합니다. 논리와 전략을 테스트하여 승리하십시오! 지금 왕국 퍼즐을 플레이하고 도전을 즐기세요.",
+    "Loading": {
+      "title": "로드 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인 정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "왕국 퍼즐",
+      "description": "왕국 퍼즐에서 전략적으로 왕을 배치하여 승리하십시오. 각 지역에는 한 명의 왕만 있을 수 있으며, 같은 행, 열 또는 인접한 타일에는 없어야 합니다. 지금 플레이하고 도전을 즐기세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "왕국 퍼즐",
+      "whatIsTitle": "왕국 퍼즐이란 무엇인가요?",
+      "whatIsDescription": "왕국 퍼즐은 특정 규칙에 따라 그리드에 왕을 배치하는 이완적인 두뇌 게임입니다. 각 지역에는 한 명의 왕만 있을 수 있으며, 같은 행, 열 또는 인접한 타일에 없어야 합니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "각 지역에 한 명의 왕을 배치합니다.",
+      "howToPlayStep2": "왕이 같은 행 또는 열에 있지 않도록 합니다.",
+      "howToPlayStep3": "왕이 서로 인접하지 않도록 합니다.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "전략적인 배치",
+      "feature1Description": "전략적으로 왕을 배치하여 승리합니다.",
+      "feature2Title": "이완적인 게임 플레이",
+      "feature2Description": "이완적인 두뇌 게임 경험을 즐기세요.",
+      "feature3Title": "두뇌 능력 테스트",
+      "feature3Description": "논리 및 전략 기술을 테스트하세요.",
+      "feature4Title": "다양한 레벨",
+      "feature4Description": "다양한 도전적인 레벨을 플레이하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

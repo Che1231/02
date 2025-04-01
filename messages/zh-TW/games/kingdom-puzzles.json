@@ -1,0 +1,77 @@
+{
+  "kingdom-puzzles": {
+    "title": "王國益智遊戲：放鬆大腦遊戲",
+    "slogan": "用王國益智遊戲挑戰您的思維",
+    "description": "王國益智遊戲是一款輕鬆的大腦遊戲，您需要在網格上放置國王，遵循特定的規則。每個區域只能有一個國王，而且它們不能位於同一行、同一列或相鄰的方塊上。測試您的邏輯和策略來獲勝！現在玩王國益智遊戲，享受挑戰。",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立日期",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "王國益智遊戲",
+      "description": "在王國益智遊戲中策略性地放置國王以獲勝。每個區域只能有一個國王，而且它們不能位於同一行、同一列或相鄰的方塊上。現在玩遊戲，享受挑戰！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "遊玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "王國益智遊戲",
+      "whatIsTitle": "什麼是王國益智遊戲？",
+      "whatIsDescription": "王國益智遊戲是一款放鬆大腦的遊戲，您需要在網格上放置國王，遵循特定的規則。每個區域只能有一個國王，而且它們不能位於同一行、同一列或相鄰的方塊上。",
+      "howToPlayTitle": "如何玩遊戲",
+      "howToPlayStep1": "每個區域放置一個國王。",
+      "howToPlayStep2": "確保國王不在同一行或同一列。",
+      "howToPlayStep3": "確保國王不相鄰。",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "策略性擺放",
+      "feature1Description": "策略性地放置國王以獲勝。",
+      "feature2Title": "輕鬆的遊戲體驗",
+      "feature2Description": "享受輕鬆的大腦遊戲體驗。",
+      "feature3Title": "挑戰您的思維",
+      "feature3Description": "測試您的邏輯和策略技巧。",
+      "feature4Title": "多個關卡",
+      "feature4Description": "暢玩多個具有挑戰性的關卡。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到分類",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

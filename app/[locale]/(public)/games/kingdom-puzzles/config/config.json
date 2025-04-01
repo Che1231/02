@@ -1,0 +1,120 @@
+{
+  "name": "Kingdom Puzzles",
+  "pagePath": "/games/kingdom-puzzles",
+  "pageName": "kingdom-puzzles",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://html5.gamemonetize.co/3ik5v7y3fvv6m7lsdzw5iohzber7ic6l/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken42.png",
+      "content": "This game is so relaxing! I love the brain-teasing puzzles. Gotta place those kings just right!"
+    },
+    {
+      "author": "SavageKatana_Omega",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatana_Omega.png",
+      "content": "Kingdom Puzzles is surprisingly addictive. Didn't think a king-placement game could be this fun. What a neat little gem!"
+    },
+    {
+      "author": "Witcher4DaWin",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4DaWin.png",
+      "content": "Okay, this is kinda genius. Using logic to place the kings and avoid them touching? Who thought of this?! Amazing."
+    },
+    {
+      "author": "NoobMaster87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster87.png",
+      "content": "It's a neat game! But sometimes I place a king wrong and lose points. Is there a hints system somewhere, please?"
+    },
+    {
+      "author": "xX_DarkReaper_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkReaper_Xx.png",
+      "content": "I'm hooked! The grid is simple but the puzzles are tricky. I love the challenge of placing kings correctly. Sweet!"
+    },
+    {
+      "author": "PhantomPhoenix99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix99.png",
+      "content": "Kingdom Puzzles: Simple concept, but surprisingly deep gameplay. Really enjoy the 'one king per region' rule!"
+    },
+    {
+      "author": "CosmicLeviathan42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicLeviathan42.png",
+      "content": "OMG this game is a blast! I love that there's only one king per region. It makes things interesting. So awesome!"
+    },
+    {
+      "author": "AdjectiveRevolver_V",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AdjectiveRevolver_V.png",
+      "content": "Pretty fun puzzle game. Placing the kings is a nice brain exercise. Maybe it's the right one for me, no complaints."
+    },
+    {
+      "author": "DogeCoinToTheMoon",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/DogeCoinToTheMoon.png",
+      "content": "Yo, this king placement thing is harder than it looks LOL. But really funny and brain-bending when u figure it out!"
+    },
+    {
+      "author": "zZ_LightAura_Zz",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/zZ_LightAura_Zz.png",
+      "content": "This game is alright, I guess. But sometimes I accidentally put two kings next to each other. Wish it prevented that."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743520125102-l42nb7.jpg",
+  "page_path": "/games/kingdom-puzzles",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Clicker"
+  ],
+  "createdTime": "2025-04-01 23:08:47"
+}

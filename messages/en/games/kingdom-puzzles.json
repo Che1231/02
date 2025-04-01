@@ -1,0 +1,77 @@
+{
+  "kingdom-puzzles": {
+    "title": "Kingdom Puzzles: Relaxing Brain Game",
+    "slogan": "Challenge Your Mind with Kingdom Puzzles",
+    "description": "Kingdom Puzzles is a relaxing brain game where you place kings on a grid, following specific rules. Each region can have only one king, and they cannot be in the same row, column, or adjacent tiles. Test your logic and strategy to win! Play Kingdom Puzzles now and enjoy the challenge.",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Kingdom Puzzles",
+      "description": "Place kings strategically to win in Kingdom Puzzles. Each region can have only one king, and they cannot be in the same row, column, or adjacent tiles. Play now and enjoy the challenge!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Kingdom Puzzles",
+      "whatIsTitle": "What is Kingdom Puzzles?",
+      "whatIsDescription": "Kingdom Puzzles is a relaxing brain game where you place kings on a grid, following specific rules. Each region can have only one king, and they cannot be in the same row, column, or adjacent tiles.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Place one king in each region.",
+      "howToPlayStep2": "Ensure kings are not in the same row or column.",
+      "howToPlayStep3": "Make sure kings are not adjacent to each other.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Strategic Placement",
+      "feature1Description": "Place kings strategically to win.",
+      "feature2Title": "Relaxing Gameplay",
+      "feature2Description": "Enjoy a relaxing brain game experience.",
+      "feature3Title": "Challenge Your Mind",
+      "feature3Description": "Test your logic and strategy skills.",
+      "feature4Title": "Multiple Levels",
+      "feature4Description": "Play through multiple challenging levels."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

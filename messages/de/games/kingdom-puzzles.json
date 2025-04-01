@@ -1,0 +1,77 @@
+{
+  "kingdom-puzzles": {
+    "title": "Königreichs-Puzzles: Entspannendes Denkspiel",
+    "slogan": "Fordern Sie Ihr Denkvermögen mit Königreichs-Puzzles heraus",
+    "description": "Kingdom Puzzles ist ein entspannendes Denkspiel, bei dem Sie Könige auf einem Raster platzieren, wobei bestimmte Regeln eingehalten werden müssen. Jede Region darf nur einen König enthalten, und sie dürfen sich nicht in derselben Reihe, Spalte oder benachbarten Feldern befinden. Testen Sie Ihre Logik und Strategie, um zu gewinnen! Spielen Sie jetzt Kingdom Puzzles und genießen Sie die Herausforderung.",
+    "Loading": {
+      "title": "Wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Königreichs-Puzzles",
+      "description": "Platzieren Sie Könige strategisch, um in Kingdom Puzzles zu gewinnen. Jede Region darf nur einen König enthalten, und sie dürfen sich nicht in derselben Reihe, Spalte oder benachbarten Feldern befinden. Spielen Sie jetzt und genießen Sie die Herausforderung!",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Königreichs-Puzzles",
+      "whatIsTitle": "Was sind Königreichs-Puzzles?",
+      "whatIsDescription": "Kingdom Puzzles ist ein entspannendes Denkspiel, bei dem Sie Könige auf einem Raster platzieren, wobei bestimmte Regeln eingehalten werden müssen. Jede Region darf nur einen König enthalten, und sie dürfen sich nicht in derselben Reihe, Spalte oder benachbarten Feldern befinden.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Platzieren Sie einen König in jeder Region.",
+      "howToPlayStep2": "Stellen Sie sicher, dass sich Könige nicht in derselben Reihe oder Spalte befinden.",
+      "howToPlayStep3": "Achten Sie darauf, dass sich Könige nicht benachbart befinden.",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
+      "feature1Title": "Strategische Platzierung",
+      "feature1Description": "Platzieren Sie Könige strategisch, um zu gewinnen.",
+      "feature2Title": "Entspannendes Gameplay",
+      "feature2Description": "Genießen Sie ein entspannendes Denksportlerlebnis.",
+      "feature3Title": "Fordern Sie Ihr Denkvermögen",
+      "feature3Description": "Testen Sie Ihre logischen und strategischen Fähigkeiten.",
+      "feature4Title": "Mehrere Schwierigkeitsstufen",
+      "feature4Description": "Spielen Sie durch mehrere herausfordernde Stufen."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

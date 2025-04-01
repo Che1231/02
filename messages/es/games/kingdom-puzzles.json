@@ -1,0 +1,77 @@
+{
+  "kingdom-puzzles": {
+    "title": "Acertijos del Reino: Juego Mental Relajante",
+    "slogan": "Desafía tu mente con Acertijos del Reino",
+    "description": "Acertijos del Reino es un juego mental relajante en el que colocas reyes en una cuadrícula siguiendo reglas específicas. Cada región solo puede tener un rey, y no pueden estar en la misma fila, columna o casillas adyacentes. ¡Prueba tu lógica y estrategia para ganar! Juega a Acertijos del Reino ahora y disfruta del desafío.",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Términos de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Acertijos del Reino",
+      "description": "Coloca reyes estratégicamente para ganar en Acertijos del Reino. Cada región solo puede tener un rey, y no pueden estar en la misma fila, columna o casillas adyacentes. ¡Juega ahora y disfruta del desafío!",
+      "iframeTitle": "Vista Previa del Juego",
+      "fullscreenButton": "Pantalla Completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar Juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Acertijos del Reino",
+      "whatIsTitle": "¿Qué son los Acertijos del Reino?",
+      "whatIsDescription": "Acertijos del Reino es un juego mental relajante en el que colocas reyes en una cuadrícula siguiendo reglas específicas. Cada región solo puede tener un rey, y no pueden estar en la misma fila, columna o casillas adyacentes.",
+      "howToPlayTitle": "¿Cómo jugar?",
+      "howToPlayStep1": "Coloca un rey en cada región.",
+      "howToPlayStep2": "Asegúrate de que los reyes no estén en la misma fila o columna.",
+      "howToPlayStep3": "Asegúrate de que los reyes no estén adyacentes entre sí.",
+      "keyFeaturesTitle": "Características Clave",
+      "feature1Title": "Colocación Estratégica",
+      "feature1Description": "Coloca reyes estratégicamente para ganar.",
+      "feature2Title": "Jugabilidad Relajante",
+      "feature2Description": "Disfruta de una experiencia de juego mental relajante.",
+      "feature3Title": "Desafía tu Mente",
+      "feature3Description": "Prueba tus habilidades de lógica y estrategia.",
+      "feature4Title": "Varios Niveles",
+      "feature4Description": "Juega a través de múltiples niveles desafiantes."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas Frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del Juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

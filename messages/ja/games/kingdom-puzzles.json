@@ -1,0 +1,77 @@
+{
+  "kingdom-puzzles": {
+    "title": "王国パズル：リラックス脳ゲーム",
+    "slogan": "王国パズルであなたの知性を試してください",
+    "description": "王国パズルは、特定のルールに従ってグリッド上に王を配置するリラックスできる脳ゲームです。 各地域には1つの王しか配置できません。また、同じ行、列、または隣接するタイルに配置することはできません。論理と戦略を試して勝利しましょう！ 今すぐ王国パズルをプレイして、挑戦を楽しんでください。",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーションバー"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "王国パズル",
+      "description": "王国パズルで戦略的に王を配置して勝利を目指しましょう。 各地域には1つの王しか配置できません。また、同じ行、列、または隣接するタイルに配置することはできません。 今すぐプレイして、挑戦を楽しんでください!",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "王国パズル",
+      "whatIsTitle": "王国パズルとは？",
+      "whatIsDescription": "王国パズルは、特定のルールに従ってグリッド上に王を配置するリラックスできる脳ゲームです。 各地域には1つの王しか配置できません。また、同じ行、列、または隣接するタイルに配置することはできません。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "各地域に1つの王を配置しましょう。",
+      "howToPlayStep2": "同じ行または列に王を配置しないでください。",
+      "howToPlayStep3": "王を隣接させるのを避けてください。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "戦略的な配置",
+      "feature1Description": "戦略的に王を配置して勝利しましょう。",
+      "feature2Title": "リラックスできるゲームプレイ",
+      "feature2Description": "リラックスできる脳ゲーム体験をお楽しみください。",
+      "feature3Title": "知性を試す",
+      "feature3Description": "あなたの論理的思考力と戦略力を試しましょう。",
+      "feature4Title": "複数のレベル",
+      "feature4Description": "複数の挑戦的なレベルに挑戦しましょう。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームのコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

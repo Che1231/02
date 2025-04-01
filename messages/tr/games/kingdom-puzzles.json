@@ -1,0 +1,77 @@
+{
+  "kingdom-puzzles": {
+    "title": "Krallık Bulmacaları: Rahatlatıcı Beyin Oyunu",
+    "slogan": "Krallık Bulmacaları ile Zihninizi Zorlayın",
+    "description": "Krallık Bulmacaları, belirli kurallara uyarak bir ızgaraya kral yerleştirdiğiniz rahatlatıcı bir beyin oyunudur. Her bölgede sadece bir kral olabilir ve aynı satırda, sütunda veya bitişik karelerde olamazlar. Mantığınızı ve stratejinizi test edin ve kazanın! Şimdi Krallık Bulmacaları oynayın ve zorluğun tadını çıkarın.",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Krallık Bulmacaları",
+      "description": "Krallık Bulmacaları'nda kazanmak için kralları stratejik olarak yerleştirin. Her bölgede sadece bir kral olabilir ve aynı satırda, sütunda veya bitişik karelerde olamazlar. Şimdi oynayın ve zorluğun tadını çıkarın!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Krallık Bulmacaları",
+      "whatIsTitle": "Krallık Bulmacaları Nedir?",
+      "whatIsDescription": "Krallık Bulmacaları, belirli kurallara uyarak bir ızgaraya kral yerleştirdiğiniz rahatlatıcı bir beyin oyunudur. Her bölgede sadece bir kral olabilir ve aynı satırda, sütunda veya bitişik karelerde olamazlar.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Her bölgeye bir kral yerleştirin.",
+      "howToPlayStep2": "Kralların aynı satırda veya sütunda olmamasını sağlayın.",
+      "howToPlayStep3": "Kralların birbirlerine bitişik olmamasına dikkat edin.",
+      "keyFeaturesTitle": "Ana Özellikler",
+      "feature1Title": "Stratejik Yerleştirme",
+      "feature1Description": "Kazanmak için kralları stratejik olarak yerleştirin.",
+      "feature2Title": "Rahatlatıcı Oyun",
+      "feature2Description": "Rahatlatıcı bir beyin oyunu deneyimi yaşayın.",
+      "feature3Title": "Zihninizi Zorlayın",
+      "feature3Description": "Mantık ve strateji becerilerinizi test edin.",
+      "feature4Title": "Çoklu Seviyeler",
+      "feature4Description": "Çeşitli zorlu seviyelerden geçin."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}
