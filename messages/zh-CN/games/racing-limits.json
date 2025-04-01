@@ -1,0 +1,77 @@
+{
+  "racing-limits": {
+    "title": "赛车极限 - 免费在线赛车游戏",
+    "slogan": "发挥你的技能到极致",
+    "description": "体验赛车极限带来的高速赛车刺激。可以选择四种令人兴奋的游戏模式：载运、无限、计时和自由模式。在城市和高速公路交通中赛车，定制你的车辆，并参加众多赛事。凭借逼真的物理引擎和多视角，赛车极限提供身临其境的赛车冒险。现在开始游戏，测试你的驾驶技巧！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "赛车极限",
+      "description": "在赛车极限中，在城市和高速公路交通中赛车并超越车辆。体验激动人心的游戏模式和逼真的物理引擎。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "玩游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "赛车极限",
+      "whatIsTitle": "什么是赛车极限？",
+      "whatIsDescription": "赛车极限是一款赛车游戏，让你将技能发挥到极致。在城市和高速公路交通中，使用四种令人兴奋的游戏模式进行赛车和超越车辆。",
+      "howToPlayTitle": "如何玩耍",
+      "howToPlayStep1": "选择你的游戏模式：载运、无限、计时或自由模式。",
+      "howToPlayStep2": "选择你的交通偏好：单向或双向。",
+      "howToPlayStep3": "定制和升级你的车辆，参加众多比赛。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "四种游戏模式",
+      "feature1Description": "从载运、无限、计时和自由模式中选择，以获得多种游戏体验。",
+      "feature2Title": "逼真的物理引擎",
+      "feature2Description": "体验逼真的车辆操控和物理引擎，获得身临其境的赛车体验。",
+      "feature3Title": "多视角",
+      "feature3Description": "在不同的摄像头视角之间切换，增强你的赛车体验。",
+      "feature4Title": "可定制车辆",
+      "feature4Description": "升级并定制你的车辆，以提高性能和风格。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页面"
+    }
+  }
+}

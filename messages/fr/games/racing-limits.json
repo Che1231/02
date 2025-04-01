@@ -1,0 +1,77 @@
+{
+  "racing-limits": {
+    "title": "Limites de course - Jeu de course en ligne gratuit",
+    "slogan": "Poussez vos compétences au maximum",
+    "description": "Découvrez le frisson des courses à grande vitesse avec Racing Limits. Choisissez parmi quatre modes de jeu passionnants : porteur, infini, contre la montre et mode libre. Parcourez le trafic urbain et autoroutier, personnalisez votre véhicule et participez à de nombreux événements. Avec une physique réaliste et plusieurs angles de caméra, Racing Limits offre une aventure de course immersive. Jouez dès maintenant et testez vos compétences de conduite !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Limites de course",
+      "description": "Courez et dépassez les véhicules dans le trafic urbain et autoroutier avec Racing Limits. Découvrez des modes de jeu palpitants et une physique réaliste.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Limites de course",
+      "whatIsTitle": "Qu'est-ce que Racing Limits ?",
+      "whatIsDescription": "Racing Limits est un jeu de course qui vous permet de pousser vos compétences au maximum. Courez et dépassez les véhicules dans le trafic urbain et autoroutier avec quatre modes de jeu passionnants.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Choisissez votre mode de jeu : porteur, infini, contre la montre ou mode libre.",
+      "howToPlayStep2": "Sélectionnez votre préférence de circulation : sens unique ou double sens.",
+      "howToPlayStep3": "Personnalisez et améliorez votre véhicule pour participer à de nombreux événements de course.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Quatre modes de jeu",
+      "feature1Description": "Choisissez parmi les modes porteur, infini, contre la montre et libre pour une expérience de jeu variée.",
+      "feature2Title": "Physique réaliste",
+      "feature2Description": "Découvrez une manipulation et une physique des véhicules réalistes pour une expérience de course immersive.",
+      "feature3Title": "Plusieurs angles de caméra",
+      "feature3Description": "Basculez entre différents points de vue de la caméra pour améliorer votre expérience de course.",
+      "feature4Title": "Véhicules personnalisables",
+      "feature4Description": "Améliorez et personnalisez votre véhicule pour améliorer les performances et le style."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

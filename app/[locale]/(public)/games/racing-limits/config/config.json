@@ -1,0 +1,120 @@
+{
+  "name": "Racing Limits",
+  "pagePath": "/games/racing-limits",
+  "pageName": "racing-limits",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.crazygames.com/embed/racing-limits",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken42.png",
+      "content": "Racing Limits is awesome! The multiple camera angles make it so much fun. Totally hooked!"
+    },
+    {
+      "author": "SavageRevolver_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageRevolver_X.png",
+      "content": "The graphics are stunning! Is it just me, or is the 'Sunset' time of day the best?!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "LOL! I keep crashing, but I love it. Those realistic physics are a killer on the highway!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Seriously addictive. This game gonna make me miss meals. So good!"
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "Racing Limits: I love the carrier mode! The upgrade system gives it a real edge."
+    },
+    {
+      "author": "PhantomPhoenix99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix99.png",
+      "content": "The controls are sensitive without being annoying. Really enjoying this, gotta say!"
+    },
+    {
+      "author": "AdjectiveBroadsword_Y",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AdjectiveBroadsword_Y.png",
+      "content": "Customization options are pretty sweet. Def worth playing!"
+    },
+    {
+      "author": "PogChampWinner",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PogChampWinner.png",
+      "content": "The race events are awesome! But those two-way traffic moments, though... Whoa!"
+    },
+    {
+      "author": "CosmicLeviathan87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicLeviathan87.png",
+      "content": "Free mode is perfect for just chilling and driving. But I am not very good lol."
+    },
+    {
+      "author": "形容词Katana_Z",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/形容词Katana_Z.png",
+      "content": "The sense of speed in Racing Limits is insane! Keeps me on the edge of my seat the entire time. Woah!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743496746103-6ycxg.avif",
+  "page_path": "/games/racing-limits",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Racing"
+  ],
+  "createdTime": "2025-04-01 16:39:06"
+}

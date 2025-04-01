@@ -1,0 +1,77 @@
+{
+  "racing-limits": {
+    "title": "賽車極限 - 免費線上賽車遊戲",
+    "slogan": "充分發揮你的技巧",
+    "description": "體驗賽車極限的高速賽車刺激。從四種令人興奮的遊戲模式中選擇：運輸、無限、計時和自由模式。在城市和高速公路交通中競速，自定義您的車輛，並參加眾多賽事。憑藉逼真的物理引擎和多個相機角度，賽車極限提供身臨其境的賽車冒險。現在就開始遊戲，測試你的駕駛技巧！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "賽車極限",
+      "description": "在賽車極限中，在城市和高速公路交通中競速並超越其他車輛。體驗令人興奮的遊戲模式和逼真的物理引擎。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "賽車極限",
+      "whatIsTitle": "什麼是賽車極限？",
+      "whatIsDescription": "賽車極限是一款賽車遊戲，讓您可以充分發揮技能。在四種令人興奮的遊戲模式中，在城市和高速公路交通中競速並超越其他車輛。",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "選擇你的遊戲模式：運輸、無限、計時或自由模式。",
+      "howToPlayStep2": "選擇你的交通偏好：單向或雙向。",
+      "howToPlayStep3": "自定義和升級您的車輛，以參加眾多賽事。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "四種遊戲模式",
+      "feature1Description": "從運輸、無限、計時和自由模式中選擇，以獲得多樣的遊戲體驗。",
+      "feature2Title": "逼真的物理引擎",
+      "feature2Description": "體驗逼真的車輛操控和物理引擎，提供身臨其境的賽車體驗。",
+      "feature3Title": "多個相機角度",
+      "feature3Description": "在不同的相機視角之間切換，以增強您的賽車體驗。",
+      "feature4Title": "可自訂車輛",
+      "feature4Description": "升級和自定義車輛以提高性能和風格。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦遊戲"
+    },
+    "HomeComments": {
+      "title": "玩家評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "遊戲分類",
+      "noCategories": "找不到任何類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

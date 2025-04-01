@@ -1,0 +1,77 @@
+{
+  "racing-limits": {
+    "title": "레이싱 한계 - 무료 온라인 레이싱 게임",
+    "slogan": "최대 능력까지 끌어올리세요",
+    "description": "레이싱 한계를 통해 고속 레이싱의 짜릿함을 경험하세요. 캐리어, 무한, 시간 경쟁, 자유 모드 네 가지 흥미로운 게임 모드 중에서 선택하세요. 도시와 고속도로 교통 속을 질주하고, 차량을 커스터마이징하고, 수많은 이벤트에 참여하세요. 현실적인 물리 엔진과 다중 카메라 각도로 레이싱 한계는 몰입형 레이싱 모험을 제공합니다. 지금 플레이하고 운전 실력을 테스트하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "이용 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "유용한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "레이싱 한계",
+      "description": "레이싱 한계에서 도시 및 고속도로 교통에서 차량을 경주하고 추월하세요. 짜릿한 게임 모드와 현실적인 물리 엔진을 경험하세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "레이싱 한계",
+      "whatIsTitle": "레이싱 한계는 무엇인가요?",
+      "whatIsDescription": "레이싱 한계는 최대 능력까지 끌어올릴 수 있도록 하는 레이싱 게임입니다. 도시 및 고속도로 교통에서 네 가지 짜릿한 게임 모드로 차량을 경주하고 추월하세요.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "캐리어, 무한, 시간 경쟁 또는 자유 모드 게임 모드를 선택하세요.",
+      "howToPlayStep2": "원방향 또는 양방향 교통을 선택하세요.",
+      "howToPlayStep3": "수많은 레이싱 이벤트에 참여하기 위해 차량을 맞춤 설정하고 업그레이드하세요.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "네 가지 게임 모드",
+      "feature1Description": "다양한 게임 플레이를 위해 캐리어, 무한, 시간 경쟁 및 자유 모드 중에서 선택하세요.",
+      "feature2Title": "현실적인 물리 엔진",
+      "feature2Description": "몰입형 레이싱 경험을 위해 현실적인 차량 조작과 물리 엔진을 경험하세요.",
+      "feature3Title": "다중 카메라 각도",
+      "feature3Description": "레이싱 경험을 향상시키기 위해 다양한 카메라 뷰를 전환하세요.",
+      "feature4Title": "맞춤설정 가능한 차량",
+      "feature4Description": "성능과 스타일을 향상시키기 위해 차량을 업그레이드하고 맞춤 설정하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

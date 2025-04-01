@@ -1,0 +1,77 @@
+{
+  "racing-limits": {
+    "title": "レーシング・リミッツ - 無料オンラインレーシングゲーム",
+    "slogan": "あなたのスキルを最大限に発揮してください",
+    "description": "レーシング・リミッツで、高速レースの興奮を体験してください。キャリア、無限、時間制限、自由モードの4つのエキサイティングなゲームモードからお選びいただけます。街中や高速道路の交通を駆け抜け、車両をカスタマイズし、数々のイベントに挑戦してください。リアリスティックな物理エンジンと複数のカメラアングルにより、レーシング・リミッツは没入型のレーシングアドベンチャーを提供します。今すぐプレイして、あなたの運転技術を試してください！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "レーシング・リミッツ",
+      "description": "レーシング・リミッツで、街中と高速道路の交通で車両を競い、追い抜きましょう。スリリングなゲームモードとリアリスティックな物理エンジンを体験してください。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "レーシング・リミッツ",
+      "whatIsTitle": "レーシング・リミッツとは？",
+      "whatIsDescription": "レーシング・リミッツは、あなたのスキルを最大限に発揮できるレーシングゲームです。4つのスリリングなゲームモードで、街中や高速道路の交通で車両を競い、追い抜きましょう。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "キャリア、無限、時間制限、または自由モードのゲームモードをお選びください。",
+      "howToPlayStep2": "片方向または両方向の交通のどちらかを選択してください。",
+      "howToPlayStep3": "数々のレースイベントに挑戦するために、車両をカスタマイズしてアップグレードしてください。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "4つのゲームモード",
+      "feature1Description": "キャリア、無限、時間制限、自由モードから、多様なゲームプレイをお選びいただけます。",
+      "feature2Title": "リアリスティックな物理エンジン",
+      "feature2Description": "没入型のレーシング体験のために、リアリスティックな車両の操作と物理エンジンを体験してください。",
+      "feature3Title": "複数のカメラアングル",
+      "feature3Description": "より優れたレーシング体験のために、さまざまなカメラビューを切り替えてください。",
+      "feature4Title": "カスタマイズ可能な車両",
+      "feature4Description": "パフォーマンスとスタイルを向上させるために、車両をアップグレードしてカスタマイズしてください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

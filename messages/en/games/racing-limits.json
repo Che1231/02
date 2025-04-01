@@ -1,0 +1,77 @@
+{
+  "racing-limits": {
+    "title": "Racing Limits - Free Online Racing Game",
+    "slogan": "Push Your Skills to the Max",
+    "description": "Experience the thrill of high-speed racing with Racing Limits. Choose from four exciting game modes: carrier, infinite, against-time, and free mode. Race through city and highway traffic, customize your vehicle, and take on numerous events. With realistic physics and multiple camera angles, Racing Limits offers an immersive racing adventure. Play now and test your driving skills!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Racing Limits",
+      "description": "Race and overtake vehicles in city and highway traffic with Racing Limits. Experience thrilling game modes and realistic physics.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Racing Limits",
+      "whatIsTitle": "What is Racing Limits?",
+      "whatIsDescription": "Racing Limits is a racing game that lets you push your skills to the max. Race and overtake vehicles in city and highway traffic with four thrilling game modes.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Choose your game mode: carrier, infinite, against-time, or free mode.",
+      "howToPlayStep2": "Select your traffic preference: one-way or two-way.",
+      "howToPlayStep3": "Customize and upgrade your vehicle to take on numerous race events.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Four Game Modes",
+      "feature1Description": "Choose from carrier, infinite, against-time, and free mode for varied gameplay.",
+      "feature2Title": "Realistic Physics",
+      "feature2Description": "Experience realistic vehicle handling and physics for an immersive racing experience.",
+      "feature3Title": "Multiple Camera Angles",
+      "feature3Description": "Switch between different camera views to enhance your racing experience.",
+      "feature4Title": "Customizable Vehicles",
+      "feature4Description": "Upgrade and customize your vehicle to improve performance and style."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}
