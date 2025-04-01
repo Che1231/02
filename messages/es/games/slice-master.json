@@ -1,0 +1,77 @@
+{
+  "slice-master": {
+    "title": "Slice Master - Juego de corte de precisión",
+    "slogan": "¡Corta todo lo que veas!",
+    "description": "Slice Master es un juego casual para una sola persona en el que la precisión, el tiempo y el discernimiento son clave. Corta objetos para obtener una puntuación alta y desbloquear nuevas cuchillas y diseños. ¡Juega a Slice Master ahora y experimenta la emoción de cortar!",
+    "Loading": {
+      "title": "Cargando Slice Master..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces útiles",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Slice Master - Juego de corte de precisión",
+      "description": "Slice Master es un juego casual para una sola persona cuyo objetivo es cortar todo lo que ve, bueno, casi todo. Este juego de un solo botón se basa en precisión, tiempo y discernimiento para acumular una puntuación alta.",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡Enlace copiado al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Slice Master - Juego de corte de precisión",
+      "whatIsTitle": "¿Qué es Slice Master?",
+      "whatIsDescription": "Slice Master es un juego casual para una sola persona cuyo objetivo es cortar todo lo que se ve, bueno, casi todo. Este juego de un solo botón se basa en la precisión, el tiempo y el discernimiento para acumular una puntuación alta.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Usa el ratón para apuntar tu cuchillo.",
+      "howToPlayStep2": "Haz clic para cortar los objetos.",
+      "howToPlayStep3": "Obtén puntos cortando con precisión y rapidez.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Corte de precisión",
+      "feature1Description": "Domina el arte del corte de precisión para obtener una puntuación alta.",
+      "feature2Title": "Cuchillas desbloqueables",
+      "feature2Description": "Avanza en el juego para desbloquear nuevas cuchillas.",
+      "feature3Title": "Niveles desafiantes",
+      "feature3Description": "Enfréntate a niveles y obstáculos cada vez más difíciles.",
+      "feature4Title": "Jugabilidad casual",
+      "feature4Description": "Disfruta de un juego relajante pero desafiante con un solo botón."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

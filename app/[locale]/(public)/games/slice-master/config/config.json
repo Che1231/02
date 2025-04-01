@@ -1,0 +1,120 @@
+{
+  "name": "Slice Master",
+  "pagePath": "/games/slice-master",
+  "pageName": "slice-master",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.crazygames.com/embed/slice-master",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingPhoenix_87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix_87.png",
+      "content": "Just can't stop playing Slice Master! The precision required with those flying knives is insane. Love it!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "This game is addicting! I'm getting better at Slice Master every day."
+    },
+    {
+      "author": "LootGoblin_42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LootGoblin_42.png",
+      "content": "I keep slicing things left and right in Slice Master, so satisfying!"
+    },
+    {
+      "author": "Neon_SavageBlade_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Neon_SavageBlade_X.png",
+      "content": "The timing and discernment needed in this game are a real challenge. Love it!"
+    },
+    {
+      "author": "PhantomPhoenix99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix99.png",
+      "content": "What a thrillSlice Master is! Got that perfect blend of skill and luck."
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "Playing Slice Master for hours! It's like a zen experience with all those flying knives."
+    },
+    {
+      "author": "LagWarrior_42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarrior_42.png",
+      "content": "I love the one-button simplicity of Slice Master. It’s so easy to get into!"
+    },
+    {
+      "author": "Neon_LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Neon_LagWarriorXX.png",
+      "content": "How do you beat Slice Master? Any tips? This precision game is tricky!"
+    },
+    {
+      "author": "SavageNeon87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageNeon87.png",
+      "content": "Slice Master really tests your skills. Timing is crucial here!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "In Slice Master, you gotta be quick or get sliced! Great game!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743499412132-56f7hh.avif",
+  "page_path": "/games/slice-master",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Hypercasual"
+  ],
+  "createdTime": "2025-04-01 17:23:35"
+}

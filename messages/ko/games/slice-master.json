@@ -1,0 +1,77 @@
+{
+  "slice-master": {
+    "title": "슬라이스 마스터 - 정밀 절단 게임",
+    "slogan": "눈에 보이는 모든 것을 절단하세요!",
+    "description": "슬라이스 마스터는 정밀도, 타이밍 및 판단력이 중요한 싱글 플레이 캐주얼 게임입니다. 물체를 절단하여 높은 점수를 획득하고 새로운 칼날과 스킨을 잠금 해제하세요. 지금 슬라이스 마스터를 플레이하고 절단의 짜릿함을 경험하세요!",
+    "Loading": {
+      "title": "슬라이스 마스터 로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "슬라이스 마스터 - 정밀 절단 게임",
+      "description": "슬라이스 마스터는 정밀도, 타이밍 및 판단력이 중요한 싱글 플레이 캐주얼 게임입니다. 눈에 보이는 모든 물체를, 아니 거의 모든 물체를 절단하여 높은 점수를 획득하는 것을 목표로 합니다. 이 원 버튼 게임은 정밀도, 타이밍 및 판단력으로 높은 점수를 획득하도록 설계되었습니다.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "슬라이스 마스터 - 정밀 절단 게임",
+      "whatIsTitle": "슬라이스 마스터는 무엇인가요?",
+      "whatIsDescription": "슬라이스 마스터는 눈에 보이는 모든 것을 절단하는, 거의 모든 것을 절단하는 것을 목표로 하는 싱글 플레이 캐주얼 게임입니다. 이 원 버튼 게임은 정밀도, 타이밍 및 판단력으로 높은 점수를 획득하도록 설계되었습니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "마우스를 사용하여 칼날을 조준합니다.",
+      "howToPlayStep2": "클릭하여 물체를 절단합니다.",
+      "howToPlayStep3": "정확하고 빠르게 절단하여 점수를 획득합니다.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "정밀 절단",
+      "feature1Description": "높은 점수를 얻기 위해 정밀 절단 기술을 마스터하세요.",
+      "feature2Title": "잠금 해제 가능한 칼날",
+      "feature2Description": "게임을 진행하여 새로운 칼날을 잠금 해제하세요.",
+      "feature3Title": "도전적인 레벨",
+      "feature3Description": "점점 어려워지는 레벨과 장애물에 도전하세요.",
+      "feature4Title": "편안한 게임 플레이",
+      "feature4Description": "편안하면서도 흥미진진한 원 버튼 게임을 즐겨보세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

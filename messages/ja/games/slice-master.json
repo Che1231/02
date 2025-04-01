@@ -1,0 +1,77 @@
+{
+  "slice-master": {
+    "title": "スライスマスター - 精密スライシングゲーム",
+    "slogan": "見えている全てを切り刻め！",
+    "description": "スライスマスターは、精密さ、タイミング、洞察力が鍵となる、カジュアルな一人用ゲームです。オブジェクトをスライスして高得点を目指し、新しい刃物とスキンをアンロックしましょう。今すぐスライスマスターをプレイして、スライスする喜びを体験してください！",
+    "Loading": {
+      "title": "スライスマスターを読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "スライスマスター - 精密スライシングゲーム",
+      "description": "スライスマスターは、精密さ、タイミング、洞察力が鍵となる、カジュアルな一人用ゲームです。オブジェクトをスライスして高得点を目指し、新しい刃物とスキンをアンロックしましょう。今すぐスライスマスターをプレイして、スライスする喜びを体験してください！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "スライスマスター - 精密スライシングゲーム",
+      "whatIsTitle": "スライスマスターとは？",
+      "whatIsDescription": "スライスマスターは、目の前にあるすべてのものを、いや、ほとんど全てを切ることを目標とする、カジュアルな一人用ゲームです。このワンボタンゲームは、精密さ、タイミング、洞察力を駆使して、高得点を目指します。",
+      "howToPlayTitle": "ゲームの遊び方",
+      "howToPlayStep1": "マウスを使ってナイフを目標に合わせます。",
+      "howToPlayStep2": "クリックしてオブジェクトを切り刻みます。",
+      "howToPlayStep3": "正確かつ迅速に切り刻むことで、ポイントを獲得します。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "精密スライシング",
+      "feature1Description": "高得点を得るために、精密スライシングの技術を習得してください。",
+      "feature2Title": "アンロック可能な刃物",
+      "feature2Description": "ゲームを進めて新しい刃物をアンロックしましょう。",
+      "feature3Title": "挑戦的なレベル",
+      "feature3Description": "ますます困難なレベルと障害に立ち向かい、限界に挑戦しましょう。",
+      "feature4Title": "カジュアルなゲームプレイ",
+      "feature4Description": "リラックスできる、しかし同時に挑戦的なワンボタンゲームをお楽しみください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリ",
+      "noCategories": "カテゴリが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

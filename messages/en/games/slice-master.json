@@ -1,0 +1,77 @@
+{
+  "slice-master": {
+    "title": "Slice Master - Precision Slicing Game",
+    "slogan": "Slice Everything in Sight!",
+    "description": "Slice Master is a casual one-person game where precision, timing, and discernment are key. Slice through objects to rack up a high score and unlock new blades and skins. Play Slice Master now and experience the thrill of slicing!",
+    "Loading": {
+      "title": "Loading Slice Master..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Slice Master - Precision Slicing Game",
+      "description": "Slice Master is a casual one-person game where precision, timing, and discernment are key. Slice through objects to rack up a high score and unlock new blades and skins. Play Slice Master now and experience the thrill of slicing!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Slice Master - Precision Slicing Game",
+      "whatIsTitle": "What is Slice Master?",
+      "whatIsDescription": "Slice Master is a casual one-person game whose goal is to slice everything in sight, well, almost everything. This one-button game is driven by precision, timing, and discernment to rack up a high score.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Use the mouse to aim your knife.",
+      "howToPlayStep2": "Click to slice through objects.",
+      "howToPlayStep3": "Score points by slicing accurately and quickly.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Precision Slicing",
+      "feature1Description": "Master the art of precision slicing to score high.",
+      "feature2Title": "Unlockable Blades",
+      "feature2Description": "Progress through the game to unlock new blades.",
+      "feature3Title": "Challenging Levels",
+      "feature3Description": "Face increasingly difficult levels and obstacles.",
+      "feature4Title": "Casual Gameplay",
+      "feature4Description": "Enjoy a relaxing yet challenging one-button game."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

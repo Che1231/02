@@ -1,0 +1,77 @@
+{
+  "slice-master": {
+    "title": "切片大師 - 精準切割遊戲",
+    "slogan": "切割眼前所有事物！",
+    "description": "切片大師是一款單人休閒遊戲，精準度、時間掌控和判斷力至關重要。切割物件以獲得高分，並解鎖新的刀片和皮膚。現在就玩切片大師，體驗切割的刺激感！",
+    "Loading": {
+      "title": "正在載入切片大師..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友善連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "切片大師 - 精準切割遊戲",
+      "description": "切片大師是一款單人休閒遊戲，精準度、時間掌控和判斷力至關重要。切割物件以獲得高分，並解鎖新的刀片和皮膚。現在就玩切片大師，體驗切割的刺激感！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "切片大師 - 精準切割遊戲",
+      "whatIsTitle": "切片大師是什麼？",
+      "whatIsDescription": "切片大師是一款單人休閒遊戲，目標是切割眼前的一切，幾乎所有東西。這是一款基於精準度、時間掌控和判斷力的單按鈕遊戲，旨在獲得高分。",
+      "howToPlayTitle": "如何遊戲",
+      "howToPlayStep1": "使用滑鼠瞄準你的刀子。",
+      "howToPlayStep2": "點擊切割物件。",
+      "howToPlayStep3": "通過精確快速地切割來得分。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "精準切割",
+      "feature1Description": "掌握精準切割的藝術來獲得高分。",
+      "feature2Title": "可解鎖的刀片",
+      "feature2Description": "在遊戲中取得進展以解鎖新的刀片。",
+      "feature3Title": "具有挑戰性的關卡",
+      "feature3Description": "面對越來越困難的關卡和障礙。",
+      "feature4Title": "休閒遊戲玩法",
+      "feature4Description": "享受輕鬆而具挑戰性的單按鈕遊戲。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到分類",
+      "viewMore": "檢視更多",
+      "page": "頁面"
+    }
+  }
+}

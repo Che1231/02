@@ -1,0 +1,77 @@
+{
+  "slice-master": {
+    "title": "Slice Master – Präzisions-Schneide-Spiel",
+    "slogan": "Schneiden Sie alles im Sichtfeld!",
+    "description": "Slice Master ist ein zwangloses Einzelspieler-Spiel, bei dem Präzision, Timing und Unterscheidungsschärfe entscheidend sind. Schneiden Sie durch Objekte, um eine hohe Punktzahl zu erzielen und neue Klingen und Skins freizuschalten. Spielen Sie jetzt Slice Master und erleben Sie den Nervenkitzel des Schneidens!",
+    "Loading": {
+      "title": "Slice Master wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Slice Master – Präzisions-Schneide-Spiel",
+      "description": "Slice Master ist ein zwangloses Einzelspieler-Spiel, bei dem Präzision, Timing und Unterscheidungsschärfe entscheidend sind. Schneiden Sie durch Objekte, um eine hohe Punktzahl zu erzielen und neue Klingen und Skins freizuschalten. Spielen Sie jetzt Slice Master und erleben Sie den Nervenkitzel des Schneidens!",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Slice Master – Präzisions-Schneide-Spiel",
+      "whatIsTitle": "Was ist Slice Master?",
+      "whatIsDescription": "Slice Master ist ein zwangloses Einzelspieler-Spiel, dessen Ziel darin besteht, alles im Sichtfeld (naja, fast alles) zu schneiden. Dieses Einzelknopfspiel wird durch Präzision, Timing und Unterscheidungsvermögen angetrieben, um eine hohe Punktzahl zu erreichen.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Zielen Sie mit Ihrem Messer mit der Maus an.",
+      "howToPlayStep2": "Klicken Sie, um durch Objekte zu schneiden.",
+      "howToPlayStep3": "Punkte erzielen, indem Sie präzise und schnell schneiden.",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
+      "feature1Title": "Präzisions-Schneiden",
+      "feature1Description": "Beherrschen Sie die Kunst des präzisen Schneidens, um eine hohe Punktzahl zu erzielen.",
+      "feature2Title": "Freischaltbare Klingen",
+      "feature2Description": "Fortschreiten Sie durch das Spiel, um neue Klingen freizuschalten.",
+      "feature3Title": "Herausfordernde Level",
+      "feature3Description": "Stellen Sie sich immer schwierigeren Leveln und Hindernissen.",
+      "feature4Title": "Entspanntes Gameplay",
+      "feature4Description": "Genießen Sie ein entspannendes und dennoch herausforderndes Einzelknopfspiel."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

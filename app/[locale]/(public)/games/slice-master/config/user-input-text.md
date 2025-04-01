@@ -1,0 +1,1 @@
+Slice Master is a casual one-person game whose goal is to slice everything in sight, well, almost everything. This one-button game is driven by precision, timing, and discernment to rack up a high score. Flying knives are generally a no-no, but in this game, they are the only way to progress to new blades and skins.

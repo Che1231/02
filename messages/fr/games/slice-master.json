@@ -1,0 +1,77 @@
+{
+  "slice-master": {
+    "title": "Slice Master - Jeu de découpage précis",
+    "slogan": "Découpez tout ce qui est en vue !",
+    "description": "Slice Master est un jeu décontracté pour une personne où la précision, le timing et la discernement sont essentiels. Découpez des objets pour obtenir un score élevé et débloquer de nouvelles lames et des skins. Jouez à Slice Master maintenant et vivez le frisson de la découpe !",
+    "Loading": {
+      "title": "Chargement de Slice Master..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste d'articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Slice Master - Jeu de découpage précis",
+      "description": "Slice Master est un jeu décontracté pour une personne où la précision, le timing et la discernement sont essentiels. Découpez des objets pour obtenir un score élevé et débloquer de nouvelles lames et des skins. Jouez à Slice Master maintenant et vivez le frisson de la découpe !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer au jeu"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Slice Master - Jeu de découpage précis",
+      "whatIsTitle": "Qu'est-ce que Slice Master ?",
+      "whatIsDescription": "Slice Master est un jeu décontracté pour une personne visant à découper tout ce qui est à portée de vue, presque tout. Ce jeu à un seul bouton est basé sur la précision, le timing et la discernement pour accumuler un score élevé.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Utilisez la souris pour cibler votre couteau.",
+      "howToPlayStep2": "Cliquez pour découper les objets.",
+      "howToPlayStep3": "Gagnez des points en découpant avec précision et rapidité.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Découpe précise",
+      "feature1Description": "Maîtrisez l'art de la découpe précise pour obtenir un score élevé.",
+      "feature2Title": "Lames déblocables",
+      "feature2Description": "Progressez dans le jeu pour débloquer de nouvelles lames.",
+      "feature3Title": "Niveaux stimulants",
+      "feature3Description": "Affrontez des niveaux et des obstacles de plus en plus difficiles.",
+      "feature4Title": "Gameplay décontracté",
+      "feature4Description": "Profitez d'un jeu décontracté mais stimulant à un seul bouton."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}
