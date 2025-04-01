@@ -1,0 +1,77 @@
+{
+  "tom-jerry-run": {
+    "title": "Tom & Jerry Koş - Ücretsiz Çevrimiçi Sonsuz Koşucu Oyunu",
+    "slogan": "Jerry ile Koş, Zıpla ve Madeni Paraları Topla!",
+    "description": "Tom & Jerry Koş, Jerry'nin Metro Şehrinde engelleri atlayarak ve altınları toplayarak yolunu bulmasına yardımcı olduğunuz heyecan verici bir sonsuz koşucu oyunudur. Subway Surfers ve Talking Tom Gold Run gibi popüler oyunlardan esinlenilerek, bu oyun her yaştan oyuncu için sonsuz eğlence sunmaktadır. Şimdi Tom & Jerry Koş oynayın ve heyecanı yaşayın!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "kılavuz",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Tom & Jerry Koş",
+      "description": "Tom & Jerry Koş, Jerry'nin Metro Şehrinde engelleri atlayarak ve altınları toplayarak yolunu bulduğunuz bir sonsuz koşucu oyunudur. Şimdi oynayın ve eğlenin!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Tom & Jerry Koş",
+      "whatIsTitle": "Tom & Jerry Koş Nedir?",
+      "whatIsDescription": "Tom & Jerry Koş, Jerry'nin Metro Şehrinde engelleri atlayarak ve altınları toplayarak yolunu bulduğunuz bir sonsuz koşucu oyunudur. Subway Surfers ve Talking Tom Gold Run gibi popüler oyunlardan esinlenilerek, bu oyun her yaştan oyuncu için sonsuz eğlence sunmaktadır.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Jerry ile Metro Şehrinde koş.",
+      "howToPlayStep2": "Yakalanmamak için engelleri atla.",
+      "howToPlayStep3": "Puanınızı artırmak için altınları topla.",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Sonsuz Koşma",
+      "feature1Description": "Jerry ile Metro Şehrinde koşarken sonsuz eğlence yaşayın.",
+      "feature2Title": "Engelleri Atlama",
+      "feature2Description": "Yakalanmamak ve koşmaya devam etmek için engelleri atla.",
+      "feature3Title": "Madeni Para Toplama",
+      "feature3Description": "Puanınızı artırmak ve yeni özellikler kilidini açmak için altınları topla.",
+      "feature4Title": "Heyecan Verici Oyun",
+      "feature4Description": "Popüler sonsuz koşucu oyunlarından esinlenen heyecan verici bir oyun deneyimi yaşayın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

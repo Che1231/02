@@ -1,0 +1,77 @@
+{
+  "tom-jerry-run": {
+    "title": "Tom & Jerry Run - Jeu de course sans fin en ligne gratuit",
+    "slogan": "Courez, sautez et ramassez des pièces avec Jerry !",
+    "description": "Tom & Jerry Run est un jeu de course sans fin palpitant où vous aidez Jerry à naviguer dans la ville souterraine, à sauter par-dessus les obstacles et à ramasser des pièces d'or. Inspiré par des jeux populaires comme Subway Surfers et Talking Tom Gold Run, ce jeu offre un plaisir infini aux joueurs de tous âges. Jouez à Tom & Jerry Run dès maintenant et découvrez l'excitation !",
+    "Loading": {
+      "title": "Chargement…"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Tom & Jerry Run",
+      "description": "Tom & Jerry Run est un jeu de course sans fin où vous aidez Jerry à naviguer dans la ville souterraine, à sauter par-dessus les obstacles et à ramasser des pièces d'or. Jouez maintenant et amusez-vous !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "Adresse URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Tom & Jerry Run",
+      "whatIsTitle": "Qu'est-ce que Tom & Jerry Run ?",
+      "whatIsDescription": "Tom & Jerry Run est un jeu de course sans fin où vous aidez Jerry à naviguer dans la ville souterraine, à sauter par-dessus les obstacles et à ramasser des pièces d'or. Inspiré par des jeux populaires tels que Subway Surfers et Talking Tom Gold Run, ce jeu offre un plaisir infini aux joueurs de tous âges.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Courez avec Jerry dans la ville souterraine.",
+      "howToPlayStep2": "Sautez par-dessus les obstacles pour éviter d'être capturé.",
+      "howToPlayStep3": "Ramassez des pièces d'or pour augmenter votre score.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Course sans fin",
+      "feature1Description": "Découvrez un plaisir infini en courant à travers la ville souterraine avec Jerry.",
+      "feature2Title": "Sauts d'obstacles",
+      "feature2Description": "Sautez par-dessus les obstacles pour éviter d'être capturé et continuez à courir.",
+      "feature3Title": "Collection de pièces",
+      "feature3Description": "Ramassez des pièces d'or pour augmenter votre score et débloquer de nouvelles fonctionnalités.",
+      "feature4Title": "Gameplay passionnant",
+      "feature4Description": "Profitez d'un gameplay passionnant inspiré par les jeux de course sans fin populaires."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

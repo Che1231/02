@@ -1,0 +1,77 @@
+{
+  "tom-jerry-run": {
+    "title": "톰과 제리 런 - 무료 온라인 런닝 게임",
+    "slogan": "제리와 함께 달리고, 점프하고, 코인을 모으세요!",
+    "description": "톰과 제리 런은 지하철 도시를 달리며 장애물을 뛰어넘고 금화를 모으는 짜릿한 런닝 게임입니다. 서브웨이 서퍼스와 토킹 톰 골드 런과 같은 인기 게임에서 영감을 얻어 모든 연령대의 플레이어를 위한 끝없는 재미를 제공합니다. 지금 톰과 제리 런을 플레이하고 흥분을 경험하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "컨텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "톰과 제리 런",
+      "description": "톰과 제리 런은 지하철 도시를 달리며 장애물을 뛰어넘고 금화를 모으는 런닝 게임입니다. 지금 플레이하고 즐거움을 만끽하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "톰과 제리 런",
+      "whatIsTitle": "톰과 제리 런이란 무엇인가요?",
+      "whatIsDescription": "톰과 제리 런은 지하철 도시를 달리며 장애물을 뛰어넘고 금화를 모으는 런닝 게임입니다. 서브웨이 서퍼스와 토킹 톰 골드 런과 같은 인기 게임에서 영감을 얻어 모든 연령대의 플레이어를 위한 끝없는 재미를 제공합니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "제리와 함께 지하철 도시를 달려보세요",
+      "howToPlayStep2": "장애물을 뛰어넘어 걸리지 않도록 주의하세요",
+      "howToPlayStep3": "금화를 모아 점수를 높여보세요",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "무한 달리기",
+      "feature1Description": "제리와 함께 지하철 도시를 끊임없이 달리고 즐거움을 만끽하세요",
+      "feature2Title": "장애물 점프",
+      "feature2Description": "장애물을 뛰어넘어 잡히지 않고 계속 달리세요",
+      "feature3Title": "코인 수집",
+      "feature3Description": "금화를 모아 점수를 높이고 새로운 기능을 해제하세요",
+      "feature4Title": "흥미진진한 게임 플레이",
+      "feature4Description": "인기 무한 달리기 게임에서 영감을 얻은 흥미진진한 게임 플레이를 즐겨보세요"
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

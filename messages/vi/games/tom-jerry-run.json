@@ -1,0 +1,77 @@
+{
+  "tom-jerry-run": {
+    "title": "Chạy Tom & Jerry - Trò chơi chạy không giới hạn trực tuyến miễn phí",
+    "slogan": "Chạy, nhảy và thu thập đồng xu với Jerry!",
+    "description": "Tom & Jerry Run là một trò chơi chạy không giới hạn hồi hộp, nơi bạn giúp Jerry di chuyển trong thành phố tàu điện ngầm, nhảy qua chướng ngại vật và thu thập đồng xu vàng. Được truyền cảm hứng từ những trò chơi phổ biến như Subway Surfers và Talking Tom Gold Run, trò chơi này mang đến niềm vui vô tận cho người chơi mọi lứa tuổi. Chơi Tom & Jerry Run ngay bây giờ và trải nghiệm sự phấn khích!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Điều hướng"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Tom & Jerry Run",
+      "description": "Tom & Jerry Run là một trò chơi chạy không giới hạn, nơi bạn giúp Jerry di chuyển trong thành phố tàu điện ngầm, nhảy qua chướng ngại vật và thu thập đồng xu vàng. Chơi ngay và tận hưởng niềm vui!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Màn hình toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải xuống trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Tom & Jerry Run",
+      "whatIsTitle": "Tom & Jerry Run là gì?",
+      "whatIsDescription": "Tom & Jerry Run là một trò chơi chạy không giới hạn, nơi bạn giúp Jerry di chuyển trong thành phố tàu điện ngầm, nhảy qua chướng ngại vật và thu thập đồng xu vàng. Được truyền cảm hứng từ những trò chơi phổ biến như Subway Surfers và Talking Tom Gold Run, trò chơi này mang đến niềm vui vô tận cho người chơi mọi lứa tuổi.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Chạy cùng Jerry trong thành phố tàu điện ngầm.",
+      "howToPlayStep2": "Nhảy qua chướng ngại vật để tránh bị bắt.",
+      "howToPlayStep3": "Thu thập đồng xu vàng để tăng điểm số.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Chạy không giới hạn",
+      "feature1Description": "Trải nghiệm niềm vui không giới hạn khi bạn chạy cùng Jerry trong thành phố tàu điện ngầm.",
+      "feature2Title": "Nhảy qua chướng ngại vật",
+      "feature2Description": "Nhảy qua chướng ngại vật để tránh bị bắt và tiếp tục chạy.",
+      "feature3Title": "Thu thập đồng xu",
+      "feature3Description": "Thu thập đồng xu vàng để tăng điểm số và mở khóa các tính năng mới.",
+      "feature4Title": "Gameplay thú vị",
+      "feature4Description": "Tận hưởng gameplay thú vị lấy cảm hứng từ những tựa game chạy không giới hạn phổ biến."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các thể loại",
+      "noCategories": "Không tìm thấy thể loại nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}
