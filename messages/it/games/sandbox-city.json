@@ -1,8 +1,8 @@
 {
   "sandbox-city": {
-    "title": "Sandbox City - Esplora, Guida e Sopravvivi all'Apocalisse Zombi",
-    "slogan": "Sandbox City - Auto, Zombi, Ragdoll!",
-    "description": "Entra a far parte di Sandbox City, un emozionante gioco di sopravvivenza agli zombi dove puoi esplorare e guidare liberamente per la città. Fai attenzione all'infezione zombi! Trova ed elimina gli zombi prima che l'infezione si diffonda. Sandbox City offre una straordinaria combinazione di azione, strategia e sopravvivenza. Sei pronto ad accettare la sfida? Gioca a Sandbox City ora!",
+    "title": "Città Sandbox: Gioco di Sopravvivenza Zombi e Esplorazione Libera",
+    "slogan": "Esplora, Guida, Sopravvivi!",
+    "description": "Sandbox City è un emozionante gioco di sopravvivenza zombie in cui puoi esplorare liberamente e guidare per la città. Fai attenzione all'infezione degli zombie! La tua missione è trovare ed eliminare gli zombie prima che l'infezione si diffonda in tutta Sandbox City. Con il suo gameplay open-world e le sfide emozionanti, Sandbox City offre divertimento senza fine. Inizia la tua avventura ora e salva la città!",
     "Loading": {
       "title": "Caricamento..."
     },
@@ -16,15 +16,15 @@
       "termsOfServices": "Termini di servizio",
       "text": "Contenuto",
       "help": "Aiuto",
-      "friendlyLinks": "Link utili",
+      "friendlyLinks": "Collegamenti utili",
       "articleList": "Elenco articoli",
       "home": "Home",
-      "next": "Successivo",
+      "next": "Avanti",
       "previous": "Precedente"
     },
     "HomeIframe": {
-      "title": "Sandbox City - Gioco di Sopravvivenza agli Zombi",
-      "description": "Esplora Sandbox City, un gioco di sopravvivenza agli zombi in cui puoi guidare, esplorare e combattere per salvare la città dall'infezione.",
+      "title": "Città Sandbox: Gioco di Sopravvivenza Zombi e Esplorazione Libera",
+      "description": "Esplora il mondo aperto di Sandbox City, guida in giro e combatti gli zombie prima che l'infezione si diffonda. Inizia subito la tua avventura!",
       "iframeTitle": "Anteprima del gioco",
       "fullscreenButton": "Schermo intero",
       "shareButton": "Condividi",
@@ -33,34 +33,34 @@
       "playGame": "Gioca"
     },
     "HomeFeatures": {
-      "gameTitle": "Sandbox City - Auto, Zombi, Ragdoll!",
+      "gameTitle": "Città Sandbox: Gioco di Sopravvivenza Zombi e Esplorazione Libera",
       "whatIsTitle": "Cos'è Sandbox City?",
-      "whatIsDescription": "Sandbox City è un gioco di sopravvivenza agli zombi in cui puoi esplorare liberamente, guidare per la città e combattere per prevenire la diffusione dell'infezione.",
+      "whatIsDescription": "Sandbox City è un gioco di sopravvivenza zombie open-world in cui puoi esplorare, guidare e combattere gli zombie per salvare la città dall'infezione.",
       "howToPlayTitle": "Come giocare",
-      "howToPlayStep1": "Esplora la città e trova risorse.",
-      "howToPlayStep2": "Gira per la città per individuare ed eliminare gli zombi.",
-      "howToPlayStep3": "Previeni la diffusione dell'infezione uccidendo rapidamente gli zombi.",
+      "howToPlayStep1": "Esplora liberamente la città e guida in giro.",
+      "howToPlayStep2": "Trova ed elimina gli zombie per prevenire la diffusione dell'infezione.",
+      "howToPlayStep3": "Completa le sfide e salva Sandbox City dalla minaccia degli zombie.",
       "keyFeaturesTitle": "Caratteristiche principali",
-      "feature1Title": "Esplorazione del mondo aperto",
-      "feature1Description": "Esplora liberamente Sandbox City e scopri segreti nascosti.",
-      "feature2Title": "Sopravvivenza agli zombi",
-      "feature2Description": "Combatti gli zombi e impedisci la diffusione dell'infezione.",
+      "feature1Title": "Esplorazione open-world",
+      "feature1Description": "Esplora liberamente la vasta città di Sandbox City.",
+      "feature2Title": "Sopravvivenza zombie",
+      "feature2Description": "Combatti gli zombie e impedisci la diffusione dell'infezione.",
       "feature3Title": "Meccanica di guida",
-      "feature3Description": "Guida per la città per trovare risorse ed evitare pericoli.",
-      "feature4Title": "Fisica Ragdoll",
-      "feature4Description": "Vivi la fisica realistica dei ragdoll in Sandbox City."
+      "feature3Description": "Guida per la città con vari veicoli.",
+      "feature4Title": "Sfide emozionanti",
+      "feature4Description": "Completa le missioni e le sfide per salvare la città."
     },
     "HomeFAQs": {
-      "title": "Domande frequenti"
+      "title": "FAQ"
     },
     "HomeRelatedVideo": {
       "title": "Video del gioco"
     },
     "HomeRecommendation": {
-      "title": "Raccomandazioni"
+      "title": "Raccomandati"
     },
     "HomeComments": {
-      "title": "Commenti del gioco"
+      "title": "Commenti sul gioco"
     },
     "GamePage": {
       "title": "Tutti i giochi",
@@ -69,7 +69,7 @@
     },
     "CategoryPage": {
       "categories": "Categorie",
-      "noCategories": "Nessuna categoria trovata",
+      "noCategories": "Categorie non trovate",
       "viewMore": "Visualizza altro",
       "page": "Pagina"
     }

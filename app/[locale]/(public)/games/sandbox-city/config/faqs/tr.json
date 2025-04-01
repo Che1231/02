@@ -1,42 +1,42 @@
 [
   {
-    "question": "Sandbox Şehir'de yeni oyuncular hızlı bir şekilde nasıl başlayabilir ve ustalaşılması gereken temel kontroller nelerdir?",
-    "answer": "Sandbox Şehir'de başlamak için yeni oyuncular önce temel kontrollerle kendilerini tanıştırmalıdır. Bunlar arasında hareket (WASD), zıplama (Boşluk) ve nesnelerle etkileşim (E) yer almaktadır. Ana örnek, ilk evinizi inşa ettiğiniz öğretici görevdir. ADIM 1: İnşaat alanına gidin. ADIM 2: Kaynak düğümleriyle etkileşime girerek malzemeleri toplayın. ADIM 3: Ev yerleştirmek için inşaat menüsünü (B) kullanın. [Örneklendirme: Net talimatlarla mobilyaları bir araya getirmeye benzetin.]"
+    "question": "Sandbox Şehri'nde acemi olarak ilk yapıyı nasıl inşa etmeye başlayabilirim?",
+    "answer": "Sandbox Şehri'nde ilk yapınızı inşa etmeye başlamak için şu adımları izleyin: ADIM 1: 'B' tuşuna basarak bina menüsünü açın. ADIM 2: Menüden ev veya dükkân gibi temel bir yapı seçin. ADIM 3: Yapıyı boş bir arsa üzerine sol fare düğmesine tıklayarak yerleştirin. Örneğin, konut bölgesine bir ev yerleştirmek yeni vatandaşları çekecektir. Doğru yerleştirmeyi sağlamak için ızgara üst üste bindirmeyi kullanın. [Örneklendirme: Biri odanın içinde mobilyalar yerleştirmeye benzetilir; her şeyin tam olarak olması gerekir.]"
   },
   {
-    "question": "100 saatten fazla oynadıktan sonra Sandbox Şehir'de kaynak yönetimi için en etkili stratejiler nelerdir?",
-    "answer": "100 saatten fazla sonra kaynak yönetimi hayati önem kazanır. Tedarik zincirlerinizi optimize etmeye odaklanın. Örneğin, yüksek verimli düğümlerin yakınlarına kaynak toplayıcılar yerleştirin ve bunları verimli taşıma yollarıyla birbirine bağlayın. ADIM 1: Harita üstü bilgisini kullanarak (M) kaynak bakımından zengin alanları belirleyin. ADIM 2: Tolayıcıları konuşlandırın ve depo merkezleriyle bağlantı kurun. ADIM 3: Konveyör bantlar veya kamyonlar kullanarak taşımayı otomatikleştirin. [Çoklu çözüm karşılaştırımı: Manuel ve otomatik taşıma %30 verimlilik artışı gösteriyor.]"
+    "question": "Sandbox Şehri'nde kaynak yönetimi neden çok önemlidir ve bunu nasıl optimize edebilirim?",
+    "answer": "Sandbox Şehri'nde kaynak yönetimi, şehrinizin büyümesi ve sürdürülebilirliği üzerinde doğrudan etki gösterdiği için çok önemlidir. Optimize etmek için ADIM 1: Çiftlikler ve madenler gibi kaynak üreten yapıları önceliklendirin. ADIM 2: Kaynak tahsisini konut, ticari ve endüstriyel bölgeler arasında dengeleyin. ADIM 3: Üretimi izlemek ve ayarlamak için kaynak genel görünüm panelini kullanın. Örneğin, şehrinizde yiyecek sıkıntısı varsa daha fazla çiftlik inşa edin. [Karşılaştırma Tablosu: Çiftlik (Yiyecek) vs. Maden (Maden) üretim hızları.]"
   },
   {
-    "question": "Sandbox Şehir'deki bölgeleme sistemini şehir genişlemesi için anlamak neden kritiktir ve nasıl çalışır?",
-    "answer": "Sandbox Şehir'deki bölgeleme sistemi, dengeli şehir büyümesi için hayati önem taşımaktadır. Konut, ticari ve endüstriyel alanlar için alanlar belirlemenize olanak tanır. Örneğin, konut bölgesini bir ticari bölgenin yakınlığına yerleştirmek, vatandaşların mutluluğunu artırır. ADIM 1: Bölgeleme aracına erişin (Z). ADIM 2: Bölge türünü seçin ve istediğiniz alanı boyayın. ADIM 3: Bölgenin gelişimini izleyin ve gerektiği gibi ayarlayın. [Yapılandırma karşılaştırma tablosu: Konut bölgelerine parklar, ticari bölgelere yüksek trafik gerekir.]"
+    "question": "Sandbox Şehri'nde konut ve ticari bölgeler arasındaki temel farklılıklar nelerdir?",
+    "answer": "Sandbox Şehri'nde konut bölgeleri vatandaşlarınızın yaşadığı yerlerdir, ticari bölgeler ise alışveriş yaptıkları ve çalıştıkları yerlerdir. Konut bölgeleri, su ve elektrik gibi temel olanaklara ihtiyaç duyar, ticari bölgeler ise vergi yoluyla gelir üretir. Örneğin, bir konut bölgesini bir parka yakın konumlandırmak vatandaş mutluluğunu artırırken, ticari bir bölgeyi hareketli bir yola yakın konumlandırmak satışları artırır. [Çoklu Seçenek Karşılaştırması: Konut (Mutluluk) vs. Ticari (Gelir) faydaları.]"
   },
   {
-    "question": "Sandbox Şehir'in tek oyunculu ve çok oyunculu modları arasında temel farklar nelerdir ve oyun deneyimini nasıl etkilerler?",
-    "answer": "Tek oyunculu mod, tek başına şehir inşaatına odaklanırken, çok oyunculu mod işbirliği ve rekabet unsurları getirir. Çok oyunculu modda diğer oyuncularla kaynak değiştirebilir veya en yüksek şehir derecesi için rekabet edebilirsiniz. Örnek, oyuncuların bir hafta içinde en verimli şehri inşa etmek için yarıştığı \"Şehir Çatışması\" etkinliğidir. [Akış şeması: Tek oyunculu -> Tek kişilik görevler, Çok oyunculu -> Ticaret/Rekabet.]"
+    "question": "Başlangıç kurulumundan sonra Sandbox Şehri'nin nüfusunu nasıl etkili bir şekilde genişletebilirim?",
+    "answer": "Sandbox Şehri'nde şehrinizin nüfusunu etkili bir şekilde genişletmek için ADIM 1: Su, elektrik ve sağlık gibi tüm temel ihtiyaçların karşılandığından emin olun. ADIM 2: Vatandaş mutluluğunu artırmak için parklar ve okullar gibi olanaklar inşa edin. ADIM 3: İş olanaklarına yakın stratejik olarak konut bölgelerini genişletin. Örneğin, bir konut bölgesini bir endüstriyel bölgeye yakın konumlandırmak, daha fazla göçmen çekerek yolculuk sürelerini kısaltır. [Akış Şeması: Temel İhtiyaçlar -> Olanaklar -> Konut Genişlemesi.]"
   },
   {
-    "question": "Sandbox Şehir'de ulaşım ağlarını trafik sıkışıklığı azaltmak için nasıl optimize edebilirler?",
-    "answer": "Ulaşım ağlarını optimize etmek, yolların ve toplu taşımanın stratejik olarak yerleştirilmesini içerir. Örneğin, trafiği dağıtmak için ana bir arter yolunu dallanan daha küçük yollarla oluşturun. ADIM 1: ızgara aracını (G) kullanarak yol düzenini planlayın. ADIM 2: Ana noktalara toplu taşıma durakları ekleyin. ADIM 3: Trafik akışını izleyin ve gerektiği gibi rotaları ayarlayın. [Örnekleme: Güçlü bir gövde ve sağlıklı dallara sahip bir ağaç gibi düşünün.]"
+    "question": "Sandbox Şehri'nde geliri en üst düzeye çıkarmak için hangi gelişmiş stratejileri kullanabilirim?",
+    "answer": "Sandbox Şehri'nde geliri en üst düzeye çıkarmak için ADIM 1: Lüks mağazalar gibi yüksek vergiye tabi ticari bölgelere odaklanın. ADIM 2: Ticari alanlara artan müşteri trafiği için toplu taşımaya yatırım yapın. ADIM 3: Mevcut yapıları gelir artışı için daha üst kademelere yükseltin. Örneğin, bir temel dükkânı lüks bir butik'e yükseltmek gelirin üç katına çıkmasına neden olabilir. [Örneklendirme: Limonata standından lüks bir kafeye yükseltmek gibi düşünün.]"
   },
   {
-    "question": "Sandbox Şehir'deki gizli Paskalya yumurtaları nelerdir ve oyuncular bunları nasıl keşfedebilir?",
-    "answer": "Sandbox Şehir, merkezi parkta gizli bir heykel gibi Paskalya yumurtalarıyla doludur. Bunu bulmak için oyuncuların belirli bir dizi görevi tamamlaması gerekir: ADIM 1: Gece yarısında parka gidin. ADIM 2: Park etrafındaki üç gizli sembole etkileşimde bulunun. ADIM 3: Heykeli ortaya çıkarmak için merkeze geri dönün. [Paskalya yumurtası keşfi: Bu, oyun geliştiricilerine bir göndermedir.]"
+    "question": "Sandbox Şehri'nde afet yönetimi için en iyi uygulamalar nelerdir?",
+    "answer": "Sandbox Şehri'nde etkili afet yönetimi ADIM 1: İtfaiye ve hastaneler gibi acil servisler inşa etmeyi içerir. ADIM 2: Yol geçişlerini stratejik yerleştirerek tahliye yolları oluşturun. ADIM 3: Şehrinizin altyapısını afetlere dayanıklı hale getirmek için düzenli olarak güncelleyin. Örneğin, endüstriyel bir bölgeye yakın bir itfaiye istasyonu büyük çaplı yangınları önleyebilir. [Çoklu Seçenek Karşılaştırması: İtfaiye İstasyonu (Önleme) vs. Hastane (Kurtarma) rolleri.]"
   },
   {
-    "question": "Sandbox Şehir'deki ekonomik sistem nasıl işliyor ve izlenmesi gereken temel metrikler neler?",
-    "answer": "Sandbox Şehir'deki ekonomik sistem, vergiler, ticaret ve üretim tarafından yönlendirilir. Temel metrikler arasında GSYİH, işsizlik oranı ve vatandaş mutluluğu yer alır. Örneğin, endüstriyel üretimi artırmak GSYİH'ı artırır, ancak kirlilik nedeniyle mutluluğu düşürebilir. [Yapılandırma tablosu: Yüksek vergi -> Yüksek gelir, Düşük mutluluk.]"
+    "question": "Sandbox Şehri'ndeki trafik sistemi nasıl çalışır ve tıkanıklığı nasıl azaltabilirim?",
+    "answer": "Sandbox Şehri'ndeki trafik sistemi gerçek dünyadaki araç hareketini taklit eder. Tıkanıklığı azaltmak için ADIM 1: Otoyol ve tek yönlü yollar gibi çok sayıda yol türü inşa edin. ADIM 2: Yoğun trafik alanlarının yakınlarına toplu taşıma durakları yerleştirin. ADIM 3: Tıkanıklıkları belirlemek ve gidermek için trafik üst üste bindirmeyi kullanın. Örneğin, kalabalık bir ticari bölgenin yakınlarına otobüs durağı eklemek araç kullanımını azaltabilir. [Karşılaştırma Tablosu: Yol Türleri (Otoyol vs. Tek Yönlü) trafik akışı.]"
   },
   {
-    "question": "Sandbox Şehir'de endüstriyel büyümeyi korurken kirliliği yönetmek için en iyi uygulamalar nelerdir?",
-    "answer": "Kirlilik ve endüstriyel büyümeyi dengelemek, stratejik yerleştirme ve yeşil teknolojilerin kullanımını içerir. Örneğin, endüstriyel alanları konut alanlarının rüzgârın tersinden yerleştirin ve kirlilik kontrol binalarına yatırım yapın. ADIM 1: Üst bilgi (P) kullanarak kirlilik kaynaklarını belirleyin. ADIM 2: Güneş panelleri gibi yeşil teknolojileri uygulayın. ADIM 3: Kirlilik seviyelerini izleyin ve stratejileri ayarlayın. [Çoklu çözüm karşılaştırımı: Geleneksel ve yeşil teknoloji %50 kirlilik azaltımı gösteriyor.]"
+    "question": "Sandbox Şehri kaydetme verilerimi farklı platformlar arasında aktarabilir miyim?",
+    "answer": "Evet, Sandbox Şehri kaydetme verilerinizi farklı platformlar arasında aktarabilirsiniz. ADIM 1: Oyun içi kaydetme menüsünü kullanarak oyununuzu buluta kaydedin. ADIM 2: Yeni platformda aynı hesaba giriş yapın. ADIM 3: İlerlemelerinizi sürdürmek için bulut kaydını yükleyin. Örneğin, PC'den konsole aktarırken tüm şehir yapılarınızı ve istatistiklerinizi korursunuz. [Akış Şeması: Buluta Kaydet -> Giriş Yap -> Kaydı Yükle.]"
   },
   {
-    "question": "Oyuncular Sandbox Şehir kaydetme verilerini farklı platformlar arasında nasıl taşıyabilir?",
-    "answer": "Sandbox Şehir'de kaydetme verilerini taşımak basittir. Oyun ayarlarında bulunan bulut kaydetme özelliğini kullanın. Örneğin, yeni platformdaki hesabınıza giriş yapın ve kaydetme dosyasını buluttan indirin. [Akış şeması: Eski Platform -> Bulut Kaydetme -> Yeni Platform.]"
+    "question": "Sandbox Şehri'nde hangi gizli Paskalya yumurtalarını bulabilirim ve nerede bulunurlar?",
+    "answer": "Sandbox Şehri'nde birkaç gizli Paskalya yumurtası bulunmaktadır. Örneğin, oyunun maskotu olan dev bir heykel, merkez parkta bulunabilir. Bunu bulmak için ADIM 1: Park alanına gidin. ADIM 2: Ana çeşmenin arkasındaki gizli bir patikayı arayın. ADIM 3: Heykele etkileşimde bulunarak özel bir başarı açın. [Örneklendirme: Geniş bir okyanusta bir hazine sandığı bulmak gibi.]"
   },
   {
-    "question": "Deneyimli oyuncular Sandbox Şehir'de benzersiz yapılar oluşturmak için hangi gelişmiş bina tekniklerini kullanabilir?",
-    "answer": "Deneyimli oyuncular modüler yapı ve özel dokular gibi gelişmiş teknikler kullanabilir. Örneğin, benzersiz bir görünüm için modüler birimleri yığarak ve özel dokuları uygulayarak bir gökdelen oluşturun. ADIM 1: Modüler bina aracı (M) seçin. ADIM 2: Birimleri yığın ve boyutları ayarlayın. ADIM 3: Dokular kütüphanesinden özel dokuları uygulayın. [Örneklendirme: Sınırsız özelleştirmeye sahip LEGO gibi düşünün.]"
+    "question": "Sandbox Şehri'nde şehrin düzenini maksimum verimlilik için nasıl optimize edebilirim?",
+    "answer": "Sandbox Şehri'nde şehrinizin düzenini maksimum verimlilik için optimize etmek için ADIM 1: Benzer bölgeleri bir araya getirin, örneğin, endüstriyel bölgeleri enerji santrallerinin yakınlarına yerleştirin. ADIM 2: Boşa harcanan alanı en aza indirmek için ızgara tabanlı bir planlama kullanın. ADIM 3: Vatandaş geri bildirimlerine dayanarak düzeninizi düzenli olarak gözden geçirin ve ayarlayın. Örneğin, bir okula bir konut alanına yakın yerleştirmek öğrenciler için yolculuk süresini azaltır. [Çoklu Seçenek Karşılaştırması: ızgara Düzeni (Verimlilik) vs. Serbest Düzen (Estetik).]"
   }
 ]

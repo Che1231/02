@@ -1,77 +1,77 @@
 {
   "sandbox-city": {
-    "title": "サンドボックスシティ -ゾンビ黙示録を探検、運転、生存",
-    "slogan": "サンドボックスシティ - 車、ゾンビ、ラグドール！",
-    "description": "サンドボックスシティへようこそ。自由探索と都市を運転できる、スリリングなゾンビ生存ゲームです。ゾンビ感染に注意！ 感染が拡大する前にゾンビを見つけ、排除してください。サンドボックスシティは、アクション、戦略、生存の独特な融合を提供しています。挑戦する準備はできましたか？ 今すぐサンドボックスシティをプレイしてください！",
+    "title": "砂箱都市：僵尸生存与自由探索游戏",
+    "slogan": "探索、驾驶、生存！",
+    "description": "砂箱都市是一款令人兴奋的僵尸生存游戏，您可以在城市中自由探索和驾驶。小心僵尸的感染！您的任务是找到并消灭僵尸，以防止感染蔓延到整个砂箱都市。凭借其开放世界玩法和刺激的挑战，砂箱都市将为您带来无尽的乐趣。现在开始您的冒险，拯救这座城市！",
     "Loading": {
-      "title": "読み込み中..."
+      "title": "加载中..."
     },
     "Navbar": {
-      "title": "ナビゲーション"
+      "title": "导航"
     },
     "Common": {
-      "createAt": "作成日時",
-      "guide": "ガイド",
-      "privacyPolicy": "プライバシーポリシー",
-      "termsOfServices": "サービス利用規約",
-      "text": "コンテンツ",
-      "help": "ヘルプ",
-      "friendlyLinks": "友情リンク",
-      "articleList": "記事一覧",
-      "home": "ホーム",
-      "next": "次へ",
-      "previous": "前へ"
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一个",
+      "previous": "上一个"
     },
     "HomeIframe": {
-      "title": "サンドボックスシティ - ゾンビ生存ゲーム",
-      "description": "サンドボックスシティを探検し、運転し、戦い、感染から都市を救うゾンビ生存ゲームです。",
-      "iframeTitle": "ゲームプレビュー",
-      "fullscreenButton": "全画面表示",
-      "shareButton": "共有",
-      "urlCopied": "URLがクリップボードにコピーされました！",
-      "downloadGame": "ゲームをダウンロード",
-      "playGame": "ゲームをプレイ"
+      "title": "砂箱都市：僵尸生存与自由探索游戏",
+      "description": "探索砂箱都市的开放世界，驾驶车辆，在感染蔓延之前消灭僵尸。现在开始您的冒险！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
     },
     "HomeFeatures": {
-      "gameTitle": "サンドボックスシティ - 車、ゾンビ、ラグドール！",
-      "whatIsTitle": "サンドボックスシティとは何ですか？",
-      "whatIsDescription": "サンドボックスシティは、自由に探索し、都市を運転し、感染の拡大を防ぐためのゾンビ生存ゲームです。",
-      "howToPlayTitle": "遊び方",
-      "howToPlayStep1": "都市を探検し、資源を見つけます。",
-      "howToPlayStep2": "都市を運転し、ゾンビを見つけ、排除します。",
-      "howToPlayStep3": "ゾンビを迅速に倒し、感染の拡大を防ぎます。",
-      "keyFeaturesTitle": "主な特徴",
-      "feature1Title": "オープンワールド探索",
-      "feature1Description": "サンドボックスシティを自由に探索し、隠された秘密を発見します。",
-      "feature2Title": "ゾンビ生存",
-      "feature2Description": "ゾンビと戦い、感染の拡大を防ぎます。",
-      "feature3Title": "運転メカニズム",
-      "feature3Description": "都市を運転して資源を見つけ、危険を回避します。",
-      "feature4Title": "ラグドール物理学",
-      "feature4Description": "サンドボックスシティで現実的なラグドール物理学を体験します。"
+      "gameTitle": "砂箱都市：僵尸生存与自由探索游戏",
+      "whatIsTitle": "砂箱都市是什么？",
+      "whatIsDescription": "砂箱都市是一款开放世界僵尸生存游戏，您可以在其中探索、驾驶和消灭僵尸，拯救城市免受感染。",
+      "howToPlayTitle": "如何游戏玩法",
+      "howToPlayStep1": "自由探索城市并驾驶车辆。",
+      "howToPlayStep2": "找到并消灭僵尸，防止感染蔓延。",
+      "howToPlayStep3": "完成挑战，拯救砂箱都市免受僵尸威胁。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "开放世界探索",
+      "feature1Description": "自由探索广阔的砂箱都市。",
+      "feature2Title": "僵尸生存",
+      "feature2Description": "消灭僵尸，防止感染蔓延。",
+      "feature3Title": "驾驶机制",
+      "feature3Description": "驾驶各种车辆在城市中行驶。",
+      "feature4Title": "刺激的挑战",
+      "feature4Description": "完成任务和挑战，拯救城市。"
     },
     "HomeFAQs": {
-      "title": "よくある質問"
+      "title": "常见问题"
     },
     "HomeRelatedVideo": {
-      "title": "ゲーム動画"
+      "title": "游戏视频"
     },
     "HomeRecommendation": {
-      "title": "おすすめ"
+      "title": "推荐"
     },
     "HomeComments": {
-      "title": "プレイコメント"
+      "title": "游戏评论"
     },
     "GamePage": {
-      "title": "すべてのゲーム",
-      "description": "すべてのゲーム",
-      "games": "ゲーム"
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏列表"
     },
     "CategoryPage": {
-      "categories": "カテゴリー",
-      "noCategories": "カテゴリーが見つかりません",
-      "viewMore": "もっと見る",
-      "page": "ページ"
+      "categories": "游戏分类",
+      "noCategories": "未找到分类",
+      "viewMore": "查看更多",
+      "page": "页码"
     }
   }
 }

@@ -1,30 +1,30 @@
 {
   "sandbox-city": {
-    "title": "Cidade Areia - Explore, Dirija e Sobreviva ao Apocalipse Zumbi",
-    "slogan": "Cidade Areia - Carros, Zumbis, Bonecas!",
-    "description": "Entre na Cidade Areia, um emocionante jogo de sobrevivência zumbi onde você pode explorar e dirigir livremente pela cidade. Cuidado com a infecção zumbi! Encontre e elimine os zumbis antes que a infecção se espalhe. A Cidade Areia oferece uma combinação única de ação, estratégia e sobrevivência. Pronto para encarar o desafio? Jogue a Cidade Areia agora!",
+    "title": "Cidade Areia: Jogo de Sobrevivência de Zumbis e Exploração Livre",
+    "slogan": "Explore, Dirija, Sobreviva!",
+    "description": "Cidade Areia é um emocionante jogo de sobrevivência de zumbis onde você pode explorar e dirigir livremente pela cidade. Cuidado com a infecção dos zumbis! Sua missão é encontrar e eliminar os zumbis antes que a infecção se espalhe por toda a Cidade Areia. Com seu estilo de jogo de mundo aberto e desafios emocionantes, Cidade Areia oferece diversão sem fim. Comece sua aventura agora e salve a cidade!",
     "Loading": {
       "title": "Carregando..."
     },
     "Navbar": {
-      "title": "Navegar"
+      "title": "Navegação"
     },
     "Common": {
-      "createAt": "Criar em",
+      "createAt": "Criado em",
       "guide": "Guia",
       "privacyPolicy": "Política de Privacidade",
       "termsOfServices": "Termos de Serviço",
       "text": "Conteúdo",
       "help": "Ajuda",
-      "friendlyLinks": "Links amigáveis",
+      "friendlyLinks": "Links Amigáveis",
       "articleList": "Lista de Artigos",
-      "home": "Página inicial",
+      "home": "Página Inicial",
       "next": "Próximo",
       "previous": "Anterior"
     },
     "HomeIframe": {
-      "title": "Cidade Areia - Jogo de Sobrevivência Zumbi",
-      "description": "Explore a Cidade Areia, um jogo de sobrevivência zumbi onde você pode dirigir, explorar e lutar para salvar a cidade da infecção.",
+      "title": "Cidade Areia: Jogo de Sobrevivência de Zumbis e Exploração Livre",
+      "description": "Explore o mundo aberto da Cidade Areia, dirija e enfrente os zumbis antes que a infecção se espalhe. Comece sua aventura agora!",
       "iframeTitle": "Prévia do Jogo",
       "fullscreenButton": "Tela Cheia",
       "shareButton": "Compartilhar",
@@ -33,22 +33,22 @@
       "playGame": "Jogar"
     },
     "HomeFeatures": {
-      "gameTitle": "Cidade Areia - Carros, Zumbis, Bonecas!",
-      "whatIsTitle": "O que é a Cidade Areia?",
-      "whatIsDescription": "Cidade Areia é um jogo de sobrevivência zumbi onde você pode explorar livremente, dirigir pela cidade e lutar para impedir a propagação da infecção.",
+      "gameTitle": "Cidade Areia: Jogo de Sobrevivência de Zumbis e Exploração Livre",
+      "whatIsTitle": "O que é Cidade Areia?",
+      "whatIsDescription": "Cidade Areia é um jogo de sobrevivência de zumbis em mundo aberto onde você pode explorar, dirigir e lutar contra zumbis para salvar a cidade da infecção.",
       "howToPlayTitle": "Como Jogar",
-      "howToPlayStep1": "Explore a cidade e encontre recursos.",
-      "howToPlayStep2": "Dirija para localizar e eliminar os zumbis.",
-      "howToPlayStep3": "Evite que a infecção se espalhe matando os zumbis rapidamente.",
+      "howToPlayStep1": "Explore a cidade livremente e dirija.",
+      "howToPlayStep2": "Encontre e elimine os zumbis para impedir que a infecção se espalhe.",
+      "howToPlayStep3": "Complete os desafios e salve a Cidade Areia da ameaça dos zumbis.",
       "keyFeaturesTitle": "Principais Características",
-      "feature1Title": "Exploração de Mundo Aberto",
-      "feature1Description": "Explore livremente a Cidade Areia e descubra segredos ocultos.",
-      "feature2Title": "Sobrevivência Zumbi",
-      "feature2Description": "Lutem contra os zumbis e impeçam a propagação da infecção.",
+      "feature1Title": "Exploração do Mundo Aberto",
+      "feature1Description": "Explore livremente a vasta cidade de Cidade Areia.",
+      "feature2Title": "Sobrevivência de Zumbis",
+      "feature2Description": "Lute contra os zumbis e impeça a propagação da infecção.",
       "feature3Title": "Mecânica de Condução",
-      "feature3Description": "Dirija pela cidade para encontrar recursos e escapar do perigo.",
-      "feature4Title": "Física de Bonecas",
-      "feature4Description": "Experimente a física realista de bonecas na Cidade Areia."
+      "feature3Description": "Dirija pela cidade em vários veículos.",
+      "feature4Title": "Desafios Empolgantes",
+      "feature4Description": "Complete missões e desafios para salvar a cidade."
     },
     "HomeFAQs": {
       "title": "Perguntas Frequentes"

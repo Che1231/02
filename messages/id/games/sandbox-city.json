@@ -1,8 +1,8 @@
 {
   "sandbox-city": {
-    "title": "Kota Pasir - Jelajahi, Mengemudi, dan Selamat dari Kiamat Zombie",
-    "slogan": "Kota Pasir - Mobil, Zombie, Boneka Rag!",
-    "description": "Masuklah ke Kota Pasir, sebuah game kelangsungan hidup zombie yang mendebarkan di mana Anda dapat menjelajahi dan mengemudi di sekitar kota dengan bebas. Berhati-hatilah terhadap infeksi zombie! Temukan dan hilangkan zombie sebelum infeksi menyebar. Kota Pasir menawarkan perpaduan unik antara aksi, strategi, dan bertahan hidup. Siap menghadapi tantangan? Mainkan Kota Pasir sekarang!",
+    "title": "Kota Pasir: Permainan Kelangsungan Hidup Zombie & Eksplorasi Gratis",
+    "slogan": "Jelajahi, Mengemudi, Selamatkan!",
+    "description": "Kota Pasir adalah permainan kelangsungan hidup zombie yang mengasyikkan di mana Anda dapat menjelajahi dan mengemudi di sekitar kota secara bebas. Waspadai infeksi zombie! Misi Anda adalah menemukan dan menghilangkan zombie sebelum infeksi menyebar ke seluruh Kota Pasir. Dengan gameplay dunia terbuka dan tantangan yang mendebarkan, Kota Pasir menawarkan kesenangan tanpa akhir. Mulai petualangan Anda sekarang dan selamatkan kota!",
     "Loading": {
       "title": "Memuat..."
     },
@@ -23,38 +23,38 @@
       "previous": "Sebelumnya"
     },
     "HomeIframe": {
-      "title": "Kota Pasir - Game Kelangsungan Hidup Zombie",
-      "description": "Jelajahi Kota Pasir, sebuah game kelangsungan hidup zombie di mana Anda dapat mengemudi, menjelajahi, dan bertarung untuk menyelamatkan kota dari infeksi.",
-      "iframeTitle": "Pratinjau Game",
+      "title": "Kota Pasir: Permainan Kelangsungan Hidup Zombie & Eksplorasi Gratis",
+      "description": "Jelajahi dunia terbuka Kota Pasir, kemudikan kendaraan, dan lawan zombie sebelum infeksi menyebar. Mulailah petualangan Anda sekarang!",
+      "iframeTitle": "Pratinjau Permainan",
       "fullscreenButton": "Layar Penuh",
       "shareButton": "Bagikan",
       "urlCopied": "URL disalin ke clipboard!",
-      "downloadGame": "Unduh Game",
-      "playGame": "Mainkan Game"
+      "downloadGame": "Unduh Permainan",
+      "playGame": "Mainkan Permainan"
     },
     "HomeFeatures": {
-      "gameTitle": "Kota Pasir - Mobil, Zombie, Boneka Rag!",
+      "gameTitle": "Kota Pasir: Permainan Kelangsungan Hidup Zombie & Eksplorasi Gratis",
       "whatIsTitle": "Apa itu Kota Pasir?",
-      "whatIsDescription": "Kota Pasir adalah game kelangsungan hidup zombie di mana Anda dapat menjelajahi dengan bebas, mengemudi di sekitar kota, dan bertarung untuk mencegah penyebaran infeksi.",
+      "whatIsDescription": "Kota Pasir adalah permainan kelangsungan hidup zombie dunia terbuka di mana Anda dapat menjelajahi, mengemudi, dan melawan zombie untuk menyelamatkan kota dari infeksi.",
       "howToPlayTitle": "Cara Bermain",
-      "howToPlayStep1": "Jelajahi kota dan temukan sumber daya.",
-      "howToPlayStep2": "Mengemudi di sekitar untuk menemukan dan menghilangkan zombie.",
-      "howToPlayStep3": "Mencegah penyebaran infeksi dengan membunuh zombie dengan cepat.",
+      "howToPlayStep1": "Jelajahi kota secara bebas dan kemudikan kendaraan.",
+      "howToPlayStep2": "Temukan dan hilangkan zombie untuk mencegah penyebaran infeksi.",
+      "howToPlayStep3": "Lengkapi tantangan dan selamatkan Kota Pasir dari ancaman zombie.",
       "keyFeaturesTitle": "Fitur Utama",
       "feature1Title": "Eksplorasi Dunia Terbuka",
-      "feature1Description": "Jelajahi Kota Pasir dengan bebas dan temukan rahasia tersembunyi.",
+      "feature1Description": "Jelajahi kota Kota Pasir yang luas secara bebas.",
       "feature2Title": "Kelangsungan Hidup Zombie",
-      "feature2Description": "Bertarung melawan zombie dan cegah penyebaran infeksi.",
-      "feature3Title": "Mekanisme Mengemudi",
-      "feature3Description": "Mengemudi di sekitar kota untuk menemukan sumber daya dan menghindari bahaya.",
-      "feature4Title": "Fisika Ragdoll",
-      "feature4Description": "Rasakan fisika boneka ragdoll realistis di Kota Pasir."
+      "feature2Description": "Lawan zombie dan cegah penyebaran infeksi.",
+      "feature3Title": "Mekanika Mengemudi",
+      "feature3Description": "Mengemudi di sekitar kota dengan berbagai kendaraan.",
+      "feature4Title": "Tantangan Mendebarkan",
+      "feature4Description": "Lengkapi misi dan tantangan untuk menyelamatkan kota."
     },
     "HomeFAQs": {
       "title": "FAQ"
     },
     "HomeRelatedVideo": {
-      "title": "Video Game"
+      "title": "Video Permainan"
     },
     "HomeRecommendation": {
       "title": "Rekomendasi"
@@ -63,14 +63,14 @@
       "title": "Komentar Permainan"
     },
     "GamePage": {
-      "title": "Semua Game",
-      "description": "Semua Game",
-      "games": "Game"
+      "title": "Semua Permainan",
+      "description": "Semua Permainan",
+      "games": "Permainan"
     },
     "CategoryPage": {
       "categories": "Kategori",
       "noCategories": "Tidak ada kategori yang ditemukan",
-      "viewMore": "Lihat Lainnya",
+      "viewMore": "Lihat Lebih Banyak",
       "page": "Halaman"
     }
   }

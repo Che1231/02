@@ -1,10 +1,10 @@
 {
   "sandbox-city": {
-    "title": "Sandbox City - Erkundung, Fahren und Überleben in der Zombie-Apokalypse",
-    "slogan": "Sandbox City - Autos, Zombies, Ragdolls!",
-    "description": "Treten Sie in Sandbox City ein, ein spannendes Zombie-Überlebensspiel, in dem Sie die Stadt frei erkunden und fahren können. Seien Sie vorsichtig bei der Zombie-Infektion! Finden und beseitigen Sie die Zombies, bevor sich die Infektion ausbreitet. Sandbox City bietet eine einzigartige Mischung aus Action, Strategie und Überleben. Sind Sie bereit, die Herausforderung anzunehmen? Spielen Sie Sandbox City jetzt!",
+    "title": "Sandbox City: Zombie-Überlebens- und kostenlose Erkundungs-Spiel",
+    "slogan": "Erkunden, Fahren, Überleben!",
+    "description": "Sandbox City ist ein aufregendes Zombie-Überlebensspiel, in dem Sie die Stadt frei erkunden und herumfahren können. Seien Sie vorsichtig vor der Zombie-Infektion! Ihre Mission ist es, die Zombies zu finden und zu eliminieren, bevor sich die Infektion in Sandbox City ausbreitet. Mit seinem Open-World-Gameplay und aufregenden Herausforderungen bietet Sandbox City endlosen Spaß. Beginnen Sie jetzt Ihr Abenteuer und retten Sie die Stadt!",
     "Loading": {
-      "title": "Wird geladen..."
+      "title": "Laden..."
     },
     "Navbar": {
       "title": "Navigation"
@@ -23,9 +23,9 @@
       "previous": "Zurück"
     },
     "HomeIframe": {
-      "title": "Sandbox City - Zombie-Überlebensspiel",
-      "description": "Erkunden Sie Sandbox City, ein Zombie-Überlebensspiel, in dem Sie fahren, erkunden und kämpfen, um die Stadt vor der Infektion zu retten.",
-      "iframeTitle": "Spielvorschau",
+      "title": "Sandbox City: Zombie-Überlebens- und kostenlose Erkundungs-Spiel",
+      "description": "Erkunden Sie die offene Welt von Sandbox City, fahren Sie herum und bekämpfen Sie Zombies, bevor sich die Infektion ausbreitet. Beginnen Sie jetzt Ihr Abenteuer!",
+      "iframeTitle": "Vorschau des Spiels",
       "fullscreenButton": "Vollbild",
       "shareButton": "Teilen",
       "urlCopied": "URL in die Zwischenablage kopiert!",
@@ -33,22 +33,22 @@
       "playGame": "Spiel starten"
     },
     "HomeFeatures": {
-      "gameTitle": "Sandbox City - Autos, Zombies, Ragdolls!",
+      "gameTitle": "Sandbox City: Zombie-Überlebens- und kostenlose Erkundungs-Spiel",
       "whatIsTitle": "Was ist Sandbox City?",
-      "whatIsDescription": "Sandbox City ist ein Zombie-Überlebensspiel, in dem Sie frei erkunden, durch die Stadt fahren und kämpfen können, um die Ausbreitung der Infektion zu verhindern.",
+      "whatIsDescription": "Sandbox City ist ein Open-World-Zombie-Überlebensspiel, in dem Sie erkunden, fahren und Zombies bekämpfen können, um die Stadt vor der Infektion zu retten.",
       "howToPlayTitle": "So spielen Sie",
-      "howToPlayStep1": "Erkunden Sie die Stadt und finden Sie Ressourcen.",
-      "howToPlayStep2": "Fahren Sie herum, um Zombies zu lokalisieren und zu beseitigen.",
-      "howToPlayStep3": "Verhindern Sie die Ausbreitung der Infektion, indem Sie Zombies schnell töten.",
+      "howToPlayStep1": "Erkunden Sie die Stadt frei und fahren Sie herum.",
+      "howToPlayStep2": "Finden und eliminieren Sie Zombies, um die Ausbreitung der Infektion zu verhindern.",
+      "howToPlayStep3": "Schließen Sie Herausforderungen ab und retten Sie Sandbox City vor der Zombie-Bedrohung.",
       "keyFeaturesTitle": "Wichtige Merkmale",
-      "feature1Title": "Offene Welterkundung",
-      "feature1Description": "Erkunden Sie Sandbox City frei und entdecken Sie versteckte Geheimnisse.",
+      "feature1Title": "Offenwelt-Erkundung",
+      "feature1Description": "Erkunden Sie die riesige Stadt Sandbox City frei.",
       "feature2Title": "Zombie-Überleben",
       "feature2Description": "Bekämpfen Sie Zombies und verhindern Sie die Ausbreitung der Infektion.",
       "feature3Title": "Fahrmechanik",
-      "feature3Description": "Fahren Sie durch die Stadt, um Ressourcen zu finden und Gefahren zu entkommen.",
-      "feature4Title": "Ragdoll-Physik",
-      "feature4Description": "Erleben Sie realistische Ragdoll-Physik in Sandbox City."
+      "feature3Description": "Fahren Sie mit verschiedenen Fahrzeugen durch die Stadt.",
+      "feature4Title": "Spannende Herausforderungen",
+      "feature4Description": "Schließen Sie Missionen und Herausforderungen ab, um die Stadt zu retten."
     },
     "HomeFAQs": {
       "title": "FAQ"

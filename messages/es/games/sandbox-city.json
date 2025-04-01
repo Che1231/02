@@ -1,8 +1,8 @@
 {
   "sandbox-city": {
-    "title": "Ciudad Sandbox: Explora, Conduce y Sobrevive al Apocalipsis Zombie",
-    "slogan": "¡Ciudad Sandbox: ¡Coches, Zombis, Muñecos de Trapo!",
-    "description": "Entra en Ciudad Sandbox, un emocionante juego de supervivencia zombi donde puedes explorar y conducir libremente por la ciudad. ¡Ten cuidado con la infección zombi! Encuentra y elimina a los zombis antes de que la infección se propague. Sandbox City ofrece una combinación única de acción, estrategia y supervivencia. ¿Estás listo para asumir el desafío? ¡Juega a Sandbox City ahora!",
+    "title": "Ciudad Sandbox: Juego de supervivencia zombi y exploración gratuita",
+    "slogan": "¡Explora, Conduce, Sobrevive!",
+    "description": "Sandbox City es un emocionante juego de supervivencia zombi donde puedes explorar y conducir libremente por la ciudad. ¡Ten cuidado con la infección de los zombis! Tu misión es encontrar y eliminar a los zombis antes de que la infección se extienda por toda Sandbox City. Con su jugabilidad de mundo abierto y emocionantes desafíos, Sandbox City ofrece diversión sin fin. ¡Comienza tu aventura ahora y salva la ciudad!",
     "Loading": {
       "title": "Cargando..."
     },
@@ -23,54 +23,54 @@
       "previous": "Anterior"
     },
     "HomeIframe": {
-      "title": "Ciudad Sandbox - Juego de Supervivencia Zombi",
-      "description": "Explora Ciudad Sandbox, un juego de supervivencia zombi donde puedes conducir, explorar y luchar para salvar la ciudad de la infección.",
-      "iframeTitle": "Vista Previa del Juego",
-      "fullscreenButton": "Pantalla Completa",
+      "title": "Ciudad Sandbox: Juego de supervivencia zombi y exploración gratuita",
+      "description": "Explora el mundo abierto de Sandbox City, conduce y lucha contra los zombis antes de que la infección se extienda. ¡Comienza tu aventura ahora!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
       "shareButton": "Compartir",
       "urlCopied": "¡URL copiada al portapapeles!",
-      "downloadGame": "Descargar Juego",
+      "downloadGame": "Descargar juego",
       "playGame": "Jugar"
     },
     "HomeFeatures": {
-      "gameTitle": "¡Ciudad Sandbox: ¡Coches, Zombis, Muñecos de Trapo!",
-      "whatIsTitle": "¿Qué es Ciudad Sandbox?",
-      "whatIsDescription": "Ciudad Sandbox es un juego de supervivencia zombi donde puedes explorar libremente, conducir por la ciudad y luchar para evitar la propagación de la infección.",
-      "howToPlayTitle": "Cómo Jugar",
-      "howToPlayStep1": "Explora la ciudad y encuentra recursos.",
-      "howToPlayStep2": "Conduce para localizar y eliminar a los zombis.",
-      "howToPlayStep3": "Evita que la infección se propague matando rápidamente a los zombis.",
-      "keyFeaturesTitle": "Características Clave",
-      "feature1Title": "Exploración de Mundo Abierto",
-      "feature1Description": "Explora libremente Ciudad Sandbox y descubre secretos ocultos.",
-      "feature2Title": "Supervivencia Zombi",
+      "gameTitle": "Ciudad Sandbox: Juego de supervivencia zombi y exploración gratuita",
+      "whatIsTitle": "¿Qué es Sandbox City?",
+      "whatIsDescription": "Sandbox City es un juego de supervivencia zombi de mundo abierto donde puedes explorar, conducir y luchar contra los zombis para salvar la ciudad de la infección.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Explora libremente la ciudad y conduce.",
+      "howToPlayStep2": "Busca y elimina a los zombis para evitar que la infección se extienda.",
+      "howToPlayStep3": "Completa los desafíos y salva a Sandbox City de la amenaza de los zombis.",
+      "keyFeaturesTitle": "Características principales",
+      "feature1Title": "Exploración de mundo abierto",
+      "feature1Description": "Explora libremente la vasta ciudad de Sandbox City.",
+      "feature2Title": "Supervivencia contra zombis",
       "feature2Description": "Combate a los zombis y evita la propagación de la infección.",
-      "feature3Title": "Mecánica de Conducción",
-      "feature3Description": "Conduce por la ciudad para encontrar recursos y escapar del peligro.",
-      "feature4Title": "Física de Muñecos de Trapo",
-      "feature4Description": "Experimenta una física realista de muñecos de trapo en Ciudad Sandbox."
+      "feature3Title": "Mecánica de conducción",
+      "feature3Description": "Conduce por la ciudad en diferentes vehículos.",
+      "feature4Title": "Desafíos emocionantes",
+      "feature4Description": "Completa misiones y desafíos para salvar la ciudad."
     },
     "HomeFAQs": {
-      "title": "Preguntas Frecuentes"
+      "title": "Preguntas frecuentes"
     },
     "HomeRelatedVideo": {
-      "title": "Video del Juego"
+      "title": "Video del juego"
     },
     "HomeRecommendation": {
       "title": "Recomendaciones"
     },
     "HomeComments": {
-      "title": "Comentarios del Juego"
+      "title": "Comentarios del juego"
     },
     "GamePage": {
-      "title": "Todos los Juegos",
-      "description": "Todos los Juegos",
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
       "games": "Juegos"
     },
     "CategoryPage": {
       "categories": "Categorías",
       "noCategories": "No se encontraron categorías",
-      "viewMore": "Ver Más",
+      "viewMore": "Ver más",
       "page": "Página"
     }
   }

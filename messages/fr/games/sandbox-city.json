@@ -1,10 +1,10 @@
 {
   "sandbox-city": {
-    "title": "Sandbox City - Explorez, Conduisez et Survivez à l'Apocalypse des Zombies",
-    "slogan": "Sandbox City - Voitures, Zombies, Poupées!",
-    "description": "Plongez-vous dans Sandbox City, un jeu de survie contre les zombies passionnant où vous pouvez explorer et conduire librement dans la ville. Soyez prudent face à l'infection zombie ! Trouvez et éliminez les zombies avant que l'infection ne se propage. Sandbox City offre un mélange unique d'action, de stratégie et de survie. Prêt à relever le défi ? Jouez à Sandbox City maintenant !",
+    "title": "Ville-sandbox : jeu de survie contre les zombies et d'exploration gratuite",
+    "slogan": "Explorez, conduisez, survivez !",
+    "description": "Sandbox City est un jeu passionnant de survie contre les zombies où vous pouvez explorer et conduire librement dans la ville. Faites attention à l'infection des zombies ! Votre mission est de trouver et d'éliminer les zombies avant que l'infection ne se propage dans toute la ville-sandbox. Avec son gameplay en monde ouvert et ses défis passionnants, Sandbox City offre un plaisir sans fin. Commencez votre aventure maintenant et sauvez la ville !",
     "Loading": {
-      "title": "Chargement…"
+      "title": "Chargement..."
     },
     "Navbar": {
       "title": "Navigation"
@@ -23,35 +23,35 @@
       "previous": "Précédent"
     },
     "HomeIframe": {
-      "title": "Sandbox City - Jeu de survie contre les Zombies",
-      "description": "Explorez Sandbox City, un jeu de survie contre les zombies où vous pouvez conduire, explorer et combattre pour sauver la ville de l'infection.",
+      "title": "Ville-sandbox : jeu de survie contre les zombies et d'exploration gratuite",
+      "description": "Explorez le monde ouvert de Sandbox City, conduisez et combattez les zombies avant que l'infection ne se propage. Commencez votre aventure maintenant !",
       "iframeTitle": "Aperçu du jeu",
       "fullscreenButton": "Plein écran",
       "shareButton": "Partager",
-      "urlCopied": "URL copiée dans le presse-papiers !",
+      "urlCopied": "URL copiée dans le presse-papiers !",
       "downloadGame": "Télécharger le jeu",
-      "playGame": "Jouer au jeu"
+      "playGame": "Jouer"
     },
     "HomeFeatures": {
-      "gameTitle": "Sandbox City - Voitures, Zombies, Poupées!",
-      "whatIsTitle": "Qu'est-ce que Sandbox City ?",
-      "whatIsDescription": "Sandbox City est un jeu de survie contre les zombies où vous pouvez explorer librement, conduire dans la ville et combattre pour empêcher la propagation de l'infection.",
+      "gameTitle": "Ville-sandbox : jeu de survie contre les zombies et d'exploration gratuite",
+      "whatIsTitle": "Qu'est-ce que Sandbox City ?",
+      "whatIsDescription": "Sandbox City est un jeu de survie contre les zombies en monde ouvert où vous pouvez explorer, conduire et combattre les zombies pour sauver la ville de l'infection.",
       "howToPlayTitle": "Comment jouer",
-      "howToPlayStep1": "Explorez la ville et trouvez des ressources.",
-      "howToPlayStep2": "Conduisez pour localiser et éliminer les zombies.",
-      "howToPlayStep3": "Empêchez la propagation de l'infection en tuant rapidement les zombies.",
+      "howToPlayStep1": "Explorez librement la ville et conduisez.",
+      "howToPlayStep2": "Trouvez et éliminez les zombies pour empêcher la propagation de l'infection.",
+      "howToPlayStep3": "Réalisez les défis et sauvez Sandbox City de la menace des zombies.",
       "keyFeaturesTitle": "Caractéristiques principales",
-      "feature1Title": "Exploration du Monde Ouvert",
-      "feature1Description": "Explorez librement Sandbox City et découvrez des secrets cachés.",
-      "feature2Title": "Survie contre les Zombies",
-      "feature2Description": "Combattez les zombies et évitez la propagation de l'infection.",
-      "feature3Title": "Mécanique de Conduite",
-      "feature3Description": "Conduisez dans la ville pour trouver des ressources et vous échapper au danger.",
-      "feature4Title": "Physique des Poupées",
-      "feature4Description": "Découvrez la physique réaliste des poupées dans Sandbox City."
+      "feature1Title": "Exploration en monde ouvert",
+      "feature1Description": "Explorez librement la vaste ville de Sandbox City.",
+      "feature2Title": "Survie contre les zombies",
+      "feature2Description": "Combattez les zombies et empêchez la propagation de l'infection.",
+      "feature3Title": "Mécanismes de conduite",
+      "feature3Description": "Conduisez dans la ville avec différents véhicules.",
+      "feature4Title": "Défis passionnants",
+      "feature4Description": "Réalisez des missions et des défis pour sauver la ville."
     },
     "HomeFAQs": {
-      "title": "Foire aux questions"
+      "title": "FAQ"
     },
     "HomeRelatedVideo": {
       "title": "Vidéo du jeu"
