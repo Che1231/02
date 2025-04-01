@@ -1,0 +1,77 @@
+{
+  "whackamole3d": {
+    "title": "WhackAMole3D：趣味街機遊戲 – 免費線上遊戲",
+    "slogan": "用 WhackAMole3D 測試你的反應速度",
+    "description": "WhackAMole3D 是一款快速節奏的街機遊戲，挑戰你的反應能力。鼴鼠會隨機冒出，你的目標是快速點擊它們。享受 WhackAMole3D 的刺激，看看你能獲得多高的分數。現在就玩 WhackAMole3D，體驗刺激！",
+    "Loading": {
+      "title": "載入 WhackAMole3D..."
+    },
+    "Navbar": {
+      "title": "導航欄"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "WhackAMole3D",
+      "description": "WhackAMole3D 是一款有趣的快速節奏街機遊戲，考驗你的反應能力！鼴鼠會隨機從洞中跳出，你的任務是盡可能快地點擊它們。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "WhackAMole3D",
+      "whatIsTitle": "WhackAMole3D 是什麼？",
+      "whatIsDescription": "WhackAMole3D 是一款刺激的街機遊戲，測試你的反應速度和技巧。鼴鼠會隨機從洞中冒出，你需要迅速點擊它們來得分。",
+      "howToPlayTitle": "如何遊戲",
+      "howToPlayStep1": "鼴鼠將隨機從洞中出現。",
+      "howToPlayStep2": "盡可能快速地點擊鼴鼠。",
+      "howToPlayStep3": "得分並嘗試打破你的最高分！",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "快速節奏的遊戲玩法",
+      "feature1Description": "WhackAMole3D 的快速且具挑戰性的遊戲玩法會讓你保持亢奮。",
+      "feature2Title": "隨機的鼴鼠出現",
+      "feature2Description": "鼴鼠隨機出現，使每個遊戲都獨特且令人興奮。",
+      "feature3Title": "反應測試",
+      "feature3Description": "每次點擊都測試並提升你的反應能力。",
+      "feature4Title": "高分挑戰",
+      "feature4Description": "與自己和其他人競爭，以達到最高分。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦遊戲"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲列表"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到分類",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

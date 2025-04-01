@@ -1,0 +1,77 @@
+{
+  "whackamole3d": {
+    "title": "WhackAMole3D: Ein unterhaltsames Arcade-Spiel – Kostenlos online spielen",
+    "slogan": "Testen Sie Ihre Reaktionsfähigkeit mit WhackAMole3D",
+    "description": "WhackAMole3D ist ein schnelllebiges Arcade-Spiel, das Ihre Reaktionsfähigkeit herausfordert. Maulwürfe erscheinen zufällig und Ihr Ziel ist es, sie schnell anzuklicken. Genießen Sie die Spannung von WhackAMole3D und sehen Sie, wie hoch Sie punkten können. Spielen Sie jetzt WhackAMole3D und erleben Sie den Nervenkitzel!",
+    "Loading": {
+      "title": "Lade WhackAMole3D..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "WhackAMole3D",
+      "description": "WhackAMole3D ist ein spaßiges und schnelllebiges Arcade-Spiel, bei dem Ihre Reaktionsfähigkeit auf die Probe gestellt wird! Maulwürfe erscheinen zufällig aus ihren Löchern und Sie müssen sie so schnell wie möglich anklicken.",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel spielen"
+    },
+    "HomeFeatures": {
+      "gameTitle": "WhackAMole3D",
+      "whatIsTitle": "Was ist WhackAMole3D?",
+      "whatIsDescription": "WhackAMole3D ist ein spannendes Arcade-Spiel, das Ihre Reaktionsfähigkeit und Geschwindigkeit auf die Probe stellt. Maulwürfe erscheinen zufällig und Sie müssen sie schnell anklick, um Punkte zu sammeln.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Maulwürfe erscheinen zufällig aus ihren Löchern.",
+      "howToPlayStep2": "Klicken Sie auf die Maulwürfe so schnell wie möglich.",
+      "howToPlayStep3": "Sammeln Sie Punkte und versuchen Sie, Ihre Bestleistung zu übertreffen!",
+      "keyFeaturesTitle": "Wichtige Merkmale",
+      "feature1Title": "Schnelllebiges Gameplay",
+      "feature1Description": "WhackAMole3D hält Sie mit seinem schnellen und herausfordernden Gameplay auf Trab.",
+      "feature2Title": "Zufälliges Erscheinen der Maulwürfe",
+      "feature2Description": "Maulwürfe erscheinen zufällig, was jedes Spiel einzigartig und spannend macht.",
+      "feature3Title": "Reaktionsfähigkeit testen",
+      "feature3Description": "Testen und verbessern Sie Ihre Reaktionsfähigkeit mit jedem Klick.",
+      "feature4Title": "Herausforderung der Bestleistung",
+      "feature4Description": "Wettstreiten Sie mit sich selbst und anderen, um die höchste Punktzahl zu erreichen."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

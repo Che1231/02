@@ -1,0 +1,1 @@
+Welcome to Alphabet Run 3D, an amazing game! You play as Alphabet A, and your mission is to collect as many alphabets as possible to defeat the blue monster. Choose the same color as your player to multiply your alphabets. Enjoy!

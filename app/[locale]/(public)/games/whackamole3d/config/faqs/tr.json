@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Başlangıç seviyesindeki oyuncular için WhackAMole3D'de temel işlemler nasıl gerçekleştirilir?",
+    "answer": "WhackAMole3D'de temel işlemler oldukça basittir. ADIM 1: Fareyi ortaya çıkan tavşanlara tıklayın. ADIM 2: Tavşanın rengine dikkat edin; farklı renkler farklı puan değerleri ifade edebilir. ADIM 3: Görünebilecek bombalara veya diğer engellere tıklamaktan kaçının. Örneğin, yeşil bir tavşan size 10 puan verirken, kırmızı olanı puan kaybettirebilir. [Örneklendirme: Hızlı bir etiket oyununu, hızlı ve doğru olmanız gereken bir oyun gibi düşünün.]"
+  },
+  {
+    "question": "100 saatlik oyun sonrası WhackAMole3D'de yüksek puan almak için en iyi stratejiler nelerdir?",
+    "answer": "100 saatten sonra gelişmiş stratejilere odaklanmalısınız. ADIM 1: Tavşanları puan değerlerine ve görünme sıklıklarına göre önceliklendirin. ADIM 2: Tavşanların görünüşlerini tahmin etmek için bir ritim geliştirin; varsa ses ipuçlarını kullanın. ADIM 3: Arada görünen güçlendirmeleri veya özel öğeleri kullanın. Örneğin, altın bir tavşan kısa bir süre için puanlarınızı iki katına çıkarabilir. [Karşılaştırma Tablosu: Farklı tavşan renklerinin puan değerlerini stratejinizi optimize etmek için karşılaştırın.]"
+  },
+  {
+    "question": "WhackAMole3D neden 2B yerine 3B bir ortam kullanıyor?",
+    "answer": "WhackAMole3D, oyuncunun daldırılmasını ve zorluğunu artırmak için 3B bir ortam kullanıyor. Derinlik algısı, oyuncuların mesafeleri ve açıları yargılamasını gerektiren bir zorluk katıyor. Örneğin, ekranda arka planda görünen bir tavşanı, ön plandaki bir tavşandan vurmak daha zor olabilir. [Karşılaştırma: 3B deneyimi geleneksel 2B tavşan vurma oyunlarıyla karşılaştırarak eklenen karmaşıklığa dikkat çekin.]"
+  },
+  {
+    "question": "WhackAMole3D'deki hangi oyun mekanikleri başarı için en önemli olanlardır?",
+    "answer": "WhackAMole3D'de birkaç önemli mekanizma var. İlk olarak, tavşanların görünme zamanlaması kritiktir; çok hızlıysa oyuncular tepki veremez, çok yavaşsa sıkıcı olur. İkinci olarak, beceriyi cezalandırmadan ödüllendirmek için puanlama sistemi dengeli olmalıdır. Üçüncü olarak, bombalar gibi engellerin eklenmesi bir risk unsuru ekler. Örneğin, bir bombaya vurmak çarpımınızı sıfırlayabilir. [Basit çizgi açıklaması: Tavşan görünümünden oyuncu tepkisine kadar oyun mekaniklerinin akışını gösterin.]"
+  },
+  {
+    "question": "WhackAMole3D'de tepki süremizi nasıl artırabiliriz?",
+    "answer": "WhackAMole3D'de tepki süresini artırmak, pratik ve odaklanmayı gerektirir. ADIM 1: Oyunun temposuna alışmak için düzenli olarak oynayın. ADIM 2: Konsantrasyonu korumak için dikkat dağıtıcıları en aza indirin. ADIM 3: Tavşan görünümlerini tahmin etmek için oyunun ses efektlerini kullanın. Örneğin, belirli bir ses yüksek değerli bir tavşandan önce gelebilir. [Örneklendirme: Hızlı tempolu bir sporda reflekslerinizi eğitmeye benzetin.]"
+  },
+  {
+    "question": "WhackAMole3D'de çoğu oyuncunun kaçırma olasılığı yüksek olan gizli özellikler nelerdir?",
+    "answer": "WhackAMole3D'de gizli özellikler mevcuttur. Bir tanesi çok nadir görünen fakat büyük puan artışı sunan 'gizli tavşan'. Diğeri ise ardışık vuruşlarda hata yapmadan puan çarpımınızı artıran 'kombo sistemi'. Örneğin, 10 tavşana aralıksız vurmak sonraki 10 tavşanın puanlarınızın iki katına çıkmasını sağlar. [Özellikler: Oyun deneyiminizi geliştirmek için bu gizli özellikleri keşfedin.]"
+  },
+  {
+    "question": "WhackAMole3D farklı platformlar arasında veri göçünü nasıl ele alıyor?",
+    "answer": "WhackAMole3D veri göçünü yönetmek için bulut tabanlı kaydetme kullanıyor. İlerlemeleriniz, yüksek puanlarınız ve açtığınız özellikler bulutta saklanır, bu nedenle herhangi bir uyumlu cihazda oyununuza devam edebilirsiniz. Örneğin, bir bilgisayardan mobil cihaza geçerseniz, yüksek puanlarınız erişilebilir olacaktır. [Karşılaştırma Tablosu: Farklı platformlarda veri göç sürecini tutarlılığı sağlamak için karşılaştırın.]"
+  },
+  {
+    "question": "WhackAMole3D'de tavşanın rengi ne anlama gelir?",
+    "answer": "WhackAMole3D'de tavşanın rengi, puan değerini ve bazen davranışını gösterir. Örneğin, mavi bir tavşan 5 puan değerinde ve sıklıkla görünürken, kırmızı bir tavşan 20 puan değerinde ancak nadir görülebilir. Bu renkleri anlamak daha iyi stratejiler geliştirmenize yardımcı olabilir. [Karşılaştırma: Farklı tavşan renklerini ve puanlama etkilerini karşılaştırın.]"
+  },
+  {
+    "question": "WhackAMole3D'de güçlendirmeleri kullanarak puanımı nasıl en üst düzeye çıkarabilirim?",
+    "answer": "Güçlendirmeler ile puanınızı en üst düzeye çıkarmak stratejik kullanım gerektirir. ADIM 1: Oyun tarzınıza en uygun güçlendirmeleri belirleyin. ADIM 2: Yüksek değerli tavşanlar sırasında kullanarak puanları en üst düzeye çıkarın. ADIM 3: Oynama daha zorlaştığında daha sonraki seviyeler için saklayın. Örneğin, 'ikili puan' güçlendirmesi bir altın tavşan sırasında kullanıldığında puanınızı önemli ölçüde artırabilir. [Basit çizgi açıklaması: Oyun boyunca güçlendirmelerin en iyi kullanımını gösterin.]"
+  },
+  {
+    "question": "WhackAMole3D'de yeni oyuncuların en yaygın yaptığı hatalar nelerdir?",
+    "answer": "Yeni oyuncular genellikle birkaç yaygın hata yapar. İlk olarak, hedef almadan çok hızlı tıklarlar, bu da tavşanların kaçırılmasına yol açar. İkinci olarak, tavşanların renk kodlamasını görmezden gelirler, bu da daha yüksek puanlardan kaçınmalarına neden olur. Üçüncü olarak, bombalar ortaya çıktığında paniğe kapılırlar, bu da gereksiz puan kayıplarına yol açar. Örneğin, yeni bir oyuncu yüksek değerli bir tavşana vurmaya çalışırken bir bombaya tıklayabilir. [Örneklendirme: Sürücü eğitimine benzetin; başlangıçta hatalar yapabilirsiniz, ancak pratik ile iyileşme gösterirsiniz.]"
+  }
+]

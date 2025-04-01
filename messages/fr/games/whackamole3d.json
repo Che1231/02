@@ -1,0 +1,77 @@
+{
+  "whackamole3d": {
+    "title": "WhackAMole3D : Jeu Arcade amusant - Jouez en ligne gratuitement",
+    "slogan": "Testez vos réflexes avec WhackAMole3D",
+    "description": "WhackAMole3D est un jeu d'arcade rapide qui met vos réflexes à l'épreuve. Des taupes sortent aléatoirement, et votre objectif est de les taper rapidement. Profitez de l'excitation de WhackAMole3D et voyez jusqu'où vous pouvez monter dans le classement. Jouez à WhackAMole3D maintenant et vivez le frisson !",
+    "Loading": {
+      "title": "Chargement de WhackAMole3D ..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens utiles",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "WhackAMole3D",
+      "description": "WhackAMole3D est un jeu d'arcade amusant et rapide où vos réflexes sont mis à l'épreuve ! Des taupes sortent aléatoirement de leurs trous, et c'est votre travail de les frapper le plus rapidement possible.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "WhackAMole3D",
+      "whatIsTitle": "Qu'est-ce que WhackAMole3D ?",
+      "whatIsDescription": "WhackAMole3D est un jeu d'arcade passionnant qui met vos réflexes et votre rapidité à l'épreuve. Des taupes surgissent aléatoirement, et vous devez les frapper rapidement pour gagner des points.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Les taupes apparaîtront aléatoirement de leurs trous.",
+      "howToPlayStep2": "Cliquez sur les taupes le plus rapidement possible.",
+      "howToPlayStep3": "Gagnez des points et essayez de battre votre meilleur score !",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Gameplay rapide",
+      "feature1Description": "WhackAMole3D vous maintient en haleine avec son gameplay rapide et stimulant.",
+      "feature2Title": "Apparitions aléatoires des taupes",
+      "feature2Description": "Les taupes apparaissent aléatoirement, ce qui rend chaque partie unique et passionnante.",
+      "feature3Title": "Test des réflexes",
+      "feature3Description": "Testez et améliorez vos réflexes à chaque frappe.",
+      "feature4Title": "Défi du meilleur score",
+      "feature4Description": "Concurrençez avec vous-même et les autres pour atteindre le meilleur score."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires des joueurs"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Afficher plus",
+      "page": "Page"
+    }
+  }
+}

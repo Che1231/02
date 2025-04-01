@@ -1,0 +1,77 @@
+{
+  "whackamole3d": {
+    "title": "WhackAMole3D：楽しいアーケードゲーム - オンラインで無料でプレイ",
+    "slogan": "WhackAMole3Dで反射神経をテスト",
+    "description": "WhackAMole3Dは、反射神経に挑戦する、テンポの速いアーケードゲームです。モグラがランダムに出現し、素早くタップするのが目標です。WhackAMole3Dの興奮を楽しんで、あなたのスコアをどれだけ高くできるか見てください。 今すぐWhackAMole3Dをプレイして、そのスリルを体験してください！",
+    "Loading": {
+      "title": "WhackAMole3Dを読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "WhackAMole3D",
+      "description": "WhackAMole3Dは、反射神経が試される、楽しくてテンポの速いアーケードゲームです！モグラが穴からランダムに出現し、できるだけ早くタップする必要があります。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "WhackAMole3D",
+      "whatIsTitle": "WhackAMole3Dとは？",
+      "whatIsDescription": "WhackAMole3Dは、あなたの反射神経とスピードをテストするエキサイティングなアーケードゲームです。モグラがランダムに出現し、素早くタップしてポイントを獲得する必要があります。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "モグラが穴からランダムに出現します。",
+      "howToPlayStep2": "できるだけ早くモグラをタップしてください。",
+      "howToPlayStep3": "ポイントを獲得し、あなたの最高スコアに挑戦してください！",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "テンポの速いゲームプレイ",
+      "feature1Description": "WhackAMole3Dは、速くて挑戦的なゲームプレイであなたを常に刺激します。",
+      "feature2Title": "ランダムなモグラの出現",
+      "feature2Description": "モグラがランダムに出現するため、各ゲームがユニークでエキサイティングです。",
+      "feature3Title": "反射神経テスト",
+      "feature3Description": "タップするたびに反射神経をテストし、向上させてください。",
+      "feature4Title": "高得点チャレンジ",
+      "feature4Description": "自分自身や他のプレイヤーと競い合い、最高スコアを目指してください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム一覧"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

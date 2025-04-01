@@ -1,0 +1,1 @@
+Whack-a-Mole WebGL is a fun and fast-paced arcade game where your reflexes are put to the test! Moles randomly pop out of their holes, and it’s your job to tap them as quickly as possible. 
