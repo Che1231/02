@@ -1,0 +1,1 @@
+Basketball Superstars is a dynamic basketball experience where you create and train your ultimate player. Customize your gear, enhance your skills, and face intense rivals in fast-paced matches. Whether you are outsmarting opponents or perfecting your strategy, each game delivers action and excitement as you strive to dominate the court and showcase your prowess.

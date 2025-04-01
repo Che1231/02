@@ -1,0 +1,77 @@
+{
+  "basketball-superstars": {
+    "title": "Superstars du basket-ball - Créez et dominez le terrain",
+    "slogan": "Construisez votre joueur ultime et maîtrisez le jeu",
+    "description": "Basketball Superstars offre une expérience de basket-ball dynamique où vous créez et entraînez votre joueur ultime. Personnalisez votre équipement, améliorez vos compétences et affrontez des rivaux acharnés dans des matchs rapides. Que vous soyez en train de déjouer les adversaires ou de perfectionner votre stratégie, chaque partie offre action et excitation. Rejoignez Basketball Superstars maintenant et montrez vos prouesses sur le terrain !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amicaux",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Superstars du basket-ball - Créez et dominez le terrain",
+      "description": "Basketball Superstars offre une expérience de basket-ball dynamique où vous créez et entraînez votre joueur ultime. Personnalisez votre équipement, améliorez vos compétences et affrontez des rivaux acharnés dans des matchs rapides.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Superstars du basket-ball",
+      "whatIsTitle": "Qu'est-ce que Basketball Superstars ?",
+      "whatIsDescription": "Basketball Superstars offre une expérience de basket-ball dynamique où vous créez et entraînez votre joueur ultime. Personnalisez votre équipement, améliorez vos compétences et affrontez des rivaux acharnés dans des matchs rapides.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Créez et personnalisez votre joueur ultime.",
+      "howToPlayStep2": "Entraînez et améliorez les compétences de votre joueur.",
+      "howToPlayStep3": "Participez à des matchs rapides contre des rivaux acharnés.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Personnalisation du joueur",
+      "feature1Description": "Personnalisez l'équipement et l'apparence de votre joueur pour vous démarquer sur le terrain.",
+      "feature2Title": "Amélioration des compétences",
+      "feature2Description": "Entraînez et améliorez les compétences de votre joueur pour dominer le jeu.",
+      "feature3Title": "Rivals acharnés",
+      "feature3Description": "Affrontez des adversaires exigeants dans des matchs rapides.",
+      "feature4Title": "Gameplay dynamique",
+      "feature4Description": "Découvrez un gameplay riche en action à chaque match."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

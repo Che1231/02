@@ -1,0 +1,77 @@
+{
+  "basketball-superstars": {
+    "title": "Siêu sao bóng rổ - Tạo và thống trị sân chơi",
+    "slogan": "Xây dựng cầu thủ hoàn hảo và chinh phục trò chơi",
+    "description": "Siêu sao bóng rổ mang đến trải nghiệm bóng rổ năng động, nơi bạn tạo và huấn luyện cầu thủ hoàn hảo của mình. Tùy chỉnh trang phục, nâng cao kỹ năng và đối mặt với đối thủ mạnh trong các trận đấu nhanh chóng. Dù là vượt mặt đối thủ hay hoàn thiện chiến thuật của bạn, mỗi trận đấu đều đầy hành động và kịch tính. Tham gia Siêu sao bóng rổ ngay bây giờ và thể hiện tài năng của bạn trên sân!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Đọc"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Siêu sao bóng rổ - Tạo và thống trị sân chơi",
+      "description": "Siêu sao bóng rổ mang đến trải nghiệm bóng rổ năng động, nơi bạn tạo và huấn luyện cầu thủ hoàn hảo của mình. Tùy chỉnh trang phục, nâng cao kỹ năng và đối mặt với đối thủ mạnh trong các trận đấu nhanh chóng.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào clipboard!",
+      "downloadGame": "Tải game",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Siêu sao bóng rổ",
+      "whatIsTitle": "Siêu sao bóng rổ là gì?",
+      "whatIsDescription": "Siêu sao bóng rổ mang đến trải nghiệm bóng rổ năng động, nơi bạn tạo và huấn luyện cầu thủ hoàn hảo của mình. Tùy chỉnh trang phục, nâng cao kỹ năng và đối mặt với đối thủ mạnh trong các trận đấu nhanh chóng.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Tạo và tùy chỉnh cầu thủ hoàn hảo của bạn.",
+      "howToPlayStep2": "Huấn luyện và nâng cao kỹ năng cho cầu thủ của bạn.",
+      "howToPlayStep3": "Tham gia các trận đấu nhanh chóng với đối thủ mạnh.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Tùy chỉnh cầu thủ",
+      "feature1Description": "Tùy chỉnh trang phục và ngoại hình cho cầu thủ của bạn để nổi bật trên sân.",
+      "feature2Title": "Nâng cao kỹ năng",
+      "feature2Description": "Huấn luyện và cải thiện kỹ năng cho cầu thủ của bạn để thống trị trò chơi.",
+      "feature3Title": "Đối thủ mạnh",
+      "feature3Description": "Đối mặt với các đối thủ thách thức trong các trận đấu nhanh chóng.",
+      "feature4Title": "Gameplay năng động",
+      "feature4Description": "Trải nghiệm gameplay hành động trong mỗi trận đấu."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video game"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận về game"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

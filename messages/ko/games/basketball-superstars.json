@@ -1,0 +1,77 @@
+{
+  "basketball-superstars": {
+    "title": "농구 슈퍼스타 - 코트를 지배하세요",
+    "slogan": "최고의 플레이어를 만들고 게임을 마스터하세요",
+    "description": "농구 슈퍼스타는 최고의 플레이어를 만들고 훈련하는 역동적인 농구 경험을 제공합니다. 장비를 맞춤 설정하고, 기술을 향상시키며, 빠르게 진행되는 경기에서 치열한 라이벌과 맞서십시오. 상대방을 제압하거나 전략을 완성하든, 각 게임은 액션과 흥분을 선사합니다. 지금 농구 슈퍼스타에 참여하여 코트에서 실력을 발휘하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "농구 슈퍼스타 - 코트를 지배하세요",
+      "description": "농구 슈퍼스타는 최고의 플레이어를 만들고 훈련하는 역동적인 농구 경험을 제공합니다. 장비를 맞춤 설정하고, 기술을 향상시키며, 빠르게 진행되는 경기에서 치열한 라이벌과 맞서십시오.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "농구 슈퍼스타",
+      "whatIsTitle": "농구 슈퍼스타는 무엇인가요?",
+      "whatIsDescription": "농구 슈퍼스타는 최고의 플레이어를 만들고 훈련하는 역동적인 농구 경험을 제공합니다. 장비를 맞춤 설정하고, 기술을 향상시키며, 빠르게 진행되는 경기에서 치열한 라이벌과 맞서십시오.",
+      "howToPlayTitle": "게임 방식",
+      "howToPlayStep1": "최고의 플레이어를 만들고 맞춤 설정하십시오.",
+      "howToPlayStep2": "플레이어의 기술을 훈련하고 향상시키십시오.",
+      "howToPlayStep3": "빠르게 진행되는 경기에서 치열한 라이벌과 경쟁하십시오.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "플레이어 맞춤 설정",
+      "feature1Description": "코트에서 돋보이도록 플레이어의 장비와 외모를 맞춤 설정하십시오.",
+      "feature2Title": "스킬 향상",
+      "feature2Description": "게임을 지배하기 위해 플레이어의 기술을 훈련하고 향상시키십시오.",
+      "feature3Title": "치열한 라이벌",
+      "feature3Description": "빠르게 진행되는 경기에서 까다로운 상대방과 대결하십시오.",
+      "feature4Title": "역동적인 게임 플레이",
+      "feature4Description": "매 경기 액션으로 가득 찬 게임 플레이를 경험하십시오."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}
