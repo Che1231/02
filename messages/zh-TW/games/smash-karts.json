@@ -1,0 +1,77 @@
+{
+  "smash-karts": {
+    "title": "線上多人卡丁車對戰遊戲 - 玩擊碎卡丁車",
+    "slogan": "駕駛、戰鬥、獲勝！",
+    "description": "擊碎卡丁車是一款令人興奮的 3D 多人線上卡丁車對戰遊戲。駕駛你的卡丁車，撿起武器，炸毀其他卡丁車以獲勝！持續遊玩以提升等級並解鎖新角色和獎勵。立即加入充滿動作的擊碎卡丁車宇宙，體驗究極卡丁車對戰！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友善連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "擊碎卡丁車 - 多人卡丁車對戰",
+      "description": "擊碎卡丁車是一款 3D 多人線上卡丁車對戰遊戲。駕駛你的卡丁車，撿起武器，炸毀其他卡丁車以獲勝！持續遊玩以提升等級並解鎖新角色和獎勵。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "遊玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "擊碎卡丁車 - 多人卡丁車對戰",
+      "whatIsTitle": "擊碎卡丁車是什麼？",
+      "whatIsDescription": "擊碎卡丁車是一款 3D 多人線上卡丁車對戰遊戲，您駕駛卡丁車、撿取武器並炸毀其他卡丁車以獲勝！",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "駕駛您的卡丁車並收集武器。",
+      "howToPlayStep2": "使用武器摧毀其他卡丁車。",
+      "howToPlayStep3": "持續遊玩以提升等級並解鎖新角色和獎勵。",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "多人對戰",
+      "feature1Description": "與來自世界各地的玩家進行即時卡丁車對戰。",
+      "feature2Title": "武器收集",
+      "feature2Description": "收集各種武器來智取並打敗您的對手。",
+      "feature3Title": "角色解鎖",
+      "feature3Description": "提升等級以解鎖新角色並客製化您的卡丁車。",
+      "feature4Title": "3D 圖形",
+      "feature4Description": "在令人驚豔的 3D 圖形中體驗遊戲，讓動作栩栩如生。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦遊戲"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到分類",
+      "viewMore": "查看更多",
+      "page": "頁碼"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "smash-karts": {
+    "title": "Play Smash Karts Online - Multiplayer Kart Battle Game",
+    "slogan": "Drive, Battle, Win!",
+    "description": "Smash Karts is a thrilling 3D multiplayer IO kart battle game. Drive your go-kart, pick up weapons, and blow up other karts to win! Keep playing to level up and unlock new characters and prizes. Join the action-packed Smash Karts universe today and experience the ultimate kart battle!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Smash Karts - Multiplayer Kart Battle",
+      "description": "Smash Karts is a 3D multiplayer IO kart battle game. Drive your go-kart, pick up weapons, and blow up other karts to win! Keep playing to level up and unlock new characters and prizes.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Smash Karts - Multiplayer Kart Battle",
+      "whatIsTitle": "What is Smash Karts?",
+      "whatIsDescription": "Smash Karts is a 3D multiplayer IO kart battle game where you drive your go-kart, pick up weapons, and blow up other karts to win!",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Drive your go-kart and collect weapons.",
+      "howToPlayStep2": "Use weapons to destroy other karts.",
+      "howToPlayStep3": "Keep playing to level up and unlock new characters and prizes.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Multiplayer Battles",
+      "feature1Description": "Compete against players from around the world in real-time kart battles.",
+      "feature2Title": "Weapon Collection",
+      "feature2Description": "Pick up a variety of weapons to outsmart and outplay your opponents.",
+      "feature3Title": "Character Unlocks",
+      "feature3Description": "Level up to unlock new characters and customize your kart.",
+      "feature4Title": "3D Graphics",
+      "feature4Description": "Experience the game in stunning 3D graphics that bring the action to life."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

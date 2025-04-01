@@ -1,0 +1,77 @@
+{
+  "smash-karts": {
+    "title": "玩《激战卡丁车》- 多人卡丁车对战游戏",
+    "slogan": "驾驶、战斗、获胜！",
+    "description": "《激战卡丁车》是一款令人兴奋的3D多人IO卡丁车对战游戏。驾驶你的卡丁车，拾取武器，炸毁其他卡丁车来获胜！继续游戏来升级并解锁新角色和奖励。立即加入充满动作的《激战卡丁车》宇宙，体验终极卡丁车对决！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "《激战卡丁车》- 多人卡丁车对战",
+      "description": "《激战卡丁车》是一款3D多人IO卡丁车对战游戏。驾驶你的卡丁车，拾取武器，炸毁其他卡丁车来获胜！继续游戏来升级并解锁新角色和奖励。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "《激战卡丁车》- 多人卡丁车对战",
+      "whatIsTitle": "《激战卡丁车》是什么？",
+      "whatIsDescription": "《激战卡丁车》是一款3D多人IO卡丁车对战游戏，驾驶你的卡丁车，拾取武器，炸毁其他卡丁车来获胜！",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "驾驶你的卡丁车并收集武器。",
+      "howToPlayStep2": "使用武器摧毁其他卡丁车。",
+      "howToPlayStep3": "继续游戏来升级并解锁新角色和奖励。",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "多人对战",
+      "feature1Description": "与来自世界各地的玩家实时进行卡丁车对战。",
+      "feature2Title": "武器收集",
+      "feature2Description": "拾取各种武器来智胜你的对手。",
+      "feature3Title": "角色解锁",
+      "feature3Description": "升级以解锁新角色并定制你的卡丁车。",
+      "feature4Title": "3D 图形",
+      "feature4Description": "体验逼真的3D图形，让游戏更精彩。 "
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

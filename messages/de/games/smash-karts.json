@@ -1,0 +1,77 @@
+{
+  "smash-karts": {
+    "title": "Online Smash Karts spielen - Multiplayer-Kart-Rennspiel",
+    "slogan": "Fahren, Kämpfen, Gewinnen!",
+    "description": "Smash Karts ist ein spannendes 3D-Multiplayer-IO-Kart-Rennspiel. Führe deinen Gokart, sammle Waffen und zerstöre andere Karts, um zu gewinnen! Spiele weiter, um aufzusteigen und neue Charaktere und Preise freizuschalten. Tritt noch heute der actiongeladenen Smash Karts-Welt bei und erlebe den ultimativen Kart-Kampf!",
+    "Loading": {
+      "title": "Lädt..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Leitfaden",
+      "privacyPolicy": "Datenschutzerklärung",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Smash Karts – Multiplayer-Kart-Kampf",
+      "description": "Smash Karts ist ein 3D-Multiplayer-IO-Kart-Rennspiel. Führe deinen Gokart, sammle Waffen und zerstöre andere Karts, um zu gewinnen! Spiele weiter, um aufzusteigen und neue Charaktere und Preise freizuschalten.",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Smash Karts – Multiplayer-Kart-Kampf",
+      "whatIsTitle": "Was ist Smash Karts?",
+      "whatIsDescription": "Smash Karts ist ein 3D-Multiplayer-IO-Kart-Rennspiel, in dem du deinen Gokart fährst, Waffen sammelst und andere Karts zerstörst, um zu gewinnen!",
+      "howToPlayTitle": "So spielst du",
+      "howToPlayStep1": "Führe deinen Gokart und sammle Waffen.",
+      "howToPlayStep2": "Verwende Waffen, um andere Karts zu zerstören.",
+      "howToPlayStep3": "Spiele weiter, um aufzusteigen und neue Charaktere und Preise freizuschalten.",
+      "keyFeaturesTitle": "Haupteigenschaften",
+      "feature1Title": "Mehrspielerkämpfe",
+      "feature1Description": "Tritt in Echtzeit-Kart-Kämpfen gegen Spieler aus der ganzen Welt an.",
+      "feature2Title": "Waffensammlung",
+      "feature2Description": "Sammle verschiedene Waffen, um deine Gegner zu überlisten und zu besiegen.",
+      "feature3Title": "Charakterfreischaltung",
+      "feature3Description": "Steige auf, um neue Charaktere freizuschalten und deinen Gokart anzupassen.",
+      "feature4Title": "3D-Grafiken",
+      "feature4Description": "Erlebe das Spiel in atemberaubenden 3D-Grafiken, die die Action zum Leben erwecken."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

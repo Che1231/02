@@ -1,0 +1,77 @@
+{
+  "smash-karts": {
+    "title": "Chơi Smash Karts Trực tuyến - Trò chơi đua xe kart nhiều người chơi",
+    "slogan": "Lái xe, Chiến đấu, Thắng!",
+    "description": "Smash Karts là một trò chơi đua xe kart IO nhiều người chơi 3D đầy kịch tính. Lái xe kart của bạn, nhặt vũ khí và phá hủy các kart khác để chiến thắng! Tiếp tục chơi để nâng cấp và mở khóa các nhân vật và phần thưởng mới. Tham gia vũ trụ Smash Karts đầy hành động ngay hôm nay và trải nghiệm trận chiến kart cuối cùng!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Smash Karts - Trận chiến đua xe kart nhiều người chơi",
+      "description": "Smash Karts là một trò chơi đua xe kart IO nhiều người chơi 3D. Lái xe kart của bạn, nhặt vũ khí và phá hủy các kart khác để chiến thắng! Tiếp tục chơi để nâng cấp và mở khóa các nhân vật và phần thưởng mới.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào clipboard!",
+      "downloadGame": "Tải xuống trò chơi",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Smash Karts - Trận chiến đua xe kart nhiều người chơi",
+      "whatIsTitle": "Smash Karts là gì?",
+      "whatIsDescription": "Smash Karts là một trò chơi đua xe kart IO nhiều người chơi 3D, nơi bạn lái xe kart của mình, nhặt vũ khí và phá hủy các kart khác để chiến thắng!",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Lái xe kart của bạn và thu thập vũ khí.",
+      "howToPlayStep2": "Sử dụng vũ khí để phá hủy các kart khác.",
+      "howToPlayStep3": "Tiếp tục chơi để nâng cấp và mở khóa các nhân vật và phần thưởng mới.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Trận chiến nhiều người chơi",
+      "feature1Description": "Cạnh tranh với người chơi từ khắp nơi trên thế giới trong các trận chiến kart thời gian thực.",
+      "feature2Title": "Thu thập vũ khí",
+      "feature2Description": "Nhặt nhiều loại vũ khí để vượt mặt và đánh bại đối thủ của bạn.",
+      "feature3Title": "Mở khóa nhân vật",
+      "feature3Description": "Nâng cấp để mở khóa các nhân vật mới và tùy chỉnh kart của bạn.",
+      "feature4Title": "Đồ họa 3D",
+      "feature4Description": "Trải nghiệm trò chơi với đồ họa 3D tuyệt đẹp mang lại hành động sống động."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Khuyến nghị"
+    },
+    "HomeComments": {
+      "title": "Bình luận chơi game"
+    },
+    "GamePage": {
+      "title": "Tất cả trò chơi",
+      "description": "Tất cả trò chơi",
+      "games": "Trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

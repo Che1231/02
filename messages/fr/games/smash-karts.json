@@ -1,0 +1,77 @@
+{
+  "smash-karts": {
+    "title": "Jouez à Smash Karts en ligne – Jeu de bataille de karts multijoueur",
+    "slogan": "Conduisez, battez-vous, gagnez !",
+    "description": "Smash Karts est un passionnant jeu de bataille de karts en 3D multijoueur. Conduisez votre kart, ramassez des armes et explosez les autres karts pour gagner ! Continuez à jouer pour monter de niveau et débloquer de nouveaux personnages et des prix. Rejoignez l'univers palpitant de Smash Karts dès aujourd'hui et vivez la bataille de karts ultime !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Menu"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Smash Karts - Bataille de karts multijoueur",
+      "description": "Smash Karts est un jeu de bataille de karts en 3D multijoueur. Conduisez votre kart, ramassez des armes et explosez les autres karts pour gagner ! Continuez à jouer pour monter de niveau et débloquer de nouveaux personnages et des prix.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Smash Karts - Bataille de karts multijoueur",
+      "whatIsTitle": "Qu'est-ce que Smash Karts ?",
+      "whatIsDescription": "Smash Karts est un jeu de bataille de karts en 3D multijoueur où vous conduisez votre kart, ramassez des armes et explosez les autres karts pour gagner !",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Conduisez votre kart et ramassez des armes.",
+      "howToPlayStep2": "Utilisez les armes pour détruire les autres karts.",
+      "howToPlayStep3": "Continuez à jouer pour monter de niveau et débloquer de nouveaux personnages et des prix.",
+      "keyFeaturesTitle": "Fonctionnalités clés",
+      "feature1Title": "Batailles multijoueur",
+      "feature1Description": "Affrontez des joueurs du monde entier en batailles de karts en temps réel.",
+      "feature2Title": "Collection d'armes",
+      "feature2Description": "Ramassez diverses armes pour surpasser et déjouer vos adversaires.",
+      "feature3Title": "Déblocage de personnages",
+      "feature3Description": "Montez de niveau pour débloquer de nouveaux personnages et personnaliser votre kart.",
+      "feature4Title": "Graphismes 3D",
+      "feature4Description": "Découvrez le jeu avec des graphismes 3D époustouflants qui donnent vie à l'action."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "smash-karts": {
+    "title": "Çevrimiçi Smash Karts Oyna - Çok Oyunculu Kart Yarış Oyunu",
+    "slogan": "Sür, Savaşa Gir, Kazan!",
+    "description": "Smash Karts, heyecan verici bir 3B çok oyunculu IO kart savaşı oyunudur. Go-kartınızı sürün, silahlar alın ve diğer kartları yok ederek kazanın! Oynamaya devam ederek seviye atlayın ve yeni karakterler ve ödüller kilidini açın. Bugün aksiyon dolu Smash Karts evrenine katılın ve en üst düzey kart savaşını yaşayın!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Rehber",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Smash Karts - Çok Oyunculu Kart Savaş",
+      "description": "Smash Karts, 3B çok oyunculu IO kart savaş oyunudur. Go-kartınızı sürün, silahlar alın ve diğer kartları yok ederek kazanın! Oynamaya devam ederek seviye atlayın ve yeni karakterler ve ödüller kilidini açın.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Smash Karts - Çok Oyunculu Kart Savaş",
+      "whatIsTitle": "Smash Karts Nedir?",
+      "whatIsDescription": "Smash Karts, go-kartınızı sürerek, silahlar toplayarak ve diğer kartları yok ederek kazandığınız bir 3B çok oyunculu IO kart savaş oyunudur!",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Go-kartınızı sürün ve silahları toplayın.",
+      "howToPlayStep2": "Diğer kartları yok etmek için silahları kullanın.",
+      "howToPlayStep3": "Oynamaya devam ederek seviye atlayın ve yeni karakterler ve ödüller kilidini açın.",
+      "keyFeaturesTitle": "Temel Özellikler",
+      "feature1Title": "Çok Oyunculu Savaşlar",
+      "feature1Description": "Dünyanın dört bir yanındaki oyuncularla gerçek zamanlı kart savaşlarında yarışın.",
+      "feature2Title": "Silah Koleksiyonu",
+      "feature2Description": "Rakiplerinizi alt etmek ve yenmek için çeşitli silahlar toplayın.",
+      "feature3Title": "Karakter Kilit Açma",
+      "feature3Description": "Seviye atlamak için yeni karakterler kilidini açın ve kartınızı özelleştirin.",
+      "feature4Title": "3B Grafikler",
+      "feature4Description": "Eylemin canlandığı çarpıcı 3B grafiklerde oyunu deneyimleyin."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiye Eder"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Hiç kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Gör",
+      "page": "Sayfa"
+    }
+  }
+}
