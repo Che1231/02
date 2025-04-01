@@ -1,0 +1,77 @@
+{
+  "tiles-hop-edm-rush": {
+    "title": "Tiles Hop : EDM Rush ! - Jeu musical en ligne gratuit",
+    "slogan": "Sautons ! Profitez de la musique en déplacement",
+    "description": "Découvrez le rythme avec Tiles Hop : EDM Rush ! Téléchargez vos chansons préférées et jouez avec. Des cadeaux spéciaux et de la musique vous attendent. Rejoignez le plaisir et profitez du rythme !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens utiles",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Tiles Hop : EDM Rush !",
+      "description": "Téléchargez vos chansons préférées et jouez au rythme dans Tiles Hop : EDM Rush ! Profitez de cadeaux spéciaux et de musique en déplacement.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Tiles Hop : EDM Rush !",
+      "whatIsTitle": "Qu'est-ce que Tiles Hop : EDM Rush ?",
+      "whatIsDescription": "Tiles Hop : EDM Rush ! est un jeu de rythme où vous pouvez télécharger vos chansons préférées et jouer au rythme.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Téléchargez votre chanson préférée.",
+      "howToPlayStep2": "Suivez le rythme et tapez sur les tuiles.",
+      "howToPlayStep3": "Profitez de cadeaux et de musique en déplacement.",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Musique personnalisée",
+      "feature1Description": "Téléchargez et jouez avec vos chansons préférées.",
+      "feature2Title": "Cadeaux spéciaux",
+      "feature2Description": "Recevez des cadeaux spéciaux pendant votre jeu.",
+      "feature3Title": "En déplacement",
+      "feature3Description": "Profitez du jeu n'importe quand, n'importe où.",
+      "feature4Title": "Rythmes EDM",
+      "feature4Description": "Ressentez le rythme avec des rythmes EDM."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

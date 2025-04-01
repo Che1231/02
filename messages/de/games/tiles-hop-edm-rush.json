@@ -1,0 +1,77 @@
+{
+  "tiles-hop-edm-rush": {
+    "title": "Tiles Hop: EDM-Rush! – Kostenloses Online-Musikspiel",
+    "slogan": "Springen wir los! Genießen Sie die Musik unterwegs",
+    "description": "Erleben Sie den Rhythmus mit Tiles Hop: EDM Rush! Laden Sie Ihre Lieblingslieder hoch und spielen Sie mit. Spezielle Geschenke und Musik erwarten Sie. Machen Sie mit und genießen Sie den Beat!",
+    "Loading": {
+      "title": "Lädt..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Nützliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Tiles Hop: EDM Rush!",
+      "description": "Laden Sie Ihre Lieblingslieder hoch und spielen Sie mit dem Rhythmus in Tiles Hop: EDM Rush! Genießen Sie besondere Geschenke und Musik unterwegs.",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Tiles Hop: EDM Rush!",
+      "whatIsTitle": "Was ist Tiles Hop: EDM Rush!?",
+      "whatIsDescription": "Tiles Hop: EDM Rush! ist ein rhythmisches Spiel, bei dem Sie Ihre Lieblingslieder hochladen und mit dem Beat spielen können.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Laden Sie Ihr Lieblingslied hoch.",
+      "howToPlayStep2": "Folgen Sie dem Rhythmus und tippen Sie auf die Kacheln.",
+      "howToPlayStep3": "Genießen Sie besondere Geschenke und Musik unterwegs.",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
+      "feature1Title": "Individuelle Musik",
+      "feature1Description": "Laden Sie Ihre Lieblingslieder hoch und spielen Sie damit.",
+      "feature2Title": "Besondere Geschenke",
+      "feature2Description": "Erhalten Sie besondere Geschenke während des Spiels.",
+      "feature3Title": "Unterwegs spielbar",
+      "feature3Description": "Genießen Sie das Spiel jederzeit und überall.",
+      "feature4Title": "EDM-Beats",
+      "feature4Description": "Spüren Sie den Rhythmus mit EDM-Beats."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

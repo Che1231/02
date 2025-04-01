@@ -1,0 +1,77 @@
+{
+  "tiles-hop-edm-rush": {
+    "title": "タイル・ホップ：EDMラッシュ！ - 無料オンライン音楽ゲーム",
+    "slogan": "ホップを始めよう！音楽を気軽に楽しもう",
+    "description": "リズムを体験しよう！タイルホップ：EDMラッシュ！お気に入りの曲をアップロードして一緒にプレイしましょう。特別な贈り物と音楽があなたを待っています。楽しくリズムを楽しんでください！",
+    "Loading": {
+      "title": "読み込み中…"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "タイル・ホップ：EDMラッシュ！",
+      "description": "お気に入りの曲をアップロードして、タイルホップ：EDMラッシュ！でリズムに合わせてプレイしましょう！特別な贈り物をゲットして、音楽を気軽に楽しもう。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "タイル・ホップ：EDMラッシュ！",
+      "whatIsTitle": "タイルホップ：EDMラッシュ！とは？",
+      "whatIsDescription": "タイルホップ：EDMラッシュ！は、お気に入りの曲をアップロードして、ビートに合わせてプレイできるリズムゲームです。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "お気に入りの曲をアップロードします。",
+      "howToPlayStep2": "リズムに合わせてタイルをタップします。",
+      "howToPlayStep3": "特別な贈り物と音楽を気軽に楽しんでください。",
+      "keyFeaturesTitle": "主な機能",
+      "feature1Title": "カスタム音楽",
+      "feature1Description": "お気に入りの曲をアップロードしてプレイしましょう。",
+      "feature2Title": "特別な贈り物",
+      "feature2Description": "プレイする際に特別な贈り物を受け取ります。",
+      "feature3Title": "いつでもどこでも",
+      "feature3Description": "いつでもどこでもゲームを楽しめます。",
+      "feature4Title": "EDMビート",
+      "feature4Description": "EDMビートのリズムを感じてください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "全てのゲーム",
+      "description": "全てのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}
