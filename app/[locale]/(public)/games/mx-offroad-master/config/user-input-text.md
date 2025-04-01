@@ -1,0 +1,1 @@
+MX Offroad Master is a driving bike game where you cycle down steep mountain slopes. Hop on any of the four mountain bikes and get ready for high-octane stunts. You can play either free ride or mountain ride game modes, and there is the option to play locally with a friend or solo.

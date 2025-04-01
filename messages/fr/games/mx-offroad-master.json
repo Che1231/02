@@ -1,0 +1,77 @@
+{
+  "mx-offroad-master": {
+    "title": "MX Offroad Master - Jeu de vélo en ligne gratuit",
+    "slogan": "Découvrez des figures de vélo de montagne palpitantes",
+    "description": "MX Offroad Master est un jeu de vélo de course où vous descendez des pentes de montagne raides. Montez sur l'une des quatre motos de montagne et préparez-vous pour des cascades hautes en couleurs. Vous pouvez jouer soit en mode balade libre soit en mode course de montagne, et il est possible de jouer localement avec un ami ou seul.",
+    "Loading": {
+      "title": "Chargement…"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "MX Offroad Master",
+      "description": "MX Offroad Master est un jeu de vélo de course où vous descendez des pentes de montagne raides. Montez sur l'une des quatre motos de montagne et préparez-vous pour des cascades hautes en couleurs. Vous pouvez jouer soit en mode balade libre soit en mode course de montagne, et il est possible de jouer localement avec un ami ou seul.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer au jeu"
+    },
+    "HomeFeatures": {
+      "gameTitle": "MX Offroad Master",
+      "whatIsTitle": "Qu'est-ce que MX Offroad Master ?",
+      "whatIsDescription": "MX Offroad Master est un jeu de vélo de course où vous descendez des pentes de montagne raides. Montez sur l'une des quatre motos de montagne et préparez-vous pour des cascades hautes en couleurs.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Choisissez votre moto parmi les quatre options disponibles.",
+      "howToPlayStep2": "Sélectionnez soit le mode balade libre soit le mode course de montagne.",
+      "howToPlayStep3": "Effectuez des acrobaties et naviguez sur le terrain difficile.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Quatre motos de montagne",
+      "feature1Description": "Choisissez parmi quatre motos de montagne différentes, chacune avec des caractéristiques uniques.",
+      "feature2Title": "Deux modes de jeu",
+      "feature2Description": "Jouez en mode balade libre ou en mode course de montagne pour des expériences de jeu variées.",
+      "feature3Title": "Multijoueur local",
+      "feature3Description": "Jouez localement avec un ami ou en solo sur le terrain difficile.",
+      "feature4Title": "Cascades hautes en couleurs",
+      "feature4Description": "Effectuez des cascades palpitantes pendant que vous naviguez sur les pentes de montagne raides."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

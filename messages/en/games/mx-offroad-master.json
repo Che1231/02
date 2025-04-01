@@ -1,0 +1,77 @@
+{
+  "mx-offroad-master": {
+    "title": "MX Offroad Master - Free Online Bike Game",
+    "slogan": "Experience Thrilling Mountain Bike Stunts",
+    "description": "MX Offroad Master is a driving bike game where you cycle down steep mountain slopes. Hop on any of the four mountain bikes and get ready for high-octane stunts. You can play either free ride or mountain ride game modes, and there is the option to play locally with a friend or solo.",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "MX Offroad Master",
+      "description": "MX Offroad Master is a driving bike game where you cycle down steep mountain slopes. Hop on any of the four mountain bikes and get ready for high-octane stunts. You can play either free ride or mountain ride game modes, and there is the option to play locally with a friend or solo.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "MX Offroad Master",
+      "whatIsTitle": "What is MX Offroad Master?",
+      "whatIsDescription": "MX Offroad Master is a driving bike game where you cycle down steep mountain slopes. Hop on any of the four mountain bikes and get ready for high-octane stunts.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Choose your bike from the four available options.",
+      "howToPlayStep2": "Select either free ride or mountain ride game modes.",
+      "howToPlayStep3": "Perform stunts and navigate through the challenging terrain.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Four Mountain Bikes",
+      "feature1Description": "Choose from four different mountain bikes, each with unique characteristics.",
+      "feature2Title": "Two Game Modes",
+      "feature2Description": "Play in free ride or mountain ride modes for varied gameplay experiences.",
+      "feature3Title": "Local Multiplayer",
+      "feature3Description": "Play locally with a friend or go solo in the challenging terrain.",
+      "feature4Title": "High-Octane Stunts",
+      "feature4Description": "Perform thrilling stunts as you navigate steep mountain slopes."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}
