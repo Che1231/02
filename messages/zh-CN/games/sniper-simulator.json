@@ -1,0 +1,77 @@
+{
+  "sniper-simulator": {
+    "title": "狙击手模拟器 - 免费在线射击游戏",
+    "slogan": "体验精准射击的刺激",
+    "description": "狙击手模拟器是一款第一人称射击模拟游戏，您将扮演狙击手，精通经典枪械并参加狙击训练。新增组装游戏玩法，让您在射击和组装中两不误。操作简单、画面精美、音效逼真，为您带来沉浸式体验。",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "狙击手模拟器",
+      "description": "狙击手模拟器提供第一人称射击体验，并包含逼真的狙击训练和枪械组装。操作简单，画面精美，音效震撼。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "狙击手模拟器",
+      "whatIsTitle": "什么是狙击手模拟器？",
+      "whatIsDescription": "狙击手模拟器是一款第一人称射击模拟游戏，您将扮演狙击手，精通经典枪械并参加狙击训练。新增组装游戏玩法，让您在射击和组装中两不误。",
+      "howToPlayTitle": "如何玩游戏",
+      "howToPlayStep1": "选择你的狙击步枪并对其进行定制。",
+      "howToPlayStep2": "精准瞄准并射击目标。",
+      "howToPlayStep3": "组装你的枪械，体验更多乐趣。",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "逼真的射击",
+      "feature1Description": "体验真实的射击，精确的枪械机制。",
+      "feature2Title": "枪械组装",
+      "feature2Description": "享受组装你自己的狙击步枪的乐趣。",
+      "feature3Title": "精美画面",
+      "feature3Description": "沉浸于精美的高清画面。",
+      "feature4Title": "简单易用",
+      "feature4Description": "简单直观的控制，适合所有玩家。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐游戏"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏列表"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "没有找到分类",
+      "viewMore": "查看更多",
+      "page": "页"
+    }
+  }
+}

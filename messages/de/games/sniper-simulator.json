@@ -1,0 +1,77 @@
+{
+  "sniper-simulator": {
+    "title": "Sniper Simulator – Kostenloses Online-Schießspiel",
+    "slogan": "Erleben Sie den Nervenkitzel präziser Schießkunst",
+    "description": "Sniper Simulator ist ein Ego-Schießsimulationsspiel, in dem du als Scharfschütze agierst, klassische Waffen beherrscht und dich auf Scharfschützen-Trainings konzentrierst. Mit dem zusätzlichen Montage-Gameplay genießt du sowohl das Schießen als auch die Montage. Einfache Bedienung, atemberaubende Grafiken und realistische Soundeffekte sorgen für ein umfassendes Erlebnis.",
+    "Loading": {
+      "title": "Wird geladen…"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Sniper Simulator",
+      "description": "Sniper Simulator bietet ein Ego-Schießspiel-Erlebnis mit realistischen Scharfschützen-Trainings und Waffenmontage. Einfach zu spielen mit atemberaubenden Grafiken und Sound.",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sniper Simulator",
+      "whatIsTitle": "Was ist Sniper Simulator?",
+      "whatIsDescription": "Sniper Simulator ist ein Ego-Schießsimulationsspiel, in dem du als Scharfschütze agierst, klassische Waffen beherrscht und dich auf Scharfschützen-Trainings konzentrierst. Mit dem zusätzlichen Montage-Gameplay genießt du sowohl das Schießen als auch die Montage.",
+      "howToPlayTitle": "So spielst du",
+      "howToPlayStep1": "Wähle dein Scharfschützengewehr und passe es an.",
+      "howToPlayStep2": "Ziele präzise auf Ziele und schieße.",
+      "howToPlayStep3": "Baue deine Waffe für zusätzliche Spannung zusammen.",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
+      "feature1Title": "Realismus im Schießen",
+      "feature1Description": "Erlebe realistische Schussabläufe mit akkuraten Waffeneigenschaften.",
+      "feature2Title": "Waffenmontage",
+      "feature2Description": "Genieße den Nervenkitzel der Montage deines eigenen Scharfschützengewehrs.",
+      "feature3Title": "Atemberaubende Grafiken",
+      "feature3Description": "Tauche ein in wunderschöne, hochwertige Grafiken.",
+      "feature4Title": "Einfache Steuerung",
+      "feature4Description": "Einfache und intuitive Steuerung für alle Spieler."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

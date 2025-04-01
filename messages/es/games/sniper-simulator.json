@@ -1,0 +1,77 @@
+{
+  "sniper-simulator": {
+    "title": "Simulador de francotiradores - Juego de disparos online gratuito",
+    "slogan": "Experimenta la emoción de los disparos de precisión",
+    "description": "Sniper Simulator es un juego de simulación de disparos en primera persona donde juegas como francotirador, dominando armas clásicas y participando en entrenamiento de francotirador. Con la incorporación de juegos de montaje, disfruta tanto de los disparos como del ensamblaje. Fácil de operar, gráficos impresionantes y efectos de sonido realistas proporcionan una experiencia inmersiva.",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Simulador de francotiradores",
+      "description": "Sniper Simulator ofrece una experiencia de disparos en primera persona con entrenamiento realista de francotiradores y montaje de armas. Fácil de jugar con gráficos y sonido impresionantes.",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Simulador de francotiradores",
+      "whatIsTitle": "¿Qué es Sniper Simulator?",
+      "whatIsDescription": "Sniper Simulator es un juego de simulación de disparos en primera persona donde juegas como francotirador, dominando armas clásicas y participando en entrenamiento de francotirador. Con la incorporación de juegos de montaje, disfruta tanto de los disparos como del ensamblaje.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Elige tu rifle de francotirador y personalízalo.",
+      "howToPlayStep2": "Apunta y dispara a los objetivos con precisión.",
+      "howToPlayStep3": "Arma tu arma para una mayor emoción.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Disparos realistas",
+      "feature1Description": "Experimenta disparos realistas con la mecánica precisa de las armas.",
+      "feature2Title": "Montaje de armas",
+      "feature2Description": "Disfruta de la emoción de montar tu propio rifle de francotirador.",
+      "feature3Title": "Gráficos impresionantes",
+      "feature3Description": "Sumérgete en hermosos gráficos de alta calidad.",
+      "feature4Title": "Controles fáciles",
+      "feature4Description": "Controles simples e intuitivos para todos los jugadores."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

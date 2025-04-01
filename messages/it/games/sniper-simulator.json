@@ -1,0 +1,77 @@
+{
+  "sniper-simulator": {
+    "title": "Simulatore di Sniper - Gioco di Tiro Online Gratuito",
+    "slogan": "Sperimenta l'emozione del tiro di precisione",
+    "description": "Sniper Simulator è un gioco di simulazione sparatutto in prima persona in cui giochi come cecchino, padroneggiando armi classiche e partecipando a un addestramento da cecchino. Con la modalità di assemblaggio aggiuntiva, goditi sia il tiro che l'assemblaggio. Facilità di utilizzo, immagini straordinarie ed effetti sonori realistici offrono un'esperienza coinvolgente.",
+    "Loading": {
+      "title": "Caricamento..."
+    },
+    "Navbar": {
+      "title": "Navigazione"
+    },
+    "Common": {
+      "createAt": "Creato il",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla privacy",
+      "termsOfServices": "Termini di servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Link utili",
+      "articleList": "Elenco articoli",
+      "home": "Home",
+      "next": "Successivo",
+      "previous": "Precedente"
+    },
+    "HomeIframe": {
+      "title": "Simulatore di Sniper",
+      "description": "Sniper Simulator offre un'esperienza di tiro in prima persona con addestramento realistico al tiro a segno e assemblaggio di armi. Facile da giocare con grafica e audio straordinari.",
+      "iframeTitle": "Anteprima del gioco",
+      "fullscreenButton": "Schermo intero",
+      "shareButton": "Condividi",
+      "urlCopied": "URL copiato negli appunti!",
+      "downloadGame": "Scarica il gioco",
+      "playGame": "Gioca"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Simulatore di Sniper",
+      "whatIsTitle": "Cos'è Sniper Simulator?",
+      "whatIsDescription": "Sniper Simulator è un gioco di simulazione sparatutto in prima persona in cui giochi come cecchino, padroneggiando armi classiche e partecipando a un addestramento da cecchino. Con la modalità di assemblaggio aggiuntiva, goditi sia il tiro che l'assemblaggio.",
+      "howToPlayTitle": "Come giocare",
+      "howToPlayStep1": "Scegli il tuo fucile da cecchino e personalizzalo.",
+      "howToPlayStep2": "Mira e colpisci i bersagli con precisione.",
+      "howToPlayStep3": "Assembla la tua arma per un'emozione in più.",
+      "keyFeaturesTitle": "Caratteristiche principali",
+      "feature1Title": "Tiro realistico",
+      "feature1Description": "Vivi un tiro realistico con meccanismi d'arma accurati.",
+      "feature2Title": "Assemblaggio delle armi",
+      "feature2Description": "Vivi l'emozione di assemblare il tuo fucile da cecchino.",
+      "feature3Title": "Grafica straordinaria",
+      "feature3Description": "Immergiti in splendide immagini di alta qualità.",
+      "feature4Title": "Controlli facili",
+      "feature4Description": "Controlli semplici e intuitivi per tutti i giocatori."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Consigliati"
+    },
+    "HomeComments": {
+      "title": "Commenti sul gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i giochi",
+      "description": "Tutti i giochi",
+      "games": "Giochi"
+    },
+    "CategoryPage": {
+      "categories": "Categorie",
+      "noCategories": "Nessuna categoria trovata",
+      "viewMore": "Visualizza altro",
+      "page": "Pagina"
+    }
+  }
+}

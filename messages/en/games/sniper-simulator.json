@@ -1,0 +1,77 @@
+{
+  "sniper-simulator": {
+    "title": "Sniper Simulator - Free Online Shooting Game",
+    "slogan": "Experience the thrill of precision shooting",
+    "description": "Sniper Simulator is a first-person shooting simulation game where you play as a sniper, mastering classic guns and engaging in sniper training. With added assembly gameplay, enjoy both shooting and assembling. Easy to operate, stunning visuals, and realistic sound effects provide an immersive experience.",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Sniper Simulator",
+      "description": "Sniper Simulator offers a first-person shooting experience with realistic sniper training and gun assembly. Easy to play with stunning graphics and sound.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sniper Simulator",
+      "whatIsTitle": "What is Sniper Simulator?",
+      "whatIsDescription": "Sniper Simulator is a first-person shooting simulation game where you play as a sniper, mastering classic guns and engaging in sniper training. With added assembly gameplay, enjoy both shooting and assembling.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Choose your sniper rifle and customize it.",
+      "howToPlayStep2": "Aim and shoot targets with precision.",
+      "howToPlayStep3": "Assemble your gun for added excitement.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Realistic Shooting",
+      "feature1Description": "Experience realistic shooting with accurate gun mechanics.",
+      "feature2Title": "Gun Assembly",
+      "feature2Description": "Enjoy the thrill of assembling your own sniper rifle.",
+      "feature3Title": "Stunning Visuals",
+      "feature3Description": "Immerse yourself in beautiful, high-quality graphics.",
+      "feature4Title": "Easy Controls",
+      "feature4Description": "Simple and intuitive controls for all players."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}
