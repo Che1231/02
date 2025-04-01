@@ -1,0 +1,77 @@
+{
+  "bbq-stack-run": {
+    "title": "Course de BBQ Stack - Jeu d'aventure BBQ en ligne gratuit",
+    "slogan": "Courez, collectez et faites du BBQ !",
+    "description": "Rejoignez la plus grande aventure BBQ avec Bbq Stack Run ! Ce jeu d'arcade passionnant vous défie de collecter des ingrédients comme le bœuf, le poulet et la saucisse en parcourant des pistes de parkour amusantes. Assaisonnez vos ingrédients, faites-les cuire à la perfection et appréciez le frisson de ce jeu unique à thème BBQ. Jouez à Bbq Stack Run maintenant et vivez la plus folle aventure de collecte de BBQ !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amicaux",
+      "articleList": "Liste d'articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Course de BBQ Stack",
+      "description": "Découvrez la plus grande aventure BBQ avec Bbq Stack Run ! Collectez des ingrédients, assaisonnez-les et faites-les cuire pendant que vous parcourez des pistes de parkour passionnantes. Jouez maintenant et appréciez le frisson de ce jeu unique à thème BBQ.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Course de BBQ Stack",
+      "whatIsTitle": "Qu'est-ce que Bbq Stack Run ?",
+      "whatIsDescription": "Bbq Stack Run est un jeu d'arcade passionnant où vous collectez des ingrédients BBQ comme le bœuf, le poulet et la saucisse en parcourant des pistes de parkour amusantes. Assaisonnez vos ingrédients, faites-les cuire à la perfection et appréciez le frisson de ce jeu unique à thème BBQ.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Traversez les pistes de parkour et collectez les ingrédients.",
+      "howToPlayStep2": "Assaisonnez les ingrédients collectés avec des épices BBQ.",
+      "howToPlayStep3": "Faites cuire les ingrédients à la perfection et terminez le niveau.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Thème BBQ unique",
+      "feature1Description": "Découvrez une aventure unique à thème BBQ.",
+      "feature2Title": "Pistes de parkour passionnantes",
+      "feature2Description": "Courez sur des pistes amusantes et pleines de défis.",
+      "feature3Title": "Collection d'ingrédients",
+      "feature3Description": "Collectez divers ingrédients comme le bœuf, le poulet et la saucisse.",
+      "feature4Title": "Assaisonnement et cuisson",
+      "feature4Description": "Assaisonnez et faites cuire vos ingrédients à la perfection."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

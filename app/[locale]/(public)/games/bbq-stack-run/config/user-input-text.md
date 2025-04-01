@@ -1,0 +1,1 @@
+Enter a running arcade adventure filled with food and fun challenges. BBQ Stack Run takes you through the craziest BBQ-collecting parkour ever. Pick up various ingredients such as beef, chicken, sausage and more on the track as you run. Sprinkle them with barbecue seasoning and cook them through.

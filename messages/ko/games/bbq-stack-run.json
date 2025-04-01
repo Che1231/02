@@ -1,0 +1,77 @@
+{
+  "bbq-stack-run": {
+    "title": "Bbq 스택 런 - 무료 온라인 BBQ 어드벤처 게임",
+    "slogan": "달리기, 수집, 그리고 BBQ!",
+    "description": "Bbq 스택 런과 함께 최고의 BBQ 모험에 참여하세요! 이 흥미진진한 아케이드 게임에서는 재미있는 파쿠르 트랙을 달리면서 소고기, 닭고기, 소시지와 같은 재료를 수집해야 합니다. 재료에 양념을 하고 완벽하게 요리하여 이 독특한 BBQ 테마 게임의 짜릿함을 만끽해 보세요. 지금 Bbq 스택 런을 플레이하고 최고의 BBQ 수집 모험을 경험하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "컨텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "Bbq 스택 런",
+      "description": "Bbq 스택 런과 함께 최고의 BBQ 모험을 경험하세요! 흥미진진한 파쿠르 트랙을 달리면서 재료를 수집하고 양념하고 요리하세요. 지금 플레이하고 이 독특한 BBQ 테마 게임의 짜릿함을 만끽하세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Bbq 스택 런",
+      "whatIsTitle": "Bbq 스택 런이란 무엇인가요?",
+      "whatIsDescription": "Bbq 스택 런은 흥미진진한 아케이드 게임으로, 재미있는 파쿠르 트랙을 달리면서 소고기, 닭고기, 소시지와 같은 BBQ 재료를 수집합니다. 재료에 양념을 하고 완벽하게 요리하여 이 독특한 BBQ 테마 게임의 짜릿함을 만끽하세요.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "파쿠르 트랙을 달리면서 재료를 수집합니다.",
+      "howToPlayStep2": "수집한 재료에 BBQ 양념을 합니다.",
+      "howToPlayStep3": "재료를 완벽하게 요리하여 레벨을 완료합니다.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "독특한 BBQ 테마",
+      "feature1Description": "하나뿐인 BBQ 테마의 모험을 경험하세요.",
+      "feature2Title": "흥미진진한 파쿠르 트랙",
+      "feature2Description": "도전으로 가득 찬 재미있는 트랙을 달리세요.",
+      "feature3Title": "재료 수집",
+      "feature3Description": "소고기, 닭고기, 소시지와 같은 다양한 재료를 수집하세요.",
+      "feature4Title": "양념 및 요리",
+      "feature4Description": "재료를 완벽하게 양념하고 요리하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}
