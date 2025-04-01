@@ -1,0 +1,77 @@
+{
+  "baseball-star": {
+    "title": "Çevrimiçi Beyzbol Yıldızı Oyna - Ücretsiz Eğlenceli Spor Oyunu",
+    "slogan": "Beyzbol Yıldızında beyzbol heyecanını yaşayın!",
+    "description": "Beyzbol Yıldızı, beyzbol oyununun heyecanını ve sevincini hissetmenizi sağlayan eğlenceli bir günlük spor oyunudur. Sopayı sallayın, topu hassasiyetle vurun ve sahada bir yıldız olun. Başlamak kolaydır, ancak zorluklar daha da zorlaşacaktır. Şimdi Beyzbol Yıldızını oynayın ve en iyi beyzbol deneyimini yaşayın!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Kullanım Kılavuzu",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Beyzbol Yıldızı",
+      "description": "Eğlenceli ve heyecan verici bir günlük spor oyunu olan Beyzbol Yıldızını oynayın. Sopayı sallayın, topu vurun ve sahada bir yıldız olun!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Beyzbol Yıldızı",
+      "whatIsTitle": "Beyzbol Yıldızı Nedir?",
+      "whatIsDescription": "Beyzbol Yıldızı, beyzbol oyununun heyecanını ve neşesini hissetmenizi sağlayan eğlenceli bir günlük spor oyunudur. Sopayı sallayın ve topu hassasiyetle vurun. Başlamak kolaydır, ancak zorluklar daha da zorlaşacaktır.",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Topu vurmak için sopayı sallayın.",
+      "howToPlayStep2": "Puan almak için hassasiyetle hedefleyin.",
+      "howToPlayStep3": "Yıldız olmak için zorlukları tamamlayın!",
+      "keyFeaturesTitle": "Ana Özellikler",
+      "feature1Title": "Eğlenceli Oyun",
+      "feature1Description": "Kolay öğrenilebilen kontrollerle beyzbolun heyecanını yaşayın.",
+      "feature2Title": "Zorlu Seviyeler",
+      "feature2Description": "İlerledikçe giderek daha zorlu zorluklarla karşılaşın.",
+      "feature3Title": "Hassas Vuruş",
+      "feature3Description": "Topu hassasiyetle vurmak için dikkatlice hedefleyin.",
+      "feature4Title": "Sahalarında Yıldız",
+      "feature4Description": "Bir beyzbol yıldızı olun ve becerilerinizi sergileyin!"
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiye Eder"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

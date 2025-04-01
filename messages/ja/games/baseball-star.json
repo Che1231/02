@@ -1,0 +1,77 @@
+{
+  "baseball-star": {
+    "title": "野球スターオンライン - 無料の楽しいスポーツゲーム",
+    "slogan": "野球スターで野球の興奮を体験！",
+    "description": "野球スターは、野球の興奮と喜びを感じることができる楽しいカジュアルなスポーツゲームです。バットを振って、正確にボールを打ち、フィールドでスターになりましょう。始めるのは簡単ですが、挑戦は難しくなります。今すぐ野球スターをプレイして、究極の野球体験をお楽しみください！",
+    "Loading": {
+      "title": "読み込み中…"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "野球スター",
+      "description": "楽しいエキサイティングなカジュアルスポーツゲーム、野球スターをプレイ！バットを振って、ボールを打ち、フィールドでスターになりましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "野球スター",
+      "whatIsTitle": "野球スターとは？",
+      "whatIsDescription": "野球スターは、野球の興奮と喜びを感じることができる楽しいカジュアルなスポーツゲームです。バットを振って、正確にボールを打ちましょう。始めるのは簡単ですが、挑戦は難しくなります。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "バットを振ってボールを打ちましょう。",
+      "howToPlayStep2": "正確に狙ってポイントを獲得しましょう。",
+      "howToPlayStep3": "挑戦をクリアしてスターになりましょう！",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "楽しいゲームプレイ",
+      "feature1Description": "覚えやすい操作で野球の興奮をお楽しみください。",
+      "feature2Title": "挑戦的なレベル",
+      "feature2Description": "進めていくにつれて、ますます難しくなる挑戦に立ち向かいましょう。",
+      "feature3Title": "正確な打撃",
+      "feature3Description": "丁寧に狙って、正確にボールを打ちましょう。",
+      "feature4Title": "フィールドのスター",
+      "feature4Description": "野球スターとなり、あなたのスキルを披露しましょう！"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "baseball-star": {
+    "title": "線上棒球明星遊戲 - 免費趣味運動遊戲",
+    "slogan": "體驗棒球明星的刺激樂趣！",
+    "description": "棒球明星是一款趣味休閒運動遊戲，讓您感受棒球的刺激與樂趣。揮動球棒，精準擊球，成為球場上的明星。入門容易，但挑戰會越來越困難。現在就玩棒球明星，體驗究極棒球體驗！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導覽"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "棒球明星",
+      "description": "玩棒球明星，一款趣味且令人興奮的休閒運動遊戲。揮動球棒，擊球，並在球場上成為明星！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "棒球明星",
+      "whatIsTitle": "棒球明星是什麼？",
+      "whatIsDescription": "棒球明星是一款趣味休閒運動遊戲，讓您感受棒球的刺激與樂趣。揮動球棒，精準擊球。入門容易，但挑戰會越來越困難。",
+      "howToPlayTitle": "如何玩遊戲",
+      "howToPlayStep1": "揮動球棒擊球。",
+      "howToPlayStep2": "精準瞄準得分。",
+      "howToPlayStep3": "完成挑戰，成為明星！",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "趣味遊戲",
+      "feature1Description": "輕鬆上手的控制方式，享受棒球的刺激樂趣。",
+      "feature2Title": "具有挑戰性的關卡",
+      "feature2Description": "隨著遊戲進度，面臨越來越艱難的挑戰。",
+      "feature3Title": "精準擊球",
+      "feature3Description": "仔細瞄準，精確擊球。",
+      "feature4Title": "球場上的明星",
+      "feature4Description": "成為棒球明星，展現您的技能！"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦遊戲"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲列表"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "檢視更多",
+      "page": "頁面"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Baseball Star is a fun casual sports game that lets you feel the excitement and joy of playing baseball. As a star on the field. Swing the bat and hitting the ball. Hit the ball with precision. It’s easy to start. But the challenges will get harder.
