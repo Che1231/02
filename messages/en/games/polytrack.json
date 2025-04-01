@@ -1,0 +1,77 @@
+{
+  "polytrack": {
+    "title": "PolyTrack - Fast-Paced Low-Poly Driving Game",
+    "slogan": "Race, Build, Improve - Every Millisecond Counts!",
+    "description": "PolyTrack is a fast-paced, low-poly driving game featuring thrilling loops, jumps, and high-speed action. Inspired by TrackMania, it challenges you to race against the clock, constantly striving to improve your time on various tracks built by you and the PolyTrack community. Experience the adrenaline and play PolyTrack now!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "PolyTrack - Fast-Paced Low-Poly Driving Game",
+      "description": "PolyTrack is a fast-paced, low-poly driving game featuring thrilling loops, jumps, and high-speed action. Inspired by TrackMania, it challenges you to race against the clock, constantly striving to improve your time on various tracks built by you and the PolyTrack community. Experience the adrenaline and play PolyTrack now!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "PolyTrack - Fast-Paced Low-Poly Driving Game",
+      "whatIsTitle": "What is PolyTrack?",
+      "whatIsDescription": "PolyTrack is a fast-paced, low-poly driving game featuring thrilling loops, jumps, and high-speed action where every millisecond counts. Inspired by TrackMania, it challenges you to race against the clock, constantly striving to improve your time on various tracks built by you and the PolyTrack community!",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Race against the clock to set the best time.",
+      "howToPlayStep2": "Build and share your own tracks with the PolyTrack community.",
+      "howToPlayStep3": "Improve your skills and climb the leaderboards.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Fast-Paced Action",
+      "feature1Description": "Experience thrilling loops, jumps, and high-speed action.",
+      "feature2Title": "Track Building",
+      "feature2Description": "Create and share your own tracks with the PolyTrack community.",
+      "feature3Title": "Time Trials",
+      "feature3Description": "Race against the clock to set the best time.",
+      "feature4Title": "Community Driven",
+      "feature4Description": "Compete with others and climb the leaderboards."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

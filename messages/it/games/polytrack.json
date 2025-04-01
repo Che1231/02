@@ -1,0 +1,77 @@
+{
+  "polytrack": {
+    "title": "PolyTrack - Gioco di guida veloce a bassa poligonizzazione",
+    "slogan": "Gareggia, costruisci, migliora: ogni millisecondo conta!",
+    "description": "PolyTrack è un gioco di guida veloce a bassa poligonizzazione con entusiasmanti loop, salti e azione ad alta velocità. Ispirato a TrackMania, ti sfida a gareggiare contro il cronometro, cercando costantemente di migliorare il tuo tempo su varie piste create da te e dalla comunità PolyTrack. Vivi l'adrenalina e gioca a PolyTrack ora!",
+    "Loading": {
+      "title": "Caricamento..."
+    },
+    "Navbar": {
+      "title": "Navigazione"
+    },
+    "Common": {
+      "createAt": "Crea in",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla privacy",
+      "termsOfServices": "Termini di servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Link utili",
+      "articleList": "Elenco articoli",
+      "home": "Home",
+      "next": "Successivo",
+      "previous": "Precedente"
+    },
+    "HomeIframe": {
+      "title": "PolyTrack - Gioco di guida veloce a bassa poligonizzazione",
+      "description": "PolyTrack è un gioco di guida veloce a bassa poligonizzazione con entusiasmanti loop, salti e azione ad alta velocità. Ispirato a TrackMania, ti sfida a gareggiare contro il cronometro, cercando costantemente di migliorare il tuo tempo su varie piste create da te e dalla comunità PolyTrack. Vivi l'adrenalina e gioca a PolyTrack ora!",
+      "iframeTitle": "Anteprima del gioco",
+      "fullscreenButton": "Schermo intero",
+      "shareButton": "Condividi",
+      "urlCopied": "URL copiato negli appunti!",
+      "downloadGame": "Scarica il gioco",
+      "playGame": "Gioca"
+    },
+    "HomeFeatures": {
+      "gameTitle": "PolyTrack - Gioco di guida veloce a bassa poligonizzazione",
+      "whatIsTitle": "Cos'è PolyTrack?",
+      "whatIsDescription": "PolyTrack è un gioco di guida veloce a bassa poligonizzazione ricco di entusiasmanti loop, salti e azioni ad alta velocità, dove ogni millisecondo conta. Ispirato a TrackMania, ti sfida a gareggiare contro il cronometro, cercando costantemente di migliorare il tuo tempo sulle varie piste create da te e dalla comunità PolyTrack!",
+      "howToPlayTitle": "Come giocare",
+      "howToPlayStep1": "Gareggia contro il cronometro per stabilire il miglior tempo.",
+      "howToPlayStep2": "Crea e condividi le tue piste con la comunità PolyTrack.",
+      "howToPlayStep3": "Migliora le tue abilità e scala le classifiche.",
+      "keyFeaturesTitle": "Caratteristiche principali",
+      "feature1Title": "Azione veloce",
+      "feature1Description": "Vivi entusiasmanti loop, salti e azioni ad alta velocità.",
+      "feature2Title": "Costruzione di piste",
+      "feature2Description": "Crea e condividi le tue piste con la comunità PolyTrack.",
+      "feature3Title": "Gare contro il cronometro",
+      "feature3Description": "Gareggia contro il cronometro per stabilire il miglior tempo.",
+      "feature4Title": "Comunità orientata",
+      "feature4Description": "Competi con gli altri e scala le classifiche."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video di gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Raccomandati"
+    },
+    "HomeComments": {
+      "title": "Commenti sul gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i giochi",
+      "description": "Tutti i giochi",
+      "games": "Giochi"
+    },
+    "CategoryPage": {
+      "categories": "Categorie",
+      "noCategories": "Nessuna categoria trovata",
+      "viewMore": "Visualizza altro",
+      "page": "Pagina"
+    }
+  }
+}

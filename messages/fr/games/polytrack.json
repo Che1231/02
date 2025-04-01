@@ -1,0 +1,77 @@
+{
+  "polytrack": {
+    "title": "PolyTrack - Jeu de course low-poly rapide",
+    "slogan": "Course, construction, amélioration – Chaque milliseconde compte !",
+    "description": "PolyTrack est un jeu de course low-poly rapide et trépidant, proposant des boucles, des sauts et des actions à grande vitesse. Inspiré par TrackMania, il vous met au défi de courir contre la montre et d'améliorer constamment votre temps sur diverses pistes construites par vous et la communauté PolyTrack. Vivez l'adrénaline et jouez à PolyTrack dès maintenant !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "PolyTrack - Jeu de course low-poly rapide",
+      "description": "PolyTrack est un jeu de course low-poly rapide et trépidant, proposant des boucles, des sauts et des actions à grande vitesse. Inspiré par TrackMania, il vous met au défi de courir contre la montre et d'améliorer constamment votre temps sur diverses pistes construites par vous et la communauté PolyTrack. Vivez l'adrénaline et jouez à PolyTrack dès maintenant !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "PolyTrack - Jeu de course low-poly rapide",
+      "whatIsTitle": "Qu'est-ce que PolyTrack ?",
+      "whatIsDescription": "PolyTrack est un jeu de course low-poly rapide et trépidant, proposant des boucles, des sauts et des actions à grande vitesse, où chaque milliseconde compte. Inspiré par TrackMania, il vous met au défi de courir contre la montre et d'améliorer constamment votre temps sur diverses pistes construites par vous et la communauté PolyTrack !",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Courez contre la montre pour établir le meilleur temps.",
+      "howToPlayStep2": "Construisez et partagez vos propres pistes avec la communauté PolyTrack.",
+      "howToPlayStep3": "Améliorez vos compétences et grimpez au classement.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Action rapide",
+      "feature1Description": "Découvrez des boucles, des sauts et des actions à grande vitesse.",
+      "feature2Title": "Construction de pistes",
+      "feature2Description": "Créez et partagez vos propres pistes avec la communauté PolyTrack.",
+      "feature3Title": "Essais chronométrés",
+      "feature3Description": "Courez contre la montre pour établir le meilleur temps.",
+      "feature4Title": "Communauté",
+      "feature4Description": "Concurrencez avec les autres et grimpez au classement."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires de jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

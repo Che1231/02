@@ -1,0 +1,77 @@
+{
+  "polytrack": {
+    "title": "PolyTrack - Juego de conducción de bajo polígono de ritmo rápido",
+    "slogan": "¡Cada milésima de segundo cuenta! Corre, construye, mejora",
+    "description": "PolyTrack es un juego de conducción de bajo polígono y ritmo acelerado con emocionantes giros, saltos y acción a alta velocidad. Inspirado por TrackMania, te desafía a competir contra el reloj, esforzándote constantemente por mejorar tu tiempo en diversas pistas construidas por ti y la comunidad de PolyTrack. ¡Experimenta la adrenalina y juega a PolyTrack ahora!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegacion"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "PolyTrack - Juego de conducción de bajo polígono de ritmo rápido",
+      "description": "PolyTrack es un juego de conducción de bajo polígono y ritmo acelerado con emocionantes giros, saltos y acción a alta velocidad. Inspirado por TrackMania, te desafía a competir contra el reloj, esforzándote constantemente por mejorar tu tiempo en diversas pistas construidas por ti y la comunidad de PolyTrack. ¡Experimenta la adrenalina y juega a PolyTrack ahora!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "PolyTrack - Juego de conducción de bajo polígono de ritmo rápido",
+      "whatIsTitle": "¿Qué es PolyTrack?",
+      "whatIsDescription": "PolyTrack es un juego de conducción de bajo polígono y ritmo acelerado con emocionantes giros, saltos y acción a alta velocidad, donde cada milésima de segundo cuenta. Inspirado en TrackMania, te desafía a competir contra el reloj, mejorando constantemente tu tiempo en diversas pistas creadas por ti y la comunidad de PolyTrack.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Compite contra el reloj para establecer el mejor tiempo.",
+      "howToPlayStep2": "Construye y comparte tus propias pistas con la comunidad de PolyTrack.",
+      "howToPlayStep3": "Mejora tus habilidades y sube en las clasificaciones.",
+      "keyFeaturesTitle": "Características principales",
+      "feature1Title": "Acción de ritmo rápido",
+      "feature1Description": "Experimenta emocionantes giros, saltos y acción a alta velocidad.",
+      "feature2Title": "Construcción de pistas",
+      "feature2Description": "Crea y comparte tus propias pistas con la comunidad de PolyTrack.",
+      "feature3Title": "Pruebas de tiempo",
+      "feature3Description": "Compite contra el reloj para establecer el mejor tiempo.",
+      "feature4Title": "Conducido por la comunidad",
+      "feature4Description": "Compite con otros y sube en las tablas de clasificación."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

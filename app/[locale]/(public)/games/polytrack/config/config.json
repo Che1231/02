@@ -1,0 +1,120 @@
+{
+  "name": "PolyTrack",
+  "pagePath": "/games/polytrack",
+  "pageName": "polytrack",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.crazygames.com/embed/polytrack",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "CosmicKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicKraken87.png",
+      "content": "This game is so addictive! I love racing against the clock. Can't get enough!"
+    },
+    {
+      "author": "SavageRevolver_Z",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageRevolver_Z.png",
+      "content": "The thrill of high-speed action is just insane. Really reminds me of TrackMania, but better!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "The loops are pretty awesome! PolyTrack has truly got a unique feel to it. Worth every penny!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "I keep failing, but I can't stop playing. The jumps are killing me! Is it even possible to beat this game?"
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "It's all about improving your time. The high speed is no joke though LOL."
+    },
+    {
+      "author": "PhantomLeviathan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomLeviathan99.png",
+      "content": "I'm hooked on building tracks with the community! So much fun. Best driving game since... well, ever?"
+    },
+    {
+      "author": "AdjectiveKatana_V",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AdjectiveKatana_V.png",
+      "content": "PolyTrack makes my heart race like a cheetah! Loops, jumps, speed... This game has it all!"
+    },
+    {
+      "author": "EscapeFromTarkov87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/EscapeFromTarkov87.png",
+      "content": "The millisecond precision is what I am talking about. So good, wish there were even more levels."
+    },
+    {
+      "author": "XxShadowReAPer",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/XxShadowReAPer.png",
+      "content": "Racing against the clock is stressful! The time challenges in PolyTrack are pretty wild. Worth a try?"
+    },
+    {
+      "author": "NeonPhoenix42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonPhoenix42.png",
+      "content": "Seriously, those jumps are scary. What a rush to see so much going on!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743497217163-427f7e.avif",
+  "page_path": "/games/polytrack",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Racing"
+  ],
+  "createdTime": "2025-04-01 16:46:56"
+}

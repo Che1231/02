@@ -1,0 +1,77 @@
+{
+  "polytrack": {
+    "title": "PolyTrack - Hızlı Tempolu Düşük Çokgen Sürüş Oyunu",
+    "slogan": "Yarış, İnşa Et, Geliştir - Her Mili Saniye Önemli!",
+    "description": "PolyTrack, heyecan verici döngüler, sıçramalar ve yüksek hızlı aksiyonlar içeren hızlı tempolu, düşük çokgen bir sürüş oyunudur. TrackMania'dan esinlenilerek, sizin ve PolyTrack topluluğunuz tarafından inşa edilmiş çeşitli pistlerde zamanınızı sürekli olarak geliştirmeye çalışarak, zamanla yarışmanızı sağlar. Adrenalini yaşayın ve şimdi PolyTrack'i oynayın!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "PolyTrack - Hızlı Tempolu Düşük Çokgen Sürüş Oyunu",
+      "description": "PolyTrack, heyecan verici döngüler, sıçramalar ve yüksek hızlı aksiyonlar içeren hızlı tempolu, düşük çokgen bir sürüş oyunudur. TrackMania'dan esinlenilerek, sizin ve PolyTrack topluluğunuz tarafından inşa edilmiş çeşitli pistlerde zamanınızı sürekli olarak geliştirmeye çalışarak, zamanla yarışmanızı sağlar. Adrenalini yaşayın ve şimdi PolyTrack'i oynayın!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "PolyTrack - Hızlı Tempolu Düşük Çokgen Sürüş Oyunu",
+      "whatIsTitle": "PolyTrack Nedir?",
+      "whatIsDescription": "PolyTrack, her milisaniyenin önemli olduğu heyecan verici döngüler, sıçramalar ve yüksek hızlı aksiyonlar içeren hızlı tempolu, düşük çokgen bir sürüş oyunudur. TrackMania'dan esinlenilerek, sizin ve PolyTrack topluluğunuz tarafından inşa edilmiş çeşitli pistlerde zamanınızı sürekli olarak geliştirmeye çalışarak, zamanla yarışmanızı sağlar!",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "En iyi zamanı belirlemek için zamanla yarışın.",
+      "howToPlayStep2": "Kendi pistlerinizi PolyTrack topluluğu ile paylaşın ve oluşturun.",
+      "howToPlayStep3": "Becerinizi geliştirin ve liderlik tablolarında yükselin.",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Hızlı Tempolu Aksiyon",
+      "feature1Description": "Heyecan verici döngüler, sıçramalar ve yüksek hızlı aksiyonlar yaşayın.",
+      "feature2Title": "Pista İnşa Etme",
+      "feature2Description": "Kendi pistlerinizi PolyTrack topluluğu ile paylaşın ve oluşturun.",
+      "feature3Title": "Zaman Yarışı",
+      "feature3Description": "En iyi zamanı belirlemek için zamanla yarışın.",
+      "feature4Title": "Topluluk Odaklı",
+      "feature4Description": "Diğer kullanıcılarla yarışın ve liderlik tablolarında yükselin."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiye Eder"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Hiç kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Gör",
+      "page": "Sayfa"
+    }
+  }
+}

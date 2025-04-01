@@ -1,0 +1,77 @@
+{
+  "polytrack": {
+    "title": "ポリトラック - 高速低ポリゴンドライビングゲーム",
+    "slogan": "レース、構築、改善 - 毎ミリ秒がカウントされます！",
+    "description": "ポリトラックは、スリリングなループ、ジャンプ、高速アクションを備えた、高速低ポリゴンドライビングゲームです。TrackManiaに触発され、自分やポリトラックコミュニティによって構築されたさまざまなトラックで、常に自分の時間を改善するために、タイマーと競うことを求められます。アドレナリンを体験して、今すぐポリトラックをプレイしてください！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "ポリトラック - 高速低ポリゴンドライビングゲーム",
+      "description": "ポリトラックは、スリリングなループ、ジャンプ、高速アクションを備えた、高速低ポリゴンドライビングゲームです。TrackManiaに触発され、自分やポリトラックコミュニティによって構築されたさまざまなトラックで、常に自分の時間を改善するために、タイマーと競うことを求められます。アドレナリンを体験して、今すぐポリトラックをプレイしてください！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "フルスクリーン",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ポリトラック - 高速低ポリゴンドライビングゲーム",
+      "whatIsTitle": "ポリトラックとは？",
+      "whatIsDescription": "ポリトラックは、毎秒がカウントされるスリリングなループ、ジャンプ、高速アクションを備えた高速低ポリゴンドライビングゲームです。TrackManiaに触発され、自分やポリトラックコミュニティによって構築されたさまざまなトラックで、常に自分の時間を改善するために、タイマーと競うことを求められます！",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "最速タイムを目指してタイマーと競います。",
+      "howToPlayStep2": "独自のトラックを構築して、ポリトラックコミュニティと共有します。",
+      "howToPlayStep3": "スキルを向上させ、リーダーボードを上昇させます。",
+      "keyFeaturesTitle": "主な機能",
+      "feature1Title": "高速アクション",
+      "feature1Description": "スリリングなループ、ジャンプ、高速アクションを体験してください。",
+      "feature2Title": "トラック作成",
+      "feature2Description": "独自のトラックを作成して、ポリトラックコミュニティと共有します。",
+      "feature3Title": "タイムトライアル",
+      "feature3Description": "最速タイムを目指してタイマーと競います。",
+      "feature4Title": "コミュニティ主導型",
+      "feature4Description": "他のプレイヤーと競い、リーダーボードを上昇させます。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+PolyTrack is a fast-paced, low-poly driving game featuring thrilling loops, jumps, and high-speed action where every millisecond counts. Inspired by TrackMania, it challenges you to race against the clock, constantly striving to improve your time on various tracks built by you and the Polytrack community! It doesn't get any more hands-on than that.
