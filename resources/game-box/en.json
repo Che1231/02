@@ -103,74 +103,134 @@
   ],
   "categories": [
     {
-      "name": "Featured Games",
-      "path": "/c/featured",
+      "name": "Hot",
+      "path": "/c/hot",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347747884-98blap.png",
-      "description": "We have selected the best games for you!",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482487626-9yoz3s.png",
+      "description": "The most-played games this month – don’t miss out!",
       "position": 1
     },
     {
-      "name": ".IO Games",
-      "path": "/c/io-games",
+      "name": "Best",
+      "path": "/c/best",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347757868-f9rr2.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482501773-ytwu4f.png",
       "position": 2,
-      "description": "Exciting .IO  games!"
+      "description": "Handpicked top-rated games guaranteed to entertain!"
     },
     {
-      "name": "Arcade Games",
-      "path": "/c/arcade-games",
+      "name": "Action",
+      "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Exciting arcade games!",
+      "description": "Slash through challenges with sword-swinging adventures!",
       "position": 3
     },
     {
-      "name": "Adventure Games",
-      "path": "/c/adventure-games",
+      "name": "Adventure",
+      "path": "/c/adventure",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "Exciting adventure games!"
+      "description": "Embark on thrilling quests and discover hidden treasures!"
     },
     {
-      "name": "Action Games",
-      "path": "/c/action",
+      "name": "Shooting",
+      "path": "/c/shooting",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
+      "position": 5,
+      "description": "Aim, fire, and dominate the battlefield in seconds!"
+    },
+    {
+      "name": "Racing",
+      "path": "/c/racing",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
+      "position": 6,
+      "description": "Burn rubber and drift into victory!"
+    },
+    {
+      "name": "Block",
+      "path": "/c/block",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482985191-erxdk.png",
+      "position": 7,
+      "description": "Smash colorful blocks and unlock epic combos! "
+    },
+    {
+      "name": "Hypercasual",
+      "path": "/c/hypercasual",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346728153-wxvids.png",
-      "description": "Exciting action games!",
-      "position": 5
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
+      "description": "One-tap fun that fits your busy schedule!",
+      "position": 8
     },
     {
-      "name": "Music Games",
-      "path": "/c/music-games",
+      "name": "Puzzle",
+      "path": "/c/puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347768031-mwdonl.png",
-      "position": 6,
-      "description": "Exciting music games!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
+      "position": 9,
+      "description": "Train your brain with mind-bending riddles and mazes! "
     },
     {
-      "name": "Puzzle Games",
-      "path": "/c/puzzle-games",
+      "name": "Music",
+      "path": "/c/music",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347794115-vx5hb.png",
-      "position": 7,
-      "description": "Exciting puzzle  games!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
+      "position": 10,
+      "description": "ap to the beat and become a rhythm master!"
+    },
+    {
+      "name": "Sports",
+      "path": "/c/sports",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
+      "position": 11,
+      "description": "Score goals, slam dunks, and break records instantly!"
+    },
+    {
+      "name": "Multiplayer",
+      "path": "/c/multiplayer",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
+      "position": 12,
+      "description": "Team up or compete with friends globally!"
+    },
+    {
+      "name": "Clicker",
+      "path": "/c/clicker",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483016845-q3l71i.png",
+      "position": 13,
+      "description": "Tap to earn gold and automate your empire!"
     },
     {
       "name": "Cooking",
@@ -178,39 +238,39 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346741222-tl7fco.png",
-      "position": 8,
-      "description": "Exciting cooking games!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484130517-98a2qo.png",
+      "position": 14,
+      "description": "Whip up delicious meals in 60 seconds flat! "
     },
     {
-      "name": "Racing & Driving",
-      "path": "/c/racing-driving",
+      "name": "Farming",
+      "path": "/c/farming",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
-      "position": 9,
-      "description": "Exciting Racing & Driving games!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
+      "position": 15,
+      "description": "Harvest crops and build your dream farm with a single tap! "
     },
     {
-      "name": "Sports Games",
-      "path": "/c/sports-games",
+      "name": ".IO",
+      "path": "/c/io",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346747232-br5i5z.png",
-      "position": 10,
-      "description": "Exciting sports games!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
+      "position": 16,
+      "description": "Eat, grow, and dominate the .IO universe! "
     },
     {
-      "name": "Block Game",
-      "path": "/c/block-game",
+      "name": "3D",
+      "path": "/c/3d",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "",
-      "position": 11,
-      "description": "Exciting block games!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
+      "position": 17,
+      "description": "Dive into immersive 3D worlds with stunning graphics! "
     }
   ]
 }

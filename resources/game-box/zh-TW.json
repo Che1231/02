@@ -103,114 +103,174 @@
   ],
   "categories": [
     {
-      "name": "精選遊戲",
-      "path": "/c/featured",
+      "name": "熱門",
+      "path": "/c/hot",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347747884-98blap.png",
-      "description": "我們已為您精選了最佳遊戲！",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482487626-9yoz3s.png",
+      "description": "本月最受歡迎的遊戲 – 千萬不要錯過！",
       "position": 1
     },
     {
-      "name": ".IO 遊戲",
-      "path": "/c/io-games",
+      "name": "最佳",
+      "path": "/c/best",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347757868-f9rr2.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482501773-ytwu4f.png",
       "position": 2,
-      "description": "令人興奮的 .IO 遊戲！"
+      "description": "精心挑選的頂級遊戲，保證娛樂你！"
     },
     {
-      "name": "街機遊戲",
-      "path": "/c/arcade-games",
+      "name": "動作",
+      "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "令人興奮的街機遊戲！",
+      "description": "揮舞著寶劍，挑戰冒險！",
       "position": 3
     },
     {
-      "name": "冒險遊戲",
-      "path": "/c/adventure-games",
+      "name": "冒險",
+      "path": "/c/adventure",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "令人興奮的冒險遊戲！"
+      "description": "踏上刺激的探險，發現隱藏的寶藏！"
     },
     {
-      "name": "動作遊戲",
-      "path": "/c/action",
+      "name": "射擊",
+      "path": "/c/shooting",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
+      "position": 5,
+      "description": "瞄準，射擊，秒殺對手！"
+    },
+    {
+      "name": "賽車",
+      "path": "/c/racing",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
+      "position": 6,
+      "description": "燃燒橡膠，漂移取勝！"
+    },
+    {
+      "name": "方塊",
+      "path": "/c/block",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482985191-erxdk.png",
+      "position": 7,
+      "description": "粉碎色彩繽紛的方塊，解鎖史詩般的連擊！"
+    },
+    {
+      "name": "極簡",
+      "path": "/c/hypercasual",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346728153-wxvids.png",
-      "description": "令人興奮的動作遊戲！",
-      "position": 5
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
+      "description": "輕鬆一鍵，滿足你的忙碌行程！",
+      "position": 8
     },
     {
-      "name": "音樂遊戲",
-      "path": "/c/music-games",
+      "name": "益智",
+      "path": "/c/puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347768031-mwdonl.png",
-      "position": 6,
-      "description": "令人興奮的音樂遊戲！"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
+      "position": 9,
+      "description": "用腦筋急轉彎和迷宮鍛鍊你的大腦！"
     },
     {
-      "name": "益智遊戲",
-      "path": "/c/puzzle-games",
+      "name": "音樂",
+      "path": "/c/music",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347794115-vx5hb.png",
-      "position": 7,
-      "description": "令人興奮的益智遊戲！"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
+      "position": 10,
+      "description": "隨著節奏起舞，成為節奏大師！"
     },
     {
-      "name": "烹飪遊戲",
+      "name": "運動",
+      "path": "/c/sports",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
+      "position": 11,
+      "description": "立即得分、灌籃並打破紀錄！"
+    },
+    {
+      "name": "多人遊戲",
+      "path": "/c/multiplayer",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
+      "position": 12,
+      "description": "與全球朋友組隊或競爭！"
+    },
+    {
+      "name": "點擊器",
+      "path": "/c/clicker",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483016845-q3l71i.png",
+      "position": 13,
+      "description": "點擊賺取黃金，自動化你的帝國！"
+    },
+    {
+      "name": "烹飪",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346741222-tl7fco.png",
-      "position": 8,
-      "description": "令人興奮的烹飪遊戲！"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484130517-98a2qo.png",
+      "position": 14,
+      "description": "在 60 秒內製作美味佳餚！"
     },
     {
-      "name": "賽車與駕駛",
-      "path": "/c/racing-driving",
+      "name": "農場",
+      "path": "/c/farming",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
-      "position": 9,
-      "description": "令人興奮的賽車與駕駛遊戲！"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
+      "position": 15,
+      "description": "收穫農作物，點擊打造你的夢想農場！"
     },
     {
-      "name": "運動遊戲",
-      "path": "/c/sports-games",
+      "name": ".IO",
+      "path": "/c/io",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346747232-br5i5z.png",
-      "position": 10,
-      "description": "令人興奮的運動遊戲！"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
+      "position": 16,
+      "description": "吞噬、成長，稱霸 .IO 宇宙！"
     },
     {
-      "name": "積木遊戲",
-      "path": "/c/block-game",
+      "name": "3D",
+      "path": "/c/3d",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "",
-      "position": 11,
-      "description": "令人興奮的積木遊戲！"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
+      "position": 17,
+      "description": "沉浸於令人驚嘆的 3D 世界！"
     }
   ]
 }

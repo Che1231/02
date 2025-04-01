@@ -103,114 +103,174 @@
   ],
   "categories": [
     {
-      "name": "Öne çıkan Oyunlar",
-      "path": "/c/featured",
+      "name": "Sıcak",
+      "path": "/c/hot",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347747884-98blap.png",
-      "description": "Sizin için en iyi oyunları seçtik!",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482487626-9yoz3s.png",
+      "description": "Bu ay en çok oynanan oyunlar – kaçırmayın!",
       "position": 1
     },
     {
-      "name": ".IO Oyunları",
-      "path": "/c/io-games",
+      "name": "En İyi",
+      "path": "/c/best",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347757868-f9rr2.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482501773-ytwu4f.png",
       "position": 2,
-      "description": "Heyecan verici .IO oyunları!"
+      "description": "Eğlendirmeye garantili en iyi oyundan oluşan özenle seçilmiş oyunlar!"
     },
     {
-      "name": "Arkadaş Oyunları",
-      "path": "/c/arcade-games",
+      "name": "Eylem",
+      "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Heyecan verici arkadaş oyunları!",
+      "description": "Kılıç sallayarak maceralarla zorlukları aşın!",
       "position": 3
     },
     {
-      "name": "Macera Oyunları",
-      "path": "/c/adventure-games",
+      "name": "Macera",
+      "path": "/c/adventure",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "Heyecan verici macera oyunları!"
+      "description": "Heyecan verici maceralara atılın ve gizli hazineleri keşfedin!"
     },
     {
-      "name": "Eylem Oyunları",
-      "path": "/c/action",
+      "name": "Atak",
+      "path": "/c/shooting",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
+      "position": 5,
+      "description": "Hedef alın, ateş edin ve savaş alanında saniyeler içinde hakimiyet kurun!"
+    },
+    {
+      "name": "Yarış",
+      "path": "/c/racing",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
+      "position": 6,
+      "description": "Lastikleri yakıp zafere doğru sürün!"
+    },
+    {
+      "name": "Blok",
+      "path": "/c/block",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482985191-erxdk.png",
+      "position": 7,
+      "description": "Renkli blokları parçalayın ve epik kombinasyonları açığa çıkarın!"
+    },
+    {
+      "name": "Hiper Casual",
+      "path": "/c/hypercasual",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346728153-wxvids.png",
-      "description": "Heyecan verici eylem oyunları!",
-      "position": 5
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
+      "description": "Meşgul zamanlarınıza uyan tek dokunuşla eğlence!",
+      "position": 8
     },
     {
-      "name": "Müzik Oyunları",
-      "path": "/c/music-games",
+      "name": "Bulmaca",
+      "path": "/c/puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347768031-mwdonl.png",
-      "position": 6,
-      "description": "Heyecan verici müzik oyunları!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
+      "position": 9,
+      "description": "Zihninizi bulmacalar ve labirentlerle eğitin!"
     },
     {
-      "name": "Bulmaca Oyunları",
-      "path": "/c/puzzle-games",
+      "name": "Müzik",
+      "path": "/c/music",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347794115-vx5hb.png",
-      "position": 7,
-      "description": "Heyecan verici bulmaca oyunları!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
+      "position": 10,
+      "description": "Ritme uygun hareket edin ve ritim ustasına dönüşün!"
     },
     {
-      "name": "Yemek Yapma Oyunları",
+      "name": "Spor",
+      "path": "/c/sports",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
+      "position": 11,
+      "description": "Hedeflere ulaşın, şutları yapın ve rekorları hemen kırın!"
+    },
+    {
+      "name": "Çok Oyunculu",
+      "path": "/c/multiplayer",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
+      "position": 12,
+      "description": "Dünya çapında arkadaşlarınızla takım kurun veya yarışın!"
+    },
+    {
+      "name": "Tıklatıcı",
+      "path": "/c/clicker",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483016845-q3l71i.png",
+      "position": 13,
+      "description": "Altın kazanmak ve imparatorluğunuzu otomatikleştirmek için dokunun!"
+    },
+    {
+      "name": "Yemek Yapımı",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346741222-tl7fco.png",
-      "position": 8,
-      "description": "Heyecan verici yemek yapma oyunları!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484130517-98a2qo.png",
+      "position": 14,
+      "description": "60 saniye içinde lezzetli yemekler hazırlayın!"
     },
     {
-      "name": "Yarış ve Sürüş Oyunları",
-      "path": "/c/racing-driving",
+      "name": "Çiftçilik",
+      "path": "/c/farming",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
-      "position": 9,
-      "description": "Heyecan verici Yarış ve Sürüş oyunları!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
+      "position": 15,
+      "description": "Tek bir dokunuşla mahsulleri toplayın ve hayalinizdeki çiftliği inşa edin!"
     },
     {
-      "name": "Spor Oyunları",
-      "path": "/c/sports-games",
+      "name": ".IO",
+      "path": "/c/io",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346747232-br5i5z.png",
-      "position": 10,
-      "description": "Heyecan verici spor oyunları!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
+      "position": 16,
+      "description": ".IO evreninde yiyin, büyüleyin ve hakimiyet kurun!"
     },
     {
-      "name": "Blok Oyunları",
-      "path": "/c/block-game",
+      "name": "3B",
+      "path": "/c/3d",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "",
-      "position": 11,
-      "description": "Heyecan verici blok oyunları!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
+      "position": 17,
+      "description": "Çarpıcı grafiklerle etkileyici 3B dünyalara dalın!"
     }
   ]
 }

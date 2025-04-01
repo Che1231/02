@@ -103,74 +103,134 @@
   ],
   "categories": [
     {
-      "name": "精选游戏",
-      "path": "/c/featured",
+      "name": "热门",
+      "path": "/c/hot",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347747884-98blap.png",
-      "description": "我们为您精选了最佳游戏！",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482487626-9yoz3s.png",
+      "description": "本月最受欢迎的游戏——不容错过！",
       "position": 1
     },
     {
-      "name": ".IO 游戏",
-      "path": "/c/io-games",
+      "name": "精品",
+      "path": "/c/best",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347757868-f9rr2.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482501773-ytwu4f.png",
       "position": 2,
-      "description": "令人兴奋的 .IO 游戏！"
+      "description": "精心挑选的顶级游戏，保证精彩！"
     },
     {
-      "name": "街机游戏",
-      "path": "/c/arcade-games",
+      "name": "动作",
+      "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "令人兴奋的街机游戏！",
+      "description": "挥舞着宝剑，挑战各种冒险！",
       "position": 3
     },
     {
-      "name": "冒险游戏",
-      "path": "/c/adventure-games",
+      "name": "冒险",
+      "path": "/c/adventure",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "令人兴奋的冒险游戏！"
+      "description": "开启惊险的旅程，发现隐藏的宝藏！"
     },
     {
-      "name": "动作游戏",
-      "path": "/c/action",
+      "name": "射击",
+      "path": "/c/shooting",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
+      "position": 5,
+      "description": "瞄准、射击，在战场上称霸！"
+    },
+    {
+      "name": "赛车",
+      "path": "/c/racing",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
+      "position": 6,
+      "description": "燃烧轮胎，漂移取胜！"
+    },
+    {
+      "name": "方块",
+      "path": "/c/block",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482985191-erxdk.png",
+      "position": 7,
+      "description": "粉碎彩色方块，解锁史诗级连击！"
+    },
+    {
+      "name": "休闲",
+      "path": "/c/hypercasual",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346728153-wxvids.png",
-      "description": "令人兴奋的动作游戏！",
-      "position": 5
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
+      "description": "轻轻松松的单指操作，总能满足你的空闲时间！",
+      "position": 8
     },
     {
-      "name": "音乐游戏",
-      "path": "/c/music-games",
+      "name": "益智",
+      "path": "/c/puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347768031-mwdonl.png",
-      "position": 6,
-      "description": "令人兴奋的音乐游戏！"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
+      "position": 9,
+      "description": "用脑筋急转弯和迷宫来锻炼你的大脑！"
     },
     {
-      "name": "益智游戏",
-      "path": "/c/puzzle-games",
+      "name": "音乐",
+      "path": "/c/music",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347794115-vx5hb.png",
-      "position": 7,
-      "description": "令人兴奋的益智游戏！"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
+      "position": 10,
+      "description": "跟着节拍，成为节奏大师！"
+    },
+    {
+      "name": "体育",
+      "path": "/c/sports",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
+      "position": 11,
+      "description": "进球、扣篮、打破记录，即刻完成！"
+    },
+    {
+      "name": "多人",
+      "path": "/c/multiplayer",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
+      "position": 12,
+      "description": "与全球朋友组队或竞争！"
+    },
+    {
+      "name": "点击器",
+      "path": "/c/clicker",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483016845-q3l71i.png",
+      "position": 13,
+      "description": "点击获取金币，自动化你的帝国！"
     },
     {
       "name": "烹饪",
@@ -178,39 +238,39 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346741222-tl7fco.png",
-      "position": 8,
-      "description": "令人兴奋的烹饪游戏！"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484130517-98a2qo.png",
+      "position": 14,
+      "description": "60 秒内就能制作美味佳肴！"
     },
     {
-      "name": "赛车与驾驶",
-      "path": "/c/racing-driving",
+      "name": "农场",
+      "path": "/c/farming",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
-      "position": 9,
-      "description": "令人兴奋的赛车与驾驶游戏！"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
+      "position": 15,
+      "description": "收获庄稼，建设你的梦想农场，只需轻点！"
     },
     {
-      "name": "体育游戏",
-      "path": "/c/sports-games",
+      "name": ".IO",
+      "path": "/c/io",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346747232-br5i5z.png",
-      "position": 10,
-      "description": "令人兴奋的体育游戏！"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
+      "position": 16,
+      "description": "吃、长大和统治 .IO 宇宙！"
     },
     {
-      "name": "方块游戏",
-      "path": "/c/block-game",
+      "name": "3D",
+      "path": "/c/3d",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "",
-      "position": 11,
-      "description": "令人兴奋的方块游戏！"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
+      "position": 17,
+      "description": "沉浸在令人惊叹的 3D 世界中！"
     }
   ]
 }

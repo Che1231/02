@@ -103,114 +103,174 @@
   ],
   "categories": [
     {
-      "name": "বৈশিষ্ট্যপূর্ণ গেমস",
-      "path": "/c/featured",
+      "name": "গরম",
+      "path": "/c/hot",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347747884-98blap.png",
-      "description": "আমাদের দ্বারা আপনার জন্য নির্বাচিত সেরা গেম!",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482487626-9yoz3s.png",
+      "description": "এই মাসের সবচেয়ে বেশি খেলা গেমগুলি – মিস করবেন না!",
       "position": 1
     },
     {
-      "name": ".IO গেমস",
-      "path": "/c/io-games",
+      "name": "সেরা",
+      "path": "/c/best",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347757868-f9rr2.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482501773-ytwu4f.png",
       "position": 2,
-      "description": "উত্তেজনাপূর্ণ .IO গেমস!"
+      "description": "হাতে তোলা সেরা-রেটেড গেমগুলি যা নিশ্চিতভাবে আপনাকে বিনোদন করবে!"
     },
     {
-      "name": "আর্কেড গেমস",
-      "path": "/c/arcade-games",
+      "name": "অ্যাকশন",
+      "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "উত্তেজনাপূর্ণ আর্কেড গেমস!",
+      "description": "তলোয়ারের ঝাঁকুনিযুক্ত অভিযানের মাধ্যমে চ্যালেঞ্জ ভেদ করুন!",
       "position": 3
     },
     {
-      "name": "সাহসিক গেমস",
-      "path": "/c/adventure-games",
+      "name": "সাহসিকতা",
+      "path": "/c/adventure",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156348174-ns6zm.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "উত্তেজনাপূর্ণ সাহসিক গেম!"
+      "description": "উত্তেজনাপূর্ণ অনুসন্ধানে বের হন এবং গোপন ধনসম্পদ আবিষ্কার করুন!"
     },
     {
-      "name": "অ্যাকশন গেমস",
-      "path": "/c/action",
+      "name": "ছুটি",
+      "path": "/c/shooting",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
+      "position": 5,
+      "description": "লক্ষ্য করুন, গুলি করুন এবং দ্রুত যুদ্ধক্ষেত্রে আধিপত্য করুন!"
+    },
+    {
+      "name": "রেসিং",
+      "path": "/c/racing",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
+      "position": 6,
+      "description": "রাবার জ্বালা এবং জয়ের জন্য ড্রিফ্ট!"
+    },
+    {
+      "name": "ব্লক",
+      "path": "/c/block",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482985191-erxdk.png",
+      "position": 7,
+      "description": "রঙিন ব্লক ভেঙে এবং অসাধারণ কম্বো আনলক করুন! "
+    },
+    {
+      "name": "হাইপারক্যাজুয়াল",
+      "path": "/c/hypercasual",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346728153-wxvids.png",
-      "description": "উত্তেজনাপূর্ণ অ্যাকশন গেমস!",
-      "position": 5
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
+      "description": "আপনার ব্যস্ত সময়সূচীর জন্য এক-ট্যাপের মজা!",
+      "position": 8
     },
     {
-      "name": "সঙ্গীত গেমস",
-      "path": "/c/music-games",
+      "name": "পাজল",
+      "path": "/c/puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347768031-mwdonl.png",
-      "position": 6,
-      "description": "উত্তেজনাপূর্ণ সঙ্গীত গেমস!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
+      "position": 9,
+      "description": "মানসিক ধাঁধা এবং রহস্যের মাধ্যমে আপনার মস্তিষ্ককে প্রশিক্ষণ দিন! "
     },
     {
-      "name": "পাজল গেমস",
-      "path": "/c/puzzle-games",
+      "name": "সঙ্গীত",
+      "path": "/c/music",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743347794115-vx5hb.png",
-      "position": 7,
-      "description": "উত্তেজনাপূর্ণ পাজল  গেম!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
+      "position": 10,
+      "description": "তালের সাথে নৃত্য করুন এবং একটি তালিকা মাস্টার হোন!"
     },
     {
-      "name": "রান্না",
+      "name": "ক্রীড়া",
+      "path": "/c/sports",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
+      "position": 11,
+      "description": "লক্ষ্য করুন গোল, স্লাম ডাঙ্ক, এবং অবিলম্বে রেকর্ড ভেঙে ফেলুন!"
+    },
+    {
+      "name": "বহু-খেলোয়াড়",
+      "path": "/c/multiplayer",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
+      "position": 12,
+      "description": "বৈশ্বিকভাবে বন্ধুদের সাথে দলবদ্ধ হন বা প্রতিদ্বন্দ্বিতা করুন!"
+    },
+    {
+      "name": "ক্লিকার",
+      "path": "/c/clicker",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483016845-q3l71i.png",
+      "position": 13,
+      "description": "সোনা অর্জন করতে এবং আপনার সাম্রাজ্য স্বয়ংক্রিয় করতে ট্যাপ করুন!"
+    },
+    {
+      "name": "রান্না করা",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346741222-tl7fco.png",
-      "position": 8,
-      "description": "উত্তেজনাপূর্ণ রান্না গেম!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484130517-98a2qo.png",
+      "position": 14,
+      "description": "60 সেকেন্ডের মধ্যে সুস্বাদু খাবার তৈরি করুন! "
     },
     {
-      "name": "রেসিং ও ড্রাইভিং",
-      "path": "/c/racing-driving",
+      "name": "খামারী",
+      "path": "/c/farming",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-28/images/1743156424639-x38ap.png",
-      "position": 9,
-      "description": "উত্তেজনাপূর্ণ রেসিং ও ড্রাইভিং গেম!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
+      "position": 15,
+      "description": "ফসল কাটুন এবং এক ট্যাপে আপনার স্বপ্নের খামার তৈরি করুন! "
     },
     {
-      "name": "খেলাধুলো গেমস",
-      "path": "/c/sports-games",
+      "name": ".IO",
+      "path": "/c/io",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346747232-br5i5z.png",
-      "position": 10,
-      "description": "উত্তেজনাপূর্ণ খেলাধুলো গেম!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
+      "position": 16,
+      "description": "খান, বৃদ্ধি করুন এবং .IO মহাবিশ্বে আধিপত্য করুন! "
     },
     {
-      "name": "ব্লক গেম",
-      "path": "/c/block-game",
+      "name": "3D",
+      "path": "/c/3d",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "",
-      "position": 11,
-      "description": "উত্তেজনাপূর্ণ ব্লক গেম!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
+      "position": 17,
+      "description": "অসাধারণ গ্রাফিক্স সহ 3D বিশ্বে বিস্তৃত হন! "
     }
   ]
 }
