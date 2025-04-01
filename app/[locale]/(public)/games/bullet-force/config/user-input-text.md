@@ -1,0 +1,1 @@
+Bullet Force is an online multiplayer FPS game featuring fast-paced action. Battle against other players on tactical maps using a range of weapons at your disposal. Crate custom games and buy new perks to improve your character.

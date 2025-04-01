@@ -1,0 +1,120 @@
+{
+  "name": "Bullet Force",
+  "pagePath": "/games/bullet-force",
+  "pageName": "bullet-force",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.crazygames.com/embed/bullet-force-multiplayer",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingPhoenix_Prime",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix_Prime.png",
+      "content": "Wow, just played Bullet Force and the maps are super tactical! Got ambushed so many times!"
+    },
+    {
+      "author": "PhantomRevolver87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomRevolver87.png",
+      "content": "This game is pure adrenaline! The weapons are incredible and the perks make me unbeatable."
+    },
+    {
+      "author": "CosmicKatana_XX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicKatana_XX.png",
+      "content": "Had an awesome time today, especially with the neon lights adding some flair to the battlefields."
+    },
+    {
+      "author": "NeonBlade_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonBlade_X.png",
+      "content": "Can't get enough of this game, battling it out with friends on these maps is pure chaos but fun!"
+    },
+    {
+      "author": "KrakenLooter",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/KrakenLooter.png",
+      "content": "Love the crate system here, getting new perks is awesome and gives you an edge over others."
+    },
+    {
+      "author": "Leviathan_Legend",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Leviathan_Legend.png",
+      "content": "So much fun! Tactical maps and fast-paced action make Bullet Force a real hit."
+    },
+    {
+      "author": "ShadowReAPer",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/ShadowReAPer.png",
+      "content": "This game is non-stop excitement! Love the way players battle it out with so many choices."
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "Really enjoyed the perks, they add a lot to how I play in matches."
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "Bullet Force is so much better when you customize everything yourself with those perks."
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "The variety of weapons in the game is insane, loved trying all of them out."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743494525355-57rts7.avif",
+  "page_path": "/games/bullet-force",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Shooting"
+  ],
+  "createdTime": "2025-04-01 16:02:06"
+}
