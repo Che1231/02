@@ -1,0 +1,77 @@
+{
+  "shape-walls": {
+    "title": "Shape Walls: Jeu de puzzle en ligne gratuit - Organiser les formes et révéler les objets",
+    "slogan": "Shape Walls: Jeu de puzzle en ligne gratuit - Organiser les formes et révéler les objets",
+    "description": "Shape Walls est un jeu de puzzle amusant et stimulant où vous organisez des pièces en forme pour révéler des objets cachés. Touchez pour faire pivoter les pièces et les ajuster dans le contour correct. Grâce à son gameplay intuitif et à ses mécanismes captivants, Shape Walls offre des heures de divertissement. Jouez à Shape Walls dès maintenant et testez vos compétences en résolution de puzzles !",
+    "Loading": {
+      "title": "Chargement"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amicaux",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Shape Walls: Jeu de puzzle en ligne gratuit",
+      "description": "Shape Walls est un jeu de puzzle amusant et stimulant où vous organisez des pièces en forme pour révéler des objets cachés. Touchez pour faire pivoter les pièces et les ajuster dans le contour correct.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Shape Walls: Jeu de puzzle en ligne gratuit",
+      "whatIsTitle": "Qu'est-ce que Shape Walls ?",
+      "whatIsDescription": "Shape Walls est un jeu de puzzle amusant et stimulant où vous organisez des pièces en forme pour révéler des objets cachés. Touchez pour faire pivoter les pièces et les ajuster dans le contour correct.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Touchez pour faire pivoter les pièces en forme.",
+      "howToPlayStep2": "Organisez les pièces pour qu'elles s'adaptent au contour correct.",
+      "howToPlayStep3": "Révélez l'objet caché pour terminer le puzzle.",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Gameplay intuitif",
+      "feature1Description": "Des mécanismes faciles à apprendre rendent Shape Walls accessible à tous les joueurs.",
+      "feature2Title": "Des puzzles stimulants",
+      "feature2Description": "Testez vos compétences en résolution de puzzles avec des niveaux de difficulté croissants.",
+      "feature3Title": "Mécanismes captivants",
+      "feature3Description": "Faites pivoter et organisez les pièces pour révéler les objets cachés.",
+      "feature4Title": "Des heures de plaisir",
+      "feature4Description": "Profitez d'un divertissement sans fin avec la vaste collection de puzzles de Shape Walls."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

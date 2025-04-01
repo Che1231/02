@@ -1,0 +1,77 @@
+{
+  "shape-walls": {
+    "title": "모양 벽: 무료 온라인 퍼즐 게임 - 모양 배열 및 객체 밝히기",
+    "slogan": "모양 벽: 무료 온라인 퍼즐 게임 - 모양 배열 및 객체 밝히기",
+    "description": "모양 벽은 숨겨진 물체를 드러내기 위해 모양 조각을 배열하는 재미있고 도전적인 퍼즐 게임입니다. 조각을 회전시키고 올바른 윤곽에 맞추기 위해 탭하세요. 직관적인 게임 플레이와 매력적인 메커니즘으로 모양 벽은 수많은 엔터테인먼트를 제공합니다. 지금 모양 벽을 플레이하고 퍼즐 능력을 테스트하세요!",
+    "Loading": {
+      "title": "로딩중"
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "모양 벽: 무료 온라인 퍼즐 게임",
+      "description": "모양 벽은 숨겨진 물체를 드러내기 위해 모양 조각을 배열하는 재미있고 도전적인 퍼즐 게임입니다. 조각을 회전시키고 올바른 윤곽에 맞추세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "모양 벽: 무료 온라인 퍼즐 게임",
+      "whatIsTitle": "모양 벽이란 무엇인가요?",
+      "whatIsDescription": "모양 벽은 숨겨진 물체를 드러내기 위해 모양 조각을 배열하는 재미있고 도전적인 퍼즐 게임입니다. 조각을 회전시키고 올바른 윤곽에 맞추세요.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "모양 조각을 탭하여 회전시키세요.",
+      "howToPlayStep2": "조각을 올바른 윤곽에 맞추어 배열하세요.",
+      "howToPlayStep3": "숨겨진 물체를 드러내어 퍼즐을 완성하세요.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "직관적인 게임 플레이",
+      "feature1Description": "학습하기 쉬운 메커니즘으로 모든 플레이어가 모양 벽에 쉽게 접근할 수 있습니다.",
+      "feature2Title": "도전적인 퍼즐",
+      "feature2Description": "점점 어려워지는 레벨로 퍼즐 능력을 테스트하세요.",
+      "feature3Title": "매력적인 메커니즘",
+      "feature3Description": "숨겨진 물체를 드러내기 위해 조각을 회전하고 배열하세요.",
+      "feature4Title": "즐거움이 끊이지 않아요",
+      "feature4Description": "모양 벽의 다양한 퍼즐로 끊임없는 엔터테인먼트를 즐기세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Shape Walls is a fun and challenging puzzle game where you arrange shape pieces to reveal hidden objects. Tap to rotate the pieces and fit them into the correct outline. 
