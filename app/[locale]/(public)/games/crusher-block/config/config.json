@@ -1,0 +1,120 @@
+{
+  "name": "Crusher Block",
+  "pagePath": "/games/crusher-block",
+  "pageName": "crusher-block",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.crazygames.com/embed/crusher-block-jwd",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken87.png",
+      "content": "Loving Crusher Block so far! The crushing machine upgrades are super addictive, can't stop playing!"
+    },
+    {
+      "author": "SavageBroadsword_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBroadsword_X.png",
+      "content": "Is it just me, or is seeing those blocks get destroyed so satisfying? Great idle game."
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Building the ultimate resource-crushing machine? Sign me up! This is way more fun than it has any right to be LOL."
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Gotta say, this Crusher Block game is pretty sweet. Grinding for those upgrades is my new addiction."
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "Never thought crushing blocks could be so much fun. Money is flowing, and upgrades are FLYING! Worth it."
+    },
+    {
+      "author": "PhantomPhoenix42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix42.png",
+      "content": "This game's simplicity is its beauty. Just keep crushing and earning to upgrade! Easy peasy!"
+    },
+    {
+      "author": "AdjectiveRevolver_Variant",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AdjectiveRevolver_Variant.png",
+      "content": "It scratches that one itch in my brain. Good Job game studio!"
+    },
+    {
+      "author": "ZeldaFan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/ZeldaFan99.png",
+      "content": "The upgrades are definitely the best part. I always want to upgrade MORE!"
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "Is it Crusher Block, or is it money printer? I dunno, but I am having a BLAST. What a rush!"
+    },
+    {
+      "author": "CosmicLeviathan42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicLeviathan42.png",
+      "content": "This game about crushing blocks is alright. Expected more pizzazz though. Maybe improve graphics?"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743520003918-rh2j.avif",
+  "page_path": "/games/crusher-block",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Clicker"
+  ],
+  "createdTime": "2025-04-01 23:06:41"
+}

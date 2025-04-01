@@ -1,0 +1,1 @@
+Crusher Block is an idle game where you smash blocks, earn money, and upgrade your tools to create the most powerful crushing machine! Can you build the ultimate resource-crushing machine?
