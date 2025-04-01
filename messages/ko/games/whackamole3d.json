@@ -1,10 +1,10 @@
 {
   "whackamole3d": {
-    "title": "WhackAMole3D: 재미있는 아케이드 게임 - 온라인 무료 플레이",
+    "title": "WhackAMole3D - 반사 훈련을 위한 재미있는 아케이드 게임",
     "slogan": "WhackAMole3D로 반사 신경을 테스트하세요",
-    "description": "WhackAMole3D는 반사 신경을 시험하는 빠르게 진행되는 아케이드 게임입니다. 몰들이 무작위로 나타나고, 빠르게 탭하는 것이 목표입니다. WhackAMole3D의 흥분을 만끽하고 점수를 얼마나 높이 올릴 수 있는지 확인하세요. 지금 WhackAMole3D를 플레이하고 짜릿함을 경험하세요!",
+    "description": "WhackAMole3D는 반사 신경을 시험하는 재미있고 빠르게 진행되는 아케이드 게임입니다! 땅굴에서  mole들이 무작위로 튀어나오고, 가능한 한 빠르게 두드리는 것이 귀하의 임무입니다. WhackAMole3D의 짜릿함을 경험하고 자신의 최고 점수를 갱신하기 위해 도전하세요. 지금 WhackAMole3D를 플레이하고 끝없는 재미를 즐겨보세요!",
     "Loading": {
-      "title": "WhackAMole3D 로딩 중..."
+      "title": "로딩 중..."
     },
     "Navbar": {
       "title": "탐색"
@@ -12,20 +12,20 @@
     "Common": {
       "createAt": "생성일",
       "guide": "안내",
-      "privacyPolicy": "개인정보 보호정책",
+      "privacyPolicy": "개인 정보 보호 정책",
       "termsOfServices": "서비스 약관",
-      "text": "내용",
+      "text": "콘텐츠",
       "help": "도움말",
-      "friendlyLinks": "친절한 링크",
+      "friendlyLinks": "친구 링크",
       "articleList": "기사 목록",
       "home": "홈",
       "next": "다음",
       "previous": "이전"
     },
     "HomeIframe": {
-      "title": "WhackAMole3D",
-      "description": "반사 신경이 시험되는 재미있고 빠르게 진행되는 아케이드 게임 WhackAMole3D입니다! 몰들이 구멍에서 무작위로 튀어나오고, 가능한 한 빨리 탭하는 것이 귀하의 임무입니다.",
-      "iframeTitle": "게임 미리보기",
+      "title": "WhackAMole3D - 무료 온라인 플레이",
+      "description": "WhackAMole3D는 반사 신경을 시험하는 재미있고 빠르게 진행되는 아케이드 게임입니다! 땅굴에서  mole들이 무작위로 튀어나오고, 가능한 한 빠르게 두드리는 것이 귀하의 임무입니다. WhackAMole3D의 짜릿함을 경험하고 자신의 최고 점수를 갱신하기 위해 도전하세요. 지금 WhackAMole3D를 플레이하고 끝없는 재미를 즐겨보세요!",
+      "iframeTitle": "게임 미리 보기",
       "fullscreenButton": "전체 화면",
       "shareButton": "공유",
       "urlCopied": "URL이 클립보드에 복사되었습니다!",
@@ -33,22 +33,22 @@
       "playGame": "게임 플레이"
     },
     "HomeFeatures": {
-      "gameTitle": "WhackAMole3D",
-      "whatIsTitle": "WhackAMole3D는 무엇인가요?",
-      "whatIsDescription": "WhackAMole3D는 반사 신경과 속도를 시험하는 신나는 아케이드 게임입니다. 몰들이 무작위로 나타나고, 빠르게 탭하여 점수를 얻어야 합니다.",
+      "gameTitle": "WhackAMole3D - 반사 훈련을 위한 재미있는 아케이드 게임",
+      "whatIsTitle": "WhackAMole3D란 무엇인가요?",
+      "whatIsDescription": "WhackAMole3D는 반사 신경을 시험하는 재미있고 빠르게 진행되는 아케이드 게임입니다! 땅굴에서 mole들이 무작위로 튀어나오고, 가능한 한 빠르게 두드리는 것이 귀하의 임무입니다.",
       "howToPlayTitle": "게임 방법",
-      "howToPlayStep1": "몰들이 구멍에서 무작위로 튀어나옵니다.",
-      "howToPlayStep2": "몰을 가능한 한 빨리 탭하세요.",
-      "howToPlayStep3": "점수를 얻고 자신의 최고 기록을 경신하세요!",
-      "keyFeaturesTitle": "주요 특징",
-      "feature1Title": "빠르게 진행되는 게임성",
-      "feature1Description": "WhackAMole3D는 빠르고 도전적인 게임성으로 긴장감을 유지합니다.",
-      "feature2Title": "무작위 몰 출현",
-      "feature2Description": "몰들이 무작위로 나타나 각 게임을 독특하고 흥미롭게 만듭니다.",
-      "feature3Title": "반사 신경 테스트",
-      "feature3Description": "매번 탭을 통해 반사 신경을 테스트하고 향상시키세요.",
-      "feature4Title": "최고 기록 도전",
-      "feature4Description": "자신과 다른 사람들과 경쟁하여 최고 점수를 달성하세요."
+      "howToPlayStep1": "mole들이 무작위로 땅굴에서 튀어나옵니다.",
+      "howToPlayStep2": "가능한 한 빠르게 mole을 두드리세요.",
+      "howToPlayStep3": "최고 점수를 갱신하기 위해 도전하세요!",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "빠르게 진행되는 게임 플레이",
+      "feature1Description": "WhackAMole3D는 긴장감을 유지할 수 있는 빠르게 진행되는 게임 플레이를 제공합니다.",
+      "feature2Title": "반사 훈련",
+      "feature2Description": "WhackAMole3D에서 매번 두드림으로 반사 신경을 향상시키세요.",
+      "feature3Title": "끊임없는 엔터테인먼트",
+      "feature3Description": "WhackAMole3D의 까다로운 게임 플레이로 끊임없는 엔터테인먼트를 즐겨보세요.",
+      "feature4Title": "최고 점수 도전",
+      "feature4Description": "WhackAMole3D에서 자신의 최고 점수를 갱신하기 위해 도전하세요."
     },
     "HomeFAQs": {
       "title": "자주 묻는 질문"
@@ -65,12 +65,12 @@
     "GamePage": {
       "title": "모든 게임",
       "description": "모든 게임",
-      "games": "게임들"
+      "games": "게임"
     },
     "CategoryPage": {
       "categories": "카테고리",
       "noCategories": "카테고리가 없습니다",
-      "viewMore": "더보기",
+      "viewMore": "더 보기",
       "page": "페이지"
     }
   }
