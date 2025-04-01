@@ -1,0 +1,77 @@
+{
+  "supermarket-simulator-store-manager": {
+    "title": "슈퍼마켓 시뮬레이터: 매장 관리자 - 무료 온라인 게임",
+    "slogan": "소매 제국을 건설하세요",
+    "description": "슈퍼마켓 시뮬레이터: 매장 관리자에 뛰어들어, 계산대 업무와 매장 관리를 병행하는 역동적인 소매 경험을 만끽하세요. 상품을 스캔하고 결제를 처리하며 재고를 관리하고 진열대를 정리하면서 고객을 만족시키세요. 어려움이 심화됨에 따라 매장을 확장하고 높은 수요를 충족시키세요. 혼잡을 헤쳐나가고 번영하는 슈퍼마켓 제국을 건설할 수 있을까요? 지금 슈퍼마켓 시뮬레이터: 매장 관리자를 플레이하고 당신의 실력을 테스트해보세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "슈퍼마켓 시뮬레이터: 매장 관리자",
+      "description": "자신만의 슈퍼마켓을 관리하는 흥미를 경험하세요. 이 역동적인 소매 게임에서 상품을 스캔하고, 재고를 관리하고, 고객을 만족시키세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "슈퍼마켓 시뮬레이터: 매장 관리자",
+      "whatIsTitle": "슈퍼마켓 시뮬레이터: 매장 관리자가 무엇인가요?",
+      "whatIsDescription": "슈퍼마켓 시뮬레이터: 매장 관리자는 계산대 업무와 매장 관리를 병행하는 역동적인 소매 경험입니다. 상품을 스캔하고 결제를 처리하며 재고를 관리하고 진열대를 정리하면서 고객을 만족시키세요.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "계산대에서 상품을 스캔하고 결제를 처리하세요.",
+      "howToPlayStep2": "매장 운영을 원활하게 유지하기 위해 재고를 관리하고 진열대를 정리하세요.",
+      "howToPlayStep3": "어려움이 심화됨에 따라 매장을 확장하고 높은 수요를 충족시키세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "역동적인 소매 경험",
+      "feature1Description": "빠르게 변화하는 환경에서 계산대 업무와 매장 관리를 병행하세요.",
+      "feature2Title": "고객 만족",
+      "feature2Description": "매장을 효율적으로 관리하여 고객 만족도를 높이세요.",
+      "feature3Title": "재고 관리",
+      "feature3Description": "고객 수요에 부응하기 위해 진열대를 정리하고 재고를 관리하세요.",
+      "feature4Title": "매장 성장",
+      "feature4Description": "매장을 확장하고 성장하면서 새로운 도전에 나서세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

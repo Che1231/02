@@ -1,0 +1,77 @@
+{
+  "supermarket-simulator-store-manager": {
+    "title": "Supermarkt-Simulator: Filialleiter – Kostenloses Online-Spiel",
+    "slogan": "Bauen Sie Ihr Einzelhandelsimperium auf",
+    "description": "Tauchen Sie ein in Supermarket Simulator: Filialleiter, ein dynamisches Einzelhandelserlebnis, in dem Sie Kassendienst und Filialverwaltung jonglieren. Scannen Sie Artikel, bearbeiten Sie Zahlungen und halten Sie die Kunden zufrieden, während Sie den Lagerbestand verwalten und die Regale organisieren. Wenn die Herausforderungen zunehmen, erweitern Sie Ihren Laden und erfüllen Sie die steigende Nachfrage. Können Sie den Ansturm bewältigen und ein florierendes Supermarktimperium aufbauen? Spielen Sie jetzt Supermarket Simulator: Filialleiter und testen Sie Ihr Können!",
+    "Loading": {
+      "title": "Wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Leitfaden",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Supermarkt-Simulator: Filialleiter",
+      "description": "Erleben Sie den Nervenkitzel der Leitung Ihres eigenen Supermarkts. Scannen Sie Artikel, verwalten Sie den Lagerbestand und halten Sie die Kunden in diesem dynamischen Einzelhandelsspiel zufrieden.",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Supermarkt-Simulator: Filialleiter",
+      "whatIsTitle": "Was ist Supermarket Simulator: Filialleiter?",
+      "whatIsDescription": "Supermarket Simulator: Filialleiter ist ein dynamisches Einzelhandelserlebnis, in dem Sie Kassendienst und Filialverwaltung jonglieren. Scannen Sie Artikel, bearbeiten Sie Zahlungen und halten Sie die Kunden zufrieden, während Sie den Lagerbestand verwalten und die Regale organisieren.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Scannen Sie Artikel und bearbeiten Sie Zahlungen an der Kasse.",
+      "howToPlayStep2": "Verwalten Sie den Lagerbestand und organisieren Sie die Regale, um Ihren Laden reibungslos zu betreiben.",
+      "howToPlayStep3": "Erweitern Sie Ihren Laden und erfüllen Sie die steigende Nachfrage, wenn die Herausforderungen zunehmen.",
+      "keyFeaturesTitle": "Wichtige Merkmale",
+      "feature1Title": "Dynamisches Einzelhandelserlebnis",
+      "feature1Description": "Jonglieren Sie mit Kassendienst und Filialverwaltung in einem schnelllebigen Umfeld.",
+      "feature2Title": "Kundenzufriedenheit",
+      "feature2Description": "Halten Sie die Kunden zufrieden, indem Sie Ihren Laden effizient verwalten.",
+      "feature3Title": "Lagerbestandverwaltung",
+      "feature3Description": "Organisieren Sie Regale und verwalten Sie den Lagerbestand, um die Kundennachfrage zu erfüllen.",
+      "feature4Title": "Ladenwachstum",
+      "feature4Description": "Erweitern Sie Ihren Laden und nehmen Sie neue Herausforderungen an, während Sie wachsen."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}
