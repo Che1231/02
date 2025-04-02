@@ -2,125 +2,125 @@
   "recommended": [
     {
       "visible": true,
-      "url": "/games/rainbow-obby",
+      "url": "/games/slice-master",
       "position": 1
     },
     {
       "visible": true,
-      "url": "/games/right-shot",
+      "url": "/games/screw-master-3d-pin-puzzle",
       "position": 2
     },
     {
       "visible": true,
-      "url": "/games/knock-balls",
+      "url": "/games/ice-cream-stack-runner",
       "position": 3
     },
     {
       "visible": true,
-      "url": "/games/paper-io-2",
+      "url": "/games/unpuzzle-master-tap-away",
       "position": 4
     },
     {
       "visible": true,
-      "url": "/games/level-up-balls",
+      "url": "/games/tiles-hop-edm-rush",
       "position": 5
     },
     {
       "visible": true,
-      "url": "/games/doodle-jump-ninja",
+      "url": "/games/bridge-race",
       "position": 6
     },
     {
       "visible": true,
-      "url": "/games/city-blocks",
+      "url": "/games/count-masters-stickman-games",
       "position": 7
     },
     {
       "visible": true,
-      "url": "/games/tic-tac-toe",
+      "url": "/games/stack-n-sort",
       "position": 8
     },
     {
       "visible": true,
-      "url": "/games/coreball",
+      "url": "/games/stickman-clash",
       "position": 9
     },
     {
       "visible": true,
-      "url": "/games/swingo",
+      "url": "/games/bbq-stack-run",
       "position": 10
     },
     {
       "visible": true,
-      "url": "/games/dino-game",
+      "url": "/games/papa-s-pancakeria",
       "position": 11
     },
     {
       "visible": true,
-      "url": "/games/geometry-dash-nine-circles",
+      "url": "/games/papa-s-freezeria",
       "position": 12
     },
     {
       "visible": true,
-      "url": "/games/lava-bird",
+      "url": "/games/papa-s-cupcakeria",
       "position": 13
     },
     {
       "visible": true,
-      "url": "/games/plactions",
+      "url": "/games/papa-s-taco-mia",
       "position": 14
     },
     {
       "visible": true,
-      "url": "/games/geometry-dash-silent-circles",
+      "url": "/games/papa-s-pastaria",
       "position": 15
     },
     {
       "visible": true,
-      "url": "/games/papa-s-pancakeria",
+      "url": "/games/city-blocks",
       "position": 16
     },
     {
       "visible": true,
-      "url": "/games/papa-s-pastaria",
+      "url": "/games/8-ball-billiards-classic",
       "position": 17
     },
     {
       "visible": true,
-      "url": "/games/papa-s-freezeria",
+      "url": "/games/basketbros",
       "position": 18
     },
     {
       "visible": true,
-      "url": "/games/papa-s-taco-mia",
+      "url": "/games/jump-smash-3d",
       "position": 19
     },
     {
       "visible": true,
-      "url": "/games/papa-s-cupcakeria",
+      "url": "/games/alphabet-run",
       "position": 20
     }
   ],
   "categories": [
     {
-      "name": "গরম",
-      "path": "/c/hot",
-      "pageSize": 15,
-      "backgroundColor": "#ffdde1",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482487626-9yoz3s.png",
-      "description": "এই মাসে সবচেয়ে বেশি খেলা গেমগুলি – মিস করবেন না!",
-      "position": 1
-    },
-    {
-      "name": "সেরা",
+      "name": "শ্রেষ্ঠ",
       "path": "/c/best",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482501773-ytwu4f.png",
-      "position": 2,
-      "description": "হাতে তোলা শীর্ষ-রেটেড গেমগুলি যা নিশ্চিতভাবে আপনাকে বিনোদন করবে!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
+      "position": 1,
+      "description": "হাতে তুলে নেওয়া শীর্ষ-রেটেড গেম, যা নিশ্চিতভাবে আপনাকে মনোরঞ্জন করবে!"
+    },
+    {
+      "name": "হট",
+      "path": "/c/hot",
+      "pageSize": 15,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
+      "description": "এই মাসের সবচেয়ে বেশি খেলা গেম - মিস করবেন না!",
+      "position": 2
     },
     {
       "name": "অ্যাকশন",
@@ -129,18 +129,18 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "তরোয়াল-ছুঁড়া সাহসিকতার সাথে চ্যালেঞ্জের মধ্য দিয়ে কাটুন!",
+      "description": "তলোয়ার-ছুরিকাধারী অভিযান দিয়ে চ্যালেঞ্জ পার হোন!",
       "position": 3
     },
     {
-      "name": "সাহসিকতা",
+      "name": "অ্যাডভেঞ্চার",
       "path": "/c/adventure",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "উত্তেজনাপূর্ণ অভিযানে যান এবং লুকানো ধন ভান্ডার আবিষ্কার করুন!"
+      "description": "উত্তেজনাপূর্ণ অভিযানে অংশগ্রহণ এবং লুকানো ধনরত্ন আবিষ্কার করুন!"
     },
     {
       "name": "শুটিং",
@@ -150,7 +150,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "লক্ষ্য করুন, গুলি করুন এবং কয়েক সেকেন্ডেই যুদ্ধক্ষেত্রে আধিপত্য বিস্তার করুন!"
+      "description": "লক্ষ্য করুন, গুলি ছুঁড়ুন এবং কয়েক সেকেন্ডের মধ্যেই যুদ্ধক্ষেত্রে আধিপত্য বিস্তার করুন!"
     },
     {
       "name": "রেসিং",
@@ -160,27 +160,27 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "রাবার জ্বালিয়ে এবং জয়ের মধ্যে ড্রিফ্ট করুন!"
+      "description": "রাবার পোড়ান এবং জয়ের দিকে ঝাঁপিয়ে পড়ুন!"
     },
     {
-      "name": "হাইপারকেশুয়াল",
+      "name": "হাইপারক্যাজুয়াল",
       "path": "/c/hypercasual",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "আপনার ব্যস্ত সময়সূচির সাথে মিলে যাওয়া এক-ট্যাপের আনন্দ!",
+      "description": "আপনার ব্যস্ত সময়সূচীর জন্য সহজেই এক-ট্যাপের মজা!",
       "position": 7
     },
     {
-      "name": "পাজল",
+      "name": "পাজেল",
       "path": "/c/puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
       "position": 8,
-      "description": "মন-ভ্রমণকারী রহস্য এবং ম্যাজিকের সাথে আপনার মস্তিষ্ককে প্রশিক্ষণ দিন! "
+      "description": "মনের ভিতরের রহস্য এবং মেজ দিয়ে আপনার মস্তিষ্ক প্রশিক্ষণ দেয়ুন!!"
     },
     {
       "name": "সঙ্গীত",
@@ -190,7 +190,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
       "position": 9,
-      "description": "গানের তালে তাল মিলিয়ে তালের মাস্টার बनুন!"
+      "description": "গানের তালে তাল মিলিয়ে rhythm master হোন!"
     },
     {
       "name": "ক্রীড়া",
@@ -200,17 +200,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
       "position": 10,
-      "description": "গোল করুন, স্প্ল্যাম ডাঙ্ক করুন এবং সঙ্গে সঙ্গে রেকর্ড ভাঙুন!"
+      "description": "গোল করুন, ডান্ক করুন এবং অতি দ্রুত রেকর্ড ভাঙুন!"
     },
     {
-      "name": "বহুখেলোয়াড়",
+      "name": "বহু-খেলোয়াড়",
       "path": "/c/multiplayer",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
       "position": 11,
-      "description": "বৈশ্বিকভাবে বন্ধুদের সাথে দল বেঁধে অথবা প্রতিযোগিতা করুন!"
+      "description": "বৈশ্বিকভাবে বন্ধুদের সাথে দলবদ্ধ হন অথবা প্রতিদ্বন্দ্বিতা করুন!"
     },
     {
       "name": "ক্লিকার",
@@ -220,10 +220,10 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483016845-q3l71i.png",
       "position": 12,
-      "description": "সোনা অর্জন করতে এবং আপনার সাম্রাজ্য স্বয়ংক্রিয় করতে ট্যাপ করুন!"
+      "description": "সোনা অর্জনের জন্য ট্যাপ করুন এবং আপনার সাম্রাজ্য স্বয়ংক্রিয় করুন!"
     },
     {
-      "name": "রান্না করা",
+      "name": "রান্নাঘর",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -250,7 +250,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
       "position": 15,
-      "description": ".IO মহাবিশ্বে খান, বড় হোন এবং আধিপত্য বিস্তার করুন!"
+      "description": ".IO বিশ্বে খান, বড় হোন এবং আধিপত্য বিস্তার করুন!"
     },
     {
       "name": "3D",
@@ -260,7 +260,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
       "position": 16,
-      "description": "অসাধারণ গ্রাফিক্স সহ বিমোহক 3D বিশ্বে ডুব দিন!"
+      "description": "অসাধারণ গ্রাফিক্স সহ নিমজ্জিত 3D বিশ্বে ডুব দিন!"
     }
   ]
 }

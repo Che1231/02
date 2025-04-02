@@ -7,7 +7,7 @@
     },
     {
       "visible": true,
-      "url": "/games/screw-puzzle-diy",
+      "url": "/games/screw-master-3d-pin-puzzle",
       "position": 2
     },
     {
@@ -82,45 +82,45 @@
     },
     {
       "visible": true,
-      "url": "/games/right-shot",
+      "url": "/games/8-ball-billiards-classic",
       "position": 17
     },
     {
       "visible": true,
-      "url": "/games/swingo",
+      "url": "/games/basketbros",
       "position": 18
     },
     {
       "visible": true,
-      "url": "/games/8-ball-billiards-classic",
+      "url": "/games/jump-smash-3d",
       "position": 19
     },
     {
       "visible": true,
-      "url": "/games/basketbros",
+      "url": "/games/alphabet-run",
       "position": 20
     }
   ],
   "categories": [
-    {
-      "name": "Hot",
-      "path": "/c/hot",
-      "pageSize": 15,
-      "backgroundColor": "#ffdde1",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482487626-9yoz3s.png",
-      "description": "The most-played games this month – don’t miss out!",
-      "position": 1
-    },
     {
       "name": "Best",
       "path": "/c/best",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482501773-ytwu4f.png",
-      "position": 2,
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
+      "position": 1,
       "description": "Handpicked top-rated games guaranteed to entertain!"
+    },
+    {
+      "name": "Hot",
+      "path": "/c/hot",
+      "pageSize": 15,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
+      "description": "The most-played games this month – don’t miss out!",
+      "position": 2
     },
     {
       "name": "Action",

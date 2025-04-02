@@ -2,125 +2,125 @@
   "recommended": [
     {
       "visible": true,
-      "url": "/games/rainbow-obby",
+      "url": "/games/slice-master",
       "position": 1
     },
     {
       "visible": true,
-      "url": "/games/right-shot",
+      "url": "/games/screw-master-3d-pin-puzzle",
       "position": 2
     },
     {
       "visible": true,
-      "url": "/games/knock-balls",
+      "url": "/games/ice-cream-stack-runner",
       "position": 3
     },
     {
       "visible": true,
-      "url": "/games/paper-io-2",
+      "url": "/games/unpuzzle-master-tap-away",
       "position": 4
     },
     {
       "visible": true,
-      "url": "/games/level-up-balls",
+      "url": "/games/tiles-hop-edm-rush",
       "position": 5
     },
     {
       "visible": true,
-      "url": "/games/doodle-jump-ninja",
+      "url": "/games/bridge-race",
       "position": 6
     },
     {
       "visible": true,
-      "url": "/games/city-blocks",
+      "url": "/games/count-masters-stickman-games",
       "position": 7
     },
     {
       "visible": true,
-      "url": "/games/tic-tac-toe",
+      "url": "/games/stack-n-sort",
       "position": 8
     },
     {
       "visible": true,
-      "url": "/games/coreball",
+      "url": "/games/stickman-clash",
       "position": 9
     },
     {
       "visible": true,
-      "url": "/games/swingo",
+      "url": "/games/bbq-stack-run",
       "position": 10
     },
     {
       "visible": true,
-      "url": "/games/dino-game",
+      "url": "/games/papa-s-pancakeria",
       "position": 11
     },
     {
       "visible": true,
-      "url": "/games/geometry-dash-nine-circles",
+      "url": "/games/papa-s-freezeria",
       "position": 12
     },
     {
       "visible": true,
-      "url": "/games/lava-bird",
+      "url": "/games/papa-s-cupcakeria",
       "position": 13
     },
     {
       "visible": true,
-      "url": "/games/plactions",
+      "url": "/games/papa-s-taco-mia",
       "position": 14
     },
     {
       "visible": true,
-      "url": "/games/geometry-dash-silent-circles",
+      "url": "/games/papa-s-pastaria",
       "position": 15
     },
     {
       "visible": true,
-      "url": "/games/papa-s-pancakeria",
+      "url": "/games/city-blocks",
       "position": 16
     },
     {
       "visible": true,
-      "url": "/games/papa-s-pastaria",
+      "url": "/games/8-ball-billiards-classic",
       "position": 17
     },
     {
       "visible": true,
-      "url": "/games/papa-s-freezeria",
+      "url": "/games/basketbros",
       "position": 18
     },
     {
       "visible": true,
-      "url": "/games/papa-s-taco-mia",
+      "url": "/games/jump-smash-3d",
       "position": 19
     },
     {
       "visible": true,
-      "url": "/games/papa-s-cupcakeria",
+      "url": "/games/alphabet-run",
       "position": 20
     }
   ],
   "categories": [
-    {
-      "name": "ホット",
-      "path": "/c/hot",
-      "pageSize": 15,
-      "backgroundColor": "#ffdde1",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482487626-9yoz3s.png",
-      "description": "今月最もプレイされているゲームです。お見逃しなく！",
-      "position": 1
-    },
     {
       "name": "ベスト",
       "path": "/c/best",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482501773-ytwu4f.png",
-      "position": 2,
-      "description": "厳選された高評価ゲームをお届けします。きっとお楽しみいただけます！"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
+      "position": 1,
+      "description": "厳選された高評価ゲームを保証してエンターテイメントを提供します！"
+    },
+    {
+      "name": "ホット",
+      "path": "/c/hot",
+      "pageSize": 15,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
+      "description": "今月のプレイされたゲームが多くなっています。逃さないでください！",
+      "position": 2
     },
     {
       "name": "アクション",
@@ -129,7 +129,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "剣を振るって挑戦を乗り越えよう！",
+      "description": "剣を振るう冒険でチャレンジを突破しましょう！",
       "position": 3
     },
     {
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "スリリングなクエストに乗り出し、隠された宝物を見つけよう！"
+      "description": "スリリングなクエストに乗り出し、隠された宝物を見つけましょう！"
     },
     {
       "name": "シューティング",
@@ -150,17 +150,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "狙い、発射、そして瞬時に戦場で支配しよう！"
+      "description": "狙いを定め、発射し、戦場で瞬時に支配しましょう！"
     },
     {
-      "name": "レース",
+      "name": "レーシング",
       "path": "/c/racing",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "ゴムを燃やし、勝利につなげよう！"
+      "description": "ゴムを燃やし、勝利へとドリフトしましょう！"
     },
     {
       "name": "ハイパーカジュアル",
@@ -169,7 +169,7 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "忙しいスケジュールにも最適なワンタップで楽しめるゲーム！",
+      "description": "忙しいスケジュールにぴったりのワンタップで楽しめるゲームです！",
       "position": 7
     },
     {
@@ -180,7 +180,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
       "position": 8,
-      "description": "頭脳を鍛えよう。考えさせられるパズルと迷路で遊ぼう！"
+      "description": "思考力を訓練する、頭脳を悩ますパズルと迷路に挑戦しましょう！"
     },
     {
       "name": "音楽",
@@ -190,7 +190,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
       "position": 9,
-      "description": "リズムに合わせ、リズムマスターになろう！"
+      "description": "リズムに合わせてプレイして、リズムマスターになりましょう！"
     },
     {
       "name": "スポーツ",
@@ -200,7 +200,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
       "position": 10,
-      "description": "ゴールを決め、ダンクを決め、瞬時に記録を破ろう！"
+      "description": "すぐにゴールを決め、ダンクシュートを決め、記録を破りましょう！"
     },
     {
       "name": "マルチプレイヤー",
@@ -210,7 +210,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
       "position": 11,
-      "description": "世界中の友達とチームを組んだり、競い合ったりしよう！"
+      "description": "世界中の友達と協力したり、競争しましょう！"
     },
     {
       "name": "クリック",
@@ -220,7 +220,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483016845-q3l71i.png",
       "position": 12,
-      "description": "タップしてゴールドを稼ぎ、帝国を自動化しよう！"
+      "description": "タップしてゴールドを獲得し、あなたの帝国を自動化しましょう！"
     },
     {
       "name": "料理",
@@ -233,14 +233,14 @@
       "description": "60秒で美味しい料理を作りましょう！"
     },
     {
-      "name": "農業",
+      "name": "農場",
       "path": "/c/farming",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
       "position": 14,
-      "description": "作物を収穫し、ワンタップで夢の農場を作りましょう！"
+      "description": "農作物を収穫し、ワンタップで夢の農場を築きましょう！"
     },
     {
       "name": ".IO",
@@ -250,7 +250,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
       "position": 15,
-      "description": ".IOの世界で食べて、育ち、支配しよう！"
+      "description": ".IO宇宙で食べて、成長して支配しましょう！"
     },
     {
       "name": "3D",
@@ -260,7 +260,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
       "position": 16,
-      "description": "素晴らしいグラフィックで没入型の3D世界に飛び込もう！"
+      "description": "素晴らしいグラフィックで没入型の3Dワールドを探検しましょう！"
     }
   ]
 }

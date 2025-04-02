@@ -2,125 +2,125 @@
   "recommended": [
     {
       "visible": true,
-      "url": "/games/rainbow-obby",
+      "url": "/games/slice-master",
       "position": 1
     },
     {
       "visible": true,
-      "url": "/games/right-shot",
+      "url": "/games/screw-master-3d-pin-puzzle",
       "position": 2
     },
     {
       "visible": true,
-      "url": "/games/knock-balls",
+      "url": "/games/ice-cream-stack-runner",
       "position": 3
     },
     {
       "visible": true,
-      "url": "/games/paper-io-2",
+      "url": "/games/unpuzzle-master-tap-away",
       "position": 4
     },
     {
       "visible": true,
-      "url": "/games/level-up-balls",
+      "url": "/games/tiles-hop-edm-rush",
       "position": 5
     },
     {
       "visible": true,
-      "url": "/games/doodle-jump-ninja",
+      "url": "/games/bridge-race",
       "position": 6
     },
     {
       "visible": true,
-      "url": "/games/city-blocks",
+      "url": "/games/count-masters-stickman-games",
       "position": 7
     },
     {
       "visible": true,
-      "url": "/games/tic-tac-toe",
+      "url": "/games/stack-n-sort",
       "position": 8
     },
     {
       "visible": true,
-      "url": "/games/coreball",
+      "url": "/games/stickman-clash",
       "position": 9
     },
     {
       "visible": true,
-      "url": "/games/swingo",
+      "url": "/games/bbq-stack-run",
       "position": 10
     },
     {
       "visible": true,
-      "url": "/games/dino-game",
+      "url": "/games/papa-s-pancakeria",
       "position": 11
     },
     {
       "visible": true,
-      "url": "/games/geometry-dash-nine-circles",
+      "url": "/games/papa-s-freezeria",
       "position": 12
     },
     {
       "visible": true,
-      "url": "/games/lava-bird",
+      "url": "/games/papa-s-cupcakeria",
       "position": 13
     },
     {
       "visible": true,
-      "url": "/games/plactions",
+      "url": "/games/papa-s-taco-mia",
       "position": 14
     },
     {
       "visible": true,
-      "url": "/games/geometry-dash-silent-circles",
+      "url": "/games/papa-s-pastaria",
       "position": 15
     },
     {
       "visible": true,
-      "url": "/games/papa-s-pancakeria",
+      "url": "/games/city-blocks",
       "position": 16
     },
     {
       "visible": true,
-      "url": "/games/papa-s-pastaria",
+      "url": "/games/8-ball-billiards-classic",
       "position": 17
     },
     {
       "visible": true,
-      "url": "/games/papa-s-freezeria",
+      "url": "/games/basketbros",
       "position": 18
     },
     {
       "visible": true,
-      "url": "/games/papa-s-taco-mia",
+      "url": "/games/jump-smash-3d",
       "position": 19
     },
     {
       "visible": true,
-      "url": "/games/papa-s-cupcakeria",
+      "url": "/games/alphabet-run",
       "position": 20
     }
   ],
   "categories": [
-    {
-      "name": "Гарячі",
-      "path": "/c/hot",
-      "pageSize": 15,
-      "backgroundColor": "#ffdde1",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482487626-9yoz3s.png",
-      "description": "Найбільш популярні ігри цього місяця – не пропустіть!",
-      "position": 1
-    },
     {
       "name": "Найкращі",
       "path": "/c/best",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482501773-ytwu4f.png",
-      "position": 2,
-      "description": "Відібрані найкращі ігри, які гарантовано розважать!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
+      "position": 1,
+      "description": "Підібрані найкращі ігри, які гарантовано розважать!"
+    },
+    {
+      "name": "Гарячі",
+      "path": "/c/hot",
+      "pageSize": 15,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
+      "description": "Найбільш популярні ігри цього місяця – не пропустіть!",
+      "position": 2
     },
     {
       "name": "Дії",
@@ -129,7 +129,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Пробивайтеся крізь виклики з пригодами з розмахування мечем!",
+      "description": "Пробивайтеся крізь виклики з пригодами з екскалібуром!",
       "position": 3
     },
     {
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "Вступите в захоплюючі пошуки та відкрийте заховані скарби!"
+      "description": "Відправтеся в захоплюючі подорожі та відкрийте схованки скарбів!"
     },
     {
       "name": "Стрілянина",
@@ -150,7 +150,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "Націльтеся, стріляйте та домінуйте на полі бою за лічені секунди!"
+      "description": "Прицілюйтеся, стріляйте та домінуйте на полі бою за лічені секунди!"
     },
     {
       "name": "Гонки",
@@ -160,16 +160,16 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "Спалюйте гуму та дрифтуйте до перемоги!"
+      "description": "Спалюйте покришки та дрейфуйте до перемоги!"
     },
     {
-      "name": "Гіперкажуальні",
+      "name": "Гіперказуальні",
       "path": "/c/hypercasual",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Захоплюючий розвага одним натисканням, яка підходить до вашого насиченого розкладу!",
+      "description": "Захоплення одним дотиком, що підходить для вашого насиченого розкладу!",
       "position": 7
     },
     {
@@ -180,7 +180,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
       "position": 8,
-      "description": "Навчайте свій мозок за допомогою заплутаних загадок та лабіринту!"
+      "description": "Навчайте свій мозок за допомогою головоломок та лабіринтів!"
     },
     {
       "name": "Музика",
@@ -190,7 +190,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
       "position": 9,
-      "description": "Танцюйте під ритм і стати майстром ритму!"
+      "description": "Вдихайте ритм та ставайте майстром ритму!"
     },
     {
       "name": "Спорт",
@@ -200,20 +200,20 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
       "position": 10,
-      "description": "Забивайте голи, зрозуміти, і встановити рекорди миттєво!"
+      "description": "Забивайте голи, влаштовуйте данки та бийте рекорди миттєво!"
     },
     {
-      "name": "Багатокористувацькі",
+      "name": "Багатокористувацький",
       "path": "/c/multiplayer",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
       "position": 11,
-      "description": "Об'єднайтеся або змагайтеся зі своїми друзями по всьому світу!"
+      "description": "Спільно працюйте або змагайтеся зі світом!"
     },
     {
-      "name": "Натискання",
+      "name": "Клікер",
       "path": "/c/clicker",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -240,7 +240,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
       "position": 14,
-      "description": "Збирайте врожай та побудуйте свою ферму мрії одним натисканням!"
+      "description": "Збирайте врожаї та будуйте свою мрію ферму за один клік! "
     },
     {
       "name": ".IO",
@@ -250,7 +250,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
       "position": 15,
-      "description": "Їжте, ростіть і домінуйте всесвітом .IO!"
+      "description": "Їжте, ростіть та домінуйте всесвітом .IO!"
     },
     {
       "name": "3D",
@@ -260,7 +260,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
       "position": 16,
-      "description": "Зануртеся в захоплюючі 3D світи з вражаючими графіками!"
+      "description": "Занурюйтесь у захоплюючі 3D світи з приголомшливою графікою!"
     }
   ]
 }

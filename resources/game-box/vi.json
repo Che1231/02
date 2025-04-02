@@ -2,125 +2,125 @@
   "recommended": [
     {
       "visible": true,
-      "url": "/games/rainbow-obby",
+      "url": "/games/slice-master",
       "position": 1
     },
     {
       "visible": true,
-      "url": "/games/right-shot",
+      "url": "/games/screw-master-3d-pin-puzzle",
       "position": 2
     },
     {
       "visible": true,
-      "url": "/games/knock-balls",
+      "url": "/games/ice-cream-stack-runner",
       "position": 3
     },
     {
       "visible": true,
-      "url": "/games/paper-io-2",
+      "url": "/games/unpuzzle-master-tap-away",
       "position": 4
     },
     {
       "visible": true,
-      "url": "/games/level-up-balls",
+      "url": "/games/tiles-hop-edm-rush",
       "position": 5
     },
     {
       "visible": true,
-      "url": "/games/doodle-jump-ninja",
+      "url": "/games/bridge-race",
       "position": 6
     },
     {
       "visible": true,
-      "url": "/games/city-blocks",
+      "url": "/games/count-masters-stickman-games",
       "position": 7
     },
     {
       "visible": true,
-      "url": "/games/tic-tac-toe",
+      "url": "/games/stack-n-sort",
       "position": 8
     },
     {
       "visible": true,
-      "url": "/games/coreball",
+      "url": "/games/stickman-clash",
       "position": 9
     },
     {
       "visible": true,
-      "url": "/games/swingo",
+      "url": "/games/bbq-stack-run",
       "position": 10
     },
     {
       "visible": true,
-      "url": "/games/dino-game",
+      "url": "/games/papa-s-pancakeria",
       "position": 11
     },
     {
       "visible": true,
-      "url": "/games/geometry-dash-nine-circles",
+      "url": "/games/papa-s-freezeria",
       "position": 12
     },
     {
       "visible": true,
-      "url": "/games/lava-bird",
+      "url": "/games/papa-s-cupcakeria",
       "position": 13
     },
     {
       "visible": true,
-      "url": "/games/plactions",
+      "url": "/games/papa-s-taco-mia",
       "position": 14
     },
     {
       "visible": true,
-      "url": "/games/geometry-dash-silent-circles",
+      "url": "/games/papa-s-pastaria",
       "position": 15
     },
     {
       "visible": true,
-      "url": "/games/papa-s-pancakeria",
+      "url": "/games/city-blocks",
       "position": 16
     },
     {
       "visible": true,
-      "url": "/games/papa-s-pastaria",
+      "url": "/games/8-ball-billiards-classic",
       "position": 17
     },
     {
       "visible": true,
-      "url": "/games/papa-s-freezeria",
+      "url": "/games/basketbros",
       "position": 18
     },
     {
       "visible": true,
-      "url": "/games/papa-s-taco-mia",
+      "url": "/games/jump-smash-3d",
       "position": 19
     },
     {
       "visible": true,
-      "url": "/games/papa-s-cupcakeria",
+      "url": "/games/alphabet-run",
       "position": 20
     }
   ],
   "categories": [
-    {
-      "name": "Nóng",
-      "path": "/c/hot",
-      "pageSize": 15,
-      "backgroundColor": "#ffdde1",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482487626-9yoz3s.png",
-      "description": "Các trò chơi được chơi nhiều nhất tháng này – đừng bỏ lỡ!",
-      "position": 1
-    },
     {
       "name": "Tốt nhất",
       "path": "/c/best",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482501773-ytwu4f.png",
-      "position": 2,
-      "description": "Các trò chơi hàng đầu được chọn lọc đảm bảo giải trí!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
+      "position": 1,
+      "description": "Các trò chơi được đánh giá cao nhất, được lựa chọn, đảm bảo giải trí!"
+    },
+    {
+      "name": "Nóng",
+      "path": "/c/hot",
+      "pageSize": 15,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
+      "description": "Các trò chơi được chơi nhiều nhất trong tháng này – đừng bỏ lỡ!",
+      "position": 2
     },
     {
       "name": "Hành động",
@@ -129,7 +129,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Bắn xuyên qua các thử thách với những cuộc phiêu lưu chặt chém kiếm!",
+      "description": "Vượt qua các thử thách với những cuộc phiêu lưu vung kiếm!",
       "position": 3
     },
     {
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "Khởi hành vào những cuộc thám hiểm hồi hộp và khám phá những kho báu bị giấu kín!"
+      "description": "Khởi hành vào những cuộc hành trình hồi hộp và khám phá những kho báu bị giấu kín!"
     },
     {
       "name": "Bắn súng",
@@ -150,17 +150,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "Chĩa, bắn và thống trị chiến trường trong vài giây!"
+      "description": "Nhắm bắn, bắn và thống trị chiến trường trong tích tắc!"
     },
     {
-      "name": "Chạy đua",
+      "name": "Đua xe",
       "path": "/c/racing",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "Đốt lốp và lượn vào chiến thắng!"
+      "description": "Đốt lốp và drift để chiến thắng!"
     },
     {
       "name": "Hypercasual",
@@ -169,18 +169,18 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Giải trí một chạm phù hợp với lịch trình bận rộn của bạn!",
+      "description": "Sự vui nhộn chỉ bằng một cú chạm để phù hợp với lịch trình bận rộn của bạn!",
       "position": 7
     },
     {
-      "name": "Đố",
+      "name": "Đoán hình",
       "path": "/c/puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
       "position": 8,
-      "description": "Đào tạo bộ não của bạn với những câu đố và mê cung khó hiểu!"
+      "description": "Rèn luyện bộ não của bạn với những câu đố và mê cung khó hiểu!"
     },
     {
       "name": "Âm nhạc",
@@ -190,7 +190,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
       "position": 9,
-      "description": "Bắt nhịp điệu và trở thành bậc thầy nhịp điệu!"
+      "description": "Theo nhịp điệu và trở thành bậc thầy về nhịp điệu!"
     },
     {
       "name": "Thể thao",
@@ -223,14 +223,14 @@
       "description": "Nhấn để kiếm vàng và tự động hóa đế chế của bạn!"
     },
     {
-      "name": "Bếp",
+      "name": "Nấu ăn",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484130517-98a2qo.png",
       "position": 13,
-      "description": "Nấu những món ăn ngon trong 60 giây!"
+      "description": "Nấu những món ăn ngon trong vòng 60 giây!"
     },
     {
       "name": "Trồng trọt",
@@ -240,7 +240,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
       "position": 14,
-      "description": "Thu hoạch mùa màng và xây dựng trang trại mơ ước của bạn chỉ bằng một cú chạm!"
+      "description": "Thu hoạch cây trồng và xây dựng trang trại mơ ước của bạn bằng một cú chạm!"
     },
     {
       "name": ".IO",
@@ -250,7 +250,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
       "position": 15,
-      "description": "Ăn, phát triển và thống trị vũ trụ .IO!"
+      "description": "Ăn, lớn lên và thống trị vũ trụ .IO!"
     },
     {
       "name": "3D",
@@ -260,7 +260,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
       "position": 16,
-      "description": "Lặn vào các thế giới 3D sống động với đồ họa tuyệt đẹp!"
+      "description": "Đắm chìm trong thế giới 3D sống động với đồ họa tuyệt đẹp!"
     }
   ]
 }

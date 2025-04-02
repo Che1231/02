@@ -2,125 +2,125 @@
   "recommended": [
     {
       "visible": true,
-      "url": "/games/rainbow-obby",
+      "url": "/games/slice-master",
       "position": 1
     },
     {
       "visible": true,
-      "url": "/games/right-shot",
+      "url": "/games/screw-master-3d-pin-puzzle",
       "position": 2
     },
     {
       "visible": true,
-      "url": "/games/knock-balls",
+      "url": "/games/ice-cream-stack-runner",
       "position": 3
     },
     {
       "visible": true,
-      "url": "/games/paper-io-2",
+      "url": "/games/unpuzzle-master-tap-away",
       "position": 4
     },
     {
       "visible": true,
-      "url": "/games/level-up-balls",
+      "url": "/games/tiles-hop-edm-rush",
       "position": 5
     },
     {
       "visible": true,
-      "url": "/games/doodle-jump-ninja",
+      "url": "/games/bridge-race",
       "position": 6
     },
     {
       "visible": true,
-      "url": "/games/city-blocks",
+      "url": "/games/count-masters-stickman-games",
       "position": 7
     },
     {
       "visible": true,
-      "url": "/games/tic-tac-toe",
+      "url": "/games/stack-n-sort",
       "position": 8
     },
     {
       "visible": true,
-      "url": "/games/coreball",
+      "url": "/games/stickman-clash",
       "position": 9
     },
     {
       "visible": true,
-      "url": "/games/swingo",
+      "url": "/games/bbq-stack-run",
       "position": 10
     },
     {
       "visible": true,
-      "url": "/games/dino-game",
+      "url": "/games/papa-s-pancakeria",
       "position": 11
     },
     {
       "visible": true,
-      "url": "/games/geometry-dash-nine-circles",
+      "url": "/games/papa-s-freezeria",
       "position": 12
     },
     {
       "visible": true,
-      "url": "/games/lava-bird",
+      "url": "/games/papa-s-cupcakeria",
       "position": 13
     },
     {
       "visible": true,
-      "url": "/games/plactions",
+      "url": "/games/papa-s-taco-mia",
       "position": 14
     },
     {
       "visible": true,
-      "url": "/games/geometry-dash-silent-circles",
+      "url": "/games/papa-s-pastaria",
       "position": 15
     },
     {
       "visible": true,
-      "url": "/games/papa-s-pancakeria",
+      "url": "/games/city-blocks",
       "position": 16
     },
     {
       "visible": true,
-      "url": "/games/papa-s-pastaria",
+      "url": "/games/8-ball-billiards-classic",
       "position": 17
     },
     {
       "visible": true,
-      "url": "/games/papa-s-freezeria",
+      "url": "/games/basketbros",
       "position": 18
     },
     {
       "visible": true,
-      "url": "/games/papa-s-taco-mia",
+      "url": "/games/jump-smash-3d",
       "position": 19
     },
     {
       "visible": true,
-      "url": "/games/papa-s-cupcakeria",
+      "url": "/games/alphabet-run",
       "position": 20
     }
   ],
   "categories": [
-    {
-      "name": "Актуальные",
-      "path": "/c/hot",
-      "pageSize": 15,
-      "backgroundColor": "#ffdde1",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482487626-9yoz3s.png",
-      "description": "Самые популярные игры этого месяца – не упустите!",
-      "position": 1
-    },
     {
       "name": "Лучшие",
       "path": "/c/best",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482501773-ytwu4f.png",
-      "position": 2,
-      "description": "Лучшие игры, отобранные вручную, гарантированно развлекут!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
+      "position": 1,
+      "description": "Лучшие игры, отобранные вручную, гарантированно доставят вам удовольствие!"
+    },
+    {
+      "name": "Горячие",
+      "path": "/c/hot",
+      "pageSize": 15,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
+      "description": "Самые популярные игры этого месяца — не упустите!",
+      "position": 2
     },
     {
       "name": "Экшен",
@@ -129,7 +129,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Прокладывайте путь к победе с приключениями, полными мечей!",
+      "description": "Проходите испытания со взмахами меча в приключениях!",
       "position": 3
     },
     {
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "Отправляйтесь в захватывающие квесты и откройте для себя скрытые сокровища!"
+      "description": "Отправляйтесь в захватывающие квесты и откройте сокровенные сокровища!"
     },
     {
       "name": "Стрельба",
@@ -150,7 +150,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "Прицельвайтесь, стреляйте и доминируйте на поле боя за считанные секунды!"
+      "description": "Прицельвайтесь, стреляйте и доминируйте на поле боя!"
     },
     {
       "name": "Гонки",
@@ -160,16 +160,16 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "Сожгите резину и устройте дрифт к победе!"
+      "description": "Жгите резину и дрифтуйте к победе!"
     },
     {
-      "name": "Гиперкежуальные",
+      "name": "Симулятор",
       "path": "/c/hypercasual",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Развлечения одним касанием, подходящие для вашего загруженного графика!",
+      "description": "Одно касание - одно удовольствие, идеально для вашего графика!",
       "position": 7
     },
     {
@@ -190,7 +190,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
       "position": 9,
-      "description": "Танцуйте под ритм и станьте мастером ритма!"
+      "description": "Танцуйте в такт и станьте мастером ритма!"
     },
     {
       "name": "Спорт",
@@ -200,7 +200,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
       "position": 10,
-      "description": "Забивайте голы, выполняйте броски и устанавливайте рекорды мгновенно!"
+      "description": "Забивайте голы, шлейте данки и устанавливайте рекорды мгновенно!"
     },
     {
       "name": "Многопользовательские",
@@ -210,7 +210,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
       "position": 11,
-      "description": "Соединяйтесь или соревнуйтесь с друзьями по всему миру!"
+      "description": "Создавайте команды или соревнуйтесь с друзьями по всему миру!"
     },
     {
       "name": "Кликер",
@@ -230,7 +230,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484130517-98a2qo.png",
       "position": 13,
-      "description": "Приготовьте вкусную еду за 60 секунд!"
+      "description": "Готовьте вкусные блюда всего за 60 секунд!"
     },
     {
       "name": "Фермерство",
@@ -243,14 +243,14 @@
       "description": "Соберите урожай и постройте свою ферму мечты одним нажатием!"
     },
     {
-      "name": ".IO",
+      "name": "IO",
       "path": "/c/io",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
       "position": 15,
-      "description": "Ешьте, растите и доминируйте в .IO вселенной!"
+      "description": "Ешьте, растите и доминируйте в вселенной IO!"
     },
     {
       "name": "3D",
@@ -260,7 +260,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
       "position": 16,
-      "description": "Погрузитесь в захватывающие 3D миры с потрясающей графикой!"
+      "description": "Погрузитесь в захватывающие 3D-миры с потрясающей графикой!"
     }
   ]
 }

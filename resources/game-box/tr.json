@@ -2,125 +2,125 @@
   "recommended": [
     {
       "visible": true,
-      "url": "/games/rainbow-obby",
+      "url": "/games/slice-master",
       "position": 1
     },
     {
       "visible": true,
-      "url": "/games/right-shot",
+      "url": "/games/screw-master-3d-pin-puzzle",
       "position": 2
     },
     {
       "visible": true,
-      "url": "/games/knock-balls",
+      "url": "/games/ice-cream-stack-runner",
       "position": 3
     },
     {
       "visible": true,
-      "url": "/games/paper-io-2",
+      "url": "/games/unpuzzle-master-tap-away",
       "position": 4
     },
     {
       "visible": true,
-      "url": "/games/level-up-balls",
+      "url": "/games/tiles-hop-edm-rush",
       "position": 5
     },
     {
       "visible": true,
-      "url": "/games/doodle-jump-ninja",
+      "url": "/games/bridge-race",
       "position": 6
     },
     {
       "visible": true,
-      "url": "/games/city-blocks",
+      "url": "/games/count-masters-stickman-games",
       "position": 7
     },
     {
       "visible": true,
-      "url": "/games/tic-tac-toe",
+      "url": "/games/stack-n-sort",
       "position": 8
     },
     {
       "visible": true,
-      "url": "/games/coreball",
+      "url": "/games/stickman-clash",
       "position": 9
     },
     {
       "visible": true,
-      "url": "/games/swingo",
+      "url": "/games/bbq-stack-run",
       "position": 10
     },
     {
       "visible": true,
-      "url": "/games/dino-game",
+      "url": "/games/papa-s-pancakeria",
       "position": 11
     },
     {
       "visible": true,
-      "url": "/games/geometry-dash-nine-circles",
+      "url": "/games/papa-s-freezeria",
       "position": 12
     },
     {
       "visible": true,
-      "url": "/games/lava-bird",
+      "url": "/games/papa-s-cupcakeria",
       "position": 13
     },
     {
       "visible": true,
-      "url": "/games/plactions",
+      "url": "/games/papa-s-taco-mia",
       "position": 14
     },
     {
       "visible": true,
-      "url": "/games/geometry-dash-silent-circles",
+      "url": "/games/papa-s-pastaria",
       "position": 15
     },
     {
       "visible": true,
-      "url": "/games/papa-s-pancakeria",
+      "url": "/games/city-blocks",
       "position": 16
     },
     {
       "visible": true,
-      "url": "/games/papa-s-pastaria",
+      "url": "/games/8-ball-billiards-classic",
       "position": 17
     },
     {
       "visible": true,
-      "url": "/games/papa-s-freezeria",
+      "url": "/games/basketbros",
       "position": 18
     },
     {
       "visible": true,
-      "url": "/games/papa-s-taco-mia",
+      "url": "/games/jump-smash-3d",
       "position": 19
     },
     {
       "visible": true,
-      "url": "/games/papa-s-cupcakeria",
+      "url": "/games/alphabet-run",
       "position": 20
     }
   ],
   "categories": [
-    {
-      "name": "Popüler",
-      "path": "/c/hot",
-      "pageSize": 15,
-      "backgroundColor": "#ffdde1",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482487626-9yoz3s.png",
-      "description": "Bu ay en çok oynanan oyunlar – kaçırmayın!",
-      "position": 1
-    },
     {
       "name": "En İyi",
       "path": "/c/best",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482501773-ytwu4f.png",
-      "position": 2,
-      "description": "Oyuncular tarafından en çok beğenilen üst düzey oyunlar, kesinlikle eğlenmenizi sağlayacak!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
+      "position": 1,
+      "description": "Eğlence garantisi veren, özenle seçilmiş en yüksek puanlı oyunlar!"
+    },
+    {
+      "name": "Sıcak",
+      "path": "/c/hot",
+      "pageSize": 15,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
+      "description": "Bu ay en çok oynanan oyunlar – kaçırmayın!",
+      "position": 2
     },
     {
       "name": "Eylem",
@@ -129,7 +129,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Kılıç savurma maceralarıyla zorlukları aşın!",
+      "description": "Kılıç sallamalarla dolu maceralarla zorlukları aşın!",
       "position": 3
     },
     {
@@ -140,17 +140,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "Heyecan verici maceralara atılın ve gizli hazineleri keşfedin!"
+      "description": "Heyecan verici maceralara atılın ve gizlenmiş hazineleri keşfedin!"
     },
     {
-      "name": "Atış",
+      "name": "Avcılık",
       "path": "/c/shooting",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "Hedef alın, ateş edin ve savaş alanını saniyeler içinde ele geçirin!"
+      "description": "Hedef alın, ateş edin ve savaş alanında saniyeler içinde hakimiyet kurun!"
     },
     {
       "name": "Yarış",
@@ -160,7 +160,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "Kauçuk yakıp zafer yoluna sürüklenin!"
+      "description": "Lastikleri yakıp zafer için drifte girin!"
     },
     {
       "name": "Hiper Casual",
@@ -169,7 +169,7 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Meşgul programınıza uyan tek dokunuşla eğlence!",
+      "description": "Yoğun programınıza uyan tek dokunuşla eğlence!",
       "position": 7
     },
     {
@@ -180,7 +180,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
       "position": 8,
-      "description": "Zihin bulandırıcı bilmeceler ve labirentlerle beyninizi eğitin!"
+      "description": "Zihninizi bulmacalar ve labirentlerle eğitin!"
     },
     {
       "name": "Müzik",
@@ -190,7 +190,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
       "position": 9,
-      "description": "Ritme uygun hareket edin ve ritim ustası olun!"
+      "description": "Ritim ustası olmak için ritimle uyum sağlayın!"
     },
     {
       "name": "Spor",
@@ -200,7 +200,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
       "position": 10,
-      "description": "Hedefleri vurun, şutları yapın ve rekorları anında kırın!"
+      "description": "Gol atın, şutlar yapın ve rekorları hemen kırın!"
     },
     {
       "name": "Çok Oyunculu",
@@ -210,20 +210,20 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
       "position": 11,
-      "description": "Dünya çapında arkadaşlarınızla takım olun veya yarışın!"
+      "description": "Arkadaşlarınızla küresel olarak takım olun veya yarışın!"
     },
     {
-      "name": "Tıklama",
+      "name": "Tıklatmalı",
       "path": "/c/clicker",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483016845-q3l71i.png",
       "position": 12,
-      "description": "Altın kazanmak ve imparatorluğunuzu otomatikleştirmek için dokunun!"
+      "description": "Altın kazanmak ve imparatorluğunuzu otomatikleştirmek için tıklayın!"
     },
     {
-      "name": "Yemek Yapma",
+      "name": "Yemek Yapımı",
       "path": "/c/cooking",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -240,7 +240,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
       "position": 14,
-      "description": "Hasat yapın ve tek dokunuşla hayallerinizdeki çiftliği kurun! "
+      "description": "Hasat yapın ve tek bir dokunuşla rüya çiftliğinizi kurun! "
     },
     {
       "name": ".IO",
@@ -250,7 +250,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
       "position": 15,
-      "description": ".IO evrenini yiyin, büyüyün ve hakimiyet edin! "
+      "description": ".IO evreninde yiyin, büyüyün ve hakimiyet kurun! "
     },
     {
       "name": "3B",
