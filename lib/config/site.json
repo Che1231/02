@@ -17,7 +17,12 @@
   "bgType": "iframe",
   "bgImage": "",
   "bgVideo": "",
-  "friendLinks": [],
+  "friendLinks": [
+    {
+      "title": "yooqugame",
+      "url": "http://www.yooqugame.com"
+    }
+  ],
   "gameDownload": {
     "showDownloadButton": true,
     "downloadUrls": {
