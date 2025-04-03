@@ -1,9 +1,9 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "FreeGames - Mainkan Game Online Gratis Kapan Pun, Di Mana Pun",
+  "slogan": "Jelajahi Dunia Game Gratis di Ujung Jari Anda",
+  "description": "FreeGames menawarkan koleksi besar game online gratis di berbagai genre termasuk Aksi, Petualangan, Tembak-menembak, Balap, dan banyak lagi. Baik Anda menyukai pengalaman multipemain yang menegangkan atau game puzzle yang menenangkan, FreeGames pasti ada sesuatu untuk semua orang. Nikmati gameplay yang lancar tanpa perlu download, dan ikuti kesenangan tanpa akhir hari ini!",
   "Loading": {
-    "title": ""
+    "title": "Memuat..."
   },
   "Navbar": {
     "title": "Navigasi"
@@ -12,48 +12,48 @@
     "createAt": "Dibuat Pada",
     "guide": "Panduan",
     "privacyPolicy": "Kebijakan Privasi",
-    "termsOfServices": "Syarat Layanan",
+    "termsOfServices": "Ketentuan Layanan",
     "text": "Konten",
     "help": "Bantuan",
     "friendlyLinks": "Tautan Ramah",
     "articleList": "Daftar Artikel",
     "home": "Beranda",
-    "next": "Selanjutnya",
+    "next": "Berikutnya",
     "previous": "Sebelumnya"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
-    "iframeTitle": "Prabaca Permainan",
+    "title": "FreeGames - Mainkan Game Online Gratis",
+    "description": "Temukan berbagai game online gratis di FreeGames. Dari petualangan penuh aksi hingga puzzle yang menenangkan, ada sesuatu untuk semua orang. Mulailah bermain sekarang dan nikmati kesenangan tanpa akhir!",
+    "iframeTitle": "Pratinjau Game",
     "fullscreenButton": "Layar Penuh",
     "shareButton": "Bagikan",
-    "urlCopied": "URL telah disalin ke papan klip!",
-    "downloadGame": "Unduh Permainan",
-    "playGame": "Mainkan Permainan"
+    "urlCopied": "URL disalin ke clipboard!",
+    "downloadGame": "Unduh Game",
+    "playGame": "Mainkan Game"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
+    "gameTitle": "FreeGames - Gerbang Anda Menuju Keseruan Online Gratis",
+    "whatIsTitle": "Apa itu FreeGames?",
+    "whatIsDescription": "FreeGames adalah platform di mana Anda dapat memainkan berbagai game online gratis tanpa perlu download. Nikmati game dari berbagai genre seperti Aksi, Petualangan, Puzzle, dan banyak lagi.",
     "howToPlayTitle": "Cara Bermain",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
+    "howToPlayStep1": "Pilih game favorit Anda dari koleksi.",
+    "howToPlayStep2": "Klik game untuk mulai bermain langsung.",
+    "howToPlayStep3": "Nikmati gameplay yang lancar tanpa perlu download.",
     "keyFeaturesTitle": "Fitur Utama",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "feature1Title": "Berbagai Macam Game",
+    "feature1Description": "Jelajahi game dari berbagai genre termasuk Aksi, Petualangan, Puzzle, dan banyak lagi.",
+    "feature2Title": "Tidak Perlu Download",
+    "feature2Description": "Mainkan game langsung di browser Anda tanpa perlu download.",
+    "feature3Title": "Gratis Dimainkan",
+    "feature3Description": "Semua game sepenuhnya gratis untuk dimainkan, kapan saja, di mana saja.",
+    "feature4Title": "Antarmuka Ramah Pengguna",
+    "feature4Description": "Nikmati pengalaman bermain game yang lancar dan intuitif."
   },
   "HomeFAQs": {
     "title": "FAQ"
   },
   "HomeRelatedVideo": {
-    "title": "Video Permainan"
+    "title": "Video Game"
   },
   "HomeRecommendation": {
     "title": "Rekomendasi"
@@ -62,13 +62,13 @@
     "title": "Komentar Permainan"
   },
   "GamePage": {
-    "title": "Semua Permainan",
-    "description": "Semua Permainan",
-    "games": "Permainan"
+    "title": "Semua Game",
+    "description": "Semua Game",
+    "games": "Game"
   },
   "CategoryPage": {
     "categories": "Kategori",
-    "noCategories": "Tidak ada kategori ditemukan",
+    "noCategories": "Tidak ada kategori yang ditemukan",
     "viewMore": "Lihat Lebih Banyak",
     "page": "Halaman"
   }

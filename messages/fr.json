@@ -1,29 +1,29 @@
 {
- "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "FreeGames - Jouez à des jeux en ligne gratuits à tout moment, n'importe où",
+  "slogan": "Explorez un monde de jeux gratuits à portée de main",
+  "description": "FreeGames propose une vaste collection de jeux en ligne gratuits dans divers genres, notamment Action, Aventure, Tir, Course et plus encore. Que vous aimiez les expériences multijoueurs palpitantes ou les jeux de puzzle relaxants, FreeGames a quelque chose pour tout le monde. Profitez d'un gameplay fluide sans téléchargement et plongez-vous dans un plaisir sans fin dès aujourd'hui !",
   "Loading": {
-    "title": ""
+    "title": "Chargement…"
   },
   "Navbar": {
-    "title": "Nav"
+    "title": "Navigation"
   },
   "Common": {
     "createAt": "Créé le",
     "guide": "Guide",
     "privacyPolicy": "Politique de confidentialité",
-    "termsOfServices": "Conditions de service",
+    "termsOfServices": "Conditions d'utilisation",
     "text": "Contenu",
     "help": "Aide",
-    "friendlyLinks": "Liens utiles",
+    "friendlyLinks": "Liens Amis",
     "articleList": "Liste des articles",
     "home": "Accueil",
     "next": "Suivant",
     "previous": "Précédent"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
+    "title": "FreeGames - Jouez à des jeux en ligne gratuits",
+    "description": "Découvrez un large éventail de jeux en ligne gratuits sur FreeGames. Des aventures pleines d'action aux puzzles relaxants, il y en a pour tous les goûts. Commencez à jouer dès maintenant et profitez d'un plaisir sans fin !",
     "iframeTitle": "Aperçu du jeu",
     "fullscreenButton": "Plein écran",
     "shareButton": "Partager",
@@ -32,34 +32,39 @@
     "playGame": "Jouer au jeu"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
+    "gameTitle": "FreeGames - Votre porte d'entrée vers le plaisir en ligne gratuit",
+    "whatIsTitle": "Qu'est-ce que FreeGames ?",
+    "whatIsDescription": "FreeGames est une plateforme où vous pouvez jouer à divers jeux en ligne gratuits sans aucun téléchargement. Profitez de jeux de genres tels que Action, Aventure, Puzzle et plus encore.",
     "howToPlayTitle": "Comment jouer",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
-    "keyFeaturesTitle": "Caractéristiques clés",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "howToPlayStep1": "Choisissez votre jeu préféré parmi la collection.",
+    "howToPlayStep2": "Cliquez sur le jeu pour commencer à jouer instantanément.",
+    "howToPlayStep3": "Profitez d'un gameplay fluide sans aucun téléchargement.",
+    "keyFeaturesTitle": "Caractéristiques principales",
+    "feature1Title": "Grand choix de jeux",
+    "feature1Description": "Explorez des jeux de plusieurs genres, notamment Action, Aventure, Puzzle et plus encore.",
+    "feature2Title": "Aucun téléchargement requis",
+    "feature2Description": "Jouez directement dans votre navigateur sans aucun téléchargement.",
+    "feature3Title": "Gratuit à jouer",
+    "feature3Description": "Tous les jeux sont entièrement gratuits à jouer, n'importe quand, n'importe où.",
+    "feature4Title": "Interface conviviale",
+    "feature4Description": "Profitez d'une expérience de jeu fluide et intuitive."
   },
   "HomeFAQs": {
-    "title": "FAQs"
+    "title": "FAQ"
   },
   "HomeRelatedVideo": {
-    "title": "Vidéo de jeu"
+    "title": "Vidéo du jeu"
   },
   "HomeRecommendation": {
     "title": "Recommandations"
   },
   "HomeComments": {
-    "title": "Commentaires sur le jeu"
+    "title": "Commentaires sur les jeux"
+  },
+  "GamePage": {
+    "title": "Tous les jeux",
+    "description": "Tous les jeux",
+    "games": "Jeux"
   },
   "CategoryPage": {
     "categories": "Catégories",

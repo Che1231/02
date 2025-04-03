@@ -1,75 +1,75 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "মুক্ত খেলা - যেকোনো সময়, যেকোনো জায়গায় মুক্ত অনলাইন গেম খেলুন",
+  "slogan": "আপনার আঙুলের ডগায় মুক্ত গেমের একটি বিশ্ব অন্বেষণ করুন",
+  "description": "FreeGames বিভিন্ন জেনারে মুক্ত অনলাইন গেমের একটি বিশাল সংগ্রহ অফার করে, যার মধ্যে রয়েছে অ্যাকশন, অ্যাডভেঞ্চার, শুটিং, রেসিং এবং আরও অনেক। আপনি যদি উত্তেজনাপূর্ণ মাল্টিপ্লেয়ার অভিজ্ঞতা বা শান্তিপূর্ণ পাজল গেমের আগ্রহী হন, তাহলে FreeGames এর জন্য সবার জন্য কিছু আছে। ডাউনলোড ছাড়াই মসলাপূর্ণ গেমিং উপভোগ করুন এবং আজই অফুরন্ত মজায় মজে পড়ুন!",
   "Loading": {
-    "title": ""
+    "title": "লোডিং..."
   },
   "Navbar": {
     "title": "নেভিগেশন"
   },
   "Common": {
-    "createAt": "তৈরি তারিখ",
-    "guide": "গাইড",
+    "createAt": "তৈরি করা হয়েছে",
+    "guide": "নির্দেশিকা",
     "privacyPolicy": "গোপনীয়তা নীতি",
-    "termsOfServices": "সেবার শর্তাবলী",
-    "text": "বিষয়বস্তু",
+    "termsOfServices": "সেবা শর্তাবলী",
+    "text": "সামগ্রী",
     "help": "সাহায্য",
     "friendlyLinks": "বন্ধুত্বপূর্ণ লিঙ্ক",
-    "articleList": "নিবন্ধ তালিকা",
+    "articleList": "লেখা তালিকা",
     "home": "হোম",
     "next": "পরবর্তী",
-    "previous": "পূর্ববর্তী"
+    "previous": "আগের"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
-    "iframeTitle": "গেম প্রিভিউ",
-    "fullscreenButton": "পূর্ণ স্ক্রীন",
-    "shareButton": "শেয়ার করুন",
-    "urlCopied": "URL ক্লিপবোর্ডে কপি করা হয়েছে!",
+    "title": "FreeGames - মুক্ত অনলাইন গেম খেলুন",
+    "description": "FreeGames এ বিভিন্ন ধরণের মুক্ত অনলাইন গেম খুঁজে পান। অ্যাকশন-ভর্তি অ্যাডভেঞ্চার থেকে শান্তিপূর্ণ পাজল পর্যন্ত, সবার জন্যই কিছু আছে। এখনই খেলা শুরু করুন এবং অফুরন্ত মজায় মজে পড়ুন!",
+    "iframeTitle": "গেম পূর্বরূপ",
+    "fullscreenButton": "পূর্ণ পর্দা",
+    "shareButton": "শেয়ার",
+    "urlCopied": "ইউআরএল ক্লিপবোর্ডে কপি করা হয়েছে!",
     "downloadGame": "গেম ডাউনলোড করুন",
     "playGame": "গেম খেলুন"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
+    "gameTitle": "FreeGames - আপনার মুক্ত অনলাইন মজার দ্বার",
+    "whatIsTitle": "FreeGames কি?",
+    "whatIsDescription": "FreeGames এমন একটি প্ল্যাটফর্ম যেখানে আপনি কোনও ডাউনলোড ছাড়াই বিভিন্ন ধরণের মুক্ত অনলাইন গেম খেলতে পারবেন। অ্যাকশন, অ্যাডভেঞ্চার, পাজল এবং আরও অনেক জেনারের গেম উপভোগ করুন।",
     "howToPlayTitle": "কিভাবে খেলবেন",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
+    "howToPlayStep1": "সংগ্রহ থেকে আপনার পছন্দের গেম নির্বাচন করুন।",
+    "howToPlayStep2": "গেমটিতে ক্লিক করুন এবং তাৎক্ষণিকভাবে খেলা শুরু করুন।",
+    "howToPlayStep3": "কোন ডাউনলোড ছাড়াই মসলাপূর্ণ গেমিং উপভোগ করুন।",
     "keyFeaturesTitle": "মূল বৈশিষ্ট্য",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "feature1Title": "বিস্তৃত গেমের প্রকারভেদ",
+    "feature1Description": "অ্যাকশন, অ্যাডভেঞ্চার, পাজল এবং আরও অনেক জেনারের গেম অন্বেষণ করুন।",
+    "feature2Title": "কোন ডাউনলোডের প্রয়োজন নেই",
+    "feature2Description": "কোন ডাউনলোড ছাড়াই সরাসরি আপনার ব্রাউজার থেকে গেম খেলুন।",
+    "feature3Title": "মুক্তভাবে খেলুন",
+    "feature3Description": "সর্বসহ গেম সম্পূর্ণ বিনামূল্যে, যেকোনো সময়, যেকোনো জায়গায়।",
+    "feature4Title": "ব্যবহারকারী-বান্ধব ইন্টারফেস",
+    "feature4Description": "সুসম্পন্ন এবং সহজ গেমিং অভিজ্ঞতা উপভোগ করুন।"
   },
   "HomeFAQs": {
-    "title": "প্রশ্নাবলী"
+    "title": "প্রায়শ জিজ্ঞাসিত প্রশ্ন"
   },
   "HomeRelatedVideo": {
     "title": "গেম ভিডিও"
   },
   "HomeRecommendation": {
-    "title": "সুপারিশ"
+    "title": "সুপারিশকৃত"
   },
   "HomeComments": {
     "title": "খেলার মন্তব্য"
   },
   "GamePage": {
-    "title": "সমস্ত গেম",
-    "description": "সমস্ত গেম",
-    "games": "গেম"
+    "title": "সকল গেম",
+    "description": "সকল গেম",
+    "games": "গেমস"
   },
   "CategoryPage": {
-    "categories": "শ্রেণী",
-    "noCategories": "কোনো শ্রেণী পাওয়া যায়নি",
+    "categories": "বিভাগ",
+    "noCategories": "কোন বিভাগ পাওয়া যায়নি",
     "viewMore": "আরও দেখুন",
-    "page": "পাতা"
+    "page": "পৃষ্ঠা"
   }
 }

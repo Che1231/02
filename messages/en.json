@@ -1,11 +1,11 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "FreeGames - Play Free Online Games Anytime, Anywhere",
+  "slogan": "Explore a World of Free Games at Your Fingertips",
+  "description": "FreeGames offers a vast collection of free online games across various genres including Action, Adventure, Shooting, Racing, and more. Whether you're into thrilling multiplayer experiences or relaxing puzzle games, FreeGames has something for everyone. Enjoy seamless gameplay without downloads, and dive into endless fun today!",
   "Loading": {
-    "title": ""
+    "title": "Loading..."
   },
-  "Navbar":{
+  "Navbar": {
     "title": "Nav"
   },
   "Common": {
@@ -18,12 +18,12 @@
     "friendlyLinks": "Friendly Links",
     "articleList": "Article List",
     "home": "Home",
-    "next":"Next",
-    "previous":"Previous"
+    "next": "Next",
+    "previous": "Previous"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
+    "title": "FreeGames - Play Free Online Games",
+    "description": "Discover a wide range of free online games on FreeGames. From action-packed adventures to relaxing puzzles, there's something for everyone. Start playing now and enjoy endless fun!",
     "iframeTitle": "Game Preview",
     "fullscreenButton": "Fullscreen",
     "shareButton": "Share",
@@ -32,22 +32,22 @@
     "playGame": "Play Game"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
+    "gameTitle": "FreeGames - Your Gateway to Free Online Fun",
+    "whatIsTitle": "What is FreeGames?",
+    "whatIsDescription": "FreeGames is a platform where you can play a variety of free online games without any downloads. Enjoy games from genres like Action, Adventure, Puzzle, and more.",
     "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
+    "howToPlayStep1": "Choose your favorite game from the collection.",
+    "howToPlayStep2": "Click on the game to start playing instantly.",
+    "howToPlayStep3": "Enjoy seamless gameplay without any downloads.",
     "keyFeaturesTitle": "Key Features",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "feature1Title": "Wide Variety of Games",
+    "feature1Description": "Explore games from multiple genres including Action, Adventure, Puzzle, and more.",
+    "feature2Title": "No Downloads Required",
+    "feature2Description": "Play games directly in your browser without any downloads.",
+    "feature3Title": "Free to Play",
+    "feature3Description": "All games are completely free to play, anytime, anywhere.",
+    "feature4Title": "User-Friendly Interface",
+    "feature4Description": "Enjoy a seamless and intuitive gaming experience."
   },
   "HomeFAQs": {
     "title": "FAQs"
@@ -64,7 +64,7 @@
   "GamePage": {
     "title": "All Games",
     "description": "All Games",
-    "games":"Games"
+    "games": "Games"
   },
   "CategoryPage": {
     "categories": "Categories",

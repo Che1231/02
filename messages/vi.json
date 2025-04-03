@@ -1,12 +1,12 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "FreeGames - Chơi game trực tuyến miễn phí mọi lúc, mọi nơi",
+  "slogan": "Khám phá thế giới game miễn phí chỉ bằng một cú nhấp chuột",
+  "description": "FreeGames cung cấp một bộ sưu tập khổng lồ các trò chơi trực tuyến miễn phí trong nhiều thể loại khác nhau, bao gồm hành động, phiêu lưu, bắn súng, đua xe và nhiều thể loại khác. Cho dù bạn thích những trải nghiệm nhiều người chơi hồi hộp hay trò chơi giải đố thư giãn, FreeGames đều có điều gì đó dành cho bạn. Tận hưởng trải nghiệm chơi game liền mạch mà không cần tải xuống và đắm mình trong niềm vui không giới hạn ngay hôm nay!",
   "Loading": {
-    "title": ""
+    "title": "Đang tải..."
   },
   "Navbar": {
-    "title": "Nav"
+    "title": "Đường dẫn"
   },
   "Common": {
     "createAt": "Tạo lúc",
@@ -22,53 +22,53 @@
     "previous": "Trước đó"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
-    "iframeTitle": "Game Preview",
-    "fullscreenButton": "Fullscreen",
-    "shareButton": "Share",
-    "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game",
-    "playGame": "Ch i game"
+    "title": "FreeGames - Chơi game trực tuyến miễn phí",
+    "description": "Khám phá nhiều thể loại game trực tuyến miễn phí trên FreeGames. Từ những cuộc phiêu lưu hành động sôi động đến những trò chơi giải đố thư giãn, có thứ gì đó cho tất cả mọi người. Bắt đầu chơi ngay bây giờ và tận hưởng niềm vui không giới hạn!",
+    "iframeTitle": "Xem trước game",
+    "fullscreenButton": "Toàn màn hình",
+    "shareButton": "Chia sẻ",
+    "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+    "downloadGame": "Tải game",
+    "playGame": "Chơi game"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
-    "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "gameTitle": "FreeGames - Cổng vào niềm vui chơi game trực tuyến miễn phí",
+    "whatIsTitle": "FreeGames là gì?",
+    "whatIsDescription": "FreeGames là một nền tảng cho phép bạn chơi nhiều loại game trực tuyến miễn phí mà không cần tải xuống. Tận hưởng các trò chơi từ các thể loại như hành động, phiêu lưu, giải đố và nhiều thể loại khác.",
+    "howToPlayTitle": "Cách chơi",
+    "howToPlayStep1": "Chọn trò chơi yêu thích của bạn từ bộ sưu tập.",
+    "howToPlayStep2": "Nhấp vào trò chơi để bắt đầu chơi ngay lập tức.",
+    "howToPlayStep3": "Tận hưởng trải nghiệm chơi game liền mạch mà không cần tải xuống.",
+    "keyFeaturesTitle": "Các tính năng chính",
+    "feature1Title": "Đa dạng trò chơi",
+    "feature1Description": "Khám phá các trò chơi thuộc nhiều thể loại khác nhau, bao gồm hành động, phiêu lưu, giải đố và nhiều thể loại khác.",
+    "feature2Title": "Không cần tải xuống",
+    "feature2Description": "Chơi game trực tiếp trên trình duyệt của bạn mà không cần tải xuống.",
+    "feature3Title": "Miễn phí chơi",
+    "feature3Description": "Tất cả các trò chơi đều hoàn toàn miễn phí để chơi, bất cứ lúc nào, bất cứ nơi đâu.",
+    "feature4Title": "Giao diện thân thiện với người dùng",
+    "feature4Description": "Tận hưởng trải nghiệm chơi game liền mạch và trực quan."
   },
   "HomeFAQs": {
-    "title": "FAQs"
+    "title": "Câu hỏi thường gặp"
   },
   "HomeRelatedVideo": {
-    "title": "Game Video"
+    "title": "Video game"
   },
   "HomeRecommendation": {
-    "title": "Recommends"
+    "title": "Khuyến nghị"
   },
   "HomeComments": {
-    "title": "Play Comments"
+    "title": "Ý kiến bình luận"
   },
   "GamePage": {
-    "title": "All Games",
-    "description": "All Games",
-    "games": "Games"
+    "title": "Tất cả các trò chơi",
+    "description": "Tất cả các trò chơi",
+    "games": "Trò chơi"
   },
   "CategoryPage": {
-    "categories": "Danh mục",
-    "noCategories": "Không tìm thấy danh mục nào",
+    "categories": "Các thể loại",
+    "noCategories": "Không tìm thấy thể loại nào",
     "viewMore": "Xem thêm",
     "page": "Trang"
   }

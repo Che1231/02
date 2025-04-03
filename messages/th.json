@@ -1,69 +1,69 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "FreeGames - เล่นเกมออนไลน์ฟรีได้ทุกที่ทุกเวลา",
+  "slogan": "สำรวจโลกแห่งเกมฟรีที่ปลายนิ้วของคุณ",
+  "description": "FreeGames มีเกมออนไลน์ฟรีหลากหลายประเภท รวมถึง แอ็คชั่น ผจญภัย ยิง ปรับแต่ง และอีกมากมาย ไม่ว่าคุณจะชื่นชอบประสบการณ์ผู้เล่นหลายคน หรือเกมปริศนาที่ผ่อนคลาย FreeGames มีบางสิ่งบางอย่างสำหรับทุกคน เพลิดเพลินไปกับการเล่นเกมที่ราบรื่นโดยไม่ต้องดาวน์โหลด และเริ่มต้นความสนุกสนานไม่รู้จบวันนี้!",
   "Loading": {
-    "title": ""
+    "title": "กำลังโหลด..."
   },
   "Navbar": {
-    "title": "Nav"
+    "title": "นำทาง"
   },
   "Common": {
-    "createAt": "สร้างเมื่อ",
+    "createAt": "สร้างที่",
     "guide": "คู่มือ",
     "privacyPolicy": "นโยบายความเป็นส่วนตัว",
     "termsOfServices": "ข้อกำหนดการให้บริการ",
     "text": "เนื้อหา",
-    "help": "ช่วยเหลือ",
-    "friendlyLinks": "ลิงก์ที่เป็นมิตร",
+    "help": "ความช่วยเหลือ",
+    "friendlyLinks": "ลิงก์เพื่อน",
     "articleList": "รายการบทความ",
-    "home": "หน้าหลัก",
+    "home": "หน้าแรก",
     "next": "ถัดไป",
     "previous": "ก่อนหน้า"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
-    "iframeTitle": "Game Preview",
-    "fullscreenButton": "Fullscreen",
-    "shareButton": "Share",
-    "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game",
+    "title": "FreeGames - เล่นเกมออนไลน์ฟรี",
+    "description": "ค้นพบเกมออนไลน์ฟรีหลากหลายประเภทบน FreeGames ตั้งแต่การผจญภัยที่เต็มไปด้วยแอ็คชั่นไปจนถึงปริศนาที่ผ่อนคลาย มีบางอย่างสำหรับทุกคน เริ่มเล่นตอนนี้และเพลิดเพลินไปกับความสนุกสนานไม่รู้จบ!",
+    "iframeTitle": "ตัวอย่างเกม",
+    "fullscreenButton": "เต็มหน้าจอ",
+    "shareButton": "แชร์",
+    "urlCopied": "คัดลอก URL ไปยังคลิปบอร์ดแล้ว!",
+    "downloadGame": "ดาวน์โหลดเกม",
     "playGame": "เล่นเกม"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
-    "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "gameTitle": "FreeGames - ประตูสู่นันทนาการเกมออนไลน์ฟรีของคุณ",
+    "whatIsTitle": "FreeGames คืออะไร?",
+    "whatIsDescription": "FreeGames เป็นแพลตฟอร์มที่คุณสามารถเล่นเกมออนไลน์ฟรีหลากหลายประเภทได้โดยไม่ต้องดาวน์โหลด เพลิดเพลินไปกับเกมจากประเภทต่างๆ เช่น แอ็คชั่น ผจญภัย ปริศนา และอื่นๆ",
+    "howToPlayTitle": "วิธีการเล่น",
+    "howToPlayStep1": "เลือกเกมที่คุณชื่นชอบจากคอลเลกชัน",
+    "howToPlayStep2": "คลิกที่เกมเพื่อเริ่มเล่นทันที",
+    "howToPlayStep3": "เพลิดเพลินไปกับการเล่นเกมที่ราบรื่นโดยไม่ต้องดาวน์โหลด",
+    "keyFeaturesTitle": "คุณสมบัติหลัก",
+    "feature1Title": "เกมหลากหลาย",
+    "feature1Description": "สำรวจเกมจากหลายประเภท รวมถึง แอ็คชั่น ผจญภัย ปริศนา และอื่นๆ",
+    "feature2Title": "ไม่จำเป็นต้องดาวน์โหลด",
+    "feature2Description": "เล่นเกมโดยตรงในเบราว์เซอร์ของคุณโดยไม่ต้องดาวน์โหลด",
+    "feature3Title": "เล่นฟรี",
+    "feature3Description": "เกมทั้งหมดเล่นฟรีได้ทุกที่ทุกเวลา",
+    "feature4Title": "อินเทอร์เฟซที่ใช้งานง่าย",
+    "feature4Description": "เพลิดเพลินไปกับประสบการณ์การเล่นเกมที่ราบรื่นและใช้งานง่าย"
   },
   "HomeFAQs": {
-    "title": "FAQs"
+    "title": "คำถามที่พบบ่อย"
   },
   "HomeRelatedVideo": {
-    "title": "Game Video"
+    "title": "วิดีโอเกม"
   },
   "HomeRecommendation": {
-    "title": "Recommends"
+    "title": "แนะนำ"
   },
   "HomeComments": {
-    "title": "Play Comments"
+    "title": "ความคิดเห็นการเล่นเกม"
   },
   "GamePage": {
-    "title": "ทุกเกม",
-    "description": "ทุกเกม",
+    "title": "เกมทั้งหมด",
+    "description": "เกมทั้งหมด",
     "games": "เกม"
   },
   "CategoryPage": {

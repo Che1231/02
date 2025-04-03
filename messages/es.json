@@ -1,65 +1,70 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "FreeGames - Juega a juegos online gratis en cualquier momento y lugar",
+  "slogan": "Explora un mundo de juegos gratuitos al alcance de tu mano",
+  "description": "FreeGames ofrece una amplia colección de juegos online gratuitos en varios géneros, incluyendo Acción, Aventura, Disparos, Carreras y más. Ya sea que te gusten las emocionantes experiencias multijugador o los relajantes juegos de rompecabezas, FreeGames tiene algo para todos. ¡Disfruta de una jugabilidad perfecta sin descargas y sumérgete en la diversión sin fin hoy mismo!",
   "Loading": {
-    "title": ""
+    "title": "Cargando..."
   },
   "Navbar": {
     "title": "Navegación"
   },
   "Common": {
-    "createAt": "Creado En",
+    "createAt": "Crear En",
     "guide": "Guía",
     "privacyPolicy": "Política de Privacidad",
     "termsOfServices": "Términos de Servicio",
     "text": "Contenido",
     "help": "Ayuda",
-    "friendlyLinks": "Enlaces Amigables",
+    "friendlyLinks": "Enlaces Amistosos",
     "articleList": "Lista de Artículos",
     "home": "Inicio",
     "next": "Siguiente",
     "previous": "Anterior"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
-    "iframeTitle": "Vista Previa del Juego",
-    "fullscreenButton": "Pantalla Completa",
+    "title": "FreeGames - Juega a juegos online gratuitos",
+    "description": "Descubre una amplia gama de juegos online gratuitos en FreeGames. Desde emocionantes aventuras de acción hasta relajantes rompecabezas, hay algo para todos. ¡Empieza a jugar ahora y disfruta de la diversión sin fin!",
+    "iframeTitle": "Vista previa del juego",
+    "fullscreenButton": "Pantalla completa",
     "shareButton": "Compartir",
     "urlCopied": "¡URL copiada al portapapeles!",
-    "downloadGame": "Descargar Juego",
+    "downloadGame": "Descargar juego",
     "playGame": "Jugar"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
-    "howToPlayTitle": "Cómo Jugar",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
-    "keyFeaturesTitle": "Características Clave",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "gameTitle": "FreeGames - Tu puerta de entrada a la diversión online gratuita",
+    "whatIsTitle": "¿Qué es FreeGames?",
+    "whatIsDescription": "FreeGames es una plataforma donde puedes jugar a una variedad de juegos online gratuitos sin necesidad de descargas. Disfruta de juegos de géneros como Acción, Aventura, Rompecabezas y más.",
+    "howToPlayTitle": "Cómo jugar",
+    "howToPlayStep1": "Elige tu juego favorito de la colección.",
+    "howToPlayStep2": "Haz clic en el juego para empezar a jugar al instante.",
+    "howToPlayStep3": "Disfruta de una jugabilidad perfecta sin necesidad de descargas.",
+    "keyFeaturesTitle": "Características clave",
+    "feature1Title": "Amplia variedad de juegos",
+    "feature1Description": "Explora juegos de múltiples géneros, incluyendo Acción, Aventura, Rompecabezas y más.",
+    "feature2Title": "No se requieren descargas",
+    "feature2Description": "Juega a los juegos directamente en tu navegador sin ninguna descarga.",
+    "feature3Title": "Gratis para jugar",
+    "feature3Description": "Todos los juegos son completamente gratuitos para jugar, en cualquier momento y lugar.",
+    "feature4Title": "Interfaz fácil de usar",
+    "feature4Description": "Disfruta de una experiencia de juego perfecta e intuitiva."
   },
   "HomeFAQs": {
-    "title": "Preguntas Frecuentes"
+    "title": "¿Preguntas frecuentes?"
   },
   "HomeRelatedVideo": {
-    "title": "Video del Juego"
+    "title": "Video del juego"
   },
   "HomeRecommendation": {
     "title": "Recomendaciones"
   },
   "HomeComments": {
-    "title": "Comentarios del Juego"
+    "title": "Comentarios de juego"
+  },
+  "GamePage": {
+    "title": "Todos los juegos",
+    "description": "Todos los juegos",
+    "games": "Juegos"
   },
   "CategoryPage": {
     "categories": "Categorías",

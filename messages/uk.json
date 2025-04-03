@@ -1,74 +1,74 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "Безкоштовні ігри — грайте в безкоштовні онлайн-ігри будь-коли, будь-де",
+  "slogan": "Досліджуйте світ безкоштовних ігор на кінчиках ваших пальців",
+  "description": "FreeGames пропонує величезну колекцію безкоштовних онлайн-ігор різних жанрів, включаючи дії, пригоди, стрілянини, гонки та багато іншого. Незалежно від того, чи вам подобаються захоплюючі багатокористувацькі ігри, чи розслаблюючі головоломки, FreeGames знайде щось для кожного. Насолоджуйтесь безперебійною грою без завантажень та занурюйтесь у безкінечну насолоду сьогодні!",
   "Loading": {
-    "title": ""
+    "title": "Завантаження…"
   },
   "Navbar": {
-    "title": "Nav"
+    "title": "Навігація"
   },
   "Common": {
     "createAt": "Створено",
     "guide": "Посібник",
     "privacyPolicy": "Політика конфіденційності",
     "termsOfServices": "Умови надання послуг",
-    "text": "Зміст",
+    "text": "Контент",
     "help": "Допомога",
-    "friendlyLinks": "Дружні посилання",
+    "friendlyLinks": "Довідкові посилання",
     "articleList": "Список статей",
     "home": "Головна",
-    "next": "Далі",
-    "previous": "Назад"
+    "next": "Наступна",
+    "previous": "Попередня"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
-    "iframeTitle": "Game Preview",
-    "fullscreenButton": "Fullscreen",
-    "shareButton": "Share",
-    "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game",
-    "playGame": "Грати у гру"
+    "title": "FreeGames — грайте в безкоштовні онлайн-ігри",
+    "description": "Відкрийте для себе широкий вибір безкоштовних онлайн-ігор на FreeGames. Від наповнених діями пригод до розслаблюючих головоломок, є щось для кожного. Почніть грати зараз і насолоджуйтесь безкінечною забавою!",
+    "iframeTitle": "Попередній перегляд гри",
+    "fullscreenButton": "Повноекранний режим",
+    "shareButton": "Поділитися",
+    "urlCopied": "Посилання скопійовано в буфер обміну!",
+    "downloadGame": "Завантажити гру",
+    "playGame": "Грати"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
-    "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "gameTitle": "FreeGames — ваші двері до безкоштовної онлайн-забави",
+    "whatIsTitle": "Що таке FreeGames?",
+    "whatIsDescription": "FreeGames — це платформа, де ви можете грати в різноманітні безкоштовні онлайн-ігри без завантажень. Насолоджуйтесь іграми різних жанрів, таких як дії, пригоди, головоломки та багато іншого.",
+    "howToPlayTitle": "Як грати",
+    "howToPlayStep1": "Оберіть свою улюблену гру з колекції.",
+    "howToPlayStep2": "Натисніть на гру, щоб почати грати миттєво.",
+    "howToPlayStep3": "Насолоджуйтесь безперебійною грою без завантажень.",
+    "keyFeaturesTitle": "Ключові особливості",
+    "feature1Title": "Широкий вибір ігор",
+    "feature1Description": "Досліджуйте ігри з різних жанрів, включаючи дії, пригоди, головоломки та багато іншого.",
+    "feature2Title": "Не потрібні завантаження",
+    "feature2Description": "Грайте в ігри безпосередньо у своєму браузері без завантажень.",
+    "feature3Title": "Безкоштовно для гри",
+    "feature3Description": "Усі ігри повністю безкоштовні для гри, будь-коли, будь-де.",
+    "feature4Title": "Інтуїтивно зрозумілий інтерфейс",
+    "feature4Description": "Насолоджуйтесь безперебійним і інтуїтивно зрозумілим ігровим досвідом."
   },
   "HomeFAQs": {
-    "title": "FAQs"
+    "title": "Часті запитання"
   },
   "HomeRelatedVideo": {
-    "title": "Game Video"
+    "title": "Відеоігри"
   },
   "HomeRecommendation": {
-    "title": "Recommends"
+    "title": "Рекомендації"
   },
   "HomeComments": {
-    "title": "Play Comments"
+    "title": "Коментарі до ігор"
   },
   "GamePage": {
-    "title": "All Games",
-    "description": "All Games",
-    "games": "Games"
+    "title": "Усі ігри",
+    "description": "Усі ігри",
+    "games": "Ігри"
   },
   "CategoryPage": {
     "categories": "Категорії",
-    "noCategories": "Категорії не знайдено",
+    "noCategories": "Категорії не знайдені",
     "viewMore": "Переглянути більше",
     "page": "Сторінка"
   }

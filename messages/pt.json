@@ -1,29 +1,29 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "Jogos Grátis - Jogue Jogos Online Grátis a Qualquer Hora e Em Qualquer Lugar",
+  "slogan": "Explore um Mundo de Jogos Grátis ao Alcance de Suas Mãos",
+  "description": "FreeGames oferece uma vasta coleção de jogos online grátis em vários gêneros, incluindo Ação, Aventura, Tiro, Corrida e muito mais. Se você gosta de experiências multijogador emocionantes ou jogos de quebra-cabeça relaxantes, o FreeGames tem algo para todos. Aproveite jogabilidade perfeita sem downloads e mergulhe em diversão sem fim hoje!",
   "Loading": {
-    "title": ""
+    "title": "Carregando..."
   },
   "Navbar": {
     "title": "Navegação"
   },
   "Common": {
-    "createAt": "Erstellt am",
-    "guide": "Anleitung",
-    "privacyPolicy": "Datenschutzrichtlinie",
-    "termsOfServices": "Nutzungsbedingungen",
-    "text": "Inhalt",
-    "help": "Hilfe",
-    "friendlyLinks": "Freundliche Links",
-    "articleList": "Artikelübersicht",
-    "home": "Início",
+    "createAt": "Criado em",
+    "guide": "Guia",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfServices": "Termos de Serviço",
+    "text": "Conteúdo",
+    "help": "Ajuda",
+    "friendlyLinks": "Links Amigáveis",
+    "articleList": "Lista de Artigos",
+    "home": "Página Inicial",
     "next": "Próximo",
     "previous": "Anterior"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
+    "title": "FreeGames - Jogue Jogos Online Grátis",
+    "description": "Descubra uma ampla gama de jogos online grátis no FreeGames. De aventuras cheias de ação a quebra-cabeças relaxantes, há algo para todos. Comece a jogar agora e aproveite a diversão sem fim!",
     "iframeTitle": "Pré-visualização do Jogo",
     "fullscreenButton": "Tela Cheia",
     "shareButton": "Compartilhar",
@@ -32,25 +32,25 @@
     "playGame": "Jogar"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
+    "gameTitle": "FreeGames - Seu Portal para Diversão Online Grátis",
+    "whatIsTitle": "O que é o FreeGames?",
+    "whatIsDescription": "FreeGames é uma plataforma onde você pode jogar uma variedade de jogos online grátis sem nenhum download. Aproveite jogos de gêneros como Ação, Aventura, Quebra-cabeça e muito mais.",
     "howToPlayTitle": "Como Jogar",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
-    "keyFeaturesTitle": "Principais Recursos",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "howToPlayStep1": "Escolha o seu jogo favorito da coleção.",
+    "howToPlayStep2": "Clique no jogo para começar a jogar instantaneamente.",
+    "howToPlayStep3": "Aproveite a jogabilidade perfeita sem nenhum download.",
+    "keyFeaturesTitle": "Principais Características",
+    "feature1Title": "Grande variedade de Jogos",
+    "feature1Description": "Explore jogos de múltiplos gêneros, incluindo Ação, Aventura, Quebra-cabeça e muito mais.",
+    "feature2Title": "Sem Downloads Necessários",
+    "feature2Description": "Jogue jogos diretamente no seu navegador sem nenhum download.",
+    "feature3Title": "Grátis para Jogar",
+    "feature3Description": "Todos os jogos são completamente grátis para jogar, a qualquer hora e em qualquer lugar.",
+    "feature4Title": "Interface amigável",
+    "feature4Description": "Aproveite uma experiência de jogo perfeita e intuitiva."
   },
   "HomeFAQs": {
-    "title": "Perguntas Frequentes"
+    "title": "FAQ"
   },
   "HomeRelatedVideo": {
     "title": "Vídeo do Jogo"
@@ -59,7 +59,7 @@
     "title": "Recomendações"
   },
   "HomeComments": {
-    "title": "Comentários sobre o Jogo"
+    "title": "Comentários do Jogo"
   },
   "GamePage": {
     "title": "Todos os Jogos",

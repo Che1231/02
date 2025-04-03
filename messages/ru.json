@@ -1,15 +1,15 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "Бесплатные игры - играйте в бесплатные онлайн-игры в любое время и в любом месте",
+  "slogan": "Исследуйте мир бесплатных игр на кончиках пальцев",
+  "description": "FreeGames предлагает обширную коллекцию бесплатных онлайн-игр в различных жанрах, включая экшен, приключения, шутеры, гонки и многое другое. Независимо от того, предпочитаете ли вы захватывающие многопользовательские игры или увлекательные головоломки, FreeGames найдет что-то для каждого. Наслаждайтесь бесшовной игрой без необходимости загрузки и окунитесь в бесконечное веселье прямо сейчас!",
   "Loading": {
-    "title": ""
+    "title": "Загрузка..."
   },
   "Navbar": {
-    "title": "Nav"
+    "title": "Навигация"
   },
   "Common": {
-    "createAt": "Дата создания",
+    "createAt": "Создано",
     "guide": "Руководство",
     "privacyPolicy": "Политика конфиденциальности",
     "termsOfServices": "Условия использования",
@@ -18,48 +18,48 @@
     "friendlyLinks": "Полезные ссылки",
     "articleList": "Список статей",
     "home": "Главная",
-    "next": "Следующий",
-    "previous": "Предыдущий"
+    "next": "Следующая",
+    "previous": "Предыдущая"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
-    "iframeTitle": "Game Preview",
-    "fullscreenButton": "Fullscreen",
-    "shareButton": "Share",
-    "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game",
-    "playGame": "Играть в игру"
+    "title": "Бесплатные игры - играйте в бесплатные онлайн-игры",
+    "description": "Откройте для себя широкий спектр бесплатных онлайн-игр на FreeGames. От полных действия приключений до расслабляющих головоломок – здесь найдется что-то для всех. Начните играть прямо сейчас и наслаждайтесь бесконечным весельем!",
+    "iframeTitle": "Предварительный просмотр игры",
+    "fullscreenButton": "Полноэкранный режим",
+    "shareButton": "Поделиться",
+    "urlCopied": "Ссылка скопирована в буфер обмена!",
+    "downloadGame": "Скачать игру",
+    "playGame": "Играть"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
-    "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "gameTitle": "FreeGames – ваш ключ к бесплатным онлайн-играм",
+    "whatIsTitle": "Что такое FreeGames?",
+    "whatIsDescription": "FreeGames – это платформа, где вы можете играть в различные бесплатные онлайн-игры без необходимости загрузки. Наслаждайтесь играми в жанрах экшен, приключения, головоломки и многими другими.",
+    "howToPlayTitle": "Как играть",
+    "howToPlayStep1": "Выберите свою любимую игру из коллекции.",
+    "howToPlayStep2": "Нажмите на игру, чтобы начать играть мгновенно.",
+    "howToPlayStep3": "Наслаждайтесь бесшовной игрой без необходимости загрузки.",
+    "keyFeaturesTitle": "Ключевые особенности",
+    "feature1Title": "Широкий выбор игр",
+    "feature1Description": "Исследуйте игры в различных жанрах, включая экшен, приключения, головоломки и многое другое.",
+    "feature2Title": "Нет необходимости загружать игры",
+    "feature2Description": "Играйте в игры прямо в вашем браузере без необходимости загрузки.",
+    "feature3Title": "Бесплатно",
+    "feature3Description": "Все игры полностью бесплатны для игры в любое время и в любом месте.",
+    "feature4Title": "Интуитивно понятный интерфейс",
+    "feature4Description": "Наслаждайтесь плавным и интуитивно понятным игровым опытом."
   },
   "HomeFAQs": {
-    "title": "FAQs"
+    "title": "Часто задаваемые вопросы"
   },
   "HomeRelatedVideo": {
-    "title": "Game Video"
+    "title": "Видеоигры"
   },
   "HomeRecommendation": {
-    "title": "Recommends"
+    "title": "Рекомендации"
   },
   "HomeComments": {
-    "title": "Play Comments"
+    "title": "Комментарии к игре"
   },
   "GamePage": {
     "title": "Все игры",
@@ -69,7 +69,7 @@
   "CategoryPage": {
     "categories": "Категории",
     "noCategories": "Категории не найдены",
-    "viewMore": "Посмотреть больше",
+    "viewMore": "Показать ещё",
     "page": "Страница"
   }
 }

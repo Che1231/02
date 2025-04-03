@@ -1,18 +1,18 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "Ücretsiz Oyunlar - Her Zaman, Her Yerden Ücretsiz Online Oyunlar Oynayın",
+  "slogan": "Parmaklarınızın Ucunda Ücretsiz Oyunların Dünyasını Keşfedin",
+  "description": "FreeGames, Aksiyon, Macera, Atış, Yarış ve daha fazlası dahil olmak üzere çeşitli türlerde geniş bir ücretsiz çevrimiçi oyun koleksiyonu sunmaktadır. Heyecan verici çok oyunculu deneyimler veya rahatlatıcı bulmaca oyunları olsun, FreeGames herkes için bir şeyler sunar. İndirme gerektirmeden sorunsuz oyun keyfi yaşayın ve bugün sonsuz eğlenceye dalın!",
   "Loading": {
-    "title": ""
+    "title": "Yükleniyor..."
   },
   "Navbar": {
-    "title": "Nav"
+    "title": "Gezinti"
   },
   "Common": {
     "createAt": "Oluşturulma Tarihi",
-    "guide": "Rehber",
+    "guide": "Yönerge",
     "privacyPolicy": "Gizlilik Politikası",
-    "termsOfServices": "Hizmet Şartları",
+    "termsOfServices": "Hizmet Koşulları",
     "text": "İçerik",
     "help": "Yardım",
     "friendlyLinks": "Dost Bağlantılar",
@@ -22,54 +22,54 @@
     "previous": "Önceki"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
-    "iframeTitle": "Game Preview",
-    "fullscreenButton": "Fullscreen",
-    "shareButton": "Share",
-    "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game",
-    "playGame": "Oyun Oyna"
+    "title": "FreeGames - Ücretsiz Çevrimiçi Oyunlar Oynayın",
+    "description": "FreeGames'te geniş bir ücretsiz çevrimiçi oyun yelpazesi keşfedin. Aksiyon dolu maceralardan rahatlatıcı bulmacalara kadar herkes için bir şeyler var. Şimdi oynamaya başlayın ve sonsuz eğlenceye dalın!",
+    "iframeTitle": "Oyun Önizlemesi",
+    "fullscreenButton": "Tam Ekran",
+    "shareButton": "Paylaş",
+    "urlCopied": "URL panoya kopyalandı!",
+    "downloadGame": "Oyunu İndir",
+    "playGame": "Oyunu Oyna"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
-    "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "gameTitle": "FreeGames - Ücretsiz Çevrimiçi Eğlencenin Kapınız",
+    "whatIsTitle": "FreeGames Nedir?",
+    "whatIsDescription": "FreeGames, herhangi bir indirme yapmadan çeşitli ücretsiz çevrimiçi oyunlar oynayabileceğiniz bir platformdur. Aksiyon, Macera, Bulmaca ve daha fazlası gibi oyun türlerinden oyunlar keyfini çıkarın.",
+    "howToPlayTitle": "Nasıl Oynanır?",
+    "howToPlayStep1": "Koleksiyondan favori oyununuzu seçin.",
+    "howToPlayStep2": "Oyunu tıklayarak hemen oynamaya başlayın.",
+    "howToPlayStep3": "Herhangi bir indirme gerektirmeden sorunsuz oyun keyfi yaşayın.",
+    "keyFeaturesTitle": "Önemli Özellikler",
+    "feature1Title": "Geniş Oyun Çeşitliliği",
+    "feature1Description": "Aksiyon, Macera, Bulmaca ve daha fazlası dahil olmak üzere çeşitli türlerden oyunları keşfedin.",
+    "feature2Title": "İndirme Gerektirmez",
+    "feature2Description": "Herhangi bir indirme yapmadan tarayıcınızda doğrudan oyunları oynayın.",
+    "feature3Title": "Ücretsiz Oynama",
+    "feature3Description": "Tüm oyunlar her zaman, her yerde tamamen ücretsiz olarak oynanabilir.",
+    "feature4Title": "Kullanıcı Dostu Arabirim",
+    "feature4Description": "Sorunsuz ve sezgisel bir oyun deneyiminin tadını çıkarın."
   },
   "HomeFAQs": {
-    "title": "FAQs"
+    "title": "SSS"
   },
   "HomeRelatedVideo": {
-    "title": "Game Video"
+    "title": "Oyun Videosu"
   },
   "HomeRecommendation": {
-    "title": "Recommends"
+    "title": "Tavsiye Edilenler"
   },
   "HomeComments": {
-    "title": "Play Comments"
+    "title": "Oyun Yorumları"
   },
   "GamePage": {
-    "title": "All Games",
-    "description": "All Games",
-    "games": "Games"
+    "title": "Tüm Oyunlar",
+    "description": "Tüm Oyunlar",
+    "games": "Oyunlar"
   },
   "CategoryPage": {
-    "categories": "Kategori",
-    "noCategories": "Kategori bulunamadı",
-    "viewMore": "Daha Fazla Görüntüle",
+    "categories": "Kategoriler",
+    "noCategories": "Hiç kategori bulunamadı",
+    "viewMore": "Daha Fazlasını Görüntüle",
     "page": "Sayfa"
   }
 }

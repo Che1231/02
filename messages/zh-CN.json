@@ -1,15 +1,15 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "FreeGames - 随时随地畅玩免费在线游戏",
+  "slogan": "触手可及，探索免费游戏世界",
+  "description": "FreeGames 提供大量免费在线游戏，涵盖各种类型，包括动作、冒险、射击、赛车等等。无论您喜欢刺激的多人游戏还是轻松的益智游戏，FreeGames 应有尽有。无需下载，即可畅享流畅的游戏体验，尽情享受无限乐趣！",
   "Loading": {
-    "title": ""
+    "title": "正在加载..."
   },
   "Navbar": {
-    "title": "Nav"
+    "title": "导航"
   },
   "Common": {
-    "createAt": "创建于",
+    "createAt": "创建日期",
     "guide": "指南",
     "privacyPolicy": "隐私政策",
     "termsOfServices": "服务条款",
@@ -22,54 +22,54 @@
     "previous": "上一页"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
-    "iframeTitle": "遊戲預覽",
-    "fullscreenButton": "全螢幕",
+    "title": "FreeGames - 畅玩免费在线游戏",
+    "description": "在 FreeGames 发现各种免费在线游戏。从紧张刺激的冒险游戏到轻松的益智游戏，总有一款适合您。现在开始游戏，享受无限乐趣！",
+    "iframeTitle": "游戏预览",
+    "fullscreenButton": "全屏",
     "shareButton": "分享",
-    "urlCopied": "網址已複製到剪貼板!",
-    "downloadGame": "下載遊戲",
+    "urlCopied": "URL 已复制到剪贴板！",
+    "downloadGame": "下载游戏",
     "playGame": "开始游戏"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
-    "howToPlayTitle": "如何遊玩",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "gameTitle": "FreeGames - 您通往免费在线乐趣的大门",
+    "whatIsTitle": "FreeGames 是什么？",
+    "whatIsDescription": "FreeGames 是一个平台，您可以在上面玩各种免费在线游戏，无需下载。尽享动作、冒险、益智等多种类型的游戏。",
+    "howToPlayTitle": "如何玩游戏",
+    "howToPlayStep1": "从游戏列表中选择您喜欢的游戏。",
+    "howToPlayStep2": "点击游戏立即开始游戏。",
+    "howToPlayStep3": "无需下载即可畅享流畅的游戏体验。",
+    "keyFeaturesTitle": "主要功能",
+    "feature1Title": "种类繁多的游戏",
+    "feature1Description": "探索来自多种类型游戏，包括动作、冒险、益智等。",
+    "feature2Title": "无需下载",
+    "feature2Description": "直接在浏览器中玩游戏，无需下载。",
+    "feature3Title": "免费游戏",
+    "feature3Description": "所有游戏都完全免费，随时随地畅玩。",
+    "feature4Title": "用户友好界面",
+    "feature4Description": "享受流畅直观的平台游戏体验。"
   },
   "HomeFAQs": {
-    "title": "FAQs"
+    "title": "常见问题解答"
   },
   "HomeRelatedVideo": {
-    "title": "Game Video"
+    "title": "游戏视频"
   },
   "HomeRecommendation": {
-    "title": "Recommends"
+    "title": "推荐游戏"
   },
   "HomeComments": {
-    "title": "Play Comments"
+    "title": "游戏评论"
   },
   "GamePage": {
-    "title": "All Games",
-    "description": "All Games",
-    "games": "Games"
+    "title": "所有游戏",
+    "description": "所有游戏",
+    "games": "游戏列表"
   },
   "CategoryPage": {
-    "categories": "类别",
-    "noCategories": "未找到类别",
+    "categories": "游戏类别",
+    "noCategories": "未找到游戏类别",
     "viewMore": "查看更多",
-    "page": "页"
+    "page": "页码"
   }
 }

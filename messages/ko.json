@@ -1,75 +1,75 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "무료 게임 - 언제 어디서나 무료 온라인 게임을 플레이하세요",
+  "slogan": "손끝에서 펼쳐지는 무료 게임의 세계를 탐험하세요",
+  "description": "FreeGames는 액션, 모험, 슈팅, 레이싱 등 다양한 장르의 무료 온라인 게임을 풍부하게 제공합니다. 흥미진진한 멀티플레이어 경험이나 편안한 퍼즐 게임을 원하시든, FreeGames는 누구에게나 맞는 게임이 있습니다. 다운로드 없이 원활한 게임 플레이를 즐기고 오늘 바로 끝없는 재미에 뛰어들어 보세요!",
   "Loading": {
-    "title": ""
+    "title": "로딩 중..."
   },
   "Navbar": {
-    "title": "내비게이션"
+    "title": "탐색"
   },
   "Common": {
     "createAt": "생성일",
     "guide": "가이드",
-    "privacyPolicy": "개인정보 처리방침",
+    "privacyPolicy": "개인정보 보호정책",
     "termsOfServices": "서비스 약관",
-    "text": "내용",
-    "help": "도움",
-    "friendlyLinks": "친절한 링크",
-    "articleList": "게시물 목록",
+    "text": "콘텐츠",
+    "help": "도움말",
+    "friendlyLinks": "친구 링크",
+    "articleList": "기사 목록",
     "home": "홈",
     "next": "다음",
     "previous": "이전"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
+    "title": "FreeGames - 무료 온라인 게임 플레이",
+    "description": "FreeGames에서 다양한 무료 온라인 게임을 발견하세요. 액션으로 가득 찬 모험부터 편안한 퍼즐 게임까지, 누구에게나 맞는 게임이 있습니다. 지금 플레이를 시작하고 끝없는 재미를 만끽하세요!",
     "iframeTitle": "게임 미리보기",
     "fullscreenButton": "전체 화면",
     "shareButton": "공유",
     "urlCopied": "URL이 클립보드에 복사되었습니다!",
     "downloadGame": "게임 다운로드",
-    "playGame": "게임하기"
+    "playGame": "게임 플레이"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
-    "howToPlayTitle": "게임 방법",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
+    "gameTitle": "FreeGames - 무료 온라인 게임의 문이 열립니다",
+    "whatIsTitle": "FreeGames는 무엇인가요?",
+    "whatIsDescription": "FreeGames는 다운로드 없이 다양한 무료 온라인 게임을 즐길 수 있는 플랫폼입니다. 액션, 모험, 퍼즐 등 다양한 장르의 게임을 즐겨보세요.",
+    "howToPlayTitle": "게임 플레이 방법",
+    "howToPlayStep1": "게임 목록에서 좋아하는 게임을 선택하세요.",
+    "howToPlayStep2": "게임을 클릭하여 즉시 플레이를 시작하세요.",
+    "howToPlayStep3": "다운로드 없이 원활한 게임 플레이를 즐겨보세요.",
     "keyFeaturesTitle": "주요 기능",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "feature1Title": "다양한 게임",
+    "feature1Description": "액션, 모험, 퍼즐 등 다양한 장르의 게임을 탐험하세요.",
+    "feature2Title": "다운로드 필요 없음",
+    "feature2Description": "다운로드 없이 바로 브라우저에서 게임을 플레이하세요.",
+    "feature3Title": "무료 게임",
+    "feature3Description": "모든 게임은 언제 어디서나 무료로 플레이할 수 있습니다.",
+    "feature4Title": "사용자 친화적인 인터페이스",
+    "feature4Description": "원활하고 직관적인 게임 경험을 즐기세요."
   },
   "HomeFAQs": {
     "title": "자주 묻는 질문"
   },
   "HomeRelatedVideo": {
-    "title": "게임 비디오"
+    "title": "게임 영상"
   },
   "HomeRecommendation": {
     "title": "추천"
   },
   "HomeComments": {
-    "title": "플레이 댓글"
+    "title": "게임 댓글"
   },
   "GamePage": {
     "title": "모든 게임",
     "description": "모든 게임",
-    "games": "게임"
+    "games": "게임 목록"
   },
   "CategoryPage": {
     "categories": "카테고리",
-    "noCategories": "카테고리를 찾을 수 없습니다",
-    "viewMore": "자세히 보기",
+    "noCategories": "카테고리가 없습니다",
+    "viewMore": "더보기",
     "page": "페이지"
   }
 }
