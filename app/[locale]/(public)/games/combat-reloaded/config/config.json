@@ -1,0 +1,120 @@
+{
+  "name": "Combat Reloaded",
+  "pagePath": "/games/combat-reloaded",
+  "pageName": "combat-reloaded",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.igrifree.com/embed/combat-reloaded",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "FuriousPhoenix99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/FuriousPhoenix99.png",
+      "content": "Combat Reloaded is so much fun! The graphics are stunning, and finding new guns is always exciting!"
+    },
+    {
+      "author": "StealthyKraken_42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StealthyKraken_42.png",
+      "content": "Had a blast playing on the European server today. It’s super intense and fast-paced!"
+    },
+    {
+      "author": "NeonBladeX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonBladeX.png",
+      "content": "This game is awesome! I love how many weapons there are. Great for strategizing."
+    },
+    {
+      "author": "ShadowReaper87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/ShadowReaper87.png",
+      "content": "The game modes are fantastic! Every match feels like a new challenge."
+    },
+    {
+      "author": "PhantomCosmic99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomCosmic99.png",
+      "content": "Wow, the illustrations are breathtaking. Can't wait to see more updates!"
+    },
+    {
+      "author": "LootGoblin89",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LootGoblin89.png",
+      "content": "Just found the best sniper rifle ever! This game never disappoints."
+    },
+    {
+      "author": "StalkingGriffin87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingGriffin87.png",
+      "content": "What a thrill to play with friends in custom Deathmatch mode! So much fun."
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "Why did no one tell me about this amazing game sooner? So immersive!"
+    },
+    {
+      "author": "SavageBlade_x",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBlade_x.png",
+      "content": "Headshots are everything here! Gotta aim for gold."
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "The variety of weapons is incredible! Can’t decide which one to use first."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-05/images/1743839271406-zh3xmd.avif",
+  "page_path": "/games/combat-reloaded",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Hot"
+  ],
+  "createdTime": "2025-04-05 15:47:51"
+}

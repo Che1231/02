@@ -1,0 +1,77 @@
+{
+  "combat-reloaded": {
+    "title": "《戰鬥重返》 - 免費線上多人射擊遊戲",
+    "slogan": "加入戰鬥，成為最後的倖存者！",
+    "description": "《戰鬥重返》是一款充滿動作的線上多人射擊遊戲，您可以在遊戲中建立自己的房間，選擇場景，並爭奪生存。具有精美的圖形和多種遊戲模式，《戰鬥重返》為所有射擊遊戲愛好者提供身歷其境的體驗。加入藍色和紅色隊伍之間的競爭，使用各種武器，並制定策略來摧毀敵人。現在就玩，體驗《戰鬥重返》的刺激！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友善連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "《戰鬥重返》",
+      "description": "體驗《戰鬥重返》的終極多人射擊遊戲。選擇您的隊伍，選擇您的武器，並戰鬥，成為最後的倖存者。現在免費遊戲！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "《戰鬥重返》",
+      "whatIsTitle": "什麼是《戰鬥重返》？",
+      "whatIsDescription": "《戰鬥重返》是一款線上多人射擊遊戲，玩家在團隊中競爭，摧毀敵人。選擇您的隊伍，選擇您的武器，並制定策略來獲勝。",
+      "howToPlayTitle": "如何遊戲",
+      "howToPlayStep1": "選擇您的隊伍：藍色或紅色。",
+      "howToPlayStep2": "選擇您的武器並與您的團隊制定策略。",
+      "howToPlayStep3": "摧毀敵方團隊，成為最後的倖存者。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "多種遊戲模式",
+      "feature1Description": "《戰鬥重返》提供 5 種不同的遊戲模式，保持遊戲的刺激和新鮮感。",
+      "feature2Title": "可自訂房間",
+      "feature2Description": "建立您自己的房間並邀請多達 10 位玩家加入自訂的死亡競賽。",
+      "feature3Title": "各種武器",
+      "feature3Description": "從各種武器中選擇，從刀片到機槍，以適合您的遊戲風格。",
+      "feature4Title": "團隊策略",
+      "feature4Description": "與您的團隊合作，以智謀和火力戰勝敵人。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦遊戲"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到分類",
+      "viewMore": "檢視更多",
+      "page": "頁面"
+    }
+  }
+}

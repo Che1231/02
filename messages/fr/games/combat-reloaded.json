@@ -1,0 +1,77 @@
+{
+  "combat-reloaded": {
+    "title": "Combat Reloaded - Jeu de tir multijoueur en ligne gratuit",
+    "slogan": "Rejoignez la bataille, soyez le dernier survivant !",
+    "description": "Combat Reloaded est un jeu de tir multijoueur en ligne bourré d'action où vous pouvez créer votre propre salle, choisir votre scénario et lutter pour la survie. Avec des graphismes époustouflants et de multiples modes de jeu, Combat Reloaded offre une expérience immersive à tous les fans de jeux de tir. Rejoignez la compétition entre les équipes bleue et rouge, utilisez une variété d'armes et stratégisez pour détruire l'ennemi. Jouez maintenant et découvrez le frisson de Combat Reloaded !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Combat Reloaded",
+      "description": "Découvrez le jeu de tir multijoueur ultime avec Combat Reloaded. Choisissez votre équipe, sélectionnez vos armes et luttez pour être le dernier survivant. Jouez gratuitement dès maintenant !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Combat Reloaded",
+      "whatIsTitle": "Qu'est-ce que Combat Reloaded ?",
+      "whatIsDescription": "Combat Reloaded est un jeu de tir multijoueur en ligne où les joueurs s'affrontent en équipes pour détruire l'ennemi. Choisissez votre équipe, sélectionnez vos armes et stratégisez pour gagner.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Choisissez votre équipe : bleue ou rouge.",
+      "howToPlayStep2": "Sélectionnez vos armes et stratégisez avec votre équipe.",
+      "howToPlayStep3": "Détruisez l'équipe adverse et soyez le dernier survivant.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Plusieurs modes de jeu",
+      "feature1Description": "Combat Reloaded propose 5 modes de jeu différents pour maintenir l'action fraîche et excitante.",
+      "feature2Title": "Salles personnalisables",
+      "feature2Description": "Créez votre propre salle et invitez jusqu'à 10 joueurs pour un Deathmatch personnalisé.",
+      "feature3Title": "Variété d'armes",
+      "feature3Description": "Choisissez parmi une large gamme d'armes, des lames aux mitrailleuses, pour s'adapter à votre style de jeu.",
+      "feature4Title": "Stratégie d'équipe",
+      "feature4Description": "Travaillez ensemble avec votre équipe pour surpasser et déjouer l'ennemi."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

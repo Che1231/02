@@ -1,0 +1,77 @@
+{
+  "combat-reloaded": {
+    "title": "เกมยิงออนไลน์หลายคน Combat Reloaded ฟรี",
+    "slogan": "เข้าร่วมการต่อสู้และเป็นผู้รอดชีวิตคนสุดท้าย!",
+    "description": "Combat Reloaded เป็นเกมยิงออนไลน์หลายคนแอ็คชั่นที่คุณสามารถสร้างห้องของคุณเอง เลือกสถานการณ์ของคุณ และต่อสู้เพื่อเอาชีวิตรอด ด้วยกราฟิกที่สวยงามและโหมดเกมต่างๆ Combat Reloaded มอบประสบการณ์ที่ดื่มด่ำให้กับแฟนๆ เกมยิงทุกคน ร่วมแข่งขันระหว่างทีมสีน้ำเงินและสีแดง ใช้ปืนต่างๆ และวางแผนกลยุทธ์เพื่อทำลายศัตรู เล่นตอนนี้และสัมผัสกับความตื่นเต้นของ Combat Reloaded!",
+    "Loading": {
+      "title": "กำลังโหลด..."
+    },
+    "Navbar": {
+      "title": "นำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์เพื่อน",
+      "articleList": "รายการบทความ",
+      "home": "หน้าแรก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "Combat Reloaded",
+      "description": "สัมผัสประสบการณ์เกมยิงออนไลน์หลายคนสุดยอดกับ Combat Reloaded เลือกทีมของคุณ เลือกอาวุธของคุณ และต่อสู้เพื่อเอาชีวิตรอด เล่นฟรีตอนนี้!",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ลงในคลิปบอร์ดแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Combat Reloaded",
+      "whatIsTitle": "Combat Reloaded คืออะไร?",
+      "whatIsDescription": "Combat Reloaded เป็นเกมยิงออนไลน์หลายคนซึ่งผู้เล่นแข่งขันกันเป็นทีมเพื่อทำลายศัตรู เลือกทีมของคุณ เลือกอาวุธของคุณ และวางแผนกลยุทธ์เพื่อชนะ",
+      "howToPlayTitle": "วิธีเล่น",
+      "howToPlayStep1": "เลือกทีมของคุณ: สีน้ำเงินหรือสีแดง",
+      "howToPlayStep2": "เลือกอาวุธของคุณและวางแผนกลยุทธ์กับทีมของคุณ",
+      "howToPlayStep3": "ทำลายทีมศัตรูและเป็นผู้รอดชีวิตคนสุดท้าย",
+      "keyFeaturesTitle": "คุณสมบัติหลัก",
+      "feature1Title": "โหมดเกมหลายโหมด",
+      "feature1Description": "Combat Reloaded มีโหมดเกมที่แตกต่างกัน 5 โหมดเพื่อให้การกระทำสดใหม่และน่าตื่นเต้น",
+      "feature2Title": "ห้องที่กำหนดเอง",
+      "feature2Description": "สร้างห้องของคุณเองและเชิญผู้เล่นสูงสุด 10 คนเข้าร่วมการแข่งขัน Deathmatch",
+      "feature3Title": "อาวุธหลากหลาย",
+      "feature3Description": "เลือกจากอาวุธหลากหลายชนิด ตั้งแต่ดาบไปจนถึงปืนกล เพื่อให้เหมาะกับสไตล์การเล่นของคุณ",
+      "feature4Title": "กลยุทธ์ทีม",
+      "feature4Description": "ทำงานร่วมกับทีมของคุณเพื่อเอาชนะและเอาชนะศัตรู"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วีดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นของผู้เล่น"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

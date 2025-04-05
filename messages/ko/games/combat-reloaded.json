@@ -1,0 +1,77 @@
+{
+  "combat-reloaded": {
+    "title": "Combat Reloaded - 무료 온라인 멀티플레이 슈팅 게임",
+    "slogan": "전투에 참여하여 마지막 생존자가 되십시오!",
+    "description": "Combat Reloaded는 사용자가 자신의 방을 만들고, 시나리오를 선택하고, 생존을 위해 싸울 수 있는 액션이 가득한 온라인 멀티플레이 슈팅 게임입니다. 뛰어난 그래픽과 다양한 게임 모드를 통해 Combat Reloaded는 모든 슈팅 게임 팬들을 위한 몰입형 경험을 제공합니다. 파란색과 빨간색 팀 간의 경쟁에 참여하고, 다양한 무기를 사용하고, 적을 파괴하기 위한 전략을 세우십시오. 지금 플레이하여 Combat Reloaded의 흥분을 경험하십시오!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성 시간",
+      "guide": "가이드",
+      "privacyPolicy": "개인 정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "내용",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "Combat Reloaded",
+      "description": "Combat Reloaded로 최고의 멀티플레이 슈팅 게임을 경험하십시오. 팀을 선택하고, 무기를 선택하고, 마지막 생존자가 되기 위해 싸우십시오. 지금 무료로 플레이하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Combat Reloaded",
+      "whatIsTitle": "Combat Reloaded는 무엇인가요?",
+      "whatIsDescription": "Combat Reloaded는 플레이어들이 팀으로 나뉘어 적을 파괴하기 위해 경쟁하는 온라인 멀티플레이 슈팅 게임입니다. 팀을 선택하고 무기를 선택하고, 승리하기 위한 전략을 세우십시오.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "파란색 또는 빨간색 팀을 선택하십시오.",
+      "howToPlayStep2": "무기를 선택하고 팀원들과 전략을 세우십시오.",
+      "howToPlayStep3": "적팀을 파괴하고 마지막 생존자가 되십시오.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "다양한 게임 모드",
+      "feature1Description": "Combat Reloaded는 5가지 다른 게임 모드를 제공하여 액션을 신선하고 흥미롭게 유지합니다.",
+      "feature2Title": "사용자 지정 방",
+      "feature2Description": "자신의 방을 만들고 최대 10명의 플레이어를 초대하여 사용자 지정 데스매치를 즐기세요.",
+      "feature3Title": "다양한 무기",
+      "feature3Description": "칼부터 기관총까지, 다양한 무기 중에서 자신의 플레이 스타일에 맞는 무기를 선택하십시오.",
+      "feature4Title": "팀 전략",
+      "feature4Description": "팀원들과 협력하여 적을 속이고 제압하십시오."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}
