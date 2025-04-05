@@ -1,0 +1,79 @@
+{
+  "friday-night-funkin": {
+    "friday-night-funk": {
+      "title": "Freitagabend-Funkin' - Kostenloses Online-Rhythmusspiel",
+      "slogan": "Beweisen Sie Ihr Können in epischen Rap-Battles!",
+      "description": "Freitagabend-Funkin' ist ein spannendes Rhythmusspiel, in dem Sie in Rap-Battles antreten, um das Herz Ihrer Freundin zu gewinnen. Mit 8 herausfordernden Kapiteln treten Sie gegen erfahrene Musiker wie Daddy Dearest und Skid & Pump an. Drücken Sie die Pfeile synchron zum Musikstück, um den Rhythmus zu halten und jeden Ton zu treffen. Perfektionieren Sie Ihre Fähigkeiten im Story-Modus oder üben Sie im Freispiel-Modus. Tauchen Sie ein in die Welt von Freitagabend-Funkin' und zeigen Sie Ihr Rhythmusgefühl!",
+      "Loading": {
+        "title": "Freitagabend-Funkin' wird geladen..."
+      },
+      "Navbar": {
+        "title": "Navigation"
+      },
+      "Common": {
+        "createAt": "Erstellt am",
+        "guide": "Leitfaden",
+        "privacyPolicy": "Datenschutzrichtlinie",
+        "termsOfServices": "Nutzungsbedingungen",
+        "text": "Inhalt",
+        "help": "Hilfe",
+        "friendlyLinks": "Freundliche Links",
+        "articleList": "Artikelübersicht",
+        "home": "Startseite",
+        "next": "Weiter",
+        "previous": "Zurück"
+      },
+      "HomeIframe": {
+        "title": "Freitagabend-Funkin' - Rhythmus-Battles",
+        "description": "Erleben Sie die Spannung von Freitagabend-Funkin' mit intensiven Rhythmus-Battles und herausfordernden Gegnern. Perfektionieren Sie Ihr Timing und Ihren Rhythmus, um zu gewinnen!",
+        "iframeTitle": "Spielvorschau",
+        "fullscreenButton": "Vollbild",
+        "shareButton": "Teilen",
+        "urlCopied": "URL in die Zwischenablage kopiert!",
+        "downloadGame": "Spiel herunterladen",
+        "playGame": "Spiel starten"
+      },
+      "HomeFeatures": {
+        "gameTitle": "Freitagabend-Funkin'",
+        "whatIsTitle": "Was ist Freitagabend-Funkin'?",
+        "whatIsDescription": "Freitagabend-Funkin' ist ein Musik- und Rhythmusspiel, in dem Sie in Rap-Battles antreten, um das Herz Ihrer Freundin zu gewinnen. Treten Sie gegen ihren Vater, einen erfahrenen Musiker, und andere herausfordernde Gegner an.",
+        "howToPlayTitle": "So spielen Sie",
+        "howToPlayStep1": "Drücken Sie die Pfeile zum richtigen Zeitpunkt, um den richtigen Klang zu erzeugen.",
+        "howToPlayStep2": "Hüten Sie den Rhythmus während der Songs und verpassen Sie so wenig Noten wie möglich.",
+        "howToPlayStep3": "Gewinnen Sie Rap-Battles gegen verschiedene Gegner im Story-Modus oder üben Sie im Freispiel-Modus.",
+        "keyFeaturesTitle": "Wichtigste Merkmale",
+        "feature1Title": "Herausfordernde Gegner",
+        "feature1Description": "Treten Sie gegen eine Vielzahl von Gegnern an, jeder mit seinem eigenen einzigartigen Stil und Rhythmus.",
+        "feature2Title": "Story-Modus",
+        "feature2Description": "Schreiten Sie durch 8 Wochen intensiver Rap-Battles, um das Herz Ihrer Freundin zu gewinnen.",
+        "feature3Title": "Freispiel-Modus",
+        "feature3Description": "Üben Sie jedes Lied einzeln, um Ihr Timing und Ihren Rhythmus zu perfektionieren.",
+        "feature4Title": "Mehrere Schwierigkeitsstufen",
+        "feature4Description": "Wählen Sie zwischen drei Schwierigkeitsgraden, wobei der Schwierigkeitsgrad \"Schwer\" eine extreme Herausforderung bietet."
+      },
+      "HomeFAQs": {
+        "title": "FAQ"
+      },
+      "HomeRelatedVideo": {
+        "title": "Spielvideo"
+      },
+      "HomeRecommendation": {
+        "title": "Empfehlungen"
+      },
+      "HomeComments": {
+        "title": "Spielkommentare"
+      },
+      "GamePage": {
+        "title": "Alle Spiele",
+        "description": "Alle Spiele",
+        "games": "Spiele"
+      },
+      "CategoryPage": {
+        "categories": "Kategorien",
+        "noCategories": "Keine Kategorien gefunden",
+        "viewMore": "Mehr anzeigen",
+        "page": "Seite"
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "vectaria-io": {
+    "title": "ベクタリア・アイオプレイ - マルチプレイヤーサンドボックスアドベンチャーゲーム",
+    "slogan": "ベクタリア・アイオで探索、建築、そして競争！",
+    "description": "ベクタリア・アイオは、友達と探索、建築、競争できるマルチプレイヤーサンドボックスゲームです。4種類の個性的なキャラクターから選択し、PvP、耐久、クリエイティブの3つのエキサイティングなゲームモードに挑戦できます。生き残りをかけた戦いから、夢の世界を創造するまで、ベクタリア・アイオは無限の可能性を提供します。今日から冒険を始め、ベクタリア・アイオを無料でプレイしましょう！",
+    "Loading": {
+      "title": "読み込み中…"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "ベクタリア・アイオ",
+      "description": "他に類を見ないマルチプレイヤーサンドボックスアドベンチャー、ベクタリア・アイオの世界へ飛び込みましょう。キャラクターを選び、ゲームモードを選択し、今日からプレイを始めましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ベクタリア・アイオ - マルチプレイヤーサンドボックスゲーム",
+      "whatIsTitle": "ベクタリア・アイオとは？",
+      "whatIsDescription": "ベクタリア・アイオは、友達と探索、建築、競争できるマルチプレイヤーサンドボックスゲームです。4種類の個性的なキャラクターから選択し、PvP、耐久、クリエイティブの3つのエキサイティングなゲームモードに挑戦できます。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "あなたのキャラクターを選んでください：マーサ、オリバー、マイク、またはローズ。",
+      "howToPlayStep2": "ゲームモードを選択してください：PvP、耐久、またはクリエイティブ。",
+      "howToPlayStep3": "プレイを開始し、ベクタリア・アイオの無限の可能性を探求しましょう！",
+      "keyFeaturesTitle": "主な機能",
+      "feature1Title": "マルチプレイヤーサンドボックス",
+      "feature1Description": "完全にマルチプレイヤー環境で友達と探索、建築しましょう。",
+      "feature2Title": "3つのゲームモード",
+      "feature2Description": "PvP、耐久、クリエイティブのモードから、さまざまなゲーム体験を選択できます。",
+      "feature3Title": "個性的なキャラクター",
+      "feature3Description": "それぞれの強みや能力を持つ4人のキャラクターから選択できます。",
+      "feature4Title": "無限の可能性",
+      "feature4Description": "機会に満ちた世界で、建築、競争、探索しましょう。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

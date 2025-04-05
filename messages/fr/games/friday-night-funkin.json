@@ -1,0 +1,79 @@
+{
+  "friday-night-funkin": {
+    "friday-night-funk": {
+      "title": "Friday Night Funkin' - Jeu de Rythme en Ligne Gratuit",
+      "slogan": "Démontrer Vos Compétences dans des Batailles de Rap Épiques !",
+      "description": "Friday Night Funkin' est un jeu de rythme passionnant où vous vous affrontez dans des batailles de rap pour gagner le cœur de votre petite amie. Avec 8 chapitres stimulants, affrontez des musiciens chevronnés comme Daddy Dearest et Skid & Pump. Appuyez sur les flèches en synchronisation avec la musique pour maintenir le rythme et frapper chaque note. Perfectionnez vos compétences en mode histoire ou entraînez-vous en mode libre. Plongez-vous dans le monde de Friday Night Funkin' et montrez votre talent pour le rythme!",
+      "Loading": {
+        "title": "Chargement de Friday Night Funkin'..."
+      },
+      "Navbar": {
+        "title": "Navigation"
+      },
+      "Common": {
+        "createAt": "Créé le",
+        "guide": "Guide",
+        "privacyPolicy": "Politique de Confidentialité",
+        "termsOfServices": "Conditions d'Utilisation",
+        "text": "Contenu",
+        "help": "Aide",
+        "friendlyLinks": "Liens Amis",
+        "articleList": "Liste des Articles",
+        "home": "Accueil",
+        "next": "Suivant",
+        "previous": "Précédent"
+      },
+      "HomeIframe": {
+        "title": "Friday Night Funkin' - Batailles de Rythme",
+        "description": "Expérimentez l'excitation de Friday Night Funkin' avec des batailles de rythme intenses et des adversaires stimulants. Parfaites votre timing et votre rythme pour gagner!",
+        "iframeTitle": "Aperçu du Jeu",
+        "fullscreenButton": "Plein Écran",
+        "shareButton": "Partager",
+        "urlCopied": "URL copiée dans le presse-papier !",
+        "downloadGame": "Télécharger le Jeu",
+        "playGame": "Jouer"
+      },
+      "HomeFeatures": {
+        "gameTitle": "Friday Night Funkin'",
+        "whatIsTitle": "Qu'est-ce que Friday Night Funkin' ?",
+        "whatIsDescription": "Friday Night Funkin' est un jeu de musique et de rythme où vous vous battez en rap pour gagner le cœur de votre petite amie. Affrontez son père, un musicien chevronné, et d'autres adversaires stimulants.",
+        "howToPlayTitle": "Comment Jouer",
+        "howToPlayStep1": "Appuyez sur les flèches au bon moment pour produire le bon son.",
+        "howToPlayStep2": "Maintenez le rythme tout au long des chansons et ratez le moins de notes possible.",
+        "howToPlayStep3": "Gagnez des batailles de rap contre divers adversaires en mode histoire ou entraînez-vous en mode libre.",
+        "keyFeaturesTitle": "Fonctionnalités Principales",
+        "feature1Title": "Adversaires Stimulants",
+        "feature1Description": "Affrontez une variété d'adversaires, chacun avec son propre style et son rythme uniques.",
+        "feature2Title": "Mode Histoire",
+        "feature2Description": "Progressez à travers 8 semaines de batailles de rap intenses pour gagner le cœur de votre petite amie.",
+        "feature3Title": "Mode Libre",
+        "feature3Description": "Entraînez-vous sur chaque chanson individuellement pour perfectionner votre timing et votre rythme.",
+        "feature4Title": "Plusieurs Niveaux de Difficulté",
+        "feature4Description": "Choisissez parmi trois niveaux de difficulté, le mode difficile offrant un défi extrême."
+      },
+      "HomeFAQs": {
+        "title": "FAQ"
+      },
+      "HomeRelatedVideo": {
+        "title": "Vidéo du Jeu"
+      },
+      "HomeRecommendation": {
+        "title": "Recommandations"
+      },
+      "HomeComments": {
+        "title": "Commentaires des Joueurs"
+      },
+      "GamePage": {
+        "title": "Tous les Jeux",
+        "description": "Tous les Jeux",
+        "games": "Jeux"
+      },
+      "CategoryPage": {
+        "categories": "Catégories",
+        "noCategories": "Aucune catégorie trouvée",
+        "viewMore": "Voir Plus",
+        "page": "Page"
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "friday-night-funkin": {
+    "title": "Friday Night Funkin' - 免費線上節奏遊戲",
+    "slogan": "在史詩般的饒舌對決中證明你的技巧！",
+    "description": "Friday Night Funkin' 是一款令人興奮的節奏遊戲，您可以在饒舌對決中競爭，贏得您女友的心。面對 8 個具有挑戰性的章節，與像 Daddy Dearest 和 Skid & Pump 這樣的經驗豐富的音樂家對決。與音樂同步按下箭頭鍵，保持節奏並擊中每個音符。在故事模式中完善您的技能，或在自由遊戲模式中練習。沉浸在 Friday Night Funkin' 的世界中，展現您的節奏！",
+    "Loading": {
+      "title": "正在載入 Friday Night Funkin'..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "Friday Night Funkin' - 節奏對決",
+      "description": "體驗 Friday Night Funkin' 的刺激節奏對決和具有挑戰性的對手。完美您的節奏和節拍來獲勝！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "播放遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Friday Night Funkin'",
+      "whatIsTitle": "Friday Night Funkin' 是一款什麼遊戲？",
+      "whatIsDescription": "Friday Night Funkin' 是一款音樂和節奏遊戲，您可以在饒舌對決中競爭，贏得您女友的心。與她的父親，一位經驗豐富的音樂家，以及其他具有挑戰性的對手對決。",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "在正確的時間按下箭頭鍵，才能產生正確的音效。",
+      "howToPlayStep2": "在歌曲中保持節奏，並盡可能地少錯音符。",
+      "howToPlayStep3": "在故事模式中與各種對手進行饒舌對決，或在自由遊戲模式中練習。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "具有挑戰性的對手",
+      "feature1Description": "與各種對手對決，每位對手都有自己獨特的風格和節奏。",
+      "feature2Title": "故事模式",
+      "feature2Description": "完成 8 個星期的激烈饒舌對決，贏得您女友的心。",
+      "feature3Title": "自由遊戲模式",
+      "feature3Description": "個別練習每首歌曲，以完善您的時間和節奏。",
+      "feature4Title": "多個難度級別",
+      "feature4Description": "從三個難度級別中選擇，困難模式提供極端的挑戰。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "檢視更多",
+      "page": "頁面"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "friday-night-funkin": {
+    "friday-night-funk": [
+      {
+        "title": "Friday Night Funkin' - Juego de Ritmo Online Gratis",
+        "slogan": "¡Demuestra tus habilidades en épicas batallas de rap!",
+        "description": "Friday Night Funkin' es un emocionante juego de ritmo en el que compites en batallas de rap para conquistar el corazón de tu novia. Enfréntate a músicos experimentados como Daddy Dearest y Skid & Pump en 8 capítulos desafiantes. Presiona las flechas sincronizando el ritmo de la música para mantener el compás y tocar cada nota. Perfecciona tus habilidades en modo historia o practica en modo libre. ¡Sumérgete en el mundo de Friday Night Funkin' y muestra tu ritmo!",
+        "Loading": {
+          "title": "Cargando Friday Night Funkin'..."
+        },
+        "Navbar": {
+          "title": "Navegación"
+        },
+        "Common": {
+          "createAt": "Creación",
+          "guide": "Guía",
+          "privacyPolicy": "Política de privacidad",
+          "termsOfServices": "Términos de servicio",
+          "text": "Contenido",
+          "help": "Ayuda",
+          "friendlyLinks": "Enlaces útiles",
+          "articleList": "Lista de artículos",
+          "home": "Inicio",
+          "next": "Siguiente",
+          "previous": "Anterior"
+        },
+        "HomeIframe": {
+          "title": "Friday Night Funkin' - Batallas de Ritmo",
+          "description": "¡Experimenta la emoción de Friday Night Funkin' con intensas batallas de ritmo y oponentes desafiantes! Perfecciona tu sincronización y ritmo para ganar!",
+          "iframeTitle": "Vista previa del juego",
+          "fullscreenButton": "Pantalla completa",
+          "shareButton": "Compartir",
+          "urlCopied": "¡URL copiada al portapapeles!",
+          "downloadGame": "Descargar juego",
+          "playGame": "Jugar"
+        },
+        "HomeFeatures": {
+          "gameTitle": "Friday Night Funkin'",
+          "whatIsTitle": "¿Qué es Friday Night Funkin'?",
+          "whatIsDescription": "Friday Night Funkin' es un juego de ritmo y música donde compites en batallas de rap para ganar el corazón de tu novia. Enfréntate a su padre, un experimentado músico, y a otros oponentes desafiantes.",
+          "howToPlayTitle": "Cómo jugar",
+          "howToPlayStep1": "Presiona las flechas en el momento adecuado para producir el sonido correcto.",
+          "howToPlayStep2": "Mantén el ritmo durante las canciones y falla la menor cantidad de notas posible.",
+          "howToPlayStep3": "Gana batallas de rap contra varios oponentes en el modo historia o practica en el modo libre.",
+          "keyFeaturesTitle": "Características principales",
+          "feature1Title": "Oponentes desafiantes",
+          "feature1Description": "Enfréntate a una variedad de oponentes, cada uno con su propio estilo y ritmo únicos.",
+          "feature2Title": "Modo historia",
+          "feature2Description": "Progresa a través de 8 semanas de intensas batallas de rap para ganar el corazón de tu novia.",
+          "feature3Title": "Modo libre",
+          "feature3Description": "Practica cada canción individualmente para perfeccionar tu sincronización y ritmo.",
+          "feature4Title": "Varios niveles de dificultad",
+          "feature4Description": "Elige entre tres niveles de dificultad, con el modo difícil ofreciendo un desafío extremo."
+        },
+        "HomeFAQs": {
+          "title": "Preguntas frecuentes"
+        },
+        "HomeRelatedVideo": {
+          "title": "Video del juego"
+        },
+        "HomeRecommendation": {
+          "title": "Recomendaciones"
+        },
+        "HomeComments": {
+          "title": "Comentarios del juego"
+        },
+        "GamePage": {
+          "title": "Todos los juegos",
+          "description": "Todos los juegos",
+          "games": "Juegos"
+        },
+        "CategoryPage": {
+          "categories": "Categorías",
+          "noCategories": "No se encontraron categorías",
+          "viewMore": "Ver más",
+          "page": "Página"
+        }
+      }
+    ]
+  }
+}

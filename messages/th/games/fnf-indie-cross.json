@@ -1,0 +1,77 @@
+{
+  "fnf-indie-cross": {
+    "title": "FNF Indie Cross - เกมดนตรีออนไลน์ฟรี",
+    "slogan": "ฮีโร่จากเกมอินดี้สุดไอคอนิกมาปะทะกันในเกมดนตรีที่ยิ่งใหญ่!",
+    "description": "สัมผัสประสบการณ์เกมดนตรีสุดระทึกกับ FNF Indie Cross ที่นำเสนอฮีโร่จากเกมอินดี้สุดไอคอนิก  เพลิดเพลินไปกับสามสัปดาห์เต็มๆ ด้วยสามเพลงในแต่ละสัปดาห์ และเพลงพิเศษในเมนูเล่นฟรี ด้วยกลไกการเล่นใหม่ ตัดฉากภาพและภาพเคลื่อนไหวคุณภาพสูง ทำให้โมดนี้เป็นการผจญภัยทางดนตรีที่ยอดเยี่ยม เล่น FNF Indie Cross ออนไลน์ฟรีวันนี้!",
+    "Loading": {
+      "title": "กำลังโหลด..."
+    },
+    "Navbar": {
+      "title": "เมนู"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดและเงื่อนไข",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์เพื่อน",
+      "articleList": "รายการบทความ",
+      "home": "หน้าหลัก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "FNF Indie Cross",
+      "description": "เข้าร่วมการผจญภัยทางดนตรีที่ยิ่งใหญ่กับ FNF Indie Cross เล่นฟรีทันที!",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ลงในคลิปบอร์ดเรียบร้อยแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "FNF Indie Cross",
+      "whatIsTitle": "FNF Indie Cross คืออะไร?",
+      "whatIsDescription": "FNF Indie Cross เป็นโมดสำหรับ Friday Night Funkin' ที่นำเสนอฮีโร่จากเกมอินดี้ชื่อดัง สัมผัสกับสามสัปดาห์เต็มๆ ด้วยเพลง เพลงพิเศษ กลไกการเล่นใหม่ และตัดฉากภาพคุณภาพสูง",
+      "howToPlayTitle": "วิธีการเล่น",
+      "howToPlayStep1": "กดปุ่มลูกศรให้ตรงจังหวะดนตรี",
+      "howToPlayStep2": "ทำคะแนนให้ครบถ้วน เพื่อไปยังระดับถัดไป",
+      "howToPlayStep3": "ปลดล็อคเพลงพิเศษในเมนูเล่นฟรี",
+      "keyFeaturesTitle": "คุณสมบัติสำคัญ",
+      "feature1Title": "ฮีโร่จากเกมอินดี้ชื่อดัง",
+      "feature1Description": "เล่นเป็นตัวละครที่ได้รับความนิยมจากเกมอินดี้ยอดนิยม",
+      "feature2Title": "กลไกการเล่นใหม่",
+      "feature2Description": "สัมผัสกับองค์ประกอบการเล่นเกมรูปแบบใหม่เพื่อเพิ่มประสบการณ์เกมดนตรี",
+      "feature3Title": "ตัดฉากภาพคุณภาพสูง",
+      "feature3Description": "เพลิดเพลินไปกับภาพเคลื่อนไหวและฉากภาพยนตร์ที่เต็มไปด้วยเรื่องราว",
+      "feature4Title": "เพลงพิเศษ",
+      "feature4Description": "ค้นพบเพลงเพิ่มเติมในเมนูเล่นฟรี"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "เกมแนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นของผู้เล่น"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "vectaria-io": {
+    "title": "Vectaria.io - 多人沙盒冒險遊戲",
+    "slogan": "在 Vectaria.io 中探索、建造和競爭！",
+    "description": "Vectaria.io 是一款多人沙盒遊戲，您可以在其中探索、建造，並與朋友競爭。 從四個獨特的角色中選擇，並深入三個令人興奮的遊戲模式：PvP、耐力賽和創意模式。 無論您是在爭奪生存，還是建造夢想中的世界，Vectaria.io 都提供無限的可能性。 今天加入冒險，免費開始玩 Vectaria.io！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "Vectaria.io",
+      "description": "跳入 Vectaria.io 的世界，體驗前所未有的多人沙盒冒險。 選擇您的角色、選擇您的遊戲模式，並立即開始遊戲！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Vectaria.io - 多人沙盒遊戲",
+      "whatIsTitle": "Vectaria.io 是什麼？",
+      "whatIsDescription": "Vectaria.io 是一款多人沙盒遊戲，您可以在其中探索、建造，並與朋友競爭。 從四個獨特的角色中選擇，並深入三個令人興奮的遊戲模式：PvP、耐力賽和創意模式。",
+      "howToPlayTitle": "如何遊戲？",
+      "howToPlayStep1": "選擇您的角色：Martha、Oliver、Mike 或 Rose。",
+      "howToPlayStep2": "選擇您的遊戲模式：PvP、耐力賽或創意模式。",
+      "howToPlayStep3": "開始遊戲，探索 Vectaria.io 無限的可能性！",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "多人沙盒",
+      "feature1Description": "在完全多人環境中與朋友一起探索和建造。",
+      "feature2Title": "三種遊戲模式",
+      "feature2Description": "從 PvP、耐力賽和創意模式中選擇，體驗不同的遊戲體驗。",
+      "feature3Title": "獨特角色",
+      "feature3Description": "從四個角色中選擇，每個角色都有其獨特的優勢和能力。",
+      "feature4Title": "無限的可能性",
+      "feature4Description": "在充滿機遇的世界中建造、競爭和探索。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "未找到分類",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

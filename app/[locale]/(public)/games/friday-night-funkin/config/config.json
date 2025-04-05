@@ -1,0 +1,120 @@
+{
+  "name": "Friday Night Funkin",
+  "pagePath": "/games/friday-night-funkin",
+  "pageName": "friday-night-funkin",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://fnf.kdata1.com/2025/fnf/6200/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken42.png",
+      "content": "OMG, this game is so addicting! The rap battles are intense. Gotta beat Daddy Dearest!"
+    },
+    {
+      "author": "SavageRevolver_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageRevolver_X.png",
+      "content": "Is it just me, or is the hard mode REALLY hard? Perfect coordination required, indeed!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Friday Night Funkin' is awesome. Love the music and the rhythm gameplay. So unique!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "This game's story mode is actually kinda catchy. Didn't expect that! Skid and Pump are hilarious."
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "Freeplay mode is a lifesaver! Practicing each song individually is how I improve."
+    },
+    {
+      "author": "PhantomPhoenix99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix99.png",
+      "content": "Can't stop playing! The rhythm competitions are super fun. Is it just me or Pico is the hardest one?"
+    },
+    {
+      "author": "CosmicLeviathan87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicLeviathan87.png",
+      "content": "Friday Night Funkin' is great. The music battles are engaging. My fingers hurt though!"
+    },
+    {
+      "author": "NeonGriffin42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonGriffin42.png",
+      "content": "I love the variety of opponents! This game feature so many different challenges like Daddy Dearest."
+    },
+    {
+      "author": "StalkingPhoenix42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix42.png",
+      "content": "Okay, hard mode is INSANE. Seriously though, who can actually beat these songs? Friday Night Funkin' tests my skill!"
+    },
+    {
+      "author": "CosmicKraken99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicKraken99.png",
+      "content": "Best rhythm game ever! The beat is killer, the songs are bangers. Addicting gameplay!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-05/images/1743841812753-93wvdp.jpg",
+  "page_path": "/games/friday-night-funkin",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Music"
+  ],
+  "createdTime": "2025-04-05 16:30:13"
+}

@@ -1,0 +1,77 @@
+{
+  "vectaria-io": {
+    "title": "Vectaria.io - Çok Oyunculu Kumandalı Macera Oyununu Oyna",
+    "slogan": "Vectaria.io'da Keşfedin, İnşa Edin ve Yarışın!",
+    "description": "Vectaria.io, arkadaşlarınızla keşfedebileceğiniz, inşa edebileceğiniz ve rekabet edebileceğiniz çok oyunculu bir kumandalı oyundur. Dört benzersiz karakterden birini seçin ve üç heyecan verici oyun moduna dalın: PvP, Dayanıklılık ve Yaratıcı. Ya hayatta kalmak için savaşırken ya da hayal dünyanızı inşa ederken, Vectaria.io sonsuz olanaklar sunar. Bugün maceraya katılın ve ücretsiz olarak Vectaria.io'yu oynamaya başlayın!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Vectaria.io",
+      "description": "Vectaria.io dünyasına adım atın ve benzeri görülmemiş bir çok oyunculu kumandalı maceraya dalın. Karakterinizi seçin, oyun modunuzu seçin ve bugün oynamaya başlayın!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Vectaria.io - Çok Oyunculu Kumandalı Oyun",
+      "whatIsTitle": "Vectaria.io Nedir?",
+      "whatIsDescription": "Vectaria.io, arkadaşlarınızla keşfedebileceğiniz, inşa edebileceğiniz ve rekabet edebileceğiniz çok oyunculu bir kumandalı oyundur. Dört benzersiz karakterden birini seçin ve üç heyecan verici oyun moduna dalın: PvP, Dayanıklılık ve Yaratıcı.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Karakterinizi seçin: Martha, Oliver, Mike veya Rose.",
+      "howToPlayStep2": "Oyun modunuzu seçin: PvP, Dayanıklılık veya Yaratıcı.",
+      "howToPlayStep3": "Oynamaya başlayın ve Vectaria.io'daki sonsuz olanakları keşfedin!",
+      "keyFeaturesTitle": "Ana Özellikler",
+      "feature1Title": "Çok Oyunculu Kumanda",
+      "feature1Description": "Tamamen çok oyunculu bir ortamda arkadaşlarınızla keşfedin ve inşa edin.",
+      "feature2Title": "Üç Oyun Modu",
+      "feature2Description": "Farklı oyun deneyimleri için PvP, Dayanıklılık ve Yaratıcı modlarından birini seçin.",
+      "feature3Title": "Benzersiz Karakterler",
+      "feature3Description": "Her birinin kendine özgü güçlü ve yetenekleri olan dört karakterden birini seçin.",
+      "feature4Title": "Sonsuz Olanaklar",
+      "feature4Description": "Bir fırsat dolu dünyada inşa edin, rekabet edin ve keşfedin."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Hiç kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

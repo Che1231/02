@@ -1,0 +1,77 @@
+{
+  "fnf-indie-cross": {
+    "title": "FNF Indie Cross - 免费在线节奏游戏",
+    "slogan": "标志性独立英雄在史诗般的音乐融合中团结起来！",
+    "description": "体验 FNF Indie Cross，一款激动人心的节奏游戏，集结了标志性的独立英雄。享受三个完整周，每周三个歌曲，以及自由模式菜单中的额外曲目。凭借新的游戏机制、高质量的过场动画和动画效果，这款交叉模式提供了一场精彩的音乐冒险。立即免费在线玩 FNF Indie Cross！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一个",
+      "previous": "上一个"
+    },
+    "HomeIframe": {
+      "title": "FNF Indie Cross",
+      "description": "加入史诗般的音乐融合，与FNF Indie Cross一起。现在免费游戏！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "FNF Indie Cross",
+      "whatIsTitle": "什么是FNF Indie Cross？",
+      "whatIsDescription": "FNF Indie Cross是《星期五夜放克》的交叉模式，其中包含来自独立游戏的标志性英雄。享受三个完整的歌曲周、额外曲目、新机制和高质量的过场动画。",
+      "howToPlayTitle": "如何游戏？",
+      "howToPlayStep1": "按箭头键，与音乐同步。",
+      "howToPlayStep2": "完成所有音符以进入下一关。",
+      "howToPlayStep3": "在自由模式菜单中解锁额外歌曲。",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "标志性的独立英雄",
+      "feature1Description": "扮演来自热门独立游戏中的知名角色。",
+      "feature2Title": "新的游戏机制",
+      "feature2Description": "体验提升节奏游戏体验的新游戏元素。",
+      "feature3Title": "高质量过场动画",
+      "feature3Description": "欣赏令人惊叹的动画和充满故事的过场动画。",
+      "feature4Title": "额外歌曲",
+      "feature4Description": "在自由模式菜单中发现其他曲目。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "类别",
+      "noCategories": "未找到任何类别",
+      "viewMore": "查看更多",
+      "page": "页"
+    }
+  }
+}

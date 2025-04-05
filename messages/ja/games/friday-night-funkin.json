@@ -1,0 +1,79 @@
+{
+  "friday-night-funkin": {
+    "friday-night-funk": {
+      "title": "ファイナルナイトファンキン - フリーオンラインリズムゲーム",
+      "slogan": "エピックラップバトルであなたのスキルを証明してください！",
+      "description": "「ファイナルナイトファンキン」は、ガールフレンドの心を勝ち取るためにラップバトルで競う、スリリングなリズムゲームです。8つの挑戦的な章で、ダディ・デアレストやスキッド＆パンプのようなベテランミュージシャンと対決してください。音楽に合わせて矢印を押してリズムを維持し、すべての音符を叩き出してください。ストーリーモードでスキルを磨いたり、フリープレイモードで練習したりしてください。ファイナルナイトファンキンの世界に飛び込み、あなたのリズムを披露してください！",
+      "Loading": {
+        "title": "ファイナルナイトファンキンを読み込み中..."
+      },
+      "Navbar": {
+        "title": "ナビゲーション"
+      },
+      "Common": {
+        "createAt": "作成日時",
+        "guide": "ガイド",
+        "privacyPolicy": "プライバシーポリシー",
+        "termsOfServices": "利用規約",
+        "text": "コンテンツ",
+        "help": "ヘルプ",
+        "friendlyLinks": "友情リンク",
+        "articleList": "記事一覧",
+        "home": "ホーム",
+        "next": "次へ",
+        "previous": "前へ"
+      },
+      "HomeIframe": {
+        "title": "ファイナルナイトファンキン - リズムバトル",
+        "description": "激しいリズムバトルと挑戦的な対戦相手と共に、ファイナルナイトファンキンの興奮を体験してください。タイミングとリズムを完璧に仕上げて勝利を目指しましょう！",
+        "iframeTitle": "ゲームプレビュー",
+        "fullscreenButton": "全画面表示",
+        "shareButton": "共有",
+        "urlCopied": "URLがクリップボードにコピーされました！",
+        "downloadGame": "ゲームをダウンロード",
+        "playGame": "ゲームをプレイ"
+      },
+      "HomeFeatures": {
+        "gameTitle": "ファイナルナイトファンキン",
+        "whatIsTitle": "ファイナルナイトファンキンとは？",
+        "whatIsDescription": "ファイナルナイトファンキンは、ガールフレンドの心を勝ち取るためにラップバトルで競う、音楽とリズムのゲームです。彼女の父親であるベテランのミュージシャンや、他の挑戦的な対戦相手と対決してください。",
+        "howToPlayTitle": "遊び方",
+        "howToPlayStep1": "適切なタイミングで矢印を押して適切な音を出す。",
+        "howToPlayStep2": "歌を通してリズムを維持し、できるだけ少ない音符をミスする。",
+        "howToPlayStep3": "ストーリーモードで様々な対戦相手とラップバトルを勝ち、またはフリープレイモードで練習する。",
+        "keyFeaturesTitle": "主な機能",
+        "feature1Title": "挑戦的な対戦相手",
+        "feature1Description": "それぞれ独自のスタイルとリズムを持つ様々な対戦相手と対決する。",
+        "feature2Title": "ストーリーモード",
+        "feature2Description": "ガールフレンドの心を勝ち取るために、8週間の激しいラップバトルを進めます。",
+        "feature3Title": "フリープレイモード",
+        "feature3Description": "タイミングとリズムを完璧にするために、各曲を個別に練習する。",
+        "feature4Title": "複数の難易度レベル",
+        "feature4Description": "3つの難易度レベルから選択し、ハードモードでは極度の挑戦を受ける。"
+      },
+      "HomeFAQs": {
+        "title": "よくある質問"
+      },
+      "HomeRelatedVideo": {
+        "title": "ゲーム動画"
+      },
+      "HomeRecommendation": {
+        "title": "推奨ゲーム"
+      },
+      "HomeComments": {
+        "title": "プレイコメント"
+      },
+      "GamePage": {
+        "title": "全てのゲーム",
+        "description": "全てのゲーム",
+        "games": "ゲーム"
+      },
+      "CategoryPage": {
+        "categories": "カテゴリー",
+        "noCategories": "カテゴリーが見つかりません",
+        "viewMore": "もっと見る",
+        "page": "ページ"
+      }
+    }
+  }
+}
