@@ -1,7 +1,7 @@
 {
-  "title": "FreeGames - Gioca a Giochi Online Gratuiti Subito!",
-  "slogan": "🔥 Gioca istantaneamente a Giochi Gratuiti | HTML5 · Aggiornamenti Giornalieri · Comunità Globale",
-  "description": "Gioca all'istante con la nostra crescente libreria di giochi HTML5 gratuiti! Sparatorie, MMO, puzzle – tutti ottimizzati per un caricamento di 0,5 secondi. Scopri gli aggiornamenti giornalieri del gioco e unisciti a una fiorente comunità di giocatori globali. Inizia la tua avventura ora! 🎮✨",
+  "title": "GameFreeHub - Giochi Online Gratuiti | Gioca Ora!",
+  "slogan": "🔥 Giochi Gratuiti da Giocare Subito | HTML5 · Aggiornamenti Quotidiani · Comunità Globale",
+  "description": "Gioca istantaneamente con la nostra crescente libreria di giochi HTML5 gratuiti! Sparatorie, MMO, puzzle – tutti ottimizzati per un caricamento di 0,5 secondi. Scopri gli aggiornamenti quotidiani dei giochi e unisciti a una fiorente comunità di giocatori globali. Inizia la tua avventura ora! 🎮✨",
   "Loading": {
     "title": "Caricamento..."
   },
@@ -15,39 +15,39 @@
     "termsOfServices": "Termini di Servizio",
     "text": "Contenuto",
     "help": "Aiuto",
-    "friendlyLinks": "Collegamenti Utili",
+    "friendlyLinks": "Link Utili",
     "articleList": "Elenco Articoli",
     "home": "Home",
     "next": "Successivo",
-    "previous": "Precedente"
+    "previous": "Precendente"
   },
   "HomeIframe": {
     "title": "FreeGames - Gioca a Giochi Online Gratuiti",
-    "description": "Scopri una vasta gamma di giochi online gratuiti su FreeGames. Dalle avventure piene di azione ai rilassanti puzzle, c'è qualcosa per tutti. Inizia a giocare ora e goditi un divertimento senza fine!",
+    "description": "Scopri una vasta gamma di giochi online gratuiti su FreeGames. Da avventure ricche d'azione a rilassanti puzzle, c'è qualcosa per tutti. Inizia a giocare ora e goditi divertimento senza fine!",
     "iframeTitle": "Anteprima del Gioco",
     "fullscreenButton": "Schermo intero",
     "shareButton": "Condividi",
     "urlCopied": "URL copiato negli appunti!",
-    "downloadGame": "Scarica Gioco",
+    "downloadGame": "Scarica il Gioco",
     "playGame": "Gioca"
   },
   "HomeFeatures": {
-    "gameTitle": "FreeGames - Il Tuo Portale per il Divertimento Online Gratuito",
+    "gameTitle": "FreeGames - Il tuo Portale per il Divertimento Online Gratuito",
     "whatIsTitle": "Cos'è FreeGames?",
-    "whatIsDescription": "FreeGames è una piattaforma in cui puoi giocare a una varietà di giochi online gratuiti senza scaricarli. Divertiti con giochi di generi come Azione, Avventura, Puzzle e altro ancora.",
+    "whatIsDescription": "FreeGames è una piattaforma in cui puoi giocare a una varietà di giochi online gratuiti senza doverli scaricare. Goditi giochi di generi come Azione, Avventura, Puzzle e molto altro.",
     "howToPlayTitle": "Come Giocare",
-    "howToPlayStep1": "Scegli il tuo gioco preferito dalla collezione.",
-    "howToPlayStep2": "Fai clic sul gioco per iniziare a giocare all'istante.",
-    "howToPlayStep3": "Goditi un gameplay fluido senza alcun download.",
+    "howToPlayStep1": "Scegli il tuo gioco preferito dall'elenco.",
+    "howToPlayStep2": "Clicca sul gioco per iniziare a giocare istantaneamente.",
+    "howToPlayStep3": "Goditi un gameplay fluido senza download.",
     "keyFeaturesTitle": "Caratteristiche Principali",
     "feature1Title": "Ampia Varietà di Giochi",
-    "feature1Description": "Esplora giochi di diversi generi, tra cui Azione, Avventura, Puzzle e altro ancora.",
-    "feature2Title": "Nessun Download Necessario",
-    "feature2Description": "Gioca direttamente nel tuo browser senza scaricamenti.",
-    "feature3Title": "Gioco Gratuito",
-    "feature3Description": "Tutti i giochi sono completamente gratuiti, in qualsiasi momento e ovunque.",
-    "feature4Title": "Interfaccia Intuitiva",
-    "feature4Description": "Vivi un'esperienza di gioco fluida e intuitiva."
+    "feature1Description": "Esplora giochi di diversi generi, inclusi Azione, Avventura, Puzzle e altro ancora.",
+    "feature2Title": "Nessun Download Richieesto",
+    "feature2Description": "Gioca direttamente nel tuo browser senza download.",
+    "feature3Title": "Gioca Gratuitamente",
+    "feature3Description": "Tutti i giochi sono completamente gratuiti, in qualsiasi momento, ovunque.",
+    "feature4Title": "Interfaccia User-Friendly",
+    "feature4Description": "Goditi un'esperienza di gioco fluida e intuitiva."
   },
   "HomeFAQs": {
     "title": "FAQ"
@@ -59,7 +59,7 @@
     "title": "Raccomandati"
   },
   "HomeComments": {
-    "title": "Commenti sul Gioco"
+    "title": "Commenti sul gioco"
   },
   "GamePage": {
     "title": "Tutti i Giochi",
@@ -69,7 +69,7 @@
   "CategoryPage": {
     "categories": "Categorie",
     "noCategories": "Categorie non trovate",
-    "viewMore": "Visualizza di Più",
+    "viewMore": "Visualizza altro",
     "page": "Pagina"
   }
 }

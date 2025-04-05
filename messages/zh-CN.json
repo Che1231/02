@@ -1,9 +1,9 @@
 {
-  "title": "免费游戏 - 立即玩免费在线游戏！",
+  "title": "GameFreeHub - 免费在线游戏 | 现在就玩！",
   "slogan": "🔥 立即玩免费游戏 | HTML5 · 每日更新 · 全球社区",
-  "description": "立即畅玩我们不断增长的免费 HTML5 游戏库！射击游戏、MMO、益智游戏——所有游戏均经过优化，加载速度为 0.5 秒。 每日发现新游戏更新，并加入蓬勃发展的全球游戏社区。现在开始你的冒险！🎮✨",
+  "description": "立即玩我们不断增长的免费 HTML5 游戏库！射击游戏、MMO、益智游戏——所有游戏都经过优化，加载时间为 0.5 秒。 每日发现游戏更新，并加入蓬勃发展的全球游戏社区。现在开始你的冒险！ 🎮✨",
   "Loading": {
-    "title": "正在加载..."
+    "title": "加载中..."
   },
   "Navbar": {
     "title": "导航"
@@ -23,7 +23,7 @@
   },
   "HomeIframe": {
     "title": "免费游戏 - 玩免费在线游戏",
-    "description": "在 FreeGames 发现各种免费在线游戏。从动作冒险到轻松益智游戏，应有尽有。现在开始游戏，享受无穷乐趣！",
+    "description": "在 FreeGames 上发现各种免费在线游戏。从动作冒险到轻松益智游戏，每个玩家都能找到适合自己的游戏。现在开始玩，享受无穷的乐趣！",
     "iframeTitle": "游戏预览",
     "fullscreenButton": "全屏",
     "shareButton": "分享",
@@ -32,25 +32,25 @@
     "playGame": "玩游戏"
   },
   "HomeFeatures": {
-    "gameTitle": "免费游戏 - 您通往免费在线乐趣的大门",
-    "whatIsTitle": "什么是免费游戏？",
-    "whatIsDescription": "FreeGames 是一个平台，您可以在其中玩各种免费在线游戏，无需下载。享受动作、冒险、益智等类型游戏。",
-    "howToPlayTitle": "如何玩游戏",
+    "gameTitle": "FreeGames - 您通往免费在线乐趣的大门",
+    "whatIsTitle": "什么是 FreeGames？",
+    "whatIsDescription": "FreeGames 是一个平台，您可以在上面玩各种免费在线游戏，无需任何下载。享受动作、冒险、益智等不同类型的游戏。",
+    "howToPlayTitle": "如何玩",
     "howToPlayStep1": "从集合中选择您最喜欢的游戏。",
-    "howToPlayStep2": "点击游戏立即开始游戏。",
-    "howToPlayStep3": "享受无缝游戏体验，无需下载。",
+    "howToPlayStep2": "点击游戏即可立即开始游戏。",
+    "howToPlayStep3": "享受无缝的游戏体验，无需任何下载。",
     "keyFeaturesTitle": "主要功能",
     "feature1Title": "种类繁多的游戏",
-    "feature1Description": "探索来自多个类型（包括动作、冒险、益智游戏等）的游戏。",
+    "feature1Description": "探索多个游戏类型，包括动作、冒险、益智游戏等。",
     "feature2Title": "无需下载",
-    "feature2Description": "在浏览器中直接玩游戏，无需下载。",
+    "feature2Description": "直接在浏览器中玩游戏，无需下载。",
     "feature3Title": "免费游戏",
-    "feature3Description": "所有游戏随时随地都完全免费。",
-    "feature4Title": "用户友好界面",
-    "feature4Description": "享受顺畅直观的体验。"
+    "feature3Description": "所有游戏都完全免费，随时随地尽情畅玩。",
+    "feature4Title": "用户友好的界面",
+    "feature4Description": "享受流畅直观的游戏体验。"
   },
   "HomeFAQs": {
-    "title": "常见问题"
+    "title": "常见问题解答"
   },
   "HomeRelatedVideo": {
     "title": "游戏视频"
@@ -64,12 +64,12 @@
   "GamePage": {
     "title": "所有游戏",
     "description": "所有游戏",
-    "games": "游戏"
+    "games": "游戏列表"
   },
   "CategoryPage": {
-    "categories": "游戏类别",
-    "noCategories": "未找到游戏类别",
+    "categories": "游戏分类",
+    "noCategories": "未找到分类",
     "viewMore": "查看更多",
-    "page": "页码"
+    "page": "页面"
   }
 }

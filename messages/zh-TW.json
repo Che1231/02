@@ -1,7 +1,7 @@
 {
-  "title": "免費遊戲 - 立即暢玩免費線上遊戲！",
+  "title": "GameFreeHub - 免費線上遊戲 | 立即遊玩！",
   "slogan": "🔥 立即遊玩免費遊戲 | HTML5 · 每日更新 · 全球社群",
-  "description": "立即透過我們不斷成長的免費HTML5遊戲庫遊玩！射擊遊戲、MMO遊戲、益智遊戲 – 全部都經過優化，載入時間為 0.5 秒。 每日發現遊戲更新，並加入蓬勃發展的全球遊戲社群。 現在就開始您的冒險！🎮✨",
+  "description": "立即使用我們不斷增長的免費 HTML5 遊戲庫！射擊遊戲、MMO 遊戲、益智遊戲 – 所有遊戲都經過最佳化，加載時間為 0.5 秒。 每日探索遊戲更新，並加入蓬勃發展的全球遊戲社群。現在開始您的冒險！🎮✨",
   "Loading": {
     "title": "載入中..."
   },
@@ -9,8 +9,8 @@
     "title": "導覽列"
   },
   "Common": {
-    "createAt": "建立時間",
-    "guide": "指南",
+    "createAt": "建立於",
+    "guide": "指引",
     "privacyPolicy": "隱私權政策",
     "termsOfServices": "服務條款",
     "text": "內容",
@@ -22,8 +22,8 @@
     "previous": "上一頁"
   },
   "HomeIframe": {
-    "title": "免費遊戲 - 暢玩免費線上遊戲",
-    "description": "在FreeGames探索各種免費線上遊戲。 從動作冒險到放鬆益智遊戲，每個人都能找到適合自己的遊戲。 現在開始遊玩，享受無盡樂趣！",
+    "title": "免費遊戲 - 免費線上遊戲",
+    "description": "在 FreeGames 上探索各種免費線上遊戲。從動作冒險到放鬆益智，這裡總有一款適合您。現在開始遊戲，享受無盡的樂趣！",
     "iframeTitle": "遊戲預覽",
     "fullscreenButton": "全螢幕",
     "shareButton": "分享",
@@ -32,22 +32,22 @@
     "playGame": "遊玩遊戲"
   },
   "HomeFeatures": {
-    "gameTitle": "免費遊戲 - 免費線上遊戲的入門之門",
-    "whatIsTitle": "什麼是免費遊戲？",
-    "whatIsDescription": "FreeGames 是一個平台，您可以在此遊玩各種免費線上遊戲，無需下載。 享受動作、冒險、益智等各類遊戲。",
+    "gameTitle": "FreeGames - 免費線上遊戲的入口",
+    "whatIsTitle": "什麼是 FreeGames？",
+    "whatIsDescription": "FreeGames 是一個平台，您可以在上面遊玩各種免費線上遊戲，無需下載。享受動作、冒險、益智等各類遊戲。",
     "howToPlayTitle": "如何遊玩",
-    "howToPlayStep1": "從遊戲庫中選擇您喜愛的遊戲。",
-    "howToPlayStep2": "點擊遊戲立即開始遊玩。",
-    "howToPlayStep3": "享受無縫遊戲體驗，無需下載。",
+    "howToPlayStep1": "從遊戲庫中選擇您喜歡的遊戲。",
+    "howToPlayStep2": "點擊遊戲即可立即開始遊玩。",
+    "howToPlayStep3": "享受無縫的遊戲體驗，無需下載。",
     "keyFeaturesTitle": "主要功能",
-    "feature1Title": "多樣的遊戲選擇",
+    "feature1Title": "種類繁多的遊戲",
     "feature1Description": "探索包含動作、冒險、益智等多種類型的遊戲。",
     "feature2Title": "無需下載",
-    "feature2Description": "直接在瀏覽器中遊玩遊戲，無需下載。",
+    "feature2Description": "在瀏覽器中直接遊玩遊戲，無需下載。",
     "feature3Title": "免費遊玩",
-    "feature3Description": "所有遊戲完全免費遊玩，隨時隨地。",
+    "feature3Description": "所有遊戲都完全免費遊玩，隨時隨地。",
     "feature4Title": "使用者友善介面",
-    "feature4Description": "享受順暢且直覺的遊戲體驗。"
+    "feature4Description": "享受順暢且直觀的遊戲體驗。"
   },
   "HomeFAQs": {
     "title": "常見問題集"
@@ -56,7 +56,7 @@
     "title": "遊戲影片"
   },
   "HomeRecommendation": {
-    "title": "推薦遊戲"
+    "title": "推薦"
   },
   "HomeComments": {
     "title": "遊戲評論"
@@ -67,9 +67,9 @@
     "games": "遊戲"
   },
   "CategoryPage": {
-    "categories": "分類",
-    "noCategories": "找不到分類",
-    "viewMore": "檢視更多",
+    "categories": "類別",
+    "noCategories": "找不到類別",
+    "viewMore": "查看更多",
     "page": "頁面"
   }
 }

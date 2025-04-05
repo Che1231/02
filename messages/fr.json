@@ -1,12 +1,12 @@
 {
-  "title": "FreeGames - Jouez aux jeux en ligne gratuits instantanément !",
+  "title": "GameFreeHub - Jeux en ligne gratuits | Jouez maintenant !",
   "slogan": "🔥 Jeux gratuits à jouer instantanément | HTML5 · Mises à jour quotidiennes · Communauté mondiale",
-  "description": "Jouez instantanément avec notre bibliothèque croissante de jeux HTML5 gratuits ! Shooters, MMO, puzzles — tous optimisés pour un chargement en 0,5 seconde. Découvrez des mises à jour de jeux quotidiennes et rejoignez une communauté mondiale de joueurs florissante. Commencez votre aventure maintenant ! 🎮✨",
+  "description": "Jouez instantanément avec notre bibliothèque croissante de jeux HTML5 gratuits ! Tireurs, MMORPG, puzzles — tous optimisés pour un chargement de 0,5 seconde. Découvrez les mises à jour quotidiennes des jeux et rejoignez une communauté mondiale de joueurs dynamique. Commencez votre aventure maintenant ! 🎮✨",
   "Loading": {
     "title": "Chargement…"
   },
   "Navbar": {
-    "title": "Navigation"
+    "title": "Nav"
   },
   "Common": {
     "createAt": "Créé à",
@@ -15,39 +15,39 @@
     "termsOfServices": "Conditions d'utilisation",
     "text": "Contenu",
     "help": "Aide",
-    "friendlyLinks": "Liens Amis",
+    "friendlyLinks": "Liens amis",
     "articleList": "Liste des articles",
     "home": "Accueil",
     "next": "Suivant",
     "previous": "Précédent"
   },
   "HomeIframe": {
-    "title": "FreeGames - Jouez aux jeux en ligne gratuits",
-    "description": "Découvrez une large gamme de jeux en ligne gratuits sur FreeGames. Des aventures palpitantes aux énigmes relaxantes, il y en a pour tous les goûts. Commencez à jouer maintenant et profitez d'un plaisir sans fin !",
+    "title": "Jeux gratuits - Jouez à des jeux en ligne gratuits",
+    "description": "Découvrez une large gamme de jeux en ligne gratuits sur FreeGames. Des aventures pleines d'action aux puzzles relaxants, il y en a pour tous les goûts. Commencez à jouer maintenant et profitez d'un plaisir sans fin !",
     "iframeTitle": "Aperçu du jeu",
     "fullscreenButton": "Plein écran",
     "shareButton": "Partager",
-    "urlCopied": "URL copiée dans le presse-papier !",
+    "urlCopied": "URL copiée dans le presse-papiers !",
     "downloadGame": "Télécharger le jeu",
-    "playGame": "Jouer"
+    "playGame": "Jouer au jeu"
   },
   "HomeFeatures": {
-    "gameTitle": "FreeGames - Votre portail pour le divertissement en ligne gratuit",
+    "gameTitle": "FreeGames - Votre porte d'entrée vers le plaisir en ligne gratuit",
     "whatIsTitle": "Qu'est-ce que FreeGames ?",
-    "whatIsDescription": "FreeGames est une plateforme où vous pouvez jouer à une variété de jeux en ligne gratuits sans aucun téléchargement. Profitez de jeux de genres comme l'Action, l'Aventure, les Puzzles et plus encore.",
+    "whatIsDescription": "FreeGames est une plateforme où vous pouvez jouer à une variété de jeux en ligne gratuits sans aucun téléchargement. Profitez de jeux de genres tels que Action, Aventure, Puzzle et plus encore.",
     "howToPlayTitle": "Comment jouer",
     "howToPlayStep1": "Choisissez votre jeu préféré parmi la collection.",
     "howToPlayStep2": "Cliquez sur le jeu pour commencer à jouer instantanément.",
-    "howToPlayStep3": "Profitez d'un gameplay fluide sans aucun téléchargement.",
+    "howToPlayStep3": "Profitez d'une expérience de jeu fluide sans aucun téléchargement.",
     "keyFeaturesTitle": "Principales caractéristiques",
-    "feature1Title": "Large variété de jeux",
-    "feature1Description": "Découvrez des jeux de plusieurs genres, notamment Action, Aventure, Puzzles et plus encore.",
+    "feature1Title": "Grande variété de jeux",
+    "feature1Description": "Explorez des jeux de plusieurs genres, notamment Action, Aventure, Puzzle et plus encore.",
     "feature2Title": "Aucun téléchargement requis",
     "feature2Description": "Jouez directement dans votre navigateur sans aucun téléchargement.",
-    "feature3Title": "Jeux gratuits",
-    "feature3Description": "Tous les jeux sont totalement gratuits à jouer, à tout moment, partout.",
+    "feature3Title": "Gratuit à jouer",
+    "feature3Description": "Tous les jeux sont entièrement gratuits à jouer, n'importe où, n'importe quand.",
     "feature4Title": "Interface conviviale",
-    "feature4Description": "Profitez d'une expérience de jeu fluide et intuitive."
+    "feature4Description": "Profitez d'une expérience de jeu transparente et intuitive."
   },
   "HomeFAQs": {
     "title": "FAQ"
