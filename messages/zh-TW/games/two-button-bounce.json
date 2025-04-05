@@ -1,0 +1,77 @@
+{
+  "two-button-bounce": {
+    "title": "雙按鈕彈跳 - 免費線上益智遊戲",
+    "slogan": "一起跳躍、彈跳並解謎！",
+    "description": "雙按鈕彈跳是一款令人興奮的益智遊戲，您控制兩個角色在平台上奔跑。目標是找到正確的時機跳躍和彈跳牆壁，解開謎題並到達出口。合作至關重要，因為一個角色幫助另一個角色拿到鑰匙。與朋友一起玩，享受挑戰！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友善連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "雙按鈕彈跳",
+      "description": "體驗雙按鈕彈跳的刺激，這是一款需要時間和團隊合作的合作益智遊戲。現在就開始玩，看看你是否能解開所有謎題！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "雙按鈕彈跳",
+      "whatIsTitle": "雙按鈕彈跳是什麼？",
+      "whatIsDescription": "雙按鈕彈跳是一款有趣且具有挑戰性的益智遊戲，您控制兩個角色。一起努力解開謎題並到達出口！",
+      "howToPlayTitle": "如何遊戲",
+      "howToPlayStep1": "控制平台上奔跑的兩個角色。",
+      "howToPlayStep2": "找到正確的時機跳躍和彈跳牆壁。",
+      "howToPlayStep3": "互相幫助拿到鑰匙並到達出口。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "合作遊戲玩法",
+      "feature1Description": "與朋友一起玩，一起解開謎題。",
+      "feature2Title": "具有挑戰性的謎題",
+      "feature2Description": "找到正確的時機跳躍和彈跳牆壁。",
+      "feature3Title": "動態角色",
+      "feature3Description": "控制兩個具有獨特能力的角色。",
+      "feature4Title": "適合所有年齡段的娛樂",
+      "feature4Description": "享受適合兒童和成人一起玩的遊戲。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題集"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "未找到類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

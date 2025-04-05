@@ -707,7 +707,7 @@
     "visible": true
   },
   {
-    "title": "Papa’s Taco Mia",
+    "title": "Papa's Taco Mia",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743322933137-hvgqv.png",
     "url": "/games/papa-s-taco-mia",
     "category": "Spiel",
@@ -735,7 +735,7 @@
     "visible": true
   },
   {
-    "title": "Papa’s Freezeria",
+    "title": "Papa's Freezeria",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743322625066-4t6r2.png",
     "url": "/games/papa-s-freezeria",
     "category": "Spiel",
@@ -805,7 +805,7 @@
     "visible": true
   },
   {
-    "title": "Papa’s Pastaria",
+    "title": "Papa's Pastaria",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743322843395-qauuel.png",
     "url": "/games/papa-s-pastaria",
     "category": "Spiel",
@@ -1333,6 +1333,13 @@
     "title": "Zombie Rush",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-05/images/1743838543425-budom.avif",
     "url": "/games/zombie-rush",
+    "category": "Spiel",
+    "visible": true
+  },
+  {
+    "title": "Two Button Bounce",
+    "cover": "https://public-image.fafafa.ai/games/2025-04-05/images/1743839034889-glezc.46",
+    "url": "/games/two-button-bounce",
     "category": "Spiel",
     "visible": true
   }

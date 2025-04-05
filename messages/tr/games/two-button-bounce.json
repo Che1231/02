@@ -1,0 +1,77 @@
+{
+  "two-button-bounce": {
+    "title": "İki Düğme Sekmesi - Ücretsiz Çevrimiçi Bulmaca Oyunu Oyna",
+    "slogan": "Zıplayın, Sekin ve Bulmacaları Birlikte Çözün!",
+    "description": "İki Düğme Sekmesi, platformda koşan iki karakteri kontrol ettiğiniz heyecan verici bir bulmaca oyunudur. Hedef, bulmacaları çözmek ve çıkışa ulaşmak için duvarlara sıçramak ve sekmek için doğru zamanlamayı bulmaktır. Bir karakter diğerinin anahtarı almasına yardım etmesi gerektiği için işbirliği önemlidir. Bir arkadaşınızla oynayın ve zorluğa meydan okuyun!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yardımcı",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "İki Düğme Sekmesi",
+      "description": "Zamanlama ve ekip çalışmasının gerekli olduğu işbirlikçi bir bulmaca oyununda İki Düğme Sekmesi'nin heyecanını yaşayın. Şimdi oynayın ve tüm bulmacaları çözebilecek misiniz görün!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "İki Düğme Sekmesi",
+      "whatIsTitle": "İki Düğme Sekmesi Nedir?",
+      "whatIsDescription": "İki Düğme Sekmesi, iki karakteri kontrol ettiğiniz eğlenceli ve zorlu bir bulmaca oyunudur. Bulmacaları çözmek ve çıkışa ulaşmak için birlikte çalışın!",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Platformda koşan iki karakteri kontrol edin.",
+      "howToPlayStep2": "Duvarlara sıçramak ve sekmek için doğru zamanlamayı bulun.",
+      "howToPlayStep3": "Birbirinize anahtar almanıza ve çıkışa ulaşmanıza yardımcı olun.",
+      "keyFeaturesTitle": "Temel Özellikler",
+      "feature1Title": "İşbirlikçi Oyun",
+      "feature1Description": "Bir arkadaşınızla oynayın ve bulmacaları birlikte çözün.",
+      "feature2Title": "Zorlu Bulmacalar",
+      "feature2Description": "Duvarlara sıçramak ve sekmek için doğru zamanlamayı bulun.",
+      "feature3Title": "Dinamik Karakterler",
+      "feature3Description": "Benzersiz yeteneklere sahip iki karakteri kontrol edin.",
+      "feature4Title": "Tüm Yaş Gruplarına Uygun",
+      "feature4Description": "Hem çocuklar hem de yetişkinler için eğlenceli bir oyunun tadını çıkarın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiye Eder"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Gör",
+      "page": "Sayfa"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "two-button-bounce": {
+    "title": "2ボタンバウンス - 無料オンラインパズルゲームをプレイ",
+    "slogan": "ジャンプ、バウンス、パズルを一緒に解きましょう！",
+    "description": "2ボタンバウンスは、2人のキャラクターがプラットフォームを駆け回るエキサイティングなパズルゲームです。パズルを解き、出口に到達するために、壁にジャンプしてバウンドする適切なタイミングを見つけることが目標です。協力が鍵を握り、片方のキャラクターがもう一方のキャラクターが鍵を得るのを助けます。友達とプレイして、挑戦を楽しんでください！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "2ボタンバウンス",
+      "description": "タイミングとチームワークが不可欠な協力型パズルゲーム、2ボタンバウンスの興奮を体験してください。今すぐプレイして、すべての謎を解くことができるか見てください！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "2ボタンバウンス",
+      "whatIsTitle": "2ボタンバウンスとは？",
+      "whatIsDescription": "2ボタンバウンスは、2人のキャラクターを操作する楽しい挑戦的なパズルゲームです。一緒にパズルを解いて出口を目指しましょう！",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "プラットフォームを走る2人のキャラクターを操作します。",
+      "howToPlayStep2": "壁にジャンプし、バウンドする適切なタイミングを見つけてください。",
+      "howToPlayStep3": "互いに助け合って鍵を得て、出口を目指しましょう。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "協力プレイ",
+      "feature1Description": "友達とプレイして、一緒にパズルを解きましょう。",
+      "feature2Title": "挑戦的なパズル",
+      "feature2Description": "壁にジャンプしてバウンドする適切なタイミングを見つけてください。",
+      "feature3Title": "ダイナミックなキャラクター",
+      "feature3Description": "それぞれの能力を持つ2人のキャラクターを操作します。",
+      "feature4Title": "あらゆる年齢層に楽しめる",
+      "feature4Description": "子供から大人まで、楽しめるゲームです。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

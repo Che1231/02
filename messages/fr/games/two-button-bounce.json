@@ -1,0 +1,77 @@
+{
+  "two-button-bounce": {
+    "title": "Deux Boutons Saut - Jouer à un jeu de puzzle en ligne gratuit",
+    "slogan": "Sauter, rebondir et résoudre des puzzles ensemble !",
+    "description": "Deux Boutons Saut est un jeu de puzzle passionnant où vous contrôlez deux personnages qui courent sur une plate-forme. L'objectif est de trouver le bon moment pour sauter et rebondir sur les murs afin de résoudre des énigmes et d'atteindre la sortie. La coopération est essentielle, car un personnage aide l'autre à obtenir la clé. Jouez avec un ami et appréciez le défi !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Deux Boutons Saut",
+      "description": "Découvrez le plaisir de Deux Boutons Saut, un jeu de puzzle coopératif où le timing et le travail d'équipe sont essentiels. Jouez maintenant et essayez de résoudre toutes les énigmes !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Deux Boutons Saut",
+      "whatIsTitle": "Qu'est-ce que Deux Boutons Saut ?",
+      "whatIsDescription": "Deux Boutons Saut est un jeu de puzzle amusant et stimulant où vous contrôlez deux personnages. Travaillez ensemble pour résoudre les énigmes et atteindre la sortie !",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Contrôlez deux personnages qui courent sur une plate-forme.",
+      "howToPlayStep2": "Trouvez le bon moment pour sauter et rebondir sur les murs.",
+      "howToPlayStep3": "Aidez-vous mutuellement à obtenir la clé et à atteindre la sortie.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Gameplay coopératif",
+      "feature1Description": "Jouez avec un ami et résolvez les énigmes ensemble.",
+      "feature2Title": "Énigmes stimulantes",
+      "feature2Description": "Trouvez le bon moment pour sauter et rebondir sur les murs.",
+      "feature3Title": "Personnages dynamiques",
+      "feature3Description": "Contrôlez deux personnages avec des capacités uniques.",
+      "feature4Title": "Amusant pour tous les âges",
+      "feature4Description": "Profitez d'un jeu amusant aussi bien pour les enfants que pour les adultes."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

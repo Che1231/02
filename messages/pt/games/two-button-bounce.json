@@ -1,0 +1,77 @@
+{
+  "two-button-bounce": {
+    "title": "Salto Duplo - Jogo de Quebra-Cabeça Online Grátis",
+    "slogan": "Pule, salte e resolva quebra-cabeças juntos!",
+    "description": "Salto Duplo é um emocionante jogo de quebra-cabeça onde você controla dois personagens que correm em uma plataforma. O objetivo é encontrar o momento certo para pular e saltar nas paredes para resolver quebra-cabeças e alcançar a saída. A cooperação é fundamental, pois um personagem ajuda o outro a pegar a chave. Jogue com um amigo e aproveite o desafio!",
+    "Loading": {
+      "title": "Carregando..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links úteis",
+      "articleList": "Lista de Artigos",
+      "home": "Página inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Salto Duplo",
+      "description": "Experimente a emoção do Salto Duplo, um jogo de quebra-cabeça cooperativo onde o tempo e o trabalho em equipe são essenciais. Jogue agora e veja se você consegue resolver todos os quebra-cabeças!",
+      "iframeTitle": "Prévia do jogo",
+      "fullscreenButton": "Tela cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Salto Duplo",
+      "whatIsTitle": "O que é Salto Duplo?",
+      "whatIsDescription": "Salto Duplo é um divertido e desafiador jogo de quebra-cabeça onde você controla dois personagens. Trabalhem juntos para resolver quebra-cabeças e chegar à saída!",
+      "howToPlayTitle": "Como jogar",
+      "howToPlayStep1": "Controle dois personagens correndo em uma plataforma.",
+      "howToPlayStep2": "Encontre o momento certo para pular e saltar nas paredes.",
+      "howToPlayStep3": "Ajudem-se mutuamente a pegar a chave e chegar à saída.",
+      "keyFeaturesTitle": "Principais características",
+      "feature1Title": "Jogabilidade cooperativa",
+      "feature1Description": "Jogue com um amigo e resolvam quebra-cabeças juntos.",
+      "feature2Title": "Quebra-cabeças desafiadores",
+      "feature2Description": "Encontre o ritmo certo para pular e saltar nas paredes.",
+      "feature3Title": "Personagens dinâmicos",
+      "feature3Description": "Controle dois personagens com habilidades únicas.",
+      "feature4Title": "Diversão para todas as idades",
+      "feature4Description": "Aproveite um jogo divertido tanto para crianças quanto para adultos."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do jogo"
+    },
+    "GamePage": {
+      "title": "Todos os jogos",
+      "description": "Todos os jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}
