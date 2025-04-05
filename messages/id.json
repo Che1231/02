@@ -1,7 +1,7 @@
 {
-  "title": "FreeGames - Mainkan Game Online Gratis Kapan Pun, Di Mana Pun",
-  "slogan": "Jelajahi Dunia Game Gratis di Ujung Jari Anda",
-  "description": "FreeGames menawarkan koleksi besar game online gratis di berbagai genre termasuk Aksi, Petualangan, Tembak-menembak, Balap, dan banyak lagi. Baik Anda menyukai pengalaman multipemain yang menegangkan atau game puzzle yang menenangkan, FreeGames pasti ada sesuatu untuk semua orang. Nikmati gameplay yang lancar tanpa perlu download, dan ikuti kesenangan tanpa akhir hari ini!",
+  "title": "FreeGames - Mainkan Permainan Online Gratis Seketika!",
+  "slogan": "🔥 Mainkan Permainan Gratis Seketika | HTML5 · Pembaruan Harian · Komunitas Global",
+  "description": "Mainkan seketika dengan perpustakaan permainan HTML5 gratis kami yang berkembang! Penembak, MMO, teka-teki—semua dioptimalkan untuk pemuatan 0,5 detik. Temukan pembaruan game harian, dan bergabunglah dengan komunitas game global yang berkembang. Mulailah petualangan Anda sekarang! 🎮✨",
   "Loading": {
     "title": "Memuat..."
   },
@@ -9,7 +9,7 @@
     "title": "Navigasi"
   },
   "Common": {
-    "createAt": "Dibuat Pada",
+    "createAt": "Buat Di",
     "guide": "Panduan",
     "privacyPolicy": "Kebijakan Privasi",
     "termsOfServices": "Ketentuan Layanan",
@@ -22,38 +22,38 @@
     "previous": "Sebelumnya"
   },
   "HomeIframe": {
-    "title": "FreeGames - Mainkan Game Online Gratis",
-    "description": "Temukan berbagai game online gratis di FreeGames. Dari petualangan penuh aksi hingga puzzle yang menenangkan, ada sesuatu untuk semua orang. Mulailah bermain sekarang dan nikmati kesenangan tanpa akhir!",
-    "iframeTitle": "Pratinjau Game",
+    "title": "FreeGames - Mainkan Permainan Online Gratis",
+    "description": "Temukan berbagai macam permainan online gratis di FreeGames. Dari petualangan aksi hingga teka-teki santai, ada sesuatu untuk semua orang. Mulailah bermain sekarang dan nikmati kesenangan tanpa akhir!",
+    "iframeTitle": "Pratinjau Permainan",
     "fullscreenButton": "Layar Penuh",
     "shareButton": "Bagikan",
     "urlCopied": "URL disalin ke clipboard!",
-    "downloadGame": "Unduh Game",
-    "playGame": "Mainkan Game"
+    "downloadGame": "Unduh Permainan",
+    "playGame": "Mainkan Permainan"
   },
   "HomeFeatures": {
     "gameTitle": "FreeGames - Gerbang Anda Menuju Keseruan Online Gratis",
     "whatIsTitle": "Apa itu FreeGames?",
-    "whatIsDescription": "FreeGames adalah platform di mana Anda dapat memainkan berbagai game online gratis tanpa perlu download. Nikmati game dari berbagai genre seperti Aksi, Petualangan, Puzzle, dan banyak lagi.",
+    "whatIsDescription": "FreeGames adalah platform tempat Anda dapat memainkan berbagai macam permainan online gratis tanpa pengunduhan. Nikmati permainan dari genre seperti Aksi, Petualangan, Teka-teki, dan lainnya.",
     "howToPlayTitle": "Cara Bermain",
-    "howToPlayStep1": "Pilih game favorit Anda dari koleksi.",
-    "howToPlayStep2": "Klik game untuk mulai bermain langsung.",
-    "howToPlayStep3": "Nikmati gameplay yang lancar tanpa perlu download.",
+    "howToPlayStep1": "Pilih permainan favorit Anda dari koleksi.",
+    "howToPlayStep2": "Klik permainan untuk mulai bermain seketika.",
+    "howToPlayStep3": "Nikmati gameplay yang lancar tanpa perlu mengunduh.",
     "keyFeaturesTitle": "Fitur Utama",
-    "feature1Title": "Berbagai Macam Game",
-    "feature1Description": "Jelajahi game dari berbagai genre termasuk Aksi, Petualangan, Puzzle, dan banyak lagi.",
-    "feature2Title": "Tidak Perlu Download",
-    "feature2Description": "Mainkan game langsung di browser Anda tanpa perlu download.",
+    "feature1Title": "Berbagai Macam Permainan",
+    "feature1Description": "Jelajahi permainan dari berbagai genre termasuk Aksi, Petualangan, Teka-teki, dan lainnya.",
+    "feature2Title": "Tidak Memerlukan Pengunduhan",
+    "feature2Description": "Mainkan permainan langsung di browser Anda tanpa perlu mengunduh.",
     "feature3Title": "Gratis Dimainkan",
-    "feature3Description": "Semua game sepenuhnya gratis untuk dimainkan, kapan saja, di mana saja.",
+    "feature3Description": "Semua permainan sepenuhnya gratis dimainkan, kapan saja, di mana saja.",
     "feature4Title": "Antarmuka Ramah Pengguna",
-    "feature4Description": "Nikmati pengalaman bermain game yang lancar dan intuitif."
+    "feature4Description": "Nikmati pengalaman bermain yang lancar dan intuitif."
   },
   "HomeFAQs": {
-    "title": "FAQ"
+    "title": "Tanya Jawab Umum"
   },
   "HomeRelatedVideo": {
-    "title": "Video Game"
+    "title": "Video Permainan"
   },
   "HomeRecommendation": {
     "title": "Rekomendasi"
@@ -62,14 +62,14 @@
     "title": "Komentar Permainan"
   },
   "GamePage": {
-    "title": "Semua Game",
-    "description": "Semua Game",
-    "games": "Game"
+    "title": "Semua Permainan",
+    "description": "Semua Permainan",
+    "games": "Permainan"
   },
   "CategoryPage": {
     "categories": "Kategori",
     "noCategories": "Tidak ada kategori yang ditemukan",
-    "viewMore": "Lihat Lebih Banyak",
+    "viewMore": "Lihat Lainnya",
     "page": "Halaman"
   }
 }

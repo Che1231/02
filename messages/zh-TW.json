@@ -1,15 +1,15 @@
 {
-  "title": "免費遊戲 - 隨時隨地暢玩免費線上遊戲",
-  "slogan": "探索指尖上的免費遊戲世界",
-  "description": "FreeGames 提供各式各樣免費線上遊戲，包含動作、冒險、射擊、賽車等多種類型。無論您喜愛刺激的多人遊戲還是輕鬆的益智遊戲，FreeGames 都能滿足您的需求。享受無需下載的順暢遊戲體驗，現在就投入無盡的樂趣之中！",
+  "title": "免費遊戲 - 立即暢玩免費線上遊戲！",
+  "slogan": "🔥 立即遊玩免費遊戲 | HTML5 · 每日更新 · 全球社群",
+  "description": "立即透過我們不斷成長的免費HTML5遊戲庫遊玩！射擊遊戲、MMO遊戲、益智遊戲 – 全部都經過優化，載入時間為 0.5 秒。 每日發現遊戲更新，並加入蓬勃發展的全球遊戲社群。 現在就開始您的冒險！🎮✨",
   "Loading": {
     "title": "載入中..."
   },
   "Navbar": {
-    "title": "導覽"
+    "title": "導覽列"
   },
   "Common": {
-    "createAt": "建立於",
+    "createAt": "建立時間",
     "guide": "指南",
     "privacyPolicy": "隱私權政策",
     "termsOfServices": "服務條款",
@@ -22,35 +22,35 @@
     "previous": "上一頁"
   },
   "HomeIframe": {
-    "title": "FreeGames - 暢玩免費線上遊戲",
-    "description": "在 FreeGames 發現各種免費線上遊戲。從充滿動作的冒險遊戲到輕鬆的益智遊戲，這裡應有盡有。現在就開始遊戲，享受無限樂趣！",
+    "title": "免費遊戲 - 暢玩免費線上遊戲",
+    "description": "在FreeGames探索各種免費線上遊戲。 從動作冒險到放鬆益智遊戲，每個人都能找到適合自己的遊戲。 現在開始遊玩，享受無盡樂趣！",
     "iframeTitle": "遊戲預覽",
     "fullscreenButton": "全螢幕",
     "shareButton": "分享",
     "urlCopied": "網址已複製到剪貼簿！",
     "downloadGame": "下載遊戲",
-    "playGame": "開始遊戲"
+    "playGame": "遊玩遊戲"
   },
   "HomeFeatures": {
-    "gameTitle": "FreeGames - 免費線上遊戲的最佳入口",
-    "whatIsTitle": "FreeGames 是什麼？",
-    "whatIsDescription": "FreeGames 是一個平台，讓您可以無需下載即可玩各種免費線上遊戲。享受動作、冒險、益智等多種遊戲類型。",
+    "gameTitle": "免費遊戲 - 免費線上遊戲的入門之門",
+    "whatIsTitle": "什麼是免費遊戲？",
+    "whatIsDescription": "FreeGames 是一個平台，您可以在此遊玩各種免費線上遊戲，無需下載。 享受動作、冒險、益智等各類遊戲。",
     "howToPlayTitle": "如何遊玩",
-    "howToPlayStep1": "從遊戲庫中挑選您喜歡的遊戲。",
-    "howToPlayStep2": "點擊遊戲開始即時遊玩。",
-    "howToPlayStep3": "享受無需下載的順暢遊戲體驗。",
+    "howToPlayStep1": "從遊戲庫中選擇您喜愛的遊戲。",
+    "howToPlayStep2": "點擊遊戲立即開始遊玩。",
+    "howToPlayStep3": "享受無縫遊戲體驗，無需下載。",
     "keyFeaturesTitle": "主要功能",
-    "feature1Title": "豐富多樣的遊戲",
-    "feature1Description": "探索多種遊戲類型，包括動作、冒險、益智遊戲等。",
+    "feature1Title": "多樣的遊戲選擇",
+    "feature1Description": "探索包含動作、冒險、益智等多種類型的遊戲。",
     "feature2Title": "無需下載",
     "feature2Description": "直接在瀏覽器中遊玩遊戲，無需下載。",
     "feature3Title": "免費遊玩",
-    "feature3Description": "所有遊戲完全免費，隨時隨地都能遊玩。",
+    "feature3Description": "所有遊戲完全免費遊玩，隨時隨地。",
     "feature4Title": "使用者友善介面",
-    "feature4Description": "享受順暢且直觀的遊戲體驗。"
+    "feature4Description": "享受順暢且直覺的遊戲體驗。"
   },
   "HomeFAQs": {
-    "title": "常見問題"
+    "title": "常見問題集"
   },
   "HomeRelatedVideo": {
     "title": "遊戲影片"
@@ -67,8 +67,8 @@
     "games": "遊戲"
   },
   "CategoryPage": {
-    "categories": "類別",
-    "noCategories": "找不到類別",
+    "categories": "分類",
+    "noCategories": "找不到分類",
     "viewMore": "檢視更多",
     "page": "頁面"
   }

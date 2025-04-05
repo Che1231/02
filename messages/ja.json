@@ -1,9 +1,9 @@
 {
-  "title": "FreeGames -  いつでもどこでも無料オンラインゲームをプレイ",
-  "slogan": "指先で無料ゲームの世界を探検",
-  "description": "FreeGamesは、アクション、アドベンチャー、シューティング、レースなど、様々なジャンルの無料オンラインゲームを豊富に取り揃えています。スリリングなマルチプレイヤー体験やリラックスできるパズルゲームをお楽しみいただけます。ダウンロード不要でシームレスなゲームプレイをお楽しみください。今日から無限の楽しみを体験してください！",
+  "title": "FreeGames - 無料オンラインゲームを今すぐプレイ！",
+  "slogan": "🔥即時プレイ無料ゲーム | HTML5 · 日々更新 · グローバルコミュニティ",
+  "description": "無料HTML5ゲームの増え続けるライブラリで即座にプレイ！シューティング、MMO、パズル—すべて0.5秒のロードに最適化されています。毎日のゲームアップデートを発見し、活気あふれるグローバルなゲームコミュニティに参加しましょう。今すぐあなたの冒険を始めましょう！🎮✨",
   "Loading": {
-    "title": "読み込み中…"
+    "title": "読み込み中..."
   },
   "Navbar": {
     "title": "ナビゲーション"
@@ -12,10 +12,10 @@
     "createAt": "作成日時",
     "guide": "ガイド",
     "privacyPolicy": "プライバシーポリシー",
-    "termsOfServices": "サービス利用規約",
+    "termsOfServices": "利用規約",
     "text": "コンテンツ",
     "help": "ヘルプ",
-    "friendlyLinks": "友好リンク",
+    "friendlyLinks": "友情リンク",
     "articleList": "記事一覧",
     "home": "ホーム",
     "next": "次へ",
@@ -23,9 +23,9 @@
   },
   "HomeIframe": {
     "title": "FreeGames - 無料オンラインゲームをプレイ",
-    "description": "FreeGamesで、幅広い無料オンラインゲームを発見しましょう。アクション満点のアドベンチャーからリラックスできるパズルまで、誰もが楽しめるゲームがあります。今すぐプレイして無限の楽しみを体験してください！",
+    "description": "FreeGamesで幅広い無料オンラインゲームを発見してください。アクション満点のアドベンチャーからリラックスできるパズルまで、すべての人に何かがあります。今すぐプレイして、無限の楽しい時間を体験してください！",
     "iframeTitle": "ゲームプレビュー",
-    "fullscreenButton": "フルスクリーン",
+    "fullscreenButton": "全画面表示",
     "shareButton": "共有",
     "urlCopied": "URLがクリップボードにコピーされました！",
     "downloadGame": "ゲームをダウンロード",
@@ -34,18 +34,18 @@
   "HomeFeatures": {
     "gameTitle": "FreeGames - 無料オンラインゲームの入り口",
     "whatIsTitle": "FreeGamesとは？",
-    "whatIsDescription": "FreeGamesは、ダウンロードすることなく、様々な無料オンラインゲームをプレイできるプラットフォームです。アクション、アドベンチャー、パズルなど、様々なジャンルのゲームをお楽しみください。",
+    "whatIsDescription": "FreeGamesは、ダウンロードなしでさまざまな無料オンラインゲームをプレイできるプラットフォームです。アクション、アドベンチャー、パズルなど、様々なジャンルのゲームをお楽しみください。",
     "howToPlayTitle": "遊び方",
-    "howToPlayStep1": "コレクションから好きなゲームを選んでください。",
-    "howToPlayStep2": "ゲームをクリックして、すぐにゲームをプレイを始めます。",
-    "howToPlayStep3": "ダウンロード不要でシームレスなゲームプレイをお楽しみください。",
-    "keyFeaturesTitle": "主な特長",
+    "howToPlayStep1": "コレクションからお気に入りのゲームを選びましょう。",
+    "howToPlayStep2": "ゲームをクリックして、すぐにプレイを始めましょう。",
+    "howToPlayStep3": "ダウンロードなしでシームレスなゲームプレイをお楽しみください。",
+    "keyFeaturesTitle": "主な機能",
     "feature1Title": "多様なゲーム",
-    "feature1Description": "アクション、アドベンチャー、パズルなど、様々なジャンルのゲームを探検してください。",
+    "feature1Description": "アクション、アドベンチャー、パズルなど、複数のジャンルからのゲームを探索してください。",
     "feature2Title": "ダウンロード不要",
-    "feature2Description": "ダウンロードすることなく、ブラウザで直接ゲームをプレイできます。",
+    "feature2Description": "ダウンロードなしで、ブラウザから直接ゲームをプレイできます。",
     "feature3Title": "無料プレイ",
-    "feature3Description": "全てのゲームは、いつでもどこでも完全に無料でプレイできます。",
+    "feature3Description": "すべてのゲームは、いつでも、どこでも完全に無料でプレイできます。",
     "feature4Title": "ユーザーフレンドリーなインターフェース",
     "feature4Description": "シームレスで直感的なゲーム体験をお楽しみください。"
   },
@@ -53,17 +53,17 @@
     "title": "よくある質問"
   },
   "HomeRelatedVideo": {
-    "title": "ゲームビデオ"
+    "title": "ゲーム動画"
   },
   "HomeRecommendation": {
     "title": "おすすめ"
   },
   "HomeComments": {
-    "title": "ゲームコメント"
+    "title": "プレイコメント"
   },
   "GamePage": {
-    "title": "全てのゲーム",
-    "description": "全てのゲーム",
+    "title": "すべてのゲーム",
+    "description": "すべてのゲーム",
     "games": "ゲーム"
   },
   "CategoryPage": {
