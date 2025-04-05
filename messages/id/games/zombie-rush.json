@@ -1,0 +1,77 @@
+{
+  "zombie-rush": {
+    "title": "Zombie Rush - Permainan Aksi Roguelike",
+    "slogan": "Bertahan dari Kiamat Zombie!",
+    "description": "Zombie Rush adalah permainan aksi Roguelike yang menegangkan di mana Anda dapat memainkan pahlawan unik yang bertarung melawan gelombang zombie. Gunakan permata yang diperoleh dari mengalahkan zombie untuk meningkatkan kemampuan Anda. Gunakan senjata otomatis, hindari serangan, dan pimpin pertarungan! Seiring kemajuan Anda, Anda akan semakin kuat, menemukan kemampuan baru, dan meningkatkan keterampilan khusus Anda. Semakin sering Anda bermain, semakin menantang dengan zombie yang semakin berbahaya. Uji keterampilan dan keberanian Anda di Zombie Rush hari ini!",
+    "Loading": {
+      "title": "Memuat..."
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Zombie Rush",
+      "description": "Mainkan Zombie Rush, permainan aksi Roguelike di mana Anda bertarung melawan gelombang zombie, tingkatkan kemampuan Anda, dan pimpin pertarungan untuk bertahan dari kiamat!",
+      "iframeTitle": "Pratinjau Game",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Game",
+      "playGame": "Mainkan Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Zombie Rush",
+      "whatIsTitle": "Apa itu Zombie Rush?",
+      "whatIsDescription": "Zombie Rush adalah permainan aksi Roguelike di mana Anda bermain sebagai pahlawan unik yang bertarung melawan gelombang zombie. Gunakan permata yang diperoleh dari mengalahkan zombie untuk meningkatkan kemampuan dan pimpin pertarungan!",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Pilih pahlawan Anda dan lengkapi senjata otomatis.",
+      "howToPlayStep2": "Kalahkan zombie untuk mendapatkan permata dan tingkatkan kemampuan Anda.",
+      "howToPlayStep3": "Hindari serangan dan pimpin pertarungan untuk bertahan dari kiamat!",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Pahlawan Unik",
+      "feature1Description": "Mainkan pahlawan unik, masing-masing dengan kemampuan dan gaya permainan mereka sendiri.",
+      "feature2Title": "Gameplay Roguelike",
+      "feature2Description": "Rasakan level yang dihasilkan secara acak dan kesulitan yang meningkat dengan setiap gelombang zombie.",
+      "feature3Title": "Peningkatan Kemampuan",
+      "feature3Description": "Gunakan permata yang diperoleh dari mengalahkan zombie untuk meningkatkan kemampuan dan keterampilan khusus Anda.",
+      "feature4Title": "Pertempuran yang Menantang",
+      "feature4Description": "Lengkapilah senjata otomatis, hindari serangan, dan pimpin pertarungan untuk bertahan dari kiamat!"
+    },
+    "HomeFAQs": {
+      "title": "Pertanyaan Umum"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Game"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Permainan",
+      "description": "Semua Permainan",
+      "games": "Permainan"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Lebih Banyak",
+      "page": "Halaman"
+    }
+  }
+}

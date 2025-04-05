@@ -1,0 +1,77 @@
+{
+  "zombie-rush": {
+    "title": "Zombie Rush - Juego de Acción Roguelike",
+    "slogan": "¡Sobrevive al Apocalipsis Zombie!",
+    "description": "Zombie Rush es un emocionante juego de acción Roguelike donde puedes jugar como héroes únicos luchando contra oleadas de zombies. Usa las gemas obtenidas derrotando a los zombies para mejorar tus habilidades. ¡Equipa armas automáticas, esquiva los ataques y lidera la lucha! A medida que progresas, te volverás más fuerte, descubrirás nuevas ventajas y mejorarás tus habilidades especiales. Cuanto más juegues, más desafiante se volverá con zombies cada vez más peligrosos. ¡Prueba tus habilidades y coraje en Zombie Rush hoy mismo!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Términos de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Zombie Rush",
+      "description": "¡Juega a Zombie Rush, un juego de acción Roguelike donde luchas contra oleadas de zombies, mejoras tus habilidades y lideras la lucha para sobrevivir al apocalipsis!",
+      "iframeTitle": "Vista Previa del Juego",
+      "fullscreenButton": "Pantalla Completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar Juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Zombie Rush",
+      "whatIsTitle": "¿Qué es Zombie Rush?",
+      "whatIsDescription": "Zombie Rush es un juego de acción Roguelike donde juegas como héroes únicos luchando contra oleadas de zombies. ¡Usa las gemas obtenidas derrotando a los zombies para mejorar tus habilidades y liderar la lucha!",
+      "howToPlayTitle": "Cómo Jugar",
+      "howToPlayStep1": "Elige tu héroe y equipa armas automáticas.",
+      "howToPlayStep2": "Derrota a los zombies para ganar gemas y mejorar tus habilidades.",
+      "howToPlayStep3": "¡Esquiva los ataques y lidera la lucha para sobrevivir al apocalipsis!",
+      "keyFeaturesTitle": "Características Clave",
+      "feature1Title": "Héroes Únicos",
+      "feature1Description": "Juega como héroes únicos, cada uno con sus propias habilidades y estilos de juego.",
+      "feature2Title": "Jugabilidad Roguelike",
+      "feature2Description": "Experimenta niveles generados proceduralmente y un aumento de la dificultad con cada oleada de zombies.",
+      "feature3Title": "Mejoras de Habilidades",
+      "feature3Description": "Usa las gemas obtenidas derrotando a los zombies para mejorar tus habilidades y habilidades especiales.",
+      "feature4Title": "Combate Desafiante",
+      "feature4Description": "¡Equipa armas automáticas, esquiva los ataques y lidera la lucha para sobrevivir al apocalipsis!"
+    },
+    "HomeFAQs": {
+      "title": "Preguntas Frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del Juego"
+    },
+    "GamePage": {
+      "title": "Todos los Juegos",
+      "description": "Todos los Juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver Más",
+      "page": "Página"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "zombie-rush": {
+    "title": "Zombie Rush - Jeu d'action en Roguelike",
+    "slogan": "Surveillez l'Apocalypse Zombie !",
+    "description": "Zombie Rush est un jeu d'action en Roguelike palpitant où vous pouvez jouer en tant que héros uniques affrontant des vagues de zombies. Utilisez les gemmes gagnées en vainquant les zombies pour améliorer vos capacités. Équipez-vous d'armes automatiques, esquivez les attaques et menez le combat ! Au fur et à mesure que vous progressez, vous deviendrez plus fort, découvrirez de nouveaux avantages et améliorerez vos compétences spéciales. Plus vous jouez, plus le jeu devient difficile avec des zombies de plus en plus dangereux. Mettez vos compétences et votre courage à l'épreuve dans Zombie Rush dès aujourd'hui !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des Articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Zombie Rush",
+      "description": "Jouez à Zombie Rush, un jeu d'action en Roguelike où vous affrontez des vagues de zombies, améliorez vos capacités et menez le combat pour survivre à l'apocalypse !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Zombie Rush",
+      "whatIsTitle": "Qu'est-ce que Zombie Rush ?",
+      "whatIsDescription": "Zombie Rush est un jeu d'action en Roguelike dans lequel vous incarnez des héros uniques affrontant des vagues de zombies. Utilisez les gemmes gagnées en vainquant les zombies pour améliorer vos compétences et mener le combat !",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Choisissez votre héros et équipez-vous d'armes automatiques.",
+      "howToPlayStep2": "Vainquez les zombies pour gagner des gemmes et améliorer vos capacités.",
+      "howToPlayStep3": "Esquivez les attaques et menez le combat pour survivre à l'apocalypse !",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Héros uniques",
+      "feature1Description": "Jouez en tant que héros uniques, chacun avec ses propres aptitudes et styles de jeu.",
+      "feature2Title": "Gameplay Roguelike",
+      "feature2Description": "Découvrez des niveaux générés de manière procédurale et une difficulté croissante avec chaque vague de zombies.",
+      "feature3Title": "Améliorations de compétences",
+      "feature3Description": "Utilisez les gemmes gagnées en vainquant les zombies pour améliorer vos aptitudes et compétences spéciales.",
+      "feature4Title": "Combat difficile",
+      "feature4Description": "Équipez-vous d'armes automatiques, esquivez les attaques et menez le combat pour survivre à l'apocalypse !"
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "zombie-rush": {
+    "title": "Zombie Rush - Roguelike Action Game",
+    "slogan": "Survive the Zombie Apocalypse!",
+    "description": "Zombie Rush is a thrilling Roguelike action game where you can play as unique heroes battling through waves of zombies. Use gems earned from defeating zombies to enhance your abilities. Equip automatic weapons, dodge attacks, and lead the fight! As you progress, you'll grow stronger, discover new perks, and upgrade your special skills. The more you play, the more challenging it becomes with increasingly dangerous zombies. Test your skills and courage in Zombie Rush today!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Zombie Rush",
+      "description": "Play Zombie Rush, a Roguelike action game where you battle through waves of zombies, enhance your abilities, and lead the fight to survive the apocalypse!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Zombie Rush",
+      "whatIsTitle": "What is Zombie Rush?",
+      "whatIsDescription": "Zombie Rush is a Roguelike action game where you play as unique heroes battling through waves of zombies. Use gems earned from defeating zombies to enhance your abilities and lead the fight!",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Choose your hero and equip automatic weapons.",
+      "howToPlayStep2": "Defeat zombies to earn gems and enhance your abilities.",
+      "howToPlayStep3": "Dodge attacks and lead the fight to survive the apocalypse!",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Unique Heroes",
+      "feature1Description": "Play as unique heroes, each with their own abilities and playstyles.",
+      "feature2Title": "Roguelike Gameplay",
+      "feature2Description": "Experience procedurally generated levels and increasing difficulty with each wave of zombies.",
+      "feature3Title": "Ability Upgrades",
+      "feature3Description": "Use gems earned from defeating zombies to enhance your abilities and special skills.",
+      "feature4Title": "Challenging Combat",
+      "feature4Description": "Equip automatic weapons, dodge attacks, and lead the fight to survive the apocalypse!"
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "zombie-rush": {
+    "title": "Zombie Rush – Roguelike-Actionspiel",
+    "slogan": "Überlebe die Zombie-Apokalypse!",
+    "description": "Zombie Rush ist ein spannendes Roguelike-Actionspiel, in dem Sie als einzigartige Helden gegen Wellen von Zombies kämpfen. Verwenden Sie die Edelsteine, die Sie beim Besiegen von Zombies erhalten, um Ihre Fähigkeiten zu verbessern. Rüst automatische Waffen aus, meide Angriffe und führe den Kampf an! Während Sie Fortschritte machen, werden Sie stärker, entdecken neue Vorteile und verbessern Ihre Spezialfähigkeiten. Je mehr Sie spielen, desto herausfordernder wird es, mit immer gefährlicheren Zombies. Testen Sie heute Ihre Fähigkeiten und Ihren Mut in Zombie Rush!",
+    "Loading": {
+      "title": "Lädt..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Zombie Rush",
+      "description": "Spielen Sie Zombie Rush, ein Roguelike-Actionspiel, in dem Sie gegen Wellen von Zombies kämpfen, Ihre Fähigkeiten verbessern und den Kampf führen, um die Apokalypse zu überleben!",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Zombie Rush",
+      "whatIsTitle": "Was ist Zombie Rush?",
+      "whatIsDescription": "Zombie Rush ist ein Roguelike-Actionspiel, in dem Sie als einzigartige Helden gegen Wellen von Zombies kämpfen. Verwenden Sie die Edelsteine, die Sie durch das Besiegen von Zombies erhalten, um Ihre Fähigkeiten zu verbessern und den Kampf zu führen!",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Wählen Sie Ihren Helden und rüsten Sie automatische Waffen aus.",
+      "howToPlayStep2": "Besiegen Sie Zombies, um Edelsteine zu erhalten und Ihre Fähigkeiten zu verbessern.",
+      "howToPlayStep3": "Meiden Sie Angriffe und führen Sie den Kampf, um die Apokalypse zu überleben!",
+      "keyFeaturesTitle": "Wichtige Merkmale",
+      "feature1Title": "Einzigartige Helden",
+      "feature1Description": "Spielen Sie als einzigartige Helden, jeder mit eigenen Fähigkeiten und Spielstilen.",
+      "feature2Title": "Roguelike-Gameplay",
+      "feature2Description": "Erleben Sie prozedural generierte Level und zunehmende Schwierigkeit mit jeder Welle von Zombies.",
+      "feature3Title": "Fähigkeitsverbesserungen",
+      "feature3Description": "Verwenden Sie Edelsteine, die Sie durch das Besiegen von Zombies erhalten, um Ihre Fähigkeiten und Spezialfähigkeiten zu verbessern.",
+      "feature4Title": "Herausfordernder Kampf",
+      "feature4Description": "Rüsten Sie automatische Waffen aus, meiden Sie Angriffe und führen Sie den Kampf, um die Apokalypse zu überleben!"
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

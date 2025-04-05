@@ -1,0 +1,120 @@
+{
+  "name": "Zombie Rush",
+  "pagePath": "/games/zombie-rush",
+  "pageName": "zombie-rush",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://kdata1.com/2023/12/zombie_rush/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken42.png",
+      "content": "This game is awesome! Auto-guns and hordes of zombies? Sign me up!"
+    },
+    {
+      "author": "QuickRevolver_Z",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/QuickRevolver_Z.png",
+      "content": "Zombie Rush is surprisingly addictive. Like, seriously, I can't stop playing!"
+    },
+    {
+      "author": "AmongUsWithSkills",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AmongUsWithSkills.png",
+      "content": "Is it just me, or does this get ridiculously hard? The zombie waves are relentless."
+    },
+    {
+      "author": "ShadowKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/ShadowKatana_X.png",
+      "content": "Love the roguelike elements! Each run feels fresh and exciting, gotta enhance my skills."
+    },
+    {
+      "author": "NoobMaster8000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster8000.png",
+      "content": "LOL, I keep dying, but I keep coming back! This game has a certain charm, you know?"
+    },
+    {
+      "author": "Xx_DarkAura_xX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Xx_DarkAura_xX.png",
+      "content": "Seriously good. The automatic weapons make you feel like a badass against the undead."
+    },
+    {
+      "author": "PhantomLeviathan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomLeviathan99.png",
+      "content": "Gotta go fast, gotta survive! This game tests your reflexes. Can I survive another wave?"
+    },
+    {
+      "author": "SavageBroadsword_M",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBroadsword_M.png",
+      "content": "The gems you earn for killing zombies are really useful in this game, upgrading is critical."
+    },
+    {
+      "author": "EldenRingBearer",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/EldenRingBearer.png",
+      "content": "Zombie Rush, eh? Never thought I'd enjoy killing zombies this much. What a blast!"
+    },
+    {
+      "author": "CosmicPhoenix87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicPhoenix87.png",
+      "content": "This is a simple but fun game. It Gets challenging and the zombies are relentless."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-05/images/1743838543425-budom.avif",
+  "page_path": "/games/zombie-rush",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Best"
+  ],
+  "createdTime": "2025-04-05 15:35:57"
+}

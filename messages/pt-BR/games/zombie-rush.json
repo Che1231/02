@@ -1,0 +1,77 @@
+{
+  "zombie-rush": {
+    "title": "Zombie Rush - Jogo de Ação Roguelike",
+    "slogan": "Sobreviva ao Apocalipse Zumbi!",
+    "description": "Zombie Rush é um emocionante jogo de ação Roguelike onde você pode jogar como heróis únicos, lutando contra ondas de zumbis. Use gemas ganhas ao derrotar zumbis para aprimorar suas habilidades. Equipamentos armas automáticas, desvie de ataques e lidere a luta! À medida que você progride, ficará mais forte, descobrirá novos benefícios e aprimorará suas habilidades especiais. Quanto mais você joga, mais desafiador se torna, com zumbis cada vez mais perigosos. Teste suas habilidades e coragem em Zombie Rush hoje mesmo!",
+    "Loading": {
+      "title": "Carregando..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Úteis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Zombie Rush",
+      "description": "Jogue Zombie Rush, um jogo de ação Roguelike onde você luta contra ondas de zumbis, melhora suas habilidades e lidera a luta para sobreviver ao apocalipse!",
+      "iframeTitle": "Prévia do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Zombie Rush",
+      "whatIsTitle": "O que é Zombie Rush?",
+      "whatIsDescription": "Zombie Rush é um jogo de ação Roguelike onde você joga como heróis únicos lutando contra ondas de zumbis. Use gemas ganhas ao derrotar zumbis para aprimorar suas habilidades e liderar a luta!",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Escolha seu herói e equipe armas automáticas.",
+      "howToPlayStep2": "Derrote zumbis para ganhar gemas e aprimorar suas habilidades.",
+      "howToPlayStep3": "Desvie de ataques e lidere a luta para sobreviver ao apocalipse!",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Heróis Únicos",
+      "feature1Description": "Jogue como heróis únicos, cada um com suas próprias habilidades e estilos de jogo.",
+      "feature2Title": "Jogabilidade Roguelike",
+      "feature2Description": "Experimente níveis gerados proceduralmente e dificuldade crescente com cada onda de zumbis.",
+      "feature3Title": "Aprimoramentos de Habilidades",
+      "feature3Description": "Use gemas ganhas ao derrotar zumbis para aprimorar suas habilidades e habilidades especiais.",
+      "feature4Title": "Combate Desafiante",
+      "feature4Description": "Equipamentos armas automáticas, desvie de ataques e lidere a luta para sobreviver ao apocalipse!"
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "zombie-rush": {
+    "title": "Zombie Rush - Gioco d'Azione Roguelike",
+    "slogan": "Sopravvivi all'Apocalisse Zombi!",
+    "description": "Zombie Rush è un emozionante gioco d'azione Roguelike in cui puoi giocare come eroi unici che combattono contro ondate di zombi. Usa le gemme guadagnate sconfiggendo gli zombi per migliorare le tue abilità. Equipaggia armi automatiche, schiva gli attacchi e guida la battaglia! Man mano che avanzi, diventerai più forte, scoprirai nuove abilità e potenzi i tuoi poteri speciali. Più giochi, più difficile diventa, con zombi sempre più pericolosi. Metti alla prova le tue abilità e il coraggio in Zombie Rush oggi!",
+    "Loading": {
+      "title": "Caricamento..."
+    },
+    "Navbar": {
+      "title": "Navigazione"
+    },
+    "Common": {
+      "createAt": "Creato il",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla Privacy",
+      "termsOfServices": "Termini di Servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Collegamenti Utili",
+      "articleList": "Elenco Articoli",
+      "home": "Home",
+      "next": "Successivo",
+      "previous": "Precedente"
+    },
+    "HomeIframe": {
+      "title": "Zombie Rush",
+      "description": "Gioca a Zombie Rush, un gioco d'azione Roguelike in cui combatti contro ondate di zombi, potenzi le tue abilità e guida la lotta per sopravvivere all'apocalisse!",
+      "iframeTitle": "Anteprima del Gioco",
+      "fullscreenButton": "Schermo intero",
+      "shareButton": "Condividi",
+      "urlCopied": "URL copiato negli appunti!",
+      "downloadGame": "Scarica il Gioco",
+      "playGame": "Gioca"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Zombie Rush",
+      "whatIsTitle": "Cos'è Zombie Rush?",
+      "whatIsDescription": "Zombie Rush è un gioco d'azione Roguelike in cui giochi come eroi unici che combattono contro ondate di zombi. Usa le gemme guadagnate sconfiggendo gli zombi per migliorare le tue abilità e guidare la lotta!",
+      "howToPlayTitle": "Come Giocare",
+      "howToPlayStep1": "Scegli il tuo eroe ed equipaggia le armi automatiche.",
+      "howToPlayStep2": "Sconfiggi gli zombi per guadagnare gemme e migliorare le tue abilità.",
+      "howToPlayStep3": "Schiva gli attacchi e guida la lotta per sopravvivere all'apocalisse!",
+      "keyFeaturesTitle": "Caratteristiche Principali",
+      "feature1Title": "Eroi Unici",
+      "feature1Description": "Gioca come eroi unici, ognuno con le sue abilità e stili di gioco.",
+      "feature2Title": "Gameplay Roguelike",
+      "feature2Description": "Vivi livelli generati proceduralmente e una crescente difficoltà con ogni ondata di zombi.",
+      "feature3Title": "Potenziamenti delle Abilità",
+      "feature3Description": "Usa le gemme guadagnate sconfiggendo gli zombi per potenziare le tue abilità e le tue abilità speciali.",
+      "feature4Title": "Combattimento Sfida",
+      "feature4Description": "Equipaggia armi automatiche, schiva gli attacchi e guida la lotta per sopravvivere all'apocalisse!"
+    },
+    "HomeFAQs": {
+      "title": "Domande Frequenti"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Consigliati"
+    },
+    "HomeComments": {
+      "title": "Commenti sul Gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i Giochi",
+      "description": "Tutti i Giochi",
+      "games": "Giochi"
+    },
+    "CategoryPage": {
+      "categories": "Categorie",
+      "noCategories": "Nessuna categoria trovata",
+      "viewMore": "Visualizza di Più",
+      "page": "Pagina"
+    }
+  }
+}

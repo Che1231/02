@@ -1,0 +1,77 @@
+{
+  "zombie-rush": {
+    "title": "Trò chơi hành động Roguelike Zombie Rush",
+    "slogan": "Sống sót trước đại dịch Zombie!",
+    "description": "Zombie Rush là một trò chơi hành động Roguelike hồi hộp, nơi bạn có thể chơi với các anh hùng độc đáo để chiến đấu với hàng loạt zombie. Sử dụng các viên ngọc kiếm được từ việc tiêu diệt zombie để nâng cao khả năng của bạn. Trang bị vũ khí tự động, né tránh tấn công và lãnh đạo cuộc chiến! Khi bạn tiến bộ, bạn sẽ mạnh mẽ hơn, khám phá các phần thưởng mới và nâng cấp kỹ năng đặc biệt của mình. Càng chơi, trò chơi càng trở nên khó khăn hơn với những con zombie ngày càng nguy hiểm. Hãy thử tài năng và lòng can đảm của bạn trong Zombie Rush ngay hôm nay!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Đường dẫn"
+    },
+    "Common": {
+      "createAt": "Ngày tạo",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Zombie Rush",
+      "description": "Chơi Zombie Rush, một trò chơi hành động Roguelike nơi bạn chiến đấu với làn sóng zombie, nâng cao khả năng của mình và lãnh đạo cuộc chiến để sống sót trước đại dịch!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào bộ nhớ đệm!",
+      "downloadGame": "Tải xuống trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Zombie Rush",
+      "whatIsTitle": "Zombie Rush là gì?",
+      "whatIsDescription": "Zombie Rush là một trò chơi hành động Roguelike nơi bạn vào vai các anh hùng độc đáo để chiến đấu với hàng loạt zombie. Sử dụng các viên ngọc kiếm được từ việc tiêu diệt zombie để nâng cao khả năng và lãnh đạo cuộc chiến!",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Chọn anh hùng của bạn và trang bị vũ khí tự động.",
+      "howToPlayStep2": "Tiêu diệt zombie để kiếm ngọc và nâng cao khả năng của bạn.",
+      "howToPlayStep3": "Né tránh tấn công và lãnh đạo cuộc chiến để sống sót trước đại dịch!",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Các anh hùng độc đáo",
+      "feature1Description": "Chơi với các anh hùng độc đáo, mỗi người có khả năng và phong cách chơi riêng.",
+      "feature2Title": "Gameplay Roguelike",
+      "feature2Description": "Trải nghiệm các cấp độ được tạo ngẫu nhiên và độ khó tăng dần với mỗi làn sóng zombie.",
+      "feature3Title": "Nâng cấp khả năng",
+      "feature3Description": "Sử dụng các viên ngọc kiếm được từ việc tiêu diệt zombie để nâng cao khả năng và kỹ năng đặc biệt của bạn.",
+      "feature4Title": "Chiến đấu đầy thách thức",
+      "feature4Description": "Trang bị vũ khí tự động, né tránh tấn công và lãnh đạo cuộc chiến để sống sót trước đại dịch!"
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các thể loại",
+      "noCategories": "Không tìm thấy các thể loại nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

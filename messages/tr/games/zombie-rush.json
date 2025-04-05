@@ -1,0 +1,77 @@
+{
+  "zombie-rush": {
+    "title": "Zombi Saldirası - Rastgele Eylem Oyunu",
+    "slogan": "Zombi Kıyametinin Hayatta Kalın!",
+    "description": "Zombi Saldirası, benzersiz kahramanlar olarak oynayabileceğiniz ve zombiler dalgalarıyla mücadele edebileceğiniz heyecan verici bir Rastgele Eylem oyunudur. Zombileri yenerek kazandığınız taşları yeteneklerinizi geliştirmek için kullanın. Otomatik silahlar kullanın, saldırıları savuşturun ve savaşı yönetin! İlerledikçe daha güçlü hale gelecek, yeni yetenekler keşfedecek ve özel becerilerinizi geliştireceksiniz. Oynadıkça, giderek daha tehlikeli zombilerle daha zorlu hale gelecektir. Bugün Zombi Saldirası'nda becerilerinizi ve cesaretinizi test edin!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti Çubuğu"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Rehber",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Zombi Saldirası",
+      "description": "Zombi Saldirası'nı oynayın, zombiler dalgalarıyla savaştığınız, yeteneklerinizi geliştirirken kıyameti atlatmak için savaşı yönettiğiniz bir rastgele eylem oyunudur!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Zombi Saldirası",
+      "whatIsTitle": "Zombi Saldirası Nedir?",
+      "whatIsDescription": "Zombi Saldirası, benzersiz kahramanlar olarak oynayabileceğiniz ve zombiler dalgalarıyla savaştığınız, yeteneklerinizi geliştirdiğiniz ve kıyameti atlatmak için savaşı yönettiğiniz bir rastgele eylem oyunudur!",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Kahramanınızı seçin ve otomatik silahlarınızı kullanın.",
+      "howToPlayStep2": "Zombileri yenerek taş kazanın ve yeteneklerinizi geliştirin.",
+      "howToPlayStep3": "Saldırılara karşı savunun ve kıyameti atlatmak için savaşı yönetin!",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Benzersiz Kahramanlar",
+      "feature1Description": "Her biri kendine özgü yetenekleri ve oyun tarzları olan benzersiz kahramanlar olarak oynayın.",
+      "feature2Title": "Rastgele Oyun",
+      "feature2Description": "Her zombi dalgasıyla birlikte kademeli olarak değişen zorluklarla ve rastgele üretilen seviyelerin keyfini çıkarın.",
+      "feature3Title": "Yetenek Geliştirmeleri",
+      "feature3Description": "Zombileri yenerek kazandığınız taşları yeteneklerinizi ve özel becerilerinizi geliştirmek için kullanın.",
+      "feature4Title": "Zorlu Savaş",
+      "feature4Description": "Otomatik silahlar kullanın, saldırıları savuşturun ve kıyameti atlatmak için savaşı yönetin!"
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

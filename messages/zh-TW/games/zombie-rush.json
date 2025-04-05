@@ -1,0 +1,77 @@
+{
+  "zombie-rush": {
+    "title": "殭屍狂潮 - 流氓動作遊戲",
+    "slogan": "挺過殭屍末日！",
+    "description": "《殭屍狂潮》是一款令人興奮的 Roguelike 動作遊戲，您可以扮演獨特的英雄，與一波波殭屍作戰。利用擊敗殭屍獲得的寶石來提升您的能力。配備自動武器，躲避攻擊，並領導戰鬥！隨著遊戲進度，您將變得更強大，發現新的獎勵，並升級您的特殊技能。遊戲越玩越難，殭屍的危險性也隨之增加。現在就來《殭屍狂潮》測試您的技能與勇氣！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "殭屍狂潮",
+      "description": "玩《殭屍狂潮》，一款 Roguelike 動作遊戲，您將與一波波殭屍作戰，提升您的能力，並領導戰鬥，以求在末日中生存！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "殭屍狂潮",
+      "whatIsTitle": "什麼是殭屍狂潮？",
+      "whatIsDescription": "《殭屍狂潮》是一款 Roguelike 動作遊戲，您將扮演獨特的英雄，與一波波殭屍作戰。利用擊敗殭屍獲得的寶石來提升能力並領導戰鬥！",
+      "howToPlayTitle": "如何遊戲？",
+      "howToPlayStep1": "選擇您的英雄並配備自動武器。",
+      "howToPlayStep2": "擊敗殭屍以獲得寶石並提升您的能力。",
+      "howToPlayStep3": "躲避攻擊，並領導戰鬥，以求在末日中生存！",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "獨特的英雄",
+      "feature1Description": "扮演獨特的英雄，每個英雄都有其獨特的技能和遊戲風格。",
+      "feature2Title": "Roguelike 遊戲模式",
+      "feature2Description": "體驗程序生成的關卡和隨著每一波殭屍而增加的難度。",
+      "feature3Title": "能力升級",
+      "feature3Description": "使用擊敗殭屍獲得的寶石來提升您的能力和特殊技能。",
+      "feature4Title": "具有挑戰性的戰鬥",
+      "feature4Description": "配備自動武器，躲避攻擊，並領導戰鬥，以求在末日中生存！"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦遊戲"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}
