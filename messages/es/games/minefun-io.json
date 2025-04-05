@@ -1,0 +1,77 @@
+{
+  "minefun-io": {
+    "title": "MineFun.io - Juego de Aventura Online Gratis",
+    "slogan": "¡Explora un vibrante Mundo de Bloques!",
+    "description": "¡MineFun.io es un juego online que te lleva a un vibrante mundo de bloques lleno de aventura! ¡Comienza con el modo parkour, donde puedes poner a prueba tus habilidades saltando, corriendo y esquivando obstáculos en plataformas difíciles! Elige entre una variedad de mapas geniales, desde complejos turísticos de islas hasta el clásico mundo de Obby. ¡Gana monedas para obtener skins increíbles y personalizar tu personaje! ¿Quieres jugar con amigos? Únete a salas privadas o comparte tu código de sala para jugar juntos. ¿Estás listo para divertirte?",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Términos de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "MineFun.io - Juego de Aventura Online Gratis",
+      "description": "¡MineFun.io es un juego online que te lleva a un vibrante mundo de bloques lleno de aventura! ¡Comienza con el modo parkour, donde puedes poner a prueba tus habilidades saltando, corriendo y esquivando obstáculos en plataformas difíciles! Elige entre una variedad de mapas geniales, desde complejos turísticos de islas hasta el clásico mundo de Obby. ¡Gana monedas para obtener skins increíbles y personalizar tu personaje! ¿Quieres jugar con amigos? Únete a salas privadas o comparte tu código de sala para jugar juntos. ¿Estás listo para divertirte?",
+      "iframeTitle": "Vista Previa del Juego",
+      "fullscreenButton": "Pantalla Completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar Juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "MineFun.io - Juego de Aventura Online Gratis",
+      "whatIsTitle": "¿Qué es MineFun.io?",
+      "whatIsDescription": "¡MineFun.io es un juego online que te lleva a un vibrante mundo de bloques lleno de aventura! ¡Comienza con el modo parkour, donde puedes poner a prueba tus habilidades saltando, corriendo y esquivando obstáculos en plataformas difíciles!",
+      "howToPlayTitle": "Cómo Jugar",
+      "howToPlayStep1": "Comienza con el modo parkour.",
+      "howToPlayStep2": "Salta, corre y esquiva obstáculos en plataformas difíciles.",
+      "howToPlayStep3": "Gana monedas para obtener skins increíbles y personalizar tu personaje.",
+      "keyFeaturesTitle": "Características Clave",
+      "feature1Title": "Modo Parkour",
+      "feature1Description": "Pon a prueba tus habilidades saltando, corriendo y esquivando obstáculos.",
+      "feature2Title": "Mapas Geniales",
+      "feature2Description": "Elige entre una variedad de mapas geniales, desde complejos turísticos de islas hasta el clásico mundo de Obby.",
+      "feature3Title": "Gana Monedas",
+      "feature3Description": "Gana monedas para obtener skins increíbles y personalizar tu personaje.",
+      "feature4Title": "Jugar con Amigos",
+      "feature4Description": "Únete a salas privadas o comparte tu código de sala para jugar juntos."
+    },
+    "HomeFAQs": {
+      "title": "¿Preguntas Frecuentes?"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del Juego"
+    },
+    "GamePage": {
+      "title": "Todos los Juegos",
+      "description": "Todos los Juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver Más",
+      "page": "Página"
+    }
+  }
+}

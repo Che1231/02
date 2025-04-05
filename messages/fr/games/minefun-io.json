@@ -1,0 +1,77 @@
+{
+  "minefun-io": {
+    "title": "MineFun.io - Jeu d'aventure en ligne gratuit",
+    "slogan": "Explorez un monde de blocs vibrant !",
+    "description": "MineFun.io est un jeu en ligne qui vous plonge dans un monde de blocs vibrant et plein d'aventure ! Commencez par le mode parkour, où vous pouvez tester vos compétences en sautant, courant et en évitant les obstacles sur des plates-formes délicates. Choisissez parmi une variété de cartes sympas, des stations balnéaires insulaires au classique monde Obby. Gagnez des pièces pour obtenir de superbes skins et personnaliser votre personnage. Envie de jouer avec des amis ? Rejoignez des salles privées ou partagez votre code de salle pour jouer ensemble. Prêt pour du plaisir ?",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amicaux",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "MineFun.io - Jeu d'aventure en ligne gratuit",
+      "description": "MineFun.io est un jeu en ligne qui vous plonge dans un monde de blocs vibrant et plein d'aventure ! Commencez par le mode parkour, où vous pouvez tester vos compétences en sautant, courant et en évitant les obstacles sur des plates-formes délicates. Choisissez parmi une variété de cartes sympas, des stations balnéaires insulaires au classique monde Obby. Gagnez des pièces pour obtenir de superbes skins et personnaliser votre personnage. Envie de jouer avec des amis ? Rejoignez des salles privées ou partagez votre code de salle pour jouer ensemble. Prêt pour du plaisir ?",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "MineFun.io - Jeu d'aventure en ligne gratuit",
+      "whatIsTitle": "Qu'est-ce que MineFun.io ?",
+      "whatIsDescription": "MineFun.io est un jeu en ligne qui vous plonge dans un monde de blocs vibrant et plein d'aventure ! Commencez par le mode parkour, où vous pouvez tester vos compétences en sautant, courant et en évitant les obstacles sur des plates-formes délicates.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Commencez par le mode parkour.",
+      "howToPlayStep2": "Sautez, courez et évitez les obstacles sur des plates-formes délicates.",
+      "howToPlayStep3": "Gagnez des pièces pour obtenir de superbes skins et personnaliser votre personnage.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Mode parkour",
+      "feature1Description": "Testez vos compétences en sautant, courant et en évitant les obstacles.",
+      "feature2Title": "Cartes sympas",
+      "feature2Description": "Choisissez parmi une variété de cartes sympas, des stations balnéaires insulaires au classique monde Obby.",
+      "feature3Title": "Gagner des pièces",
+      "feature3Description": "Gagnez des pièces pour obtenir de superbes skins et personnaliser votre personnage.",
+      "feature4Title": "Jouer avec des amis",
+      "feature4Description": "Rejoignez des salles privées ou partagez votre code de salle pour jouer ensemble."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}
