@@ -1,0 +1,120 @@
+{
+  "name": "Blockheads",
+  "pagePath": "/games/blockheads",
+  "pageName": "blockheads",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.igrifree.com/embed/blockheads",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "Stalking_Kraken_87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Stalking_Kraken_87.png",
+      "content": "OMG this game is insane! Got the Revolver upgrade and BOOM, took down three enemies at once! #BlockheadsFTW"
+    },
+    {
+      "author": "Neon_Phoenix_XX_42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Neon_Phoenix_XX_42.png",
+      "content": "What even is this game? I thought it was fun but man, that Katana took some getting used to. Still, loving the health upgrades."
+    },
+    {
+      "author": "Savage_Broadsword_99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Savage_Broadsword_99.png",
+      "content": "Is it just me or does anyone else think hitting 'em with a Broadsword is way more satisfying than a Revolver?"
+    },
+    {
+      "author": "xX_DefiantReaper-Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DefiantReaper-Xx.png",
+      "content": "I'm starting to get the hang of things in Blockheads. Those health boosts really help in those close encounters!"
+    },
+    {
+      "author": "Vengeful_Aura87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Vengeful_Aura87.png",
+      "content": "Can't believe how addicting this game is! Had a blast last night getting those speed upgrades and outrunning everyone."
+    },
+    {
+      "author": "Cosmic_Katana_XX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Cosmic_Katana_XX.png",
+      "content": "Heard about the game from some friends, turns out it's pretty cool. Just started, though, so looking forward to leveling up!"
+    },
+    {
+      "author": "Phantom_Blade89",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Phantom_Blade89.png",
+      "content": "Finally got my hands on the ultimate weapon. Took forever to level up enough to get it, but it was totally worth it."
+    },
+    {
+      "author": "NoobSurvivor_42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobSurvivor_42.png",
+      "content": "Just started playing and already loving it. The game's so fast-paced, keeps you on your toes all the time. Great fun!"
+    },
+    {
+      "author": "Leviathan_Slayer99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Leviathan_Slayer99.png",
+      "content": "Really enjoyed the combat once I got the hang of it. The upgrades make a huge difference, especially in those final showdowns!"
+    },
+    {
+      "author": "NeonDefeatXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonDefeatXX.png",
+      "content": "Not gonna lie, Blockheads is tough. But so rewarding when you finally take someone out. Love the upgrades!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-05/images/1743839890514-hptmg7.avif",
+  "page_path": "/games/blockheads",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Shooting"
+  ],
+  "createdTime": "2025-04-05 15:58:08"
+}

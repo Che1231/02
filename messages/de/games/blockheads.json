@@ -1,0 +1,77 @@
+{
+  "blockheads": {
+    "title": "Blockheads: Online Multiplayer Block Shooter",
+    "slogan": "Tauchen Sie ein in die actiongeladene Welt von Blockheads!",
+    "description": "Blockheads ist ein Block-basierter Ego-Shooter, in dem Sie mit anderen Online-Spielern kämpfen können! Nehmen Sie an intensiven Schießereien teil, besiegen Sie Gegner und kämpfen Sie um die ultimative Waffe. Nutzen Sie das Upgrade-System im Spiel, um Ihre Gesundheit, Geschwindigkeit, Erholung und mehr zu verbessern, um einen Vorteil gegenüber Ihren Rivalen zu erzielen. Tauchen Sie ein in diesen Kampf ums Überleben und sehen Sie, ob Sie ganz nach oben kommen!",
+    "Loading": {
+      "title": "Wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Blockheads: Online Multiplayer Block Shooter",
+      "description": "Blockheads ist ein Block-basierter Ego-Shooter, in dem Sie mit anderen Online-Spielern kämpfen können! Nehmen Sie an intensiven Schießereien teil, besiegen Sie Gegner und kämpfen Sie um die ultimative Waffe. Nutzen Sie das Upgrade-System im Spiel, um Ihre Gesundheit, Geschwindigkeit, Erholung und mehr zu verbessern, um einen Vorteil gegenüber Ihren Rivalen zu erzielen. Tauchen Sie ein in diesen Kampf ums Überleben und sehen Sie, ob Sie ganz nach oben kommen!",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Blockheads: Online Multiplayer Block Shooter",
+      "whatIsTitle": "Was ist Blockheads?",
+      "whatIsDescription": "Blockheads ist ein Block-basierter Ego-Shooter, in dem Sie mit anderen Online-Spielern kämpfen können! Nehmen Sie an intensiven Schießereien teil, besiegen Sie Gegner und kämpfen Sie um die ultimative Waffe.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Setzen Sie sich in einen Kampf und besiegen Sie Ihre Gegner.",
+      "howToPlayStep2": "Streben Sie nach der ultimativen Waffe, um einen Vorteil zu gewinnen.",
+      "howToPlayStep3": "Nutzen Sie das Upgrade-System im Spiel, um Ihre Statistiken zu verbessern.",
+      "keyFeaturesTitle": "Wichtigste Features",
+      "feature1Title": "Mehrspieler-Online",
+      "feature1Description": "Treten Sie im Echtzeitmodus gegen andere Spieler an.",
+      "feature2Title": "Upgrade-System",
+      "feature2Description": "Verbessern Sie Ihre Gesundheit, Geschwindigkeit und Erholung.",
+      "feature3Title": "Intensive Schießereien",
+      "feature3Description": "Nehmen Sie an lebenswichtigen Kämpfen teil.",
+      "feature4Title": "Ultimative Waffe",
+      "feature4Description": "Streben Sie nach der stärksten Waffe im Spiel."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

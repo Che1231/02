@@ -1,0 +1,77 @@
+{
+  "blockheads": {
+    "title": "《方块人物：在线多人方块射击游戏》",
+    "slogan": "加入充满动作的方块人物世界！",
+    "description": "方块人物是一款基于方块的第一人称射击游戏，你可以与其他在线玩家对战！参与激烈的枪战，击败对手，争夺终极武器。利用游戏内的升级系统提升你的生命值、速度、恢复能力等等，以获得超越对手的优势。投入这场生死搏斗，看看你是否能登上巅峰！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建于",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "《方块人物：在线多人方块射击游戏》",
+      "description": "方块人物是一款基于方块的第一人称射击游戏，你可以与其他在线玩家对战！参与激烈的枪战，击败对手，争夺终极武器。利用游戏内的升级系统提升你的生命值、速度、恢复能力等等，以获得超越对手的优势。投入这场生死搏斗，看看你是否能登上巅峰！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "《方块人物：在线多人方块射击游戏》",
+      "whatIsTitle": "什么是方块人物？",
+      "whatIsDescription": "方块人物是一款基于方块的第一人称射击游戏，你可以与其他在线玩家对战！参与激烈的枪战，击败对手，争夺终极武器。",
+      "howToPlayTitle": "如何玩游戏",
+      "howToPlayStep1": "加入枪战，击败你的对手。",
+      "howToPlayStep2": "争夺终极武器，获得优势。",
+      "howToPlayStep3": "使用游戏内的升级系统提升你的属性。",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "在线多人游戏",
+      "feature1Description": "实时与其他玩家对战。",
+      "feature2Title": "升级系统",
+      "feature2Description": "提升你的生命值、速度和恢复能力。",
+      "feature3Title": "激烈枪战",
+      "feature3Description": "参与生死搏斗。",
+      "feature4Title": "终极武器",
+      "feature4Description": "争夺游戏中最强大的武器。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐游戏"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏列表"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

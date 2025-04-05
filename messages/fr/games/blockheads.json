@@ -1,0 +1,77 @@
+{
+  "blockheads": {
+    "title": "Blockheads : Tireur de blocs multijoueur en ligne",
+    "slogan": "Plongez-vous dans le monde palpitant de Blockheads !",
+    "description": "Blockheads est un jeu de tir à la première personne basé sur des blocs où vous pouvez combattre d’autres joueurs en ligne ! Engagez-vous dans des affrontements acharnés, abattez vos adversaires et rivalisez pour l’arme ultime. Utilisez le système de mise à niveau en jeu pour améliorer votre santé, votre vitesse, votre récupération et plus encore afin d’obtenir un avantage sur vos rivaux. Plongez-vous dans ce combat de la vie ou de la mort et voyez si vous pouvez vous hisser au sommet !",
+    "Loading": {
+      "title": "Chargement…"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d’utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Blockheads : Tireur de blocs multijoueur en ligne",
+      "description": "Blockheads est un jeu de tir à la première personne basé sur des blocs où vous pouvez combattre d’autres joueurs en ligne ! Engagez-vous dans des affrontements acharnés, abattez vos adversaires et rivalisez pour l’arme ultime. Utilisez le système de mise à niveau en jeu pour améliorer votre santé, votre vitesse, votre récupération et plus encore afin d’obtenir un avantage sur vos rivaux. Plongez-vous dans ce combat de la vie ou de la mort et voyez si vous pouvez vous hisser au sommet !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Blockheads : Tireur de blocs multijoueur en ligne",
+      "whatIsTitle": "Qu'est-ce que Blockheads ?",
+      "whatIsDescription": "Blockheads est un jeu de tir à la première personne basé sur des blocs où vous pouvez combattre d’autres joueurs en ligne ! Engagez-vous dans des affrontements acharnés, abattez vos adversaires et rivalisez pour l’arme ultime.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Plongez-vous dans un affrontement et abattez vos adversaires.",
+      "howToPlayStep2": "Rivalisez pour l’arme ultime afin d’obtenir un avantage.",
+      "howToPlayStep3": "Utilisez le système de mise à niveau en jeu pour améliorer vos statistiques.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Multijoueur en ligne",
+      "feature1Description": "Combattez d’autres joueurs en temps réel.",
+      "feature2Title": "Système de mise à niveau",
+      "feature2Description": "Améliorez votre santé, votre vitesse et votre récupération.",
+      "feature3Title": "Affrontements acharnés",
+      "feature3Description": "Engagez-vous dans des combats de la vie ou de la mort.",
+      "feature4Title": "Arme ultime",
+      "feature4Description": "Rivalisez pour l’arme la plus puissante du jeu."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandés"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Afficher plus",
+      "page": "Page"
+    }
+  }
+}
