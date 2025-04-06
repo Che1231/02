@@ -1,0 +1,77 @@
+{
+  "doodle-road": {
+    "title": "도들 로드 온라인 플레이 - 무료 창의적인 2D 게임",
+    "slogan": "승리로 향하는 당신의 그림!",
+    "description": "도들 로드는 창의성과 문제 해결 능력을 결합한 상상력 넘치고 매혹적인 2D 캐주얼 게임입니다. 이 재미있는 브라우저 게임에서 당신의 주요 목표는 시작점에서 결승점까지 자동차를 안내할 수 있는 경로를 그리는 것입니다. 다양한 레벨을 탐험하면서 각 레벨은 당신의 창의성과 전략적 사고를 시험하는 새로운 도전과 흥미로운 장애물을 제시합니다. 승리의 길을 그리며 당신의 창의성이 얼마나 멀리까지 이끌 수 있는지 확인하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "도들 로드",
+      "description": "이 창의적인 2D 게임에서 경로를 그리고 자동차를 승리로 안내하세요. 지금 도들 로드를 플레이하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "도들 로드",
+      "whatIsTitle": "도들 로드는 무엇인가요?",
+      "whatIsDescription": "도들 로드는 어려운 레벨을 통해 자동차를 안내하기 위해 경로를 그리는 재미있고 창의적인 2D 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "시작점에서 결승점까지 경로를 그립니다.",
+      "howToPlayStep2": "그린 경로를 따라 자동차를 안내합니다.",
+      "howToPlayStep3": "장애물을 극복하고 각 레벨을 완료합니다.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "창의적인 그림",
+      "feature1Description": "각 레벨을 해결하기 위해 독특한 경로를 그립니다.",
+      "feature2Title": "도전적인 레벨",
+      "feature2Description": "점점 어려워지는 다양한 레벨을 탐험합니다.",
+      "feature3Title": "전략적 사고",
+      "feature3Description": "장애물을 극복하기 위해 창의성과 전략을 활용하세요.",
+      "feature4Title": "재미있고 매력적인 게임",
+      "feature4Description": "매혹적이고 상상력 넘치는 게임 경험을 즐기세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

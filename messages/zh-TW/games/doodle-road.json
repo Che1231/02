@@ -1,0 +1,77 @@
+{
+  "doodle-road": {
+    "title": "線上玩塗鴉之路 - 免費創意 2D 遊戲",
+    "slogan": "畫出通往勝利的道路！",
+    "description": "塗鴉之路是一款充滿想像力和引人入勝的 2D 休閒遊戲，結合創意和解題。 在這款有趣的瀏覽器遊戲中，您的主要目標是畫出一條道路，成功地將汽車從起點引導到終點線。 許多關卡可供探索，每個關卡都帶來新的挑戰和令人興奮的障礙，考驗您的創意和策略思維。 畫出您的勝利之路，看看您的創意能帶您走多遠！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導覽列"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "塗鴉之路",
+      "description": "在這個充滿創意的 2D 遊戲中，畫出您的道路，引導汽車取得勝利。 現在就玩塗鴉之路！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "塗鴉之路",
+      "whatIsTitle": "什麼是塗鴉之路？",
+      "whatIsDescription": "塗鴉之路是一款有趣且充滿創意的 2D 遊戲，您需要畫出道路來引導汽車通過具有挑戰性的關卡。",
+      "howToPlayTitle": "如何玩遊戲",
+      "howToPlayStep1": "從起點畫出一條路到終點線。",
+      "howToPlayStep2": "引導汽車沿著您畫出的道路前進。",
+      "howToPlayStep3": "克服障礙並完成每個關卡。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "創意繪圖",
+      "feature1Description": "繪製獨特的道路來解決每個關卡。",
+      "feature2Title": "充滿挑戰的關卡",
+      "feature2Description": "探索許多難度逐漸增加的關卡。",
+      "feature3Title": "策略性思考",
+      "feature3Description": "運用您的創意和策略來克服障礙。",
+      "feature4Title": "有趣且引人入勝",
+      "feature4Description": "享受引人入勝且充滿想像力的遊戲體驗。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦遊戲"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

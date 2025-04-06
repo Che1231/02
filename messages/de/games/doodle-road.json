@@ -1,0 +1,77 @@
+{
+  "doodle-road": {
+    "title": "Doodle Road Online spielen – kostenloses kreatives 2D-Spiel",
+    "slogan": "Zeichne deinen Weg zum Sieg!",
+    "description": "Doodle Road ist ein einfallsreiches und fesselndes 2D-Casual-Spiel, das Kreativität mit Problemlösung verbindet. In diesem unterhaltsamen Browser-Spiel ist dein Hauptziel, einen Weg zu zeichnen, der ein Auto vom Startpunkt zum Ziel führt. Mit einer Vielzahl von Levels, die jedes neue Herausforderungen und aufregende Hindernisse präsentieren, die deine Kreativität und strategisches Denken fordern. Zeichne dich zum Sieg und sieh, wie weit deine Kreativität dich tragen kann!",
+    "Loading": {
+      "title": "Wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Doodle Road",
+      "description": "Zeichne deinen Weg und führe das Auto zum Sieg in diesem kreativen 2D-Spiel. Spiele jetzt Doodle Road!",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Doodle Road",
+      "whatIsTitle": "Was ist Doodle Road?",
+      "whatIsDescription": "Doodle Road ist ein unterhaltsames und kreatives 2D-Spiel, bei dem du Wege zeichnest, um ein Auto durch herausfordernde Levels zu führen.",
+      "howToPlayTitle": "So spielst du",
+      "howToPlayStep1": "Zeichne einen Weg vom Startpunkt zum Ziel.",
+      "howToPlayStep2": "Führe das Auto entlang deines gezeichneten Weges.",
+      "howToPlayStep3": "Überwinde Hindernisse und schließe jedes Level ab.",
+      "keyFeaturesTitle": "Haupteigenschaften",
+      "feature1Title": "Kreatives Zeichnen",
+      "feature1Description": "Entwirf einzigartige Wege, um jedes Level zu lösen.",
+      "feature2Title": "Herausfordernde Levels",
+      "feature2Description": "Erkunde eine Vielzahl von Levels mit zunehmender Schwierigkeit.",
+      "feature3Title": "Strategisches Denken",
+      "feature3Description": "Nutze deine Kreativität und Strategie, um Hindernisse zu überwinden.",
+      "feature4Title": "Unterhaltsam und fesselnd",
+      "feature4Description": "Genieße ein fesselndes und einfallsreiches Spielerlebnis."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

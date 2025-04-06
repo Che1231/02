@@ -1,0 +1,77 @@
+{
+  "doodle-road": {
+    "title": "Juega a Doodle Road en línea: juego creativo 2D gratuito",
+    "slogan": "¡Dibuja tu camino hacia la victoria!",
+    "description": "Doodle Road es un juego casual 2D imaginativo y cautivador que combina la creatividad con la resolución de problemas. En este divertido juego de navegador, tu objetivo principal es dibujar un camino que guíe con éxito un automóvil desde el punto de partida hasta la línea de meta. Con una multitud de niveles para explorar, cada uno presenta nuevos desafíos y emocionantes obstáculos que ponen a prueba tu creatividad y pensamiento estratégico. ¡Dibuja tu camino hacia la victoria y observa hasta dónde te puede llevar tu creatividad!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Menú"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amistosas",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Doodle Road",
+      "description": "Dibuja tu camino y guía el coche hacia la victoria en este juego creativo 2D. ¡Juega a Doodle Road ahora!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Doodle Road",
+      "whatIsTitle": "¿Qué es Doodle Road?",
+      "whatIsDescription": "Doodle Road es un juego 2D divertido y creativo en el que dibujas caminos para guiar un coche a través de niveles desafiantes.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Dibuja un camino desde el punto de partida hasta la línea de meta.",
+      "howToPlayStep2": "Guía el coche a lo largo del camino que has dibujado.",
+      "howToPlayStep3": "Supera los obstáculos y completa cada nivel.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Dibujo creativo",
+      "feature1Description": "Dibuja caminos únicos para resolver cada nivel.",
+      "feature2Title": "Niveles desafiantes",
+      "feature2Description": "Explora una multitud de niveles con dificultad creciente.",
+      "feature3Title": "Pensamiento estratégico",
+      "feature3Description": "Usa tu creatividad y estrategia para superar los obstáculos.",
+      "feature4Title": "Divertido e interesante",
+      "feature4Description": "Disfruta de una experiencia de juego cautivadora e imaginativa."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios de juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "name": "Doodle Road",
+  "pagePath": "/games/doodle-road",
+  "pageName": "doodle-road",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.crazygames.com/embed/doodle-road",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "CosmicKRaKen42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicKRaKen42.png",
+      "content": "Doodle Road is so much fun! Drawing the path for the car is incredibly addictive, and the obstacles are surprisingly challenging. I love it!"
+    },
+    {
+      "author": "SavageKatana-X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatana-X.png",
+      "content": "This game, Doodle Road, is actually pretty clever. Some levels have me stumped for ages then you have this 'aha!' moment. Totally recommend it."
+    },
+    {
+      "author": "PhantomPhOeNiX89",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhOeNiX89.png",
+      "content": "Seriously, the creativity involved in Doodle Road is awesome. Drawing the path is a blast and my brain gets a real workout. Good stuff!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "What a cool game! Doodle Road keeps you engaged with new challenges at every level. Drawing your path to victory is an amazing experience."
+    },
+    {
+      "author": "xX_NeOnRevolVer_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_NeOnRevolVer_Xx.png",
+      "content": "This Doodle Road is my new time killer! So many levels, I'm hooked. A simple concept but it works!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Haha, I was terrible at first, but now I'm getting the hang of Doodle Road! Definitely worth checking out if you enjoy drawing and puzzles."
+    },
+    {
+      "author": "NeonLeVIaThan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonLeVIaThan99.png",
+      "content": "I am amazed by Doodle Road! The challenges it offers are a perfect blend of creativity and strategy. Keep going further on your path!"
+    },
+    {
+      "author": "StalkingBrOadSWord_01",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingBrOadSWord_01.png",
+      "content": "Doodle Road's challenges got me hooked straight away. Drawing that path, avoiding obstacles , it's pretty addicting! Give it a shot."
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "Dude, this game Doodle Road is awesome. The obstacles are crazy but it's so fun to figure out! Best game ever?"
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "This Doodle Road is a good time-waster, lol. Some levels are tricky, but def worth it since the game looks so creative!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-06/images/1743934922657-8stlfh.avif",
+  "page_path": "/games/doodle-road",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Hot"
+  ],
+  "createdTime": "2025-04-06 18:28:44"
+}
