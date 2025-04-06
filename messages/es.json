@@ -1,12 +1,12 @@
 {
   "title": "GameFreeHub - Juegos en línea gratuitos | ¡Juega ahora!",
   "slogan": "🔥 Juegos gratuitos para jugar al instante | HTML5 · Actualizaciones diarias · Comunidad global",
-  "description": "¡Juega al instante con nuestra creciente biblioteca de juegos HTML5 gratuitos! Tiradores, MMORPG, rompecabezas, todo optimizado para una carga de 0.5 segundos. Descubre actualizaciones de juegos diarias y únete a una próspera comunidad global de jugadores. ¡Comienza tu aventura ahora! 🎮✨",
+  "description": "¡Juega al instante con nuestra creciente biblioteca de juegos HTML5 gratuitos! Dispara, MMO, rompecabezas, todo optimizado para una carga de 0.5 segundos. Descubre actualizaciones de juegos diarias y únete a una próspera comunidad de jugadores global. ¡Empieza tu aventura ahora! 🎮✨",
   "Loading": {
     "title": "Cargando..."
   },
   "Navbar": {
-    "title": "Menú"
+    "title": "Barra de navegación"
   },
   "Common": {
     "createAt": "Creado el",
@@ -15,7 +15,7 @@
     "termsOfServices": "Términos de servicio",
     "text": "Contenido",
     "help": "Ayuda",
-    "friendlyLinks": "Enlaces de interés",
+    "friendlyLinks": "Enlaces amigables",
     "articleList": "Lista de artículos",
     "home": "Inicio",
     "next": "Siguiente",
@@ -23,7 +23,7 @@
   },
   "HomeIframe": {
     "title": "FreeGames - Juega a juegos en línea gratis",
-    "description": "Descubre una amplia gama de juegos gratuitos en línea en FreeGames. Desde aventuras llenas de acción hasta relajantes rompecabezas, hay algo para todos. ¡Empieza a jugar ahora y disfruta de diversión sin fin!",
+    "description": "Descubre una amplia gama de juegos en línea gratuitos en FreeGames. Desde aventuras llenas de acción hasta relajantes rompecabezas, hay algo para todos. ¡Empieza a jugar ahora y disfruta de diversión sin fin!",
     "iframeTitle": "Vista previa del juego",
     "fullscreenButton": "Pantalla completa",
     "shareButton": "Compartir",
@@ -32,22 +32,22 @@
     "playGame": "Jugar"
   },
   "HomeFeatures": {
-    "gameTitle": "FreeGames - Tu puerta de entrada al entretenimiento en línea gratuito",
+    "gameTitle": "FreeGames - Tu puerta de entrada a la diversión en línea gratuita",
     "whatIsTitle": "¿Qué es FreeGames?",
-    "whatIsDescription": "FreeGames es una plataforma donde puedes jugar una variedad de juegos en línea gratuitos sin necesidad de descargas. Disfruta de juegos de géneros como Acción, Aventura, Rompecabezas y más.",
+    "whatIsDescription": "FreeGames es una plataforma donde puedes jugar a una variedad de juegos en línea gratuitos sin necesidad de descargas. Disfruta de juegos de géneros como Acción, Aventura, Rompecabezas y más.",
     "howToPlayTitle": "Cómo jugar",
     "howToPlayStep1": "Elige tu juego favorito de la colección.",
     "howToPlayStep2": "Haz clic en el juego para empezar a jugar al instante.",
-    "howToPlayStep3": "Disfruta de una experiencia de juego fluida sin necesidad de descargas.",
+    "howToPlayStep3": "Disfruta de una experiencia de juego perfecta sin necesidad de descargas.",
     "keyFeaturesTitle": "Características clave",
-    "feature1Title": "Gran variedad de juegos",
+    "feature1Title": "Variedad de juegos",
     "feature1Description": "Explora juegos de múltiples géneros, incluyendo Acción, Aventura, Rompecabezas y más.",
-    "feature2Title": "Sin necesidad de descargas",
-    "feature2Description": "Juega a los juegos directamente en tu navegador sin necesidad de descargarlos.",
+    "feature2Title": "Sin descargas necesarias",
+    "feature2Description": "Juega a los juegos directamente en tu navegador sin necesidad de descargas.",
     "feature3Title": "Gratis para jugar",
-    "feature3Description": "Todos los juegos son completamente gratuitos para jugar, en cualquier momento y en cualquier lugar.",
+    "feature3Description": "Todos los juegos son completamente gratuitos para jugar, en cualquier momento y lugar.",
     "feature4Title": "Interfaz fácil de usar",
-    "feature4Description": "Disfruta de una experiencia de juego fluida e intuitiva."
+    "feature4Description": "Disfruta de una experiencia de juego fluida y intuitiva."
   },
   "HomeFAQs": {
     "title": "Preguntas frecuentes"

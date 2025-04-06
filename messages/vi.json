@@ -1,12 +1,12 @@
 {
-  "title": "GameFreeHub - Trò chơi trực tuyến miễn phí | Chơi ngay bây giờ!",
+  "title": "GameFreeHub - Trò chơi trực tuyến miễn phí | Chơi ngay!",
   "slogan": "🔥 Trò chơi miễn phí chơi ngay lập tức | HTML5 · Cập nhật hàng ngày · Cộng đồng toàn cầu",
-  "description": "Chơi ngay lập tức với thư viện trò chơi HTML5 miễn phí ngày càng phát triển của chúng tôi! Trò chơi bắn súng, MMORPG, trò chơi giải đố – tất cả đều được tối ưu hóa cho thời gian tải 0,5 giây. Khám phá các bản cập nhật trò chơi hàng ngày và tham gia một cộng đồng game thủ toàn cầu đang phát triển. Bắt đầu cuộc phiêu lưu của bạn ngay bây giờ! 🎮✨",
+  "description": "Chơi ngay lập tức với thư viện trò chơi HTML5 miễn phí ngày càng tăng của chúng tôi! Game bắn súng, MMORPG, trò chơi giải đố—tất cả đều được tối ưu hóa để tải trong 0,5 giây. Khám phá các bản cập nhật trò chơi hàng ngày và tham gia một cộng đồng game thủ toàn cầu sôi động. Bắt đầu cuộc phiêu lưu của bạn ngay bây giờ! 🎮✨",
   "Loading": {
     "title": "Đang tải..."
   },
   "Navbar": {
-    "title": "Đọc"
+    "title": "Định vị"
   },
   "Common": {
     "createAt": "Tạo lúc",
@@ -22,31 +22,31 @@
     "previous": "Trước đó"
   },
   "HomeIframe": {
-    "title": "FreeGames - Chơi trò chơi trực tuyến miễn phí",
-    "description": "Khám phá nhiều trò chơi trực tuyến miễn phí trên FreeGames. Từ những cuộc phiêu lưu hành động đến những trò chơi giải đố thư giãn, có thứ gì đó dành cho tất cả mọi người. Bắt đầu chơi ngay bây giờ và tận hưởng niềm vui không giới hạn!",
+    "title": "Game miễn phí - Chơi trò chơi trực tuyến miễn phí",
+    "description": "Khám phá nhiều loại trò chơi trực tuyến miễn phí trên FreeGames. Từ những cuộc phiêu lưu hành động sôi động đến những trò chơi giải đố thư giãn, có thứ gì đó dành cho tất cả mọi người. Bắt đầu chơi ngay bây giờ và tận hưởng niềm vui không giới hạn!",
     "iframeTitle": "Xem trước trò chơi",
-    "fullscreenButton": "Màn hình toàn màn hình",
+    "fullscreenButton": "Toàn màn hình",
     "shareButton": "Chia sẻ",
-    "urlCopied": "Đã sao chép URL vào clipboard!",
-    "downloadGame": "Tải xuống trò chơi",
-    "playGame": "Chơi trò chơi"
+    "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+    "downloadGame": "Tải trò chơi",
+    "playGame": "Chơi game"
   },
   "HomeFeatures": {
-    "gameTitle": "FreeGames - Cổng thông tin của bạn đến trò chơi trực tuyến miễn phí",
+    "gameTitle": "FreeGames - Cổng vào niềm vui trực tuyến miễn phí của bạn",
     "whatIsTitle": "FreeGames là gì?",
-    "whatIsDescription": "FreeGames là một nền tảng nơi bạn có thể chơi nhiều loại trò chơi trực tuyến miễn phí mà không cần tải xuống. Tận hưởng các trò chơi từ nhiều thể loại như Hành động, Phiêu lưu, Giải đố và nhiều hơn nữa.",
+    "whatIsDescription": "FreeGames là một nền tảng cho phép bạn chơi nhiều loại trò chơi trực tuyến miễn phí mà không cần tải xuống. Tận hưởng các trò chơi từ các thể loại như Hành động, Phiêu lưu, Giải đố và nhiều thể loại khác.",
     "howToPlayTitle": "Cách chơi",
     "howToPlayStep1": "Chọn trò chơi yêu thích của bạn từ bộ sưu tập.",
     "howToPlayStep2": "Nhấp vào trò chơi để bắt đầu chơi ngay lập tức.",
-    "howToPlayStep3": "Thưởng thức trải nghiệm chơi game liền mạch mà không cần tải xuống.",
+    "howToPlayStep3": "Tận hưởng trải nghiệm chơi game liền mạch mà không cần tải xuống.",
     "keyFeaturesTitle": "Các tính năng chính",
     "feature1Title": "Đa dạng trò chơi",
-    "feature1Description": "Khám phá các trò chơi từ nhiều thể loại khác nhau bao gồm Hành động, Phiêu lưu, Giải đố và nhiều hơn nữa.",
+    "feature1Description": "Khám phá các trò chơi từ nhiều thể loại khác nhau, bao gồm Hành động, Phiêu lưu, Giải đố và nhiều thể loại khác.",
     "feature2Title": "Không cần tải xuống",
-    "feature2Description": "Chơi trò chơi trực tiếp trên trình duyệt của bạn mà không cần tải xuống.",
+    "feature2Description": "Chơi game trực tiếp trên trình duyệt của bạn mà không cần tải xuống.",
     "feature3Title": "Miễn phí chơi",
     "feature3Description": "Tất cả các trò chơi đều hoàn toàn miễn phí để chơi, bất cứ lúc nào, ở bất cứ đâu.",
-    "feature4Title": "Giao diện thân thiện với người dùng",
+    "feature4Title": "Giao diện thân thiện",
     "feature4Description": "Tận hưởng trải nghiệm chơi game liền mạch và trực quan."
   },
   "HomeFAQs": {
@@ -56,15 +56,15 @@
     "title": "Video game"
   },
   "HomeRecommendation": {
-    "title": "Khuyến cáo"
+    "title": "Đề xuất"
   },
   "HomeComments": {
-    "title": "Bình luận game"
+    "title": "Bình luận trò chơi"
   },
   "GamePage": {
-    "title": "Tất cả game",
-    "description": "Tất cả game",
-    "games": "Game"
+    "title": "Tất cả trò chơi",
+    "description": "Tất cả trò chơi",
+    "games": "Trò chơi"
   },
   "CategoryPage": {
     "categories": "Thể loại",

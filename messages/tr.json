@@ -1,7 +1,7 @@
 {
   "title": "GameFreeHub - Ücretsiz Online Oyunlar | Şimdi Oyna!",
-  "slogan": "🔥 Anında Oynanabilen Ücretsiz Oyunlar | HTML5 · Günlük Güncellemeler · Küresel Topluluk",
-  "description": "Büyüyor olan ücretsiz HTML5 oyun kütüphanemizle anında oynayın! Atış oyunları, MMO'lar, bulmacalar - hepsi 0.5 saniyelik yükleme için optimize edildi. Günlük oyun güncellemelerini keşfedin ve canlı bir küresel oyun topluluğuna katılın. Şimdi maceranıza başlayın! 🎮✨",
+  "slogan": "🔥 Anında Oynama Ücretsiz Oyunlar | HTML5 · Günlük Güncellemeler · Küresel Topluluk",
+  "description": "Büyüyor kitaplığımızda ücretsiz HTML5 oyunlarıyla anında oynayın! Çatışma oyunları, MMO'lar, bulmacalar – tümü 0,5 saniye yükleme süresiyle optimize edilmiştir. Günlük oyun güncellemelerini keşfedin ve canlı bir küresel oyun topluluğuna katılın. Şimdi maceranıza başlayın! 🎮✨",
   "Loading": {
     "title": "Yükleniyor..."
   },
@@ -9,10 +9,10 @@
     "title": "Gezinti"
   },
   "Common": {
-    "createAt": "Oluşturma Tarihi",
+    "createAt": "Oluşturulma Tarihi",
     "guide": "Yönerge",
     "privacyPolicy": "Gizlilik Politikası",
-    "termsOfServices": "Hizmet Şartları",
+    "termsOfServices": "Hizmet Koşulları",
     "text": "İçerik",
     "help": "Yardım",
     "friendlyLinks": "Dost Bağlantılar",
@@ -22,8 +22,8 @@
     "previous": "Önceki"
   },
   "HomeIframe": {
-    "title": "Ücretsiz Oyunlar - Ücretsiz Online Oyunları Oyna",
-    "description": "FreeGames'te geniş bir ücretsiz çevrimiçi oyun yelpazesi keşfedin. Hareketli maceralardan rahatlatıcı bulmacalara kadar herkes için bir şeyler var. Şimdi oynamaya başlayın ve sonsuz eğlenceye dalın!",
+    "title": "Ücretsiz Oyunlar - Ücretsiz Online Oyunlar Oyna",
+    "description": "Ücretsiz Oyunlar'da geniş bir ücretsiz çevrimiçi oyun yelpazesi keşfedin. Hareketli maceralardan rahatlatıcı bulmacalara kadar herkes için bir şeyler var. Şimdi oynamaya başlayın ve sonsuz eğlenceye dalın!",
     "iframeTitle": "Oyun Önizlemesi",
     "fullscreenButton": "Tam Ekran",
     "shareButton": "Paylaş",
@@ -32,22 +32,22 @@
     "playGame": "Oyunu Oyna"
   },
   "HomeFeatures": {
-    "gameTitle": "FreeGames - Ücretsiz Online Eğlence Kapınız",
-    "whatIsTitle": "FreeGames Nedir?",
-    "whatIsDescription": "FreeGames, herhangi bir indirme yapmadan çeşitli ücretsiz çevrimiçi oyunları oynayabileceğiniz bir platformdur. Eylem, Macera, Bulmaca ve diğer türlerden oyunların tadını çıkarın.",
+    "gameTitle": "Ücretsiz Oyunlar - Ücretsiz Online Eğlencenin Kapısı",
+    "whatIsTitle": "Ücretsiz Oyunlar Nedir?",
+    "whatIsDescription": "Ücretsiz Oyunlar, herhangi bir indirme yapmadan çeşitli ücretsiz çevrimiçi oyunlar oynayabileceğiniz bir platformdur. Aksiyon, Macera, Bulmaca ve daha fazlası gibi oyun türlerinden oyunlar keyfini çıkarın.",
     "howToPlayTitle": "Nasıl Oynanır",
     "howToPlayStep1": "Koleksiyondan en sevdiğiniz oyunu seçin.",
-    "howToPlayStep2": "Oyunu tıklayın ve anında oynamaya başlayın.",
-    "howToPlayStep3": "Herhangi bir indirme yapmadan sorunsuz bir oyun deneyimi yaşayın.",
-    "keyFeaturesTitle": "Önemli Özellikler",
+    "howToPlayStep2": "Oyunu tıklayarak hemen oynamaya başlayın.",
+    "howToPlayStep3": "Herhangi bir indirme yapmadan sorunsuz oyun deneyiminin tadını çıkarın.",
+    "keyFeaturesTitle": "Ana Özellikler",
     "feature1Title": "Geniş Oyun Çeşitliliği",
-    "feature1Description": "Eylem, Macera, Bulmaca ve daha fazlası dahil olmak üzere çeşitli oyun türlerini keşfedin.",
+    "feature1Description": "Aksiyon, Macera, Bulmaca ve daha fazlası dahil olmak üzere çeşitli oyun türlerinden oyunlar keşfedin.",
     "feature2Title": "İndirme Gerekli Değil",
-    "feature2Description": "Oyunları tarayıcınızda herhangi bir indirme yapmadan doğrudan oynayın.",
+    "feature2Description": "Oyunları herhangi bir indirme yapmadan doğrudan tarayıcınızda oynayın.",
     "feature3Title": "Ücretsiz Oynama",
-    "feature3Description": "Tüm oyunlar her zaman ve her yerde tamamen ücretsiz olarak oynanabilir.",
+    "feature3Description": "Tüm oyunlar istediğiniz zaman, istediğiniz yerde tamamen ücretsizdir.",
     "feature4Title": "Kullanıcı Dostu Arayüz",
-    "feature4Description": "Duyarlı ve sezgisel bir oyun deneyiminin keyfini çıkarın."
+    "feature4Description": "Duyarlı ve sezgisel bir oyun deneyiminin tadını çıkarın."
   },
   "HomeFAQs": {
     "title": "SSS"
