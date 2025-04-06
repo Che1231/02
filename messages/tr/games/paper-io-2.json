@@ -1,8 +1,8 @@
 {
   "paper-io-2": {
-    "title": "Çevrimiçi Kağıt.IO 2 Oyna - Bölgeleri Ele Geçirin ve Düşmanları Yenen",
-    "slogan": "Adanızı Genişletin, Yeni Bölgeleri Fethedin!",
-    "description": "Küçük bir adayla başlayıp yeni bölgeleri ele geçirerek Kağıt.IO 2'nin heyecanını yaşayın. Düşmanlar saldırıda bulunabilir, alanınızın dışındayken dikkatli olun. Kuyruğunuzu koruyun ve oyunu hakimiyet altına almak için karşı saldırıya geçin. Şimdi Kağıt.IO 2'yi oynayın ve en son bölgesel fethi yaşayın!",
+    "title": "Çevrimiçi Kağıt.io 2 Oyna - Ücretsiz Çok Oyunculu Bölge Oyunu",
+    "slogan": "Haritayı Ele Geçirin, Dünyayı Hakim Kılın!",
+    "description": "Kağıt.io 2, haritayı boyamak için bölge talep ettiğiniz heyecan verici bir çok oyunculu .io oyunudur. Rakiplerinize karşı savunurken alanınızı genişletmek için strateji geliştirin. Basit ama bağımlılık yaratan oyunuyla, Kağıt.io 2, her yaştan oyuncu için sonsuz eğlence sunmaktadır. Kağıt.io 2'nin renkli dünyasına dalın ve ne kadar geniş bir bölge ele geçirebileceğinizi görün!",
     "Loading": {
       "title": "Yükleniyor..."
     },
@@ -13,7 +13,7 @@
       "createAt": "Oluşturulma Tarihi",
       "guide": "Yönerge",
       "privacyPolicy": "Gizlilik Politikası",
-      "termsOfServices": "Hizmet Koşulları",
+      "termsOfServices": "Hizmet Şartları",
       "text": "İçerik",
       "help": "Yardım",
       "friendlyLinks": "Dost Bağlantılar",
@@ -23,8 +23,8 @@
       "previous": "Önceki"
     },
     "HomeIframe": {
-      "title": "Kağıt.IO 2",
-      "description": "Heyecan verici Kağıt.IO 2 oyununda yeni bölgeleri ele geçirin ve düşmanları yenen. Adanızı genişletin ve kuyruğunuzu rakiplerden koruyun. Şimdi oynayın ve meydan okumaya hazır olun!",
+      "title": "Kağıt.io 2 - Çok Oyunculu Bölge Oyunu",
+      "description": "Kağıt.io 2'de haritayı boyayın ve mümkün olduğunca çok bölgeyi ele geçirin. Alanınızı ele geçirmeye çalışan diğer oyunculara dikkat edin!",
       "iframeTitle": "Oyun Önizlemesi",
       "fullscreenButton": "Tam Ekran",
       "shareButton": "Paylaş",
@@ -33,22 +33,22 @@
       "playGame": "Oyunu Oyna"
     },
     "HomeFeatures": {
-      "gameTitle": "Kağıt.IO 2",
-      "whatIsTitle": "Kağıt.IO 2 Nedir?",
-      "whatIsDescription": "Kağıt.IO 2, oyuncuların küçük bir adayla başlayıp yeni bölgeleri ele geçirerek genişlettiği heyecan verici bir oyundur. Alanınızın dışındayken dikkatli olun, çünkü düşmanlar saldırıda bulunabilir. Kuyruğunuzu koruyun ve oyunu hakimiyet altına almak için karşı saldırıya geçin.",
-      "howToPlayTitle": "Nasıl Oynanır",
-      "howToPlayStep1": "Küçük bir adayla başlayın ve yeni bölgeleri ele geçirerek genişletin.",
-      "howToPlayStep2": "Alanınızın dışındayken dikkatli olun, çünkü düşmanlar saldırıda bulunabilir.",
-      "howToPlayStep3": "Kuyruğunuzu koruyun ve oyunu hakimiyet altına almak için karşı saldırıya geçin.",
-      "keyFeaturesTitle": "Temel Özellikler",
-      "feature1Title": "Bölgesel Fetih",
-      "feature1Description": "Yeni bölgeleri ele geçirerek adanızı genişletin.",
-      "feature2Title": "Stratejik Oyun",
-      "feature2Description": "Alanınızın dışındayken dikkatli olun ve kuyruğunuzu koruyun.",
-      "feature3Title": "Karşı Saldırı",
-      "feature3Description": "Oyunu hakimiyet altına almak için düşmanlara karşı saldırın.",
-      "feature4Title": "Heyecan Verici Zorluklar",
-      "feature4Description": "Kağıt.IO 2'de bölgesel fethin heyecanını yaşayın."
+      "gameTitle": "Kağıt.io 2 - Çok Oyunculu Bölge Oyunu",
+      "whatIsTitle": "Kağıt.io 2 Nedir?",
+      "whatIsDescription": "Kağıt.io 2, haritayı boyayarak mümkün olduğunca fazla bölge ele geçirmeniz gereken gerçek zamanlı bir çok oyunculu .io oyunudur. Haritayı kendi renginizle boyayarak Kağıt.io dünyasını ele geçirin! Alanınızı ele geçirmek için yarışan diğer oyunculara dikkat edin.",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Karakterinizi hareket ettirerek haritayı boyayın.",
+      "howToPlayStep2": "Döngüleri kapatarak bölgeyi ele geçirin.",
+      "howToPlayStep3": "Bölgenizi diğer oyunculardan koruyun.",
+      "keyFeaturesTitle": "Ana Özellikler",
+      "feature1Title": "Gerçek Zamanlı Çok Oyunculu",
+      "feature1Description": "Dünyanın dört bir yanından oyunculara gerçek zamanlı olarak karşı yarışın.",
+      "feature2Title": "Basit Kontroller",
+      "feature2Description": "Sezgisel kontrollerle öğrenmesi kolay, ustalaşması zor.",
+      "feature3Title": "Stratejik Oyun",
+      "feature3Description": "Bölgeyi en üst düzeye çıkarmak ve riskleri en aza indirmek için hamlelerinizi planlayın.",
+      "feature4Title": "Renkli Grafikler",
+      "feature4Description": "Haritayı boyarken canlı ve ilgi çekici görsellerin keyfini çıkarın."
     },
     "HomeFAQs": {
       "title": "SSS"
@@ -57,7 +57,7 @@
       "title": "Oyun Videosu"
     },
     "HomeRecommendation": {
-      "title": "Tavsiyeler"
+      "title": "Tavsiye Edilenler"
     },
     "HomeComments": {
       "title": "Oyun Yorumları"
@@ -69,7 +69,7 @@
     },
     "CategoryPage": {
       "categories": "Kategoriler",
-      "noCategories": "Kategoriler bulunamadı",
+      "noCategories": "Kategori bulunamadı",
       "viewMore": "Daha Fazlasını Görüntüle",
       "page": "Sayfa"
     }

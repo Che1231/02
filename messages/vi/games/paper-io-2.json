@@ -1,13 +1,13 @@
 {
   "paper-io-2": {
-    "title": "Chơi Paper.IO 2 Trực Tuyến - Chiếm Lấy Lãnh Thổ & Đánh Bại Kẻ Thù",
-    "slogan": "Mở Rộng Đảo Của Bạn, Chiếm Lấy Các Lãnh Thổ Mới!",
-    "description": "Trải nghiệm cảm giác phấn khích của Paper.IO 2, nơi bạn bắt đầu với một hòn đảo nhỏ và mở rộng bằng cách chiếm lấy các lãnh thổ mới. Hãy cẩn thận bên ngoài lãnh thổ của mình vì kẻ thù có thể tấn công. Bảo vệ đuôi của bạn và phản công để thống trị trò chơi. Chơi Paper.IO 2 ngay bây giờ và tận hưởng cuộc chinh phục lãnh thổ tối thượng!",
+    "title": "Chơi Paper.io 2 Trực tuyến - Trò chơi lãnh thổ nhiều người chơi miễn phí",
+    "slogan": "Chiếm giữ Bản đồ, Chiếm lĩnh Thế giới!",
+    "description": "Paper.io 2 là một trò chơi .io nhiều người chơi hồi hộp, nơi bạn vẽ bản đồ để tuyên bố lãnh thổ. Lập chiến lược để mở rộng khu vực của bạn trong khi phòng thủ chống lại đối thủ. Với lối chơi đơn giản nhưng gây nghiện, Paper.io 2 mang đến niềm vui vô tận cho người chơi ở mọi lứa tuổi. Hãy đắm chìm trong thế giới đầy màu sắc của Paper.io 2 và xem bạn có thể chinh phục được bao nhiêu lãnh thổ!",
     "Loading": {
       "title": "Đang tải..."
     },
     "Navbar": {
-      "title": "Điều hướng"
+      "title": "Đọc"
     },
     "Common": {
       "createAt": "Tạo lúc",
@@ -23,41 +23,41 @@
       "previous": "Trước đó"
     },
     "HomeIframe": {
-      "title": "Paper.IO 2",
-      "description": "Chiếm lấy các lãnh thổ mới và đánh bại kẻ thù trong trò chơi thú vị Paper.IO 2. Mở rộng hòn đảo của bạn và bảo vệ đuôi của bạn khỏi đối thủ. Chơi ngay bây giờ và tận hưởng thử thách!",
+      "title": "Paper.io 2 - Trò chơi lãnh thổ nhiều người chơi",
+      "description": "Hãy vẽ bản đồ và tuyên bố càng nhiều lãnh thổ càng tốt trong Paper.io 2. Cẩn thận với những người chơi khác đang cố gắng chiếm lấy không gian của bạn!",
       "iframeTitle": "Xem trước trò chơi",
       "fullscreenButton": "Màn hình toàn màn hình",
       "shareButton": "Chia sẻ",
-      "urlCopied": "Đã sao chép URL vào clipboard!",
+      "urlCopied": "Đã sao chép URL vào bộ nhớ tạm!",
       "downloadGame": "Tải xuống trò chơi",
       "playGame": "Chơi trò chơi"
     },
     "HomeFeatures": {
-      "gameTitle": "Paper.IO 2",
-      "whatIsTitle": "Paper.IO 2 là gì?",
-      "whatIsDescription": "Paper.IO 2 là một trò chơi thú vị nơi người chơi bắt đầu với một hòn đảo nhỏ và mở rộng bằng cách chiếm lấy các lãnh thổ mới. Hãy cẩn thận bên ngoài lãnh thổ của mình vì kẻ thù có thể tấn công. Bảo vệ đuôi của bạn và phản công để thống trị trò chơi.",
+      "gameTitle": "Paper.io 2 - Trò chơi lãnh thổ nhiều người chơi",
+      "whatIsTitle": "Paper.io 2 là gì?",
+      "whatIsDescription": "Paper.io 2 là một trò chơi .io nhiều người chơi thời gian thực, nơi bạn phải chiếm càng nhiều lãnh thổ càng tốt bằng cách tô màu nó. Tô màu bản đồ bằng màu của riêng bạn để chiếm lấy thế giới Paper.io! Hãy chú ý đến những người chơi khác đang tranh giành để chiếm lấy không gian của bạn.",
       "howToPlayTitle": "Cách chơi",
-      "howToPlayStep1": "Bắt đầu với một hòn đảo nhỏ và mở rộng bằng cách chiếm lấy các lãnh thổ mới.",
-      "howToPlayStep2": "Hãy cẩn thận bên ngoài lãnh thổ của mình vì kẻ thù có thể tấn công.",
-      "howToPlayStep3": "Bảo vệ đuôi của bạn và phản công để thống trị trò chơi.",
-      "keyFeaturesTitle": "Các tính năng chính",
-      "feature1Title": "Chiếm Lấy Lãnh Thổ",
-      "feature1Description": "Mở rộng hòn đảo của bạn bằng cách chiếm lấy các lãnh thổ mới.",
-      "feature2Title": "Gameplay Chiến Thuật",
-      "feature2Description": "Hãy cẩn thận bên ngoài lãnh thổ của mình và bảo vệ đuôi của bạn.",
-      "feature3Title": "Phản Công",
-      "feature3Description": "Phản công kẻ thù để thống trị trò chơi.",
-      "feature4Title": "Thử Thách Thú Vị",
-      "feature4Description": "Tận hưởng cảm giác phấn khích của cuộc chinh phục lãnh thổ trong Paper.IO 2."
+      "howToPlayStep1": "Di chuyển nhân vật của bạn để tô màu bản đồ.",
+      "howToPlayStep2": "Chiếm lấy lãnh thổ bằng cách đóng vòng.",
+      "howToPlayStep3": "Bảo vệ lãnh thổ của bạn khỏi những người chơi khác.",
+      "keyFeaturesTitle": "Tính năng chính",
+      "feature1Title": "Nhiều người chơi thời gian thực",
+      "feature1Description": "Cạnh tranh với người chơi trên khắp thế giới trong thời gian thực.",
+      "feature2Title": "Điều khiển đơn giản",
+      "feature2Description": "Dễ học, khó làm chủ với các điều khiển trực quan.",
+      "feature3Title": "Lối chơi chiến lược",
+      "feature3Description": "Lập kế hoạch di chuyển để tối đa hóa lãnh thổ và giảm thiểu rủi ro.",
+      "feature4Title": "Đồ họa đầy màu sắc",
+      "feature4Description": "Thưởng thức hình ảnh sống động và hấp dẫn khi bạn tô màu bản đồ."
     },
     "HomeFAQs": {
       "title": "Câu hỏi thường gặp"
     },
     "HomeRelatedVideo": {
-      "title": "Video trò chơi"
+      "title": "Video Trò chơi"
     },
     "HomeRecommendation": {
-      "title": "Đề xuất"
+      "title": "Giới thiệu"
     },
     "HomeComments": {
       "title": "Bình luận trò chơi"
@@ -65,10 +65,10 @@
     "GamePage": {
       "title": "Tất cả các trò chơi",
       "description": "Tất cả các trò chơi",
-      "games": "Các trò chơi"
+      "games": "Trò chơi"
     },
     "CategoryPage": {
-      "categories": "Các danh mục",
+      "categories": "Danh mục",
       "noCategories": "Không tìm thấy danh mục nào",
       "viewMore": "Xem thêm",
       "page": "Trang"

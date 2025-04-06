@@ -1,8 +1,8 @@
 {
   "paper-io-2": {
-    "title": "Jouer à Paper.IO 2 en ligne - Capturer les territoires et vaincre les ennemis",
-    "slogan": "Élargissez votre île, conquérir de nouveaux territoires !",
-    "description": "Découvrez le frisson de Paper.IO 2, où vous commencez par une petite île et vous épanouissez en capturant de nouveaux territoires. Soyez prudent en dehors de votre territoire, car les ennemis peuvent frapper. Protégez votre queue et contre-attaquez pour dominer le jeu. Jouez à Paper.IO 2 dès maintenant et appréciez la conquête territoriale ultime !",
+    "title": "Jouer à Paper.io 2 en ligne - Jeu de territoire multijoueur gratuit",
+    "slogan": "Capturez la carte, dominez le monde !",
+    "description": "Paper.io 2 est un jeu .io multijoueur palpitant où vous peignez la carte pour revendiquer le territoire. Concevez votre stratégie pour étendre votre zone tout en défendant contre vos rivaux. Avec son gameplay simple mais addictif, Paper.io 2 offre un plaisir sans fin aux joueurs de tous âges. Plongez dans le monde coloré de Paper.io 2 et voyez combien de territoires vous pouvez conquérir !",
     "Loading": {
       "title": "Chargement..."
     },
@@ -10,7 +10,7 @@
       "title": "Navigation"
     },
     "Common": {
-      "createAt": "Créer à",
+      "createAt": "Créé le",
       "guide": "Guide",
       "privacyPolicy": "Politique de confidentialité",
       "termsOfServices": "Conditions d'utilisation",
@@ -23,38 +23,38 @@
       "previous": "Précédent"
     },
     "HomeIframe": {
-      "title": "Paper.IO 2",
-      "description": "Capturez de nouveaux territoires et vainquez les ennemis dans le jeu passionnant Paper.IO 2. Développez votre île et protégez votre queue des adversaires. Jouez maintenant et appréciez le défi !",
+      "title": "Paper.io 2 - Jeu de territoire multijoueur",
+      "description": "Peignez la carte et revendiquez autant de territoire que possible dans Paper.io 2. Méfiez-vous des autres joueurs qui tentent de s'emparer de votre espace !",
       "iframeTitle": "Aperçu du jeu",
       "fullscreenButton": "Plein écran",
       "shareButton": "Partager",
-      "urlCopied": "URL copiée dans le presse-papiers !",
+      "urlCopied": "URL copiée dans le presse-papier !",
       "downloadGame": "Télécharger le jeu",
       "playGame": "Jouer"
     },
     "HomeFeatures": {
-      "gameTitle": "Paper.IO 2",
-      "whatIsTitle": "Qu'est-ce que Paper.IO 2 ?",
-      "whatIsDescription": "Paper.IO 2 est un jeu passionnant où les joueurs commencent par une petite île et s'étendent en capturant de nouveaux territoires. Soyez prudent à l'extérieur de votre territoire, car les ennemis peuvent frapper. Protégez votre queue et contre-attaquez pour dominer le jeu.",
+      "gameTitle": "Paper.io 2 - Jeu de territoire multijoueur",
+      "whatIsTitle": "Qu'est-ce que Paper.io 2 ?",
+      "whatIsDescription": "Paper.io 2 est un jeu .io multijoueur en temps réel où vous devez conquérir le plus de territoire possible en le peignant. Peignez la carte de votre couleur pour dominer le monde de Paper.io ! Méfiez-vous des autres joueurs qui cherchent à s'emparer de votre espace.",
       "howToPlayTitle": "Comment jouer",
-      "howToPlayStep1": "Commencez par une petite île et élargissez-la en capturant de nouveaux territoires.",
-      "howToPlayStep2": "Soyez prudent en dehors de votre territoire, car les ennemis peuvent vous attaquer.",
-      "howToPlayStep3": "Protégez votre queue et contre-attaquez pour dominer le jeu.",
-      "keyFeaturesTitle": "Principales caractéristiques",
-      "feature1Title": "Conquête territoriale",
-      "feature1Description": "Développez votre île en capturant de nouveaux territoires.",
-      "feature2Title": "Gameplay stratégique",
-      "feature2Description": "Soyez prudent à l'extérieur de votre territoire et protégez votre queue.",
-      "feature3Title": "Contre-attaque",
-      "feature3Description": "Répondez aux attaques des ennemis pour dominer le jeu.",
-      "feature4Title": "Défis passionnants",
-      "feature4Description": "Découvrez le frisson de la conquête territoriale dans Paper.IO 2."
+      "howToPlayStep1": "Déplacez votre personnage pour peindre la carte.",
+      "howToPlayStep2": "Revendiquez un territoire en fermant les boucles.",
+      "howToPlayStep3": "Défendez votre territoire contre les autres joueurs.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Multijoueur en temps réel",
+      "feature1Description": "Affrontez des joueurs du monde entier en temps réel.",
+      "feature2Title": "Commandes simples",
+      "feature2Description": "Facile à apprendre, difficile à maîtriser grâce à des commandes intuitives.",
+      "feature3Title": "Gameplay stratégique",
+      "feature3Description": "Planifiez vos mouvements pour maximiser le territoire et minimiser les risques.",
+      "feature4Title": "Graphismes colorés",
+      "feature4Description": "Profitez de visuels vibrants et captivants pendant que vous peignez la carte."
     },
     "HomeFAQs": {
-      "title": "FAQ"
+      "title": "Foire aux questions"
     },
     "HomeRelatedVideo": {
-      "title": "Vidéo du jeu"
+      "title": "Vidéo de jeu"
     },
     "HomeRecommendation": {
       "title": "Recommandations"

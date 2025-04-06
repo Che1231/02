@@ -1,77 +1,77 @@
 {
   "paper-io-2": {
-    "title": "Play Paper.IO 2 Online - Capture Territories & Defeat Enemies",
-    "slogan": "Expand Your Island, Conquer New Territories!",
-    "description": "Experience the thrill of Paper.IO 2, where you start with a small island and expand by capturing new territories. Be cautious outside your turf as enemies can strike. Protect your tail and counter-attack to dominate the game. Play Paper.IO 2 now and enjoy the ultimate territorial conquest!",
+    "title": "線上玩紙片人 2 - 免費多人版領土遊戲",
+    "slogan": "佔領地圖，統治世界！",
+    "description": "紙片人 2 是一款令人興奮的多人 .io 遊戲，您需繪製地圖來佔領領土。制定策略擴展您的區域，同時防禦對手的侵犯。其簡單卻令人上癮的遊戲玩法，讓各年齡層的玩家都能盡情享受。投入紙片人 2 的繽紛世界，看看你能征服多少領土！",
     "Loading": {
-      "title": "Loading..."
+      "title": "載入中..."
     },
     "Navbar": {
-      "title": "Nav"
+      "title": "導覽"
     },
     "Common": {
-      "createAt": "Create At",
-      "guide": "Guide",
-      "privacyPolicy": "Privacy Policy",
-      "termsOfServices": "Terms of Services",
-      "text": "Content",
-      "help": "Help",
-      "friendlyLinks": "Friendly Links",
-      "articleList": "Article List",
-      "home": "Home",
-      "next": "Next",
-      "previous": "Previous"
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
     },
     "HomeIframe": {
-      "title": "Paper.IO 2",
-      "description": "Capture new territories and defeat enemies in the exciting game Paper.IO 2. Expand your island and protect your tail from opponents. Play now and enjoy the challenge!",
-      "iframeTitle": "Game Preview",
-      "fullscreenButton": "Fullscreen",
-      "shareButton": "Share",
-      "urlCopied": "URL copied to clipboard!",
-      "downloadGame": "Download Game",
-      "playGame": "Play Game"
+      "title": "紙片人 2 - 多人版領土遊戲",
+      "description": "在紙片人 2 中繪製地圖，並佔領盡可能多的領土。小心其他玩家試圖佔領您的空間！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "玩遊戲"
     },
     "HomeFeatures": {
-      "gameTitle": "Paper.IO 2",
-      "whatIsTitle": "What is Paper.IO 2?",
-      "whatIsDescription": "Paper.IO 2 is an exciting game where players start with a small island and expand by capturing new territories. Be cautious outside your turf as enemies can strike. Protect your tail and counter-attack to dominate the game.",
-      "howToPlayTitle": "How to Play",
-      "howToPlayStep1": "Start with a small island and expand by capturing new territories.",
-      "howToPlayStep2": "Be cautious outside your turf as enemies can strike.",
-      "howToPlayStep3": "Protect your tail and counter-attack to dominate the game.",
-      "keyFeaturesTitle": "Key Features",
-      "feature1Title": "Territorial Conquest",
-      "feature1Description": "Expand your island by capturing new territories.",
-      "feature2Title": "Strategic Gameplay",
-      "feature2Description": "Be cautious outside your turf and protect your tail.",
-      "feature3Title": "Counter-Attack",
-      "feature3Description": "Strike back at enemies to dominate the game.",
-      "feature4Title": "Exciting Challenges",
-      "feature4Description": "Enjoy the thrill of territorial conquest in Paper.IO 2."
+      "gameTitle": "紙片人 2 - 多人版領土遊戲",
+      "whatIsTitle": "什麼是紙片人 2？",
+      "whatIsDescription": "紙片人 2 是一款即時多人 .io 遊戲，您必須透過繪製地圖來佔領盡可能多的領土。用您自己的顏色繪製地圖，佔領紙片人世界！留意其他玩家正在爭奪您的空間。",
+      "howToPlayTitle": "如何玩遊戲",
+      "howToPlayStep1": "移動您的角色來繪製地圖。",
+      "howToPlayStep2": "透過封閉迴路來佔領領土。",
+      "howToPlayStep3": "防禦其他玩家的攻擊，捍衛您的領土。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "即時多人遊戲",
+      "feature1Description": "與來自世界各地的玩家進行即時競爭。",
+      "feature2Title": "簡單控制",
+      "feature2Description": "容易上手，難以精通，擁有直覺的控制介面。",
+      "feature3Title": "策略性遊戲",
+      "feature3Description": "計劃您的動作以最大限度地擴展領土，並將風險降至最低。",
+      "feature4Title": "色彩繽紛的圖形",
+      "feature4Description": "在繪製地圖的過程中，享受生動且引人入勝的視覺效果。"
     },
     "HomeFAQs": {
-      "title": "FAQs"
+      "title": "常見問題"
     },
     "HomeRelatedVideo": {
-      "title": "Game Video"
+      "title": "遊戲影片"
     },
     "HomeRecommendation": {
-      "title": "Recommends"
+      "title": "推薦"
     },
     "HomeComments": {
-      "title": "Play Comments"
+      "title": "遊戲評論"
     },
     "GamePage": {
-      "title": "All Games",
-      "description": "All Games",
-      "games": "Games"
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
     },
     "CategoryPage": {
-      "categories": "Categories",
-      "noCategories": "No categories found",
-      "viewMore": "View More",
-      "page": "Page"
+      "categories": "分類",
+      "noCategories": "找不到任何分類",
+      "viewMore": "檢視更多",
+      "page": "頁面"
     }
   }
 }

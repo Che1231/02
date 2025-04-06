@@ -1,17 +1,17 @@
 {
   "paper-io-2": {
-    "title": "Paper.IO 2 online spielen – Gebiete erobern und Feinde besiegen",
-    "slogan": "Erweitere deine Insel und erobert neue Gebiete!",
-    "description": "Erlebe den Nervenkitzel von Paper.IO 2, wo du mit einer kleinen Insel beginnst und durch die Eroberung neuer Gebiete expandierst. Sei vorsichtig außerhalb deines Territoriums, da Feinde zuschlagen können. Schütze deinen Schwanz und konterangreife, um das Spiel zu dominieren. Spiele jetzt Paper.IO 2 und genieße die ultimative territoriale Eroberung!",
+    "title": "Paper.io 2 online spielen – kostenloses Multiplayer-Territoriumsspiel",
+    "slogan": "Die Karte erobern, die Welt dominieren!",
+    "description": "Paper.io 2 ist ein spannendes Multiplayer-'.io'-Spiel, bei dem Sie die Karte bemalen, um Territorium zu beanspruchen. Entwickeln Sie Strategien, um Ihr Gebiet zu erweitern und gleichzeitig Rivalen abzuwehren. Mit seinem einfachen und dennoch süchtig machenden Gameplay bietet Paper.io 2 endlosen Spaß für Spieler jeden Alters. Tauchen Sie ein in die farbenfrohe Welt von Paper.io 2 und sehen Sie, wie viel Territorium Sie erobern können!",
     "Loading": {
-      "title": "Lädt..."
+      "title": "Laden..."
     },
     "Navbar": {
       "title": "Navigation"
     },
     "Common": {
       "createAt": "Erstellt am",
-      "guide": "Leitfaden",
+      "guide": "Anleitung",
       "privacyPolicy": "Datenschutzrichtlinie",
       "termsOfServices": "Nutzungsbedingungen",
       "text": "Inhalt",
@@ -23,9 +23,9 @@
       "previous": "Zurück"
     },
     "HomeIframe": {
-      "title": "Paper.IO 2",
-      "description": "Erobert neue Gebiete und besiege Feinde im spannenden Spiel Paper.IO 2. Erweitere deine Insel und schütze deinen Schwanz vor Gegnern. Spiele jetzt und genieße die Herausforderung!",
-      "iframeTitle": "Spielvorschau",
+      "title": "Paper.io 2 – Multiplayer-Territoriumsspiel",
+      "description": "Bemalen Sie die Karte und beanspruchen Sie so viel Territorium wie möglich in Paper.io 2. Achten Sie auf andere Spieler, die versuchen, Ihren Raum zu übernehmen!",
+      "iframeTitle": "Vorschau des Spiels",
       "fullscreenButton": "Vollbild",
       "shareButton": "Teilen",
       "urlCopied": "URL in die Zwischenablage kopiert!",
@@ -33,22 +33,22 @@
       "playGame": "Spiel starten"
     },
     "HomeFeatures": {
-      "gameTitle": "Paper.IO 2",
-      "whatIsTitle": "Was ist Paper.IO 2?",
-      "whatIsDescription": "Paper.IO 2 ist ein spannendes Spiel, bei dem die Spieler mit einer kleinen Insel beginnen und durch die Eroberung neuer Gebiete expandieren. Sei vorsichtig außerhalb deines Territoriums, da Feinde zuschlagen können. Schütze deinen Schwanz und konterangreife, um das Spiel zu dominieren.",
-      "howToPlayTitle": "So spielst du",
-      "howToPlayStep1": "Beginne mit einer kleinen Insel und expandiere durch die Eroberung neuer Gebiete.",
-      "howToPlayStep2": "Sei vorsichtig außerhalb deines Territoriums, da Feinde zuschlagen können.",
-      "howToPlayStep3": "Schütze deinen Schwanz und konterangreife, um das Spiel zu dominieren.",
-      "keyFeaturesTitle": "Schlüsselmerkmale",
-      "feature1Title": "Territorial Conquest",
-      "feature1Description": "Erweitere deine Insel durch die Eroberung neuer Gebiete.",
-      "feature2Title": "Strategisches Gameplay",
-      "feature2Description": "Sei vorsichtig außerhalb deines Territoriums und schütze deinen Schwanz.",
-      "feature3Title": "Konterangriff",
-      "feature3Description": "Schlage zurück, um das Spiel zu dominieren.",
-      "feature4Title": "Spannende Herausforderungen",
-      "feature4Description": "Genieße den Nervenkitzel der territorialen Eroberung in Paper.IO 2."
+      "gameTitle": "Paper.io 2 – Multiplayer-Territoriumsspiel",
+      "whatIsTitle": "Was ist Paper.io 2?",
+      "whatIsDescription": "Paper.io 2 ist ein Multiplayer-'.io'-Spiel in Echtzeit, bei dem Sie so viel Territorium wie möglich erobern müssen, indem Sie es bemalen. Bemalen Sie die Karte in Ihrer eigenen Farbe, um die Paper.io-Welt zu erobern! Achten Sie auf andere Spieler, die versuchen, Ihren Raum einzunehmen.",
+      "howToPlayTitle": "Spielanleitung",
+      "howToPlayStep1": "Bewegen Sie Ihren Charakter, um die Karte zu bemalen.",
+      "howToPlayStep2": "Beanspruchen Sie Territorium, indem Sie Schleifen schließen.",
+      "howToPlayStep3": "Verteidigen Sie Ihr Territorium gegen andere Spieler.",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
+      "feature1Title": "Multiplayer in Echtzeit",
+      "feature1Description": "Treten Sie in Echtzeit gegen Spieler aus aller Welt an.",
+      "feature2Title": "Einfache Steuerung",
+      "feature2Description": "Einfach zu erlernen, mit intuitiver Steuerung schwer zu meistern.",
+      "feature3Title": "Strategisches Gameplay",
+      "feature3Description": "Planen Sie Ihre Züge, um das Territorium zu maximieren und Risiken zu minimieren.",
+      "feature4Title": "Farbige Grafiken",
+      "feature4Description": "Genießen Sie lebendige und ansprechende Grafiken, während Sie die Karte bemalen."
     },
     "HomeFAQs": {
       "title": "FAQ"

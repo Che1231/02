@@ -1,8 +1,8 @@
 {
   "paper-io-2": {
-    "title": "Gioca a Paper.IO 2 Online - Cattura Territori e Sconfiggi i Nemici",
-    "slogan": "Espandi la Tua Isola, Conquista Nuovi Territori!",
-    "description": "Vivi l'emozione di Paper.IO 2, dove inizi con una piccola isola ed espandi conquistando nuovi territori. Fai attenzione al di fuori del tuo territorio, poiché i nemici possono attaccare. Proteggi la tua coda e contrattacca per dominare il gioco. Gioca a Paper.IO 2 ora e goditi l'ultima conquista territoriale!",
+    "title": "Gioca a Paper.io 2 Online - Gioco di Territorio Multigiocatore Gratuito",
+    "slogan": "Cattura la Mappa, Domina il Mondo!",
+    "description": "Paper.io 2 è un emozionante gioco multiplayer .io in cui dipingi la mappa per reclamare il territorio. Strategizza per espandere la tua area difendendoti dai rivali. Con il suo gameplay semplice ma avvincente, Paper.io 2 offre divertimento senza fine per giocatori di tutte le età. Immergiti nel colorato mondo di Paper.io 2 e osserva quanta superficie riesci a conquistare!",
     "Loading": {
       "title": "Caricamento..."
     },
@@ -10,7 +10,7 @@
       "title": "Navigazione"
     },
     "Common": {
-      "createAt": "Creato il",
+      "createAt": "Creato alle",
       "guide": "Guida",
       "privacyPolicy": "Informativa sulla Privacy",
       "termsOfServices": "Termini di Servizio",
@@ -23,8 +23,8 @@
       "previous": "Precedente"
     },
     "HomeIframe": {
-      "title": "Paper.IO 2",
-      "description": "Cattura nuovi territori e sconfiggi i nemici nell'emozionante gioco Paper.IO 2. Espandi la tua isola e proteggi la tua coda dagli avversari. Gioca ora e affronta la sfida!",
+      "title": "Paper.io 2 - Gioco di Territorio Multigiocatore",
+      "description": "Dipingi la mappa e reclama il maggior territorio possibile in Paper.io 2. Fai attenzione ad altri giocatori che cercano di conquistare il tuo spazio!",
       "iframeTitle": "Anteprima del Gioco",
       "fullscreenButton": "Schermo intero",
       "shareButton": "Condividi",
@@ -33,22 +33,22 @@
       "playGame": "Gioca"
     },
     "HomeFeatures": {
-      "gameTitle": "Paper.IO 2",
-      "whatIsTitle": "Cos'è Paper.IO 2?",
-      "whatIsDescription": "Paper.IO 2 è un emozionante gioco in cui i giocatori iniziano con una piccola isola e si espandono conquistando nuovi territori. Fai attenzione al di fuori del tuo territorio, poiché i nemici possono attaccare. Proteggi la tua coda e contrattacca per dominare il gioco.",
+      "gameTitle": "Paper.io 2 - Gioco di Territorio Multigiocatore",
+      "whatIsTitle": "Cos'è Paper.io 2?",
+      "whatIsDescription": "Paper.io 2 è un gioco multiplayer .io in tempo reale in cui devi catturare il maggior territorio possibile dipingendolo. Dipingi la mappa con il tuo colore per conquistare il mondo di Paper.io! Fai attenzione ad altri giocatori che cercano di reclamare il tuo spazio.",
       "howToPlayTitle": "Come Giocare",
-      "howToPlayStep1": "Inizia con una piccola isola ed espanditi conquistando nuovi territori.",
-      "howToPlayStep2": "Fai attenzione al di fuori del tuo territorio, poiché i nemici possono attaccare.",
-      "howToPlayStep3": "Proteggi la tua coda e contrattacca per dominare il gioco.",
+      "howToPlayStep1": "Sposta il tuo personaggio per dipingere la mappa.",
+      "howToPlayStep2": "Richiedi territorio chiudendo i cicli.",
+      "howToPlayStep3": "Difendi il tuo territorio da altri giocatori.",
       "keyFeaturesTitle": "Caratteristiche Principali",
-      "feature1Title": "Conquista Territoriale",
-      "feature1Description": "Espandi la tua isola conquistando nuovi territori.",
-      "feature2Title": "Gameplay Strategico",
-      "feature2Description": "Fai attenzione al di fuori del tuo territorio e proteggi la tua coda.",
-      "feature3Title": "Controattacco",
-      "feature3Description": "Colpisci i nemici per dominare il gioco.",
-      "feature4Title": "Sfide Emozionanti",
-      "feature4Description": "Vivi l'emozione della conquista territoriale in Paper.IO 2."
+      "feature1Title": "Multiplayer in Tempo Reale",
+      "feature1Description": "Competi con giocatori da tutto il mondo in tempo reale.",
+      "feature2Title": "Controlli Semplici",
+      "feature2Description": "Facile da imparare, difficile da padroneggiare con controlli intuitivi.",
+      "feature3Title": "Gameplay Strategico",
+      "feature3Description": "Pianifica le tue mosse per massimizzare il territorio e minimizzare i rischi.",
+      "feature4Title": "Grafica Colorata",
+      "feature4Description": "Vivi immagini accattivanti e vibranti mentre dipingi la mappa."
     },
     "HomeFAQs": {
       "title": "FAQ"
@@ -69,8 +69,8 @@
     },
     "CategoryPage": {
       "categories": "Categorie",
-      "noCategories": "Nessuna categoria trovata",
-      "viewMore": "Vedi di Più",
+      "noCategories": "Categorie non trovate",
+      "viewMore": "Visualizza di Più",
       "page": "Pagina"
     }
   }
