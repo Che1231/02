@@ -1,0 +1,77 @@
+{
+  "thief-puzzle": {
+    "title": "Hırsız Bulmacası: Akıllıca 2D Bulmaca Mantık Oyunu",
+    "slogan": "Problem Çözme ve Strateji Becerilerinizi Test Edin",
+    "description": "Hırsız Bulmacası, problem çözme ve strateji becerilerinizi test eden zekice bir 2D bulmaca mantık oyunudur. Değerli hazineler için uzanan hırsızın elini kontrol ediyorsunuz, ancak yol karmaşık tuzaklar, lazer güvenlik sistemleri ve sinsi engellerle dolu. Karşınıza çıkan her tuzağı atlatmak için gerekenlere sahipsiniz mi? Hırsız Bulmacası'nı şimdi oynayın ve kendinizi bu ilgi çekici bulmaca oyunuyla zorlayın.",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti Çubuğu"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Hırsız Bulmacası",
+      "description": "Hırsız Bulmacası, problem çözme ve strateji becerilerinizi test eden zekice bir 2D bulmaca mantık oyunudur. Değerli hazineler için uzanan hırsızın elini kontrol ediyorsunuz, ancak yol karmaşık tuzaklar, lazer güvenlik sistemleri ve sinsi engellerle dolu. Karşınıza çıkan her tuzağı atlatmak için gerekenlere sahipsiniz mi?",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Hırsız Bulmacası",
+      "whatIsTitle": "Hırsız Bulmacası Nedir?",
+      "whatIsDescription": "Hırsız Bulmacası, problem çözme ve strateji becerilerinizi test eden zekice bir 2D bulmaca mantık oyunudur. Değerli hazineler için uzanan hırsızın elini kontrol ediyorsunuz, ancak yol karmaşık tuzaklar, lazer güvenlik sistemleri ve sinsi engellerle dolu.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Hırsızın elini kontrol ederek değerli hazinelere ulaşın.",
+      "howToPlayStep2": "Karmaşık tuzaklar ve lazer güvenlik sistemlerinden geçin.",
+      "howToPlayStep3": "Her engeli atlatarak seviyeyi tamamlayın.",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Zorlayıcı Bulmacalar",
+      "feature1Description": "Karmaşık bulmacalar ile problem çözme becerilerinizi test edin.",
+      "feature2Title": "Stratejik Oyun",
+      "feature2Description": "Tuzakları atlatmak için hamlelerinizi dikkatlice planlayın.",
+      "feature3Title": "İlgi Çekici Seviyeler",
+      "feature3Description": "Engellerle dolu çeşitli seviyelerden geçin.",
+      "feature4Title": "Duygusal Deneyim",
+      "feature4Description": "B büyüleyici 2D bulmaca mantık oyununun tadını çıkarın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

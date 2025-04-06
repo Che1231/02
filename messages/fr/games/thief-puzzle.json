@@ -1,0 +1,77 @@
+{
+  "thief-puzzle": {
+    "title": "Puzzle du Voleur : Un jeu de logique astucieux en 2D",
+    "slogan": "Mettez vos compétences en résolution de problèmes et en stratégie à l'épreuve",
+    "description": "Thief Puzzle est un astucieux jeu de logique de puzzle 2D qui met vos compétences en résolution de problèmes et en stratégie à l'épreuve. Vous contrôlez la main d'un voleur rusé qui tend la main vers des trésors précieux, mais le chemin est semé de pièges complexes, de systèmes de sécurité laser et d'obstacles délicats. Avez-vous ce qu'il faut pour déjouer chaque piège qui se présente ? Jouez à Thief Puzzle dès maintenant et défiez-vous avec ce jeu de puzzle captivant.",
+    "Loading": {
+      "title": "Chargement…"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Puzzle du Voleur",
+      "description": "Thief Puzzle est un astucieux jeu de logique de puzzle 2D qui met vos compétences en résolution de problèmes et en stratégie à l'épreuve. Vous contrôlez la main d'un voleur rusé qui tend la main vers des trésors précieux, mais le chemin est semé de pièges complexes, de systèmes de sécurité laser et d'obstacles délicats. Avez-vous ce qu'il faut pour déjouer chaque piège qui se présente ?",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Puzzle du Voleur",
+      "whatIsTitle": "Qu'est-ce que le Puzzle du Voleur ?",
+      "whatIsDescription": "Thief Puzzle est un astucieux jeu de logique de puzzle 2D qui met vos compétences en résolution de problèmes et en stratégie à l'épreuve. Vous contrôlez la main d'un voleur rusé qui tend la main vers des trésors précieux, mais le chemin est semé de pièges complexes, de systèmes de sécurité laser et d'obstacles délicats.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Contrôlez la main du voleur pour atteindre les trésors précieux.",
+      "howToPlayStep2": "Naviguez à travers les pièges complexes et les systèmes de sécurité laser.",
+      "howToPlayStep3": "Déjouez chaque obstacle pour terminer le niveau.",
+      "keyFeaturesTitle": "Fonctionnalités principales",
+      "feature1Title": "Des puzzles stimulants",
+      "feature1Description": "Mettez vos compétences en résolution de problèmes à l'épreuve avec des énigmes complexes.",
+      "feature2Title": "Gameplay stratégique",
+      "feature2Description": "Planifiez vos mouvements avec soin pour déjouer les pièges.",
+      "feature3Title": "Niveaux captivants",
+      "feature3Description": "Naviguez à travers différents niveaux remplis d'obstacles.",
+      "feature4Title": "Expérience immersive",
+      "feature4Description": "Profitez d'un jeu de logique de puzzle 2D captivant."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires des joueurs"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

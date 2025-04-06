@@ -1,0 +1,77 @@
+{
+  "man-runner-2048": {
+    "title": "맨 러너 2048: 달리기, 병합, 정복!",
+    "slogan": "맨 러너 2048에서 달리기, 병합, 정복하세요!",
+    "description": "맨 러너 2048은 2048에 도달하기 위해 남자들을 달리고 합치는 재미있는 캐주얼 게임입니다. 각 레벨에서 최고 점수를 얻어 가장 강력한 거대 괴물을 공격하는 것이 목표입니다. 이 흥미진진한 게임에서 병합과 달리기의 짜릿함을 경험하세요. 지금 맨 러너 2048을 플레이하고 얼마나 멀리 갈 수 있는지 확인하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "맨 러너 2048",
+      "description": "맨 러너 2048은 2048에 도달하기 위해 남자들을 달리고 합치는 재미있는 캐주얼 게임입니다. 각 레벨에서 최고 점수를 얻어 가장 강력한 거대 괴물을 공격하는 것이 목표입니다.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "맨 러너 2048",
+      "whatIsTitle": "맨 러너 2048은 무엇인가요?",
+      "whatIsDescription": "맨 러너 2048은 2048에 도달하기 위해 남자들을 달리고 합치는 재미있는 캐주얼 게임입니다. 각 레벨에서 최고 점수를 얻어 가장 강력한 거대 괴물을 공격하는 것이 목표입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "2048에 도달하기 위해 남자들을 달리고 합치세요.",
+      "howToPlayStep2": "각 레벨에서 최고 점수를 얻으세요.",
+      "howToPlayStep3": "가장 강력한 거대 괴물을 공격하세요.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "달리기 및 병합",
+      "feature1Description": "2048에 도달하기 위해 남자들을 달리고 합치는 짜릿함을 경험하세요.",
+      "feature2Title": "괴물 사냥",
+      "feature2Description": "힘을 사용하여 거대 괴물을 공격하고 각 레벨을 정복하세요.",
+      "feature3Title": "높은 점수",
+      "feature3Description": "최고 점수를 목표로 하고 랭킹을 장악하세요.",
+      "feature4Title": "캐주얼 즐거움",
+      "feature4Description": "맨 러너 2048으로 재미있고 캐주얼한 게임 경험을 즐기세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "man-runner-2048": {
+    "title": "Corredor de Homens 2048: Corra, Mescle e Conquiste!",
+    "slogan": "Corra, Mescle e Conquiste em Corredor de Homens 2048!",
+    "description": "Corredor de Homens 2048 é um divertido jogo casual em que você corre e funde homens para atingir 2048. Seu objetivo é obter a pontuação mais alta em cada nível para poder atirar nos monstros gigantes com o máximo de potência. Experimente a emoção de fundir e correr neste jogo emocionante. Jogue Corredor de Homens 2048 agora e veja até onde você pode ir!",
+    "Loading": {
+      "title": "Carregando..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links amigáveis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Corredor de Homens 2048",
+      "description": "Corredor de Homens 2048 é um divertido jogo casual em que você corre e funde homens para atingir 2048. Seu objetivo é obter a pontuação mais alta em cada nível para poder atirar nos monstros gigantes com o máximo de potência.",
+      "iframeTitle": "Prévia do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Corredor de Homens 2048",
+      "whatIsTitle": "O que é Corredor de Homens 2048?",
+      "whatIsDescription": "Corredor de Homens 2048 é um divertido jogo casual em que você corre e funde homens para atingir 2048. Seu objetivo é obter a pontuação mais alta em cada nível para poder atirar nos monstros gigantes com o máximo de potência.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Corra e funda homens para atingir 2048.",
+      "howToPlayStep2": "Obtenha a pontuação mais alta em cada nível.",
+      "howToPlayStep3": "Atire nos monstros gigantes com o máximo de potência.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Correr e Fundir",
+      "feature1Description": "Experimente a emoção de correr e fundir homens para atingir 2048.",
+      "feature2Title": "Atirar em Monstros",
+      "feature2Description": "Use seu poder para atirar em monstros gigantes e conquistar cada nível.",
+      "feature3Title": "Melhores Pontuações",
+      "feature3Description": "Busque a melhor pontuação e domine o ranking.",
+      "feature4Title": "Diversão Casual",
+      "feature4Description": "Desfrute de uma experiência de jogo divertida e casual com Corredor de Homens 2048."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários de Jogadores"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

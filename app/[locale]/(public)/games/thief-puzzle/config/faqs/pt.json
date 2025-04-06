@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Como executar movimentos e interações básicos no Puzzle do Ladrão?",
+    "answer": "No Puzzle do Ladrão, os movimentos básicos são controlados usando as teclas de seta ou WASD. Para interagir com objetos, pressione a barra de espaço. Por exemplo, para pegar uma chave, mova seu personagem ao lado dela e pressione a barra de espaço. Isso adicionará a chave ao seu inventário, que pode ser acessado pressionando 'I'."
+  },
+  {
+    "question": "Por que meu personagem é pego mesmo quando estou escondido no Puzzle do Ladrão?",
+    "answer": "Ser pego enquanto escondido pode ser devido a vários fatores. Primeiro, certifique-se de que você esteja completamente fora do campo de visão da guarda. Por exemplo, esconder-se atrás de uma parede pode não ser suficiente se a guarda ainda puder ver sua sombra. Segundo, algumas guardas têm sentidos aguçados e podem detectar movimento mesmo nas sombras. Sempre observe os padrões de patrulha deles antes de tomar uma ação."
+  },
+  {
+    "question": "Quais são os itens essenciais a serem coletados nos estágios iniciais do Puzzle do Ladrão?",
+    "answer": "Nos estágios iniciais, concentre-se na coleta de chaves e alicates. As chaves são cruciais para abrir portas, enquanto os alicates podem ser usados em baús trancados. Por exemplo, no primeiro nível, há uma porta trancada que requer uma chave encontrada na sala adjacente. Priorize sempre esses itens para progredir sem problemas."
+  },
+  {
+    "question": "Como posso otimizar minha estratégia de furtividade no Puzzle do Ladrão após 100 horas de jogo?",
+    "answer": "Após 100 horas, otimize sua furtividade dominando os padrões de guarda e usando distrações. PASSO 1: Observe as rotas e o tempo de espera das guardas. PASSO 2: Use objetos arremessáveis, como pedras, para criar distrações. PASSO 3: Sempre tenha uma rota de fuga planejada. Por exemplo, no nível 10, arremessar uma pedra para a esquerda enquanto se move para a direita pode desviar eficazmente a atenção."
+  },
+  {
+    "question": "Quais habilidades devo priorizar ao atualizar no Puzzle do Ladrão para um jogo avançado?",
+    "answer": "Para um jogo avançado, priorize atualizar as habilidades de furtividade e arrombamento. Furtividade reduz a chance de ser detectado, enquanto arrombamento permite o acesso a itens valiosos. Por exemplo, no nível 15, habilidades aprimoradas de arrombamento permitem que você abra um baú contendo um artefato raro que aumenta significativamente sua pontuação."
+  },
+  {
+    "question": "Por que é importante gerenciar o espaço do inventário no Puzzle do Ladrão?",
+    "answer": "Gerenciar o espaço do inventário é crucial porque afeta sua capacidade de carregar itens essenciais. Por exemplo, no nível 20, você pode precisar carregar várias chaves e ferramentas simultaneamente. Sobrecarregar seu inventário pode forçá-lo a descartar itens importantes, dificultando o progresso. Priorize sempre os itens com base nas necessidades imediatas."
+  },
+  {
+    "question": "Quais são as mecânicas subjacentes do sistema de detecção no Puzzle do Ladrão?",
+    "answer": "O sistema de detecção no Puzzle do Ladrão baseia-se em linha de visão e som. As guardas têm um cone de visão que representa seu campo de visão. Mover-se dentro desse cone ou fazer barulho, como correr, aumenta o risco de detecção. Por exemplo, no nível 5, agachar-se e mover-se lentamente atrás das costas de uma guarda mantém você indetectável."
+  },
+  {
+    "question": "Como o sistema de pontuação no Puzzle do Ladrão calcula sua pontuação final?",
+    "answer": "O sistema de pontuação no Puzzle do Ladrão calcula sua pontuação final com base em vários fatores: tempo gasto, itens coletados e nível de furtividade. Por exemplo, concluir um nível rapidamente enquanto coleta todos os itens e permanece indetectável resulta na pontuação mais alta. Cada fator tem um peso específico, sendo a furtividade a mais significativa."
+  },
+  {
+    "question": "Posso transferir meu progresso do Puzzle do Ladrão do PC para o celular?",
+    "answer": "Sim, você pode transferir seu progresso do PC para o celular usando o recurso de salvamento em nuvem. Certifique-se de que você esteja logado na mesma conta em ambas as plataformas. Por exemplo, após concluir o nível 10 no PC, faça login no seu dispositivo móvel e seu progresso será sincronizado automaticamente, permitindo que você continue de onde parou."
+  },
+  {
+    "question": "Quais ovos de Páscoa ocultos podem ser encontrados no Puzzle do Ladrão?",
+    "answer": "O Puzzle do Ladrão contém vários ovos de Páscoa ocultos. Um exemplo notável é uma sala secreta no nível 12. Para acessá-la, interaja com um painel de parede específico em uma sequência: pressione-o três vezes, aguarde e, em seguida, pressione-o mais uma vez. Isso revela uma sala contendo um item único que não está listado no guia oficial do jogo."
+  }
+]

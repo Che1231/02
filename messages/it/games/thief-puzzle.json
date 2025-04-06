@@ -1,0 +1,77 @@
+{
+  "thief-puzzle": {
+    "title": "Indovinello del Ladro: Un Intelligente Gioco di Logica a Puzzle 2D",
+    "slogan": "Metti alla Prova le Tue Abilità di Problem Solving e Strategia",
+    "description": "Indovinello del Ladro è un ingegnoso gioco di logica a puzzle 2D che mette alla prova le tue abilità di problem-solving e strategia. Controlli la mano di un ladro astuto mentre raggiunge preziosi tesori, ma il percorso è costellato da complesse trappole, sistemi di sicurezza laser e ostacoli insidiosi. Hai quel che ci vuole per ingannare ogni trappola che incontri? Gioca a Indovinello del Ladro ora e mettiti alla prova con questo coinvolgente gioco a puzzle.",
+    "Loading": {
+      "title": "Caricamento..."
+    },
+    "Navbar": {
+      "title": "Navigazione"
+    },
+    "Common": {
+      "createAt": "Creato il",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla Privacy",
+      "termsOfServices": "Termini di Servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Link Utili",
+      "articleList": "Elenco Articoli",
+      "home": "Home",
+      "next": "Successivo",
+      "previous": "Precedente"
+    },
+    "HomeIframe": {
+      "title": "Indovinello del Ladro",
+      "description": "Indovinello del Ladro è un ingegnoso gioco di logica a puzzle 2D che mette alla prova le tue abilità di problem-solving e strategia. Controlli la mano di un ladro astuto mentre raggiunge preziosi tesori, ma il percorso è costellato da complesse trappole, sistemi di sicurezza laser e ostacoli insidiosi. Hai quel che ci vuole per ingannare ogni trappola che incontri?",
+      "iframeTitle": "Anteprima del Gioco",
+      "fullscreenButton": "Schermo intero",
+      "shareButton": "Condividi",
+      "urlCopied": "URL copiato negli appunti!",
+      "downloadGame": "Scarica il Gioco",
+      "playGame": "Gioca"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Indovinello del Ladro",
+      "whatIsTitle": "Cos'è Indovinello del Ladro?",
+      "whatIsDescription": "Indovinello del Ladro è un ingegnoso gioco di logica a puzzle 2D che mette alla prova le tue abilità di problem-solving e strategia. Controlli la mano di un ladro astuto mentre raggiunge preziosi tesori, ma il percorso è costellato da complesse trappole, sistemi di sicurezza laser e ostacoli insidiosi.",
+      "howToPlayTitle": "Come Giocare",
+      "howToPlayStep1": "Controlla la mano del ladro per raggiungere i tesori preziosi.",
+      "howToPlayStep2": "Naviga attraverso complesse trappole e sistemi di sicurezza laser.",
+      "howToPlayStep3": "Inganna ogni ostacolo per completare il livello.",
+      "keyFeaturesTitle": "Caratteristiche Principali",
+      "feature1Title": "Puzzle Sfida",
+      "feature1Description": "Metti alla prova le tue abilità di problem-solving con intricate puzzle.",
+      "feature2Title": "Gameplay Strategico",
+      "feature2Description": "Pianifica i tuoi movimenti con attenzione per ingannare le trappole.",
+      "feature3Title": "Livelli Avvincenti",
+      "feature3Description": "Naviga attraverso vari livelli pieni di ostacoli.",
+      "feature4Title": "Esperienza Immersiva",
+      "feature4Description": "Vivi un coinvolgente gioco di logica a puzzle 2D."
+    },
+    "HomeFAQs": {
+      "title": "Domande Frequenti"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Raccomandati"
+    },
+    "HomeComments": {
+      "title": "Commenti sul Gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i Giochi",
+      "description": "Tutti i Giochi",
+      "games": "Giochi"
+    },
+    "CategoryPage": {
+      "categories": "Categorie",
+      "noCategories": "Nessuna categoria trovata",
+      "viewMore": "Visualizza Altri",
+      "page": "Pagina"
+    }
+  }
+}

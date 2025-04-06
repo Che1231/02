@@ -1,0 +1,1 @@
+Man Runner 2048 is a fun casual game where you run and merge men to reach 2048. Your goal is to get the highest score on each level so you can shoot the giant monsters with the most power.

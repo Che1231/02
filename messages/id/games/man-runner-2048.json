@@ -1,0 +1,77 @@
+{
+  "man-runner-2048": {
+    "title": "Man Runner 2048: Lari, Gabungkan, dan Taklukkan!",
+    "slogan": "Lari, Gabungkan, dan Taklukkan di Man Runner 2048!",
+    "description": "Man Runner 2048 adalah permainan kasual yang menyenangkan di mana Anda berlari dan menggabungkan orang untuk mencapai 2048. Tujuan Anda adalah mendapatkan skor tertinggi di setiap level agar Anda dapat menembak monster raksasa dengan kekuatan terbanyak. Rasakan sensasi menggabungkan dan berlari dalam permainan yang mengasyikkan ini. Mainkan Man Runner 2048 sekarang dan lihat seberapa jauh Anda bisa melangkah!",
+    "Loading": {
+      "title": "Memuat..."
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Buat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Man Runner 2048",
+      "description": "Man Runner 2048 adalah permainan kasual yang menyenangkan di mana Anda berlari dan menggabungkan orang untuk mencapai 2048. Tujuan Anda adalah mendapatkan skor tertinggi di setiap level agar Anda dapat menembak monster raksasa dengan kekuatan terbanyak.",
+      "iframeTitle": "Pratinjau Permainan",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Permainan",
+      "playGame": "Mainkan Permainan"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Man Runner 2048",
+      "whatIsTitle": "Apa itu Man Runner 2048?",
+      "whatIsDescription": "Man Runner 2048 adalah permainan kasual yang menyenangkan di mana Anda berlari dan menggabungkan orang untuk mencapai 2048. Tujuan Anda adalah mendapatkan skor tertinggi di setiap level agar Anda dapat menembak monster raksasa dengan kekuatan terbanyak.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Lari dan gabungkan orang untuk mencapai 2048.",
+      "howToPlayStep2": "Dapatkan skor tertinggi di setiap level.",
+      "howToPlayStep3": "Tembak monster raksasa dengan kekuatan terbanyak.",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Lari dan Gabungkan",
+      "feature1Description": "Rasakan sensasi berlari dan menggabungkan orang untuk mencapai 2048.",
+      "feature2Title": "Tembak Monster",
+      "feature2Description": "Gunakan kekuatan Anda untuk menembak monster raksasa dan taklukkan setiap level.",
+      "feature3Title": "Skor Tinggi",
+      "feature3Description": "Tuju skor tertinggi dan kuasai papan peringkat.",
+      "feature4Title": "Kesenangan Kasual",
+      "feature4Description": "Nikmati pengalaman bermain game kasual yang menyenangkan dengan Man Runner 2048."
+    },
+    "HomeFAQs": {
+      "title": "Pertanyaan yang Sering Diajukan"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Permainan"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Permainan",
+      "description": "Semua Permainan",
+      "games": "Permainan"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Lebih Banyak",
+      "page": "Halaman"
+    }
+  }
+}

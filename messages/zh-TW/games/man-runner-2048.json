@@ -1,0 +1,77 @@
+{
+  "man-runner-2048": {
+    "title": "人跑者 2048：奔跑、合併、征服！",
+    "slogan": "在人跑者 2048 中奔跑、合併並征服！",
+    "description": "人跑者 2048 是一款有趣的休閒遊戲，您需要奔跑並合併人物來達到 2048。您的目標是在每個關卡獲得最高分數，以便用最強大的力量射擊巨型怪物。體驗這款令人興奮的遊戲中合併和奔跑的刺激。現在就玩人跑者 2048，看看你能走多遠！",
+    "Loading": {
+      "title": "載入中…"
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "人跑者 2048",
+      "description": "人跑者 2048 是一款有趣的休閒遊戲，您需要奔跑並合併人物來達到 2048。您的目標是在每個關卡獲得最高分數，以便用最強大的力量射擊巨型怪物。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "人跑者 2048",
+      "whatIsTitle": "人跑者 2048 是什麼？",
+      "whatIsDescription": "人跑者 2048 是一款有趣的休閒遊戲，您需要奔跑並合併人物來達到 2048。您的目標是在每個關卡獲得最高分數，以便用最強大的力量射擊巨型怪物。",
+      "howToPlayTitle": "如何遊戲？",
+      "howToPlayStep1": "奔跑並合併人物達到 2048。",
+      "howToPlayStep2": "在每個關卡獲得最高分數。",
+      "howToPlayStep3": "用最強大的力量射擊巨型怪物。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "奔跑並合併",
+      "feature1Description": "體驗奔跑並合併人物達到 2048 的刺激。",
+      "feature2Title": "射擊怪物",
+      "feature2Description": "使用您的力量射擊巨型怪物並征服每個關卡。",
+      "feature3Title": "高分",
+      "feature3Description": "追求最高分數並稱霸排行榜。",
+      "feature4Title": "休閒娛樂",
+      "feature4Description": "享受人跑者 2048 帶來的有趣休閒遊戲體驗。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲列表"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到任何類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

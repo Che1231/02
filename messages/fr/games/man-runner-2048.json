@@ -1,0 +1,77 @@
+{
+  "man-runner-2048": {
+    "title": "Man Runner 2048 : Courez, fusionnez et conquerez !",
+    "slogan": "Courez, fusionnez et conquerez dans Man Runner 2048 !",
+    "description": "Man Runner 2048 est un jeu décontracté amusant où vous courez et fusionnez des hommes pour atteindre 2048. Votre objectif est d'obtenir le meilleur score à chaque niveau afin de pouvoir tirer sur les monstres géants avec le plus de puissance. Vivez le frisson de la fusion et de la course dans ce jeu passionnant. Jouez à Man Runner 2048 maintenant et voyez jusqu'où vous pouvez aller !",
+    "Loading": {
+      "title": "Chargement…"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens utiles",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Man Runner 2048",
+      "description": "Man Runner 2048 est un jeu décontracté amusant où vous courez et fusionnez des hommes pour atteindre 2048. Votre objectif est d'obtenir le meilleur score à chaque niveau afin de pouvoir tirer sur les monstres géants avec le plus de puissance.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Man Runner 2048",
+      "whatIsTitle": "Qu'est-ce que Man Runner 2048 ?",
+      "whatIsDescription": "Man Runner 2048 est un jeu décontracté amusant où vous courez et fusionnez des hommes pour atteindre 2048. Votre objectif est d'obtenir le meilleur score à chaque niveau afin de pouvoir tirer sur les monstres géants avec le plus de puissance.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Courez et fusionnez des hommes pour atteindre 2048.",
+      "howToPlayStep2": "Obtenez le meilleur score à chaque niveau.",
+      "howToPlayStep3": "Tirez sur les monstres géants avec le plus de puissance.",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Courir et fusionner",
+      "feature1Description": "Découvrez le frisson de courir et de fusionner des hommes pour atteindre 2048.",
+      "feature2Title": "Tirer sur les monstres",
+      "feature2Description": "Utilisez votre puissance pour tirer sur les monstres géants et conquérir chaque niveau.",
+      "feature3Title": "Meilleurs scores",
+      "feature3Description": "Cherchez le meilleur score et domine le classement.",
+      "feature4Title": "Divertissement décontracté",
+      "feature4Description": "Profitez d'une expérience de jeu décontractée et amusante avec Man Runner 2048."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

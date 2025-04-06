@@ -1,0 +1,77 @@
+{
+  "thief-puzzle": {
+    "title": "Teka-teki Pencuri: Permainan Logika Teka-teki 2D yang Cerdas",
+    "slogan": "Uji Keterampilan Pemecahan Masalah dan Strategi Anda",
+    "description": "Teka-teki Pencuri adalah permainan logika teka-teki 2D yang cerdas yang menguji kemampuan pemecahan masalah dan strategi Anda. Anda mengendalikan tangan pencuri licik saat meraih harta karun berharga, tetapi jalannya dipenuhi jebakan kompleks, sistem keamanan laser, dan rintangan yang rumit. Apakah Anda memiliki kemampuan untuk mengalahkan setiap jebakan yang ada? Mainkan Teka-teki Pencuri sekarang dan tantang diri Anda dengan permainan teka-teki yang menarik ini.",
+    "Loading": {
+      "title": "Memuat..."
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Syarat dan Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Link Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Teka-teki Pencuri",
+      "description": "Teka-teki Pencuri adalah permainan logika teka-teki 2D yang cerdas yang menguji kemampuan pemecahan masalah dan strategi Anda. Anda mengendalikan tangan pencuri licik saat meraih harta karun berharga, tetapi jalannya dipenuhi jebakan kompleks, sistem keamanan laser, dan rintangan yang rumit. Apakah Anda memiliki kemampuan untuk mengalahkan setiap jebakan?",
+      "iframeTitle": "Pratinjau Permainan",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Permainan",
+      "playGame": "Mainkan Permainan"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Teka-teki Pencuri",
+      "whatIsTitle": "Apa itu Teka-teki Pencuri?",
+      "whatIsDescription": "Teka-teki Pencuri adalah permainan logika teka-teki 2D yang cerdas yang menguji kemampuan pemecahan masalah dan strategi Anda. Anda mengendalikan tangan pencuri licik saat meraih harta karun berharga, tetapi jalannya dipenuhi jebakan kompleks, sistem keamanan laser, dan rintangan yang rumit.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Kendalikan tangan pencuri untuk meraih harta karun berharga.",
+      "howToPlayStep2": "Jelajahi jebakan dan sistem keamanan laser yang kompleks.",
+      "howToPlayStep3": "Kalahkan setiap rintangan untuk menyelesaikan level.",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Teka-teki yang Menantang",
+      "feature1Description": "Uji kemampuan pemecahan masalah Anda dengan teka-teki yang rumit.",
+      "feature2Title": "Gameplay Strategis",
+      "feature2Description": "Rencanakan langkah Anda dengan cermat untuk mengalahkan jebakan.",
+      "feature3Title": "Level yang Menarik",
+      "feature3Description": "Jelajahi berbagai level yang penuh dengan rintangan.",
+      "feature4Title": "Pengalaman yang Mendalam",
+      "feature4Description": "Nikmati permainan logika teka-teki 2D yang menawan."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Permainan"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Permainan",
+      "description": "Semua Permainan",
+      "games": "Permainan"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Lebih Banyak",
+      "page": "Halaman"
+    }
+  }
+}

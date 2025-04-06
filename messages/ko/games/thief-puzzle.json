@@ -1,0 +1,77 @@
+{
+  "thief-puzzle": {
+    "title": "도둑 퍼즐: 영리한 2D 퍼즐 논리 게임",
+    "slogan": "문제 해결 및 전략 기술을 테스트하십시오",
+    "description": "도둑 퍼즐은 문제 해결 및 전략 능력을 시험하는 영리한 2D 퍼즐 논리 게임입니다.  교활한 도둑의 손을 제어하여 값비싼 보물을 얻으십시오. 하지만 그 길은 복잡한 함정, 레이저 보안 시스템 및 까다로운 장애물로 가득합니다.  앞에 나타나는 각 함정을 교묘하게 피할 수 있으신가요? 지금 도둑 퍼즐을 플레이하고 이 매력적인 퍼즐 게임으로 자신을 시험하십시오.",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "도둑 퍼즐",
+      "description": "도둑 퍼즐은 문제 해결 및 전략 능력을 시험하는 영리한 2D 퍼즐 논리 게임입니다. 교활한 도둑의 손을 제어하여 값비싼 보물을 얻으십시오. 하지만 그 길은 복잡한 함정, 레이저 보안 시스템 및 까다로운 장애물로 가득합니다. 닥치는 함정을 모두 교묘하게 피할 수 있으신가요?",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "도둑 퍼즐",
+      "whatIsTitle": "도둑 퍼즐이란 무엇인가요?",
+      "whatIsDescription": "도둑 퍼즐은 문제 해결 및 전략 능력을 시험하는 영리한 2D 퍼즐 논리 게임입니다. 교활한 도둑의 손을 제어하여 값비싼 보물을 얻으십시오. 하지만 그 길은 복잡한 함정, 레이저 보안 시스템 및 까다로운 장애물로 가득합니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "도둑의 손을 제어하여 값비싼 보물을 얻으십시오.",
+      "howToPlayStep2": "복잡한 함정과 레이저 보안 시스템을 통과하십시오.",
+      "howToPlayStep3": "각 장애물을 교묘하게 피하여 레벨을 완료하십시오.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "도전적인 퍼즐",
+      "feature1Description": "복잡한 퍼즐로 문제 해결 능력을 테스트하십시오.",
+      "feature2Title": "전략적인 게임플레이",
+      "feature2Description": "함정을 교묘하게 피하기 위해 신중하게 이동 계획을 세우십시오.",
+      "feature3Title": "매력적인 레벨",
+      "feature3Description": "장애물로 가득 찬 다양한 레벨을 탐험하십시오.",
+      "feature4Title": "몰입형 경험",
+      "feature4Description": "매혹적인 2D 퍼즐 논리 게임을 즐기십시오."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

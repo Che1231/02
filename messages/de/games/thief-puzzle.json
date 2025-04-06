@@ -1,0 +1,77 @@
+{
+  "thief-puzzle": {
+    "title": "Diebstahl-Puzzle: Ein cleveres 2D-Puzzle-Logikspiel",
+    "slogan": "Testen Sie Ihr Problemlösungs- und Strategiekönnen",
+    "description": "Thief Puzzle ist ein cleveres 2D-Puzzle-Logikspiel, das Ihr Problemlösungs- und Strategiekönnen auf die Probe stellt. Sie steuern die Hand eines heimlichen Diebes, der nach wertvollen Schätzen greift, aber der Weg ist voller komplexer Fallen, Lasersicherheitssysteme und kniffliger Hindernisse. Haben Sie das Zeug dazu, jede Falle zu überlisten, die Ihnen in den Weg kommt? Spielen Sie jetzt Thief Puzzle und fordern Sie sich mit diesem fesselnden Puzzlespiel heraus.",
+    "Loading": {
+      "title": "Lädt..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Diebstahl-Puzzle",
+      "description": "Thief Puzzle ist ein cleveres 2D-Puzzle-Logikspiel, das Ihr Problemlösungs- und Strategiekönnen auf die Probe stellt. Sie steuern die Hand eines heimlichen Diebes, der nach wertvollen Schätzen greift, aber der Weg ist voller komplexer Fallen, Lasersicherheitssysteme und kniffliger Hindernisse. Haben Sie das Zeug dazu, jede Falle zu überlisten, die Ihnen in den Weg kommt?",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Diebstahl-Puzzle",
+      "whatIsTitle": "Was ist Diebstahl-Puzzle?",
+      "whatIsDescription": "Thief Puzzle ist ein cleveres 2D-Puzzle-Logikspiel, das Ihr Problemlösungs- und Strategiekönnen auf die Probe stellt. Sie steuern die Hand eines heimlichen Diebes, der nach wertvollen Schätzen greift, aber der Weg ist voller komplexer Fallen, Lasersicherheitssysteme und kniffliger Hindernisse.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Steuern Sie die Hand des Diebes, um wertvolle Schätze zu erreichen.",
+      "howToPlayStep2": "Navigieren Sie durch komplexe Fallen und Lasersicherheitssysteme.",
+      "howToPlayStep3": "Überlisten Sie jedes Hindernis, um die Ebene zu bestehen.",
+      "keyFeaturesTitle": "Haupteigenschaften",
+      "feature1Title": "Herausfordernde Puzzles",
+      "feature1Description": "Testen Sie Ihr Problemlösungsvermögen mit komplizierten Puzzles.",
+      "feature2Title": "Strategisches Gameplay",
+      "feature2Description": "Planen Sie Ihre Züge sorgfältig, um Fallen zu überlisten.",
+      "feature3Title": "Fesselnde Level",
+      "feature3Description": "Navigieren Sie durch verschiedene Level, die voller Hindernisse sind.",
+      "feature4Title": "Eintauchendem Erlebnis",
+      "feature4Description": "Genießen Sie ein fesselndes 2D-Puzzle-Logikspiel."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spiel Kommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

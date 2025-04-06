@@ -1,0 +1,77 @@
+{
+  "thief-puzzle": {
+    "title": "Trò chơi logic đố mẹo trộm cắp: Một trò chơi giải đố 2D thông minh",
+    "slogan": "Kiểm tra kỹ năng giải quyết vấn đề và chiến lược của bạn",
+    "description": "Trò chơi logic đố mẹo trộm cắp là một trò chơi logic giải đố 2D thông minh, thử thách khả năng giải quyết vấn đề và chiến lược của bạn. Bạn điều khiển tay của một tên trộm lén lút khi nó tìm kiếm những kho báu quý giá, nhưng con đường lại đầy những cạm bẫy phức tạp, hệ thống an ninh laser và những chướng ngại vật khó khăn. Bạn có đủ khả năng để qua mặt từng cạm bẫy xuất hiện không? Hãy chơi Trò chơi logic đố mẹo trộm cắp ngay bây giờ và thử thách bản thân với trò chơi giải đố hấp dẫn này.",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Đọc menu"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Trò chơi logic đố mẹo trộm cắp",
+      "description": "Trò chơi logic đố mẹo trộm cắp là một trò chơi logic giải đố 2D thông minh, thử thách khả năng giải quyết vấn đề và chiến lược của bạn. Bạn điều khiển tay của một tên trộm lén lút khi nó tìm kiếm những kho báu quý giá, nhưng con đường lại đầy những cạm bẫy phức tạp, hệ thống an ninh laser và những chướng ngại vật khó khăn. Bạn có đủ khả năng để qua mặt từng cạm bẫy xuất hiện không?",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Màn hình toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Trò chơi logic đố mẹo trộm cắp",
+      "whatIsTitle": "Trò chơi logic đố mẹo trộm cắp là gì?",
+      "whatIsDescription": "Trò chơi logic đố mẹo trộm cắp là một trò chơi logic giải đố 2D thông minh, thử thách khả năng giải quyết vấn đề và chiến lược của bạn. Bạn điều khiển tay của một tên trộm lén lút khi nó tìm kiếm những kho báu quý giá, nhưng con đường lại đầy những cạm bẫy phức tạp, hệ thống an ninh laser và những chướng ngại vật khó khăn.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Điều khiển tay của tên trộm để lấy những kho báu quý giá.",
+      "howToPlayStep2": "Di chuyển qua những cạm bẫy phức tạp và hệ thống an ninh laser.",
+      "howToPlayStep3": "Qua mặt từng chướng ngại vật để hoàn thành cấp độ.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Những câu đố đầy thử thách",
+      "feature1Description": "Thử thách kỹ năng giải quyết vấn đề của bạn với những câu đố phức tạp.",
+      "feature2Title": "Gameplay chiến lược",
+      "feature2Description": "Lập kế hoạch di chuyển một cách cẩn thận để qua mặt các cạm bẫy.",
+      "feature3Title": "Các cấp độ hấp dẫn",
+      "feature3Description": "Di chuyển qua các cấp độ khác nhau đầy những chướng ngại vật.",
+      "feature4Title": "Trải nghiệm đắm chìm",
+      "feature4Description": "Thưởng thức một trò chơi logic giải đố 2D cuốn hút."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

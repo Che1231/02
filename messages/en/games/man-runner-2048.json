@@ -1,0 +1,77 @@
+{
+  "man-runner-2048": {
+    "title": "Man Runner 2048: Run, Merge, and Conquer!",
+    "slogan": "Run, Merge, and Conquer in Man Runner 2048!",
+    "description": "Man Runner 2048 is a fun casual game where you run and merge men to reach 2048. Your goal is to get the highest score on each level so you can shoot the giant monsters with the most power. Experience the thrill of merging and running in this exciting game. Play Man Runner 2048 now and see how far you can go!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Man Runner 2048",
+      "description": "Man Runner 2048 is a fun casual game where you run and merge men to reach 2048. Your goal is to get the highest score on each level so you can shoot the giant monsters with the most power.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Man Runner 2048",
+      "whatIsTitle": "What is Man Runner 2048?",
+      "whatIsDescription": "Man Runner 2048 is a fun casual game where you run and merge men to reach 2048. Your goal is to get the highest score on each level so you can shoot the giant monsters with the most power.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Run and merge men to reach 2048.",
+      "howToPlayStep2": "Get the highest score on each level.",
+      "howToPlayStep3": "Shoot the giant monsters with the most power.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Run and Merge",
+      "feature1Description": "Experience the thrill of running and merging men to reach 2048.",
+      "feature2Title": "Shoot Monsters",
+      "feature2Description": "Use your power to shoot giant monsters and conquer each level.",
+      "feature3Title": "High Scores",
+      "feature3Description": "Aim for the highest score and dominate the leaderboard.",
+      "feature4Title": "Casual Fun",
+      "feature4Description": "Enjoy a fun and casual gaming experience with Man Runner 2048."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

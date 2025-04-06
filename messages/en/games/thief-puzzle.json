@@ -1,0 +1,77 @@
+{
+  "thief-puzzle": {
+    "title": "Thief Puzzle: A Clever 2D Puzzle Logic Game",
+    "slogan": "Test Your Problem-Solving and Strategy Skills",
+    "description": "Thief Puzzle is a clever 2D puzzle logic game that puts your problem-solving and strategy to the test. You control a sneaky thief’s hand as it reaches for valuable treasures, but the path is filled with complex traps, laser security systems, and tricky obstacles. Do you have what it takes to outsmart each trap that comes your way? Play Thief Puzzle now and challenge yourself with this engaging puzzle game.",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Thief Puzzle",
+      "description": "Thief Puzzle is a clever 2D puzzle logic game that puts your problem-solving and strategy to the test. You control a sneaky thief’s hand as it reaches for valuable treasures, but the path is filled with complex traps, laser security systems, and tricky obstacles. Do you have what it takes to outsmart each trap that comes your way?",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Thief Puzzle",
+      "whatIsTitle": "What is Thief Puzzle?",
+      "whatIsDescription": "Thief Puzzle is a clever 2D puzzle logic game that puts your problem-solving and strategy to the test. You control a sneaky thief’s hand as it reaches for valuable treasures, but the path is filled with complex traps, laser security systems, and tricky obstacles.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Control the thief’s hand to reach valuable treasures.",
+      "howToPlayStep2": "Navigate through complex traps and laser security systems.",
+      "howToPlayStep3": "Outsmart each obstacle to complete the level.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Challenging Puzzles",
+      "feature1Description": "Test your problem-solving skills with intricate puzzles.",
+      "feature2Title": "Strategic Gameplay",
+      "feature2Description": "Plan your moves carefully to outsmart traps.",
+      "feature3Title": "Engaging Levels",
+      "feature3Description": "Navigate through various levels filled with obstacles.",
+      "feature4Title": "Immersive Experience",
+      "feature4Description": "Enjoy a captivating 2D puzzle logic game."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

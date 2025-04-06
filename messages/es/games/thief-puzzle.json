@@ -1,0 +1,77 @@
+{
+  "thief-puzzle": {
+    "title": "Adivinanza del Ladrón: Un juego de lógica de rompecabezas 2D ingenioso",
+    "slogan": "Pon a prueba tus habilidades de resolución de problemas y estrategia",
+    "description": "Adivinanza del Ladrón es un ingenioso juego de lógica de rompecabezas 2D que pone a prueba tus habilidades de resolución de problemas y estrategia. Controlas la mano de un ladrón sigiloso mientras busca tesoros valiosos, pero el camino está lleno de trampas complejas, sistemas de seguridad láser y obstáculos difíciles. ¿Tienes lo que se necesita para superar cada trampa que se te presenta? Juega a Adivinanza del Ladrón ahora y desafíate con este cautivador juego de rompecabezas.",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Términos de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Adivinanza del Ladrón",
+      "description": "Adivinanza del Ladrón es un ingenioso juego de lógica de rompecabezas 2D que pone a prueba tus habilidades de resolución de problemas y estrategia. Controlas la mano de un ladrón sigiloso mientras busca tesoros valiosos, pero el camino está lleno de trampas complejas, sistemas de seguridad láser y obstáculos difíciles. ¿Tienes lo que se necesita para superar cada trampa que se te presenta?",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Adivinanza del Ladrón",
+      "whatIsTitle": "¿Qué es Adivinanza del Ladrón?",
+      "whatIsDescription": "Adivinanza del Ladrón es un ingenioso juego de lógica de rompecabezas 2D que pone a prueba tus habilidades de resolución de problemas y estrategia. Controlas la mano de un ladrón sigiloso mientras busca tesoros valiosos, pero el camino está lleno de trampas complejas, sistemas de seguridad láser y obstáculos difíciles.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Controla la mano del ladrón para alcanzar los tesoros valiosos.",
+      "howToPlayStep2": "Navega a través de trampas complejas y sistemas de seguridad láser.",
+      "howToPlayStep3": "Supera cada obstáculo para completar el nivel.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Rompecabezas desafiantes",
+      "feature1Description": "Pon a prueba tus habilidades de resolución de problemas con rompecabezas intrincados.",
+      "feature2Title": "Jugabilidad estratégica",
+      "feature2Description": "Planifica tus movimientos cuidadosamente para superar las trampas.",
+      "feature3Title": "Niveles cautivadores",
+      "feature3Description": "Navega a través de diversos niveles llenos de obstáculos.",
+      "feature4Title": "Experiencia inmersiva",
+      "feature4Description": "Disfruta de un cautivador juego de lógica de rompecabezas 2D."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "thief-puzzle": {
+    "title": "泥棒パズル：賢い2Dパズルロジックゲーム",
+    "slogan": "あなたの問題解決能力と戦略スキルをテストします",
+    "description": "泥棒パズルは、あなたの問題解決能力と戦略力を試す、賢い2Dパズルロジックゲームです。あなたは狡猾な泥棒の手を操作して貴重な宝物を手に入れますが、その道は複雑なトラップ、レーザー警備システム、そして厄介な障害物で満ち溢れています。あなたの前に現れる各トラップを出し抜く力がありますか？ 今すぐ泥棒パズルに挑戦して、この魅力的なパズルゲームに挑んでください。",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "泥棒パズル",
+      "description": "泥棒パズルは、あなたの問題解決能力と戦略力を試す、賢い2Dパズルロジックゲームです。あなたは狡猾な泥棒の手を操作して貴重な宝物を手に入れますが、その道は複雑なトラップ、レーザー警備システム、そして厄介な障害物で満ち溢れています。その道の各トラップを出し抜くことができるでしょうか？",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "泥棒パズル",
+      "whatIsTitle": "泥棒パズルとは？",
+      "whatIsDescription": "泥棒パズルは、あなたの問題解決能力と戦略力を試す、賢い2Dパズルロジックゲームです。あなたは狡猾な泥棒の手を操作して貴重な宝物を手に入れますが、その道は複雑なトラップ、レーザー警備システム、そして厄介な障害物で満ち溢れています。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "泥棒の手を操作して貴重な宝物を手に入れましょう。",
+      "howToPlayStep2": "複雑なトラップとレーザー警備システムを抜けましょう。",
+      "howToPlayStep3": "各障害物を出し抜いてレベルをクリアしましょう。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "挑戦的なパズル",
+      "feature1Description": "複雑なパズルであなたの問題解決能力を試しましょう。",
+      "feature2Title": "戦略的なゲームプレイ",
+      "feature2Description": "トラップを出し抜くために、慎重にあなたの動きを計画しましょう。",
+      "feature3Title": "魅力的なレベル",
+      "feature3Description": "障害物でいっぱいの様々なレベルをクリアしましょう。",
+      "feature4Title": "没入型体験",
+      "feature4Description": "魅力的な2Dパズルロジックゲームをお楽しみください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

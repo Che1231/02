@@ -1,0 +1,77 @@
+{
+  "thief-puzzle": {
+    "title": "Adivinhação do Ladrão: Um Jogo Lógico e Inteligente de Quebra-Cabeças 2D",
+    "slogan": "Teste Suas Habilidades de Resolução de Problemas e Estratégia",
+    "description": "Adivinhação do Ladrão é um jogo inteligente de lógica de quebra-cabeça 2D que testa sua capacidade de resolução de problemas e estratégia. Você controla a mão de um ladrão esperto enquanto ele busca tesouros valiosos, mas o caminho está cheio de armadilhas complexas, sistemas de segurança a laser e obstáculos complicados. Você tem o que é preciso para superar cada armadilha que surge? Jogue Adivinhação do Ladrão agora e desafie-se com este jogo envolvente de quebra-cabeças.",
+    "Loading": {
+      "title": "Carregando..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Úteis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Adivinhação do Ladrão",
+      "description": "Adivinhação do Ladrão é um jogo inteligente de lógica de quebra-cabeça 2D que testa sua capacidade de resolução de problemas e estratégia. Você controla a mão de um ladrão esperto enquanto ele busca tesouros valiosos, mas o caminho está cheio de armadilhas complexas, sistemas de segurança a laser e obstáculos complicados. Você tem o que é preciso para superar cada armadilha que surge?",
+      "iframeTitle": "Pré-visualização do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Adivinhação do Ladrão",
+      "whatIsTitle": "O que é Adivinhação do Ladrão?",
+      "whatIsDescription": "Adivinhação do Ladrão é um jogo inteligente de lógica de quebra-cabeça 2D que testa sua capacidade de resolução de problemas e estratégia. Você controla a mão de um ladrão esperto enquanto ele busca tesouros valiosos, mas o caminho está cheio de armadilhas complexas, sistemas de segurança a laser e obstáculos complicados.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Controle a mão do ladrão para alcançar tesouros valiosos.",
+      "howToPlayStep2": "Navegue por armadilhas complexas e sistemas de segurança a laser.",
+      "howToPlayStep3": "Fuja de cada obstáculo para completar o nível.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Quebra-Cabeças Desafadores",
+      "feature1Description": "Teste suas habilidades de resolução de problemas com quebra-cabeças intrincados.",
+      "feature2Title": "Jogabilidade Estratégica",
+      "feature2Description": "Planeje suas jogadas cuidadosamente para superar as armadilhas.",
+      "feature3Title": "Níveis Envolventes",
+      "feature3Description": "Navegue por vários níveis cheios de obstáculos.",
+      "feature4Title": "Experiência Imersiva",
+      "feature4Description": "Aproveite um jogo de lógica de quebra-cabeça 2D cativante."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}
