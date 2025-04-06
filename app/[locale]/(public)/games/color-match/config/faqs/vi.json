@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Làm thế nào để thực hiện khớp màu cơ bản trong Color Match nếu tôi là người mới bắt đầu?",
+    "answer": "Để thực hiện khớp màu cơ bản trong Color Match, hãy làm theo các bước sau: BƯỚC 1: Xác định màu mục tiêu được hiển thị trên màn hình. BƯỚC 2: Chạm vào khối màu tương ứng từ các tùy chọn được cung cấp. BƯỚC 3: Xác nhận lựa chọn của bạn bằng cách chạm hai lần để khóa nó. Ví dụ, nếu màu mục tiêu là màu xanh lam, hãy chạm vào khối màu xanh lam. Quá trình đơn giản này giúp bạn làm quen với cơ chế của trò chơi. [Ví dụ minh họa: Hãy tưởng tượng như việc ghép đôi tất cùng màu – nó rất đơn giản và trực quan.]"
+  },
+  {
+    "question": "Tại sao thời gian quan trọng trong Color Match và làm thế nào tôi có thể cải thiện nó?",
+    "answer": "Thời gian rất quan trọng trong Color Match vì nó ảnh hưởng đến điểm số và hệ số kết hợp. Để cải thiện thời gian của bạn: BƯỚC 1: Thực hành nhận dạng màu nhanh chóng. BƯỚC 2: Phát triển nhịp điệu bằng cách chạm liên tục. BƯỚC 3: Sử dụng các tín hiệu âm thanh của trò chơi để dự đoán động tác tiếp theo. Ví dụ, nếu bạn nghe thấy tiếng bíp, hãy chuẩn bị chạm vào màu tiếp theo. [Bảng so sánh cấu hình: Người chạm chậm đạt 50 điểm, trong khi người chạm nhanh đạt 100 điểm.]"
+  },
+  {
+    "question": "Sự khác biệt giữa chế độ dễ và chế độ khó trong Color Match là gì?",
+    "answer": "Sự khác biệt giữa chế độ dễ và chế độ khó trong Color Match bao gồm tốc độ và độ phức tạp. Trong chế độ dễ, màu sắc thay đổi chậm và có ít tùy chọn hơn. Trong chế độ khó, màu sắc thay đổi nhanh và bạn có nhiều tùy chọn hơn để lựa chọn. Ví dụ, chế độ dễ có thể hiển thị 3 màu, trong khi chế độ khó hiển thị 6 màu. [So sánh nhiều phương án: Chế độ dễ giống như đi bộ; chế độ khó giống như chạy nước rút.]"
+  },
+  {
+    "question": "Làm thế nào để tôi phát triển chiến lược để đạt điểm cao trong Color Match một cách nhất quán?",
+    "answer": "Để đạt điểm cao trong Color Match một cách nhất quán, hãy làm theo chiến lược này: BƯỚC 1: Thành thạo nghệ thuật nhận dạng màu sắc nhanh chóng. BƯỚC 2: Xây dựng và duy trì kết hợp bằng cách không bỏ sót bất kỳ khớp nào. BƯỚC 3: Sử dụng các vật phẩm tăng sức mạnh một cách chiến thuật để tăng điểm số. Ví dụ, sử dụng vật phẩm tăng sức mạnh \"Điểm gấp đôi\" trong chuỗi kết hợp cao. [Biểu đồ luồng: Nhận dạng -> Khớp -> Kết hợp -> Vật phẩm tăng sức mạnh -> Điểm số cao.]"
+  },
+  {
+    "question": "Các vật phẩm tăng sức mạnh nào hiệu quả nhất trong Color Match và khi nào nên sử dụng chúng?",
+    "answer": "Các vật phẩm tăng sức mạnh hiệu quả nhất trong Color Match là \"Điểm gấp đôi\" và \"Tạm dừng thời gian\". Sử dụng \"Điểm gấp đôi\" trong chuỗi kết hợp cao để tối đa hóa điểm số. Sử dụng \"Tạm dừng thời gian\" khi màu sắc thay đổi quá nhanh để theo kịp. Ví dụ, kích hoạt \"Tạm dừng thời gian\" khi bạn có hệ số kết hợp 10 lần. [So sánh nhiều phương án: \"Điểm gấp đôi\" cho điểm số, \"Tạm dừng thời gian\" cho việc tồn tại.]"
+  },
+  {
+    "question": "Cơ chế tính điểm trong Color Match là gì và nó ảnh hưởng đến lối chơi như thế nào?",
+    "answer": "Cơ chế tính điểm trong Color Match dựa trên độ chính xác, tốc độ và hệ số kết hợp. Mỗi khớp chính xác sẽ mang lại điểm, với các khớp nhanh hơn sẽ kiếm được nhiều điểm hơn. Hệ số kết hợp tăng lên với các khớp chính xác liên tiếp. Ví dụ, một khớp có hệ số kết hợp 5 lần sẽ mang lại 500 điểm thay vì 100 điểm. [Bảng so sánh cấu hình: Khớp chậm = 50 điểm, khớp nhanh = 100 điểm, kết hợp 5 lần = 500 điểm.]"
+  },
+  {
+    "question": "Thuật toán màu trong Color Match hoạt động như thế nào và có thể dự đoán được không?",
+    "answer": "Thuật toán màu trong Color Match sử dụng trình tạo số ngẫu nhiên giả để xác định trình tự màu. Mặc dù nó được thiết kế để không thể đoán trước, nhưng các game thủ có kinh nghiệm đôi khi có thể dự đoán các mẫu dựa trên các trình tự trước đó. Ví dụ, nếu màu đỏ xuất hiện ba lần liên tiếp, thì màu xanh lam có thể là màu tiếp theo. [Ví dụ minh họa: Giống như việc dự đoán lá bài tiếp theo trong bộ bài đã được xáo trộn – chủ yếu là ngẫu nhiên nhưng đôi khi có thể đoán trước được.]"
+  },
+  {
+    "question": "Tôi có thể chuyển tiến độ Color Match của mình từ thiết bị này sang thiết bị khác được không?",
+    "answer": "Có, bạn có thể chuyển tiến độ Color Match của mình bằng cách liên kết trò chơi với tài khoản đám mây. BƯỚC 1: Vào menu cài đặt và chọn \"Lưu trên đám mây\". BƯỚC 2: Đăng nhập bằng dịch vụ đám mây yêu thích của bạn (ví dụ: Google Play, Apple Game Center). BƯỚC 3: Làm theo các hướng dẫn để đồng bộ dữ liệu của bạn. Ví dụ, nếu bạn chuyển từ iPhone sang Android, tiến độ của bạn sẽ được chuyển sang. [Bảng so sánh cấu hình: Lưu đám mây = Có, lưu cục bộ = Không.]"
+  },
+  {
+    "question": "Có bất kỳ thành tích ẩn nào trong Color Match và làm thế nào để mở khóa chúng?",
+    "answer": "Có, Color Match có các thành tích ẩn yêu cầu các hành động cụ thể để mở khóa. Ví dụ, \"Chủ nhân màu sắc\" được mở khóa bằng cách khớp 1000 màu trong một phiên duy nhất. Để tìm các thành tích này, hãy kiểm tra phần \"Thành tích\" trong menu trò chơi. [Ví dụ minh họa: Giống như việc tìm trứng Phục sinh – bạn phải nhìn kỹ và thử nhiều cách khác nhau.]"
+  },
+  {
+    "question": "Khả năng điều chỉnh độ khó tự động trong Color Match điều chỉnh như thế nào theo trình độ kỹ năng của tôi?",
+    "answer": "Khả năng điều chỉnh độ khó tự động trong Color Match điều chỉnh dựa trên hiệu suất của bạn. Nếu bạn liên tục đạt điểm cao, trò chơi sẽ tăng tốc độ và độ phức tạp của sự thay đổi màu sắc. Ngược lại, nếu bạn gặp khó khăn, nó sẽ giảm độ khó. Ví dụ, sau một vài vòng đạt điểm số cao, bạn có thể nhận thấy sự chuyển đổi màu sắc nhanh hơn. [Biểu đồ luồng: Điểm số cao -> Độ khó tăng, điểm số thấp -> Độ khó giảm.]"
+  }
+]

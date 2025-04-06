@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Comment puis-je effectuer une correspondance de couleurs basique dans Color Match en tant que débutant ?",
+    "answer": "Pour effectuer une correspondance de couleurs basique dans Color Match, suivez ces étapes : ÉTAPE 1 : Identifiez la couleur cible affichée à l'écran. ÉTAPE 2 : Appuyez sur le bloc de couleur correspondant parmi les options proposées. ÉTAPE 3 : Confirmez votre sélection en double-cliquant pour la verrouiller. Par exemple, si la couleur cible est bleue, appuyez sur le bloc bleu. Ce processus simple vous aide à vous familiariser avec les mécanismes du jeu. [Exemple : Imaginez que vous essayez de faire correspondre des chaussettes par couleur ; c'est simple et intuitif.]"
+  },
+  {
+    "question": "Pourquoi le temps est-il important dans Color Match et comment puis-je l'améliorer ?",
+    "answer": "Le temps est crucial dans Color Match car il affecte votre score et les multiplicateurs de combo. Pour améliorer votre temps : ÉTAPE 1 : Entraînez-vous à reconnaître rapidement les couleurs. ÉTAPE 2 : Développez un rythme en appuyant de manière cohérente. ÉTAPE 3 : Utilisez les indices sonores du jeu pour anticiper le prochain mouvement. Par exemple, si vous entendez un bip, préparez-vous à appuyer sur la couleur suivante. [Tableau de comparaison : Les joueurs lents marquent 50 points, tandis que les joueurs rapides marquent 100 points.]"
+  },
+  {
+    "question": "Quelles sont les principales différences entre les modes facile et difficile dans Color Match ?",
+    "answer": "Les principales différences entre les modes facile et difficile dans Color Match incluent la vitesse et la complexité. En mode facile, les couleurs changent lentement et il y a moins d'options. En mode difficile, les couleurs changent rapidement et vous avez plus d'options à choisir. Par exemple, le mode facile peut afficher 3 couleurs, tandis que le mode difficile affiche 6 couleurs. [Comparaison de plusieurs options : Le mode facile est comme marcher ; le mode difficile est comme sprinter.]"
+  },
+  {
+    "question": "Comment puis-je développer une stratégie pour obtenir des scores élevés de manière constante dans Color Match ?",
+    "answer": "Pour obtenir des scores élevés de manière constante dans Color Match, suivez cette stratégie : ÉTAPE 1 : Maîtrisez l'art de la reconnaissance rapide des couleurs. ÉTAPE 2 : Créez et maintenez des combos en ne manquant aucune correspondance. ÉTAPE 3 : Utilisez les bonus stratégiquement pour augmenter votre score. Par exemple, utilisez le bonus « Points doubles » pendant une série de combos élevés. [Décomposition du processus : Reconnaissance -> Correspondance -> Combo -> Bonus -> Score élevé.]"
+  },
+  {
+    "question": "Quels sont les bonus les plus efficaces dans Color Match et quand dois-je les utiliser ?",
+    "answer": "Les bonus les plus efficaces dans Color Match sont « Points doubles » et « Gel du temps ». Utilisez « Points doubles » pendant une série de combos élevés pour maximiser votre score. Utilisez « Gel du temps » lorsque les changements de couleur sont trop rapides à suivre. Par exemple, activez « Gel du temps » lorsque vous avez un multiplicateur de combo de 10x. [Comparaison de plusieurs options : « Points doubles » pour le score, « Gel du temps » pour la survie.]"
+  },
+  {
+    "question": "Quel est le mécanisme de notation dans Color Match et comment affecte-t-il la partie ?",
+    "answer": "Le mécanisme de notation dans Color Match est basé sur la précision, la vitesse et les multiplicateurs de combo. Chaque correspondance correcte rapporte des points, les correspondances plus rapides rapportant plus de points. Les multiplicateurs de combo augmentent avec les correspondances correctes consécutives. Par exemple, une correspondance avec un multiplicateur de combo de 5x rapporte 500 points au lieu de 100. [Tableau de comparaison : Correspondance lente = 50 points, correspondance rapide = 100 points, combo 5x = 500 points.]"
+  },
+  {
+    "question": "Comment fonctionne l'algorithme de couleur dans Color Match et peut-il être prédit ?",
+    "answer": "L'algorithme de couleur dans Color Match utilise un générateur pseudo-aléatoire pour déterminer la séquence des couleurs. Bien qu'il soit conçu pour être imprévisible, les joueurs expérimentés peuvent parfois anticiper des schémas en fonction des séquences précédentes. Par exemple, si le rouge apparaît trois fois de suite, le bleu pourrait être suivant. [Exemple : C'est comme prédire la carte suivante dans un jeu de cartes mélangé ; c'est principalement aléatoire mais parfois prévisible.]"
+  },
+  {
+    "question": "Puis-je transférer mes progrès dans Color Match d'un appareil à un autre ?",
+    "answer": "Oui, vous pouvez transférer vos progrès dans Color Match en connectant votre jeu à un compte cloud. ÉTAPE 1 : Accédez au menu paramètres et sélectionnez « Sauvegarde Cloud ». ÉTAPE 2 : Connectez-vous avec votre service cloud préféré (par exemple, Google Play, Apple Game Center). ÉTAPE 3 : Suivez les invites pour synchroniser vos données. Par exemple, si vous passez d'un iPhone à un Android, vos progrès seront conservés. [Tableau de comparaison : Sauvegarde Cloud = Oui, sauvegarde locale = Non.]"
+  },
+  {
+    "question": "Existe-t-il des réalisations cachées dans Color Match et comment puis-je les débloquer ?",
+    "answer": "Oui, Color Match possède des réalisations cachées qui nécessitent des actions spécifiques pour être débloquées. Par exemple, « Maître des couleurs » est débloqué en faisant correspondre 1000 couleurs en une seule session. Pour trouver ces réalisations, vérifiez la section « Réalisations » dans le menu du jeu. [Exemple : C'est comme trouver des œufs de Pâques ; vous devez regarder attentivement et essayer différentes choses.]"
+  },
+  {
+    "question": "Comment la difficulté adaptative dans Color Match s'ajuste-t-elle à mon niveau de compétence ?",
+    "answer": "La difficulté adaptative dans Color Match s'ajuste en fonction de vos performances. Si vous obtenez constamment des scores élevés, le jeu augmente la vitesse et la complexité des changements de couleur. Inversement, si vous rencontrez des difficultés, il réduit la difficulté. Par exemple, après plusieurs séries de scores élevés, vous remarquerez peut-être des transitions de couleur plus rapides. [Décomposition du processus : Score élevé -> Difficulté accrue, Score faible -> Difficulté réduite.]"
+  }
+]
