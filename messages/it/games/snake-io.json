@@ -1,0 +1,77 @@
+{
+  "snake-io": {
+    "title": "Snake.io: Gioco di Battaglia Online a Serpenti Multiplayer",
+    "slogan": "Combatti, Cresci e Domina in Snake.io",
+    "description": "Snake.io è un emozionante gioco multiplayer online in cui controlli un serpente in una battaglia per la sopravvivenza. Mangia cibo colorato per crescere di dimensioni e sconfiggi gli altri serpenti per diventare il campione supremo. Con controlli semplici e gameplay competitivo, Snake.io offre divertimento infinito per giocatori di tutte le età. Unisciti all'arena frenetica di Snake.io e scopri se puoi arrivare in cima!",
+    "Loading": {
+      "title": "Caricamento..."
+    },
+    "Navbar": {
+      "title": "Navigazione"
+    },
+    "Common": {
+      "createAt": "Creato il",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla privacy",
+      "termsOfServices": "Termini di servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Link utili",
+      "articleList": "Elenco articoli",
+      "home": "Home",
+      "next": "Successivo",
+      "previous": "Precedente"
+    },
+    "HomeIframe": {
+      "title": "Snake.io",
+      "description": "Vivi l'emozione di Snake.io, un gioco multiplayer online dove combatti altri serpenti per crescere e dominare. Mangia il cibo, evita gli ostacoli e diventa il serpente più grande dell'arena. Gioca a Snake.io ora e unisciti al divertimento!",
+      "iframeTitle": "Anteprima del gioco",
+      "fullscreenButton": "Schermo intero",
+      "shareButton": "Condividi",
+      "urlCopied": "URL copiato negli appunti!",
+      "downloadGame": "Scarica il gioco",
+      "playGame": "Gioca"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Snake.io",
+      "whatIsTitle": "Cos'è Snake.io?",
+      "whatIsDescription": "Snake.io è un gioco multiplayer online in cui controlli un serpente in una battaglia per la sopravvivenza. Mangia il cibo per crescere di dimensioni e sconfiggi gli altri serpenti per diventare il campione supremo.",
+      "howToPlayTitle": "Come giocare",
+      "howToPlayStep1": "Sposta il tuo serpente usando le frecce o i gesti di scorrimento.",
+      "howToPlayStep2": "Mangia il cibo colorato per crescere di dimensioni e aumentare il tuo punteggio.",
+      "howToPlayStep3": "Evita le collisioni con gli altri serpenti e le pareti dell'arena per sopravvivere.",
+      "keyFeaturesTitle": "Caratteristiche principali",
+      "feature1Title": "Battaglia multiplayer",
+      "feature1Description": "Competi con giocatori da tutto il mondo in tempo reale.",
+      "feature2Title": "Controlli semplici",
+      "feature2Description": "I controlli facili da imparare rendono Snake.io accessibile a tutti i giocatori.",
+      "feature3Title": "Divertimento senza fine",
+      "feature3Description": "Con un gioco senza fine, puoi continuare a giocare e migliorare le tue abilità.",
+      "feature4Title": "Grafica colorata",
+      "feature4Description": "Goditi immagini vibranti e accattivanti mentre giochi a Snake.io."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video di gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Consigli"
+    },
+    "HomeComments": {
+      "title": "Commenti al gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i giochi",
+      "description": "Tutti i giochi",
+      "games": "Giochi"
+    },
+    "CategoryPage": {
+      "categories": "Categorie",
+      "noCategories": "Categorie non trovate",
+      "viewMore": "Visualizza altro",
+      "page": "Pagina"
+    }
+  }
+}

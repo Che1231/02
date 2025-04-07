@@ -1,0 +1,77 @@
+{
+  "snake-io": {
+    "title": "Snake.io: Jogo de Batalha Online de Serpentes Multiplayer",
+    "slogan": "Lutem, Cresçam e Dominem em Snake.io",
+    "description": "Snake.io é um emocionante jogo multiplayer online onde você controla uma cobra em uma batalha pela sobrevivência. Coma alimentos coloridos para crescer e derrotar outras cobras para se tornar o campeão máximo. Com controles simples e jogabilidade competitiva, Snake.io oferece diversão sem fim para jogadores de todas as idades. Junte-se à arena repleta de ação de Snake.io e veja se você consegue chegar ao topo!",
+    "Loading": {
+      "title": "Carregando..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Úteis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Snake.io",
+      "description": "Experimente a emoção de Snake.io, um jogo multiplayer online onde você luta contra outras cobras para crescer e dominar. Coma alimentos, evite obstáculos e torne-se a cobra maior da arena. Jogue Snake.io agora e divirta-se!",
+      "iframeTitle": "Pré-visualização do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogue o Jogo"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Snake.io",
+      "whatIsTitle": "O que é Snake.io?",
+      "whatIsDescription": "Snake.io é um jogo multiplayer online onde você controla uma cobra em uma batalha pela sobrevivência. Coma alimentos para crescer e derrotar outras cobras para se tornar o campeão máximo.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Mova sua cobra usando as setas do teclado ou gestos de deslizamento.",
+      "howToPlayStep2": "Coma alimentos coloridos para crescer e aumentar sua pontuação.",
+      "howToPlayStep3": "Evite colisões com outras cobras e as paredes da arena para sobreviver.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Batalha Multiplayer",
+      "feature1Description": "Competir contra jogadores de todo o mundo em tempo real.",
+      "feature2Title": "Controles Simples",
+      "feature2Description": "Controles fáceis de aprender tornam Snake.io acessível para todos os jogadores.",
+      "feature3Title": "Diversão Infinita",
+      "feature3Description": "Sem fim para o jogo, você pode continuar jogando e aprimorando suas habilidades.",
+      "feature4Title": "Gráficos Coloridos",
+      "feature4Description": "Aproveite visuais vibrantes e envolventes enquanto joga Snake.io."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

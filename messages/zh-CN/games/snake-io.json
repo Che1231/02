@@ -1,0 +1,77 @@
+{
+  "snake-io": {
+    "title": "贪吃蛇.io：在线多人贪吃蛇对战游戏",
+    "slogan": "战斗、成长，并在贪吃蛇.io称霸",
+    "description": "贪吃蛇.io是一款激动人心的在线多人游戏，您可以在游戏中控制一条蛇，进行生存战斗。吃彩色食物来变大，击败其他蛇，成为终极冠军。操作简单，游戏竞争性强，贪吃蛇.io为所有年龄段的玩家提供无穷乐趣。加入贪吃蛇.io的紧张竞技场，看看你是否能登上顶峰！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "贪吃蛇.io",
+      "description": "体验贪吃蛇.io的刺激，这是一款在线多人游戏，您需要与其他蛇进行战斗，不断成长并称霸。吃食物，避开障碍，成为竞技场中最大的蛇。现在玩贪吃蛇.io，加入乐趣！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "贪吃蛇.io",
+      "whatIsTitle": "贪吃蛇.io是什么？",
+      "whatIsDescription": "贪吃蛇.io是一款在线多人游戏，您可以在游戏中控制一条蛇，进行生存战斗。吃食物来变大，击败其他蛇，成为终极冠军。",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "使用方向键或滑动操作移动你的蛇。",
+      "howToPlayStep2": "吃彩色食物来变大并增加你的分数。",
+      "howToPlayStep3": "避免与其他蛇和竞技场墙壁相撞以生存。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "多人战斗",
+      "feature1Description": "实时与来自世界各地的玩家竞争。",
+      "feature2Title": "简单控制",
+      "feature2Description": "易于学习的操作使得贪吃蛇.io对所有玩家都易于上手。",
+      "feature3Title": "无尽乐趣",
+      "feature3Description": "游戏没有结束，你可以不断玩耍并提高你的技能。",
+      "feature4Title": "色彩鲜艳的图形",
+      "feature4Description": "在玩贪吃蛇.io时，尽情享受充满活力的视觉效果。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

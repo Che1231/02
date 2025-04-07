@@ -1,0 +1,77 @@
+{
+  "snake-io": {
+    "title": "Trò chơi rắn online Snake.io: Đại chiến rắn nhiều người chơi",
+    "slogan": "Chiến đấu, phát triển và thống trị trong Snake.io",
+    "description": "Snake.io là một trò chơi trực tuyến nhiều người chơi thú vị, nơi bạn điều khiển một con rắn trong cuộc chiến sinh tồn. Ăn thức ăn nhiều màu sắc để lớn hơn và đánh bại những con rắn khác để trở thành nhà vô địch. Với các điều khiển đơn giản và lối chơi cạnh tranh, Snake.io mang đến niềm vui vô tận cho người chơi mọi lứa tuổi. Tham gia đấu trường đầy hành động của Snake.io và xem liệu bạn có thể vươn lên hàng đầu không!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Snake.io",
+      "description": "Trải nghiệm cảm giác hồi hộp của Snake.io, một trò chơi trực tuyến nhiều người chơi nơi bạn chiến đấu với những con rắn khác để phát triển và thống trị. Ăn thức ăn, tránh chướng ngại vật và trở thành con rắn lớn nhất trong đấu trường. Chơi Snake.io ngay bây giờ và tham gia niềm vui!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Màn hình toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào clipboard!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Snake.io",
+      "whatIsTitle": "Snake.io là gì?",
+      "whatIsDescription": "Snake.io là một trò chơi trực tuyến nhiều người chơi nơi bạn điều khiển một con rắn trong cuộc chiến sinh tồn. Ăn thức ăn để lớn hơn và đánh bại những con rắn khác để trở thành nhà vô địch.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Di chuyển con rắn của bạn bằng các phím mũi tên hoặc cử chỉ vuốt.",
+      "howToPlayStep2": "Ăn thức ăn nhiều màu sắc để lớn hơn và tăng điểm số.",
+      "howToPlayStep3": "Tránh va chạm với những con rắn khác và tường đấu trường để sống sót.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Chiến đấu nhiều người chơi",
+      "feature1Description": "Cạnh tranh với người chơi từ khắp nơi trên thế giới theo thời gian thực.",
+      "feature2Title": "Điều khiển đơn giản",
+      "feature2Description": "Các điều khiển dễ học giúp Snake.io dễ tiếp cận với tất cả người chơi.",
+      "feature3Title": "Niềm vui vô tận",
+      "feature3Description": "Với không có điểm kết thúc trò chơi, bạn có thể tiếp tục chơi và cải thiện kỹ năng của mình.",
+      "feature4Title": "Đồ họa bắt mắt",
+      "feature4Description": "Tận hưởng hình ảnh sống động và hấp dẫn khi bạn chơi Snake.io."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

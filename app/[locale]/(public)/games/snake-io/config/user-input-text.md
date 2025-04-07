@@ -1,0 +1,1 @@
+Snake.io is an online io game where you play as a snake fighting to survive on a battlefield of snakes. Eat colorful bits of food to grow bigger and take down other snakes to become an absolute unit to be reckoned with.

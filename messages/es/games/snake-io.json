@@ -1,0 +1,77 @@
+{
+  "snake-io": {
+    "title": "Snake.io: Juego de Batalla Serpiente Multijugador Online",
+    "slogan": "Lucha, crece y domina en Snake.io",
+    "description": "Snake.io es un emocionante juego multijugador online en el que controlas una serpiente en una batalla por la supervivencia. Come comida colorida para crecer y derrotar a otras serpientes para convertirte en el campeón definitivo. Con controles sencillos y una jugabilidad competitiva, Snake.io ofrece diversión sin fin para jugadores de todas las edades. ¡Únete a la arena llena de acción de Snake.io y mira si puedes llegar a lo más alto!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Términos de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Snake.io",
+      "description": "Experimenta la emoción de Snake.io, un juego multijugador online donde luchas contra otras serpientes para crecer y dominar. Come comida, evita obstáculos y conviértete en la serpiente más grande de la arena. ¡Juega Snake.io ahora y únete a la diversión!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar Juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Snake.io",
+      "whatIsTitle": "¿Qué es Snake.io?",
+      "whatIsDescription": "Snake.io es un juego multijugador online donde controlas una serpiente en una batalla por la supervivencia. Come comida para crecer y derrotar a otras serpientes para convertirte en el campeón definitivo.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Mueve tu serpiente usando las flechas del teclado o los gestos de deslizamiento.",
+      "howToPlayStep2": "Come comida de colores para crecer y aumentar tu puntuación.",
+      "howToPlayStep3": "Evita las colisiones con otras serpientes y las paredes de la arena para sobrevivir.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Batalla multijugador",
+      "feature1Description": "Compite contra jugadores de todo el mundo en tiempo real.",
+      "feature2Title": "Controles sencillos",
+      "feature2Description": "Los controles fáciles de aprender hacen que Snake.io sea accesible para todos los jugadores.",
+      "feature3Title": "Diversión sin fin",
+      "feature3Description": "Sin fin para el juego, puedes seguir jugando y mejorando tus habilidades.",
+      "feature4Title": "Gráficos coloridos",
+      "feature4Description": "Disfruta de imágenes vibrantes e interesantes mientras juegas a Snake.io."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}
