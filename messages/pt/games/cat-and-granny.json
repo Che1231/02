@@ -1,0 +1,77 @@
+{
+  "cat-and-granny": {
+    "title": "Jogo Gato e Vovó - Um Jogo de Aventura Caótica com Gatos",
+    "slogan": "Surpreenda o Gato Preto e Cause Havoc!",
+    "description": "Gato e Vovó é um jogo de ação caótico em primeira pessoa onde você joga como um gato laranja esperto. Sua missão é enganar o novo gato preto que a Vovó trouxe para casa! Derruba vasos de flores, espalhe objetos e arranhe móveis - tudo enquanto faz a Vovó acreditar que o gato preto é o culpado. Experimente a diversão e a travessura em Gato e Vovó hoje!",
+    "Loading": {
+      "title": "Carregando..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Úteis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Gato e Vovó",
+      "description": "Jogue como o esperto gato laranja e enganar o gato preto neste jogo de ação caótico em primeira pessoa. Cause caos e faça a Vovó acreditar que é culpa do gato preto!",
+      "iframeTitle": "Pré-visualização do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Gato e Vovó",
+      "whatIsTitle": "O que é Gato e Vovó?",
+      "whatIsDescription": "Gato e Vovó é um jogo de ação caótico em primeira pessoa onde você joga como um gato laranja esperto. Seu objetivo é enganar o novo gato preto que a Vovó trouxe para casa, causando caos e fazendo a Vovó acreditar que é culpa do gato preto.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Derruba vasos de flores para criar caos.",
+      "howToPlayStep2": "Espalhe objetos pela casa para confundir a Vovó.",
+      "howToPlayStep3": "Arranhe móveis para fazer a Vovó pensar que é culpa do gato preto.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Jogabilidade Caótica",
+      "feature1Description": "Experimente a emoção de causar caos como o gato laranja.",
+      "feature2Title": "Estratégia Esperta",
+      "feature2Description": "Engane o gato preto e faça a Vovó acreditar que é culpa dele.",
+      "feature3Title": "Ambiente Interativo",
+      "feature3Description": "Interaja com vários objetos na casa para criar caos.",
+      "feature4Title": "Ação em Primeira Pessoa",
+      "feature4Description": "Imergir-se no jogo com uma perspectiva em primeira pessoa."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "cat-and-granny": {
+    "title": "고양이와 할머니 - 혼란스러운 고양이 모험 게임",
+    "slogan": "검은 고양이를 속여서 혼돈을 일으켜 보세요!",
+    "description": "고양이와 할머니는 똑똑한 주황색 고양이를 플레이하는 혼란스러운 1인칭 액션 게임입니다. 할머니가 데려온 새 검은 고양이를 속이는 것이 당신의 임무입니다! 화분을 넘어뜨리고 물건들을 흩뿌리고 가구를 긁어 할머니가 검은 고양이의 잘못이라고 믿게 하세요. 오늘 고양이와 할머니에서 재미와 장난을 경험하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "고양이와 할머니",
+      "description": "이 혼란스러운 1인칭 액션 게임에서 똑똑한 주황색 고양이로 플레이하고 검은 고양이를 속이세요. 혼란을 일으키고 할머니가 검은 고양이의 잘못이라고 생각하게 하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "고양이와 할머니",
+      "whatIsTitle": "고양이와 할머니는 무엇인가요?",
+      "whatIsDescription": "고양이와 할머니는 똑똑한 주황색 고양이를 플레이하는 혼란스러운 1인칭 액션 게임입니다. 할머니가 데려온 새 검은 고양이를 속이는 것이 목표입니다. 혼란을 일으키고 할머니가 검은 고양이의 잘못이라고 생각하게 하세요.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "혼돈을 만들기 위해 화분을 넘어뜨리세요.",
+      "howToPlayStep2": "할머니를 속이기 위해 집안에 물건을 흩뿌리세요.",
+      "howToPlayStep3": "할머니가 검은 고양이의 잘못이라고 생각하도록 가구를 긁으세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "혼란스러운 게임 플레이",
+      "feature1Description": "주황색 고양이로 혼돈을 일으키는 짜릿함을 경험하세요.",
+      "feature2Title": "교활한 전략",
+      "feature2Description": "검은 고양이를 속이고 할머니가 검은 고양이의 잘못이라고 믿게 하세요.",
+      "feature3Title": "상호 작용적인 환경",
+      "feature3Description": "집안의 다양한 물건과 상호 작용하여 혼돈을 일으키세요.",
+      "feature4Title": "1인칭 액션",
+      "feature4Description": "1인칭 시점으로 게임에 몰입하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

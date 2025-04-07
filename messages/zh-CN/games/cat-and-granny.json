@@ -1,0 +1,77 @@
+{
+  "cat-and-granny": {
+    "title": "《猫和奶奶》——一只猫的混乱冒险游戏",
+    "slogan": "智取黑猫，制造混乱！",
+    "description": "《猫和奶奶》是一款充满混乱的单人视角动作游戏，你扮演一只聪明的橘猫。你的任务是智胜奶奶新带回来的黑猫！把花盆打翻，散落物件，抓挠家具——让奶奶相信这一切都是黑猫的杰作。尽情体验《猫和奶奶》带来的乐趣和恶作剧！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一个",
+      "previous": "上一个"
+    },
+    "HomeIframe": {
+      "title": "《猫和奶奶》",
+      "description": "在这个充满混乱的单人视角动作游戏中，扮演聪明的橘猫，智胜黑猫。制造混乱，让奶奶相信一切都是黑猫的错！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "《猫和奶奶》",
+      "whatIsTitle": "《猫和奶奶》是什么？",
+      "whatIsDescription": "《猫和奶奶》是一款充满混乱的单人视角动作游戏，你扮演一只聪明的橘猫。你的目标是通过制造混乱，让奶奶相信新来的黑猫才是罪魁祸首。",
+      "howToPlayTitle": "如何玩？",
+      "howToPlayStep1": "打翻花盆，制造混乱。",
+      "howToPlayStep2": "散落屋内的物品，迷惑奶奶。",
+      "howToPlayStep3": "抓挠家具，让奶奶认为是黑猫干的。",
+      "keyFeaturesTitle": "核心特色",
+      "feature1Title": "混乱的游戏体验",
+      "feature1Description": "体验橘猫制造混乱的刺激。",
+      "feature2Title": "巧妙的策略",
+      "feature2Description": "智胜黑猫，并让奶奶相信是黑猫的错。",
+      "feature3Title": "互动环境",
+      "feature3Description": "与屋内的各种物品互动，制造混乱。",
+      "feature4Title": "第一人称动作",
+      "feature4Description": "沉浸式第一人称视角体验。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐游戏"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏列表"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

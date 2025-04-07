@@ -1,0 +1,77 @@
+{
+  "cat-and-granny": {
+    "title": "Jouer à Chat et Grand-mère - Un jeu d'aventure chaotique avec un chat",
+    "slogan": "Déjouez le chat noir et créez le chaos !",
+    "description": "Chat et Grand-mère est un jeu d'action à la première personne chaotique où vous incarnez un chat orange rusé. Votre mission est de déjouer le nouveau chat noir que Grand-mère a ramené à la maison ! Renversez des pots de fleurs, éparpillez des objets et grattez les meubles, tout en faisant croire à Grand-mère que le chat noir est responsable. Vivez le divertissement et la malice dans Chat et Grand-mère aujourd'hui !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Chat et Grand-mère",
+      "description": "Jouez le rôle du chat orange rusé et déjouez le chat noir dans ce jeu d'action à la première personne chaotique. Créez le chaos et faites croire à Grand-mère que c'est le chat noir qui est fautif !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Joue au jeu"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Chat et Grand-mère",
+      "whatIsTitle": "Qu'est-ce que Chat et Grand-mère ?",
+      "whatIsDescription": "Chat et Grand-mère est un jeu d'action à la première personne chaotique où vous incarnez un chat orange rusé. Votre objectif est de déjouer le nouveau chat noir que Grand-mère a ramené à la maison en provoquant le chaos et en faisant croire à Grand-mère que c'est le chat noir qui est fautif.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Renversez les pots de fleurs pour créer le chaos.",
+      "howToPlayStep2": "Éparpillez les objets dans la maison pour dérouter Grand-mère.",
+      "howToPlayStep3": "Grattez les meubles pour faire croire à Grand-mère que c'est le chat noir qui est fautif.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Gameplay Chaotique",
+      "feature1Description": "Découvrez le plaisir de semer le chaos en tant que chat orange.",
+      "feature2Title": "Stratégie Rusée",
+      "feature2Description": "Déjouez le chat noir et faites croire à Grand-mère que c'est le chat noir qui est fautif.",
+      "feature3Title": "Environnement Intéactif",
+      "feature3Description": "Interagissez avec divers objets de la maison pour créer le chaos.",
+      "feature4Title": "Action à la Première Personne",
+      "feature4Description": "Plongez-vous dans le jeu avec une perspective à la première personne."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Afficher plus",
+      "page": "Page"
+    }
+  }
+}
