@@ -1,0 +1,120 @@
+{
+  "name": "Words of Wonders",
+  "pagePath": "/games/words-of-wonders",
+  "pageName": "words-of-wonders",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.crazygames.com/embed/words-of-wonders",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken87.png",
+      "content": "This game is so addicting! I love connecting letters to reveal hidden words. Can't stop playing."
+    },
+    {
+      "author": "SavageBroadsword_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBroadsword_X.png",
+      "content": "Words of Wonders is pretty fun. Kinda scratches that crossword itch. Simple, but keeps you going."
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Wow, this game is a total brain teaser! Finding all the words is harder than you think, lol."
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Words of Wonders? More like Words of 'Where did my afternoon go?' Addicting stuff, for real."
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "Not bad, not bad at all. I am really enjoying reaching more challenging levels. It's a good time filler."
+    },
+    {
+      "author": "PhantomPhoenix42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix42.png",
+      "content": "The game is quite enjoyable. I love that it tests your vocabulary so well! What a blast!"
+    },
+    {
+      "author": "AdjectiveRevolver_V",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AdjectiveRevolver_V.png",
+      "content": "This is a solid game. I like to play this whenever I am bored. I really wanna become a master wordsmith!"
+    },
+    {
+      "author": "AmongUsSus99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AmongUsSus99.png",
+      "content": "It's alright, I guess. Sometimes the words are kinda obscure. Anyone else feel the same?"
+    },
+    {
+      "author": "CosmicLeviathan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicLeviathan99.png",
+      "content": "Pretty cool game! Connecting letters has never been this fun before. Definitely recommend it to anyone."
+    },
+    {
+      "author": "MetaKatana_Z",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/MetaKatana_Z.png",
+      "content": "It's okay, but is it just me or does it get repetitive after a while? I'm not sure if I'll keep playing it."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-07/images/1743988606900-8cy4b.avif",
+  "page_path": "/games/words-of-wonders",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Hot"
+  ],
+  "createdTime": "2025-04-07 09:16:43"
+}

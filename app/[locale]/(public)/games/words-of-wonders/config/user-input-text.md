@@ -1,0 +1,1 @@
+Words of Wonders is a crossword puzzle where you connect letters to reveal hidden words. Test your vocabulary and find all the words to progress and reach more challenging levels. Will you become a master wordsmith in this delightful word game?

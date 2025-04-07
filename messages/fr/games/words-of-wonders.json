@@ -1,0 +1,77 @@
+{
+  "words-of-wonders": {
+    "title": "Mots d'Émerveillement : Jeu de mots croisés en ligne gratuit",
+    "slogan": "Connectez les lettres, révélez les mots et maîtrisez le puzzle!",
+    "description": "Mots d'Émerveillement est un captivant jeu de mots croisés où vous connectez les lettres pour découvrir des mots cachés. Mettez au défi votre vocabulaire, progressez à travers les niveaux et appréciez le frisson de la découverte de mots. Jouez à Mots d'Émerveillement maintenant et devenez un maître des mots!",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Mots d'Émerveillement",
+      "description": "Mots d'Émerveillement est un jeu de mots croisés où vous connectez des lettres pour révéler des mots cachés. Mettez à l'épreuve votre vocabulaire et trouvez tous les mots pour progresser et atteindre des niveaux plus difficiles.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Mots d'Émerveillement",
+      "whatIsTitle": "Qu'est-ce que Mots d'Émerveillement ?",
+      "whatIsDescription": "Mots d'Émerveillement est un jeu de mots croisés où vous connectez des lettres pour révéler des mots cachés. Mettez à l'épreuve votre vocabulaire et trouvez tous les mots pour progresser et atteindre des niveaux plus difficiles.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Connectez les lettres pour former des mots.",
+      "howToPlayStep2": "Révélez les mots cachés pour progresser.",
+      "howToPlayStep3": "Relevez le défi de niveaux plus difficiles.",
+      "keyFeaturesTitle": "Fonctionnalités principales",
+      "feature1Title": "Mots croisés",
+      "feature1Description": "Résolvez des mots croisés en connectant des lettres.",
+      "feature2Title": "Mots cachés",
+      "feature2Description": "Découvrez des mots cachés pour débloquer de nouveaux niveaux.",
+      "feature3Title": "Défi de vocabulaire",
+      "feature3Description": "Mettez à l'épreuve et développez vos compétences en vocabulaire.",
+      "feature4Title": "Niveaux progressifs",
+      "feature4Description": "Progressez à travers des niveaux de difficulté croissante."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

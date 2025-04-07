@@ -1,0 +1,77 @@
+{
+  "words-of-wonders": {
+    "title": "字謎奇觀：免費線上填字遊戲",
+    "slogan": "連接字母，揭示詞彙，挑戰填字！",
+    "description": "字謎奇觀是一款引人入勝的填字遊戲，您需要連接字母來揭示隱藏的詞彙。挑戰您的詞彙量，提升等級，享受發現詞彙的樂趣。現在就玩字謎奇觀，成為字詞大師！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友善連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "字謎奇觀",
+      "description": "字謎奇觀是一款填字遊戲，您需要連接字母來揭示隱藏的詞彙。測試您的詞彙量，找到所有詞彙來提升等級，挑戰更困難的關卡。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "字謎奇觀",
+      "whatIsTitle": "什麼是字謎奇觀？",
+      "whatIsDescription": "字謎奇觀是一款填字遊戲，您需要連接字母來揭示隱藏的詞彙。測試您的詞彙量，找到所有詞彙來提升等級，挑戰更困難的關卡。",
+      "howToPlayTitle": "如何遊戲？",
+      "howToPlayStep1": "連接字母形成詞彙。",
+      "howToPlayStep2": "揭示隱藏的詞彙提升等級。",
+      "howToPlayStep3": "挑戰更難的關卡。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "填字遊戲",
+      "feature1Description": "透過連接字母來完成填字遊戲。",
+      "feature2Title": "隱藏詞彙",
+      "feature2Description": "發現隱藏的詞彙來解鎖新的關卡。",
+      "feature3Title": "詞彙挑戰",
+      "feature3Description": "測試和擴展您的詞彙量。",
+      "feature4Title": "漸進式關卡",
+      "feature4Description": "提升至越來越具有挑戰性的關卡。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到分類",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}
