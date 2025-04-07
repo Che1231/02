@@ -1,0 +1,120 @@
+{
+  "name": "Chicken Scream",
+  "pagePath": "/games/chicken-scream",
+  "pageName": "chicken-scream",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.crazygames.com/game/chicken-scream",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "NeonKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonKraken42.png",
+      "content": "OMG, Chicken Scream is so funny! Controlling the chicken with my voice is the craziest thing ever. Definitely worth checking out!"
+    },
+    {
+      "author": "SavageKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatana_X.png",
+      "content": "This game Chicken Scream had me yelling at my phone, lol! The voice control is a hilarious feature. I'm addicted!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Chicken Scream is absolutely bonkers. The voice-controlled gameplay is surprisingly addictive. It's the perfect quirky game!"
+    },
+    {
+      "author": "PhantomLeviathan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomLeviathan99.png",
+      "content": "Seriously, you HAVE to try Chicken Scream! It's a laugh riot screaming your way through levels. The voice control is genius!"
+    },
+    {
+      "author": "NoobMaster87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster87.png",
+      "content": "My neighbors probably hate me after playing Chicken Scream. The voice control in this game is wild, but actually pretty fun!"
+    },
+    {
+      "author": "xX_DarkSlayer_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkSlayer_Xx.png",
+      "content": "The voice control in Chicken Scream is a game-changer! It's a totally new spin on the platformer genre. Great game!"
+    },
+    {
+      "author": "CosmicPhoenix_Reborn",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicPhoenix_Reborn.png",
+      "content": "Didn't expect much from Chicken Scream, but it's a blast! The voice-controlled mechanics are really creative and pretty funny to play!"
+    },
+    {
+      "author": "StalkingKraken_42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken_42.png",
+      "content": "I can't believe I'm saying this, but Chicken Scream is amazing. The game is amazing. Voice control actually works, what a concept!"
+    },
+    {
+      "author": "NeonBlade_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonBlade_X.png",
+      "content": "Is it just me, or is screaming at your phone the future of gaming? Chicken Scream is pretty awesome and a whole lotta fun!"
+    },
+    {
+      "author": "PhantomRevolver89",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomRevolver89.png",
+      "content": "This has got to be the most ridiculous game I've ever played. Love it! Especially the voice control. Chicken Scream’s a winner!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-07/images/1744020838845-2koozp.avif",
+  "page_path": "/games/chicken-scream",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Multiplayer"
+  ],
+  "createdTime": "2025-04-07 18:13:57"
+}

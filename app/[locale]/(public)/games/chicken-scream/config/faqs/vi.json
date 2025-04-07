@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Tôi thực hiện các hành động cơ bản trong Chicken Scream như thế nào với tư cách là một người chơi mới?",
+    "answer": "Trong Chicken Scream, các hành động cơ bản bao gồm di chuyển, nhảy và sử dụng khả năng hét của bạn. Ví dụ, để di chuyển, hãy sử dụng các phím mũi tên hoặc cần điều khiển. Nhấn phím cách để nhảy, và phím 'S' để hét, điều này có thể làm sợ kẻ thù hoặc tương tác với các vật thể. Một ví dụ thực tế là khi bạn gặp phải một cánh cửa bị khóa; hét gần đó có thể kích hoạt cơ chế mở cửa. [Ví dụ minh họa: Hãy nghĩ về tiếng hét của bạn như một chiếc chìa khóa không chỉ mở cửa mà còn mở ra những chiến lược mới.]"
+  },
+  {
+    "question": "Tôi nên cấu hình cài đặt ban đầu nào trong Chicken Scream để có trải nghiệm chơi game tối ưu?",
+    "answer": "Để có trải nghiệm chơi game tối ưu, hãy bắt đầu bằng cách đặt độ phân giải phù hợp với cài đặt gốc của màn hình để tránh các vấn đề về đồ họa. Điều chỉnh cài đặt âm thanh để cân bằng nhạc và hiệu ứng; một điểm khởi đầu tốt là 70% nhạc và 90% hiệu ứng âm thanh. Kích hoạt 'Hét nhanh' trong menu điều khiển để có thời gian phản hồi nhanh hơn. [Bảng so sánh cấu hình: Độ phân giải: Gốc; Nhạc: 70%; Hiệu ứng âm thanh: 90%; Hét nhanh: Được bật]"
+  },
+  {
+    "question": "Tại sao thời gian rất quan trọng khi sử dụng khả năng hét trong Chicken Scream?",
+    "answer": "Đúng thời điểm khi hét rất cần thiết vì nó ảnh hưởng đến cả hiệu quả và thời gian hồi chiêu. Ví dụ, hét đúng lúc kẻ thù chuẩn bị tấn công có thể làm choáng chúng, tạo cơ hội cho bạn phản công hoặc thoát thân. Hét không đúng lúc có thể khiến bạn trở nên dễ bị tổn thương. [Minh họa bằng sơ đồ luồng: Kẻ thù tiếp cận -> Chờ tín hiệu tấn công -> Thực hiện hét -> Làm choáng kẻ thù -> Phản công/Thoát thân]"
+  },
+  {
+    "question": "Làm thế nào để tôi quản lý tài nguyên hiệu quả trong Chicken Scream sau khi chơi hơn 100 giờ?",
+    "answer": "Sau 100 giờ, hãy tập trung vào việc tối ưu hóa việc sử dụng tài nguyên bằng cách ưu tiên nâng cấp mang lại lợi nhuận tốt nhất cho khoản đầu tư. Ví dụ, nâng cấp phạm vi hét của bạn trước sức mạnh của nó có thể có lợi hơn trong các cấp độ sau khi kẻ thù phân bố rộng hơn. [So sánh nhiều phương án: Nâng cấp Phạm vi vs. Sức mạnh: Phạm vi tăng diện tích ảnh hưởng, Sức mạnh tăng sát thương; Phạm vi là ưu tiên hơn cho kẻ thù phân bố rộng rãi.]"
+  },
+  {
+    "question": "Tôi có thể sử dụng những chiến lược nào để đánh bại sếp cuối trong Chicken Scream?",
+    "answer": "Để đánh bại sếp cuối, hãy làm theo các bước sau: BƯỚC 1: Quan sát các kiểu tấn công của sếp và tìm các vị trí an toàn. BƯỚC 2: Sử dụng khả năng hét của bạn để ngăn chặn các đòn tấn công mạnh mẽ của nó. BƯỚC 3: Tiết kiệm gói máu cho giai đoạn cuối khi sếp trở nên hung dữ hơn. [Ví dụ minh họa: Hãy xem cuộc chiến với sếp như một điệu nhảy, nơi thời gian và nhịp điệu là chìa khóa thành công.]"
+  },
+  {
+    "question": "Tôi nên ưu tiên nâng cấp những kỹ năng nào trong Chicken Scream để có lợi thế chiến lược?",
+    "answer": "Ưu tiên nâng cấp các kỹ năng cải thiện khả năng sinh tồn và kiểm soát đám đông của bạn. Ví dụ, nâng cấp \"Hét vang\" cho phép tiếng hét của bạn ảnh hưởng đến nhiều kẻ thù hơn, làm cho nó trở nên vô giá trong các khu vực đông đúc. [Bảng so sánh cấu hình: Hét vang: Tăng số lượng kẻ thù bị ảnh hưởng; Thời gian: Kéo dài thời gian choáng; Thời gian hồi chiêu: Giảm thời gian chờ giữa các tiếng hét]"
+  },
+  {
+    "question": "Những cơ chế cơ bản nào chi phối hành vi AI của kẻ thù trong Chicken Scream?",
+    "answer": "AI của kẻ thù trong Chicken Scream hoạt động dựa trên hệ thống trạng thái, trong đó các hành động được kích hoạt bởi sự hiện diện và hành động của người chơi. Ví dụ, kẻ thù sẽ tuần tra cho đến khi chúng phát hiện ra người chơi, sau đó chuyển sang chế độ tấn công. [Minh họa bằng sơ đồ luồng: Chế độ tuần tra -> Phát hiện -> Chế độ tấn công -> Tấn công/Rút lui dựa trên hành động của người chơi]"
+  },
+  {
+    "question": "Sự gia tăng độ khó của trò chơi ảnh hưởng đến sự sẵn có của tài nguyên trong Chicken Scream như thế nào?",
+    "answer": "Khi độ khó tăng lên, tài nguyên trở nên khan hiếm hơn, đòi hỏi phải có kế hoạch chiến lược hơn. Ví dụ, gói máu và thời gian hồi chiêu của tiếng hét trở nên ít thường xuyên hơn ở các độ khó cao hơn, buộc người chơi phải dựa nhiều hơn vào kỹ năng và ít hơn vào vật phẩm tiêu hao. [So sánh nhiều phương án: Dễ: Tài nguyên dồi dào; Trung bình: Cân bằng; Khó: Tài nguyên khan hiếm, dựa nhiều hơn vào kỹ năng]"
+  },
+  {
+    "question": "Tôi có thể chuyển tiến độ chơi Chicken Scream từ PC sang nền tảng di động không?",
+    "answer": "Có, tiến độ có thể được chuyển bằng cách lưu trên đám mây. Hãy đảm bảo bạn đăng nhập vào cùng một tài khoản trên cả hai nền tảng. Ví dụ, sau khi hoàn thành một cấp độ trên PC, hãy lưu tiến độ của bạn trên đám mây, sau đó tải lên thiết bị di động để tiếp tục từ điểm bạn dừng lại. [Ví dụ minh họa: Hãy nghĩ về việc lưu trên đám mây như một chiếc cầu nối kết nối trải nghiệm chơi game của bạn trên các thiết bị khác nhau.]"
+  },
+  {
+    "question": "Những quả trứng Phục sinh ẩn giấu nào có thể được tìm thấy trong Chicken Scream, và chúng làm thế nào để nâng cao trải nghiệm chơi game?",
+    "answer": "Chicken Scream bao gồm một số quả trứng Phục sinh, chẳng hạn như một cấp độ ẩn có thể truy cập bằng cách thực hiện một chuỗi tiếng hét cụ thể trong menu chính. Mức độ này cung cấp những thử thách và phần thưởng độc đáo, thêm chiều sâu cho trải nghiệm chơi game. [Ví dụ minh họa: Khám phá những quả trứng Phục sinh giống như tìm những kho báu ẩn giấu làm phong phú thêm cuộc phiêu lưu của bạn.]"
+  }
+]

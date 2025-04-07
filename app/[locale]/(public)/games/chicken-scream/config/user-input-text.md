@@ -1,0 +1,1 @@
+Chicken Scream is a laugh-out-loud casual arcade platform game where your voice takes control! Unleash your inner chicken and scream your way to victory in this hilarious voice-controlled adventure. Searching for a quirky game that gets you talking (or yelling)? Look no further—Chicken Scream is the perfect game for you!

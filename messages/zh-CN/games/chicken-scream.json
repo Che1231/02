@@ -1,0 +1,77 @@
+{
+  "chicken-scream": {
+    "title": "《尖叫鸡》——语音控制街机游戏",
+    "slogan": "用尖叫赢得胜利！",
+    "description": "《尖叫鸡》是一款引人捧腹的休闲街机平台游戏，你的声音将掌控一切！在这次充满笑料的语音控制冒险中，释放你内心的尖叫鸡，赢得胜利。正在寻找一款让你开口大笑（或尖叫）的游戏吗？不用再找了——《尖叫鸡》正是你所寻找的游戏！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一步",
+      "previous": "上一步"
+    },
+    "HomeIframe": {
+      "title": "《尖叫鸡》——语音控制街机游戏",
+      "description": "体验《尖叫鸡》的乐趣，这是一款语音控制的街机平台游戏。用尖叫穿梭关卡，享受独特的游戏冒险！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "《尖叫鸡》——语音控制街机游戏",
+      "whatIsTitle": "什么是《尖叫鸡》？",
+      "whatIsDescription": "《尖叫鸡》是一款休闲街机平台游戏，你的声音控制着游戏操作。这是一种充满喜剧性和独特的游戏体验！",
+      "howToPlayTitle": "如何游戏",
+      "howToPlayStep1": "尖叫让小鸡跳跃。",
+      "howToPlayStep2": "用你的声音控制小鸡移动。",
+      "howToPlayStep3": "收集金币，躲避障碍，赢得游戏！",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "语音控制",
+      "feature1Description": "用你的声音控制小鸡的动作。",
+      "feature2Title": "街机乐趣",
+      "feature2Description": "享受经典街机平台游戏的独特体验。",
+      "feature3Title": "充满笑料的游戏体验",
+      "feature3Description": "在游戏中尖叫，尽情享受乐趣。",
+      "feature4Title": "独特的冒险",
+      "feature4Description": "与《尖叫鸡》一起开启独一无二的游戏冒险。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐游戏"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏列表"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

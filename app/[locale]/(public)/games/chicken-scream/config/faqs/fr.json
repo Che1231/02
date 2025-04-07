@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Comment puis-je effectuer des actions de base dans Chicken Scream en tant que nouveau joueur ?",
+    "answer": "Dans Chicken Scream, les actions de base incluent le déplacement, le saut et l'utilisation de votre capacité de cri. Par exemple, pour vous déplacer, utilisez les flèches directionnelles ou la manette. Appuyez sur la barre d'espace pour sauter et sur la touche \"S\" pour crier, ce qui peut effrayer les ennemis ou interagir avec des objets. Un exemple concret est lorsque vous rencontrez une porte verrouillée ; crier près de celle-ci peut déclencher un mécanisme pour l'ouvrir. [Exemple : Pensez à votre cri comme à une clé qui déverrouille non seulement les portes, mais aussi de nouvelles stratégies.]"
+  },
+  {
+    "question": "Quels sont les paramètres initiaux que je devrais configurer dans Chicken Scream pour une meilleure expérience de jeu ?",
+    "answer": "Pour une meilleure expérience de jeu, commencez par définir votre résolution pour qu'elle corresponde aux paramètres natifs de votre moniteur afin d'éviter les problèmes graphiques. Ajustez les paramètres sonores pour équilibrer la musique et les effets sonores ; un bon point de départ est 70 % de musique et 90 % d'effets sonores. Activez \"Cri Rapide\" dans le menu des contrôles pour des temps de réponse plus rapides. [Tableau de configuration : Résolution : Natif ; Musique Sonore : 70 % ; Effets Sonores : 90 % ; Cri Rapide : Activé]"
+  },
+  {
+    "question": "Pourquoi le timing est-il crucial lorsqu'on utilise la capacité de crier dans Chicken Scream ?",
+    "answer": "Chronométrer correctement votre cri est essentiel car cela affecte à la fois l'efficacité et le temps de recharge. Par exemple, crier au moment où un ennemi est sur le point d'attaquer peut le paralyser, vous donnant une chance de riposter ou de vous échapper. Des cris mal chronométrés peuvent vous laisser vulnérable. [Explication par organigramme : Approche de l'ennemi -> Attente du signal d'attaque -> Exécution du cri -> Paralysie de l'ennemi -> Contre-attaque/Évasion]"
+  },
+  {
+    "question": "Comment puis-je gérer efficacement les ressources dans Chicken Scream après avoir joué plus de 100 heures ?",
+    "answer": "Après 100 heures de jeu, concentrez-vous sur l'optimisation de l'utilisation des ressources en priorisant les améliorations qui offrent le meilleur retour sur investissement. Par exemple, améliorer la portée de votre cri avant sa puissance peut être plus bénéfique aux niveaux ultérieurs où les ennemis sont plus dispersés. [Comparaison multi-options : Améliorer la portée vs. la puissance : La portée augmente la zone d'effet, la puissance augmente les dégâts ; La portée est préférable pour les ennemis dispersés.]"
+  },
+  {
+    "question": "Quelles stratégies puis-je utiliser pour vaincre le boss final dans Chicken Scream ?",
+    "answer": "Pour vaincre le boss final, suivez ces étapes : ÉTAPE 1 : Observez les schémas d'attaque du boss et trouvez des zones sûres. ÉTAPE 2 : Utilisez votre cri pour interrompre ses attaques puissantes. ÉTAPE 3 : Conservez les packs de santé pour la phase finale où le boss devient plus agressif. [Exemple : Considérez le combat contre le boss comme une danse, où le timing et le rythme sont essentiels à la réussite.]"
+  },
+  {
+    "question": "Quelles capacités devrais-je prioriser pour améliorer dans Chicken Scream pour un avantage stratégique ?",
+    "answer": "Priorisez les améliorations des capacités qui renforcent votre survie et votre contrôle de foule. Par exemple, améliorer le \"Cri Écho\" permet à votre cri d'affecter plusieurs ennemis, ce qui le rend précieux dans les zones encombrées. [Tableau de configuration : Cri Écho : Augmente le nombre d'ennemis affectés ; Durée : Allonge le temps de paralysie ; Recharge : Réduit le délai entre les cris]"
+  },
+  {
+    "question": "Quels mécanismes sous-jacents régissent le comportement de l'IA ennemie dans Chicken Scream ?",
+    "answer": "L'IA ennemie dans Chicken Scream fonctionne sur un système basé sur des états où les actions sont déclenchées par la proximité et les actions du joueur. Par exemple, les ennemis patrouilleront jusqu'à ce qu'ils détectent le joueur, puis basculeront en mode agressif. [Explication par organigramme : Mode de patrouille -> Détection -> Mode agressif -> Attaque/Retrait en fonction des actions du joueur]"
+  },
+  {
+    "question": "Comment l'échelle de difficulté du jeu affecte-t-elle la disponibilité des ressources dans Chicken Scream ?",
+    "answer": "À mesure que la difficulté augmente, les ressources deviennent plus rares, nécessitant une planification stratégique plus poussée. Par exemple, les packs de santé et les temps de recharge des cris sont moins fréquents aux niveaux de difficulté plus élevés, poussant ainsi les joueurs à compter davantage sur leurs compétences et moins sur les consommables. [Comparaison multi-options : Facile : Ressources abondantes ; Normal : Équilibré ; Difficile : Ressources rares, dépendance accrue aux compétences]"
+  },
+  {
+    "question": "Puis-je transférer mes progrès dans Chicken Scream de PC vers les plateformes mobiles ?",
+    "answer": "Oui, les progrès peuvent être transférés via la sauvegarde en nuage. Assurez-vous d'être connecté au même compte sur les deux plateformes. Par exemple, après avoir terminé un niveau sur PC, enregistrez vos progrès dans le cloud, puis chargez-les sur votre appareil mobile pour continuer là où vous vous étiez arrêté. [Exemple : Pensez à la sauvegarde en nuage comme à un pont qui relie vos expériences de jeu sur différents appareils.]"
+  },
+  {
+    "question": "Quelles quêtes cachées peut-on trouver dans Chicken Scream, et comment améliorent-elles le jeu ?",
+    "answer": "Chicken Scream inclut plusieurs œufs de Pâques, comme un niveau caché accessible en exécutant une séquence spécifique de cris au menu principal. Ce niveau propose des défis et des récompenses uniques, ajoutant de la profondeur au jeu. [Exemple : Découvrir les œufs de Pâques, c'est comme trouver des trésors cachés qui enrichissent votre aventure.]"
+  }
+]

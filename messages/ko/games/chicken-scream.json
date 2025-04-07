@@ -1,0 +1,77 @@
+{
+  "chicken-scream": {
+    "title": "치킨 크림 - 음성 제어 아케이드 즐거움",
+    "slogan": "승리의 외침으로!",
+    "description": "치킨 크림은 음성으로 제어하는 재미있는 아케이드 플랫폼 게임입니다. 당신의 내면의 닭을 풀어내고, 이 웃긴 음성 제어 모험에서 승리의 외침으로 나아가세요. 독특하고 재미있는 게임을 찾고 계신가요? 더 이상 찾지 마세요. 치킨 크림은 여러분을 위한 완벽한 게임입니다!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "컨텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "치킨 크림 - 음성 제어 아케이드 즐거움",
+      "description": "음성 제어 아케이드 플랫폼 게임인 치킨 크림의 유쾌함을 경험하세요. 레벨을 거쳐 외침으로 게임 모험을 즐기세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "치킨 크림 - 음성 제어 아케이드 즐거움",
+      "whatIsTitle": "치킨 크림이란 무엇인가요?",
+      "whatIsDescription": "치킨 크림은 음성으로 동작을 제어하는 캐주얼 아케이드 플랫폼 게임입니다. 독특하고 유쾌한 게임 경험을 제공합니다!",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "닭이 점프하도록 외치세요.",
+      "howToPlayStep2": "음성으로 닭의 움직임을 제어하세요.",
+      "howToPlayStep3": "동전을 모으고 장애물을 피해 승리하세요!",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "음성 제어",
+      "feature1Description": "음성으로 닭의 행동을 제어하세요.",
+      "feature2Title": "아케이드 재미",
+      "feature2Description": "트위스트가 있는 클래식 아케이드 플랫폼 경험을 즐기세요.",
+      "feature3Title": "유쾌한 게임 플레이",
+      "feature3Description": "게임을 통해 외침으로 웃음을 선사합니다.",
+      "feature4Title": "독특한 모험",
+      "feature4Description": "치킨 크림과 함께 독창적인 게임 모험을 경험해보세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}
