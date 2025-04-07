@@ -1,0 +1,77 @@
+{
+  "helix-jump": {
+    "title": "Trò chơi Helix Jump - Trò chơi Bóng nhảy trực tuyến miễn phí",
+    "slogan": "Đơn giản, gây nghiện, vui vẻ!",
+    "description": "Helix Jump là một trò chơi giải trí với các cơ chế đơn giản và gây nghiện. Trong trò chơi, bạn hướng dẫn một quả bóng nảy liên tục xuống một loạt các nền tảng tròn cho đến khi va chạm. Rơi qua các khe hở và tránh rơi vào các khu vực bị cấm! Chơi Helix Jump ngay bây giờ và trải nghiệm sự hồi hộp của thử thách nảy bóng hấp dẫn này.",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Helix Jump - Trò chơi trực tuyến miễn phí",
+      "description": "Hướng dẫn quả bóng nảy qua hình xoắn ốc trong trò chơi thú vị và gây nghiện này. Tránh các khu vực bị cấm và giữ cho quả bóng di chuyển!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Màn hình toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào bộ nhớ đệm!",
+      "downloadGame": "Tải xuống trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Helix Jump",
+      "whatIsTitle": "Helix Jump là gì?",
+      "whatIsDescription": "Helix Jump là một trò chơi giải trí nơi bạn hướng dẫn một quả bóng nảy qua một loạt các nền tảng tròn, tránh các khu vực bị cấm.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Nhấn để điều khiển hướng của quả bóng.",
+      "howToPlayStep2": "Tránh rơi vào các khu vực bị cấm.",
+      "howToPlayStep3": "Giữ cho quả bóng di chuyển qua hình xoắn ốc.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Cơ chế đơn giản",
+      "feature1Description": "Các điều khiển dễ học giúp Helix Jump dễ tiếp cận với tất cả mọi người.",
+      "feature2Title": "Gameplay gây nghiện",
+      "feature2Description": "Tiếp tục chơi để đánh bại điểm số cao của bạn trong trò chơi hấp dẫn này.",
+      "feature3Title": "Các cấp độ đầy thách thức",
+      "feature3Description": "Điều hướng qua các cấu trúc xoắn ốc ngày càng khó khăn.",
+      "feature4Title": "Các khu vực bị cấm",
+      "feature4Description": "Tránh rơi vào các khu vực này để giữ cho quả bóng trong cuộc chơi."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

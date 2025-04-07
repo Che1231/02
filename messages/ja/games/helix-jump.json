@@ -1,0 +1,77 @@
+{
+  "helix-jump": {
+    "title": "ヘリックスジャンプ - 無料オンラインバウンスゲーム",
+    "slogan": "シンプルで中毒性があり、楽しい！",
+    "description": "ヘリックスジャンプは、シンプルで中毒性のある楽しいメカニズムを持つカジュアルゲームです。ゲームでは、バウンドするボールを円形のプラットフォームの連続した下に継続的に導き、衝突するまでです。隙間から落下し、禁断ゾーンに着地するのを避けてください！今すぐヘリックスジャンプをプレイして、この魅力的なボールバウンスチャレンジを体験してください。",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "ヘリックスジャンプ - 無料オンラインゲーム",
+      "description": "この楽しい中毒性のあるゲームで、バウンドするボールをヘリックスの中を導いてください。禁断ゾーンを避け、ボールを動かし続けましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ヘリックスジャンプ",
+      "whatIsTitle": "ヘリックスジャンプとは？",
+      "whatIsDescription": "ヘリックスジャンプは、一連の円形プラットフォームを通してバウンドするボールを導き、禁断のゾーンを避ける、カジュアルゲームです。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "ボールの方向を制御するためにタップします。",
+      "howToPlayStep2": "禁断のゾーンに着地しないように注意してください。",
+      "howToPlayStep3": "ヘリックスの中をボールを動かし続ける。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "シンプルな操作",
+      "feature1Description": "簡単に習得できる操作により、誰でもヘリックスジャンプを楽しめます。",
+      "feature2Title": "中毒性のあるゲームプレイ",
+      "feature2Description": "この魅力的なゲームで、あなたのハイスコアを目指して遊び続けましょう。",
+      "feature3Title": "挑戦的なレベル",
+      "feature3Description": "ますます難しいヘリックス構造をナビゲートしてください。",
+      "feature4Title": "禁断のゾーン",
+      "feature4Description": "これらのゾーンに着地しないように注意して、ボールをプレイ状態に保ちましょう。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームコメント"
+    },
+    "GamePage": {
+      "title": "全てゲーム",
+      "description": "全てゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリ",
+      "noCategories": "カテゴリが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

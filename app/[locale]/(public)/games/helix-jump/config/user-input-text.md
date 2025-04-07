@@ -1,0 +1,1 @@
+Helix Jump is a casual game with simple and addictively fun mechanics. In the game, you guide a bouncing ball continuously down a series of circular platforms until you crash. Fall through the cracks and avoid landing in the forbidden zones!

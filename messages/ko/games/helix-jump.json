@@ -1,0 +1,77 @@
+{
+  "helix-jump": {
+    "title": "나선형 점프 - 무료 온라인 공 튕기기 게임",
+    "slogan": "간단하고 중독성 있고 재밌어요!",
+    "description": "나선형 점프는 간단하고 중독성 있는 재미있는 메커니즘을 가진 캐주얼 게임입니다. 게임에서 여러 개의 원형 플랫폼을 계속해서 튕기는 공을 안전하게 지시하면서 튕기도록 해야 합니다. 틈새를 지나고 금지 구역에 떨어지지 않도록 조심하세요! 지금 나선형 점프를 플레이하고 이 매력적인 공 튕기기 챌린지의 흥분을 경험하세요.",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인 정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "유용한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "나선형 점프 - 무료 온라인 게임",
+      "description": "이 재미있고 중독성 있는 게임에서 나선형을 통해 튕기는 공을 안내하세요. 금지 구역을 피하고 공이 계속 움직이도록 하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "나선형 점프",
+      "whatIsTitle": "나선형 점프는 무엇인가요?",
+      "whatIsDescription": "나선형 점프는 원형 플랫폼을 지나 금지 구역을 피하면서 튕기는 공을 안내하는 캐주얼 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "공의 방향을 조절하려면 탭하세요.",
+      "howToPlayStep2": "금지 구역에 떨어지지 않도록 조심하세요.",
+      "howToPlayStep3": "나선형을 통해 공이 계속 움직이도록 하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "간단한 메커니즘",
+      "feature1Description": "쉽게 배울 수 있는 조작으로 누구든 나선형 점프를 즐길 수 있습니다.",
+      "feature2Title": "중독성 있는 게임 플레이",
+      "feature2Description": "이 매력적인 게임에서 자신의 최고 점수를 깨기 위해 계속 플레이하세요.",
+      "feature3Title": "도전적인 레벨",
+      "feature3Description": "점점 어려워지는 나선형 구조를 탐색하세요.",
+      "feature4Title": "금지 구역",
+      "feature4Description": "이 구역에 떨어지지 않고 공을 게임 안에 유지하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "helix-jump": {
+    "title": "Helix Jump - Jeu de rebond de balle en ligne gratuit",
+    "slogan": "Simple, addictif, amusant !",
+    "description": "Helix Jump est un jeu décontracté aux mécanismes simples et extrêmement amusants. Dans le jeu, vous guidez un ballon rebondissant continuellement sur une série de plates-formes circulaires jusqu'à ce que vous vous écrasez. Évitez les fissures et les zones interdites ! Jouez à Helix Jump maintenant et ressentez le frisson de ce défi de rebond de balle captivant.",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste d'articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Helix Jump - Jeu en ligne gratuit",
+      "description": "Guidez le ballon rebondissant à travers l'hélice dans ce jeu amusant et addictif. Évitez les zones interdites et gardez le ballon en mouvement !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Helix Jump",
+      "whatIsTitle": "Qu'est-ce que Helix Jump ?",
+      "whatIsDescription": "Helix Jump est un jeu décontracté où vous guidez un ballon rebondissant sur une série de plates-formes circulaires, en évitant les zones interdites.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Appuyez pour contrôler la direction du ballon.",
+      "howToPlayStep2": "Évitez d'atterrir sur les zones interdites.",
+      "howToPlayStep3": "Gardez le ballon en mouvement à travers l'hélice.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Mécanismes simples",
+      "feature1Description": "Des commandes faciles à apprendre rendent Helix Jump accessible à tous.",
+      "feature2Title": "Gameplay addictif",
+      "feature2Description": "Continuez à jouer pour battre votre score dans ce jeu captivant.",
+      "feature3Title": "Niveaux stimulants",
+      "feature3Description": "Naviguez à travers des structures d'hélices de plus en plus difficiles.",
+      "feature4Title": "Zones interdites",
+      "feature4Description": "Évitez d'atterrir dans ces zones pour maintenir le ballon en jeu."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

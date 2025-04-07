@@ -1,0 +1,120 @@
+{
+  "name": "Helix Jump",
+  "pagePath": "/games/helix-jump",
+  "pageName": "helix-jump",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.crazygames.com/embed/helix-jump",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomPhoenix_87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix_87.png",
+      "content": "Helix Jump is so addictive! The way you guide the ball down those circular platforms is mind-blowing."
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "Omg, I can't stop playing Helix Jump. It's like a rollercoaster that never stops!"
+    },
+    {
+      "author": "SavageRevolver_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageRevolver_X.png",
+      "content": "I love how this game makes you fall through the cracks and avoid forbidden zones. Super fun!"
+    },
+    {
+      "author": "NeonKraken99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonKraken99.png",
+      "content": "Falling endlessly is both exciting and nerve-wracking! This game is a wild ride."
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "The mechanics of guiding the ball down through those spinning platforms are surprisingly fun."
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Why is this so much harder than it looks? Every time I miss, it feels like I lost a limb."
+    },
+    {
+      "author": "DarkAura_xX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/DarkAura_xX.png",
+      "content": "This game keeps me on my toes. You gotta dodge those forbidden zones to keep going!"
+    },
+    {
+      "author": "CosmicLeviathan_42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicLeviathan_42.png",
+      "content": "The continuous flow of descending with the ball is like a meditative state for me. So calm yet addictive!"
+    },
+    {
+      "author": "StalkingPhoenix99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix99.png",
+      "content": "I can't get enough of this game. It's like a puzzle that's challenging and rewarding every single time!"
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "This game is surprisingly hard but incredibly fun. It makes me feel like a pro!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-07/images/1743987998926-a64gni.avif",
+  "page_path": "/games/helix-jump",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Best"
+  ],
+  "createdTime": "2025-04-07 09:06:34"
+}

@@ -1,0 +1,77 @@
+{
+  "helix-jump": {
+    "title": "螺旋跳 - 免費線上彈珠遊戲",
+    "slogan": "簡單、上癮、有趣！",
+    "description": "螺旋跳是一款輕鬆休閒遊戲，擁有簡單易上手且令人上癮的遊戲機制。遊戲中，你需要不斷控制彈珠沿著一系列的圓形平台滑動，直到彈珠掉落。小心避開禁區！現在就來玩螺旋跳，體驗這款引人入勝的彈珠挑戰遊戲！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導覽"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "螺旋跳 - 免費線上遊戲",
+      "description": "在這款有趣且令人上癮的遊戲中，引導彈珠在螺旋軌道上彈跳。避開禁區，讓彈珠持續移動！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "遊玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "螺旋跳",
+      "whatIsTitle": "螺旋跳是什麼？",
+      "whatIsDescription": "螺旋跳是一款休閒遊戲，需要引導彈珠在圓形平台上彈跳，同時避開禁區。",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "點擊來控制彈珠的方向。",
+      "howToPlayStep2": "避免落入禁區。",
+      "howToPlayStep3": "讓彈珠沿著螺旋軌道持續前進。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "簡單的遊戲機制",
+      "feature1Description": "簡單易學的操作介面，讓所有人都能輕鬆上手螺旋跳。",
+      "feature2Title": "令人上癮的遊戲玩法",
+      "feature2Description": "繼續遊玩，挑戰你的最高分數，享受這款引人入勝的遊戲。",
+      "feature3Title": "具有挑戰性的關卡",
+      "feature3Description": "在越來越複雜的螺旋結構中穿梭前進。",
+      "feature4Title": "禁區",
+      "feature4Description": "避開這些禁區，讓彈珠持續在遊戲中。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲列表"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到分類",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

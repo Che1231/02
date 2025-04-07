@@ -1,0 +1,77 @@
+{
+  "helix-jump": {
+    "title": "Helix Jump - Free Online Ball Bouncing Game",
+    "slogan": "Simple, Addictive, Fun!",
+    "description": "Helix Jump is a casual game with simple and addictively fun mechanics. In the game, you guide a bouncing ball continuously down a series of circular platforms until you crash. Fall through the cracks and avoid landing in the forbidden zones! Play Helix Jump now and experience the thrill of this engaging ball-bouncing challenge.",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Helix Jump - Free Online Game",
+      "description": "Guide the bouncing ball through the helix in this fun and addictive game. Avoid the forbidden zones and keep the ball moving!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Helix Jump",
+      "whatIsTitle": "What is Helix Jump?",
+      "whatIsDescription": "Helix Jump is a casual game where you guide a bouncing ball through a series of circular platforms, avoiding forbidden zones.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Tap to control the ball's direction.",
+      "howToPlayStep2": "Avoid landing on forbidden zones.",
+      "howToPlayStep3": "Keep the ball moving through the helix.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Simple Mechanics",
+      "feature1Description": "Easy-to-learn controls make Helix Jump accessible to everyone.",
+      "feature2Title": "Addictive Gameplay",
+      "feature2Description": "Keep playing to beat your high score in this engaging game.",
+      "feature3Title": "Challenging Levels",
+      "feature3Description": "Navigate through increasingly difficult helix structures.",
+      "feature4Title": "Forbidden Zones",
+      "feature4Description": "Avoid landing in these zones to keep the ball in play."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}
