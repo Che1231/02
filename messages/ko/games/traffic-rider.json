@@ -1,0 +1,77 @@
+{
+  "traffic-rider": {
+    "title": "트래픽 라이더 - 1인칭 자전거 경주 게임",
+    "slogan": "끊임없는 자전거 경주의 짜릿함을 경험하세요",
+    "description": "트래픽 라이더는 짜릿한 라이딩을 위해 오토바이를 타게 하는 1인칭 자전거 끝없는 게임입니다. 완벽한 커리어 모드, 생생한 바이크 소리, 디테일한 그래픽으로 아케이드 레이싱을 새롭게 정의합니다. 고속도로를 질주하고, 차량을 추월하고, 난이도 높은 미션을 정복하기 위해 바이크를 업그레이드하세요. 짜릿함을 만끽하고 부드러운 레이싱의 기술을 마스터하세요.",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일자",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "트래픽 라이더 - 1인칭 자전거 경주 게임",
+      "description": "트래픽 라이더는 짜릿한 라이딩을 위해 오토바이를 타게 하는 1인칭 자전거 끝없는 게임입니다. 완벽한 커리어 모드, 생생한 바이크 소리, 디테일한 그래픽으로 아케이드 레이싱을 새롭게 정의합니다. 고속도로를 질주하고, 차량을 추월하고, 난이도 높은 미션을 정복하기 위해 바이크를 업그레이드하세요. 짜릿함을 만끽하고 부드러운 레이싱의 기술을 마스터하세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "트래픽 라이더 - 1인칭 자전거 경주 게임",
+      "whatIsTitle": "트래픽 라이더는 무엇인가요?",
+      "whatIsDescription": "트래픽 라이더는 짜릿한 라이딩을 위해 오토바이를 타게 하는 1인칭 자전거 끝없는 게임입니다. 완벽한 커리어 모드, 생생한 바이크 소리, 디테일한 그래픽으로 아케이드 레이싱을 새롭게 정의합니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "고속도로를 질주하고 차량을 추월하세요",
+      "howToPlayStep2": "난이도 높은 미션을 정복하기 위해 바이크를 업그레이드하세요",
+      "howToPlayStep3": "짜릿함을 만끽하고 부드러운 레이싱의 기술을 마스터하세요",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "완벽한 커리어 모드",
+      "feature1Description": "다양한 미션과 도전으로 이루어진 완벽한 커리어 모드를 경험하세요.",
+      "feature2Title": "생생한 바이크 소리",
+      "feature2Description": "게임 경험을 향상시키는 현실적인 바이크 소리로 몰입감을 높이세요.",
+      "feature3Title": "디테일한 그래픽",
+      "feature3Description": "게임 세계를 생생하게 보여주는 놀라운 시각 효과를 즐겨보세요.",
+      "feature4Title": "업그레이드 가능한 바이크",
+      "feature4Description": "성능과 스타일을 향상시키기 위해 바이크를 맞춤 설정하고 업그레이드하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 동영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

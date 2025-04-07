@@ -1,0 +1,1 @@
+Traffic Rider is a first-person driving bike endless game that puts you on a motorbike for an exhilarating ride. With a full career mode, lifelike bike sounds, and detailed graphics, it redefines arcade racing. Speed through highways, overtake traffic, and upgrade your rides to conquer challenging missions. Embrace the thrill and master the art of smooth racing.

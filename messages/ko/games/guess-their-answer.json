@@ -1,0 +1,77 @@
+{
+  "guess-their-answer": {
+    "title": "짐작하기: 무료 온라인 트리비아 퀴즈 게임",
+    "slogan": "재미있는 트리비아 챌린지에서 상대방을 속여라",
+    "description": "짐작하기는 상대방을 속이기 위해 인기 있는 답변을 예측하는 캐주얼 퀴즈 게임입니다. 다양한 주제로 매 라운드 세 가지 난제 질문에 도전하여 보상을 얻고 독특한 스킨을 잠금 해제하세요. 매일 퀴즈와 경쟁적인 매치를 즐기며 트리비아 지식을 증명해 보세요. 지금 짐작하기를 플레이하고 능력을 테스트하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "유용한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "짐작하기",
+      "description": "짐작하기는 상대방을 속이기 위해 인기 있는 답변을 예측하는 캐주얼 퀴즈 게임입니다. 다양한 주제로 매 라운드 세 가지 난제 질문에 도전하여 보상을 얻고 독특한 스킨을 잠금 해제하세요. 매일 퀴즈와 경쟁적인 매치를 즐기며 트리비아 지식을 증명해 보세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "짐작하기",
+      "whatIsTitle": "짐작하기는 무엇인가요?",
+      "whatIsDescription": "짐작하기는 가장 인기 있는 답변을 예측하여 상대방을 속이는 캐주얼 퀴즈 게임입니다. 다양한 주제로 매 라운드 세 가지 까다로운 질문에 도전하고 보상을 받고 독특한 스킨을 사용자화하여 게임 경험을 개인화하세요.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "트리비아 질문에 가장 인기 있는 답변을 예측하세요.",
+      "howToPlayStep2": "매일 퀴즈와 경쟁적인 매치에 참여하세요.",
+      "howToPlayStep3": "보상을 받고 독특한 스킨을 잠금 해제하여 게임을 사용자화하세요.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "매일 퀴즈",
+      "feature1Description": "매일 새로운 트리비아 챌린지에 참여하세요.",
+      "feature2Title": "경쟁 매치",
+      "feature2Description": "상대방과 경쟁하며 트리비아 지식을 증명하세요.",
+      "feature3Title": "보상 및 스킨",
+      "feature3Description": "보상을 받고 독특한 스킨을 잠금 해제하세요.",
+      "feature4Title": "다양한 주제",
+      "feature4Description": "폭넓은 트리비아 카테고리를 탐색하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 동영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

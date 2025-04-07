@@ -1,0 +1,77 @@
+{
+  "guess-their-answer": {
+    "title": "Devinez leur réponse : jeu de quiz trivial en ligne gratuit",
+    "slogan": "Dépassez vos adversaires dans des défis de trivia amusants",
+    "description": "Devinez leur réponse est un jeu de quiz décontracté où vous prédisez les réponses populaires pour déjouer vos adversaires. Avec trois questions difficiles par tour dans des sujets variés, gagnez des récompenses et débloquez des skins uniques. Profitez des quiz quotidiens et des matchs compétitifs pour prouver vos connaissances en trivia. Jouez maintenant à Devinez leur réponse et testez vos compétences !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Devinez leur réponse",
+      "description": "Devinez leur réponse est un jeu de quiz décontracté où vous prédisez les réponses populaires pour déjouer vos adversaires. Avec trois questions difficiles par tour dans des sujets variés, gagnez des récompenses et débloquez des skins uniques. Profitez des quiz quotidiens et des matchs compétitifs pour prouver vos connaissances en trivia.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Devinez leur réponse",
+      "whatIsTitle": "Qu'est-ce que Devinez leur réponse ?",
+      "whatIsDescription": "Devinez leur réponse est un jeu de quiz décontracté où votre objectif est de déjouer vos adversaires en prédisant les réponses les plus populaires. Affrontez trois questions difficiles par tour dans des sujets variés, gagnez des récompenses et débloquez des skins uniques pour personnaliser votre expérience.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Prédisez les réponses les plus populaires aux questions de trivia.",
+      "howToPlayStep2": "Participez à des quiz quotidiens et à des matchs compétitifs.",
+      "howToPlayStep3": "Gagnez des récompenses et débloquez des skins uniques pour personnaliser votre jeu.",
+      "keyFeaturesTitle": "Principales fonctionnalités",
+      "feature1Title": "Quiz quotidiens",
+      "feature1Description": "Profitez de nouveaux défis de trivia chaque jour.",
+      "feature2Title": "Matchs compétitifs",
+      "feature2Description": "Prouvez vos connaissances en trivia face à vos adversaires.",
+      "feature3Title": "Récompenses et skins",
+      "feature3Description": "Gagnez des récompenses et débloquez des skins uniques.",
+      "feature4Title": "Sujets variés",
+      "feature4Description": "Explorez un large éventail de catégories de trivia."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

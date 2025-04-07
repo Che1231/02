@@ -1,0 +1,77 @@
+{
+  "guess-their-answer": {
+    "title": "Rate ihre Antwort: Kostenloses Online-Trivia-Quizspiel",
+    "slogan": "Übertrumpfen Sie Gegner in lustigen Trivia-Herausforderungen",
+    "description": "Rate ihre Antwort ist ein zwangloses Quizspiel, bei dem Sie die beliebtesten Antworten vorhersagen, um Gegner zu übertrumpfen. Mit drei herausfordernden Fragen pro Runde über verschiedene Themen verdienen Sie Belohnungen und schalten einzigartige Skins frei. Genießen Sie tägliche Quizzes und Wettbewerbe, um Ihr Trivia-Wissen zu beweisen. Spielen Sie jetzt Rate ihre Antwort und testen Sie Ihr Können!",
+    "Loading": {
+      "title": "Lädt..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Rate ihre Antwort",
+      "description": "Rate ihre Antwort ist ein zwangloses Quizspiel, bei dem Sie die beliebtesten Antworten vorhersagen, um Gegner zu übertrumpfen. Mit drei herausfordernden Fragen pro Runde über verschiedene Themen verdienen Sie Belohnungen und schalten einzigartige Skins frei. Genießen Sie tägliche Quizzes und Wettbewerbe, um Ihr Trivia-Wissen zu beweisen.",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Rate ihre Antwort",
+      "whatIsTitle": "Was ist Rate ihre Antwort?",
+      "whatIsDescription": "Rate ihre Antwort ist ein zwangloses Quizspiel, bei dem Ihr Ziel darin besteht, Gegner zu übertrumpfen, indem Sie die beliebtesten Antworten vorhersagen. Stellen Sie sich drei kniffligen Fragen pro Runde zu verschiedenen Themen, verdienen Sie Belohnungen und schalten Sie einzigartige Skins frei, um Ihr Spielerlebnis zu personalisieren.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Sagen Sie die beliebtesten Antworten auf Trivia-Fragen voraus.",
+      "howToPlayStep2": "Nehmen Sie an täglichen Quizzes und Wettkämpfen teil.",
+      "howToPlayStep3": "Verdienen Sie Belohnungen und schalten Sie einzigartige Skins frei, um Ihr Spiel anzupassen.",
+      "keyFeaturesTitle": "Wichtigste Funktionen",
+      "feature1Title": "Tägliche Quizzes",
+      "feature1Description": "Genießen Sie täglich neue Trivia-Herausforderungen.",
+      "feature2Title": "Wettbewerbe",
+      "feature2Description": "Beweisen Sie Ihr Trivia-Wissen gegen Gegner.",
+      "feature3Title": "Belohnungen & Skins",
+      "feature3Description": "Verdienen Sie Belohnungen und schalten Sie einzigartige Skins frei.",
+      "feature4Title": "Vielfältige Themen",
+      "feature4Description": "Erkunden Sie eine breite Palette an Trivia-Kategorien."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

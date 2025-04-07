@@ -1,0 +1,77 @@
+{
+  "guess-their-answer": {
+    "title": "猜猜他们的答案：免费在线智力问答游戏",
+    "slogan": "在有趣的智力挑战中击败对手",
+    "description": "猜猜他们的答案是一款轻松的智力问答游戏，您需要预测最受欢迎的答案来击败对手。每个回合包含三个具有挑战性的问题，涵盖各种主题，赚取奖励并解锁独特的皮肤。享受每日问答和竞争性比赛，证明您的智力问答知识。现在玩猜猜他们的答案，测试您的技能！",
+    "Loading": {
+      "title": "正在加载..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "猜猜他们的答案",
+      "description": "猜猜他们的答案是一款轻松的智力问答游戏，您需要预测最受欢迎的答案来击败对手。每个回合包含三个具有挑战性的问题，涵盖各种主题，赚取奖励并解锁独特的皮肤。享受每日问答和竞争性比赛，证明您的智力问答知识。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL 已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "猜猜他们的答案",
+      "whatIsTitle": "什么是猜猜他们的答案？",
+      "whatIsDescription": "猜猜他们的答案是一款轻松的智力问答游戏，您的目标是通过预测最受欢迎的答案来击败对手。每个回合要面对三个让人挠头的难题，涵盖多种题型，赚取奖励，并解锁独特的皮肤以个性化您的游戏体验。",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "预测智力问答问题的最受欢迎答案。",
+      "howToPlayStep2": "参加每日问答和竞争性比赛。",
+      "howToPlayStep3": "赚取奖励并解锁独特的皮肤来定制您的游戏。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "每日问答",
+      "feature1Description": "每天享受新的智力问答挑战。",
+      "feature2Title": "竞争性比赛",
+      "feature2Description": "与对手一较高下，证明您的智力问答知识。",
+      "feature3Title": "奖励和皮肤",
+      "feature3Description": "赚取奖励并解锁独特的皮肤。",
+      "feature4Title": "各种主题",
+      "feature4Description": "探索广泛的智力问答类别。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

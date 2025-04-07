@@ -1,0 +1,1 @@
+Guess Their Answer is a casual quiz game where your goal is to outsmart opponents by predicting the most popular answers. Tackle three head-scratching questions per round across diverse topics, earn rewards, and unlock unique skins to personalize your experience. With daily quizzes and competitive matches, every game is a chance to prove you know your trivia.
