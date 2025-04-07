@@ -1,10 +1,10 @@
 {
   "deadshot-io": {
-    "title": "",
-    "slogan": "",
-    "description": "",
+    "title": "Play DEADSHOT.io Online - Fast-Paced IO FPS Game",
+    "slogan": "Experience the Thrill of DEADSHOT.io",
+    "description": "DEADSHOT.io is a fast-paced, adrenaline-pumping IO first-person shooter game that throws you into intense battles across various dynamic maps. With a vast arsenal of weapons and multiple game modes, you'll never run out of ways to test your skills. Challenge your friends or take on players from around the globe in thrilling matches. Log in to unlock exclusive features and perks that will give you the edge on the battlefield!",
     "Loading": {
-      "title": ""
+      "title": "Loading..."
     },
     "Navbar": {
       "title": "Nav"
@@ -23,8 +23,8 @@
       "previous": "Previous"
     },
     "HomeIframe": {
-      "title": "",
-      "description": "",
+      "title": "DEADSHOT.io",
+      "description": "Join the action-packed world of DEADSHOT.io and dominate the battlefield with your skills.",
       "iframeTitle": "Game Preview",
       "fullscreenButton": "Fullscreen",
       "shareButton": "Share",
@@ -33,22 +33,22 @@
       "playGame": "Play Game"
     },
     "HomeFeatures": {
-      "gameTitle": "",
-      "whatIsTitle": "",
-      "whatIsDescription": "",
+      "gameTitle": "DEADSHOT.io",
+      "whatIsTitle": "What is DEADSHOT.io?",
+      "whatIsDescription": "DEADSHOT.io is a fast-paced, adrenaline-pumping IO first-person shooter game that throws you into intense battles across various dynamic maps.",
       "howToPlayTitle": "How to Play",
-      "howToPlayStep1": "",
-      "howToPlayStep2": "",
-      "howToPlayStep3": "",
+      "howToPlayStep1": "Choose your weapon and game mode.",
+      "howToPlayStep2": "Engage in intense battles across dynamic maps.",
+      "howToPlayStep3": "Log in to unlock exclusive features and perks.",
       "keyFeaturesTitle": "Key Features",
-      "feature1Title": "",
-      "feature1Description": "",
-      "feature2Title": "",
-      "feature2Description": "",
-      "feature3Title": "",
-      "feature3Description": "",
-      "feature4Title": "",
-      "feature4Description": ""
+      "feature1Title": "Dynamic Maps",
+      "feature1Description": "Experience battles across various dynamic and ever-changing maps.",
+      "feature2Title": "Vast Arsenal",
+      "feature2Description": "Choose from a wide range of weapons to suit your playstyle.",
+      "feature3Title": "Multiple Modes",
+      "feature3Description": "Enjoy a variety of game modes to keep the action fresh and exciting.",
+      "feature4Title": "Global Challenges",
+      "feature4Description": "Compete against players from around the world in thrilling matches."
     },
     "HomeFAQs": {
       "title": "FAQs"

@@ -1,0 +1,77 @@
+{
+  "deadshot-io": {
+    "title": "Jouer à DEADSHOT.io en ligne - Jeu FPS IO rapide",
+    "slogan": "Découvrez le frisson de DEADSHOT.io",
+    "description": "DEADSHOT.io est un jeu de tir à la première personne IO rapide et palpitant qui vous plonge dans des batailles intenses sur diverses cartes dynamiques. Avec un vaste arsenal d'armes et de modes de jeu multiples, vous n'aurez jamais l'impression de manquer de moyens pour tester vos compétences. Défiez vos amis ou affrontez des joueurs du monde entier dans des matchs palpitants. Connectez-vous pour débloquer des fonctionnalités et des avantages exclusifs qui vous donneront l'avantage sur le champ de bataille !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste d'articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "DEADSHOT.io",
+      "description": "Rejoignez le monde palpitant de DEADSHOT.io et dominez le champ de bataille avec vos compétences.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "DEADSHOT.io",
+      "whatIsTitle": "Qu'est-ce que DEADSHOT.io ?",
+      "whatIsDescription": "DEADSHOT.io est un jeu de tir à la première personne IO rapide et palpitant qui vous plonge dans des batailles intenses sur diverses cartes dynamiques.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Choisissez votre arme et votre mode de jeu.",
+      "howToPlayStep2": "Engagez-vous dans des batailles intenses sur des cartes dynamiques.",
+      "howToPlayStep3": "Connectez-vous pour débloquer des fonctionnalités et des avantages exclusifs.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Cartes dynamiques",
+      "feature1Description": "Découvrez des batailles sur diverses cartes dynamiques et en constante évolution.",
+      "feature2Title": "Vaste arsenal",
+      "feature2Description": "Choisissez parmi un large éventail d'armes adaptées à votre style de jeu.",
+      "feature3Title": "Modes multiples",
+      "feature3Description": "Profitez d'une variété de modes de jeu pour maintenir l'action fraîche et passionnante.",
+      "feature4Title": "Défis mondiaux",
+      "feature4Description": "Affrontez des joueurs du monde entier dans des matchs palpitants."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}
