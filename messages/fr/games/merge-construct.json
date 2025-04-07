@@ -1,0 +1,77 @@
+{
+  "merge-construct": {
+    "title": "Fusion et Construction - Concevez et Pilotez Votre Véhicule Ultime",
+    "slogan": "Libérez Votre Créativité dans Fusion et Construction",
+    "description": "Fusion et Construction est un jeu d'arcade dans lequel vous pouvez faire preuve de créativité pour construire le véhicule ultime pour conduire, voler et écraser ! Faites preuve d'imagination en construisant un véhicule capable de franchir la ligne d'arrivée dans des épreuves de voiture palpitantes. Mettez vos compétences à l'épreuve dans des courses d'obstacles passionnantes et assurez-vous que votre voiture réussit le test de collision haut la main. Laissez libre cours à votre créativité et préparez-vous à une expérience de jeu exaltante !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de Confidentialité",
+      "termsOfServices": "Conditions d'Utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des Articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Fusion et Construction - Concevez et Pilotez Votre Véhicule Ultime",
+      "description": "Fusion et Construction est un jeu d'arcade dans lequel vous pouvez faire preuve de créativité pour construire le véhicule ultime pour conduire, voler et écraser ! Faites preuve d'imagination en construisant un véhicule capable de franchir la ligne d'arrivée dans des épreuves de voiture palpitantes. Mettez vos compétences à l'épreuve dans des courses d'obstacles passionnantes et assurez-vous que votre voiture réussit le test de collision haut la main. Laissez libre cours à votre créativité et préparez-vous à une expérience de jeu exaltante !",
+      "iframeTitle": "Aperçu du Jeu",
+      "fullscreenButton": "Plein Écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le Jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Fusion et Construction",
+      "whatIsTitle": "Qu'est-ce que Fusion et Construction ?",
+      "whatIsDescription": "Fusion et Construction est un jeu d'arcade dans lequel vous pouvez faire preuve de créativité pour construire le véhicule ultime pour conduire, voler et écraser !",
+      "howToPlayTitle": "Comment Jouer",
+      "howToPlayStep1": "Construisez votre véhicule en fusionnant différentes pièces.",
+      "howToPlayStep2": "Testez votre véhicule dans des courses d'obstacles passionnantes.",
+      "howToPlayStep3": "Assurez-vous que votre voiture réussit le test de collision haut la main.",
+      "keyFeaturesTitle": "Caractéristiques Principales",
+      "feature1Title": "Construction Créative",
+      "feature1Description": "Fusionnez différentes pièces pour construire votre véhicule ultime.",
+      "feature2Title": "Épreuves Pleines d'Action",
+      "feature2Description": "Franchissez la ligne d'arrivée dans des épreuves de voiture palpitantes.",
+      "feature3Title": "Courses d'Obstacles",
+      "feature3Description": "Mettez vos compétences à l'épreuve dans des courses d'obstacles passionnantes.",
+      "feature4Title": "Test de Collision",
+      "feature4Description": "Assurez-vous que votre voiture réussit le test de collision haut la main."
+    },
+    "HomeFAQs": {
+      "title": "Questions Fréquemment Posées"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du Jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires des Jeux"
+    },
+    "GamePage": {
+      "title": "Tous les Jeux",
+      "description": "Tous les Jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir Plus",
+      "page": "Page"
+    }
+  }
+}

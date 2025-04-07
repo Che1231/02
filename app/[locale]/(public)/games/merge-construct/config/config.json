@@ -1,0 +1,120 @@
+{
+  "name": "Merge & Construct",
+  "pagePath": "/games/merge-construct",
+  "pageName": "merge-construct",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.crazygames.com/embed/merge-construct",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken87.png",
+      "content": "OMG, this game is wild! I love building crazy vehicles and smashing them in the crash test. So much fun!"
+    },
+    {
+      "author": "SavageBroadsword_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBroadsword_X.png",
+      "content": "The obstacle races are so thrilling! Can't believe how creative I can be. Is this real life?"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Merge & Construct is pretty cool. Building vehicles is awesome, but those car trials are intense!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Crash tests? Seriously? My car always fails miserably, lol. Still addicting tho!"
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "This game lets you unleash your imagination. Building machines and seeing them go is surprisingly satisfying."
+    },
+    {
+      "author": "PhantomPhoenix42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix42.png",
+      "content": "The action-packed car trials are something else! Never knew merging stuff could be this hectic."
+    },
+    {
+      "author": "AdjectiveRevolver_Variant",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AdjectiveRevolver_Variant.png",
+      "content": "Merge & Construct is quite a surprise! Who knew I'd enjoy watching my creations explode so much?"
+    },
+    {
+      "author": "Valorant4Ever",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Valorant4Ever.png",
+      "content": "The vehicle construction aspect is really unique. I'm hooked on seeing how far I can push the designs."
+    },
+    {
+      "author": "LeetHaxor87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LeetHaxor87.png",
+      "content": "Sometimes the obstacle races get frustrating. But the creativity makes up for it! Good game."
+    },
+    {
+      "author": "CosmicLeviathan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicLeviathan99.png",
+      "content": "Yo, the crash test with flying colors is a blast! Highly recommend this game."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-07/images/1743988301434-fbnyt.avif",
+  "page_path": "/games/merge-construct",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Best"
+  ],
+  "createdTime": "2025-04-07 09:11:38"
+}
