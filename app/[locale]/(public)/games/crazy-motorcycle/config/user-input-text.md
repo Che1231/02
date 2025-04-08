@@ -1,0 +1,1 @@
+Crazy Motorcycle is a driving game where you guide a noob rider on a high-speed motorcycle to the finish line. Navigate through thrilling levels, jumping over gaps and dodging obstacles. Get ready for an adrenaline rush as you tackle exciting challenges on your way to victory!

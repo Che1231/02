@@ -1,0 +1,120 @@
+{
+  "name": "Crazy Motorcycle",
+  "pagePath": "/games/crazy-motorcycle",
+  "pageName": "crazy-motorcycle",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.crazygames.com/embed/crazy-motorcycle",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomKraken99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomKraken99.png",
+      "content": "Crazy Motorcycle is insane! The jumps are so thrilling, I can't stop playing!"
+    },
+    {
+      "author": "NeonKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonKatana_X.png",
+      "content": "Who knew dodging obstacles could be this much fun? Totally addictive!"
+    },
+    {
+      "author": "Witcher4Rides",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Rides.png",
+      "content": "Jumping gaps in Crazy Motorcycle gives me such a rush. Highly recommend!"
+    },
+    {
+      "author": "NoobRider9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobRider9000.png",
+      "content": "LOL, I keep crashing but it's so fun! Crazy Motorcycle, you win!"
+    },
+    {
+      "author": "xX_CosmicPhoenix_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_CosmicPhoenix_Xx.png",
+      "content": "The levels are crazy challenging, but I love the adrenaline!"
+    },
+    {
+      "author": "SavageRevolver87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageRevolver87.png",
+      "content": "Navigating through those obstacles is a blast. Crazy Motorcycle rocks!"
+    },
+    {
+      "author": "StalkingLeviathan42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingLeviathan42.png",
+      "content": "I can't believe how fun this is! The jumps are epic."
+    },
+    {
+      "author": "LagBusterXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagBusterXX.png",
+      "content": "Crazy Motorcycle? More like Crazy Awesome! Dodging stuff is so cool."
+    },
+    {
+      "author": "CtrlAltVroom",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltVroom.png",
+      "content": "This game is a wild ride! High-speed thrills all the way."
+    },
+    {
+      "author": "PotionCrash",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionCrash.png",
+      "content": "Crazy Motorcycle is a hilarious challenge. I’m hooked!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-08/images/1744074022032-ny9h88.avif",
+  "page_path": "/games/crazy-motorcycle",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_2",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Racing"
+  ],
+  "createdTime": "2025-04-08 09:01:08"
+}

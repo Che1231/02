@@ -1,0 +1,77 @@
+{
+  "crazy-motorcycle": {
+    "title": "Motocycle Dément - Jeu de conduite en ligne gratuit",
+    "slogan": "Course à la victoire sur votre moto!",
+    "description": "Crazy Motorcycle est un jeu de conduite palpitant où vous guidez un nouveau pilote sur une moto à grande vitesse vers la ligne d'arrivée. Naviguez dans des niveaux passionnants, sautez par-dessus les creux et esquivez les obstacles. Vivez le frisson de l'adrénaline en relevant les défis et en vous efforçant de remporter la victoire. Jouez à Crazy Motorcycle maintenant et profitez de la plus grande aventure de conduite!",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Menu"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Motocycle Dément",
+      "description": "Crazy Motorcycle est un jeu de conduite à grande vitesse où vous guidez un nouveau pilote jusqu'à la ligne d'arrivée. Sautez par-dessus les creux, esquivez les obstacles et course à la victoire. Jouez maintenant et profitez du frisson!",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier!",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Motocycle Dément",
+      "whatIsTitle": "Qu'est-ce que Motocycle Dément?",
+      "whatIsDescription": "Crazy Motorcycle est un jeu de conduite où vous guidez un nouveau pilote sur une moto à grande vitesse jusqu'à la ligne d'arrivée. Naviguez dans des niveaux passionnants, sautez par-dessus les creux et esquivez les obstacles.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Guidez votre moto à travers les niveaux.",
+      "howToPlayStep2": "Sautez par-dessus les creux pour éviter de tomber.",
+      "howToPlayStep3": "Évitez les obstacles pour atteindre la ligne d'arrivée.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Niveaux passionnants",
+      "feature1Description": "Naviguez dans des niveaux passionnants et stimulants.",
+      "feature2Title": "Gameplay à grande vitesse",
+      "feature2Description": "Découvrez le frisson de la conduite à grande vitesse.",
+      "feature3Title": "Esquive d'obstacles",
+      "feature3Description": "Évitez les obstacles pour rester sur la bonne voie.",
+      "feature4Title": "Sauts par-dessus les creux",
+      "feature4Description": "Sautez par-dessus les creux pour éviter de tomber et continuer la course."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}
