@@ -1,0 +1,77 @@
+{
+  "draw-crash-race": {
+    "title": "Course de Collision Dessinée : Concevez et coursez votre voiture en ligne",
+    "slogan": "Dessinez, concevez et coursez vers la victoire !",
+    "description": "Draw Crash Race est un jeu d'art décontracté où vous pouvez non seulement faire la course à une voiture en 3D, mais aussi la concevoir au préalable !  Montrez vos compétences en dessin pour créer un véhicule rapide et robuste capable de résister aux pistes les plus difficiles. Les courses sont remplies de toutes sortes d'obstacles à éviter, alors le défi du dessin est lancé !",
+    "Loading": {
+      "title": "Chargement…"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Course de Collision Dessinée",
+      "description": "Draw Crash Race est un jeu d'art décontracté où vous pouvez non seulement faire la course à une voiture en 3D, mais aussi la concevoir au préalable !  Montrez vos compétences en dessin pour créer un véhicule rapide et robuste capable de résister aux pistes les plus difficiles. Les courses sont remplies de toutes sortes d'obstacles à éviter, alors le défi du dessin est lancé !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Course de Collision Dessinée",
+      "whatIsTitle": "Qu'est-ce que Draw Crash Race ?",
+      "whatIsDescription": "Draw Crash Race est un jeu d'art décontracté où vous pouvez non seulement faire la course à une voiture en 3D, mais aussi la concevoir au préalable !  Montrez vos compétences en dessin pour créer un véhicule rapide et robuste capable de résister aux pistes les plus difficiles.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Concevez votre voiture en dessinant sa carrosserie et ses caractéristiques.",
+      "howToPlayStep2": "Personnalisez votre voiture pour qu'elle puisse gérer les pistes les plus difficiles.",
+      "howToPlayStep3": "Faites la course contre d'autres joueurs et évitez les obstacles pour gagner !",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Course en 3D",
+      "feature1Description": "Découvrez le frisson de la course dans un environnement entièrement en 3D.",
+      "feature2Title": "Conception de voiture",
+      "feature2Description": "Utilisez vos compétences en dessin pour concevoir une voiture unique.",
+      "feature3Title": "Pistes difficiles",
+      "feature3Description": "Faites la course sur des pistes remplies d'obstacles pour tester vos compétences.",
+      "feature4Title": "Personnalisation",
+      "feature4Description": "Personnalisez votre voiture pour la rendre aussi rapide et robuste que possible."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

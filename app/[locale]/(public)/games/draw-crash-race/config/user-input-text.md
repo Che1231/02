@@ -1,0 +1,1 @@
+Draw Crash Race is a casual art game where you not only get to race a car in 3D, but you get to design it beforehand! Show off your drawing skills to build a fast vehicle with a sturdy body to withstand even the most challenging tracks. The races are filled with all kinds of obstacles to avoid, so the drawing challenge is on!

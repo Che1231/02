@@ -1,0 +1,77 @@
+{
+  "draw-crash-race": {
+    "title": "Cuộc đua đâm va vẽ: Thiết kế và đua xe của bạn trực tuyến",
+    "slogan": "Vẽ, thiết kế và đua đường đến chiến thắng!",
+    "description": "Cuộc đua đâm va vẽ là một trò chơi nghệ thuật giải trí nơi bạn không chỉ được đua xe 3D mà còn được thiết kế nó trước đó!  Thể hiện kỹ năng vẽ của bạn để xây dựng một chiếc xe nhanh với thân chắc chắn để chịu được cả những đường đua khó khăn nhất. Các cuộc đua đầy đủ các loại vật cản để tránh, vì vậy thử thách vẽ là ở đây!",
+    "Loading": {
+      "title": "Đang tải..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo vào",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu nghị",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Cuộc đua đâm va vẽ",
+      "description": "Cuộc đua đâm va vẽ là một trò chơi nghệ thuật giải trí nơi bạn không chỉ được đua xe 3D mà còn được thiết kế nó trước đó!  Thể hiện kỹ năng vẽ của bạn để xây dựng một chiếc xe nhanh với thân chắc chắn để chịu được cả những đường đua khó khăn nhất. Các cuộc đua đầy đủ các loại vật cản để tránh, vì vậy thử thách vẽ là ở đây!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Màn hình toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải game",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Cuộc đua đâm va vẽ",
+      "whatIsTitle": "Cuộc đua đâm va vẽ là gì?",
+      "whatIsDescription": "Cuộc đua đâm va vẽ là một trò chơi nghệ thuật giải trí nơi bạn không chỉ được đua xe 3D mà còn được thiết kế nó trước đó!  Thể hiện kỹ năng vẽ của bạn để xây dựng một chiếc xe nhanh với thân chắc chắn để chịu được cả những đường đua khó khăn nhất.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Thiết kế xe của bạn bằng cách vẽ thân xe và các tính năng.",
+      "howToPlayStep2": "Tùy chỉnh xe của bạn để đảm bảo nó có thể xử lý những đường đua khó khăn nhất.",
+      "howToPlayStep3": "Đua với người khác và tránh các vật cản để giành chiến thắng!",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Đua xe 3D",
+      "feature1Description": "Trải nghiệm cảm giác hồi hộp của cuộc đua trong môi trường hoàn toàn 3D.",
+      "feature2Title": "Thiết kế xe",
+      "feature2Description": "Sử dụng kỹ năng vẽ của bạn để thiết kế một chiếc xe độc đáo.",
+      "feature3Title": "Đường đua đầy thách thức",
+      "feature3Description": "Đua trên các đường đua đầy vật cản để thử thách kỹ năng của bạn.",
+      "feature4Title": "Tùy chỉnh",
+      "feature4Description": "Tùy chỉnh xe của bạn để làm cho nó nhanh và chắc chắn nhất có thể."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các thể loại",
+      "noCategories": "Không tìm thấy thể loại nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

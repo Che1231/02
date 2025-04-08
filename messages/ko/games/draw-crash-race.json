@@ -1,0 +1,77 @@
+{
+  "draw-crash-race": {
+    "title": "드로우 크래시 레이스: 온라인으로 차를 디자인하고 경주하세요",
+    "slogan": "그림, 디자인, 그리고 승리까지! 경주하세요!",
+    "description": "드로우 크래시 레이스는 3D 자동차 경주를 즐기는 동시에 직접 디자인할 수 있는 캐주얼 아트 게임입니다!  도전적인 트랙을 견딜 수 있도록 강력하고 빠른 차량을 설계하기 위해 그림 실력을 발휘하세요.  다양한 장애물이 가득한 레이스에서 그림 실력을 발휘해야 합니다!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "컨텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "드로우 크래시 레이스",
+      "description": "드로우 크래시 레이스는 3D 자동차 경주를 즐기는 동시에 직접 디자인할 수 있는 캐주얼 아트 게임입니다!  도전적인 트랙을 견딜 수 있도록 강력하고 빠른 차량을 설계하기 위해 그림 실력을 발휘하세요.  다양한 장애물이 가득한 레이스에서 그림 실력을 발휘해야 합니다!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "드로우 크래시 레이스",
+      "whatIsTitle": "드로우 크래시 레이스는 무엇인가요?",
+      "whatIsDescription": "드로우 크래시 레이스는 3D 자동차 경주를 즐기는 동시에 직접 디자인할 수 있는 캐주얼 아트 게임입니다!  도전적인 트랙을 견딜 수 있도록 강력하고 빠른 차량을 설계하기 위해 그림 실력을 발휘하세요.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "차체와 특징을 그려서 차량을 디자인하세요.",
+      "howToPlayStep2": "가장 험난한 트랙에서도 대처할 수 있도록 차량을 맞춤 설정하세요.",
+      "howToPlayStep3": "다른 플레이어들과 경주하며 장애물을 피해 승리하세요!",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "3D 레이싱",
+      "feature1Description": "완전 3D 환경에서 레이싱의 짜릿함을 경험하세요.",
+      "feature2Title": "차량 디자인",
+      "feature2Description": "그림 실력을 발휘하여 독특한 자동차를 디자인하세요.",
+      "feature3Title": "도전적인 트랙",
+      "feature3Description": "장애물이 가득한 트랙에서 뛰어난 운전 실력을 시험해보세요.",
+      "feature4Title": "맞춤 설정",
+      "feature4Description": "차량을 최대한 빠르고 견고하게 맞춤 설정하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 코멘트"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}
