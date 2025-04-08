@@ -1,0 +1,77 @@
+{
+  "super-bike-the-champion": {
+    "title": "スーパーバイク・ザ・チャンピオン - ハイ・スピード・レーシングゲーム",
+    "slogan": "レース、勝利、繰り返し",
+    "description": "スーパーバイク・ザ・チャンピオンは、高速レースと素晴らしい3Dグラフィックスを提供する、スリリングなスーパーバイクレーシングゲームです。さまざまなライダーやバイクから選択して、挑戦的なサーキットで競い合ってください。操作が簡単なのに、緊迫感あふれるアクション満載で、レース愛好家にとって最適です。アドレナリンを体験し、今すぐスーパーバイク・ザ・チャンピオンをプレイしてください！",
+    "Loading": {
+      "title": "ロード中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "スーパーバイク・ザ・チャンピオン",
+      "description": "スーパーバイク・ザ・チャンピオンは、驚くべき3Dグラフィックスを備えた高速レースゲームです。ライダーとバイクを選択して、スリリングなレースに参加してください。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "スーパーバイク・ザ・チャンピオン",
+      "whatIsTitle": "スーパーバイク・ザ・チャンピオンとは？",
+      "whatIsDescription": "スーパーバイク・ザ・チャンピオンは、高速レースと驚くべき3Dグラフィックスを特徴とするスーパーバイクレーシングゲームです。さまざまなライダーとバイクを選択して、他のバイクレーサーとサーキットを駆け巡ってください。操作が簡単で、挑戦的なレースです。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "選択からあなたのライダーとバイクを選んでください。",
+      "howToPlayStep2": "他のバイクレーサーとサーキットを駆け巡ってください。",
+      "howToPlayStep3": "簡単な操作で移動し、レースに勝利してください。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "高速レース",
+      "feature1Description": "リアリスティックな物理エンジンで、高速レースのスリルを体験してください。",
+      "feature2Title": "素晴らしい3Dグラフィックス",
+      "feature2Description": "レースの世界観をより生み出す素晴らしい3Dグラフィックをお楽しみください。",
+      "feature3Title": "複数のライダーとバイク",
+      "feature3Description": "あなたのスタイルに合ったさまざまなライダーとバイクから選択してください。",
+      "feature4Title": "挑戦的なサーキット",
+      "feature4Description": "あなたのスキルを試す、挑戦的なサーキットでレースをしてください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

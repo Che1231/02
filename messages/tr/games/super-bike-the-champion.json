@@ -1,0 +1,77 @@
+{
+  "super-bike-the-champion": {
+    "title": "Süper Bisiklet Şampiyonu - Yüksek Hızlı Yarış Oyunu",
+    "slogan": "Yarış, Kazan, Tekrarla",
+    "description": "Süper Bisiklet Şampiyonu, yüksek hızlı yarışlar ve çarpıcı 3B grafikler sunan heyecan verici bir süperbisiklet yarış oyunudur. Çeşitli sürücüler ve bisikletlerden seçim yaparak zorlu pistlerde yarışın. Kontrolü kolay ancak yoğun eylemlerle dolu olan Süper Bisiklet Şampiyonu, yarış tutkunları için mükemmeldir. Adrenalini yaşayın ve şimdi Süper Bisiklet Şampiyonu oynayın!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Süper Bisiklet Şampiyonu",
+      "description": "Süper Bisiklet Şampiyonu, şaşırtıcı 3B grafiklerle yüksek hızlı bir yarış oyunudur. Sürücünüzü ve bisikletinizi seçerek heyecan verici yarışlara katılın.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Süper Bisiklet Şampiyonu",
+      "whatIsTitle": "Süper Bisiklet Şampiyonu Nedir?",
+      "whatIsDescription": "Süper Bisiklet Şampiyonu, yüksek hızlı yarışlar ve şaşırtıcı 3B grafikler içeren bir süperbisiklet yarış oyunudur. Çeşitli sürücüler ve bisikletlerden seçim yaparak diğer bisikletçilere karşı pistlerde yarışın. Kontrolleri kolay ve zorlu yarışlar sunar.",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Seçimden sürücünüzü ve bisikletinizi seçin.",
+      "howToPlayStep2": "Diğer bisikletçilere karşı pistte yarışın.",
+      "howToPlayStep3": "Yarışı kazanmak için basit kontrolleri kullanın.",
+      "keyFeaturesTitle": "Temel Özellikler",
+      "feature1Title": "Yüksek Hızlı Yarışlar",
+      "feature1Description": "Gerçekçi fizikle yüksek hızlı yarışların heyecanını yaşayın.",
+      "feature2Title": "Çarpıcı 3B Grafikler",
+      "feature2Description": "Yarışları canlandıran şaşırtıcı 3B grafiklerden keyif alın.",
+      "feature3Title": "Çoklu Sürücü ve Bisiklet Seçenekleri",
+      "feature3Description": "Stilinize uygun çeşitli sürücüler ve bisikletlerden seçim yapın.",
+      "feature4Title": "Zorlu Pistler",
+      "feature4Description": "Becerinizi test eden zorlu pistlerde yarışın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Hiç kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

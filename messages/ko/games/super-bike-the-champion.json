@@ -1,0 +1,77 @@
+{
+  "super-bike-the-champion": {
+    "title": "슈퍼 바이크 챔피언 - 고속 레이싱 게임",
+    "slogan": "레이스, 승리, 반복",
+    "description": "슈퍼 바이크 챔피언은 고속 레이스와 놀라운 3D 그래픽을 제공하는 짜릿한 슈퍼바이크 레이싱 게임입니다. 다양한 라이더와 바이크를 선택하여 까다로운 서킷에서 경쟁하십시오. 조작이 쉽지만 강렬한 액션으로 가득 찬 슈퍼 바이크 챔피언은 레이싱 애호가에게 완벽합니다. 아드레날린을 경험하고 지금 슈퍼 바이크 챔피언을 플레이하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "컨텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "슈퍼 바이크 챔피언",
+      "description": "슈퍼 바이크 챔피언은 놀라운 3D 그래픽을 갖춘 고속 레이싱 게임입니다. 라이더와 바이크를 선택하여 짜릿한 레이스에 참여하세요.",
+      "iframeTitle": "게임 미리 보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "슈퍼 바이크 챔피언",
+      "whatIsTitle": "슈퍼 바이크 챔피언이란 무엇인가요?",
+      "whatIsDescription": "슈퍼 바이크 챔피언은 고속 레이스와 놀라운 3D 그래픽을 특징으로 하는 슈퍼바이크 레이싱 게임입니다. 다양한 라이더와 바이크를 선택하여 다른 라이더와 서킷을 레이스하세요. 조작은 쉽지만 경쟁은 까다롭습니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "선택 목록에서 라이더와 바이크를 선택하세요.",
+      "howToPlayStep2": "다른 라이더와 서킷을 레이스하세요.",
+      "howToPlayStep3": "간단한 조작으로 이동하고 레이스에서 승리하세요.",
+      "keyFeaturesTitle": "핵심 기능",
+      "feature1Title": "고속 레이스",
+      "feature1Description": "현실적인 물리 엔진을 통해 고속 레이스의 짜릿함을 경험하세요.",
+      "feature2Title": "놀라운 3D 그래픽",
+      "feature2Description": "레이스를 생생하게 표현하는 놀라운 3D 그래픽을 즐기세요.",
+      "feature3Title": "여러 라이더 및 바이크",
+      "feature3Description": "다양한 라이더와 바이크 중에서 자신의 스타일에 맞는 것을 선택하세요.",
+      "feature4Title": "까다로운 서킷",
+      "feature4Description": "숙련된 기술을 시험하는 까다로운 서킷에서 레이스하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

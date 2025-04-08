@@ -1,0 +1,1 @@
+Super Bike The Champion is a superbike racing game featuring high-speed races and amazing 3D graphics. Select various riders and bikes to race around circuits against other bikers. Easy to control and challenging races.
