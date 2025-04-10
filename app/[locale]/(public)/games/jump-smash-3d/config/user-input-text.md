@@ -1,1 +1,0 @@
-Jump Smash 3D – The Ultimate High-Speed Jumping Challenge! Jump Smash 3D is an exciting hyper-casual game where precision, speed, and quick reflexes are the key to victory. 
