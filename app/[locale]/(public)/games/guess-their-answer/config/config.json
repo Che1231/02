@@ -9,7 +9,7 @@
     "backgroundColor": null
   },
   "gameType": "iframe",
-  "gameIframeUrl": "https://www.crazygames.com/embed/guess-their-answer",
+  "gameIframeUrl": "https://famobi.cdn.start.gg/9nqbnm96cdqw/v7/index.html?msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIxRjVGRDAxM0UwNDg2NURDMjc4QUMyRDBFMTAyNjQyNCIsImxvY2FsZSI6ImVuLWF1IiwiZW50cnlQb2ludElkIjoiIn0",
   "gameRedirectUrl": "",
   "bgType": "iframe",
   "bgImage": "",
@@ -62,5 +62,6 @@
   "categories": [
     "3D"
   ],
-  "createdTime": "2025-04-07 18:04:50"
+  "createdTime": "2025-04-07 18:04:50",
+  "userInputText": ""
 }
