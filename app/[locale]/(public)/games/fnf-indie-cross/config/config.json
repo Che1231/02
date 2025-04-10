@@ -8,8 +8,8 @@
     "fontColor": null,
     "backgroundColor": null
   },
-  "gameType": "popup",
-  "gameIframeUrl": "https://kdata1.com/5000/2025/indiecross3",
+  "gameType": "iframe",
+  "gameIframeUrl": "https://fnf.kdata1.com/indie-cross/1.6/",
   "gameRedirectUrl": "",
   "bgType": "iframe",
   "bgImage": "",
@@ -62,5 +62,6 @@
   "categories": [
     "Music"
   ],
-  "createdTime": "2025-04-05 16:19:10"
+  "createdTime": "2025-04-05 16:19:10",
+  "userInputText": ""
 }
