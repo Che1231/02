@@ -1,1 +1,0 @@
-Stickman Clash is a thrilling action battle game where you battle as stickman warriors armed with an array of exciting weapons. Engage in fast-paced combat, outsmart opponents, and showcase your skills in dynamic arenas. The game's captivating action and challenging mechanics keep you hooked as you strive to become the ultimate stickman champion!
