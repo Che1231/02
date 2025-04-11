@@ -1,1 +1,0 @@
-Block Wall Destroyer is an addictive idle destruction game where breaking walls is the key to progress! You start with a simple pickaxe—but don’t be fooled! You can mine, toss, and spin your tools to smash through walls and reach new levels of destruction.

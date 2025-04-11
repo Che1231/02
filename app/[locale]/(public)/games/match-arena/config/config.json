@@ -9,7 +9,7 @@
     "backgroundColor": null
   },
   "gameType": "iframe",
-  "gameIframeUrl": "https://www.crazygames.com/embed/match-arena",
+  "gameIframeUrl": "https://storage.y8.com/y8-studio/html5/MatchArena/match-arena/?key=y8&value=default",
   "gameRedirectUrl": "",
   "bgType": "iframe",
   "bgImage": "",
@@ -80,5 +80,6 @@
   "categories": [
     "Multiplayer"
   ],
-  "createdTime": "2025-04-01 22:50:32"
+  "createdTime": "2025-04-01 22:50:32",
+  "userInputText": "Match Arena is a superb match-three puzzle game in which you can play multiplayer match-three mayhem with other players worldwide! During each match, you must accomplish a specific goal to win. Goals include having a higher number of total matches or having a higher score than your opponent. These goals change to keep the game fresh."
 }
