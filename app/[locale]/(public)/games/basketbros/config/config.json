@@ -9,7 +9,7 @@
     "backgroundColor": null
   },
   "gameType": "iframe",
-  "gameIframeUrl": "https://www.crazygames.com/embed/basketbros",
+  "gameIframeUrl": "https://basketbros.io/",
   "gameRedirectUrl": "",
   "bgType": "iframe",
   "bgImage": "",
@@ -116,5 +116,6 @@
   "categories": [
     "Sports"
   ],
-  "createdTime": "2025-04-01 18:15:15"
+  "createdTime": "2025-04-01 18:15:15",
+  "userInputText": ""
 }
