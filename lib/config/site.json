@@ -56,7 +56,7 @@
     }
   ],
   "isShowRecommendation": true,
-  "enablePromotion": true,
+  "enablePromotion": false,
   "customizeFeatures": true,
   "override_page_path": false,
   "auto_deploy": true,
