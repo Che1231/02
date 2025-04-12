@@ -1,8 +1,8 @@
 {
   "craftnite-io": {
-    "title": "Craftnite.io Online Oyna - Ücretsiz Minecraft ve Fortnite Çapraz Platformu",
-    "slogan": "Minecraft ve Fortnite'ın En İyi Çapraz Platformunu Deneyin",
-    "description": "Craftnite.io, Minecraft ve Fortnite'ın en iyilerini, aksiyon dolu bir birinci şahıs nişancı oyununda bir araya getiriyor. Efsanevi Minecraft dünyasına dalın, şiddetli Kraliyet Savaşı savaşlarına katılın ve liderlik sıralamasının en üstüne ulaşın. Eğlenceye katılın ve şimdi Craftnite.io'yu oynayın!",
+    "title": "Craftnite.io: Çevrimiçi Ücretsiz Oyna - Eğlenceli Bir Kriket Oyunu",
+    "slogan": "Çevrimiçi neşeli bir kriket maçının tadını çıkarın!",
+    "description": "Google Doodle'dan esinlenen, eğlenceli bir kriket oyunu olan Craftnite.io'nun büyüleyici dünyasına dalın. Craftnite.io'da vuruş becerilerinizi sergileyin ve puan toplayın! Şimdi Craftnite.io'yu ücretsiz oynayın!",
     "Loading": {
       "title": "Yükleniyor..."
     },
@@ -10,10 +10,10 @@
       "title": "Gezinti"
     },
     "Common": {
-      "createAt": "Oluşturma Tarihi",
+      "createAt": "Oluşturulma Zamanı",
       "guide": "Yönerge",
       "privacyPolicy": "Gizlilik Politikası",
-      "termsOfServices": "Hizmet Şartları",
+      "termsOfServices": "Hizmet Koşulları",
       "text": "İçerik",
       "help": "Yardım",
       "friendlyLinks": "Dost Bağlantılar",
@@ -23,8 +23,8 @@
       "previous": "Önceki"
     },
     "HomeIframe": {
-      "title": "Craftnite.io - En İyi Çapraz Oyun",
-      "description": "Minecraft ve Fortnite'ın en iyilerini tek bir oyunda deneyimleyin. Şimdi Craftnite.io'yu oynayın ve liderlik sıralamasında zirveye ulaşın!",
+      "title": "Craftnite.io",
+      "description": "Doodle Kriket, sevimli ve eğlenceli bir çevrimiçi kriket oyunudur. Hedefiniz, topu vurup puan toplamak için vuruş becerilerinizi sergilemektir.",
       "iframeTitle": "Oyun Önizlemesi",
       "fullscreenButton": "Tam Ekran",
       "shareButton": "Paylaş",
@@ -33,22 +33,22 @@
       "playGame": "Oyunu Oyna"
     },
     "HomeFeatures": {
-      "gameTitle": "Craftnite.io - En İyi Çapraz Oyun",
+      "gameTitle": "Craftnite.io Kriket Zorluğu",
       "whatIsTitle": "Craftnite.io Nedir?",
-      "whatIsDescription": "Craftnite.io, Minecraft ve Fortnite'ın en iyilerini birleştiren, aksiyon dolu bir oyundur. Efsanevi Minecraft dünyasında birinci şahıs nişancı deneyimi yaşayın.",
+      "whatIsDescription": "Craftnite.io, çekirge ve salyangoz kontrol etmenizin ve vuruş becerilerinizi sergileyip puan toplamanızın olduğu eğlenceli bir kriket oyunudur!",
       "howToPlayTitle": "Nasıl Oynanır",
-      "howToPlayStep1": "Kraliyet Savaşı'na katılın ve rakiplerinizi ortadan kaldırın.",
-      "howToPlayStep2": "Hayatta kalmak ve liderlik sıralamasında yükselmek için becerilerinizi kullanın.",
-      "howToPlayStep3": "En üst sıraya ulaşın ve zaferi elde edin!",
-      "keyFeaturesTitle": "Ana Özellikler",
-      "feature1Title": "Efsanevi Minecraft Dünyası",
-      "feature1Description": "Tanıdık ve geniş Minecraft dünyasını yeni bir şekilde keşfedin.",
-      "feature2Title": "Yoğun Kraliyet Savaşı",
-      "feature2Description": "Dünyanın dört bir yanından oyunculara karşı heyecan verici savaşlara katılın.",
-      "feature3Title": "Birinci Şahıs Nişancı",
-      "feature3Description": "Maksimum dalış için oyunu birinci şahıs perspektifinden deneyimleyin.",
-      "feature4Title": "Liderlik Sıralaması Yarışması",
-      "feature4Description": "En iyi olmak için yarışın ve liderlik sıralamasında birinci olun."
+      "howToPlayStep1": "Topu vurmak için sopayı doğru anda sallayın.",
+      "howToPlayStep2": "Topu mümkün olduğunca uzağa vurup puan toplayın.",
+      "howToPlayStep3": "Zamanlama becerilerinizi mükemmelliğe taşıyın.",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Basit Mekanizma",
+      "feature1Description": "Oyun zamanlama ve refleksler üzerine kuruludur.",
+      "feature2Title": "Sevimli Karakterler",
+      "feature2Description": "Çekirge ve salyangoz arasında yaşanan eşsiz düelloyu tadını çıkarın.",
+      "feature3Title": "Reaksiyon Zorluğu",
+      "feature3Description": "Oyunu başarıya ulaşmak için reflekslerinizi geliştirin.",
+      "feature4Title": "Neşeli Dokunuş",
+      "feature4Description": "Oyun kriket maçına neşeli bir dokunuş katar."
     },
     "HomeFAQs": {
       "title": "SSS"
@@ -57,7 +57,7 @@
       "title": "Oyun Videosu"
     },
     "HomeRecommendation": {
-      "title": "Öneriler"
+      "title": "Tavsiye Eder"
     },
     "HomeComments": {
       "title": "Oyun Yorumları"

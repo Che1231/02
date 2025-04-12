@@ -1,8 +1,8 @@
 {
   "craftnite-io": {
-    "title": "在 Craftnite.io 線上遊玩 - 免費我的世界與堡壘之夜跨界遊戲",
-    "slogan": "體驗我的世界與堡壘之夜的究極跨界",
-    "description": "Craftnite.io 將我的世界和堡壘之夜的精華融合於一場充滿動作的單人射擊遊戲中。潛入標誌性我的世界世界，參與激烈的生存競技戰，並爭奪排行榜的頂端。現在加入樂趣，遊玩 Craftnite.io！",
+    "title": "Craftnite.io：免費線上遊戲 - 一款有趣的蟋蟀遊戲",
+    "slogan": "線上享受一場奇趣的蟋蟀比賽！",
+    "description": "潛入 Craftnite.io 的迷人世界，這款受 Google Doodle 啟發的有趣蟋蟀遊戲。展現您的擊球技巧，在 Craftnite.io 積累分數！現在免費玩 Craftnite.io！",
     "Loading": {
       "title": "載入中..."
     },
@@ -15,43 +15,43 @@
       "privacyPolicy": "隱私權政策",
       "termsOfServices": "服務條款",
       "text": "內容",
-      "help": "說明",
-      "friendlyLinks": "友善連結",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
       "articleList": "文章列表",
       "home": "首頁",
       "next": "下一頁",
       "previous": "上一頁"
     },
     "HomeIframe": {
-      "title": "Craftnite.io - 究極跨界遊戲",
-      "description": "體驗我的世界和堡壘之夜在單一遊戲中的最佳表現。現在遊玩 Craftnite.io，並稱霸排行榜！",
+      "title": "Craftnite.io",
+      "description": "Doodle Cricket 是一款可愛且有趣的線上蟋蟀遊戲。您的目標是展現您的擊球能力，擊球並積累分數。",
       "iframeTitle": "遊戲預覽",
       "fullscreenButton": "全螢幕",
       "shareButton": "分享",
       "urlCopied": "網址已複製到剪貼簿！",
       "downloadGame": "下載遊戲",
-      "playGame": "遊玩遊戲"
+      "playGame": "遊戲"
     },
     "HomeFeatures": {
-      "gameTitle": "Craftnite.io - 究極跨界遊戲",
-      "whatIsTitle": "Craftnite.io 究竟是什麼？",
-      "whatIsDescription": "Craftnite.io 是一款充滿動作的遊戲，結合了我的世界和堡壘之夜的精華。沉浸在標誌性我的世界世界中的第一人稱射擊遊戲體驗。",
-      "howToPlayTitle": "如何遊玩",
-      "howToPlayStep1": "加入生存競技戰，消滅你的對手。",
-      "howToPlayStep2": "運用你的技巧生存下來，並攀登上排行榜。",
-      "howToPlayStep3": "致力於頂端位置，並贏得勝利！",
-      "keyFeaturesTitle": "主要特色",
-      "feature1Title": "標誌性我的世界世界",
-      "feature1Description": "以全新的方式探索熟悉且廣袤的我的世界世界。",
-      "feature2Title": "激烈的生存競技戰",
-      "feature2Description": "參與刺激的戰鬥，與來自世界各地的玩家對戰。",
-      "feature3Title": "第一人稱射擊遊戲",
-      "feature3Description": "從第一人稱視角體驗遊戲，享受最大的沉浸感。",
-      "feature4Title": "排行榜競爭",
-      "feature4Description": "競爭成為最佳，並在排行榜上取得頂級位置。"
+      "gameTitle": "Craftnite.io 蟋蟀挑戰賽",
+      "whatIsTitle": "Craftnite.io 是什麼？",
+      "whatIsDescription": "Craftnite.io 是一款有趣的蟋蟀遊戲，您控制蟋蟀，面對蝸牛。展現您的擊球能力並積累分數！",
+      "howToPlayTitle": "遊戲教學",
+      "howToPlayStep1": "在正確的時間揮動球棒擊中球。",
+      "howToPlayStep2": "盡可能遠地擊球，累積分數。",
+      "howToPlayStep3": "完美的掌握擊球時機。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "簡單的遊戲機制",
+      "feature1Description": "遊戲圍繞時間和反應能力。",
+      "feature2Title": "迷人的角色",
+      "feature2Description": "享受蟋蟀與蝸牛之間獨特的對決。",
+      "feature3Title": "反應挑戰",
+      "feature3Description": "提升您的反應能力，在遊戲中取得成功。",
+      "feature4Title": "趣味元素",
+      "feature4Description": "遊戲為蟋蟀比賽增添了趣味感。"
     },
     "HomeFAQs": {
-      "title": "常見問題"
+      "title": "常見問題解答"
     },
     "HomeRelatedVideo": {
       "title": "遊戲影片"
@@ -60,7 +60,7 @@
       "title": "推薦"
     },
     "HomeComments": {
-      "title": "遊玩評論"
+      "title": "遊戲評論"
     },
     "GamePage": {
       "title": "所有遊戲",
@@ -69,8 +69,8 @@
     },
     "CategoryPage": {
       "categories": "類別",
-      "noCategories": "未找到類別",
-      "viewMore": "檢視更多",
+      "noCategories": "找不到類別",
+      "viewMore": "查看更多",
       "page": "頁面"
     }
   }

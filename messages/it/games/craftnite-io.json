@@ -1,8 +1,8 @@
 {
   "craftnite-io": {
-    "title": "Gioca a Craftnite.io Online - Crossover gratuito tra Minecraft e Fortnite",
-    "slogan": "Vivi l'ultimO crossover di Minecraft e Fortnite",
-    "description": "Craftnite.io combina il meglio di Minecraft e Fortnite in un primo sparatutto a scorrimento d'azione. Immergiti nell'iconico mondo di Minecraft, impegnati in intense battaglie Battle Royale e mira al vertice della classifica. Unisciti al divertimento e gioca a Craftnite.io adesso!",
+    "title": "Craftnite.io: Gioco Online Gratuito - Un Divertente Gioco di Cricket",
+    "slogan": "Vivi un'emozionante partita di cricket online!",
+    "description": "Immergiti nel mondo affascinante di Craftnite.io, un divertente gioco di cricket ispirato a Google Doodle. Mostra le tue abilità di batting e accumula punti in Craftnite.io! Gioca a Craftnite.io gratuitamente ora!",
     "Loading": {
       "title": "Caricamento..."
     },
@@ -10,7 +10,7 @@
       "title": "Navigazione"
     },
     "Common": {
-      "createAt": "Creato il",
+      "createAt": "Crea in",
       "guide": "Guida",
       "privacyPolicy": "Informativa sulla privacy",
       "termsOfServices": "Termini di servizio",
@@ -23,8 +23,8 @@
       "previous": "Precedente"
     },
     "HomeIframe": {
-      "title": "Craftnite.io - Il gioco crossover definitivo",
-      "description": "Vivi il meglio di Minecraft e Fortnite in un unico gioco. Gioca a Craftnite.io e domina la classifica!",
+      "title": "Craftnite.io",
+      "description": "Doodle Cricket è un simpatico e divertente gioco di cricket online. L'obiettivo è mostrare le tue abilità di batting colpendo la palla e accumulando punti.",
       "iframeTitle": "Anteprima del gioco",
       "fullscreenButton": "Schermo intero",
       "shareButton": "Condividi",
@@ -33,28 +33,28 @@
       "playGame": "Gioca"
     },
     "HomeFeatures": {
-      "gameTitle": "Craftnite.io - Il gioco crossover definitivo",
+      "gameTitle": "Sfida di cricket Craftnite.io",
       "whatIsTitle": "Cos'è Craftnite.io?",
-      "whatIsDescription": "Craftnite.io è un gioco d'azione che combina il meglio di Minecraft e Fortnite. Immergiti in un'esperienza di sparatutto in prima persona ambientata nell'iconico mondo di Minecraft.",
+      "whatIsDescription": "Craftnite.io è un divertente gioco di cricket in cui controlli grilli e affronti lumache. Mostra le tue capacità di batting e accumula punti!",
       "howToPlayTitle": "Come giocare",
-      "howToPlayStep1": "Partecipa alla Battle Royale ed elimina i tuoi avversari.",
-      "howToPlayStep2": "Usa le tue abilità per sopravvivere e salire nella classifica.",
-      "howToPlayStep3": "Mira alla prima posizione e conquista la vittoria!",
-      "keyFeaturesTitle": "Caratteristiche principali",
-      "feature1Title": "Iconico mondo di Minecraft",
-      "feature1Description": "Esplora l'iconico e vasto mondo di Minecraft in un modo nuovo.",
-      "feature2Title": "Intensa Battle Royale",
-      "feature2Description": "Partecipa ad emozionanti battaglie contro giocatori da tutto il mondo.",
-      "feature3Title": "Sparatutto in prima persona",
-      "feature3Description": "Vivi il gioco dalla prospettiva in prima persona per un'immersione massima.",
-      "feature4Title": "Competizione per la classifica",
-      "feature4Description": "Competi per essere il migliore e conquista la prima posizione nella classifica."
+      "howToPlayStep1": "Sballa il mazza a tempo giusto per colpire la palla.",
+      "howToPlayStep2": "Accumula punti colpendo la palla il più lontano possibile.",
+      "howToPlayStep3": "Migliora le tue abilità di tempismo per la perfezione.",
+      "keyFeaturesTitle": "Funzioni chiave",
+      "feature1Title": "Meccaniche semplici",
+      "feature1Description": "Il gioco si basa sul tempismo e sui riflessi.",
+      "feature2Title": "Personaggi affascinanti",
+      "feature2Description": "Vivi l'originale scontro tra grilli e lumache.",
+      "feature3Title": "Sfida di riflessi",
+      "feature3Description": "Migliora i tuoi riflessi per avere successo nel gioco.",
+      "feature4Title": "Tocco stravagante",
+      "feature4Description": "Il gioco aggiunge un tocco scherzoso a una partita di cricket."
     },
     "HomeFAQs": {
       "title": "FAQ"
     },
     "HomeRelatedVideo": {
-      "title": "Video del gioco"
+      "title": "Video di gioco"
     },
     "HomeRecommendation": {
       "title": "Raccomandazioni"
@@ -70,7 +70,7 @@
     "CategoryPage": {
       "categories": "Categorie",
       "noCategories": "Nessuna categoria trovata",
-      "viewMore": "Visualizza altri",
+      "viewMore": "Visualizza altro",
       "page": "Pagina"
     }
   }

@@ -1,13 +1,13 @@
 {
   "craftnite-io": {
-    "title": "Chơi Craftnite.io Trực tuyến - Sự Kết Hợp Miễn Phí Giữa Minecraft và Fortnite",
-    "slogan": "Trải Nghiệm Sự Kết Hợp Tuyệt Vời Giữa Minecraft và Fortnite",
-    "description": "Craftnite.io kết hợp những điểm tốt nhất của Minecraft và Fortnite trong một tựa game bắn súng người thứ nhất đầy hành động. Thử thách bản thân trong thế giới Minecraft quen thuộc, tham gia các trận chiến sinh tồn khốc liệt và hướng tới vị trí hàng đầu trên bảng xếp hạng. Tham gia ngay và chơi Craftnite.io!",
+    "title": "Craftnite.io: Chơi Trực Tuyến Miễn Phí - Một Trò Chơi Cầu Lông Vui Nhộn",
+    "slogan": "Thưởng thức một trận cầu lông trực tuyến vui nhộn!",
+    "description": "Khám phá thế giới hấp dẫn của Craftnite.io, một trò chơi cầu lông vui nhộn lấy cảm hứng từ Google Doodle.  Thể hiện kỹ năng đánh bóng của bạn và tích lũy điểm trong Craftnite.io! Chơi Craftnite.io miễn phí ngay bây giờ!",
     "Loading": {
       "title": "Đang tải..."
     },
     "Navbar": {
-      "title": "Điều hướng"
+      "title": "Định vị"
     },
     "Common": {
       "createAt": "Tạo lúc",
@@ -23,44 +23,44 @@
       "previous": "Trước đó"
     },
     "HomeIframe": {
-      "title": "Craftnite.io - Trò chơi kết hợp hoàn hảo",
-      "description": "Trải nghiệm những điều tuyệt vời nhất của Minecraft và Fortnite trong một trò chơi. Chơi Craftnite.io ngay bây giờ và thống trị bảng xếp hạng!",
+      "title": "Craftnite.io",
+      "description": "Cầu lông Doodle là một trò chơi cầu lông trực tuyến dễ thương và vui nhộn. Mục tiêu của bạn là thể hiện khả năng đánh bóng bằng cách đánh bóng và tích lũy điểm.",
       "iframeTitle": "Xem trước trò chơi",
       "fullscreenButton": "Màn hình toàn màn hình",
       "shareButton": "Chia sẻ",
-      "urlCopied": "Đã sao chép URL vào bộ nhớ tạm!",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
       "downloadGame": "Tải trò chơi",
       "playGame": "Chơi trò chơi"
     },
     "HomeFeatures": {
-      "gameTitle": "Craftnite.io - Trò chơi kết hợp hoàn hảo",
+      "gameTitle": "Thách thức Cầu lông Craftnite.io",
       "whatIsTitle": "Craftnite.io là gì?",
-      "whatIsDescription": "Craftnite.io là một trò chơi hành động kết hợp những điểm tốt nhất của Minecraft và Fortnite. Nhúng mình vào trải nghiệm bắn súng người thứ nhất trong thế giới Minecraft quen thuộc.",
+      "whatIsDescription": "Craftnite.io là một trò chơi cầu lông vui nhộn nơi bạn điều khiển các con châu chấu và đối mặt với các con ốc sên. Thể hiện khả năng đánh bóng và tích lũy điểm!",
       "howToPlayTitle": "Cách chơi",
-      "howToPlayStep1": "Tham gia trận đấu sinh tồn và loại bỏ đối thủ của bạn.",
-      "howToPlayStep2": "Sử dụng kỹ năng của bạn để sống sót và leo lên bảng xếp hạng.",
-      "howToPlayStep3": "Hướng tới vị trí hàng đầu và giành chiến thắng!",
+      "howToPlayStep1": "Xoay gậy đúng thời điểm để đánh bóng.",
+      "howToPlayStep2": "Tích lũy điểm bằng cách đánh bóng càng xa càng tốt.",
+      "howToPlayStep3": "Hoàn thiện kỹ năng thời gian của bạn.",
       "keyFeaturesTitle": "Các tính năng chính",
-      "feature1Title": "Thế giới Minecraft quen thuộc",
-      "feature1Description": "Khám phá thế giới Minecraft rộng lớn và quen thuộc theo một cách mới.",
-      "feature2Title": "Trận chiến sinh tồn khốc liệt",
-      "feature2Description": "Tham gia vào những trận chiến hấp dẫn với người chơi từ khắp nơi trên thế giới.",
-      "feature3Title": "Bắn súng người thứ nhất",
-      "feature3Description": "Trải nghiệm trò chơi từ góc nhìn người thứ nhất để có sự đắm chìm tối đa.",
-      "feature4Title": "Cuộc cạnh tranh trên bảng xếp hạng",
-      "feature4Description": "Cạnh tranh để trở thành người giỏi nhất và giành lấy vị trí hàng đầu trên bảng xếp hạng."
+      "feature1Title": "Cơ chế đơn giản",
+      "feature1Description": "Trò chơi xoay quanh thời gian và phản xạ.",
+      "feature2Title": "Các nhân vật dễ thương",
+      "feature2Description": "Thưởng thức cuộc đấu độc đáo giữa châu chấu và ốc sên.",
+      "feature3Title": "Thử thách phản xạ",
+      "feature3Description": "Nâng cao phản xạ của bạn để thành công trong trò chơi.",
+      "feature4Title": "Nét ngộ nghĩnh",
+      "feature4Description": "Trò chơi mang lại một nét ngộ nghĩnh cho một trận đấu cầu lông."
     },
     "HomeFAQs": {
       "title": "Câu hỏi thường gặp"
     },
     "HomeRelatedVideo": {
-      "title": "Video game"
+      "title": "Video trò chơi"
     },
     "HomeRecommendation": {
-      "title": "Khuyến nghị"
+      "title": "Đề xuất"
     },
     "HomeComments": {
-      "title": "Bình luận trò chơi"
+      "title": "Nhận xét về game"
     },
     "GamePage": {
       "title": "Tất cả các trò chơi",

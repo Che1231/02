@@ -1,16 +1,16 @@
 {
   "craftnite-io": {
-    "title": "Jouer à Craftnite.io en ligne - Croisement gratuit Minecraft et Fortnite",
-    "slogan": "Découvrez le croisement ultime de Minecraft et Fortnite",
-    "description": "Craftnite.io combine le meilleur de Minecraft et de Fortnite dans un jeu de tir à la première personne riche en action. Plongez-vous dans le monde emblématique de Minecraft, engagez-vous dans des batailles royales acharnées et visez le sommet du classement. Rejoignez le plaisir et jouez à Craftnite.io dès maintenant !",
+    "title": "Craftnite.io : Jouer en ligne gratuitement - Un jeu de cricket amusant",
+    "slogan": "Profitez d'un match de cricket en ligne plein d'humour !",
+    "description": "Plongez-vous dans le monde charmant de Craftnite.io, un jeu de cricket amusant inspiré de Google Doodle. Montrez vos talents de batteur et accumulez des points dans Craftnite.io ! Jouez à Craftnite.io gratuitement dès maintenant !",
     "Loading": {
-      "title": "Chargement..."
+      "title": "Chargement…"
     },
     "Navbar": {
       "title": "Navigation"
     },
     "Common": {
-      "createAt": "Créé à",
+      "createAt": "Créer à",
       "guide": "Guide",
       "privacyPolicy": "Politique de confidentialité",
       "termsOfServices": "Conditions d'utilisation",
@@ -23,35 +23,35 @@
       "previous": "Précédent"
     },
     "HomeIframe": {
-      "title": "Craftnite.io - Le jeu de croisement ultime",
-      "description": "Découvrez le meilleur de Minecraft et de Fortnite dans un seul jeu. Jouez à Craftnite.io dès maintenant et dominez le classement !",
+      "title": "Craftnite.io",
+      "description": "Le cricket Doodle est un jeu de cricket en ligne mignon et amusant. Votre objectif est de montrer vos compétences en batting en frappant la balle et en accumulant des points.",
       "iframeTitle": "Aperçu du jeu",
       "fullscreenButton": "Plein écran",
       "shareButton": "Partager",
-      "urlCopied": "URL copiée dans le presse-papier !",
+      "urlCopied": "URL copiée dans le presse-papiers !",
       "downloadGame": "Télécharger le jeu",
-      "playGame": "Jouer"
+      "playGame": "Jouer au jeu"
     },
     "HomeFeatures": {
-      "gameTitle": "Craftnite.io - Le jeu de croisement ultime",
-      "whatIsTitle": "Qu'est-ce que Craftnite.io ?",
-      "whatIsDescription": "Craftnite.io est un jeu riche en action qui combine le meilleur de Minecraft et de Fortnite. Plongez-vous dans une expérience de tir à la première personne dans le monde emblématique de Minecraft.",
+      "gameTitle": "Défi de cricket Craftnite.io",
+      "whatIsTitle": "Qu'est-ce que Craftnite.io ?",
+      "whatIsDescription": "Craftnite.io est un jeu de cricket amusant où vous contrôlez les criquets et affrontez les escargots. Montrez vos compétences en batting et accumulez des points !",
       "howToPlayTitle": "Comment jouer",
-      "howToPlayStep1": "Rejoignez la bataille royale et éliminez vos adversaires.",
-      "howToPlayStep2": "Utilisez vos compétences pour survivre et gravir le classement.",
-      "howToPlayStep3": "Visez la première place et remportez la victoire !",
-      "keyFeaturesTitle": "Principales caractéristiques",
-      "feature1Title": "Monde Minecraft emblématique",
-      "feature1Description": "Explorez le monde familier et vaste de Minecraft d'une nouvelle manière.",
-      "feature2Title": "Bataille royale intense",
-      "feature2Description": "Engagez-vous dans des batailles palpitantes contre des joueurs du monde entier.",
-      "feature3Title": "Tir à la première personne",
-      "feature3Description": "Expérimentez le jeu sous l'angle de la première personne pour une immersion maximale.",
-      "feature4Title": "Compétition au classement",
-      "feature4Description": "Rivalisez pour être le meilleur et atteignez la première place du classement."
+      "howToPlayStep1": "Balancez la batte au bon moment pour frapper la balle.",
+      "howToPlayStep2": "Accumulez des points en frappant la balle le plus loin possible.",
+      "howToPlayStep3": "Améliorez votre synchronisation au perfectionnement.",
+      "keyFeaturesTitle": "Fonctionnalités principales",
+      "feature1Title": "Mécanismes simples",
+      "feature1Description": "Le jeu repose sur le timing et les réflexes.",
+      "feature2Title": "Personnages charmants",
+      "feature2Description": "Profitez du duel unique entre les criquets et les escargots.",
+      "feature3Title": "Défi de réflexes",
+      "feature3Description": "Améliorez vos réflexes pour réussir au jeu.",
+      "feature4Title": "Touche fantaisiste",
+      "feature4Description": "Le jeu ajoute une touche fantaisiste à un match de cricket."
     },
     "HomeFAQs": {
-      "title": "Foire aux questions"
+      "title": "FAQ"
     },
     "HomeRelatedVideo": {
       "title": "Vidéo du jeu"

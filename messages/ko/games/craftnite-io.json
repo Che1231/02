@@ -1,13 +1,13 @@
 {
   "craftnite-io": {
-    "title": "크래프트나이트.io 온라인 플레이 - 무료 마인크래프트 및 포트나이트 크로스오버",
-    "slogan": "마인크래프트와 포트나이트의 최고 크로스오버 경험",
-    "description": "크래프트나이트.io는 액션으로 가득 찬 1인칭 슈팅 게임으로 마인크래프트와 포트나이트의 최고 장점을 결합했습니다. 상징적인 마인크래프트 세계로 뛰어들고, 격렬한 배틀 로얄 전투에 참여하고, 랭킹 정상을 목표로 삼으세요. 재미에 참여하고 지금 크래프트나이트.io를 플레이하세요!",
+    "title": "Craftnite.io: 무료 온라인 플레이 - 재미있는 크리켓 게임",
+    "slogan": "온라인으로 기발한 크리켓 경기를 즐겨보세요!",
+    "description": "구글 듀들에서 영감을 얻은 재미있는 크리켓 게임, Craftnite.io의 매력적인 세계로 뛰어들어보세요. Craftnite.io에서 타격 실력을 발휘하고 점수를 획득하세요! 지금 무료로 Craftnite.io를 플레이하세요!",
     "Loading": {
       "title": "로딩 중..."
     },
     "Navbar": {
-      "title": "탐색 메뉴"
+      "title": "탐색"
     },
     "Common": {
       "createAt": "생성일",
@@ -16,39 +16,39 @@
       "termsOfServices": "서비스 약관",
       "text": "콘텐츠",
       "help": "도움말",
-      "friendlyLinks": "친절한 링크",
+      "friendlyLinks": "유용한 링크",
       "articleList": "기사 목록",
       "home": "홈",
       "next": "다음",
       "previous": "이전"
     },
     "HomeIframe": {
-      "title": "크래프트나이트.io - 최고의 크로스오버 게임",
-      "description": "한 게임에서 마인크래프트와 포트나이트의 최고 경험을 경험하세요. 지금 크래프트나이트.io를 플레이하고 랭킹을 지배하세요!",
+      "title": "Craftnite.io",
+      "description": "듀들 크리켓은 귀엽고 재미있는 온라인 크리켓 게임입니다. 공을 치고 점수를 획득하여 타격 능력을 보여주는 것이 목표입니다.",
       "iframeTitle": "게임 미리보기",
-      "fullscreenButton": "전체 화면",
+      "fullscreenButton": "전체화면",
       "shareButton": "공유",
       "urlCopied": "URL이 클립보드에 복사되었습니다!",
       "downloadGame": "게임 다운로드",
-      "playGame": "게임 플레이"
+      "playGame": "게임 시작"
     },
     "HomeFeatures": {
-      "gameTitle": "크래프트나이트.io - 최고의 크로스오버 게임",
-      "whatIsTitle": "크래프트나이트.io는 무엇인가요?",
-      "whatIsDescription": "크래프트나이트.io는 마인크래프트와 포트나이트의 최고 장점을 결합한 액션으로 가득 찬 게임입니다. 상징적인 마인크래프트 세계에서 1인칭 슈팅 게임 경험에 몰입하십시오.",
+      "gameTitle": "Craftnite.io 크리켓 챌린지",
+      "whatIsTitle": "Craftnite.io는 무엇인가요?",
+      "whatIsDescription": "Craftnite.io는 귀엽고 재미있는 크리켓 게임으로, 귀여운 벌레들과 맞붙어 타격 능력을 보여주고 점수를 획득해야 합니다.",
       "howToPlayTitle": "게임 방법",
-      "howToPlayStep1": "배틀 로얄에 참여하여 적을 제거하세요.",
-      "howToPlayStep2": "생존 기술을 활용하여 랭킹을 올리세요.",
-      "howToPlayStep3": "정상을 목표로 하고 승리를 쟁취하세요!",
-      "keyFeaturesTitle": "주요 특징",
-      "feature1Title": "상징적인 마인크래프트 세계",
-      "feature1Description": "익숙하고 광활한 마인크래프트 세계를 새로운 방식으로 탐험하세요.",
-      "feature2Title": "격렬한 배틀 로얄",
-      "feature2Description": "전 세계 플레이어와 박진감 넘치는 전투에 참여하세요.",
-      "feature3Title": "1인칭 슈팅 게임",
-      "feature3Description": "최대의 몰입감을 위해 1인칭 시점에서 게임을 경험하세요.",
-      "feature4Title": "랭킹 경쟁",
-      "feature4Description": "최고가 되기 위해 경쟁하고 랭킹 정상에 오르세요."
+      "howToPlayStep1": "공을 치기 위해 적절한 타이밍에 방망이를 휘두르세요.",
+      "howToPlayStep2": "공을 최대한 멀리 치고 점수를 획득하세요.",
+      "howToPlayStep3": "타이밍 능력을 완벽하게 향상시키세요.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "단순한 메커니즘",
+      "feature1Description": "게임은 타이밍과 반사신경에 기반을 두고 있습니다.",
+      "feature2Title": "매력적인 캐릭터",
+      "feature2Description": "귀여운 벌레들과의 독특한 대결을 즐겨보세요.",
+      "feature3Title": "반사신경 챌린지",
+      "feature3Description": "게임에서 성공하기 위해 반사신경을 향상시켜보세요.",
+      "feature4Title": "기발한 디자인",
+      "feature4Description": "게임은 크리켓 경기에 기발한 감성을 더했습니다."
     },
     "HomeFAQs": {
       "title": "자주 묻는 질문"
@@ -57,7 +57,7 @@
       "title": "게임 영상"
     },
     "HomeRecommendation": {
-      "title": "추천 콘텐츠"
+      "title": "추천"
     },
     "HomeComments": {
       "title": "게임 댓글"
@@ -65,11 +65,11 @@
     "GamePage": {
       "title": "모든 게임",
       "description": "모든 게임",
-      "games": "게임 목록"
+      "games": "게임"
     },
     "CategoryPage": {
-      "categories": "카테고리",
-      "noCategories": "카테고리가 없습니다",
+      "categories": "분류",
+      "noCategories": "분류가 없습니다.",
       "viewMore": "더 보기",
       "page": "페이지"
     }
