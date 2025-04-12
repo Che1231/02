@@ -1,0 +1,120 @@
+{
+  "name": "wings.io",
+  "pagePath": "/games/wings-io",
+  "pageName": "wings-io",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://wings.io/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "CosmicKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicKraken42.png",
+      "content": "Wings.io is so addictive! I can't stop playing! Controlling my plane and shooting down other players is amazing. Definitely recommend it!"
+    },
+    {
+      "author": "SavageKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatana_X.png",
+      "content": "Wow, this game is wild! The massive multiplayer aspect in Wings.io is insane. You gotta try to be the King, it's a blast!"
+    },
+    {
+      "author": "Witcher4LIf3",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4LIf3.png",
+      "content": "This game, man...it's Wings.io! Super fun to shoot down other planes. Always a good time! Gotta love the chaos."
+    },
+    {
+      "author": "NoobMaSter9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaSter9000.png",
+      "content": "Seriously? Wings.io is alright, I guess. The game is all about controlling your plane and showing them who's boss. Kinda fun."
+    },
+    {
+      "author": "xX_NeonPhoenix_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_NeonPhoenix_Xx.png",
+      "content": "I'm hooked on Wings.io! The thrill of shooting others is great! Become the King is the goal! This game keeps me coming back for more!"
+    },
+    {
+      "author": "StalkingLeviathan87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingLeviathan87.png",
+      "content": "Wings.io? Is it an all-guns-blazing dogfight in the sky? You betcha! Gotta love the massive multiplayer action. Go get 'em!"
+    },
+    {
+      "author": "PhantomRevolver_99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomRevolver_99.png",
+      "content": "I'm surprised at how much I'm enjoying Wings.io. Such a simple concept, but super engaging. Shooting down other players never gets old!"
+    },
+    {
+      "author": "KrakenSlayer42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/KrakenSlayer42.png",
+      "content": "Wings.io is so fun. I love the game. The gameplay is well suited for massive multiplayer; go be the King already!"
+    },
+    {
+      "author": "NeonBlade_Prime",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonBlade_Prime.png",
+      "content": "Wings.io is pretty cool. It's got that classic gameplay, but something about the multiplayer is just amazing. I'm addicted to it."
+    },
+    {
+      "author": "xX_CosmicRevolver_xX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_CosmicRevolver_xX.png",
+      "content": "If you haven't tried Wings.io yet, what are you waiting for? So much fun taking down the other players and reaching for the top!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-12/images/1744450747762-nt18gx.jpg",
+  "page_path": "/games/wings-io",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Multiplayer"
+  ],
+  "createdTime": "2025-04-12 17:39:02"
+}

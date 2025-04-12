@@ -1,0 +1,77 @@
+{
+  "wings-io": {
+    "title": "Wings.io : Jeu multijoueur en ligne gratuit",
+    "slogan": "Contrôlez votre avion et dominez le ciel !",
+    "description": "Engagez-vous dans des batailles aériennes palpitantes dans wings.io ! Volez, tirez et triomphez dans ce jeu massivement multijoueur en ligne. Rejoignez des millions de joueurs dès maintenant et devenez le Roi de wings.io gratuitement ! wings.io",
+    "Loading": {
+      "title": "Chargement de Wings.io"
+    },
+    "Navbar": {
+      "title": "Menu"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste d'articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Aperçu du jeu Wings.io",
+      "description": "Contrôlez votre avion et abattez d'autres joueurs dans wings.io !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Wings.io",
+      "whatIsTitle": "Qu'est-ce que Wings.io ?",
+      "whatIsDescription": "Wings.io est un jeu massivement multijoueur en ligne où vous contrôlez un avion et vous battez contre d'autres joueurs.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Contrôlez votre avion à l'aide de la souris ou des touches fléchées.",
+      "howToPlayStep2": "Abattez d'autres joueurs pour gagner des points.",
+      "howToPlayStep3": "Devenez le Roi en atteignant le sommet du classement.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Batailles multijoueurs acharnées",
+      "feature1Description": "Engagez-vous dans des batailles intenses avec des millions de joueurs à travers le monde.",
+      "feature2Title": "Améliorez votre avion",
+      "feature2Description": "Collectionnez des améliorations pour booster les capacités de votre avion.",
+      "feature3Title": "Devenez le Roi",
+      "feature3Description": "Rivalisez pour la première place du classement et dominez le ciel.",
+      "feature4Title": "Graphismes époustouflants",
+      "feature4Description": "Découvrez le jeu avec des visuels vibrants et captivants."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Parcourez tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

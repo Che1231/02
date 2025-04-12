@@ -1,0 +1,77 @@
+{
+  "wings-io": {
+    "title": "Wings.io: เกมออนไลน์หลายผู้เล่นฟรี",
+    "slogan": "ควบคุมเครื่องบินของคุณและครองท้องฟ้า!",
+    "description": "เข้าร่วมการต่อสู้ทางอากาศที่น่าตื่นเต้นใน wings.io! บิน ยิง และพิชิตในเกมออนไลน์หลายผู้เล่นขนาดใหญ่ เข้าร่วมกับผู้เล่นนับล้านคนและกลายเป็นราชาของ wings.io ฟรี! wings.io",
+    "Loading": {
+      "title": "กำลังโหลด Wings.io"
+    },
+    "Navbar": {
+      "title": "นำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์ที่เป็นมิตร",
+      "articleList": "รายการบทความ",
+      "home": "หน้าแรก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "ตัวอย่างเกม Wings.io",
+      "description": "ควบคุมเครื่องบินของคุณและยิงผู้เล่นคนอื่นๆ ใน wings.io!",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ไปยังคลิปบอร์ดเรียบร้อยแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Wings.io",
+      "whatIsTitle": "Wings.io คืออะไร?",
+      "whatIsDescription": "Wings.io เป็นเกมออนไลน์หลายผู้เล่นขนาดใหญ่ ที่คุณสามารถควบคุมเครื่องบินและต่อสู้กับผู้เล่นคนอื่นๆ",
+      "howToPlayTitle": "วิธีการเล่น",
+      "howToPlayStep1": "ควบคุมเครื่องบินของคุณโดยใช้เมาส์หรือปุ่มลูกศร",
+      "howToPlayStep2": "ยิงผู้เล่นคนอื่นๆ เพื่อรับคะแนน",
+      "howToPlayStep3": "กลายเป็นราชาโดยขึ้นไปอยู่ด้านบนของอันดับ",
+      "keyFeaturesTitle": "คุณสมบัติหลัก",
+      "feature1Title": "การต่อสู้แบบหลายผู้เล่น",
+      "feature1Description": "เข้าร่วมการต่อสู้ที่ดุเดือดกับผู้เล่นนับล้านทั่วโลก",
+      "feature2Title": "อัพเกรดเครื่องบินของคุณ",
+      "feature2Description": "รวบรวมไอเท็มเสริมเพื่อเพิ่มประสิทธิภาพของเครื่องบินของคุณ",
+      "feature3Title": "กลายเป็นราชา",
+      "feature3Description": "แข่งขันเพื่อตำแหน่งสูงสุดในอันดับและครองท้องฟ้า",
+      "feature4Title": "กราฟิกที่สวยงาม",
+      "feature4Description": "สัมผัสประสบการณ์การเล่นเกมด้วยภาพที่สดใสและน่าสนใจ"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "ขอแนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นจากผู้เล่น"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "สำรวจทุกเกม",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}
