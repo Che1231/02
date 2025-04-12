@@ -1,0 +1,120 @@
+{
+  "name": "Farm Family",
+  "pagePath": "/games/farm-family",
+  "pageName": "farm-family",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://app-223345.games.s3.yandex.net/223345/qqeaebixh8vqzippfevasvq2ru0jwdmq/index.html",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "CosmicLeviathan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicLeviathan99.png",
+      "content": "Building my own farm is so addictive! Makin' money at the market? Genius design."
+    },
+    {
+      "author": "FlamingKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/FlamingKatana_X.png",
+      "content": "Is Farm Family as good as everyone says? Yup! Raising animals is my fave thing!"
+    },
+    {
+      "author": "EldenRing4ever",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/EldenRing4ever.png",
+      "content": "This game is fire! Cultivating crops is so relaxing, gotta love it."
+    },
+    {
+      "author": "NoobMaster42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster42.png",
+      "content": "Expand your farm? Bet. It's a fun way to pass the time, tbh."
+    },
+    {
+      "author": "Xx_DarkAngel_xX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Xx_DarkAngel_xX.png",
+      "content": "The tasks in the game are pretty cool. Making bank and leveling is a blast!"
+    },
+    {
+      "author": "StalkingPhoenix87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix87.png",
+      "content": "This game is amazing! Selling my products is so freaking rewarding. Like whoa!"
+    },
+    {
+      "author": "SavageRevolver_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageRevolver_X.png",
+      "content": "Not gonna lie, this game is quite entertaining. Worth every penny, yo."
+    },
+    {
+      "author": "FortniteFan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/FortniteFan99.png",
+      "content": "The money you earn lets you buy new resources! This makes it quite fun."
+    },
+    {
+      "author": "CtrlAltDelight",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDelight.png",
+      "content": "Farm Family is awesome! Improving buildings is my jam, I can’t stop!"
+    },
+    {
+      "author": "LagWarrior9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarrior9000.png",
+      "content": "For real, this game got me hooked. Upgrading my farm is my new obsession!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-12/images/1744450312499-qu92j.webp",
+  "page_path": "/games/farm-family",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Farming"
+  ],
+  "createdTime": "2025-04-12 17:32:03"
+}

@@ -1,0 +1,77 @@
+{
+  "farm-family": {
+    "title": "Play Farm Family Online for Free",
+    "slogan": "",
+    "description": "Build and manage your own virtual farm in Farm Family! Cultivate crops, raise animals, and sell products to expand your farm. Play Farm Family today and enjoy farm simulation!",
+    "Loading": {
+      "title": "Loading..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Farm Family",
+      "description": "Farm Family is a captivating farm simulator game that allows you to build and manage your very own farm.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Farm Family",
+      "whatIsTitle": "What is Farm Family?",
+      "whatIsDescription": "Farm Family is a farm simulation game where you cultivate crops, raise animals, and manage your farm to progress.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Cultivate crops and harvest them.",
+      "howToPlayStep2": "Raise animals and collect their products.",
+      "howToPlayStep3": "Sell your products at the market to earn money and expand your Farm Family.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Manage Your Farm",
+      "feature1Description": "Build and manage your farm to make it thrive.",
+      "feature2Title": "Cultivate Crops",
+      "feature2Description": "Plant and harvest various crops.",
+      "feature3Title": "Raise Animals",
+      "feature3Description": "Care for animals and collect their products.",
+      "feature4Title": "Expand Your Farm Family",
+      "feature4Description": "Use your earnings to buy new resources and improve your farm buildings."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

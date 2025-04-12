@@ -1,76 +1,76 @@
 {
   "burrito-craft": {
-    "title": "Burrito Craft: Costruisci, Esplora e Crea il Tuo Mondo Blocco",
-    "slogan": "Forgia la Tua Strada in un'Avventura Sandbox Unica",
-    "description": "In Burrito Craft, il mondo a blocchi è il tuo palcoscenico. Costruisci, esplora o rilassati: la scelta è tua! Inizia con progetti semplici e gradualmente costruisci il tuo impero. Scegli tra personaggi familiari e immergiti nel gameplay creativo o di sopravvivenza. Burrito Craft offre infinite possibilità di scoperta e creazione. Inizia la tua avventura oggi!",
+    "title": "Gioca a Burrito Craft Online: Sandbox ispirato a Minecraft!",
+    "slogan": "Crea il tuo mondo in Burrito Craft!",
+    "description": "Immergiti in Burrito Craft, un'avventura sandbox ispirata a Minecraft 1.5.2! Esplora infinite possibilità, dall'agricoltura a costruzioni emozionanti. Gioca a Burrito Craft gratuitamente online ora! Divertiti con Burrito Craft!",
     "Loading": {
-      "title": "Caricamento..."
+      "title": "Caricamento di Burrito Craft..."
     },
     "Navbar": {
       "title": "Navigazione"
     },
     "Common": {
-      "createAt": "Crea A",
+      "createAt": "Creato il",
       "guide": "Guida",
-      "privacyPolicy": "Informativa sulla Privacy",
-      "termsOfServices": "Termini di Servizio",
+      "privacyPolicy": "Informativa sulla privacy",
+      "termsOfServices": "Termini di servizio",
       "text": "Contenuto",
       "help": "Aiuto",
-      "friendlyLinks": "Link Utili",
-      "articleList": "Elenco Articoli",
+      "friendlyLinks": "Link utili",
+      "articleList": "Elenco articoli",
       "home": "Home",
       "next": "Avanti",
       "previous": "Precedente"
     },
     "HomeIframe": {
-      "title": "Burrito Craft: Costruisci ed Esplora il Tuo Mondo",
-      "description": "In Burrito Craft, il mondo a blocchi è il tuo palcoscenico. Costruisci, esplora o rilassati: la scelta è tua! Inizia con progetti semplici e gradualmente costruisci il tuo impero. Scegli tra personaggi familiari e immergiti nel gameplay creativo o di sopravvivenza. Burrito Craft offre infinite possibilità di scoperta e creazione. Inizia la tua avventura oggi!",
-      "iframeTitle": "Anteprima del Gioco",
+      "title": "Burrito Craft™",
+      "description": "Vivi la libertà di un mondo sandbox in Burrito Craft. Costruisci, esplora e crea senza limiti!",
+      "iframeTitle": "Anteprima del gioco",
       "fullscreenButton": "Schermo intero",
       "shareButton": "Condividi",
       "urlCopied": "URL copiato negli appunti!",
-      "downloadGame": "Scarica il Gioco",
+      "downloadGame": "Scarica il gioco",
       "playGame": "Gioca"
     },
     "HomeFeatures": {
-      "gameTitle": "Burrito Craft: Costruisci, Esplora e Crea",
+      "gameTitle": "Burrito Craft: La tua avventura sandbox",
       "whatIsTitle": "Cos'è Burrito Craft?",
-      "whatIsDescription": "Burrito Craft è una combinazione unica di Minecraft con l'aggiunta di personaggi familiari di Five Nights at Winstons. Con un gameplay costruttivo e creativo, il mondo sandbox ti accoglie con infinite esperienze. Non ci sono limiti alle tue scoperte e creazioni.",
-      "howToPlayTitle": "Come Giocare",
-      "howToPlayStep1": "Sposta il mouse per guardare intorno e usa le frecce per muoverti.",
-      "howToPlayStep2": "Clicca sinistro per rompere un blocco e clicca destro per aggiungere oggetti.",
-      "howToPlayStep3": "Premi il tasto E per aprire l'inventario e selezionare gli oggetti da utilizzare.",
-      "keyFeaturesTitle": "Funzionalità Principali",
-      "feature1Title": "Costruzione Creativa",
-      "feature1Description": "Esprimi liberamente la tua creatività in questo mondo a blocchi.",
-      "feature2Title": "Gameplay di Sopravvivenza",
-      "feature2Description": "Proteggi il tuo territorio di gioco in una battaglia di sopravvivenza.",
-      "feature3Title": "Materiali Diversi",
-      "feature3Description": "Utilizza una varietà di materiali per creare progetti con diverse strutture.",
-      "feature4Title": "Modalità di Gioco Uniche",
-      "feature4Description": "Scegli tra le modalità creative o di sopravvivenza per avventure uniche."
+      "whatIsDescription": "Burrito Craft offre un mondo sandbox senza confini dove puoi essere un agricoltore, un avventuriero o un architetto. Ispirato a Minecraft, realizza i tuoi sogni in Burrito Craft!",
+      "howToPlayTitle": "Come giocare",
+      "howToPlayStep1": "Esplora il mondo cubico e raccogli risorse.",
+      "howToPlayStep2": "Crea strumenti e costruisci strutture per sopravvivere.",
+      "howToPlayStep3": "Affronta le sfide da solo o con gli amici in modalità multiplayer.",
+      "keyFeaturesTitle": "Caratteristiche principali",
+      "feature1Title": "Creatività senza limiti",
+      "feature1Description": "Sperimenta costruzioni pazzesche e dai vita alla tua immaginazione.",
+      "feature2Title": "Gameplay classico",
+      "feature2Description": "Goditi le funzionalità fino alla versione 1.5.2 del Minecraft originale.",
+      "feature3Title": "Modalità multiplayer",
+      "feature3Description": "Lavorate insieme ad altri per conquistare il mondo cubico.",
+      "feature4Title": "Avventure senza fine",
+      "feature4Description": "Diventa un agricoltore, un avventuriero o qualsiasi cosa tu voglia essere."
     },
     "HomeFAQs": {
       "title": "FAQ"
     },
     "HomeRelatedVideo": {
-      "title": "Video del Gioco"
+      "title": "Video di gioco"
     },
     "HomeRecommendation": {
-      "title": "Consigliati"
+      "title": "Raccomandati"
     },
     "HomeComments": {
-      "title": "Commenti sul Gioco"
+      "title": "Commenti sul gioco"
     },
     "GamePage": {
-      "title": "Tutti i Giochi",
-      "description": "Tutti i Giochi",
+      "title": "Tutti i giochi",
+      "description": "Esplora tutti i giochi",
       "games": "Giochi"
     },
     "CategoryPage": {
       "categories": "Categorie",
       "noCategories": "Nessuna categoria trovata",
-      "viewMore": "Visualizza di Più",
+      "viewMore": "Visualizza altro",
       "page": "Pagina"
     }
   }

@@ -1,54 +1,54 @@
 {
   "burrito-craft": {
-    "title": "起司捲餅工藝：建造、探索和創造您的方塊世界",
-    "slogan": "在獨特的沙盒冒險中開創您的道路",
-    "description": "在起司捲餅工藝中，方塊世界就是您的畫布。建造、探索或放鬆身心，選擇權在您手中！從簡單的專案開始，逐步建立屬於自己的帝國。從熟悉的角色中選擇，並投入創意或生存遊戲玩法。起司捲餅工藝提供無盡的探索和創造可能性。今天就開始您的冒險！",
+    "title": "線上遊戲《壽司堡工匠》- 免費的我的世界風格沙盒遊戲！",
+    "slogan": "在《壽司堡工匠》中打造你的世界！",
+    "description": "潛入《壽司堡工匠》，一個以我的世界 1.5.2 版本為靈感的沙盒冒險！探索無限的可能性，從耕種到刺激的建築。現在免費線上玩《壽司堡工匠》！享受《壽司堡工匠》！",
     "Loading": {
-      "title": "載入中..."
+      "title": "正在載入《壽司堡工匠》..."
     },
     "Navbar": {
-      "title": "導覽"
+      "title": "導航"
     },
     "Common": {
-      "createAt": "建立於",
+      "createAt": "建立時間",
       "guide": "指南",
       "privacyPolicy": "隱私權政策",
       "termsOfServices": "服務條款",
       "text": "內容",
-      "help": "說明",
-      "friendlyLinks": "友善連結",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
       "articleList": "文章列表",
       "home": "首頁",
       "next": "下一頁",
       "previous": "上一頁"
     },
     "HomeIframe": {
-      "title": "起司捲餅工藝：打造和探索您的世界",
-      "description": "在起司捲餅工藝中，方塊世界就是您的畫布。建造、探索或放鬆身心，選擇權在您手中！從簡單的專案開始，逐步建立屬於自己的帝國。從熟悉的角色中選擇，並投入創意或生存遊戲玩法。起司捲餅工藝提供無盡的探索和創造可能性。今天就開始您的冒險！",
+      "title": "《壽司堡工匠™》",
+      "description": "在《壽司堡工匠》體驗沙盒世界的自由。建造、探索和創造，無所限制！",
       "iframeTitle": "遊戲預覽",
       "fullscreenButton": "全螢幕",
       "shareButton": "分享",
       "urlCopied": "網址已複製到剪貼簿！",
       "downloadGame": "下載遊戲",
-      "playGame": "遊玩遊戲"
+      "playGame": "玩遊戲"
     },
     "HomeFeatures": {
-      "gameTitle": "起司捲餅工藝：建造、探索和創造",
-      "whatIsTitle": "起司捲餅工藝是什麼？",
-      "whatIsDescription": "起司捲餅工藝結合了我的世界與五夜餐廳的熟悉角色，提供建設性和創造性的遊戲體驗，這項獨特的沙盒世界帶給玩家無盡的體驗。您的探索和創造沒有任何限制。",
-      "howToPlayTitle": "如何遊戲",
-      "howToPlayStep1": "移動滑鼠進行觀看，並使用方向鍵移動。",
-      "howToPlayStep2": "左鍵點擊以破壞方塊，右鍵點擊以新增物品或物件。",
-      "howToPlayStep3": "按 E 鍵開啟物品欄並選擇要使用的物品。",
+      "gameTitle": "《壽司堡工匠》：你的沙盒冒險",
+      "whatIsTitle": "《壽司堡工匠》是什麼？",
+      "whatIsDescription": "《壽司堡工匠》提供一個無限的沙盒世界，你可以是農夫、冒險家或建築師。受我的世界啟發，在《壽司堡工匠》中實現你的夢想！",
+      "howToPlayTitle": "如何玩遊戲",
+      "howToPlayStep1": "探索方塊世界並收集資源。",
+      "howToPlayStep2": "製作工具並建造結構來生存。",
+      "howToPlayStep3": "單獨或與朋友一起在多人遊戲模式中挑戰難關。",
       "keyFeaturesTitle": "主要功能",
-      "feature1Title": "創意建造",
-      "feature1Description": "在此方塊世界中自由表達您的創造力。",
-      "feature2Title": "生存遊戲玩法",
-      "feature2Description": "在生存的戰鬥中保護您的遊戲領域。",
-      "feature3Title": "多樣材料",
-      "feature3Description": "使用各種材料來創造具有不同結構的專案。",
-      "feature4Title": "獨特的遊戲模式",
-      "feature4Description": "從創意模式或生存模式中選擇，展開獨特的冒險旅程。"
+      "feature1Title": "無限創意",
+      "feature1Description": "嘗試瘋狂的建築並將你的想像力變為現實。",
+      "feature2Title": "經典遊戲玩法",
+      "feature2Description": "享受原版我的世界 1.5.2 版本的功能。",
+      "feature3Title": "多人模式",
+      "feature3Description": "與其他人合作，征服方塊世界。",
+      "feature4Title": "無盡冒險",
+      "feature4Description": "成為農夫、冒險家或任何你想成為的角色。"
     },
     "HomeFAQs": {
       "title": "常見問題"
@@ -57,19 +57,19 @@
       "title": "遊戲影片"
     },
     "HomeRecommendation": {
-      "title": "推薦"
+      "title": "推薦遊戲"
     },
     "HomeComments": {
       "title": "遊戲評論"
     },
     "GamePage": {
       "title": "所有遊戲",
-      "description": "所有遊戲",
+      "description": "探索所有遊戲",
       "games": "遊戲"
     },
     "CategoryPage": {
-      "categories": "類別",
-      "noCategories": "找不到類別",
+      "categories": "分類",
+      "noCategories": "找不到分類",
       "viewMore": "檢視更多",
       "page": "頁面"
     }

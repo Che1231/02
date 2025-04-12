@@ -1,0 +1,77 @@
+{
+  "farm-family": {
+    "title": "免費線上農場家族遊戲",
+    "slogan": "",
+    "description": "在農場家族遊戲中建立和管理您自己的虛擬農場！種植農作物，飼養牲畜，並銷售產品來擴展您的農場。立即玩農場家族，享受農場模擬遊戲！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "農場家族",
+      "description": "農場家族是一款引人入勝的農場模擬遊戲，讓您可以建立和管理您自己的農場。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "農場家族",
+      "whatIsTitle": "什麼是農場家族？",
+      "whatIsDescription": "農場家族是一款農場模擬遊戲，您可以在遊戲中種植農作物、飼養牲畜並管理您的農場以取得進展。",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "種植農作物並收穫它們。",
+      "howToPlayStep2": "飼養牲畜並收集其產品。",
+      "howToPlayStep3": "在市場上銷售您的產品以賺取金錢並擴展您的農場家族。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "管理您的農場",
+      "feature1Description": "建立和管理您的農場，使其蓬勃發展。",
+      "feature2Title": "種植農作物",
+      "feature2Description": "種植和收穫各種農作物。",
+      "feature3Title": "飼養牲畜",
+      "feature3Description": "照料牲畜並收集其產品。",
+      "feature4Title": "擴展您的農場家族",
+      "feature4Description": "用您的收入購買新的資源並改善您的農場建築物。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "未找到類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

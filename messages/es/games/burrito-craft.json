@@ -1,16 +1,16 @@
 {
   "burrito-craft": {
-    "title": "Burrito Craft: Construye, explora y crea tu mundo bloqueante",
-    "slogan": "Forja tu camino en una aventura de sandbox única",
-    "description": "En Burrito Craft, el mundo bloqueante es tu lienzo. ¡Construye, explora o relájate, la elección es tuya! Empieza con proyectos simples y gradualmente construye tu propio imperio. Elige entre personajes familiares y sumérgete en un juego creativo o de supervivencia. Burrito Craft ofrece infinitas posibilidades de descubrimiento y creación. ¡Empieza tu aventura hoy mismo!",
+    "title": "Juega a Burrito Craft en línea: ¡Un sandbox inspirado en Minecraft gratis!",
+    "slogan": "¡Crea tu mundo en Burrito Craft!",
+    "description": "¡Sumérgete en Burrito Craft, una aventura sandbox inspirada en Minecraft 1.5.2! Explora posibilidades ilimitadas, desde la agricultura hasta emocionantes construcciones. ¡Juega a Burrito Craft gratis en línea ahora! ¡Disfruta de Burrito Craft!",
     "Loading": {
-      "title": "Cargando..."
+      "title": "Cargando Burrito Craft..."
     },
     "Navbar": {
       "title": "Navegación"
     },
     "Common": {
-      "createAt": "Crear en",
+      "createAt": "Creado el",
       "guide": "Guía",
       "privacyPolicy": "Política de privacidad",
       "termsOfServices": "Términos de servicio",
@@ -23,8 +23,8 @@
       "previous": "Anterior"
     },
     "HomeIframe": {
-      "title": "Burrito Craft: Construye y explora tu mundo",
-      "description": "En Burrito Craft, el mundo bloqueante es tu lienzo. ¡Construye, explora o relájate, la elección es tuya! Empieza con proyectos simples y gradualmente construye tu propio imperio. Elige entre personajes familiares y sumérgete en un juego creativo o de supervivencia. Burrito Craft ofrece infinitas posibilidades de descubrimiento y creación. ¡Empieza tu aventura hoy mismo!",
+      "title": "Burrito Craft™",
+      "description": "¡Experimenta la libertad de un mundo sandbox en Burrito Craft! ¡Construye, explora y crea sin límites!",
       "iframeTitle": "Vista previa del juego",
       "fullscreenButton": "Pantalla completa",
       "shareButton": "Compartir",
@@ -33,22 +33,22 @@
       "playGame": "Jugar"
     },
     "HomeFeatures": {
-      "gameTitle": "Burrito Craft: Construye, explora y crea",
+      "gameTitle": "Burrito Craft: Tu Aventura Sandbox",
       "whatIsTitle": "¿Qué es Burrito Craft?",
-      "whatIsDescription": "Burrito Craft es una combinación única de Minecraft con la adición de personajes familiares de Five Nights at Winstons. Con un juego constructivo y creativo, el mundo de sandbox te da la bienvenida con experiencias infinitas. No hay límites para tus descubrimientos y creaciones.",
+      "whatIsDescription": "¡Burrito Craft ofrece un mundo sandbox ilimitado donde puedes ser agricultor, aventurero o arquitecto! ¡Inspirado en Minecraft, realiza tus sueños en Burrito Craft!",
       "howToPlayTitle": "Cómo jugar",
-      "howToPlayStep1": "Mueve el ratón para mirar alrededor y usa las flechas para moverte.",
-      "howToPlayStep2": "Haz clic con el botón izquierdo para romper un bloque y haz clic con el botón derecho para agregar elementos u objetos.",
-      "howToPlayStep3": "Presiona la tecla E para abrir el inventario y seleccionar elementos para usar.",
-      "keyFeaturesTitle": "Características principales",
-      "feature1Title": "Construcción creativa",
-      "feature1Description": "Exprésate creativamente en este mundo bloqueante.",
-      "feature2Title": "Juego de supervivencia",
-      "feature2Description": "Protege tu territorio en juego en una batalla de supervivencia.",
-      "feature3Title": "Materiales diversos",
-      "feature3Description": "Usa una variedad de materiales para crear proyectos con diferentes estructuras.",
-      "feature4Title": "Modos de juego únicos",
-      "feature4Description": "Elige entre los modos creativos o de supervivencia para viajes únicos."
+      "howToPlayStep1": "Explora el mundo de bloques y recolecta recursos.",
+      "howToPlayStep2": "Crea herramientas y construye estructuras para sobrevivir.",
+      "howToPlayStep3": "Domina los desafíos solo o con amigos en modo multijugador.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Creatividad ilimitada",
+      "feature1Description": "Experimenta con locas construcciones y da vida a tu imaginación.",
+      "feature2Title": "Jugabilidad clásica",
+      "feature2Description": "Disfruta de las funciones hasta la versión 1.5.2 del Minecraft original.",
+      "feature3Title": "Modo multijugador",
+      "feature3Description": "Trabaja junto a otros para conquistar el mundo de bloques.",
+      "feature4Title": "Aventuras infinitas",
+      "feature4Description": "Conviértete en agricultor, aventurero o lo que quieras ser."
     },
     "HomeFAQs": {
       "title": "Preguntas frecuentes"
@@ -64,7 +64,7 @@
     },
     "GamePage": {
       "title": "Todos los juegos",
-      "description": "Todos los juegos",
+      "description": "Explora todos los juegos",
       "games": "Juegos"
     },
     "CategoryPage": {

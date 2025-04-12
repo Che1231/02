@@ -1,8 +1,8 @@
 {
   "bomb-it-7": {
-    "title": "Bomb It 7 - Patlayıcı Strateji ve Aksiyon Oyunu",
-    "slogan": "Bomb It 7'de destansı bir savaşa hazırlanın!",
-    "description": "Bomb It 7, stratejik bomba patlatma ile aksiyon dolu oyun mekaniğini birleştirir. Düşmanlarınızı alt edin, karakterinizi özelleştirin ve renkli bir meydan okuma labirentinde keşif yapın. Arcade, Savaş Royale ve Yeni Pac-Man gibi modlar ile her oyun benzersizdir. Bombalarınızı yükseltin, becerilerinizi geliştirin ve savaş alanında hakimiyetinizi sağlayın. Şimdi Bomb It 7'ye dalın ve en son bomba macerasını yaşayın!",
+    "title": "Bomb It 7: Patlayıcı Eğlence Bekliyor! Ücretsiz Oyna!",
+    "slogan": "Bomb-it-7'de patlayıcı maceralara hazırlanın!",
+    "description": "Bomb-it-7'nin patlayıcı dünyasına dalın! Bombaları stratejik olarak yerleştirin, düşmanları alt edin ve karakterleri özelleştirin. Bomb-it-7'de kesintisiz heyecan yaşayın – şimdi ücretsiz oynayın!",
     "Loading": {
       "title": "Yükleniyor..."
     },
@@ -11,7 +11,7 @@
     },
     "Common": {
       "createAt": "Oluşturulma Tarihi",
-      "guide": "Yönerge",
+      "guide": "Yönergeler",
       "privacyPolicy": "Gizlilik Politikası",
       "termsOfServices": "Hizmet Şartları",
       "text": "İçerik",
@@ -23,32 +23,32 @@
       "previous": "Önceki"
     },
     "HomeIframe": {
-      "title": "Bomb It 7 - Patlayıcı Strateji ve Aksiyon Oyunu",
-      "description": "Bomb It 7, stratejik bomba patlatma ile aksiyon dolu oyun mekaniğini birleştirir. Düşmanlarınızı alt edin, karakterinizi özelleştirin ve renkli bir meydan okuma labirentinde keşif yapın. Arcade, Savaş Royale ve Yeni Pac-Man gibi modlar ile her oyun benzersizdir. Bombalarınızı yükseltin, becerilerinizi geliştirin ve savaş alanında hakimiyetinizi sağlayın. Şimdi Bomb It 7'ye dalın ve en son bomba macerasını yaşayın!",
+      "title": "Bomb It 7",
+      "description": "Bomb it 7'de patlayıcı aksiyona hazır olun! Bomb it serisinin bu heyecan verici bölümünde bombaları stratejik olarak yerleştirin ve rakiplerinizi alt etmeyi hedefleyin.",
       "iframeTitle": "Oyun Önizlemesi",
       "fullscreenButton": "Tam Ekran",
       "shareButton": "Paylaş",
       "urlCopied": "URL panoya kopyalandı!",
       "downloadGame": "Oyunu İndir",
-      "playGame": "Oyunu Oyna"
+      "playGame": "Oyna"
     },
     "HomeFeatures": {
-      "gameTitle": "Bomb It 7 - Patlayıcı Strateji ve Aksiyon Oyunu",
+      "gameTitle": "Bomb It 7",
       "whatIsTitle": "Bomb It 7 Nedir?",
-      "whatIsDescription": "Bomb It 7, sofistike stratejiler ve benzersiz aksiyon oyun mekaniğinin mükemmel bir birleşimidir. Bomb It serisinin bu heyecan verici versiyonuyla patlayıcı bir bomba macerasına hazırlanın.",
-      "howToPlayTitle": "Nasıl Oynanır?",
-      "howToPlayStep1": "Düşmanlarınızı alt etmek için bombaları stratejik olarak yerleştirin.",
-      "howToPlayStep2": "Karakterinizi özelleştirin ve bombalarınızı yükseltin.",
-      "howToPlayStep3": "Arcade, Savaş Royale ve Yeni Pac-Man gibi çeşitli oyun modlarından seçim yapın.",
+      "whatIsDescription": "Bomb It 7, rakiplerinizi yenmek için bombaları stratejik olarak yerleştirdiğiniz, hareketli bir oyundur. Renkli haritalardan geçin ve avantaj elde etmek için güçlendirmeleri kullanın.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Karakterinizi hareket ettirmek için yön tuşlarını kullanın.",
+      "howToPlayStep2": "Bomba yerleştirmek için boşluk tuşuna basın.",
+      "howToPlayStep3": "Düşman bombalarından kaçının ve zafer için yolunuzu patlatın!",
       "keyFeaturesTitle": "Önemli Özellikler",
-      "feature1Title": "Özelleştirilebilir Karakterler",
-      "feature1Description": "Karakterinizi kostümler, kasklar ve bomba şekilleriyle kişiselleştirin.",
-      "feature2Title": "Yükseltilebilir Bombalar",
-      "feature2Description": "Bombalarınızın gücünü ve patlama alanını artırın.",
-      "feature3Title": "Çeşitli Oyun Modları",
-      "feature3Description": "Arcade, Savaş Royale ve Yeni Pac-Man modlarında benzersiz meydan okumalara deneyim kazanın.",
+      "feature1Title": "Heyecan Verici Oyun Modları",
+      "feature1Description": "Tek oyunculu ve çok oyunculu savaşlar dahil olmak üzere çeşitli oyun modlarını keşfedin.",
+      "feature2Title": "Özelleştirilebilir Karakterler",
+      "feature2Description": "Karakterinizi harika ve tuhaf kıyafetlerle özelleştirin.",
+      "feature3Title": "Eşsiz Haritalar",
+      "feature3Description": "Eşsiz engeller ve güçlendirmeler içeren yeni haritaları keşfedin.",
       "feature4Title": "Stratejik Oyun",
-      "feature4Description": "Bir gizem labirentinde yol bulmak için zekayı ve gücü birleştirin."
+      "feature4Description": "Rakiplerinizi alt etmek için farklı strateji ve taktiklerle deney yapın."
     },
     "HomeFAQs": {
       "title": "SSS"
@@ -57,7 +57,7 @@
       "title": "Oyun Videosu"
     },
     "HomeRecommendation": {
-      "title": "Tavsiye Eder"
+      "title": "Tavsiyeler"
     },
     "HomeComments": {
       "title": "Oyun Yorumları"
@@ -69,7 +69,7 @@
     },
     "CategoryPage": {
       "categories": "Kategoriler",
-      "noCategories": "Kategori bulunamadı",
+      "noCategories": "Hiç kategori bulunamadı",
       "viewMore": "Daha Fazlasını Görüntüle",
       "page": "Sayfa"
     }

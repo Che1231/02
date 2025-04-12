@@ -1,16 +1,16 @@
 {
   "burrito-craft": {
-    "title": "Burrito Craft: Bangun, Jelajahi, dan Ciptakan Dunia Blok Anda",
-    "slogan": "Bentuk Jalan Anda dalam Petualangan Berbasis Kotak Pasir yang Unik",
-    "description": "Di Burrito Craft, dunia berblok adalah kanvas Anda. Bangun, jelajahi, atau bersantai - pilihan ada di tangan Anda! Mulailah dengan proyek sederhana dan secara bertahap bangun kerajaan Anda sendiri. Pilih dari karakter yang dikenal dan terjun ke dalam permainan kreatif atau bertahan hidup. Burrito Craft menawarkan kemungkinan penemuan dan kreasi yang tak terbatas. Mulailah petualangan Anda hari ini!",
+    "title": "Mainkan Burrito Craft Online - Sandbox yang Terinspirasi Minecraft Gratis!",
+    "slogan": "Buat Dunia Anda di Burrito Craft!",
+    "description": "Jelajahi Burrito Craft, petualangan sandbox yang terinspirasi oleh Minecraft 1.5.2! Jelajahi kemungkinan tanpa batas, dari bertani hingga membangun yang menegangkan. Mainkan Burrito Craft gratis online sekarang! Nikmati Burrito Craft!",
     "Loading": {
-      "title": "Memuat..."
+      "title": "Memuat Burrito Craft..."
     },
     "Navbar": {
       "title": "Navigasi"
     },
     "Common": {
-      "createAt": "Buat Pada",
+      "createAt": "Dibuat Pada",
       "guide": "Panduan",
       "privacyPolicy": "Kebijakan Privasi",
       "termsOfServices": "Ketentuan Layanan",
@@ -23,8 +23,8 @@
       "previous": "Sebelumnya"
     },
     "HomeIframe": {
-      "title": "Burrito Craft: Bangun dan Jelajahi Dunia Anda",
-      "description": "Di Burrito Craft, dunia berblok adalah kanvas Anda. Bangun, jelajahi, atau bersantai - pilihan ada di tangan Anda! Mulailah dengan proyek sederhana dan secara bertahap bangun kerajaan Anda sendiri. Pilih dari karakter yang dikenal dan terjun ke dalam permainan kreatif atau bertahan hidup. Burrito Craft menawarkan kemungkinan penemuan dan kreasi yang tak terbatas. Mulailah petualangan Anda hari ini!",
+      "title": "Burrito Craft™",
+      "description": "Rasakan kebebasan dunia sandbox di Burrito Craft. Bangun, jelajahi, dan ciptakan tanpa batas!",
       "iframeTitle": "Pratinjau Game",
       "fullscreenButton": "Layar Penuh",
       "shareButton": "Bagikan",
@@ -33,22 +33,22 @@
       "playGame": "Mainkan Game"
     },
     "HomeFeatures": {
-      "gameTitle": "Burrito Craft: Bangun, Jelajahi, dan Ciptakan",
+      "gameTitle": "Burrito Craft: Petualangan Sandbox Anda",
       "whatIsTitle": "Apa itu Burrito Craft?",
-      "whatIsDescription": "Burrito Craft adalah kombinasi unik dari Minecraft dengan tambahan karakter familier dari Five Nights at Freddy's. Dengan gameplay yang konstruktif dan kreatif, dunia kotak pasir khas menyambut Anda dengan pengalaman yang tak terbatas. Tidak ada batasan untuk penemuan dan kreasi Anda.",
+      "whatIsDescription": "Burrito Craft menawarkan dunia sandbox tak terbatas di mana Anda bisa menjadi petani, petualang, atau arsitek. Terinspirasi oleh Minecraft, wujudkan impian Anda di Burrito Craft!",
       "howToPlayTitle": "Cara Bermain",
-      "howToPlayStep1": "Gerakkan mouse untuk melihat sekeliling dan gunakan tombol panah untuk bergerak.",
-      "howToPlayStep2": "Klik kiri untuk memecahkan blok dan klik kanan untuk menambahkan item atau objek.",
-      "howToPlayStep3": "Tekan tombol E untuk membuka inventaris dan pilih item untuk digunakan.",
+      "howToPlayStep1": "Jelajahi dunia blok dan kumpulkan sumber daya.",
+      "howToPlayStep2": "Buat alat dan bangun struktur untuk bertahan hidup.",
+      "howToPlayStep3": "Atasi tantangan sendiri atau bersama teman dalam mode multipemain.",
       "keyFeaturesTitle": "Fitur Utama",
-      "feature1Title": "Pembangunan Kreatif",
-      "feature1Description": "Ungkapkan kreativitas Anda secara bebas di dunia berblok ini.",
-      "feature2Title": "Gameplay Bertahan Hidup",
-      "feature2Description": "Lindungi wilayah Anda dalam permainan dalam pertempuran bertahan hidup.",
-      "feature3Title": "Berbagai Bahan",
-      "feature3Description": "Gunakan berbagai bahan untuk membuat proyek dengan struktur yang berbeda.",
-      "feature4Title": "Mode Permainan Unik",
-      "feature4Description": "Pilih mode kreatif atau bertahan hidup untuk petualangan unik."
+      "feature1Title": "Kreativitas Tanpa Batas",
+      "feature1Description": "Eksperimen dengan konstruksi gila dan wujudkan imajinasi Anda.",
+      "feature2Title": "Gameplay Klasik",
+      "feature2Description": "Nikmati fitur hingga versi 1.5.2 Minecraft asli.",
+      "feature3Title": "Mode Multipemain",
+      "feature3Description": "Bekerja sama dengan orang lain untuk menaklukkan dunia blok.",
+      "feature4Title": "Petualangan Tanpa Akhir",
+      "feature4Description": "Jadilah petani, petualang, atau apa pun yang ingin Anda jadikan."
     },
     "HomeFAQs": {
       "title": "FAQ"
@@ -60,11 +60,11 @@
       "title": "Rekomendasi"
     },
     "HomeComments": {
-      "title": "Komentar Game"
+      "title": "Komentar Permainan"
     },
     "GamePage": {
       "title": "Semua Game",
-      "description": "Semua Game",
+      "description": "Jelajahi Semua Game",
       "games": "Game"
     },
     "CategoryPage": {

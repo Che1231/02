@@ -1,16 +1,16 @@
 {
   "burrito-craft": {
-    "title": "Burrito Craft: Xây dựng, khám phá và tạo nên thế giới khối của bạn",
-    "slogan": "Đúc kết con đường của bạn trong một cuộc phiêu lưu sandbox độc đáo",
-    "description": "Trong Burrito Craft, thế giới khối là tấm vải vẽ của bạn. Xây dựng, khám phá hoặc thư giãn - sự lựa chọn tùy thuộc vào bạn! Bắt đầu với các dự án đơn giản và dần dần xây dựng đế chế riêng của bạn. Chọn từ các nhân vật quen thuộc và đắm mình trong lối chơi sáng tạo hoặc sinh tồn. Burrito Craft cung cấp vô số khả năng khám phá và sáng tạo. Bắt đầu cuộc phiêu lưu của bạn ngay hôm nay!",
+    "title": "Chơi Burrito Craft Trực tuyến - Sandbox lấy cảm hứng từ Minecraft miễn phí!",
+    "slogan": "Sáng tạo thế giới của bạn trong Burrito Craft!",
+    "description": "Mở ra Burrito Craft, một cuộc phiêu lưu sandbox lấy cảm hứng từ Minecraft 1.5.2! Khám phá vô số khả năng, từ trồng trọt đến những công trình hấp dẫn. Chơi Burrito Craft miễn phí trực tuyến ngay bây giờ! Thưởng thức Burrito Craft!",
     "Loading": {
-      "title": "Đang tải..."
+      "title": "Đang tải Burrito Craft..."
     },
     "Navbar": {
-      "title": "Đường dẫn"
+      "title": "Điều hướng"
     },
     "Common": {
-      "createAt": "Tạo lúc",
+      "createAt": "Ngày tạo",
       "guide": "Hướng dẫn",
       "privacyPolicy": "Chính sách bảo mật",
       "termsOfServices": "Điều khoản dịch vụ",
@@ -23,32 +23,32 @@
       "previous": "Trước đó"
     },
     "HomeIframe": {
-      "title": "Burrito Craft: Xây dựng và khám phá thế giới của bạn",
-      "description": "Trong Burrito Craft, thế giới khối là tấm vải vẽ của bạn. Xây dựng, khám phá hoặc thư giãn - sự lựa chọn tùy thuộc vào bạn! Bắt đầu với các dự án đơn giản và dần dần xây dựng đế chế riêng của bạn. Chọn từ các nhân vật quen thuộc và đắm mình trong lối chơi sáng tạo hoặc sinh tồn. Burrito Craft cung cấp vô số khả năng khám phá và sáng tạo. Bắt đầu cuộc phiêu lưu của bạn ngay hôm nay!",
+      "title": "Burrito Craft™",
+      "description": "Trải nghiệm tự do của một thế giới sandbox trong Burrito Craft. Xây dựng, khám phá và sáng tạo không giới hạn!",
       "iframeTitle": "Xem trước trò chơi",
       "fullscreenButton": "Toàn màn hình",
       "shareButton": "Chia sẻ",
-      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
-      "downloadGame": "Tải game",
-      "playGame": "Chơi game"
+      "urlCopied": "Đã sao chép URL vào clipboard!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
     },
     "HomeFeatures": {
-      "gameTitle": "Burrito Craft: Xây dựng, khám phá và sáng tạo",
+      "gameTitle": "Burrito Craft: Cuộc phiêu lưu sandbox của bạn",
       "whatIsTitle": "Burrito Craft là gì?",
-      "whatIsDescription": "Burrito Craft là sự kết hợp độc đáo giữa Minecraft với sự bổ sung của các nhân vật quen thuộc từ Five Nights at Winstons. Với lối chơi xây dựng và sáng tạo, thế giới sandbox đặc trưng chào đón bạn với những trải nghiệm vô tận. Không có giới hạn cho những khám phá và sáng tạo của bạn.",
+      "whatIsDescription": "Burrito Craft cung cấp một thế giới sandbox vô tận nơi bạn có thể là người nông dân, nhà thám hiểm hoặc kiến trúc sư. Lấy cảm hứng từ Minecraft, biến giấc mơ của bạn thành hiện thực trong Burrito Craft!",
       "howToPlayTitle": "Cách chơi",
-      "howToPlayStep1": "Di chuyển chuột để nhìn xung quanh và sử dụng các phím mũi tên để di chuyển.",
-      "howToPlayStep2": "Nhấn chuột trái để phá vỡ khối và nhấn chuột phải để thêm vật phẩm hoặc đối tượng.",
-      "howToPlayStep3": "Nhấn phím E để mở ngăn chứa đồ và chọn các vật phẩm để sử dụng.",
+      "howToPlayStep1": "Khám phá thế giới khối và thu thập tài nguyên.",
+      "howToPlayStep2": "Sáng tạo công cụ và xây dựng cấu trúc để tồn tại.",
+      "howToPlayStep3": "Thử thách một mình hoặc cùng bạn bè trong chế độ nhiều người chơi.",
       "keyFeaturesTitle": "Các tính năng chính",
-      "feature1Title": "Xây dựng sáng tạo",
-      "feature1Description": "Tự do thể hiện sự sáng tạo của bạn trong thế giới khối này.",
-      "feature2Title": "Lối chơi sinh tồn",
-      "feature2Description": "Bảo vệ lãnh thổ trong game của bạn trong cuộc chiến sinh tồn.",
-      "feature3Title": "Các vật liệu đa dạng",
-      "feature3Description": "Sử dụng nhiều loại vật liệu để tạo ra các dự án với cấu trúc khác nhau.",
-      "feature4Title": "Các chế độ chơi game độc đáo",
-      "feature4Description": "Chọn từ chế độ sáng tạo hoặc sinh tồn để có những hành trình độc đáo."
+      "feature1Title": "Sự sáng tạo vô hạn",
+      "feature1Description": "Thử nghiệm với những công trình điên rồ và biến trí tưởng tượng của bạn thành hiện thực.",
+      "feature2Title": "Gameplay cổ điển",
+      "feature2Description": "Thưởng thức các tính năng lên đến phiên bản 1.5.2 của Minecraft gốc.",
+      "feature3Title": "Chế độ nhiều người chơi",
+      "feature3Description": "Làm việc cùng nhau với những người khác để chinh phục thế giới khối.",
+      "feature4Title": "Những cuộc phiêu lưu vô tận",
+      "feature4Description": "Trở thành nông dân, nhà thám hiểm hoặc bất kỳ điều gì bạn muốn."
     },
     "HomeFAQs": {
       "title": "Câu hỏi thường gặp"
@@ -57,15 +57,15 @@
       "title": "Video trò chơi"
     },
     "HomeRecommendation": {
-      "title": "Đề xuất"
+      "title": "Khuyến nghị"
     },
     "HomeComments": {
       "title": "Bình luận trò chơi"
     },
     "GamePage": {
-      "title": "Tất cả các trò chơi",
-      "description": "Tất cả các trò chơi",
-      "games": "Các trò chơi"
+      "title": "Tất cả trò chơi",
+      "description": "Khám phá tất cả trò chơi",
+      "games": "Trò chơi"
     },
     "CategoryPage": {
       "categories": "Các danh mục",

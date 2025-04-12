@@ -1,10 +1,10 @@
 {
   "burrito-craft": {
-    "title": "Burrito Craft: Bauen, Erkunden und Erschaffen Sie Ihre Blockwelt",
-    "slogan": "Schmieden Sie Ihren Weg in einem einzigartigen Sandbox-Abenteuer",
-    "description": "In Burrito Craft ist die Blockwelt Ihre Leinwand. Bauen, erkunden oder entspannen – die Wahl liegt bei Ihnen! Beginnen Sie mit einfachen Projekten und bauen Sie nach und nach Ihr eigenes Imperium. Wählen Sie aus bekannten Charakteren und tauchen Sie ein in ein kreatives oder Überlebens-Gameplay. Burrito Craft bietet unzählige Möglichkeiten für Entdeckung und Kreation. Beginnen Sie noch heute Ihr Abenteuer!",
+    "title": "Spielen Sie Burrito Craft Online – kostenloser Minecraft-inspirierter Sandbox!",
+    "slogan": "Gestalten Sie Ihre Welt in Burrito Craft!",
+    "description": "Tauchen Sie ein in Burrito Craft, ein Sandbox-Abenteuer, inspiriert von Minecraft 1.5.2! Entdecken Sie grenzenlose Möglichkeiten, vom Bauernhof bis hin zu aufregenden Bauten. Spielen Sie jetzt kostenlos Burrito Craft online! Genießen Sie Burrito Craft!",
     "Loading": {
-      "title": "Wird geladen..."
+      "title": "Lädt Burrito Craft..."
     },
     "Navbar": {
       "title": "Navigation"
@@ -17,38 +17,38 @@
       "text": "Inhalt",
       "help": "Hilfe",
       "friendlyLinks": "Freundliche Links",
-      "articleList": "Artikelübersicht",
+      "articleList": "Artikelverzeichnis",
       "home": "Startseite",
       "next": "Weiter",
       "previous": "Zurück"
     },
     "HomeIframe": {
-      "title": "Burrito Craft: Bauen und erkunden Sie Ihre Welt",
-      "description": "In Burrito Craft ist die Blockwelt Ihre Leinwand. Bauen, erkunden oder entspannen – die Wahl liegt bei Ihnen! Beginnen Sie mit einfachen Projekten und bauen Sie nach und nach Ihr eigenes Imperium. Wählen Sie aus bekannten Charakteren und tauchen Sie ein in ein kreatives oder Überlebens-Gameplay. Burrito Craft bietet unzählige Möglichkeiten für Entdeckung und Kreation. Beginnen Sie noch heute Ihr Abenteuer!",
+      "title": "Burrito Craft™",
+      "description": "Erleben Sie die Freiheit einer Sandbox-Welt in Burrito Craft. Bauen, erkunden und erschaffen Sie ohne Grenzen!",
       "iframeTitle": "Vorschau des Spiels",
       "fullscreenButton": "Vollbild",
       "shareButton": "Teilen",
       "urlCopied": "URL in die Zwischenablage kopiert!",
       "downloadGame": "Spiel herunterladen",
-      "playGame": "Spiel spielen"
+      "playGame": "Spiel starten"
     },
     "HomeFeatures": {
-      "gameTitle": "Burrito Craft: Bauen, Erkunden und Erschaffen",
+      "gameTitle": "Burrito Craft: Ihr Sandbox-Abenteuer",
       "whatIsTitle": "Was ist Burrito Craft?",
-      "whatIsDescription": "Burrito Craft ist eine einzigartige Kombination aus Minecraft mit der Hinzufügung bekannter Charaktere aus Five Nights at Winstons. Mit konstruktivem und kreativem Gameplay heißt Sie die Sandbox-Welt mit endlosen Erfahrungen willkommen. Ihren Entdeckungen und Kreationen sind keine Grenzen gesetzt.",
+      "whatIsDescription": "Burrito Craft bietet eine grenzenlose Sandbox-Welt, in der Sie Bauer, Abenteurer oder Architekt sein können. Lassen Sie Ihre Träume in Burrito Craft Wirklichkeit werden, inspiriert von Minecraft!",
       "howToPlayTitle": "So spielen Sie",
-      "howToPlayStep1": "Bewegen Sie die Maus, um sich umzusehen, und verwenden Sie die Pfeiltasten, um sich zu bewegen.",
-      "howToPlayStep2": "Linksklicken Sie, um einen Block zu zerstören, und Rechtsklicken Sie, um Gegenstände oder Objekte hinzuzufügen.",
-      "howToPlayStep3": "Drücken Sie die E-Taste, um den Inventar zu öffnen und Gegenstände auszuwählen, die Sie verwenden möchten.",
-      "keyFeaturesTitle": "Hauptmerkmale",
-      "feature1Title": "Kreatives Bauen",
-      "feature1Description": "Drücken Sie Ihre Kreativität in dieser Blockwelt frei.",
-      "feature2Title": "Überlebens-Gameplay",
-      "feature2Description": "Schützen Sie Ihr Spielgebiet in einem Überlebenskampf.",
-      "feature3Title": "Vielfältige Materialien",
-      "feature3Description": "Verwenden Sie eine Vielzahl von Materialien, um Projekte mit unterschiedlichen Strukturen zu erstellen.",
-      "feature4Title": "Einzigartige Spielmodi",
-      "feature4Description": "Wählen Sie zwischen kreativen oder Überlebensmodi für einzigartige Abenteuer."
+      "howToPlayStep1": "Erkunden Sie die Blockwelt und sammeln Sie Ressourcen.",
+      "howToPlayStep2": "Kraftieren Sie Werkzeuge und bauen Sie Strukturen, um zu überleben.",
+      "howToPlayStep3": "Meistern Sie Herausforderungen allein oder mit Freunden im Mehrspielermodus.",
+      "keyFeaturesTitle": "Wichtigste Funktionen",
+      "feature1Title": "Grenzenlose Kreativität",
+      "feature1Description": "Experimentieren Sie mit verrückten Bauten und lassen Sie Ihrer Fantasie freien Lauf.",
+      "feature2Title": "Klassisches Gameplay",
+      "feature2Description": "Genießen Sie Funktionen bis zur Version 1.5.2 des ursprünglichen Minecraft.",
+      "feature3Title": "Mehrspielermodus",
+      "feature3Description": "Zusammenarbeiten Sie mit anderen, um die Blockwelt zu meistern.",
+      "feature4Title": "Endlose Abenteuer",
+      "feature4Description": "Werden Sie Bauer, Abenteurer oder einfach das, was Sie sein möchten."
     },
     "HomeFAQs": {
       "title": "FAQ"
@@ -64,7 +64,7 @@
     },
     "GamePage": {
       "title": "Alle Spiele",
-      "description": "Alle Spiele",
+      "description": "Erkunden Sie alle Spiele",
       "games": "Spiele"
     },
     "CategoryPage": {

@@ -1,30 +1,30 @@
 {
   "burrito-craft": {
-    "title": "버리토 크래프트: 탐험하고 만드는 블록 월드",
-    "slogan": "독특한 샌드박스 모험에서 당신의 길을 개척하세요",
-    "description": "버리토 크래프트에서, 블록으로 이루어진 세계가 당신의 캔버스입니다. 건설하든, 탐험하든, 또는 편안하게 즐기든 선택은 당신의 몫입니다! 간단한 프로젝트로 시작하여 점차 당신만의 제국을 건설하세요. 친숙한 캐릭터들 중에서 선택하고, 창의적인 게임 또는 생존 게임에 뛰어들세요. 버리토 크래프트는 끝없는 발견과 창조의 가능성을 제공합니다. 오늘 당신의 모험을 시작하세요!",
+    "title": "버리고 탐험하세요 - 무료 마인크래프트 샌드박스!",
+    "slogan": "버리고 크리에이트하세요!",
+    "description": "마인크래프트 1.5.2에서 영감을 받은 샌드박스 모험, 버리고 탐험하세요! 농업에서 짜릿한 건축물까지 무한한 가능성을 탐험하세요. 지금 바로 버리고 무료로 플레이하세요! 버리고 즐겨보세요!",
     "Loading": {
-      "title": "불러오는 중..."
+      "title": "버리고 로딩 중..."
     },
     "Navbar": {
-      "title": "탐색 메뉴"
+      "title": "탐색"
     },
     "Common": {
       "createAt": "생성일",
       "guide": "가이드",
       "privacyPolicy": "개인정보 보호정책",
       "termsOfServices": "서비스 약관",
-      "text": "콘텐츠",
+      "text": "내용",
       "help": "도움말",
-      "friendlyLinks": "친선 링크",
+      "friendlyLinks": "친구 링크",
       "articleList": "기사 목록",
       "home": "홈",
       "next": "다음",
       "previous": "이전"
     },
     "HomeIframe": {
-      "title": "버리토 크래프트: 당신만의 세계를 건설하고 탐험하세요",
-      "description": "버리토 크래프트에서, 블록으로 이루어진 세계가 당신의 캔버스입니다. 건설하든, 탐험하든, 또는 편안하게 즐기든 선택은 당신의 몫입니다! 간단한 프로젝트로 시작하여 점차 당신만의 제국을 건설하세요. 친숙한 캐릭터들 중에서 선택하고, 창의적인 게임 또는 생존 게임에 뛰어들세요. 버리토 크래프트는 끝없는 발견과 창조의 가능성을 제공합니다. 오늘 당신의 모험을 시작하세요!",
+      "title": "버리고™",
+      "description": "버리고에서 샌드박스 세계의 자유를 경험하세요. 제한 없이 건설하고 탐험하고 창조하세요!",
       "iframeTitle": "게임 미리보기",
       "fullscreenButton": "전체 화면",
       "shareButton": "공유",
@@ -33,22 +33,22 @@
       "playGame": "게임 플레이"
     },
     "HomeFeatures": {
-      "gameTitle": "버리토 크래프트: 건설, 탐험, 그리고 창조",
-      "whatIsTitle": "버리토 크래프트는 무엇인가요?",
-      "whatIsDescription": "버리토 크래프트는 마인크래프트의 독특한 조합으로, 윈스턴의 다섯밤에서 친숙한 캐릭터들을 추가했습니다.  건설적이고 창의적인 게임플레이로, 독특한 샌드박스 세계는 끝없는 경험을 제공합니다. 당신의 발견과 창조는 제한이 없습니다.",
+      "gameTitle": "버리고: 당신의 샌드박스 모험",
+      "whatIsTitle": "버리고는 무엇인가요?",
+      "whatIsDescription": "버리고는 농부, 모험가 또는 건축가가 될 수 있는 무한한 샌드박스 세계를 제공합니다. 마인크래프트에서 영감을 받아 버리고에서 당신의 꿈을 현실로 만들어보세요!",
       "howToPlayTitle": "게임 방법",
-      "howToPlayStep1": "마우스를 움직여 주변을 살펴보고 화살표 키로 이동하세요.",
-      "howToPlayStep2": "왼쪽 클릭으로 블록을 부수고 오른쪽 클릭으로 아이템이나 물체를 추가하세요.",
-      "howToPlayStep3": "E 키를 눌러 인벤토리를 열고 사용할 아이템을 선택하세요.",
+      "howToPlayStep1": "블록 세계를 탐험하고 자원을 수집하세요.",
+      "howToPlayStep2": "도구를 제작하고 생존을 위한 구조물을 건설하세요.",
+      "howToPlayStep3": "멀티플레이어 모드에서 친구들과 함께 도전을 극복하세요.",
       "keyFeaturesTitle": "주요 기능",
-      "feature1Title": "창의력 넘치는 건축",
-      "feature1Description": "이 블록 세계에서 자유롭게 당신의 창의력을 표현하세요.",
-      "feature2Title": "생존 게임플레이",
-      "feature2Description": "생존 경쟁에서 당신의 게임 내 영토를 지키세요.",
-      "feature3Title": "다양한 재료",
-      "feature3Description": "다양한 재료를 사용하여 서로 다른 구조물을 가진 프로젝트를 만드세요.",
-      "feature4Title": "고유한 게임 모드",
-      "feature4Description": "창의적 또는 생존 모드 중에서 고유한 여정을 선택하세요."
+      "feature1Title": "무한한 창의성",
+      "feature1Description": "미친 건축물로 실험하고 상상력을 현실로 만들어보세요.",
+      "feature2Title": "클래식 게임 플레이",
+      "feature2Description": "원본 마인크래프트 버전 1.5.2까지의 기능을 즐겨보세요.",
+      "feature3Title": "멀티플레이어 모드",
+      "feature3Description": "다른 사람들과 협력하여 블록 세계를 정복하세요.",
+      "feature4Title": "끊임없는 모험",
+      "feature4Description": "농부, 모험가 또는 원하는 것이 무엇이든 되어보세요."
     },
     "HomeFAQs": {
       "title": "자주 묻는 질문"
@@ -57,15 +57,15 @@
       "title": "게임 영상"
     },
     "HomeRecommendation": {
-      "title": "추천 게임"
+      "title": "추천"
     },
     "HomeComments": {
-      "title": "게임 댓글"
+      "title": "게임 코멘트"
     },
     "GamePage": {
       "title": "모든 게임",
-      "description": "모든 게임",
-      "games": "게임 목록"
+      "description": "모든 게임을 탐험하세요",
+      "games": "게임들"
     },
     "CategoryPage": {
       "categories": "카테고리",

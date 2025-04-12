@@ -1,0 +1,77 @@
+{
+  "farm-family": {
+    "title": "Juega a Farm Family en línea gratis",
+    "slogan": "",
+    "description": "Construye y administra tu propia granja virtual en Farm Family. Cultiva cultivos, cría animales y vende productos para expandir tu granja. ¡Juega a Farm Family hoy y disfruta de la simulación de granja!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Farm Family",
+      "description": "Farm Family es un cautivador juego de simulación de granja que te permite construir y administrar tu propia granja.",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Farm Family",
+      "whatIsTitle": "¿Qué es Farm Family?",
+      "whatIsDescription": "Farm Family es un juego de simulación de granja en el que cultivas cultivos, crías animales y gestionas tu granja para progresar.",
+      "howToPlayTitle": "¿Cómo jugar?",
+      "howToPlayStep1": "Cultiva cultivos y recolecta la cosecha.",
+      "howToPlayStep2": "Cría animales y recoge sus productos.",
+      "howToPlayStep3": "Vende tus productos en el mercado para ganar dinero y expandir tu Farm Family.",
+      "keyFeaturesTitle": "Características principales",
+      "feature1Title": "Administra tu granja",
+      "feature1Description": "Construye y administra tu granja para hacerla prosperar.",
+      "feature2Title": "Cultiva cultivos",
+      "feature2Description": "Planta y cosecha diversos cultivos.",
+      "feature3Title": "Cría animales",
+      "feature3Description": "Cuida de los animales y recoge sus productos.",
+      "feature4Title": "Expande tu Farm Family",
+      "feature4Description": "Usa tus ganancias para comprar nuevos recursos y mejorar los edificios de tu granja."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

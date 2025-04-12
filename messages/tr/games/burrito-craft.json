@@ -1,10 +1,10 @@
 {
   "burrito-craft": {
-    "title": "Burrito Craft: Blok Dünyanızı Oluşturun, Keşfedin ve Yaratın",
-    "slogan": "Benzersiz Bir Kum Kutusu Macerasında Yolunuzu Bulun",
-    "description": "Burrito Craft'ta, blok dünyası sizin tuvalinizdir. İnşa edin, keşfedin veya rahatlayın - seçim sizin! Basit projelerden başlayarak kendi imparatorluğunuzu kademeli olarak inşa edin. Bilindik karakterlerden seçim yapın ve yaratıcı veya hayatta kalma oyun tarzlarına dalın. Burrito Craft, keşif ve yaratıcılık için sonsuz olanaklar sunar. Bugün maceranıza başlayın!",
+    "title": "Çevrimiçi Burrito Craft Oyununu Oyna - Ücretsiz Minecraft İlham Veren Kum Kutusu!",
+    "slogan": "Burrito Craft'ta Dünyanızı Oluşturun!",
+    "description": "Minecraft 1.5.2'den ilham alan bir kum kutusu macerasına Burrito Craft'ta dalın! Çiftçilikten heyecan verici yapılandırmalara kadar sınırsız olasılıkları keşfedin. Şimdi çevrimiçi ücretsiz Burrito Craft oyununu oynayın! Burrito Craft'tan keyif alın!",
     "Loading": {
-      "title": "Yükleniyor..."
+      "title": "Burrito Craft Yükleniyor..."
     },
     "Navbar": {
       "title": "Gezinti"
@@ -23,8 +23,8 @@
       "previous": "Önceki"
     },
     "HomeIframe": {
-      "title": "Burrito Craft: Dünyanızı İnşa Edin ve Keşfedin",
-      "description": "Burrito Craft'ta, blok dünyası sizin tuvalinizdir. İnşa edin, keşfedin veya rahatlayın - seçim sizin! Basit projelerden başlayarak kendi imparatorluğunuzu kademeli olarak inşa edin. Bilindik karakterlerden seçim yapın ve yaratıcı veya hayatta kalma oyun tarzlarına dalın. Burrito Craft, keşif ve yaratıcılık için sonsuz olanaklar sunar. Bugün maceranıza başlayın!",
+      "title": "Burrito Craft™",
+      "description": "Burrito Craft'ta bir kum kutusu dünyasının özgürlüğünü yaşayın. Sınırsız olarak inşa edin, keşfedin ve yaratın!",
       "iframeTitle": "Oyun Önizlemesi",
       "fullscreenButton": "Tam Ekran",
       "shareButton": "Paylaş",
@@ -33,22 +33,22 @@
       "playGame": "Oyunu Oyna"
     },
     "HomeFeatures": {
-      "gameTitle": "Burrito Craft: İnşa Edin, Keşfedin ve Yaratın",
+      "gameTitle": "Burrito Craft: Kum Kutusu Maceranız",
       "whatIsTitle": "Burrito Craft Nedir?",
-      "whatIsDescription": "Burrito Craft, Minecraft'ın benzersiz bir kombinasyonudur ve Five Nights at Winstons'tan tanıdık karakterler eklenmiştir. Yapıcı ve yaratıcı oyun tarzıyla, imza kum kutusu dünyası size sonsuz deneyimler sunmaktadır. Keşifleriniz ve yaratımlarınız için sınır yoktur.",
+      "whatIsDescription": "Burrito Craft, çiftçi, maceracı veya mimar olabilirsiniz; sonsuz bir kum kutusu dünyası sunar. Minecraft'tan ilham alarak Burrito Craft'ta hayallerinizi gerçekleştirin!",
       "howToPlayTitle": "Nasıl Oynanır",
-      "howToPlayStep1": "Etrafı görmek için fareyi hareket ettirin ve hareket etmek için ok tuşlarını kullanın.",
-      "howToPlayStep2": "Bir bloğu kırmak için sol tıklayın ve öğeler veya nesneler eklemek için sağ tıklayın.",
-      "howToPlayStep3": "Envanteri açmak ve kullanılacak öğeleri seçmek için E tuşuna basın.",
-      "keyFeaturesTitle": "Temel Özellikler",
-      "feature1Title": "Yaratıcı İnşa",
-      "feature1Description": "Bu blok dünyasında yaratıcılığınızı özgürce ifade edin.",
-      "feature2Title": "Hayatta Kalma Oyun Tarzı",
-      "feature2Description": "Hayatta kalma savaşında oyun içi bölgenizi koruyun.",
-      "feature3Title": "Çeşitli Malzemeler",
-      "feature3Description": "Farklı yapıya sahip projeler oluşturmak için çeşitli malzemeler kullanın.",
-      "feature4Title": "Eşsiz Oyun Modları",
-      "feature4Description": "Eşsiz yolculuklar için yaratıcı veya hayatta kalma modlarından seçim yapın."
+      "howToPlayStep1": "Bloklu dünyayı keşfedin ve kaynakları toplayın.",
+      "howToPlayStep2": "Hayatta kalmak için araçları üretin ve yapılar inşa edin.",
+      "howToPlayStep3": "Çok oyunculu modda tek başınıza veya arkadaşlarınızla zorlukları yenin.",
+      "keyFeaturesTitle": "Ana Özellikler",
+      "feature1Title": "Sınırsız Yaratıcılık",
+      "feature1Description": "Çılgın yapılarla deney yapın ve hayal gücünüzü hayata geçirin.",
+      "feature2Title": "Klasik Oyun",
+      "feature2Description": "Orijinal Minecraft'ın 1.5.2 sürümüne kadar özelliklerinden zevk alın.",
+      "feature3Title": "Çok Oyunculu Mod",
+      "feature3Description": "Bloklu dünyayı fethetmek için diğer oyuncularla işbirliği yapın.",
+      "feature4Title": "Sonsuz Maceralar",
+      "feature4Description": "Çiftçi, maceracı veya olmak istediğiniz herhangi bir şey olun."
     },
     "HomeFAQs": {
       "title": "SSS"
@@ -57,14 +57,14 @@
       "title": "Oyun Videosu"
     },
     "HomeRecommendation": {
-      "title": "Tavsiyeler"
+      "title": "Tavsiye"
     },
     "HomeComments": {
       "title": "Oyun Yorumları"
     },
     "GamePage": {
       "title": "Tüm Oyunlar",
-      "description": "Tüm Oyunlar",
+      "description": "Tüm Oyunları Keşfedin",
       "games": "Oyunlar"
     },
     "CategoryPage": {

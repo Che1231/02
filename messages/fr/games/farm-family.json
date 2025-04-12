@@ -1,0 +1,77 @@
+{
+  "farm-family": {
+    "title": "Jouer à Farm Family en ligne gratuitement",
+    "slogan": "",
+    "description": "Construisez et gérez votre propre ferme virtuelle dans Farm Family ! Cultivez des cultures, élevez des animaux et vendez des produits pour agrandir votre ferme. Jouez à Farm Family aujourd'hui et profitez de la simulation agricole !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens utiles",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Farm Family",
+      "description": "Farm Family est un jeu de simulation agricole captivant qui vous permet de construire et de gérer votre propre ferme.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer au jeu"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Farm Family",
+      "whatIsTitle": "Qu'est-ce que Farm Family ?",
+      "whatIsDescription": "Farm Family est un jeu de simulation agricole où vous cultivez des cultures, élevez des animaux et gérez votre ferme pour progresser.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Cultivez des cultures et récoltez-les.",
+      "howToPlayStep2": "Élevez des animaux et collectez leurs produits.",
+      "howToPlayStep3": "Vendez vos produits au marché pour gagner de l'argent et agrandir votre ferme.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Gérer votre ferme",
+      "feature1Description": "Construisez et gérez votre ferme pour la faire prospérer.",
+      "feature2Title": "Cultiver des cultures",
+      "feature2Description": "Plantez et récoltez diverses cultures.",
+      "feature3Title": "Élever des animaux",
+      "feature3Description": "Prenez soin des animaux et collectez leurs produits.",
+      "feature4Title": "Développer votre ferme",
+      "feature4Description": "Utilisez vos gains pour acheter de nouvelles ressources et améliorer les bâtiments de votre ferme."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

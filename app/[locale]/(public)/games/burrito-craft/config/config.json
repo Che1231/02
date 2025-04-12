@@ -50,23 +50,17 @@
   "isShowRecommendation": true,
   "isShowRightGames": true,
   "customizeFeatures": true,
-  "message": "待处理",
-  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743310294881-4bnc3d.png",
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-12/images/1744449785226-7xhvs.jpg",
   "page_path": "/games/burrito-craft",
   "override_page_path": true,
-  "auto_deploy": false,
+  "auto_deploy": true,
   "enablePromotion": false,
+  "templateId": "features_1",
   "color_scheme_id": "default",
   "is_sub_game": true,
   "include_available_games": true,
-  "gameTaskRecordId": "cm8sfuw9j0146lywlcu44nr4x",
-  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
-  "status": "PENDING",
-  "updatedAt": "2025-03-28T07:05:57.462Z",
-  "projectId": "cm8sb0yv100wllywlvh5jkuxi",
-  "createdTime": "2025-03-28 15:05:57",
   "categories": [
     "Adventure"
   ],
-  "userInputText": ""
+  "createdTime": "2025-04-12 17:23:00"
 }

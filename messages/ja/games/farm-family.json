@@ -1,0 +1,77 @@
+{
+  "farm-family": {
+    "title": "無料のFarm Familyオンラインゲームをプレイ",
+    "slogan": "",
+    "description": "Farm Familyで自分の仮想農場を構築し、管理しましょう！作物を栽培し、動物を育て、農産物を販売して農場を拡大しましょう。今日からFarm Familyをプレイして農場シミュレーションを楽しんでください！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "Farm Family",
+      "description": "Farm Familyは、あなた自身の農場を構築して管理できる魅力的な農場シミュレーションゲームです。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Farm Family",
+      "whatIsTitle": "Farm Familyとは？",
+      "whatIsDescription": "Farm Familyは、作物を栽培し、動物を飼い、農場を管理して進歩していく農場シミュレーションゲームです。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "作物を栽培して収穫しましょう。",
+      "howToPlayStep2": "動物を飼い、その製品を集めましょう。",
+      "howToPlayStep3": "市場で製品を売って収入を得て、Farm Familyを拡大しましょう。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "あなたの農場を管理する",
+      "feature1Description": "あなたの農場を繁栄させるために構築し、管理しましょう。",
+      "feature2Title": "作物を栽培する",
+      "feature2Description": "様々な作物を植え、収穫しましょう。",
+      "feature3Title": "動物を飼う",
+      "feature3Description": "動物の世話をし、その製品を集めましょう。",
+      "feature4Title": "あなたのFarm Familyを拡大する",
+      "feature4Description": "あなたの収入を使って新しい資源を購入し、農場の建物を改善しましょう。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイに関するコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}
