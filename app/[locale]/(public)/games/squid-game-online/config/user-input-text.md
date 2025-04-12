@@ -1,1 +1,0 @@
-Squid Game Online is a free multiplayer survival game. Compete in 7 minigames with 30 players based on the viral Netflix show Squid Game. If you fail any of the challenges, you will be eliminated by the Pink Soldiers.

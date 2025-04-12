@@ -1,1 +1,0 @@
-Stickman Destruction 3 Heroes is a ragdoll physics action game. Crash the stickman into obstacles, send him tumbling down staircases and through walls into oblivious bystanders. Cause as much destruction as possible to earn the most gold!
