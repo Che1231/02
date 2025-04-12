@@ -1,0 +1,120 @@
+{
+  "name": "Happy Room",
+  "pagePath": "/games/happy-room",
+  "pageName": "happy-room",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://gamesonline86.github.io/happy-room/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingPhoenix87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix87.png",
+      "content": "OMG this game is insane! Who'd thought dummy insurance testing could get so intense?! Happy Room is so much fun!"
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "I can't believe how brutal it gets in here, every trap kills those clones in the most satisfying way. Happy Room is seriously wild."
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "The futuristic weapons are so cool, makes me feel like a super villain! But man, the vacuum sealed room makes it super eerie."
+    },
+    {
+      "author": "NeonLeviathan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonLeviathan99.png",
+      "content": "This game is a blast! I mean what more can you ask from a place where you lay down some traps and watch them explode with the latest tech."
+    },
+    {
+      "author": "CosmicBroadsword_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicBroadsword_X.png",
+      "content": "Had a hilarious moment watching dummies get shredded into pieces by my setup. Man, Happy Room really knows how to bring the laughs!"
+    },
+    {
+      "author": "PhantomKatana42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomKatana42.png",
+      "content": "I'm addicted to this game. Laying out traps and seeing those clones get demolished? Absolutely thrilling."
+    },
+    {
+      "author": "Revolver_Phoenix",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Revolver_Phoenix.png",
+      "content": "The tension building up before the clone meets its end is unreal. Great design in that vacuum sealed room adds to the thrill factor. Must play!"
+    },
+    {
+      "author": "SavageBlade_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBlade_X.png",
+      "content": "This setup is pure chaos, and I love it! The new weapons technology definitely ups the game. Happy Room delivers some real action!"
+    },
+    {
+      "author": "LeviathanNeon",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LeviathanNeon.png",
+      "content": "Happy Room is unexpectedly thrilling! Each hit makes me want to set more traps and see those clones get crushed by the future tech."
+    },
+    {
+      "author": "Kraken_Broadsword",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Kraken_Broadsword.png",
+      "content": "What a trip, laying down traps and seeing them go off with maximum impact. The futuristic tech is mind blowing!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-12/images/1744451032457-5lqxmf.jpg",
+  "page_path": "/games/happy-room",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Action"
+  ],
+  "createdTime": "2025-04-12 17:43:50"
+}
