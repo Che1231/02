@@ -1,0 +1,77 @@
+{
+  "baldi-s-school": {
+    "title": "¡Juega a la Escuela de Baldi en línea gratis! Juego de terror y humor",
+    "slogan": "¡Experimenta la extraña mezcla de terror y humor en la Escuela de Baldi!",
+    "description": "¿Puedes recopilar los 7 cuadernos de la Escuela de Baldi sin que te atrapen? Explora el juego de terror y humor. ¡Juega a la Escuela de Baldi en línea gratis ahora! ¡Te esperan desafíos!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Menú"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces recomendados",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Jugar a la Escuela de Baldi",
+      "description": "¡Inspirado en el software educativo de los años 90, la Escuela de Baldi combina terror y humor! ¡Recoge los cuadernos y evita al profesor Baldi!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Escuela de Baldi",
+      "whatIsTitle": "¿Qué es la Escuela de Baldi?",
+      "whatIsDescription": "¡Aunque está inspirado en el mal software educativo de los años 90, Baldi's Basics no es un juego educativo, sino un extraño título que mezcla el terror y el humor!",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Explora la escuela para encontrar los cuadernos.",
+      "howToPlayStep2": "Resuelve los problemas a los que te enfrentarás.",
+      "howToPlayStep3": "¡No dejes que Baldi te atrape!",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Explorar",
+      "feature1Description": "Explora la escuela para encontrar los cuadernos",
+      "feature2Title": "Resolver",
+      "feature2Description": "Intenta resolver los problemas a los que te enfrentarás.",
+      "feature3Title": "Memorizar",
+      "feature3Description": "Tendrás que memorizar los planos de la escuela",
+      "feature4Title": "Huir",
+      "feature4Description": "¡Siempre mantente alerta y huye para no encontrártelo!"
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

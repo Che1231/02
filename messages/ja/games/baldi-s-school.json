@@ -1,0 +1,77 @@
+{
+  "baldi-s-school": {
+    "title": "無料オンラインでバルディの学校をプレイ！ ホラーとユーモアのゲーム",
+    "slogan": "バルディの学校で、奇妙なホラーとユーモアの融合を体験してください！",
+    "description": "バルディの学校で7つのノート全てを集めることはできますか？ホラーとユーモアが入り混じったゲームを探索しましょう。今すぐバルディの学校を無料オンラインでプレイ！挑戦が待っています！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "バルディの学校をプレイ",
+      "description": "90年代の教育ソフトウェアからインスピレーションを得たバルディの学校は、ホラーとユーモアを組み合わせます。ノートを集め、教授バルディから逃れましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "フルスクリーン",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "バルディの学校",
+      "whatIsTitle": "バルディの学校とは？",
+      "whatIsDescription": "90年代の悪い教育ソフトウェアからインスピレーションを受けているにも関わらず、バルディの基本は教育ゲームではなく、奇妙なタイトルでホラーとユーモアが混ざっています！",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "学校を探検してノートを見つけます。",
+      "howToPlayStep2": "遭遇する問題を解決してください。",
+      "howToPlayStep3": "バルディに捕まらないようにしましょう！",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "探検",
+      "feature1Description": "学校を探検してノートを見つけます",
+      "feature2Title": "解決",
+      "feature2Description": "遭遇する問題を解決してみてください。",
+      "feature3Title": "記憶",
+      "feature3Description": "学校図を暗記する必要があります。",
+      "feature4Title": "逃げる",
+      "feature4Description": "常に警戒し、彼に会うことがないように逃げる！"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "コメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}
