@@ -1,10 +1,10 @@
 {
   "bouncemasters": {
-    "title": "Bouncemasters - Gioco Arcade Online Gratuito",
-    "slogan": "Sfreccia nell'inverno con Bouncemasters!",
-    "description": "Benvenuti a Bouncemasters, dove i pinguini eseguono salti pazzi su ghiaccio e neve! Vivi un gioco divertente, raccogli monete e aggiorna il tuo equipaggiamento. Unisciti all'avventura e scopri fino a dove puoi volare!",
+    "title": "Gioca a Bouncemasters Online Gratuitamente - Lancia, Vola e Colleziona!",
+    "slogan": "Lancia il pinguino il più lontano possibile!",
+    "description": "Pronto a lanciare un pinguino? Gioca a Bouncemasters online! Vola nell'aria, schiva gli ostacoli e raccoglie le monete. Vivi il divertimento di Bouncemasters! Gioca a Bouncemasters ora!",
     "Loading": {
-      "title": "Caricamento di Bouncemasters..."
+      "title": "Caricamento..."
     },
     "Navbar": {
       "title": "Navigazione"
@@ -16,15 +16,15 @@
       "termsOfServices": "Termini di servizio",
       "text": "Contenuto",
       "help": "Aiuto",
-      "friendlyLinks": "Collegamenti utili",
+      "friendlyLinks": "Link utili",
       "articleList": "Elenco articoli",
       "home": "Home",
       "next": "Successivo",
       "previous": "Precedente"
     },
     "HomeIframe": {
-      "title": "Bouncemasters - Gioco Arcade Online Gratuito",
-      "description": "Vivi il mondo divertente di Bouncemasters! Aiuta i pinguini a eseguire salti pazzi, raccogli monete e aggiorna il tuo equipaggiamento. Unisciti all'avventura e scopri fino a dove puoi volare!",
+      "title": "Bouncemasters™",
+      "description": "Lancia il pinguino il più lontano possibile! Vola schivando gli ostacoli, raccogli decine di monete e colpisci altri pinguini per volare più in alto! Acquista nuovi oggetti fantastici e divertiti!",
       "iframeTitle": "Anteprima del gioco",
       "fullscreenButton": "Schermo intero",
       "shareButton": "Condividi",
@@ -35,29 +35,29 @@
     "HomeFeatures": {
       "gameTitle": "Bouncemasters",
       "whatIsTitle": "Cos'è Bouncemasters?",
-      "whatIsDescription": "Bouncemasters è un entusiasmante gioco arcade in cui i pinguini eseguono salti pazzi su terreni ghiacciati. Unisciti all'avventura e scopri fino a dove puoi volare!",
+      "whatIsDescription": "Bouncemasters è un gioco emozionante in cui lanci un pinguino e lo aiuti a volare il più lontano possibile colpendo altri pinguini e raccogliendo monete.",
       "howToPlayTitle": "Come giocare",
-      "howToPlayStep1": "Tocca lo schermo al momento giusto per colpire l'asta e far volare il pinguino.",
-      "howToPlayStep2": "Controlla il pinguino durante il volo per toccare oggetti come foche o balene per un rimbalzo extra.",
-      "howToPlayStep3": "Evita ghiaccio, rocce e acqua per continuare a volare e raccogli monete per aggiornare il tuo equipaggiamento.",
+      "howToPlayStep1": "Tocca per lanciare il pinguino.",
+      "howToPlayStep2": "Colpisci altri pinguini per volare più in alto e più lontano.",
+      "howToPlayStep3": "Raccogli monete per acquistare potenziamenti e oggetti.",
       "keyFeaturesTitle": "Caratteristiche principali",
-      "feature1Title": "Salti pazzi",
-      "feature1Description": "Aiuta i pinguini a eseguire salti pazzi su terreni ghiacciati.",
-      "feature2Title": "Raccogli monete",
-      "feature2Description": "Raccogli monete e diamanti per aggiornare il tuo equipaggiamento.",
-      "feature3Title": "Avventura",
-      "feature3Description": "Unisciti all'avventura e scopri fino a dove puoi volare!",
-      "feature4Title": "Gameplay divertente",
-      "feature4Description": "Vivi un gameplay divertente con animali familiari."
+      "feature1Title": "Oggetti fantastici",
+      "feature1Description": "Acquista nuovi oggetti fantastici per migliorare la tua esperienza di gioco.",
+      "feature2Title": "Evitare ostacoli",
+      "feature2Description": "Evita gli ostacoli per continuare a volare e raggiungere nuove distanze.",
+      "feature3Title": "Raccogliere monete",
+      "feature3Description": "Raccogli decine di monete durante il tuo volo per acquistare potenziamenti .",
+      "feature4Title": "Colpisci pinguini",
+      "feature4Description": "Colpisci altri pinguini per guadagnare altezza e prolungare il tuo volo."
     },
     "HomeFAQs": {
-      "title": "FAQ"
+      "title": "Domande frequenti"
     },
     "HomeRelatedVideo": {
       "title": "Video del gioco"
     },
     "HomeRecommendation": {
-      "title": "Consigliati"
+      "title": "Consigli"
     },
     "HomeComments": {
       "title": "Commenti sul gioco"
@@ -69,7 +69,7 @@
     },
     "CategoryPage": {
       "categories": "Categorie",
-      "noCategories": "Nessuna categoria trovata",
+      "noCategories": "Categorie non trovate",
       "viewMore": "Visualizza altro",
       "page": "Pagina"
     }

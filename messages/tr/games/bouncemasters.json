@@ -1,19 +1,19 @@
 {
   "bouncemasters": {
-    "title": "Bouncemasters - Ücretsiz Çevrimiçi Arcade Oyunu",
-    "slogan": "Bouncemasters ile kışın içinden hızla geç!",
-    "description": "Penguenlerin buz ve kar üzerinde çılgın sıçramalar yaptığı Bouncemasters'a hoş geldiniz! Eylence dolu oyun deneyimi yaşayın, madeni paralar toplayın ve ekipmanınızı yükseltin. Maceraya katılın ve ne kadar uzağa uçabileceğinizi görün!",
+    "title": "Ücretsiz Oynamak İçin Bouncemasters - Başlat, Uç ve Topla!",
+    "slogan": "Pengueni mümkün olduğunca uzağa fırlatın!",
+    "description": "Bir pengueni fırlatmaya hazır mısınız? Bouncemasters oyununu online oynayın! Havada uçun, engellere sakının ve madeni paraları toplayın. Bouncemasters'ın keyfini çıkarın! Şimdi Bouncemasters oynayın!",
     "Loading": {
-      "title": "Bouncemasters Yükleniyor..."
+      "title": "Yükleniyor..."
     },
     "Navbar": {
-      "title": "Gezinme"
+      "title": "Gezinti"
     },
     "Common": {
       "createAt": "Oluşturulma Tarihi",
-      "guide": "Rehber",
+      "guide": "Yönerge",
       "privacyPolicy": "Gizlilik Politikası",
-      "termsOfServices": "Hizmet Şartları",
+      "termsOfServices": "Hizmet Koşulları",
       "text": "İçerik",
       "help": "Yardım",
       "friendlyLinks": "Dost Bağlantılar",
@@ -23,8 +23,8 @@
       "previous": "Önceki"
     },
     "HomeIframe": {
-      "title": "Bouncemasters - Ücretsiz Çevrimiçi Arcade Oyunu",
-      "description": "Bouncemasters'ın eğlenceli dünyasını deneyimleyin! Penguenlerin çılgın sıçramalara yardımcı olun, madeni paralar toplayın ve ekipmanınızı yükseltin. Maceraya katılın ve ne kadar uzağa uçabileceğinizi görün!",
+      "title": "Bouncemasters™",
+      "description": "Pengueni mümkün olduğunca uzağa fırlatın! Engellere sakınırken uçun, onlarca madeni para toplayın ve diğer penguenlere çarparak daha yükseğe uçun! Yeni çılgın eşyalar satın alın ve eğlenin.",
       "iframeTitle": "Oyun Önizlemesi",
       "fullscreenButton": "Tam Ekran",
       "shareButton": "Paylaş",
@@ -35,20 +35,20 @@
     "HomeFeatures": {
       "gameTitle": "Bouncemasters",
       "whatIsTitle": "Bouncemasters Nedir?",
-      "whatIsDescription": "Bouncemasters, penguenlerin donmuş topraklarda çılgın sıçramalar yaptığı heyecan verici bir arcade oyunudur. Maceraya katılın ve ne kadar uzağa uçabileceğinizi görün!",
+      "whatIsDescription": "Bouncemasters, bir pengueni fırlatıp mümkün olduğunca uzağa uçurmanıza yardımcı olan, diğer penguenlere çarparak ve madeni paralar toplayarak heyecan verici bir oyundur.",
       "howToPlayTitle": "Nasıl Oynanır",
-      "howToPlayStep1": "Pengueni uçurmak için değneği vurmak için doğru zamanda ekranda dokunun.",
-      "howToPlayStep2": "Uçuş sırasında pengueni kontrol edin, foklar veya balinalar gibi nesnelere dokunmak için ekstra sıçrama yapın.",
-      "howToPlayStep3": "Uçmaya devam etmek için buzdan, kayalardan ve sudan kaçının ve ekipmanınızı yükseltmek için madeni paralar toplayın.",
-      "keyFeaturesTitle": "Önemli Özellikler",
-      "feature1Title": "Çılgın Sıçramalar",
-      "feature1Description": "Penguenlerin donmuş topraklarda çılgın sıçramalara yardımcı olun.",
-      "feature2Title": "Madeni Paralar Topla",
-      "feature2Description": "Ekipmanınızı yükseltmek için madeni paralar ve elmaslar toplayın.",
-      "feature3Title": "Macera",
-      "feature3Description": "Maceraya katılın ve ne kadar uzağa uçabileceğinizi görün!",
-      "feature4Title": "Eğlenceli Oyun",
-      "feature4Description": "Tanıdık hayvanlarla eğlenceli oyun deneyimi yaşayın."
+      "howToPlayStep1": "Pengueni fırlatmak için dokunun.",
+      "howToPlayStep2": "Daha yükseğe ve daha uzağa uçmak için diğer penguenlere vurun.",
+      "howToPlayStep3": "Yükseltmeler ve eşyalar satın almak için madeni paraları toplayın.",
+      "keyFeaturesTitle": "Temel Özellikler",
+      "feature1Title": "Çılgın Eşyalar",
+      "feature1Description": "Oyun deneyiminizi geliştirmek için yeni çılgın eşyalar satın alın.",
+      "feature2Title": "Engellere Sakının",
+      "feature2Description": "Uçmaya devam etmek ve yeni mesafelere ulaşmak için engellere dikkat edin.",
+      "feature3Title": "Madeni Paralar Toplayın",
+      "feature3Description": "Yükseltmeler satın almak için uçuşunuz sırasında onlarca madeni para toplayın.",
+      "feature4Title": "Penguenlere Vurun",
+      "feature4Description": "Yükseklik kazanmak ve uçuşunuzu uzatmak için diğer penguenlere vurun."
     },
     "HomeFAQs": {
       "title": "SSS"

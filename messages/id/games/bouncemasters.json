@@ -1,16 +1,16 @@
 {
   "bouncemasters": {
-    "title": "Bouncemasters - Permainan Arcade Online Gratis",
-    "slogan": "Meluncur melintasi musim dingin dengan Bouncemasters!",
-    "description": "Selamat datang di Bouncemasters, tempat penguin melakukan lompatan gila di atas es dan salju! Nikmati gameplay yang menyenangkan, kumpulkan koin, dan tingkatkan peralatan Anda. Bergabunglah dalam petualangan dan lihat seberapa jauh Anda bisa terbang!",
+    "title": "Mainkan Bouncemasters Online Gratis - Luncurkan, Terbang & Kumpulkan!",
+    "slogan": "Luncurkan penguin sejauh mungkin!",
+    "description": "Siap meluncurkan penguin? Mainkan Bouncemasters online! Terbanglah di udara, hindari rintangan, dan kumpulkan koin. Rasakan kesenangan Bouncemasters! Mainkan Bouncemasters sekarang!",
     "Loading": {
-      "title": "Memuat Bouncemasters..."
+      "title": "Memuat..."
     },
     "Navbar": {
       "title": "Navigasi"
     },
     "Common": {
-      "createAt": "Buat Pada",
+      "createAt": "Dibuat Pada",
       "guide": "Panduan",
       "privacyPolicy": "Kebijakan Privasi",
       "termsOfServices": "Ketentuan Layanan",
@@ -23,54 +23,54 @@
       "previous": "Sebelumnya"
     },
     "HomeIframe": {
-      "title": "Bouncemasters - Permainan Arcade Online Gratis",
-      "description": "Rasakan dunia Bouncemasters yang menyenangkan! Bantu penguin melakukan lompatan gila, kumpulkan koin, dan tingkatkan peralatan Anda. Bergabunglah dalam petualangan dan lihat seberapa jauh Anda bisa terbang!",
-      "iframeTitle": "Pratinjau Permainan",
+      "title": "Bouncemasters™",
+      "description": "Luncurkan penguin sejauh mungkin! Terbanglah sambil menghindari rintangan, kumpulkan puluhan koin, dan pukul penguin lain untuk terbang lebih tinggi! Beli item-item gila dan bersenang-senanglah.",
+      "iframeTitle": "Pratinjau Game",
       "fullscreenButton": "Layar Penuh",
       "shareButton": "Bagikan",
       "urlCopied": "URL disalin ke clipboard!",
-      "downloadGame": "Unduh Permainan",
-      "playGame": "Mainkan Permainan"
+      "downloadGame": "Unduh Game",
+      "playGame": "Mainkan Game"
     },
     "HomeFeatures": {
       "gameTitle": "Bouncemasters",
       "whatIsTitle": "Apa itu Bouncemasters?",
-      "whatIsDescription": "Bouncemasters adalah permainan arcade yang menarik di mana penguin melakukan lompatan gila di tanah beku. Bergabunglah dalam petualangan dan lihat seberapa jauh Anda bisa terbang!",
+      "whatIsDescription": "Bouncemasters adalah game seru di mana Anda meluncurkan penguin dan membantunya terbang sejauh mungkin dengan memukul penguin lain dan mengumpulkan koin.",
       "howToPlayTitle": "Cara Bermain",
-      "howToPlayStep1": "Ketuk layar pada waktu yang tepat untuk memukul tongkat dan membuat penguin terbang.",
-      "howToPlayStep2": "Kendalikan penguin selama penerbangan untuk menyentuh benda-benda seperti anjing laut atau paus untuk pantulan tambahan.",
-      "howToPlayStep3": "Hindari es, batu, dan air untuk tetap terbang dan kumpulkan koin untuk meningkatkan peralatan Anda.",
+      "howToPlayStep1": "Ketuk untuk meluncurkan penguin.",
+      "howToPlayStep2": "Pukul penguin lain untuk terbang lebih tinggi dan lebih jauh.",
+      "howToPlayStep3": "Kumpulkan koin untuk membeli peningkatan dan barang.",
       "keyFeaturesTitle": "Fitur Utama",
-      "feature1Title": "Lompatan Gila",
-      "feature1Description": "Bantu penguin melakukan lompatan gila di tanah beku.",
-      "feature2Title": "Kumpulkan Koin",
-      "feature2Description": "Kumpulkan koin dan berlian untuk meningkatkan peralatan Anda.",
-      "feature3Title": "Petualangan",
-      "feature3Description": "Bergabunglah dalam petualangan dan lihat seberapa jauh Anda bisa terbang!",
-      "feature4Title": "Gameplay Menyenangkan",
-      "feature4Description": "Rasakan gameplay yang menyenangkan dengan hewan-hewan yang akrab."
+      "feature1Title": "Barang Gila",
+      "feature1Description": "Beli barang gila baru untuk meningkatkan pengalaman bermain game Anda.",
+      "feature2Title": "Hindari Rintangan",
+      "feature2Description": "Hindari rintangan untuk terus terbang dan mencapai jarak baru.",
+      "feature3Title": "Kumpulkan Koin",
+      "feature3Description": "Kumpulkan puluhan koin selama penerbangan Anda untuk membeli peningkatan.",
+      "feature4Title": "Pukul Penguin",
+      "feature4Description": "Pukul penguin lain untuk mendapatkan ketinggian dan memperpanjang penerbangan Anda."
     },
     "HomeFAQs": {
       "title": "FAQ"
     },
     "HomeRelatedVideo": {
-      "title": "Video Permainan"
+      "title": "Video Game"
     },
     "HomeRecommendation": {
       "title": "Rekomendasi"
     },
     "HomeComments": {
-      "title": "Komentar Permainan"
+      "title": "Komentar Game"
     },
     "GamePage": {
-      "title": "Semua Permainan",
-      "description": "Semua Permainan",
-      "games": "Permainan"
+      "title": "Semua Game",
+      "description": "Semua Game",
+      "games": "Game"
     },
     "CategoryPage": {
       "categories": "Kategori",
       "noCategories": "Tidak ada kategori yang ditemukan",
-      "viewMore": "Lihat Selengkapnya",
+      "viewMore": "Lihat Lebih Banyak",
       "page": "Halaman"
     }
   }

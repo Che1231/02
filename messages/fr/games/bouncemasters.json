@@ -1,10 +1,10 @@
 {
   "bouncemasters": {
-    "title": "Bouncemasters - Jeu d'arcade en ligne gratuit",
-    "slogan": "Parcourez l'hiver avec Bouncemasters !",
-    "description": "Bienvenue dans Bouncemasters, où les manchots effectuent des sauts incroyables sur la glace et la neige ! Vivez des moments de jeu remplis de plaisir, collectionnez des pièces et améliorez votre équipement. Rejoignez l'aventure et voyez jusqu'où vous pouvez voler !",
+    "title": "Jouez à Bouncemasters en ligne gratuitement - Lancez, volez et collectionnez !",
+    "slogan": "Lancez le manchot aussi loin que possible !",
+    "description": "Prêt à lancer un manchot ? Jouez à Bouncemasters en ligne ! Volez dans les airs, esquivez les obstacles et collectionnez des pièces. Vivez le plaisir de Bouncemasters ! Jouez à Bouncemasters dès maintenant !",
     "Loading": {
-      "title": "Chargement de Bouncemasters..."
+      "title": "Chargement…"
     },
     "Navbar": {
       "title": "Navigation"
@@ -23,32 +23,32 @@
       "previous": "Précédent"
     },
     "HomeIframe": {
-      "title": "Bouncemasters - Jeu d'arcade en ligne gratuit",
-      "description": "Découvrez le monde passionnant de Bouncemasters ! Aidez les manchots à effectuer des sauts incroyables, collectionnez des pièces et améliorez votre équipement. Rejoignez l'aventure et voyez jusqu'où vous pouvez voler !",
+      "title": "Bouncemasters™",
+      "description": "Lancez le manchot aussi loin que possible ! Volez en évitant les obstacles, collectionnez des dizaines de pièces et frappez les autres manchots pour gagner de l'altitude ! Achetez de nouveaux articles fous et amusez-vous.",
       "iframeTitle": "Aperçu du jeu",
       "fullscreenButton": "Plein écran",
       "shareButton": "Partager",
-      "urlCopied": "URL copiée dans le presse-papier !",
+      "urlCopied": "URL copiée dans le presse-papiers !",
       "downloadGame": "Télécharger le jeu",
       "playGame": "Jouer"
     },
     "HomeFeatures": {
       "gameTitle": "Bouncemasters",
-      "whatIsTitle": "Qu'est-ce que Bouncemasters ?",
-      "whatIsDescription": "Bouncemasters est un jeu d'arcade passionnant où les manchots effectuent des sauts incroyables sur des terres gelées. Rejoignez l'aventure et voyez jusqu'où vous pouvez voler !",
+      "whatIsTitle": "Qu'est-ce que Bouncemasters ?",
+      "whatIsDescription": "Bouncemasters est un jeu passionnant où vous lancez un manchot et l'aidez à voler aussi loin que possible en frappant d'autres manchots et en collectant des pièces.",
       "howToPlayTitle": "Comment jouer",
-      "howToPlayStep1": "Appuyez sur l'écran au bon moment pour faire bondir le manchot.",
-      "howToPlayStep2": "Contrôlez le manchot pendant le vol pour toucher des objets comme des phoques ou des baleines pour un rebond supplémentaire.",
-      "howToPlayStep3": "Évitez la glace, les rochers et l'eau pour continuer à voler et collectionner des pièces pour améliorer votre équipement.",
+      "howToPlayStep1": "Touchez pour lancer le manchot.",
+      "howToPlayStep2": "Frappez les autres manchots pour voler plus haut et plus loin.",
+      "howToPlayStep3": "Collectionnez des pièces pour acheter des améliorations et des objets.",
       "keyFeaturesTitle": "Caractéristiques principales",
-      "feature1Title": "Sauts incroyables",
-      "feature1Description": "Aidez les manchots à effectuer des sauts incroyables sur les terres gelées.",
-      "feature2Title": "Collectionnez des pièces",
-      "feature2Description": "Collectionnez des pièces et des diamants pour améliorer votre équipement.",
-      "feature3Title": "Aventure",
-      "feature3Description": "Rejoignez l'aventure et voyez jusqu'où vous pouvez voler !",
-      "feature4Title": "Gameplay amusant",
-      "feature4Description": "Découvrez un gameplay divertissant avec des animaux familiers."
+      "feature1Title": "Articles fous",
+      "feature1Description": "Achetez de nouveaux objets fous pour améliorer votre expérience de jeu.",
+      "feature2Title": "Évitez les obstacles",
+      "feature2Description": "Évitez les obstacles pour continuer à voler et atteindre de nouvelles distances.",
+      "feature3Title": "Collectionnez des pièces",
+      "feature3Description": "Ramassez des dizaines de pièces pendant votre vol pour acheter des améliorations.",
+      "feature4Title": "Frappez les manchots",
+      "feature4Description": "Frappez les autres manchots pour gagner de l'altitude et prolonger votre vol."
     },
     "HomeFAQs": {
       "title": "FAQ"
@@ -60,7 +60,7 @@
       "title": "Recommandations"
     },
     "HomeComments": {
-      "title": "Commentaires du jeu"
+      "title": "Commentaires sur le jeu"
     },
     "GamePage": {
       "title": "Tous les jeux",

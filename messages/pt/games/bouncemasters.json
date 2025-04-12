@@ -1,16 +1,16 @@
 {
   "bouncemasters": {
-    "title": "Bouncemasters - Jogo Arcade Online Gratuito",
-    "slogan": "Deslize pelo inverno com Bouncemasters!",
-    "description": "Bem-vindo a Bouncemasters, onde pinguins fazem saltos loucos sobre o gelo e a neve! Experimente o jogo divertido, colecione moedas e melhore o seu equipamento. Junte-se à aventura e veja até onde pode voar!",
+    "title": "Jogue Bouncemasters Online Grátis - Inicie, Voe e Colete!",
+    "slogan": "Lance o pinguim o mais longe possível!",
+    "description": "Pronto para lançar um pinguim? Jogue Bouncemasters online! Voe pelo ar, evite obstáculos e colete moedas. Experimente a diversão de Bouncemasters! Jogue Bouncemasters agora!",
     "Loading": {
-      "title": "Carregando Bouncemasters..."
+      "title": "Carregando..."
     },
     "Navbar": {
       "title": "Navegação"
     },
     "Common": {
-      "createAt": "Criado em",
+      "createAt": "Criar Em",
       "guide": "Guia",
       "privacyPolicy": "Política de Privacidade",
       "termsOfServices": "Termos de Serviço",
@@ -23,9 +23,9 @@
       "previous": "Anterior"
     },
     "HomeIframe": {
-      "title": "Bouncemasters - Jogo Arcade Online Gratuito",
-      "description": "Experimente o mundo divertido de Bouncemasters! Ajude os pinguins a realizar saltos loucos, coletar moedas e melhorar seu equipamento. Junte-se à aventura e veja até onde pode voar!",
-      "iframeTitle": "Visualização do Jogo",
+      "title": "Bouncemasters™",
+      "description": "Lance o pinguim o mais longe possível! Voe enquanto evita obstáculos, colete dezenas de moedas e bata em outros pinguins para voar mais alto! Compre novos itens loucos e divirta-se.",
+      "iframeTitle": "Pré-visualização do Jogo",
       "fullscreenButton": "Tela Cheia",
       "shareButton": "Compartilhar",
       "urlCopied": "URL copiado para a área de transferência!",
@@ -35,20 +35,20 @@
     "HomeFeatures": {
       "gameTitle": "Bouncemasters",
       "whatIsTitle": "O que é Bouncemasters?",
-      "whatIsDescription": "Bouncemasters é um emocionante jogo arcade onde pinguins executam saltos loucos por terras congeladas. Junte-se à aventura e veja até onde pode voar!",
+      "whatIsDescription": "Bouncemasters é um jogo emocionante onde você lança um pinguim e o ajuda a voar o mais longe possível batendo em outros pinguins e coletando moedas.",
       "howToPlayTitle": "Como Jogar",
-      "howToPlayStep1": "Toque na tela no momento certo para bater na vara e fazer o pinguim voar.",
-      "howToPlayStep2": "Controle o pinguim durante o voo para tocar em objetos como focas ou baleias para um salto extra.",
-      "howToPlayStep3": "Evite gelo, rochas e água para continuar voando e colete moedas para melhorar seu equipamento.",
+      "howToPlayStep1": "Toque para lançar o pinguim.",
+      "howToPlayStep2": "Bata em outros pinguins para voar mais alto e mais longe.",
+      "howToPlayStep3": "Colete moedas para comprar atualizações e itens.",
       "keyFeaturesTitle": "Principais Características",
-      "feature1Title": "Saltos Loucos",
-      "feature1Description": "Ajude os pinguins a realizar saltos loucos em terras congeladas.",
-      "feature2Title": "Colecionar Moedas",
-      "feature2Description": "Colete moedas e diamantes para melhorar seu equipamento.",
-      "feature3Title": "Aventura",
-      "feature3Description": "Junte-se à aventura e veja até onde pode voar!",
-      "feature4Title": "Jogabilidade Divertida",
-      "feature4Description": "Experimente uma jogabilidade divertida com animais familiares."
+      "feature1Title": "Itens Loucos",
+      "feature1Description": "Compre novos itens loucos para aprimorar sua experiência de jogo.",
+      "feature2Title": "Evite Obstáculos",
+      "feature2Description": "Evite obstáculos para continuar voando e alcançar novas distâncias.",
+      "feature3Title": "Colete Moedas",
+      "feature3Description": "Reúna dezenas de moedas durante seu voo para comprar atualizações.",
+      "feature4Title": "Bata em Pinguins",
+      "feature4Description": "Bata em outros pinguins para ganhar altura e prolongar seu voo."
     },
     "HomeFAQs": {
       "title": "Perguntas Frequentes"

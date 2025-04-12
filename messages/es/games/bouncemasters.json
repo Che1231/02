@@ -1,76 +1,76 @@
 {
   "bouncemasters": {
-    "title": "Bouncemasters - Juego de Arcade Online Gratuito",
-    "slogan": "¡Atraviesa el invierno con Bouncemasters!",
-    "description": "¡Bienvenido a Bouncemasters, donde los pingüinos realizan saltos locos sobre el hielo y la nieve! Experimenta una jugabilidad llena de diversión, colecciona monedas y mejora tu equipo. Únete a la aventura y ¡mira hasta dónde puedes volar!",
+    "title": "Juega a Bouncemasters en línea gratis: ¡Lanza, vuela y ¡recoge!",
+    "slogan": "¡Lanza al pingüino lo más lejos que puedas!",
+    "description": "¿Listo para lanzar un pingüino? ¡Juega a Bouncemasters en línea! ¡Vuela por los aires, esquiva los obstáculos y recoge monedas! ¡Experimenta la diversión de Bouncemasters! ¡Juega a Bouncemasters ahora!",
     "Loading": {
-      "title": "Cargando Bouncemasters..."
+      "title": "Cargando..."
     },
     "Navbar": {
       "title": "Navegación"
     },
     "Common": {
-      "createAt": "Crear En",
+      "createAt": "Crear en",
       "guide": "Guía",
-      "privacyPolicy": "Política de Privacidad",
-      "termsOfServices": "Términos de Servicio",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Condiciones de servicio",
       "text": "Contenido",
       "help": "Ayuda",
-      "friendlyLinks": "Enlaces Amistosos",
-      "articleList": "Lista de Artículos",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
       "home": "Inicio",
       "next": "Siguiente",
       "previous": "Anterior"
     },
     "HomeIframe": {
-      "title": "Bouncemasters - Juego de Arcade Online Gratuito",
-      "description": "¡Experimenta el divertido mundo de Bouncemasters! Ayuda a los pingüinos a realizar saltos increíbles, colecciona monedas y mejora tu equipo. Únete a la aventura y ¡mira hasta dónde puedes volar!",
-      "iframeTitle": "Vista Previa del Juego",
-      "fullscreenButton": "Pantalla Completa",
+      "title": "Bouncemasters™",
+      "description": "¡Lanza al pingüino lo más lejos posible! ¡Vuela mientras esquivas obstáculos, recolecta docenas de monedas y golpea a otros pingüinos para volar más alto! Compra nuevos artículos locos y diviértete.",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
       "shareButton": "Compartir",
       "urlCopied": "¡URL copiada al portapapeles!",
-      "downloadGame": "Descargar Juego",
+      "downloadGame": "Descargar juego",
       "playGame": "Jugar"
     },
     "HomeFeatures": {
       "gameTitle": "Bouncemasters",
       "whatIsTitle": "¿Qué es Bouncemasters?",
-      "whatIsDescription": "Bouncemasters es un emocionante juego de arcade donde los pingüinos realizan saltos increíbles por tierras congeladas. ¡Únete a la aventura y observa hasta dónde puedes volar!",
-      "howToPlayTitle": "Cómo Jugar",
-      "howToPlayStep1": "Toca la pantalla en el momento adecuado para impulsar al pingüino y que vuele.",
-      "howToPlayStep2": "Controla al pingüino durante el vuelo para que toque objetos como focas o ballenas para un rebote extra.",
-      "howToPlayStep3": "Evita el hielo, las rocas y el agua para mantenerte volando y colecciona monedas para mejorar tu equipo.",
-      "keyFeaturesTitle": "Características Clave",
-      "feature1Title": "Saltos Locura",
-      "feature1Description": "Ayuda a los pingüinos a realizar saltos locas sobre tierras congeladas.",
-      "feature2Title": "Coleccionar Monedas",
-      "feature2Description": "¡Recoge monedas y diamantes para mejorar tu equipo!",
-      "feature3Title": "Aventura",
-      "feature3Description": "¡Únete a la aventura y observa hasta dónde puedes volar!",
-      "feature4Title": "Jugabilidad Divertida",
-      "feature4Description": "Experimenta una jugabilidad divertida con animales familiares."
+      "whatIsDescription": "Bouncemasters es un juego emocionante en el que lanzas un pingüino y lo ayudas a volar lo más lejos posible golpeando a otros pingüinos y recolectando monedas.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Toca para lanzar al pingüino.",
+      "howToPlayStep2": "Golpea a otros pingüinos para volar más alto y más lejos.",
+      "howToPlayStep3": "Recoge monedas para comprar mejoras y artículos.",
+      "keyFeaturesTitle": "Características principales",
+      "feature1Title": "Artículos locos",
+      "feature1Description": "Compra nuevos artículos locos para mejorar tu experiencia de juego.",
+      "feature2Title": "Esquiva obstáculos",
+      "feature2Description": "Evita los obstáculos para seguir volando y alcanzar nuevas distancias.",
+      "feature3Title": "Recoge monedas",
+      "feature3Description": "Recoge docenas de monedas durante tu vuelo para comprar mejoras.",
+      "feature4Title": "Golpea pingüinos",
+      "feature4Description": "Golpea a otros pingüinos para ganar altura y ampliar tu vuelo."
     },
     "HomeFAQs": {
-      "title": "Preguntas Frecuentes"
+      "title": "Preguntas frecuentes"
     },
     "HomeRelatedVideo": {
-      "title": "Video del Juego"
+      "title": "Video del juego"
     },
     "HomeRecommendation": {
       "title": "Recomendaciones"
     },
     "HomeComments": {
-      "title": "Comentarios del Juego"
+      "title": "Comentarios del juego"
     },
     "GamePage": {
-      "title": "Todos los Juegos",
-      "description": "Todos los Juegos",
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
       "games": "Juegos"
     },
     "CategoryPage": {
       "categories": "Categorías",
       "noCategories": "No se encontraron categorías",
-      "viewMore": "Ver Más",
+      "viewMore": "Ver más",
       "page": "Página"
     }
   }

@@ -1,13 +1,13 @@
 {
   "bouncemasters": {
-    "title": "Bouncemasters - Trò chơi điện tử tại chỗ miễn phí",
-    "slogan": "Bật nhảy qua mùa đông với Bouncemasters!",
-    "description": "Chào mừng đến với Bouncemasters, nơi những chú chim cánh cụt thực hiện những cú nhảy điên cuồng trên băng và tuyết! Trải nghiệm trò chơi đầy thú vị, thu thập đồng xu và nâng cấp thiết bị của bạn. Tham gia vào cuộc phiêu lưu và xem bạn có thể bay được bao xa!",
+    "title": "Chơi Bouncemasters Trực tuyến Miễn phí - Bắn, Bay & Thu thập!",
+    "slogan": "Bắn con chim cánh cụt xa nhất có thể!",
+    "description": "Sẵn sàng bắn một con chim cánh cụt? Chơi Bouncemasters trực tuyến! Bay trên không, né chướng ngại vật và thu thập đồng xu. Trải nghiệm niềm vui của Bouncemasters! Chơi Bouncemasters ngay bây giờ!",
     "Loading": {
-      "title": "Đang tải Bouncemasters..."
+      "title": "Đang tải..."
     },
     "Navbar": {
-      "title": "Định vị"
+      "title": "Đường dẫn"
     },
     "Common": {
       "createAt": "Tạo lúc",
@@ -16,39 +16,39 @@
       "termsOfServices": "Điều khoản dịch vụ",
       "text": "Nội dung",
       "help": "Trợ giúp",
-      "friendlyLinks": "Liên kết hữu nghị",
+      "friendlyLinks": "Liên kết hữu ích",
       "articleList": "Danh sách bài viết",
       "home": "Trang chủ",
       "next": "Tiếp theo",
       "previous": "Trước đó"
     },
     "HomeIframe": {
-      "title": "Bouncemasters - Trò chơi điện tử tại chỗ miễn phí",
-      "description": "Trải nghiệm thế giới thú vị của Bouncemasters! Giúp những chú chim cánh cụt thực hiện những cú nhảy điên cuồng, thu thập đồng xu và nâng cấp thiết bị của bạn. Tham gia vào cuộc phiêu lưu và xem bạn có thể bay được bao xa!",
+      "title": "Bouncemasters™",
+      "description": "Bắn con chim cánh cụt xa nhất có thể! Bay lượn khi né chướng ngại vật, thu thập hàng tá đồng xu và đâm vào những con chim cánh cụt khác để bay cao hơn! Mua các vật phẩm điên rồ mới và vui chơi.",
       "iframeTitle": "Xem trước trò chơi",
-      "fullscreenButton": "Toàn màn hình",
+      "fullscreenButton": "Màn hình toàn màn hình",
       "shareButton": "Chia sẻ",
-      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
-      "downloadGame": "Tải game",
-      "playGame": "Chơi game"
+      "urlCopied": "Đã sao chép URL vào bộ nhớ đệm!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
     },
     "HomeFeatures": {
       "gameTitle": "Bouncemasters",
       "whatIsTitle": "Bouncemasters là gì?",
-      "whatIsDescription": "Bouncemasters là một trò chơi điện tử thú vị, trong đó những chú chim cánh cụt thực hiện những cú nhảy điên cuồng trên những vùng đất đóng băng. Tham gia cuộc phiêu lưu và xem bạn có thể bay được bao xa!",
+      "whatIsDescription": "Bouncemasters là một trò chơi thú vị nơi bạn bắn một con chim cánh cụt và giúp nó bay xa nhất có thể bằng cách đâm vào những con chim cánh cụt khác và thu thập đồng xu.",
       "howToPlayTitle": "Cách chơi",
-      "howToPlayStep1": "Nhấn vào màn hình đúng lúc để đánh vào thanh và làm cho chú chim cánh cụt bay lên.",
-      "howToPlayStep2": "Kiểm soát chú chim cánh cụt trong khi bay để chạm vào các vật thể như hải cẩu hoặc cá voi để bật nhảy thêm.",
-      "howToPlayStep3": "Tránh băng, đá và nước để tiếp tục bay và thu thập đồng xu để nâng cấp thiết bị của bạn.",
+      "howToPlayStep1": "Nhấn để bắn con chim cánh cụt.",
+      "howToPlayStep2": "Đâm vào những con chim cánh cụt khác để bay cao hơn và xa hơn.",
+      "howToPlayStep3": "Thu thập đồng xu để mua nâng cấp và vật phẩm.",
       "keyFeaturesTitle": "Các tính năng chính",
-      "feature1Title": "Những cú nhảy điên cuồng",
-      "feature1Description": "Giúp những chú chim cánh cụt thực hiện những cú nhảy điên cuồng trên những vùng đất đóng băng.",
-      "feature2Title": "Thu thập xu",
-      "feature2Description": "Thu thập đồng xu và kim cương để nâng cấp thiết bị của bạn.",
-      "feature3Title": "Cuộc phiêu lưu",
-      "feature3Description": "Tham gia vào cuộc phiêu lưu và xem bạn có thể bay được bao xa!",
-      "feature4Title": "Trò chơi thú vị",
-      "feature4Description": "Trải nghiệm trò chơi đầy thú vị với những loài động vật quen thuộc."
+      "feature1Title": "Vật phẩm điên rồ",
+      "feature1Description": "Mua các vật phẩm điên rồ mới để nâng cao trải nghiệm chơi game của bạn.",
+      "feature2Title": "Né chướng ngại vật",
+      "feature2Description": "Tránh các chướng ngại vật để tiếp tục bay và đạt được khoảng cách mới.",
+      "feature3Title": "Thu thập đồng xu",
+      "feature3Description": "Thu thập hàng tá đồng xu trong chuyến bay của bạn để mua nâng cấp.",
+      "feature4Title": "Đâm vào chim cánh cụt",
+      "feature4Description": "Đâm vào những con chim cánh cụt khác để tăng độ cao và kéo dài chuyến bay của bạn."
     },
     "HomeFAQs": {
       "title": "Câu hỏi thường gặp"
@@ -57,18 +57,18 @@
       "title": "Video trò chơi"
     },
     "HomeRecommendation": {
-      "title": "Đề xuất"
+      "title": "Khuyến nghị"
     },
     "HomeComments": {
-      "title": "Bình luận trò chơi"
+      "title": "Ý kiến chơi game"
     },
     "GamePage": {
-      "title": "Tất cả các trò chơi",
-      "description": "Tất cả các trò chơi",
-      "games": "Các trò chơi"
+      "title": "Tất cả trò chơi",
+      "description": "Tất cả trò chơi",
+      "games": "Trò chơi"
     },
     "CategoryPage": {
-      "categories": "Các danh mục",
+      "categories": "Danh mục",
       "noCategories": "Không tìm thấy danh mục nào",
       "viewMore": "Xem thêm",
       "page": "Trang"

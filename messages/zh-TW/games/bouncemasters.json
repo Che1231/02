@@ -1,10 +1,10 @@
 {
   "bouncemasters": {
-    "title": "Bouncemasters - 免費線上街機遊戲",
-    "slogan": "在Bouncemasters中暢遊冬季!",
-    "description": "歡迎來到Bouncemasters，這裡企鵝在冰雪上進行瘋狂跳躍！體驗充滿樂趣的遊戲玩法，收集硬幣並升級你的裝備。加入冒險，看看你能飛多遠！",
+    "title": "免費線上玩Bouncemasters - 發射、飛行並收集！",
+    "slogan": "將企鵝發射得越遠越好！",
+    "description": "準備好發射企鵝了嗎？線上玩Bouncemasters！在空中飛行，躲避障礙，並收集硬幣。體驗Bouncemasters的樂趣！現在就玩Bouncemasters！",
     "Loading": {
-      "title": "正在載入Bouncemasters..."
+      "title": "載入中..."
     },
     "Navbar": {
       "title": "導航"
@@ -15,7 +15,7 @@
       "privacyPolicy": "隱私權政策",
       "termsOfServices": "服務條款",
       "text": "內容",
-      "help": "幫助",
+      "help": "說明",
       "friendlyLinks": "友情連結",
       "articleList": "文章列表",
       "home": "首頁",
@@ -23,35 +23,35 @@
       "previous": "上一頁"
     },
     "HomeIframe": {
-      "title": "Bouncemasters - 免費線上街機遊戲",
-      "description": "體驗Bouncemasters的歡樂世界！幫助企鵝進行瘋狂跳躍，收集硬幣並升級你的裝備。加入冒險，看看你能飛多遠！",
+      "title": "Bouncemasters™",
+      "description": "將企鵝發射得越遠越好！在躲避障礙的同時飛行，收集許多硬幣並撞擊其他企鵝以飛得更高！購買新的瘋狂物品並盡情享受樂趣。",
       "iframeTitle": "遊戲預覽",
       "fullscreenButton": "全螢幕",
       "shareButton": "分享",
       "urlCopied": "網址已複製到剪貼簿！",
       "downloadGame": "下載遊戲",
-      "playGame": "開始遊戲"
+      "playGame": "玩遊戲"
     },
     "HomeFeatures": {
       "gameTitle": "Bouncemasters",
-      "whatIsTitle": "Bouncemasters是什麼？",
-      "whatIsDescription": "Bouncemasters是一款令人興奮的街機遊戲，企鵝在冰凍的土地上進行瘋狂跳躍。加入冒險，看看你能飛多遠！",
+      "whatIsTitle": "Bouncemasters 是什麼？",
+      "whatIsDescription": "Bouncemasters 是一款令人興奮的遊戲，您需要發射企鵝並透過撞擊其他企鵝和收集硬幣，幫助它飛得盡可能遠。",
       "howToPlayTitle": "如何遊戲",
-      "howToPlayStep1": "在適當時間點擊螢幕以擊打棍子，使企鵝飛起來。",
-      "howToPlayStep2": "在飛行過程中控制企鵝，以觸摸海豹或鯨魚等物體來獲得額外彈跳。",
-      "howToPlayStep3": "避免冰塊、岩石和水，保持飛行並收集硬幣以升級你的裝備。",
-      "keyFeaturesTitle": "主要功能",
-      "feature1Title": "瘋狂跳躍",
-      "feature1Description": "幫助企鵝在冰凍的土地上進行瘋狂跳躍。",
-      "feature2Title": "收集硬幣",
-      "feature2Description": "收集硬幣和鑽石來升級你的裝備。",
-      "feature3Title": "冒險",
-      "feature3Description": "加入冒險，看看你能飛多遠！",
-      "feature4Title": "有趣的遊戲玩法",
-      "feature4Description": "體驗充滿樂趣的遊戲玩法，與熟悉的小動物一起玩。"
+      "howToPlayStep1": "點擊發射企鵝。",
+      "howToPlayStep2": "撞擊其他企鵝以飛得更高更遠。",
+      "howToPlayStep3": "收集硬幣購買升級和物品。",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "瘋狂物品",
+      "feature1Description": "購買新的瘋狂物品以增強您的遊戲體驗。",
+      "feature2Title": "躲避障礙",
+      "feature2Description": "躲避障礙物以保持飛行並達到新的距離。",
+      "feature3Title": "收集硬幣",
+      "feature3Description": "在飛行過程中收集許多硬幣以購買升級。",
+      "feature4Title": "撞擊企鵝",
+      "feature4Description": "撞擊其他企鵝以獲得高度並延長飛行距離。"
     },
     "HomeFAQs": {
-      "title": "常見問題集"
+      "title": "常見問題"
     },
     "HomeRelatedVideo": {
       "title": "遊戲影片"
