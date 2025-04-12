@@ -1,0 +1,77 @@
+{
+  "hole-io": {
+    "title": "Hole.io 게임: 무료 온라인 플레이 - 세계를 삼켜라",
+    "slogan": "Hole.io에서 세계를 삼키고 블랙홀 우주를 지배하세요!",
+    "description": "블랙홀 전쟁 Hole.io에 뛰어들어요! 허기를 채운 블랙홀을 제어하고 쓰레기통부터 도시까지 모든 것을 삼켜보세요. 개인화된 스킨을 즐기고 Hole.io 우주를 지배하세요. 지금 플레이하세요!",
+    "Loading": {
+      "title": "로드 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "Hole.io",
+      "description": "블랙홀을 제어하고 길을 가로막는 모든 것을 삼키세요!",
+      "iframeTitle": "게임 미리 보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Hole.io: 세계를 삼켜라",
+      "whatIsTitle": "Hole.io는 무엇인가요?",
+      "whatIsDescription": "Hole.io에서 허기진 블랙홀이 되어 길거리 쓰레기통부터 초고층 빌딩, 그리고 도시 전체까지 모든 것을 삼키는 여정을 시작하세요!",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "화면의 조이스틱을 사용하여 블랙홀을 제어하세요.",
+      "howToPlayStep2": "더 작은 물체를 삼켜 더 커지세요.",
+      "howToPlayStep3": "다른 플레이어와 경쟁하여 도시에서 가장 큰 블랙홀이 되세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "짜릿한 게임 플레이",
+      "feature1Description": "뱀 게임과 비슷하지만 더욱 짜릿해요!",
+      "feature2Title": "개인화된 스킨",
+      "feature2Description": "블랙홀을 독특하고 눈길을 사로잡는 모습으로 만들어보세요!",
+      "feature3Title": "미쳤지만 꿈꿔왔던 현실",
+      "feature3Description": "블랙홀을 제어하여 도시에 모든 것을 빨아들이세요!",
+      "feature4Title": "경쟁적인 멀티플레이어",
+      "feature4Description": "실시간으로 다른 플레이어와 경쟁하여 아레나를 지배하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

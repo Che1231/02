@@ -1,0 +1,1 @@
+Embark on a thrilling adventure in the delightful world of "Save Dogs from Bee," a captivating casual puzzle game that will challenge your wit and creativity. In this fun-filled challenge, you take on the role of a guardian angel to a beloved dog, using your finger as a magic wand to draw protective barriers against a relentless swarm of bees.

@@ -1,1 +1,0 @@
-Ragdoll Hit Stickman is a fabulous action game that puts you into chaotic battles with extremely vivid stickman warriors. Intense battles await you, with hilarious ragdoll physics controlling every movement. Join now to test your reflexes and tactics in this fierce battle!
