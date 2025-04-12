@@ -1,0 +1,77 @@
+{
+  "rooftop-run": {
+    "title": "루프탑 런: 퍼크our 모험 - 무료 온라인 플레이!",
+    "slogan": "최고의 루프탑 런 경험",
+    "description": "도시 퍼크our에 준비되었나요? 최고의 자유로운 달리기 게임인 루프탑 런에 참여하세요! 놀라운 3D 도시 풍경을 탐험하고, 짜릿한 동작을 마스터하고, 기술을 시험해 보세요. 지금 무료로 루프탑 런을 플레이하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일자",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "루프탑 런™",
+      "description": "최고의 퍼크our를 통해 브라이트스트게임즈의 루프탑 런으로 도시 자유 달리기의 짜릿함을 경험하세요. 짜릿한 액션이 가득합니다.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "루프탑 런: 도시 모험",
+      "whatIsTitle": "루프탑 런이란?",
+      "whatIsDescription": "루프탑 런은 광활한 대도시를 배경으로 한 최고의 퍼크our 및 자유로운 달리기 게임입니다. 도시 정글을 뛰고, 구르고, 미끄러지세요!",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "화살표 키 또는 WASD를 사용하여 이동합니다.",
+      "howToPlayStep2": "스페이스바를 눌러 점프하고 퍼크our 동작을 수행합니다.",
+      "howToPlayStep3": "도시를 탐험하고 가장 빠른 경로를 찾으세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "놀라운 3D 그래픽",
+      "feature1Description": "시각적으로 뛰어난 도시 환경에 몰입하세요.",
+      "feature2Title": "강렬한 퍼크our 액션",
+      "feature2Description": "짜릿한 퍼크our 동작과 도전을 경험하세요.",
+      "feature3Title": "광활한 대도시",
+      "feature3Description": "퍼크our 애호가들을 위해 디자인된 광대한 도시를 탐험하세요.",
+      "feature4Title": "모든 실력 레벨",
+      "feature4Description": "초보자와 숙련된 플레이어 모두를 위한 접근 가능한 게임플레이."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

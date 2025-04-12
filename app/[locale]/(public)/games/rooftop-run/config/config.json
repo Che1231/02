@@ -1,0 +1,120 @@
+{
+  "name": "Rooftop Run",
+  "pagePath": "/games/rooftop-run",
+  "pageName": "rooftop-run",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://igroutka.ru/loader/game/51357/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomPhoenix89",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix89.png",
+      "content": "Wow! Rooftop Run is insane! The graphics are so real, I feel like I'm really running in the city."
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/ctrlaltdefeat.png",
+      "content": "This game gives me heart palpitations! Have you seen those jumps? Unreal!"
+    },
+    {
+      "author": "NeonPhantom_XX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/neonphoton_Xx.png",
+      "content": "Did anyone else just lose their lunch trying to make it across those skyscrapers? Haha!"
+    },
+    {
+      "author": "SavageBlade_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/savageblade_x.png",
+      "content": "I love the way you can slide under obstacles in Rooftop Run. Just like in the videos! Amazing!"
+    },
+    {
+      "author": "StalkingGriffin99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/stalkinggriffin99.png",
+      "content": "Had no idea what was awaiting me in Rooftop Run - it's a rollercoaster ride of excitement!"
+    },
+    {
+      "author": "NoobMaster420",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/noombaster420.png",
+      "content": "Anyone knows any shortcuts? This game is brutal!!"
+    },
+    {
+      "author": "CosmicLeviathan87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/cosicleviathan87.png",
+      "content": "So cool how the metropolis is designed. It’s like you’re exploring an entire new world!"
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/lagwarriorxx.png",
+      "content": "Just saw someone slide down a building. Whoa!!!"
+    },
+    {
+      "author": "RevolverKraken",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/revolverkraken.png",
+      "content": "Adrenaline kicks in every time I leap from one building to another. Mind blowing!"
+    },
+    {
+      "author": "Witcher3Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/witcher3lyfe.png",
+      "content": "The urban jungle feels alive in Rooftop Run. Can't get enough!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-12/images/1744452523240-7lh7ob.avif",
+  "page_path": "/games/rooftop-run",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Adventure"
+  ],
+  "createdTime": "2025-04-12 18:08:55"
+}

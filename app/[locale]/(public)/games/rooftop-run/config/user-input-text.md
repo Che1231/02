@@ -1,0 +1,2 @@
+Rooftop Run: The Ultimate Parkour Adventure on BrightestGames.com
+🏃‍♂️🌆Experience the thrill of urban freestyle running with "Rooftop Run" on BrightestGames with the ultimate parkour and freestyle running game that promises to deliver adrenaline-pumping action as you leap, roll, and slide across the urban jungle. With stunning 3D visuals and a sprawling metropolis designed for parkour enthusiasts of all skill levels, this game will keep you on the edge of your seat.
