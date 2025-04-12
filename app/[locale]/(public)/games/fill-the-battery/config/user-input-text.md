@@ -1,0 +1,1 @@
+Fill the battery is a free Puzzle game that needs to get connected. Your goal is to connect energy sources with the batteries to recharge them. Use the reflectors and let the power reach the batteries. There gonna be a lot of obstacles in the middle so make the way clear and make sure all the fully charged.

@@ -1,0 +1,77 @@
+{
+  "fill-the-battery": {
+    "title": "バッテリーを充電するパズルゲーム - オンラインで心を充電",
+    "slogan": "接続、充電、そして征服！",
+    "description": "バッテリーを充電するために、エネルギー源を接続できますか？反射板を使ってパワーを導き、障害物を克服しましょう。今すぐバッテリーを充電するパズルゲームを無料でプレイ！",
+    "Loading": {
+      "title": "バッテリーを充電するパズルゲームを読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "バッテリーを充電するパズルゲーム",
+      "description": "バッテリーを充電するパズルゲームは、接続する必要がある無料のゲームです。目標は、エネルギー源とバッテリーを接続して充電することです。反射板を使用し、エネルギーをバッテリーに到達させることを目指しましょう。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "バッテリーを充電するパズルゲーム",
+      "whatIsTitle": "バッテリーを充電するパズルゲームとは？",
+      "whatIsDescription": "バッテリーを充電するパズルゲームは、反射板を使用してエネルギー源をバッテリーに接続する、魅力的なパズルゲームです。障害物を乗り越えてフル充電を目指しましょう。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "エネルギー源をバッテリーに接続します。",
+      "howToPlayStep2": "反射板を使用してエネルギービームを導きます。",
+      "howToPlayStep3": "障害物を乗り越えて、バッテリーを完全に充電します。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "魅力的なパズル",
+      "feature1Description": "空間的な推論力を試す複雑なパズルを解きましょう。",
+      "feature2Title": "戦略的なゲームプレイ",
+      "feature2Description": "バッテリーを効率的に充電するために、慎重に手順を計画しましょう。",
+      "feature3Title": "障害物回避",
+      "feature3Description": "エネルギーの流れを妨げる様々な障害物を乗り越えましょう。",
+      "feature4Title": "反射板の習得",
+      "feature4Description": "エネルギービームを効果的に誘導するために、反射板の使いこなしを習得しましょう。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめのゲーム"
+    },
+    "HomeComments": {
+      "title": "ゲームのコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

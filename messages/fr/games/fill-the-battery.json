@@ -1,0 +1,77 @@
+{
+  "fill-the-battery": {
+    "title": "Jeu de puzzle \"Remplissez la batterie\" - Rechargez votre esprit en ligne",
+    "slogan": "Connectez-vous, rechargez-vous et triomphez !",
+    "description": "Pouvez-vous connecter les sources d'énergie pour recharger les batteries dans le jeu de puzzle \"Remplissez la batterie\" ? Utilisez les réflecteurs pour diriger l'énergie et surmonter les obstacles. Jouez à \"Remplissez la Batterie\" gratuitement dès maintenant !",
+    "Loading": {
+      "title": "Chargement de \"Remplissez la Batterie\"..."
+    },
+    "Navbar": {
+      "title": "Barre de navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens utiles",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Remplissez la Batterie",
+      "description": "Remplissez la batterie est un jeu de puzzle gratuit qui nécessite une connexion. Votre objectif est de connecter les sources d'énergie aux batteries pour les recharger. Utilisez les réflecteurs et laissez l'énergie atteindre les batteries.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Remplissez la Batterie",
+      "whatIsTitle": "Qu'est-ce que Remplissez la Batterie ?",
+      "whatIsDescription": "Remplissez la batterie est un jeu de puzzle captivant où vous connectez des sources d'énergie aux batteries à l'aide de réflecteurs, en surmontant les obstacles pour obtenir une charge complète.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Connectez la source d'énergie à la batterie.",
+      "howToPlayStep2": "Utilisez les réflecteurs pour diriger le faisceau d'énergie.",
+      "howToPlayStep3": "Surmontez les obstacles et rechargez complètement la batterie.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Des puzzles captivants",
+      "feature1Description": "Résolvez des puzzles complexes qui mettent au défi votre raisonnement spatial.",
+      "feature2Title": "Gameplay stratégique",
+      "feature2Description": "Planifiez vos mouvements avec soin pour recharger efficacement les batteries.",
+      "feature3Title": "Navigation dans les obstacles",
+      "feature3Description": "Naviguez à travers divers obstacles qui bloquent le flux d'énergie.",
+      "feature4Title": "Maîtriser les réflecteurs",
+      "feature4Description": "Maîtrisez l'utilisation des réflecteurs pour rediriger efficacement les faisceaux d'énergie."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires des joueurs"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

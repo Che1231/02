@@ -1,0 +1,77 @@
+{
+  "fill-the-battery": {
+    "title": "배터리 채우기 퍼즐 게임 - 온라인으로 마음 충전",
+    "slogan": "연결하고, 충전하고, 정복하세요!",
+    "description": "배터리 채우기 게임에서 에너지원을 연결하여 배터리를 충전할 수 있나요? 반사경을 사용하여 전력을 안내하고 장애물을 극복해 보세요. 지금 무료로 배터리 채우기를 플레이하세요!",
+    "Loading": {
+      "title": "배터리 채우기를 로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "배터리 채우기",
+      "description": "배터리 채우기는 연결이 필요한 무료 퍼즐 게임입니다. 배터리를 충전하기 위해 반사경을 사용하여 에너지원을 배터리와 연결하는 것이 목표입니다.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "배터리 채우기",
+      "whatIsTitle": "배터리 채우기는 무엇인가요?",
+      "whatIsDescription": "배터리 채우기는 반사경을 사용하여 에너지원을 배터리에 연결하는 매혹적인 퍼즐 게임으로, 장애물을 극복하여 완전 충전을 달성해야 합니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "에너지원을 배터리에 연결하세요.",
+      "howToPlayStep2": "반사경을 사용하여 에너지 빔을 안내하세요.",
+      "howToPlayStep3": "장애물을 극복하고 배터리를 완전히 충전하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "매력적인 퍼즐",
+      "feature1Description": "공간적 사고를 테스트하는 복잡한 퍼즐을 풀어보세요.",
+      "feature2Title": "전략적인 게임 플레이",
+      "feature2Description": "배터리를 효율적으로 충전하기 위해 이동을 신중하게 계획하세요.",
+      "feature3Title": "장애물 극복",
+      "feature3Description": "에너지 흐름을 차단하는 다양한 장애물을 극복하세요.",
+      "feature4Title": "반사경 마스터",
+      "feature4Description": "에너지 빔을 효과적으로 재지정하기 위해 반사경 사용을 마스터하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

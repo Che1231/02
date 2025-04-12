@@ -1,0 +1,77 @@
+{
+  "fill-the-battery": {
+    "title": "Pilin Bataryayı Oyunu - Zihninizi Çevrimiçi Şarj Edin",
+    "slogan": "Bağlanın, Şarj Edin ve Yenen!",
+    "description": "Pilin Bataryayı oyununda enerji kaynaklarını bataryaları şarj etmek için bağlayabilir misiniz? Gücü yönlendirmek ve engelleri aşmak için yansıtıcıları kullanın. Şimdi ücretsiz Pilin Bataryayı oyununu oynayın!",
+    "Loading": {
+      "title": "Pilin Bataryayı Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Pilin Bataryayı",
+      "description": "Pilin Bataryayı, bağlanması gereken ücretsiz bir bulmaca oyunudur. Hedefiniz, enerji kaynaklarını bataryalarla bağlayarak şarj etmektir. Yansıtıcıları kullanın ve gücün bataryalara ulaşmasını sağlayın.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Pilin Bataryayı",
+      "whatIsTitle": "Pilin Bataryayı Nedir?",
+      "whatIsDescription": "Pilin Bataryayı, yansıtıcılar kullanarak enerji kaynaklarını bataryalara bağladığınız, engelleri aşarak tam şarj sağladığınız büyüleyici bir bulmaca oyunudur.",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Enerji kaynağını bataryaya bağlayın.",
+      "howToPlayStep2": "Enerji ışınını yönlendirmek için yansıtıcıları kullanın.",
+      "howToPlayStep3": "Engelleri aşın ve bataryayı tamamen şarj edin.",
+      "keyFeaturesTitle": "Ana Özellikler",
+      "feature1Title": "Etkileyici Bulmacalar",
+      "feature1Description": "Uzamsal muhakeme yeteneğinizi zorlayan karmaşık bulmacaları çözün.",
+      "feature2Title": "Stratejik Oyun",
+      "feature2Description": "Bataryaları verimli bir şekilde şarj etmek için hamlelerinizi dikkatlice planlayın.",
+      "feature3Title": "Engel Geçişi",
+      "feature3Description": "Enerji akışını engelleyen çeşitli engellerden geçin.",
+      "feature4Title": "Yansıtıcı Ustası",
+      "feature4Description": "Enerji ışınlarını etkili bir şekilde yönlendirmek için yansıtıcıların kullanımını ustalaştırın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiye Eder"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

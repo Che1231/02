@@ -1,0 +1,120 @@
+{
+  "name": "Fill The Battery",
+  "pagePath": "/games/fill-the-battery",
+  "pageName": "fill-the-battery",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://buckshotroulettee.github.io/game/fill-the-battery/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomPhoenix87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix87.png",
+      "content": "Wow! This game really makes you use your brain to connect everything and charge the battery. Fill The Battery is super challenging but rewarding!"
+    },
+    {
+      "author": "NeonKatana7",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonKatana7.png",
+      "content": "This game had me sweating for the first few levels but now I’m hooked. So many obstacles, but it’s totally doable. Fun game!"
+    },
+    {
+      "author": "SavageBlade_82",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBlade_82.png",
+      "content": "This puzzle game is a real test of patience and skill. Love how the reflectors work, they add a layer of complexity."
+    },
+    {
+      "author": "CosmicRevolver99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicRevolver99.png",
+      "content": "I love how this game challenges you by making you strategize every single move. 'Fill the battery' has some killer levels!"
+    },
+    {
+      "author": "StalkingKraken89",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken89.png",
+      "content": "Just when you think you’re on top of it, those obstacles pop up. Great game!"
+    },
+    {
+      "author": "Witcher4Lyfe_xX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe_xX.png",
+      "content": "Can you connect all these power sources? This game is tricky but I’m loving it so far."
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "This game is pretty tough. But I enjoy how it forces you to plan ahead if you want to fill the battery!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Filling up the batteries is harder than it looks! Loved solving those tricky puzzles."
+    },
+    {
+      "author": "DarkAura_Reaper91",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/DarkAura_Reaper91.png",
+      "content": "Had to restart a level a couple times, but once you figure it out, it’s a real win. Fill The Battery is awesome!"
+    },
+    {
+      "author": "SavvyNinja42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavvyNinja42.png",
+      "content": "Love how this game has you thinking about each step. Those reflective surfaces really add a lot to the gameplay."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-12/images/1744453519560-wf4b9.jpg",
+  "page_path": "/games/fill-the-battery",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Puzzle"
+  ],
+  "createdTime": "2025-04-12 18:25:12"
+}
