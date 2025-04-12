@@ -1,1 +1,0 @@
-Cat and Granny is a chaotic first-person action where you play as a clever orange cat determined to outsmart the new black cat that Granny brought home! Cause havoc by knocking over flower pots, scattering objects, and scratching up furniture—all while making Granny believe the black cat is to blame.

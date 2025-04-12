@@ -1,1 +1,0 @@
-Supermarket Simulator: Store Manager is a dynamic retail experience where you juggle cashier duties and store management. Scan items, process payments, and keep customers happy while managing stock and organizing shelves. As challenges intensify, you’ll grow your store and meet rising demand. Can you handle the rush and build a thriving supermarket empire?
