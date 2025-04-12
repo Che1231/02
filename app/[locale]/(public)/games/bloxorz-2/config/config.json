@@ -1,0 +1,120 @@
+{
+  "name": "Bloxorz 2",
+  "pagePath": "/games/bloxorz-2",
+  "pageName": "bloxorz-2",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://files.acticdn.com/278374/23866/index.html?an_game_version=202109071705&key=y8&value=default",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken87.png",
+      "content": "Bloxorz 2 is such a brain bender! Rolling that block through the holes feels oddly satisfying. Definitely worth checking out!"
+    },
+    {
+      "author": "PhantomKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomKatana_X.png",
+      "content": "Who knew a block could be this much fun? The star collecting mechanic adds a nice challenge. Highly recommend!"
+    },
+    {
+      "author": "CosmicPhoenix99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicPhoenix99.png",
+      "content": "Bloxorz 2 surprised me with its depth. The levels get tricky fast, but it's super rewarding when you finally solve them. Great game!"
+    },
+    {
+      "author": "NeonRevolver_42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonRevolver_42.png",
+      "content": "This game is a gem! Rolling the block around feels so weirdly satisfying. The new passages mechanic is a cool twist. Love it!"
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "Bloxorz 2 is a blast from the past with a modern twist. The star system keeps me coming back for more. Definitely a must-play!"
+    },
+    {
+      "author": "VoidWalker_Prime",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/VoidWalker_Prime.png",
+      "content": "The block mechanics in Bloxorz 2 are surprisingly fun and challenging. Levels get progressively harder, which keeps it interesting. Thumbs up!"
+    },
+    {
+      "author": "LootGoblin89",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LootGoblin89.png",
+      "content": "This game is a real brain teaser! Collecting stars while maneuvering the block is so addictive. Totally recommend it!"
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "Bloxorz 2 is unexpectedly fun! The block physics are quirky but in a good way. The new levels keep it fresh. Give it a try!"
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "What a surprise! Bloxorz 2 is way more engaging than I thought. The star system adds a nice layer of challenge. Really enjoying it!"
+    },
+    {
+      "author": "SavageBlade_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBlade_X.png",
+      "content": "This game is a delightful puzzler. Rolling the block through the holes is oddly satisfying, and the star system is a nice bonus. Great stuff!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-12/images/1744452713198-ye3cvs.jpg",
+  "page_path": "/games/bloxorz-2",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Puzzle"
+  ],
+  "createdTime": "2025-04-12 18:23:07"
+}

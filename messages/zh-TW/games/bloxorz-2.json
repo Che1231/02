@@ -1,0 +1,77 @@
+{
+  "bloxorz-2": {
+    "title": "免費線上遊玩 Bloxorz 2 - 益智冒險遊戲",
+    "slogan": "滾動、解謎、征服！體驗經典益智遊戲的續作！",
+    "description": "正在尋找腦力激盪的冒險嗎？Bloxorz 2 挑戰你指導一個長方體方塊通過錯綜複雜的地圖。享受Bloxorz 2 的益智樂趣並收集星星。現在就玩 Bloxorz 2！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導覽"
+    },
+    "Common": {
+      "createAt": "建立日期",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "線上遊玩 Bloxorz 2",
+      "description": "在 Bloxorz 2 中指導你的方塊通過具有挑戰性的謎題。滾動、旋轉並制定策略以到達出口！收集星星並解鎖新關卡，體驗這項續作！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "遊玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "關於 Bloxorz 2",
+      "whatIsTitle": "Bloxorz 2 究竟是什麼？",
+      "whatIsDescription": "Bloxorz 2 是 Bloxorz 系列的驚喜續作。指導你的長方體石塊，探索複雜的地圖，並通過指定的洞口。收集星星並在冒險中揭開新的通道！祝你好運！",
+      "howToPlayTitle": "如何遊戲",
+      "howToPlayStep1": "旋轉方塊移動它。",
+      "howToPlayStep2": "穿過迷宮到達洞口。",
+      "howToPlayStep3": "沿途收集星星以獲得額外分數。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "錯綜複雜的謎題",
+      "feature1Description": "解開需要策略性思考的具有挑戰性的謎題。",
+      "feature2Title": "星星收集",
+      "feature2Description": "收集星星以解鎖隱藏的功能和獎勵關卡。",
+      "feature3Title": "動態遊戲",
+      "feature3Description": "體驗不斷變化的景觀和隱藏的通道。",
+      "feature4Title": "續作冒險",
+      "feature4Description": "享受您喜愛的經典 Bloxorz 遊戲的新轉折！"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲列表"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到分類",
+      "viewMore": "查看更多",
+      "page": "頁數"
+    }
+  }
+}

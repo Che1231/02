@@ -283,7 +283,7 @@
     "title": "can-your-pet",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743306431731-8erm7.png",
     "url": "/games/can-your-pet",
-    "category": "Jogo",
+    "category": "can-your-pet",
     "visible": true
   },
   {
@@ -1445,6 +1445,13 @@
     "title": "Rooftop Run",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-12/images/1744452523240-7lh7ob.avif",
     "url": "/games/rooftop-run",
+    "category": "Jogo",
+    "visible": true
+  },
+  {
+    "title": "Bloxorz 2",
+    "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-12/images/1744452713198-ye3cvs.jpg",
+    "url": "/games/bloxorz-2",
     "category": "Jogo",
     "visible": true
   }

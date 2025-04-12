@@ -1,0 +1,77 @@
+{
+  "bloxorz-2": {
+    "title": "免费在线玩 Bloxorz 2 - 益智冒险游戏",
+    "slogan": "滚动、解决和征服！体验经典益智游戏的续作。",
+    "description": "想找一个令人费脑的冒险吗？Bloxorz 2 挑战你引导一个长方体方块通过错综复杂的关卡。享受 Bloxorz 2 的益智乐趣并收集星星。现在就玩 Bloxorz 2！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "在线玩 Bloxorz 2",
+      "description": "在 Bloxorz 2 中引导你的方块通过充满挑战的谜题。滚动、旋转和制定策略才能到达出口！收集星星并解锁新关卡。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL 已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "关于 Bloxorz 2",
+      "whatIsTitle": "Bloxorz 2 是什么？",
+      "whatIsDescription": "Bloxorz 2 是 Bloxorz 系列的意想不到的续作。引导你的方块，探索错综复杂的关卡，并通过指定的洞口。收集星星并探索新的通道，开启这段冒险！祝你好运！",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "旋转方块移动它。",
+      "howToPlayStep2": "导航通过迷宫到孔。",
+      "howToPlayStep3": "沿途收集星星以获得额外积分。",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "错综复杂的谜题",
+      "feature1Description": "解决需要策略性思考的充满挑战的谜题。",
+      "feature2Title": "星收集",
+      "feature2Description": "收集星星以解锁隐藏功能和奖励关卡。",
+      "feature3Title": "动态游戏玩法",
+      "feature3Description": "体验不断变化的地形和隐藏的通道。",
+      "feature4Title": "续作冒险",
+      "feature4Description": "享受你喜爱的经典 Bloxorz 游戏玩法的新变化。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

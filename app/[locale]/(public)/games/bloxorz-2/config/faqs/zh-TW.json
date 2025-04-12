@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Bloxorz 2新手指南：如何移動方塊並避免掉落？What are the basic controls in Bloxorz 2 and what common mistakes should beginners avoid?",
+    "answer": "在《Bloxorz 2》中，您需要使用方向鍵或螢幕上的控件來移動方塊。關鍵是要預判方塊移動後的重心，避免超出平台邊緣。新手常犯的錯誤是忽略了「X」橋梁開關，或是在狹窄的道路上操作不當，導致方塊掉落。例如，在第一關，您需要將方塊橫向移動，然後豎立起來通過狹窄的通道。請記住，每次移動前都要仔細觀察地形！ 比喻說明：可以把方塊想像成一艘笨重的貨輪，轉彎一定要提前減速並預留空間。"
+  },
+  {
+    "question": "Bloxorz 2卡關求助：Why my Bloxorz 2 block always falls off the edge and how can I prevent it?",
+    "answer": "方塊掉落通常是因為重心偏移。解決這個問題需要理解不同地形對方塊支撐的影響。步驟一：觀察當前地形，判斷方塊在當前方向移動後是否會超出平台邊緣。步驟二：根據觀察結果，調整移動方向或選擇其他路徑。步驟三：利用「X」開關啟動或關閉橋梁，創造新的安全通道。一個典型的例子是第四關，您需要先將方塊橫向置於一個狹窄的平台上，然後小心地移動到下一個平台。配置對照表：參考遊戲內建提示，明確不同開關的作用和啟動條件。"
+  },
+  {
+    "question": "Bloxorz 2中“O”和“X”型開關分別有什麼作用？What are the differences and usages for 'O' and 'X' switches in Bloxorz 2?",
+    "answer": "在《Bloxorz 2》中，「O」型開關屬於軟開關，只要方塊壓在上面就會一直保持開啟狀態，通常用於啟動可移動平台或開啟連續機關。「X」型開關屬於硬開關，方塊壓上去一次後會改變狀態（開啟或關閉），再次壓上去則會恢復原狀，常用於控制橋梁的伸縮。例如，在第 10 關中，您需要連續利用多個「X」開關才能到達終點。比喻說明：「O」開關就像一個持續供電的插座，「X」開關就像一個單刀雙擲開關。"
+  },
+  {
+    "question": "Bloxorz 2高階技巧：How do you effectively manipulate split blocks in Bloxorz 2 to solve complex puzzles?",
+    "answer": "控制分離方塊是《Bloxorz 2》的核心技巧之一。步驟一：觀察分離後的兩個方塊的初始位置和移動範圍。步驟二：利用地面的不同高度差和傾斜角度，控制兩個方塊分別到達指定位置。步驟三：巧妙利用「O」型開關，讓兩個方塊協同合作，共同啟動機關。例如，在第 25 關中，您需要將兩個方塊分別移動到兩個「O」型開關上，才能打開通往終點的道路。流程圖解：繪製分離方塊的行動路線圖，提前規劃好每一步操作。"
+  },
+  {
+    "question": "Why some levels in Bloxorz 2 seem impossible? What advanced techniques can be used to overcome extremely difficult challenges?",
+    "answer": "某些關卡看似無解，其實需要結合多種高級技巧，例如：精準移動（精確控制方塊的落點），空間想像（預判方塊在複雜地形中的移動軌跡），逆向思考（從終點反推起點）。此外，還可以利用遊戲中的提示功能，或參考其他玩家的通關影片。例如，在第 30 關，就需要將方塊多次置於傾斜的邊緣，才能最終到達終點。多方案比較：嘗試不同的移動順序和開關啟動方式，找到最佳解。"
+  },
+  {
+    "question": "Bloxorz 2大神之路：How can I optimize my solve time and achieve a perfect score in Bloxorz 2?",
+    "answer": "想要在《Bloxorz 2》中獲得完美成績，需要對關卡的每個細節都瞭如指掌。首先，儘可能減少移動步數，避免不必要的操作。其次，熟悉各個開關的作用和啟動條件，選擇最佳路徑。最後，利用遊戲中的重置功能，反覆練習，直到找到最快通關的方法。一個典型的例子是第 40 關，如果您能掌握所有隱藏的捷徑，就可以在極短的時間內通關。比喻說明：可以把每次通關嘗試都看作是一次賽車比賽，目標是不斷刷新自己的紀錄。"
+  },
+  {
+    "question": "Bloxorz 2機制分析：What is the underlying algorithm governing the physics and block movement in Bloxorz 2?",
+    "answer": "《Bloxorz 2》的物理機制基於簡單的剛體運動模型，方塊的移動受到重力和地形的約束。遊戲開發者透過精心設計的關卡佈局和開關機制，創造出複雜多變的謎題。雖然沒有公開的具體演算法細節，但可以推斷出，遊戲使用了碰撞檢測、重心計算等基本物理引擎技術。例如，方塊在傾斜平面上的移動速度和方向，取決於平面的傾斜角度和方塊的重心位置。配置對照表：收集不同地形和開關組合下的方塊運動數據，建立自己的資料庫。"
+  },
+  {
+    "question": "Bloxorz 2數值解密：Are there any hidden scoring metrics beyond the basic step count in Bloxorz 2? What bonus points could be earned?",
+    "answer": "雖然《Bloxorz 2》主要以步數作為評估標準，但可能存在一些隱藏的加分機制。例如，連續無失誤通關可能獲得獎勵，或者在特定步數內完成關卡可以解鎖隱藏成就。這些隱藏機制通常不會在遊戲中明確說明，需要玩家自行探索和發現。例如，在某些關卡中，故意觸發陷阱再安全脫離，可能會啟動隱藏的開關。比喻說明：可以把尋找隱藏加分項目看作是尋寶遊戲，需要仔細觀察和大胆嘗試。"
+  },
+  {
+    "question": "Bloxorz 2跨平台體驗：Will my progress in Bloxorz 2 be synchronized across different devices (iOS and Android)? How?",
+    "answer": "《Bloxorz 2》通常會提供跨平台資料同步功能，但具體實現方式取決於遊戲開發商。一般來說，您可以透過以下兩種方式同步遊戲進度：1. 連線到遊戲伺服器：使用遊戲帳號登入，遊戲進度會自動同步到伺服器上。2. 使用第三方雲端服務：例如 Google Play Games 或 Game Center，將遊戲資料備份到雲端，然後在其他裝置上恢復。請注意，不同平台可能存在相容性問題，某些關卡可能在不同裝置上的表現略有差異。流程圖解：繪製資料同步的流程圖，確保每一步操作都正確。"
+  },
+  {
+    "question": "Bloxorz 2彩蛋挖掘：What are some hidden levels or easter eggs in Bloxorz 2 and how do I access them? Any secret levels or easter eggs in Bloxorz 2?",
+    "answer": "《Bloxorz 2》中可能隱藏著一些彩蛋關卡或秘密區域。這些彩蛋通常需要玩家完成特定的條件才能觸發，例如：在特定關卡中按照特定順序移動方塊，或者在所有關卡中都達到完美通關。這些彩蛋關卡往往具有更高的難度和獨特的玩法。例如，在某些版本中，連續點擊遊戲標題 Logo 多次可以解鎖隱藏關卡。比喻說明：尋找彩蛋就像探索一個古老的迷宮，只有找到正確的入口才能到達寶藏。"
+  }
+]
