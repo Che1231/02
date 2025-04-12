@@ -9,7 +9,7 @@
     "backgroundColor": null
   },
   "gameType": "iframe",
-  "gameIframeUrl": "https://www.crazygames.com/embed/smash-karts",
+  "gameIframeUrl": "https://smashkarts.io/",
   "gameRedirectUrl": "",
   "bgType": "iframe",
   "bgImage": "",
@@ -116,5 +116,6 @@
   "categories": [
     "Racing"
   ],
-  "createdTime": "2025-04-01 16:41:24"
+  "createdTime": "2025-04-01 16:41:24",
+  "userInputText": "Smash Karts is a 3D multiplayer IO kart battle game. Drive your go-kart, pick up weapons, and blow up other karts to win! Keep playing to level up and unlock new characters and prizes."
 }

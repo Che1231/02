@@ -9,7 +9,7 @@
     "backgroundColor": null
   },
   "gameType": "iframe",
-  "gameIframeUrl": "https://www.crazygames.com/embed/build-and-crush",
+  "gameIframeUrl": "https://buildncrush.com/",
   "gameRedirectUrl": "",
   "bgType": "iframe",
   "bgImage": "",
@@ -116,5 +116,6 @@
   "categories": [
     "Action"
   ],
-  "createdTime": "2025-04-01 15:35:30"
+  "createdTime": "2025-04-01 15:35:30",
+  "userInputText": "Build and Crush is a multiplayer game in which you can, you guessed it, build and crush stuff. Choose your own fun!"
 }

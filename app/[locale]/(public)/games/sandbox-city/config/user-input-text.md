@@ -1,1 +1,0 @@
-Sandbox City - Cars, Zombies, Ragdolls! is a zombie game where you can explore freely and drive around the city, but, be careful of the zombie's infection! Find the zombies and kill them before the infection spreads around and the city.
