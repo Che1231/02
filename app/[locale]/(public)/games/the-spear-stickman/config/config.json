@@ -1,0 +1,120 @@
+{
+  "name": "The Spear Stickman",
+  "pagePath": "/games/the-spear-stickman",
+  "pageName": "the-spear-stickman",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://html5.gamedistribution.com/a4f6574969174bbe924b0ac34842d72e/?gd_sdk_referrer_url=https%3A%2F%2Fzh.y8.com%2Fgames%2Fthe_spear_stickman&key=y8&value=default",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken42.png",
+      "content": "This game is awesome! The spear throwing is so addicting. Can't stop playing, good luck to me!"
+    },
+    {
+      "author": "SavageRevolver_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageRevolver_X.png",
+      "content": "Simple but fun. Gotta love the skill-based gameplay. The Spear Stickman is my new guilty pleasure."
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Killing time has never been so much fun! The throwing mechanism feels very satisfying. Seriously, though!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Spear Stickman – easy to learn but hard to master! Anyone else having serious skills issues? Haha."
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "The game's arcade style keeps me coming back. Is anyone else addicted to the throwing? I sure am."
+    },
+    {
+      "author": "PhantomPhoenix99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix99.png",
+      "content": "Seriously the best time killer ever! I love that its all about throwing skills, very unique, well, sort of."
+    },
+    {
+      "author": "CosmicLeviathan87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicLeviathan87.png",
+      "content": "The Spear Stickman is actually fun! The skill aspect really makes it stand out. What do you guys think of it?"
+    },
+    {
+      "author": "AdjectiveKatana_V",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AdjectiveKatana_V.png",
+      "content": "Not bad actually. The skill-based gameplay is kinda neat for an arcade game though."
+    },
+    {
+      "author": "LootGoblin89",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LootGoblin89.png",
+      "content": "Never thought throwing spears could be so enthralling. Its a cool arcade game that you can spend hours trying."
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "Surprisingly addictive. The skill involved in throwing is pretty fun."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-12/images/1744447929355-ap3pe.jpg",
+  "page_path": "/games/the-spear-stickman",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Action"
+  ],
+  "createdTime": "2025-04-12 16:52:04"
+}

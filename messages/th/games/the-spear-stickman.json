@@ -1,0 +1,77 @@
+{
+  "the-spear-stickman": {
+    "title": "เกม Spear Stickman: ฝึกฝนทักษะการโยนออนไลน์!",
+    "slogan": "แสดงทักษะการโยนของคุณ!",
+    "description": "พร้อมทดสอบความแม่นยำของคุณหรือไม่? Spear Stickman ท้าให้คุณฝึกฝนศิลปะการโยน! เพลิดเพลินกับเกมอาร์เคดที่น่าสนใจ Spear Stickman แสดงทักษะของคุณ เล่น Spear Stickman ตอนนี้!",
+    "Loading": {
+      "title": "กำลังโหลด..."
+    },
+    "Navbar": {
+      "title": "แถบนำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์ที่เป็นมิตร",
+      "articleList": "รายการบทความ",
+      "home": "หน้าแรก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "Spear Stickman",
+      "description": "การฆ่า – ฝึกฝนทักษะเกม โชว์ทักษะการโยนของคุณในเกมอาร์เคดนี้ โชคดี!",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ลงในคลิปบอร์ดแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Spear Stickman: เกมทักษะการโยน",
+      "whatIsTitle": "Spear Stickman คืออะไร?",
+      "whatIsDescription": "Spear Stickman เป็นเกมอาร์เคดที่น่าสนใจ ที่คุณจะทดสอบและแสดงทักษะการโยนของคุณ ตั้งเป้าหมาย โยน และเอาชนะความท้าทาย!",
+      "howToPlayTitle": "วิธีการเล่น",
+      "howToPlayStep1": "ตั้งเป้าหมายหอกของคุณโดยใช้เมาส์หรือสัมผัส",
+      "howToPlayStep2": "ปรับระดับพลังสำหรับการโยนที่สมบูรณ์แบบ",
+      "howToPlayStep3": "ปล่อยเพื่อปล่อยหอกของคุณและเข้าเป้าหมาย",
+      "keyFeaturesTitle": "คุณสมบัติหลัก",
+      "feature1Title": "การโยนที่แม่นยำ",
+      "feature1Description": "ฝึกฝนศิลปะการโยนหอกที่แม่นยำเพื่อเข้าเป้าหมายที่ท้าทายที่สุด",
+      "feature2Title": "การเล่นเกมที่เน้นทักษะ",
+      "feature2Description": "พัฒนาทักษะของคุณและกลายเป็นผู้เชี่ยวชาญการโยนหอกผ่านการฝึกฝนและกลยุทธ์",
+      "feature3Title": "การกระทำแบบอาร์เคด",
+      "feature3Description": "เพลิดเพลินกับการกระทำแบบอาร์เคดที่รวดเร็วพร้อมความท้าทายการโยนที่ติดใจ",
+      "feature4Title": "ระดับที่ท้าทาย",
+      "feature4Description": "ทดสอบทักษะของคุณในหลากหลายระดับที่ยากขึ้นเรื่อยๆ"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นในการเล่น"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

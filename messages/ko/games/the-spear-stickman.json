@@ -1,0 +1,77 @@
+{
+  "the-spear-stickman": {
+    "title": "피어 스틱맨 게임: 온라인으로 투척 기술 마스터!",
+    "slogan": "투척 실력을 보여주세요!",
+    "description": "정확성을 테스트할 준비가 되셨나요? 피어 스틱맨은 투척의 기술을 마스터하도록 도전합니다! 숙련된 기술을 선보이는 매력적인 아케이드 게임, 피어 스틱맨을 즐겨보세요. 지금 바로 피어 스틱맨을 플레이하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친선 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "피어 스틱맨",
+      "description": "이 아케이드 게임에서 게임 숙련도를 보여주세요. 좋은 게임 하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "피어 스틱맨: 투척 기술 게임",
+      "whatIsTitle": "피어 스틱맨은 무엇인가요?",
+      "whatIsDescription": "피어 스틱맨은 투척 기술을 테스트하고 보여주는 매력적인 아케이드 게임입니다. 조준하고, 투척하고, 도전 과제를 정복하세요!",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "마우스 또는 터치를 사용하여 창을 조준합니다.",
+      "howToPlayStep2": "완벽한 투척을 위해 힘 조절이 필요합니다.",
+      "howToPlayStep3": "발사하여 창을 발사하고 표적을 맞추세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "정확한 투척",
+      "feature1Description": "가장 어려운 표적까지 정확하게 창을 투척하는 기술을 마스터하세요.",
+      "feature2Title": "숙련 기반 게임 플레이",
+      "feature2Description": "연습과 전략을 통해 투척 숙련도를 향상시키고 투척 마스터가 되세요.",
+      "feature3Title": "아케이드 액션",
+      "feature3Description": "중독성 있는 투척 도전 과제로 빠르게 진행되는 아케이드 액션을 즐겨보세요.",
+      "feature4Title": "도전적인 레벨",
+      "feature4Description": "다양한 점점 어려워지는 레벨을 통해 숙련도를 테스트하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "자세히 보기",
+      "page": "페이지"
+    }
+  }
+}
