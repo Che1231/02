@@ -1,0 +1,77 @@
+{
+  "warfare-1942": {
+    "title": "1942년 전쟁: 무료 온라인 WWII 전투 체험!",
+    "slogan": "1942년 전쟁의 강렬함을 경험하세요!",
+    "description": "1942년 전쟁과 함께 흥미진진한 WWII 전투에 뛰어들세요! 군사 애호가를 위한 강렬한 온라인 전투에 참여하세요. 지금 1942년 전쟁을 플레이하고 궁극적인 생존 및 전략적 게임 플레이를 경험하세요.",
+    "Loading": {
+      "title": "로딩중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "게시글 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "1942년 전쟁",
+      "description": "모든 전투가 독특한 생존 경쟁인 제2차 세계대전의 분위기에 몰입하세요! 이 게임은 군사 애호가 및 강렬한 온라인 전투를 좋아하는 사람들을 위해 설계되었습니다.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "1942년 전쟁",
+      "whatIsTitle": "1942년 전쟁이란 무엇인가?",
+      "whatIsDescription": "1942년 전쟁은 숙련된 전투원과 신참 모두에게 적합한, 상세한 게임 플레이, 다양한 캐릭터 및 커스터마이징 기능을 갖춘 슈팅 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "캐릭터를 선택하고 로드아웃을 맞춤 설정합니다.",
+      "howToPlayStep2": "온라인 전투에 참여하고 팀과 협력합니다.",
+      "howToPlayStep3": "생존을 위해 싸우고 1942년 전쟁 전장을 지배합니다.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "강렬한 전투",
+      "feature1Description": "역동적이고 도전적인 전투 상황에 참여하세요.",
+      "feature2Title": "다양한 캐릭터",
+      "feature2Description": "각기 고유한 능력을 가진 다양한 캐릭터 중에서 선택하세요.",
+      "feature3Title": "커스터마이징 옵션",
+      "feature3Description": "플레이 스타일에 맞게 무기와 장비를 개인화하세요.",
+      "feature4Title": "온라인 멀티플레이어",
+      "feature4Description": "전 세계 플레이어와 경쟁하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 동영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

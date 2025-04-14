@@ -1,0 +1,120 @@
+{
+  "name": "Warfare 1942",
+  "pagePath": "/games/warfare-1942",
+  "pageName": "warfare-1942",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://s3.eponesh.com/games/17114/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomKraken87.png",
+      "content": "Warfare 1942 is insane! The WWII atmosphere is so immersive, I feel like I’m actually on the battlefield. Love the customization options!"
+    },
+    {
+      "author": "NeonRevolver_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonRevolver_X.png",
+      "content": "Just started playing Warfare 1942 and wow, the character variety is amazing. Definitely a game for military enthusiasts!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Warfare 1942? More like Warfare Awesome! The battles are intense and the gameplay is super detailed. Highly recommend!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "I’m usually terrible at shooters, but Warfare 1942 is surprisingly beginner-friendly. Still getting owned though, lol."
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "Warfare 1942 is a blast! The customization options are top-notch, and the battles are always intense. Can’t stop playing!"
+    },
+    {
+      "author": "StalkingPhoenix99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix99.png",
+      "content": "The WWII vibe in Warfare 1942 is spot on. Every battle feels unique and challenging. Love it!"
+    },
+    {
+      "author": "SavageKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatana_X.png",
+      "content": "Warfare 1942 is the real deal. The gameplay is detailed, and the character variety keeps things fresh. A must-play!"
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "Warfare 1942 is intense! The battles are so realistic, it’s like being in a war movie. Totally hooked!"
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "Warfare 1942 is great, but man, the lag can be brutal. Still, the customization options make it worth it."
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "Warfare 1942 is a gem for shooter fans. The WWII setting and detailed gameplay are just perfect. Loving it!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-14/images/1744596940618-h5qrwo.jpg",
+  "page_path": "/games/warfare-1942",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Shooting"
+  ],
+  "createdTime": "2025-04-14 10:15:32"
+}

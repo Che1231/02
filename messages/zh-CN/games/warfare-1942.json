@@ -1,0 +1,77 @@
+{
+  "warfare-1942": {
+    "title": "战火1942：免费体验激烈的二战在线战斗！",
+    "slogan": "体验战火1942的激烈！",
+    "description": "加入战火1942，投入到惊险的二战战斗中！参与为军事爱好者量身定制的激烈在线战斗。立即畅玩战火1942，体验终极生存和战略游戏玩法。",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建于",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "战火1942",
+      "description": "沉浸在二战的氛围中，每一场战斗都是为生存而战的独特战斗！该游戏专为军事爱好者和那些热爱激烈在线战斗的人而设计。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "战火1942",
+      "whatIsTitle": "什么是战火1942？",
+      "whatIsDescription": "战火1942是一款具有详细游戏玩法、各种角色和定制的射击游戏，适合经验丰富的战士和新手。",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "选择你的角色并自定义你的装备。",
+      "howToPlayStep2": "加入在线战斗并与你的团队协调。",
+      "howToPlayStep3": "在战火1942中为生存而战并统治战场。",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "激烈的战斗",
+      "feature1Description": "参与动态和具有挑战性的战斗场景。",
+      "feature2Title": "角色多样性",
+      "feature2Description": "从一系列角色中选择，每个角色都有独特的能力。",
+      "feature3Title": "自定义选项",
+      "feature3Description": "个性化你的武器和装备，以适应你的游戏风格。",
+      "feature4Title": "在线多人游戏",
+      "feature4Description": "与来自世界各地的玩家竞争。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "玩家评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "分类",
+      "noCategories": "未找到分类",
+      "viewMore": "查看更多",
+      "page": "页"
+    }
+  }
+}

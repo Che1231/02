@@ -283,7 +283,7 @@
     "title": "can-your-pet",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743306431731-8erm7.png",
     "url": "/games/can-your-pet",
-    "category": "Игры",
+    "category": "can-your-pet",
     "visible": true
   },
   {
@@ -542,7 +542,7 @@
     "title": "Friday Night Funkin",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-05/images/1743841812753-93wvdp.jpg",
     "url": "/games/friday-night-funkin",
-    "category": "Игры",
+    "category": "Музыкальные игры",
     "visible": true
   },
   {
@@ -1431,7 +1431,7 @@
     "title": "FNF Week 6",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-12/images/1744452313095-5id5k.jpg",
     "url": "/games/fnf-week-6",
-    "category": "Игры",
+    "category": "Музыкальные игры",
     "visible": true
   },
   {
@@ -1452,6 +1452,13 @@
     "title": "Fill The Battery",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-12/images/1744453519560-wf4b9.jpg",
     "url": "/games/fill-the-battery",
+    "category": "Игры",
+    "visible": true
+  },
+  {
+    "title": "Warfare 1942",
+    "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-14/images/1744596940618-h5qrwo.jpg",
+    "url": "/games/warfare-1942",
     "category": "Игры",
     "visible": true
   }
