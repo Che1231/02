@@ -1,0 +1,1 @@
+Use your mouse to aim and fire your bow. Hold your left mouse button to draw, and release to fire. The crosshairs will slowly follow your cursor as you move your mouse. In most levels, you'll need to pay attention to the wind speed and direction if you want to hit the bullseye.

@@ -1,0 +1,77 @@
+{
+  "archery-world-tour": {
+    "title": "Tour du Monde de Tir à l'Arc - Jouez à des jeux de tir à l'arc en ligne gratuitement",
+    "slogan": "Maîtrisez l'arc et la flèche dans Archery World Tour !",
+    "description": "Prêt à tester vos compétences en tir à l'arc ? Jouez à Archery World Tour, visez le centre de la cible et devenez un champion. Profitez d'un gameplay réaliste et défiez-vous dans Archery World Tour dès maintenant ! Archery World Tour offre des heures de plaisir gratuitement.",
+    "Loading": {
+      "title": "Chargement d'Archery World Tour..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens utiles",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Tour du Monde de Tir à l'Arc",
+      "description": "Utilisez votre souris pour viser et tirer avec votre arc dans Archery World Tour. Maintenez le bouton gauche de la souris pour tendre l'arc, puis relâchez-le pour tirer. Le réticule suivra lentement votre curseur lorsque vous déplacez votre souris. Dans la plupart des niveaux, vous devrez faire attention à la vitesse et à la direction du vent si vous voulez atteindre le centre de la cible dans Archery World Tour.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Tour du Monde de Tir à l'Arc",
+      "whatIsTitle": "Qu'est-ce que Archery World Tour ?",
+      "whatIsDescription": "Archery World Tour est un jeu de simulation de tir à l'arc passionnant où vous testez vos compétences avec un arc et des flèches.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Utilisez votre souris pour viser votre tir.",
+      "howToPlayStep2": "Maintenez le bouton gauche de la souris pour tendre votre arc.",
+      "howToPlayStep3": "Relâchez le bouton pour tirer la flèche.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Physique réaliste",
+      "feature1Description": "Découvrez le vol réaliste des flèches et les effets du vent.",
+      "feature2Title": "Niveaux stimulants",
+      "feature2Description": "Testez vos compétences dans une variété d'environnements.",
+      "feature3Title": "Visée précise",
+      "feature3Description": "Maîtrisez votre visée pour atteindre le centre de la cible à chaque fois.",
+      "feature4Title": "Commandes intuitives",
+      "feature4Description": "Jeu facile à apprendre, difficile à maîtriser."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Afficher plus",
+      "page": "Page"
+    }
+  }
+}
