@@ -1,0 +1,77 @@
+{
+  "b-cubed": {
+    "title": "เกม B-Cubed: เล่นปริศนาออนไลน์ฟรี!",
+    "slogan": "การผจญภัยปริศนาสุดยอด! เล่น B-Cubed ตอนนี้",
+    "description": "กำลังมองหาเกมปริศนาที่สนุกหรือไม่? แก้ปริศนาในระดับที่ท้าทายใน B-Cubed เกมออนไลน์ที่น่าสนใจ เลื่อนลูกบาศก์อย่างระมัดระวังข้ามแต่ละตารางเพื่อชนะ! เพลิดเพลินกับ B-Cubed ฟรี!",
+    "Loading": {
+      "title": "กำลังโหลด B-Cubed..."
+    },
+    "Navbar": {
+      "title": "นำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์มิตรภาพ",
+      "articleList": "รายการบทความ",
+      "home": "หน้าแรก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "B-Cubed",
+      "description": "เลื่อนลูกบาศก์โดยใช้ลูกศรบนแป้นพิมพ์ของคุณ เป้าหมายของคุณคือการข้ามแต่ละตารางทุกตารางบนทางของคุณไปยังตารางสุดท้าย",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ลงในคลิปบอร์ดแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "คุณสมบัติของ B-Cubed",
+      "whatIsTitle": "B-Cubed คืออะไร?",
+      "whatIsDescription": "B-Cubed คือเกมปริศนาที่น่าสนใจ คุณจะเลื่อนลูกบาศก์ข้ามกระดาน โดยทำให้แน่ใจว่าคุณสัมผัสทุกตารางจนถึงท้ายเกม ซึ่งเป็นเกมกลยุทธ์และความแม่นยำ!",
+      "howToPlayTitle": "วิธีการเล่น B-Cubed",
+      "howToPlayStep1": "ใช้ลูกศรเพื่อเลื่อน B-Cubed",
+      "howToPlayStep2": "ข้ามทุกตารางบนกระดาน",
+      "howToPlayStep3": "ไปให้ถึงตารางสุดท้ายเพื่อ पूराระดับ",
+      "keyFeaturesTitle": "คุณสมบัติหลัก",
+      "feature1Title": "ปริศนาที่ไม่เหมือนใคร",
+      "feature1Description": "แก้ปริศนาที่ไม่เหมือนใครและท้าทายหลากหลายใน B-Cubed",
+      "feature2Title": "การเล่นเกมเชิงกลยุทธ์",
+      "feature2Description": "วางแผนการเคลื่อนไหวอย่างรอบคอบเพื่อประสบความสำเร็จใน B-Cubed",
+      "feature3Title": "การควบคุมที่ง่าย",
+      "feature3Description": "เรียนรู้ได้ง่าย แต่ยากที่จะเชี่ยวชาญการควบคุม B-Cubed",
+      "feature4Title": "ความสนุกไม่รู้จบ",
+      "feature4Description": "เพลิดเพลินไปกับการเล่นเกมที่น่าสนใจเป็นเวลานานด้วย B-Cubed"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "ขอแนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นการเล่นเกม"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

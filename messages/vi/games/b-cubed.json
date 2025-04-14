@@ -1,0 +1,77 @@
+{
+  "b-cubed": {
+    "title": "Trò chơi B-Cubed: Chơi trò giải đố trực tuyến miễn phí!",
+    "slogan": "Cuộc phiêu lưu giải đố cuối cùng! Chơi B-Cubed ngay bây giờ.",
+    "description": "Bạn đang tìm kiếm một trò chơi giải đố thú vị? Giải quyết các cấp độ đầy thách thức trong B-Cubed, một trò chơi trực tuyến cuốn hút. Điều khiển khối hình lập phương một cách cẩn thận, di chuyển qua mỗi ô vuông để chiến thắng! Thưởng thức B-Cubed hoàn toàn miễn phí!",
+    "Loading": {
+      "title": "Đang tải B-Cubed..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu nghị",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "B-Cubed",
+      "description": "Kéo khối hình lập phương bằng các mũi tên trên bàn phím của bạn. Mục tiêu của bạn là di chuyển qua mọi ô vuông trên đường đến ô vuông cuối cùng.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Tính năng của B-Cubed",
+      "whatIsTitle": "B-Cubed là gì?",
+      "whatIsDescription": "B-Cubed là một trò chơi giải đố hấp dẫn nơi bạn điều khiển một khối hình lập phương trên một bảng, đảm bảo bạn chạm vào mọi ô vuông để đến đích. Đó là một trò chơi đòi hỏi chiến thuật và chính xác!",
+      "howToPlayTitle": "Cách chơi B-Cubed",
+      "howToPlayStep1": "Sử dụng các phím mũi tên để kéo B-Cubed.",
+      "howToPlayStep2": "Di chuyển qua mọi ô vuông trên bảng.",
+      "howToPlayStep3": "Đạt đến ô vuông cuối cùng để hoàn thành cấp độ.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Các câu đố độc đáo",
+      "feature1Description": "Giải quyết nhiều câu đố độc đáo và đầy thử thách trong B-Cubed.",
+      "feature2Title": "Gameplay chiến thuật",
+      "feature2Description": "Lên kế hoạch di chuyển cẩn thận để thành công trong B-Cubed.",
+      "feature3Title": "Điều khiển đơn giản",
+      "feature3Description": "Dễ học nhưng khó thành thạo các điều khiển của B-Cubed.",
+      "feature4Title": "Sự thú vị không giới hạn",
+      "feature4Description": "Tận hưởng những giờ chơi game hấp dẫn với B-Cubed."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "b-cubed": {
+    "title": "B-Cubed 게임: 무료로 퍼즐 게임 플레이!",
+    "slogan": "최고의 퍼즐 모험! 지금 B-Cubed 플레이하세요.",
+    "description": "재미있는 퍼즐 게임을 찾으시나요? B-Cubed의 매혹적인 온라인 게임에서 어려운 레벨을 해결하세요. 정교하게 큐브를 조작하여 각 사각형을 통과하여 승리하세요!  B-Cubed를 무료로 즐겨보세요!",
+    "Loading": {
+      "title": "B-Cubed 로딩 중..."
+    },
+    "Navbar": {
+      "title": "표시"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인 정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "컨텐츠",
+      "help": "도움말",
+      "friendlyLinks": "유용한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "B-Cubed",
+      "description": "키보드의 화살표를 사용하여 큐브를 움직입니다. 목표는 최종 사각형에 도착하기 위한 모든 사각형을 통과하는 것입니다.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "B-Cubed 기능",
+      "whatIsTitle": "B-Cubed란 무엇인가요?",
+      "whatIsDescription": "B-Cubed는 보드 위에서 큐브를 이동하여 모든 사각형을 만지고 끝까지 도달하는 매혹적인 퍼즐 게임입니다. 전략과 정확성이 요구되는 게임입니다!",
+      "howToPlayTitle": "B-Cubed 플레이 방법",
+      "howToPlayStep1": "화살표 키를 사용하여 B-Cubed를 움직입니다.",
+      "howToPlayStep2": "보드의 모든 사각형을 통과합니다.",
+      "howToPlayStep3": "최종 사각형에 도달하여 레벨을 완료합니다.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "독특한 퍼즐",
+      "feature1Description": "B-Cubed에서 다양하고 어려운 퍼즐을 풀어보세요.",
+      "feature2Title": "전략적인 게임 플레이",
+      "feature2Description": "B-Cubed에서 성공하기 위해 이동을 신중하게 계획하세요.",
+      "feature3Title": "간단한 컨트롤",
+      "feature3Description": "배우기는 쉽지만 마스터하기는 어려운 B-Cubed 컨트롤입니다.",
+      "feature4Title": "끊임없는 즐거움",
+      "feature4Description": "B-Cubed로 수많은 몰입적인 게임 시간을 즐기세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

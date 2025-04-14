@@ -1,0 +1,77 @@
+{
+  "b-cubed": {
+    "title": "B-Cubed Game: Play Puzzle Online for Free!",
+    "slogan": "The ultimate puzzle adventure! Play B-Cubed now.",
+    "description": "Looking for a fun puzzle game? Solve challenging levels in B-Cubed, a captivating online game. Carefully maneuver the cube, passing over each square to win! Enjoy B-Cubed for free!",
+    "Loading": {
+      "title": "Loading B-Cubed..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "B-Cubed",
+      "description": "Slide the cube using the arrows on your keyboard. Your goal is to pass over every single square on your way to the final square.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "B-Cubed Features",
+      "whatIsTitle": "What is B-Cubed?",
+      "whatIsDescription": "B-Cubed is a captivating puzzle game where you navigate a cube across a board, ensuring you touch every square to reach the end. It's a game of strategy and precision!",
+      "howToPlayTitle": "How to Play B-Cubed",
+      "howToPlayStep1": "Use arrow keys to slide the B-Cubed.",
+      "howToPlayStep2": "Pass over every square on the board.",
+      "howToPlayStep3": "Reach the final square to complete the level.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Unique Puzzles",
+      "feature1Description": "Solve a variety of unique and challenging puzzles in B-Cubed.",
+      "feature2Title": "Strategic Gameplay",
+      "feature2Description": "Carefully plan your moves to succeed in B-Cubed.",
+      "feature3Title": "Simple Controls",
+      "feature3Description": "Easy to learn, but hard to master B-Cubed controls.",
+      "feature4Title": "Endless Fun",
+      "feature4Description": "Enjoy hours of engaging gameplay with B-Cubed."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "b-cubed": {
+    "title": "Permainan B-Cubed: Mainkan Puzzle Online Gratis!",
+    "slogan": "Petualangan teka-teki utama! Mainkan B-Cubed sekarang.",
+    "description": "Mencari permainan teka-teki yang menyenangkan? Pecahkan level yang menantang di B-Cubed, permainan online yang menawan. Kendalikan kubus dengan hati-hati, lintasi setiap kotak untuk menang! Nikmati B-Cubed gratis!",
+    "Loading": {
+      "title": "Memuat B-Cubed..."
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Teman",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "B-Cubed",
+      "description": "Geser kubus menggunakan panah pada keyboard Anda. Tujuan Anda adalah untuk melewati setiap kotak di jalan menuju kotak terakhir.",
+      "iframeTitle": "Pratinjau Permainan",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Permainan",
+      "playGame": "Mainkan Permainan"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Fitur B-Cubed",
+      "whatIsTitle": "Apa Itu B-Cubed?",
+      "whatIsDescription": "B-Cubed adalah permainan teka-teki yang menawan di mana Anda menavigasi kubus di atas papan, memastikan Anda menyentuh setiap kotak untuk mencapai akhir.  Ini adalah permainan strategi dan presisi!",
+      "howToPlayTitle": "Cara Bermain B-Cubed",
+      "howToPlayStep1": "Gunakan tombol panah untuk menggeser B-Cubed.",
+      "howToPlayStep2": "Lintasi setiap kotak di papan.",
+      "howToPlayStep3": "Jangkau kotak terakhir untuk menyelesaikan level.",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Teka-teki Unik",
+      "feature1Description": "Selesaikan berbagai teka-teki unik dan menantang di B-Cubed.",
+      "feature2Title": "Gameplay Strategis",
+      "feature2Description": "Rencanakan langkah-langkah Anda dengan hati-hati untuk berhasil di B-Cubed.",
+      "feature3Title": "Kontrol Sederhana",
+      "feature3Description": "Mudah dipelajari, tetapi sulit dikuasai kontrol B-Cubed.",
+      "feature4Title": "Hiburan Tanpa Batas",
+      "feature4Description": "Nikmati jam-jam permainan yang menarik dengan B-Cubed."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Permainan"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Permainan",
+      "description": "Semua Permainan",
+      "games": "Permainan"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Lebih Banyak",
+      "page": "Halaman"
+    }
+  }
+}

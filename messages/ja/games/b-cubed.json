@@ -1,0 +1,77 @@
+{
+  "b-cubed": {
+    "title": "B-Cubedゲーム：無料のパズルゲームをプレイ！",
+    "slogan": "究極のパズルアドベンチャー！今すぐB-Cubedをプレイ。",
+    "description": "楽しいパズルゲームを探している？B-Cubedの挑戦的なレベルをクリアしよう。魅力的なオンラインゲームです。キューブを慎重に動かし、各マスを通過して勝利を目指しましょう！B-Cubedを無料で楽しんでください！",
+    "Loading": {
+      "title": "B-Cubedを読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "B-Cubed",
+      "description": "キーボードの矢印キーを使ってキューブをスライドさせ、最終地点まですべてのマスを通過させるのが目標です。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "B-Cubedの特徴",
+      "whatIsTitle": "B-Cubedとは？",
+      "whatIsDescription": "B-Cubedは、キューブをボード上で移動させ、すべてのマスに触れることでゴールを目指す魅力的なパズルゲームです。戦略性と正確性が求められます！",
+      "howToPlayTitle": "B-Cubedの遊び方",
+      "howToPlayStep1": "矢印キーを使ってB-Cubedをスライドさせます。",
+      "howToPlayStep2": "ボード上のすべてのマスを通過します。",
+      "howToPlayStep3": "最終地点に到達してレベルをクリアします。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "ユニークなパズル",
+      "feature1Description": "B-Cubedでは様々なユニークで挑戦的なパズルを解きます。",
+      "feature2Title": "戦略的なゲームプレイ",
+      "feature2Description": "B-Cubedで成功するために、慎重に自分の動きを計画します。",
+      "feature3Title": "シンプルな操作",
+      "feature3Description": "B-Cubedの操作は簡単ですが、マスターするのは難しいです。",
+      "feature4Title": "飽きのこない楽しさ",
+      "feature4Description": "B-Cubedで、数時間楽しめる魅力的なゲームプレイをお楽しみください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームのコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

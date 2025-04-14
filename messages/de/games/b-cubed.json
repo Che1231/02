@@ -1,0 +1,77 @@
+{
+  "b-cubed": {
+    "title": "B-Cubed Spiel: Spielen Sie kostenlos Online-Puzzle!",
+    "slogan": "Das ultimative Rätselabenteuer! Spielen Sie jetzt B-Cubed.",
+    "description": "Auf der Suche nach einem unterhaltsamen Puzzlespiel? Lösen Sie herausfordernde Level in B-Cubed, einem fesselnden Online-Spiel. Manövrieren Sie den Würfel geschickt über jedes Quadrat, um zu gewinnen! Spielen Sie B-Cubed kostenlos!",
+    "Loading": {
+      "title": "B-Cubed wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "B-Cubed",
+      "description": "Verschieben Sie den Würfel mit den Pfeiltasten Ihrer Tastatur. Ihr Ziel ist es, jedes einzelne Quadrat auf Ihrem Weg zum letzten Quadrat zu überdecken.",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "B-Cubed Funktionen",
+      "whatIsTitle": "Was ist B-Cubed?",
+      "whatIsDescription": "B-Cubed ist ein fesselndes Puzzlespiel, bei dem Sie einen Würfel über ein Brett bewegen und jedes Quadrat berühren, um das Ziel zu erreichen. Es ist ein Spiel der Strategie und Präzision!",
+      "howToPlayTitle": "So spielen Sie B-Cubed",
+      "howToPlayStep1": "Verwenden Sie die Pfeiltasten, um den B-Cubed zu bewegen.",
+      "howToPlayStep2": "Überdecken Sie jedes Quadrat auf dem Brett.",
+      "howToPlayStep3": "Erreichen Sie das letzte Quadrat, um das Level zu beenden.",
+      "keyFeaturesTitle": "Wichtige Merkmale",
+      "feature1Title": "Einzigartige Rätsel",
+      "feature1Description": "Lösen Sie eine Vielzahl einzigartiger und herausfordernder Rätsel in B-Cubed.",
+      "feature2Title": "Strategisches Gameplay",
+      "feature2Description": "Planen Sie Ihre Züge sorgfältig, um in B-Cubed erfolgreich zu sein.",
+      "feature3Title": "Einfache Steuerung",
+      "feature3Description": "Einfache Bedienung, aber schwer zu meistern.",
+      "feature4Title": "Endloser Spaß",
+      "feature4Description": "Genießen Sie stundenlangen Spielspaß mit B-Cubed."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "b-cubed": {
+    "title": "B-Cubed遊戲：免費線上玩益智遊戲！",
+    "slogan": "究極的益智冒險！現在就玩 B-Cubed。",
+    "description": "正在尋找有趣的益智遊戲嗎？在 B-Cubed 中挑戰刺激的關卡，這款引人入勝的線上遊戲。仔細操作立方體，跨過每個方格即可獲勝！免費暢玩 B-Cubed！",
+    "Loading": {
+      "title": "載入 B-Cubed..."
+    },
+    "Navbar": {
+      "title": "導覽"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "B-Cubed",
+      "description": "使用鍵盤上的箭頭鍵移動立方體。您的目標是途經每個方格，最終到達終點方格。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "B-Cubed 特色",
+      "whatIsTitle": "B-Cubed 簡介",
+      "whatIsDescription": "B-Cubed 是一款引人入勝的益智遊戲，讓您在棋盤上移動立方體，確保您觸碰到每個方格才能到達終點。這是一款需要策略和精準的遊戲！",
+      "howToPlayTitle": "如何玩 B-Cubed",
+      "howToPlayStep1": "使用方向鍵移動 B-Cubed。",
+      "howToPlayStep2": "跨過棋盤上的每個方格。",
+      "howToPlayStep3": "到達終點方格即可完成關卡。",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "獨特的益智遊戲",
+      "feature1Description": "在 B-Cubed 中解決各種獨特且具挑戰性的益智遊戲。",
+      "feature2Title": "策略性的遊戲玩法",
+      "feature2Description": "仔細計畫您的動作，才能在 B-Cubed 中取得成功。",
+      "feature3Title": "簡單的控制",
+      "feature3Description": "容易上手，但 B-Cubed 的控制難以精通。",
+      "feature4Title": "無盡的樂趣",
+      "feature4Description": "透過 B-Cubed，享受數小時的精彩遊戲體驗。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦遊戲"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到任何分類",
+      "viewMore": "查看更多",
+      "page": "頁"
+    }
+  }
+}

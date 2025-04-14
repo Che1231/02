@@ -1,0 +1,77 @@
+{
+  "b-cubed": {
+    "title": "B-Cubed Oyunu: Ücretsiz Çevrimiçi Bulmaca Oyna!",
+    "slogan": "En son bulmaca macerası! Şimdi B-Cubed'i oynayın.",
+    "description": "Eğlenceli bir bulmaca oyunu mu arıyorsunuz? B-Cubed'de, büyüleyici bir çevrimiçi oyunda zorlu seviyeleri çözün. Küpü dikkatlice hareket ettirin, her kare üzerinden geçerek kazanın! B-Cubed'i ücretsiz olarak deneyin!",
+    "Loading": {
+      "title": "B-Cubed Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinme"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "B-Cubed",
+      "description": "Klavyedeki ok tuşlarını kullanarak küpü kaydırın. Hedefiniz, son kareye giden yolda her kare üzerinden geçmektir.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "B-Cubed Özellikleri",
+      "whatIsTitle": "B-Cubed Nedir?",
+      "whatIsDescription": "B-Cubed, bir küpü bir tahta üzerinde hareket ettirdiğiniz, son noktaya ulaşmak için her kareye dokunmanızı sağlayan büyüleyici bir bulmaca oyunudur. Strateji ve hassasiyet oyunudur!",
+      "howToPlayTitle": "B-Cubed Nasıl Oynanır?",
+      "howToPlayStep1": "B-Cubed'i kaydırmak için ok tuşlarını kullanın.",
+      "howToPlayStep2": "Tahtanın üzerindeki her kare üzerinden geçin.",
+      "howToPlayStep3": "Seviyeyi tamamlamak için son kareye ulaşın.",
+      "keyFeaturesTitle": "Temel Özellikler",
+      "feature1Title": "Eşsiz Bulmacalar",
+      "feature1Description": "B-Cubed'de çeşitli eşsiz ve zorlu bulmacaları çözün.",
+      "feature2Title": "Stratejik Oyun",
+      "feature2Description": "B-Cubed'de başarılı olmak için hareketlerinizi dikkatlice planlayın.",
+      "feature3Title": "Basit Kontroller",
+      "feature3Description": "Öğrenmesi kolay, ancak ustalaşması zor olan B-Cubed kontrolleri.",
+      "feature4Title": "Sonsuz Eğlence",
+      "feature4Description": "B-Cubed ile saatlerce etkileyici oyun keyfi yaşayın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Hiç kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}
