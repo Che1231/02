@@ -1,0 +1,77 @@
+{
+  "archery-world-tour": {
+    "title": "アーチェリーワールドツアー - 無料でアーチェリーゲームをプレイ",
+    "slogan": "アーチェリーワールドツアーで弓矢をマスター！",
+    "description": "アーチェリー技術をテストする準備はできましたか？アーチェリーワールドツアーで的を射て、チャンピオンになりましょう。リアルなゲームプレイをお楽しみください。アーチェリーワールドツアーで今すぐ挑戦しましょう！アーチェリーワールドツアーは、無料で楽しい時間を提供します。",
+    "Loading": {
+      "title": "アーチェリーワールドツアーを読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "アーチェリーワールドツアー",
+      "description": "アーチェリーワールドツアーでは、マウスを使って弓矢を構え、発射します。左のマウスボタンを押して引き、離して矢を放ちます。マウスを動かすと、クロスヘアがゆっくりとカーソルに追従します。ほとんどのレベルでは、アーチェリーワールドツアーで的を射るためには、風の速度と方向に注意する必要があります。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "アーチェリーワールドツアー",
+      "whatIsTitle": "アーチェリーワールドツアーとは？",
+      "whatIsDescription": "アーチェリーワールドツアーは、弓と矢であなたの技術をテストする、エキサイティングなアーチェリーシミュレーションゲームです。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "マウスを使って狙いを定めます。",
+      "howToPlayStep2": "左のマウスボタンを押して弓を引き上げます。",
+      "howToPlayStep3": "ボタンを離して矢を放ちます。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "リアルな物理エンジン",
+      "feature1Description": "リアルな矢の飛行と風の影響を体験してください。",
+      "feature2Title": "挑戦的なレベル",
+      "feature2Description": "様々な環境であなたの技能を試しましょう。",
+      "feature3Title": "正確な射撃",
+      "feature3Description": "毎回的を射抜くためのあなたの射撃技術を習得しましょう。",
+      "feature4Title": "直感的な操作",
+      "feature4Description": "覚えやすく、習得するのが難しいゲームプレイ。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}
