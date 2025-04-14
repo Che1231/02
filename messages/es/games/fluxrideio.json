@@ -1,0 +1,77 @@
+{
+  "fluxrideio": {
+    "title": "Juega a FluxRideIO en línea gratis: Acción de hoverbike a alta velocidad",
+    "slogan": "¡Experimenta la emoción de las batallas futuristas en FluxRideIO!",
+    "description": "Sumérgete en FluxRideIO, un juego 3D multijugador de alta velocidad. Domina los controles de la hoverbike, supera a tus rivales y deja estelas vibrantes. ¡Disfruta de emocionantes carreras en FluxRideIO! ¡Juega a FluxRideIO ahora!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces útiles",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "FluxRideIO",
+      "description": "¡Experimenta la acción a alta velocidad en FluxRideIO, un juego 3D multijugador de hoverbike! Supera a tus rivales y deja estelas vibrantes en esta electrizante carrera por la supervivencia.",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "FluxRideIO",
+      "whatIsTitle": "¿Qué es FluxRideIO?",
+      "whatIsDescription": "FluxRideIO es un emocionante juego 3D multijugador donde controlas una hoverbike de vanguardia en batallas futuristas. Navega por la arena, esquiva las estelas y supera a tus rivales en esta electrizante carrera por la supervivencia.",
+      "howToPlayTitle": "¿Cómo jugar a FluxRideIO?",
+      "howToPlayStep1": "Aumenta la velocidad con W, disminuye con S.",
+      "howToPlayStep2": "Gira a la izquierda y a la derecha con A y D para superar a tus oponentes.",
+      "howToPlayStep3": "Usa Q y E con W, S, A y D para girar tu bicicleta sin problemas en el aire.",
+      "keyFeaturesTitle": "Características clave de FluxRideIO",
+      "feature1Title": "Acción de alta velocidad",
+      "feature1Description": "Experimenta la descarga de adrenalina de las batallas futuristas.",
+      "feature2Title": "Jugabilidad estratégica",
+      "feature2Description": "Supera a tus rivales con precisión, tácticas y reflejos rápidos.",
+      "feature3Title": "Estelas vibrantes",
+      "feature3Description": "Deja una estela colorida mientras navegas por la arena.",
+      "feature4Title": "Controles intuitivos",
+      "feature4Description": "Domina tu hoverbike con controles fáciles de aprender."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "fluxrideio": {
+    "title": "免費線上暢玩 FluxRideIO - 高速懸浮機車競速",
+    "slogan": "在 FluxRideIO 中體驗未來戰鬥的刺激！",
+    "description": "投入 FluxRideIO，一款高速多人 3D 遊戲。掌握懸浮機車的控制，智勝對手，並留下鮮豔的軌跡。在 FluxRideIO 中享受刺激的競賽！立即暢玩 FluxRideIO！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "創建於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "FluxRideIO",
+      "description": "在 FluxRideIO 中體驗高速動作，這是一款多人 3D 懸浮機車遊戲。在這場激烈的生存競賽中，智勝對手並留下鮮豔的軌跡！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "FluxRideIO",
+      "whatIsTitle": "什麼是 FluxRideIO？",
+      "whatIsDescription": "FluxRideIO 是一款刺激的多人 3D 遊戲，您可以在未來戰鬥中控制一輛尖端的懸浮機車。在這場激烈的生存競賽中，導航競技場，躲避軌跡，並智勝您的對手。",
+      "howToPlayTitle": "如何玩 FluxRideIO",
+      "howToPlayStep1": "使用 W 增加速度，使用 S 降低速度。",
+      "howToPlayStep2": "使用 A 和 D 向左和向右轉向，以智勝對手。",
+      "howToPlayStep3": "將 Q 和 E 與 W、S、A 和 D 結合使用，以在空中無縫旋轉您的機車。",
+      "keyFeaturesTitle": "FluxRideIO 的主要特色",
+      "feature1Title": "高速動作",
+      "feature1Description": "體驗未來戰鬥的刺激。",
+      "feature2Title": "戰略遊戲",
+      "feature2Description": "通過時機、戰術和快速反應來智勝您的對手。",
+      "feature3Title": "鮮豔的軌跡",
+      "feature3Description": "在導航競技場時留下一條色彩繽紛的軌跡。",
+      "feature4Title": "直觀的控制",
+      "feature4Description": "通過易於學習的控制來掌握您的懸浮機車。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "未找到分類",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

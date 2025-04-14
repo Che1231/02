@@ -1,0 +1,77 @@
+{
+  "fluxrideio": {
+    "title": "플럭스라이드IO 온라인 무료 플레이 - 고속 호버바이크 액션",
+    "slogan": "플럭스라이드IO에서 미래 전투의 짜릿함을 경험하세요!",
+    "description": "고속 멀티플레이어 3D 게임 플럭스라이드IO에 뛰어드세요. 호버바이크 조작을 마스터하고 라이벌을 제치고 생생한 궤적을 남겨보세요. 플럭스라이드IO에서 짜릿한 레이스를 즐겨보세요! 지금 플럭스라이드IO를 플레이하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친선 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "플럭스라이드IO",
+      "description": "멀티플레이어 3D 호버바이크 게임 플럭스라이드IO에서 고속 액션을 경험해보세요. 라이벌을 제치고 짜릿한 생존 경쟁에서 생생한 궤적을 남겨보세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "플럭스라이드IO",
+      "whatIsTitle": "플럭스라이드IO는 무엇인가요?",
+      "whatIsDescription": "플럭스라이드IO는 미래 전투에서 최첨단 호버바이크를 조종하는 짜릿한 멀티플레이어 3D 게임입니다. 아레나를 탐색하고 궤적을 피하며 라이벌을 제치고 짜릿한 생존 경쟁에 참여하세요.",
+      "howToPlayTitle": "플럭스라이드IO 플레이 방법",
+      "howToPlayStep1": "W키로 속도를 높이고 S키로 속도를 낮춥니다.",
+      "howToPlayStep2": "A키와 D키로 방향을 바꿔 상대를 따돌립니다.",
+      "howToPlayStep3": "W, S, A, D키와 함께 Q키와 E키를 사용하여 공중에서 바이크를 원활하게 회전시켜보세요.",
+      "keyFeaturesTitle": "플럭스라이드IO의 주요 기능",
+      "feature1Title": "고속 액션",
+      "feature1Description": "미래 전투의 짜릿한 쾌감을 경험하세요.",
+      "feature2Title": "전략적인 게임플레이",
+      "feature2Description": "타이밍, 전략, 빠른 반응으로 라이벌을 제압하세요.",
+      "feature3Title": "생생한 궤적",
+      "feature3Description": "아레나를 탐색하면서 다채로운 색상의 궤적을 남겨보세요.",
+      "feature4Title": "직관적인 조작",
+      "feature4Description": "쉽게 배우고 익힐 수 있는 조작으로 호버바이크를 마스터하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

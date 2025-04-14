@@ -1,0 +1,78 @@
+{
+  "fluxrideio": {
+    "title": "免费在线玩FluxRideIO - 高速悬浮滑板车动作",
+    "slogan": "体验FluxRideIO中的未来战斗刺激！",
+    "description": "潜入FluxRideIO，一个高速多人3D游戏。掌握悬浮滑板车控制，巧妙地避开对手，留下绚丽轨迹。在FluxRideIO中体验刺激的比赛！现在就玩FluxRideIO！",
+    "Loading": {
+      "title": "加载中..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一个",
+      "previous": "上一个"
+    },
+    "HomeIframe": {
+      "title": "FluxRideIO",
+      "description": "在FluxRideIO中体验高速动作，这是一个多人3D悬浮滑板车游戏。在这个充满电力的生存竞赛中，巧妙地避开对手，留下绚丽的轨迹！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "FluxRideIO",
+      "whatIsTitle": "FluxRideIO 是什么？",
+      "whatIsDescription": "FluxRideIO 是一款刺激的多人3D游戏，您可以在未来战斗中控制尖端悬浮滑板车。在这个充满电力的生存竞赛中，在竞技场中穿梭，躲避轨迹，智胜对手！",
+      "howToPlayTitle": "如何玩FluxRideIO",
+      "howToPlayStep1": "按W加速，按S减速。",
+      "howToPlayStep2": "按A向左转弯，按D向右转弯，以巧妙地避开对手。",
+      "howToPlayStep3": "按Q和E配合W、S、A和D，在空中平稳旋转你的滑板车。",
+      "keyFeaturesTitle": "FluxRideIO 主要特色",
+      "feature1Title": "高速动作",
+      "feature1Description": "体验未来战斗带来的肾上腺素飙升。",
+      "feature2Title": "策略游戏",
+      "feature2Description": "利用时间、策略和快速反应智胜对手。",
+      "feature3Title": "绚丽轨迹",
+      "feature3Description": "在竞技场中穿梭时留下五彩缤纷的轨迹。",
+      "feature4Title": "直观控制",
+      "feature4Description": "轻松掌握悬浮滑板车的控制。",
+      "howToPlayStep4": "使用空格键或鼠标左键发射能量弹或道具。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}
