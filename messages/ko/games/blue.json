@@ -1,0 +1,77 @@
+{
+  "blue": {
+    "title": "블루 퍼즐 게임을 무료로 플레이하세요",
+    "slogan": "다른 퍼즐 게임이에요!",
+    "description": "매혹적인 퍼즐 게임, 블루에 뛰어드세요! 각각 새로운 도전을 제시하는 25개의 독특한 레벨을 풀고 화면을 파란색으로 만들어보세요. 지금 블루를 플레이하고 실력을 테스트하세요!",
+    "Loading": {
+      "title": "로딩중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "내용",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "블루",
+      "description": "옐로우, 레드, 블랙에 이어, 당신을 위한 또 다른 퍼즐 게임, 블루가 있습니다! 25개의 모든 레벨에서 화면을 파란색으로 만들 수 있나요? 각 레벨에는 고유한 도전 과제가 있습니다.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "블루 퍼즐 챌린지",
+      "whatIsTitle": "블루는 무엇인가요?",
+      "whatIsDescription": "블루는 25개의 모든 레벨에서 화면을 파란색으로 만들어야 하는 새로운 퍼즐 게임입니다. 각 레벨은 독특하고 흥미로운 도전 과제를 제시합니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "레벨을 분석하고 메커니즘을 파악하십시오.",
+      "howToPlayStep2": "사용 가능한 도구를 사용하여 요소를 조작하십시오.",
+      "howToPlayStep3": "전체 화면을 파란색으로 만들어 진행하십시오.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "독창적인 퍼즐",
+      "feature1Description": "각 레벨은 풀어야 할 독특한 퍼즐을 제공합니다.",
+      "feature2Title": "도전적인 게임플레이",
+      "feature2Description": "문제 해결 능력을 테스트하세요.",
+      "feature3Title": "직관적인 컨트롤",
+      "feature3Description": "학습은 쉽고, 숙달은 어렵습니다.",
+      "feature4Title": "아름다운 디자인",
+      "feature4Description": "블루의 시각적으로 만족스러운 경험을 즐기세요."
+    },
+    "HomeFAQs": {
+      "title": "자주묻는질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

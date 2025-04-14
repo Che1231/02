@@ -1,0 +1,77 @@
+{
+  "blue": {
+    "title": "Ücretsiz Oynamak İçin Mavi Bulmaca Oyununu Çevrimiçi Oyna",
+    "slogan": "Sizin için başka bir bulmaca!",
+    "description": "Büyülü bir bulmaca oyunu olan Mavi'ye dalın! Ekranı Mavi yapmak için her biri yeni bir meydan okuma sunan 25 benzersiz seviyeyi çözün. Şimdi Mavi'yi oynayın ve becerilerinizi test edin!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Klavuz",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Mavi",
+      "description": "Sarı, Kırmızı ve Siyah'tan sonra, işte sizin için başka bir bulmaca oyunu olan Mavi! Tüm 25 seviyede ekranı mavi yapabilir misiniz? Her seviyenin kendine özgü bir zorluğu var.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Mavi Bulmaca Zorluğu",
+      "whatIsTitle": "Mavi Nedir?",
+      "whatIsDescription": "Mavi, tüm 25 seviyede ekranı mavi yapmanız gereken yeni bir bulmaca oyunudur. Her seviye benzersiz ve ilginç bir meydan okuma sunar.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Seviyeyi analiz edin ve mekanizmaları belirleyin.",
+      "howToPlayStep2": "Elemanları değiştirmek için mevcut araçları kullanın.",
+      "howToPlayStep3": "Tamamen mavi bir ekran oluşturarak ilerleyin.",
+      "keyFeaturesTitle": "Temel Özellikler",
+      "feature1Title": "Benzersiz Bulmacalar",
+      "feature1Description": "Her seviye çözülecek farklı bir bulmaca sunar.",
+      "feature2Title": "Zorlu Oyun",
+      "feature2Description": "Problem çözme becerilerinizi test edin.",
+      "feature3Title": "Kullanıcı Dostu Kontroller",
+      "feature3Description": "Öğrenmesi kolay, ustalaşması zor.",
+      "feature4Title": "Güzel Tasarım",
+      "feature4Description": "Mavi oyununda görsel olarak hoş bir deneyimden keyif alın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Öneriler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

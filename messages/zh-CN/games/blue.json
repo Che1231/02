@@ -1,0 +1,77 @@
+{
+  "blue": {
+    "title": "免费在线玩蓝色拼图游戏",
+    "slogan": "为你准备的另一个拼图！",
+    "description": "潜入蓝色，一款引人入胜的拼图游戏！解决 25 个独特的关卡，每个关卡都带来新的挑战，让屏幕变蓝。现在玩蓝色，测试你的技能！",
+    "Loading": {
+      "title": "正在加载..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一步",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "蓝色",
+      "description": "在黄色、红色和黑色之后，现在你有了蓝色，另一个为你准备的益智游戏！你能否在 25 个关卡中让屏幕变成蓝色？每个关卡都有其独特的挑战。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL 已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "蓝色拼图挑战",
+      "whatIsTitle": "蓝色是什么？",
+      "whatIsDescription": "蓝色是一款新的益智游戏，你需要在 25 个关卡中将屏幕变成蓝色。每个关卡都呈现独特的有趣挑战。",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "分析关卡并识别机制。",
+      "howToPlayStep2": "使用可用工具操纵元素。",
+      "howToPlayStep3": "使整个屏幕变蓝以继续。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "独特的谜题",
+      "feature1Description": "每个关卡都提供独特的谜题供你解决。",
+      "feature2Title": "具有挑战性的游戏玩法",
+      "feature2Description": "测试你的问题解决能力。",
+      "feature3Title": "直观的控制",
+      "feature3Description": "易于学习，难以精通。",
+      "feature4Title": "漂亮的图案",
+      "feature4Description": "在蓝色中享受视觉上令人愉悦的体验。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页"
+    }
+  }
+}

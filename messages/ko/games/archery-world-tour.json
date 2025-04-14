@@ -1,0 +1,77 @@
+{
+  "archery-world-tour": {
+    "title": "궁술 월드 투어 - 무료로 온라인 궁술 게임 플레이",
+    "slogan": "궁술 월드 투어에서 활과 화살을 마스터하세요!",
+    "description": "궁술 실력을 테스트할 준비가 되셨나요? 궁술 월드 투어를 플레이하고, 황소 눈에 명중시키고 챔피언이 되세요. 현실적인 게임 플레이를 즐기고 지금 궁술 월드 투어에서 도전해 보세요! 궁술 월드 투어는 무료로 즐거움을 선사합니다.",
+    "Loading": {
+      "title": "궁술 월드 투어 로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "궁술 월드 투어",
+      "description": "궁술 월드 투어에서 마우스를 사용하여 활을 조준하고 발사하세요. 왼쪽 마우스 버튼을 누르고 있으면 활을 당기고, 버튼을 놓으면 화살을 발사합니다. 마우스를 움직이면 조준선이 천천히 커서를 따라옵니다. 대부분의 레벨에서 궁술 월드 투어에서 황소 눈에 명중하기 위해서는 바람의 속도와 방향에 주의해야 합니다.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "궁술 월드 투어",
+      "whatIsTitle": "궁술 월드 투어는 무엇인가요?",
+      "whatIsDescription": "궁술 월드 투어는 활과 화살을 사용하여 실력을 시험하는 흥미진진한 궁술 시뮬레이션 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "마우스를 사용하여 샷을 조준합니다.",
+      "howToPlayStep2": "왼쪽 마우스 버튼을 누르고 있으면 활을 당깁니다.",
+      "howToPlayStep3": "버튼을 놓으면 화살을 발사합니다.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "현실적인 물리",
+      "feature1Description": "현실적인 화살 비행과 바람 효과를 경험하세요.",
+      "feature2Title": "도전적인 레벨",
+      "feature2Description": "다양한 환경에서 숙련된 기술을 테스트합니다.",
+      "feature3Title": "정확한 조준",
+      "feature3Description": "매번 황소 눈에 명중하기 위해 조준력을 마스터합니다.",
+      "feature4Title": "직관적인 컨트롤",
+      "feature4Description": "쉽게 배우고, 어렵게 마스터하는 게임 플레이."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

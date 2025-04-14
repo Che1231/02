@@ -1,0 +1,77 @@
+{
+  "blue": {
+    "title": "無料でオンラインでブルーパズルゲームをプレイする",
+    "slogan": "あなたのためのもう一つのパズル！",
+    "description": "魅惑的なパズルゲーム、ブルー！25のユニークなレベルに挑戦し、画面をブルーに染め上げてください。今すぐにブルーをプレイして、あなたのスキルを試してみてください！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "ブルー",
+      "description": "イエロー、レッド、ブラックの後、今度はあなたのための別のパズルゲーム、ブルー！25すべてのレベルで画面をブルーにすることができますか？各レベルには独自の挑戦があります。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ブルーパズルチャレンジ",
+      "whatIsTitle": "ブルーとは？",
+      "whatIsDescription": "ブルーは、25のレベルすべてで画面をブルーにする必要がある新しいパズルゲームです。各レベルは、ユニークで興味深い挑戦を提示します。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "レベルを分析し、メカニズムを特定します。",
+      "howToPlayStep2": "利用可能なツールを使用して要素を操作します。",
+      "howToPlayStep3": "画面全体をブルーにして、進みます。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "ユニークなパズル",
+      "feature1Description": "各レベルには、解決すべき独特のパズルがあります。",
+      "feature2Title": "挑戦的なゲームプレイ",
+      "feature2Description": "あなたの問題解決能力を試します。",
+      "feature3Title": "直感的なコントロール",
+      "feature3Description": "学ぶのは簡単ですが、習得するのは難しいです。",
+      "feature4Title": "美しいデザイン",
+      "feature4Description": "ブルーで視覚的に心地よい体験をお楽しみください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリ",
+      "noCategories": "カテゴリが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

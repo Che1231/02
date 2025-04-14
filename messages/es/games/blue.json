@@ -1,0 +1,77 @@
+{
+  "blue": {
+    "title": "Juega al juego de rompecabezas Blue en línea gratis",
+    "slogan": "¡Otro rompecabezas para ti!",
+    "description": "¡Sumérgete en Blue, un juego de rompecabezas cautivador! Resuelve 25 niveles únicos, cada uno presentando un nuevo desafío para volver la pantalla azul. ¡Juega Blue ahora y pon a prueba tus habilidades!",
+    "Loading": {
+      "title": "Cargando..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Creado en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Términos de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Blue",
+      "description": "Después de Yellow, Red y Black, ahora tienes Blue, ¡otro juego de rompecabezas para ti! ¿Puedes poner la pantalla azul en los 25 niveles? Cada nivel tiene su propio desafío.",
+      "iframeTitle": "Vista Previa del Juego",
+      "fullscreenButton": "Pantalla Completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar Juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Desafío de Rompecabezas Blue",
+      "whatIsTitle": "¿Qué es Blue?",
+      "whatIsDescription": "Blue es un nuevo juego de rompecabezas donde debes poner la pantalla azul en los 25 niveles. Cada nivel presenta un desafío único e interesante.",
+      "howToPlayTitle": "Cómo Jugar",
+      "howToPlayStep1": "Analiza el nivel e identifica las mecánicas.",
+      "howToPlayStep2": "Usa las herramientas disponibles para manipular los elementos.",
+      "howToPlayStep3": "Pon toda la pantalla azul para avanzar.",
+      "keyFeaturesTitle": "Características Clave",
+      "feature1Title": "Rompecabezas Únicos",
+      "feature1Description": "Cada nivel ofrece un rompecabezas distinto para resolver.",
+      "feature2Title": "Jugabilidad Desafiante",
+      "feature2Description": "Pon a prueba tus habilidades para resolver problemas.",
+      "feature3Title": "Controles Intuitivos",
+      "feature3Description": "Fácil de aprender, difícil de dominar.",
+      "feature4Title": "Diseño Hermoso",
+      "feature4Description": "Disfruta de una experiencia visualmente agradable en Blue."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas Frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo del Juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del Juego"
+    },
+    "GamePage": {
+      "title": "Todos los Juegos",
+      "description": "Todos los Juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver Más",
+      "page": "Página"
+    }
+  }
+}

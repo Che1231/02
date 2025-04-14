@@ -1,0 +1,77 @@
+{
+  "blue": {
+    "title": "Gioca Gratis al Gioco di Puzzle Blu Online",
+    "slogan": "Un altro puzzle per te!",
+    "description": "Immergiti in Blu, un avvincente gioco di puzzle! Risolvi 25 livelli unici, ognuno che presenta una nuova sfida per trasformare lo schermo in blu. Gioca a Blu ora e metti alla prova le tue abilità!",
+    "Loading": {
+      "title": "Caricamento..."
+    },
+    "Navbar": {
+      "title": "Navigazione"
+    },
+    "Common": {
+      "createAt": "Creato il",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla privacy",
+      "termsOfServices": "Termini di servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Link utili",
+      "articleList": "Elenco articoli",
+      "home": "Home",
+      "next": "Successivo",
+      "previous": "Precedente"
+    },
+    "HomeIframe": {
+      "title": "Blu",
+      "description": "Dopo Giallo, Rosso e Nero, ora hai Blu, un altro gioco di puzzle per te! Riesci a rendere lo schermo blu in tutti i 25 livelli? Ogni livello ha la sua sfida.",
+      "iframeTitle": "Anteprima del gioco",
+      "fullscreenButton": "Schermo intero",
+      "shareButton": "Condividi",
+      "urlCopied": "URL copiato negli appunti!",
+      "downloadGame": "Scarica il gioco",
+      "playGame": "Gioca"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sfida del Puzzle Blu",
+      "whatIsTitle": "Cos'è Blu?",
+      "whatIsDescription": "Blu è un nuovo gioco di puzzle in cui devi rendere lo schermo blu in tutti i 25 livelli. Ogni livello presenta una sfida unica e interessante.",
+      "howToPlayTitle": "Come giocare",
+      "howToPlayStep1": "Analizza il livello e identifica le meccaniche.",
+      "howToPlayStep2": "Utilizza gli strumenti disponibili per manipolare gli elementi.",
+      "howToPlayStep3": "Rendi l'intero schermo blu per avanzare.",
+      "keyFeaturesTitle": "Caratteristiche principali",
+      "feature1Title": "Puzzle unici",
+      "feature1Description": "Ogni livello offre un puzzle distinto da risolvere.",
+      "feature2Title": "Gameplay impegnativo",
+      "feature2Description": "Metti alla prova le tue capacità di risoluzione dei problemi.",
+      "feature3Title": "Controlli intuitivi",
+      "feature3Description": "Facile da imparare, difficile da padroneggiare.",
+      "feature4Title": "Design accattivante",
+      "feature4Description": "Goditi un'esperienza visivamente piacevole in Blu."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Consigliati"
+    },
+    "HomeComments": {
+      "title": "Commenti sul gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i giochi",
+      "description": "Tutti i giochi",
+      "games": "Giochi"
+    },
+    "CategoryPage": {
+      "categories": "Categorie",
+      "noCategories": "Categorie non trovate",
+      "viewMore": "Vedi altro",
+      "page": "Pagina"
+    }
+  }
+}

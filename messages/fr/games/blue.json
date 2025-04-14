@@ -1,0 +1,77 @@
+{
+  "blue": {
+    "title": "Jouez gratuitement au jeu de puzzle Bleu en ligne",
+    "slogan": "Un autre puzzle pour vous !",
+    "description": "Plongez-vous dans Bleu, un jeu de puzzle captivant ! Résolvez 25 niveaux uniques, chacun présentant un nouveau défi pour rendre l'écran bleu. Jouez à Bleu maintenant et testez vos compétences !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste d'articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Bleu",
+      "description": "Après Jaune, Rouge et Noir, vous avez maintenant Bleu, un autre jeu de puzzle ! Pouvez-vous rendre l'écran bleu sur les 25 niveaux ? Chaque niveau a son propre défi.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Défi de puzzle Bleu",
+      "whatIsTitle": "Qu'est-ce que Bleu ?",
+      "whatIsDescription": "Bleu est un nouveau jeu de puzzle où vous devez rendre l'écran bleu sur les 25 niveaux. Chaque niveau présente un défi unique et intéressant.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Analysez le niveau et identifiez les mécanismes.",
+      "howToPlayStep2": "Utilisez les outils disponibles pour manipuler les éléments.",
+      "howToPlayStep3": "Rendre l'écran entier bleu pour progresser.",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Des puzzles uniques",
+      "feature1Description": "Chaque niveau propose un puzzle distinct à résoudre.",
+      "feature2Title": "Une expérience de jeu stimulante",
+      "feature2Description": "Testez vos capacités de résolution de problèmes.",
+      "feature3Title": "Contrôles intuitifs",
+      "feature3Description": "Facile à apprendre, difficile à maîtriser.",
+      "feature4Title": "Un design magnifique",
+      "feature4Description": "Profitez d'une expérience visuelle agréable dans Bleu."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

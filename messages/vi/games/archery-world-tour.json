@@ -1,0 +1,77 @@
+{
+  "archery-world-tour": {
+    "title": "Chuyến du lịch thế giới cung tên - Chơi trò chơi cung tên trực tuyến miễn phí",
+    "slogan": "Làm chủ cung tên và mũi tên trong Chuyến du lịch thế giới cung tên!",
+    "description": "Bạn đã sẵn sàng thử kỹ năng cung tên của mình chưa? Chơi Chuyến du lịch thế giới cung tên, nhắm vào vị trí chính giữa và trở thành nhà vô địch. Tận hưởng lối chơi chân thực và thách thức bản thân trong Chuyến du lịch thế giới cung tên ngay bây giờ! Chuyến du lịch thế giới cung tên mang đến hàng giờ niềm vui miễn phí.",
+    "Loading": {
+      "title": "Đang tải Chuyến du lịch thế giới cung tên..."
+    },
+    "Navbar": {
+      "title": "Điều hướng"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết thân thiện",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Chuyến du lịch thế giới cung tên",
+      "description": "Sử dụng chuột để nhắm mục tiêu và bắn cung trong Chuyến du lịch thế giới cung tên. Nhấn giữ nút chuột trái để kéo, và thả để bắn. Vạch ngắm sẽ từ từ di chuyển theo con trỏ chuột của bạn khi bạn di chuyển chuột. Trong hầu hết các cấp độ, bạn cần chú ý đến tốc độ và hướng gió nếu muốn bắn trúng vị trí chính giữa trong Chuyến du lịch thế giới cung tên.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Chuyến du lịch thế giới cung tên",
+      "whatIsTitle": "Chuyến du lịch thế giới cung tên là gì?",
+      "whatIsDescription": "Chuyến du lịch thế giới cung tên là một trò chơi mô phỏng cung tên thú vị, nơi bạn thử kỹ năng của mình bằng cung và tên.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Sử dụng chuột để nhắm mục tiêu.",
+      "howToPlayStep2": "Nhấn giữ nút chuột trái để kéo cung.",
+      "howToPlayStep3": "Thả nút để bắn mũi tên.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Vật lý chân thực",
+      "feature1Description": "Trải nghiệm chuyến bay mũi tên chân thực và hiệu ứng gió.",
+      "feature2Title": "Các cấp độ đầy thách thức",
+      "feature2Description": "Kiểm tra kỹ năng của bạn trong nhiều môi trường khác nhau.",
+      "feature3Title": "Nhắm mục tiêu chính xác",
+      "feature3Description": "Làm chủ kỹ năng nhắm mục tiêu của bạn để bắn trúng vị trí chính giữa mỗi lần.",
+      "feature4Title": "Điều khiển trực quan",
+      "feature4Description": "Dễ học, khó thành thạo lối chơi."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Nhận xét trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả trò chơi",
+      "description": "Tất cả trò chơi",
+      "games": "Trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các thể loại",
+      "noCategories": "Không tìm thấy các thể loại nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}
