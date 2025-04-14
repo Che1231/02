@@ -1,8 +1,8 @@
 {
   "fluxrideio": {
-    "title": "FluxRideIOオンライン無料プレイ-高速ホバーバイクアクション",
-    "slogan": "FluxRideIOで未来的なバトルの興奮を体験！",
-    "description": "高速マルチプレイヤー3DゲームFluxRideIOに没頭してください。ホバーバイクの操作をマスターし、ライバルを出し抜き、鮮やかな軌跡を残します。FluxRideIOでのスリリングなレースをお楽しみください！今すぐFluxRideIOをプレイしましょう！",
+    "title": "FluxRideIO - 高速ホバーバイクオンラインバトル",
+    "slogan": "未来的なレースの興奮を体験してください！",
+    "description": "FluxRideIOのアクション満載の世界に飛び込みましょう！ホバーバイクのスキルを習得し、3Dバトルでライバルを出し抜け、鮮やかな軌跡を残しましょう。FluxRideIOを無料でプレイしましょう。タイミング、戦術、そして反射神経がカギです！",
     "Loading": {
       "title": "読み込み中..."
     },
@@ -13,7 +13,7 @@
       "createAt": "作成日時",
       "guide": "ガイド",
       "privacyPolicy": "プライバシーポリシー",
-      "termsOfServices": "利用規約",
+      "termsOfServices": "サービス利用規約",
       "text": "コンテンツ",
       "help": "ヘルプ",
       "friendlyLinks": "友情リンク",
@@ -23,8 +23,8 @@
       "previous": "前へ"
     },
     "HomeIframe": {
-      "title": "FluxRideIO",
-      "description": "マルチプレイヤー3DホバーバイクゲームFluxRideIOで、高速アクションを体験してください。ライバルを出し抜き、このスリリングな生存競争で鮮やかな軌跡を残してください！",
+      "title": "今すぐFluxRideIOをプレイ",
+      "description": "FluxRideIOで、高速ホバーバイクアクションを体験してください。スリリングなマルチプレイヤーゲームです。未来的な競技場で対戦相手を出し抜きましょう！",
       "iframeTitle": "ゲームプレビュー",
       "fullscreenButton": "全画面表示",
       "shareButton": "共有",
@@ -35,20 +35,20 @@
     "HomeFeatures": {
       "gameTitle": "FluxRideIO",
       "whatIsTitle": "FluxRideIOとは？",
-      "whatIsDescription": "FluxRideIOは、未来的な戦場で最先端のホバーバイクを操作する、スリリングなマルチプレイヤー3Dゲームです。アリーナをナビゲートし、軌跡をかわし、このエキサイティングな生存競争でライバルを出し抜きましょう。",
-      "howToPlayTitle": "FluxRideIOのプレイ方法",
-      "howToPlayStep1": "Wキーで加速し、Sキーで減速します。",
-      "howToPlayStep2": "AキーとDキーで方向転換し、対戦相手を出し抜きます。",
-      "howToPlayStep3": "W, S, A, Dキーに加えて、QキーとEキーを使って空中でバイクをスムーズに回転させます。",
-      "keyFeaturesTitle": "FluxRideIOの主な特徴",
+      "whatIsDescription": "FluxRideIOは、未来的なホバーバイクでレースを行い、鮮やかな軌跡を残し、電撃的なバトルでライバルを出し抜く、マルチプレイヤー3Dゲームです。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "Wキーでスピードを上げ、Sキーでスピードを落とします。",
+      "howToPlayStep2": "Aキーで左に、Dキーで右に操縦します。",
+      "howToPlayStep3": "W、S、A、Dキーを使用して、空中でバイクを回転させるには、QキーとEキーを使用します。",
+      "keyFeaturesTitle": "主な特徴",
       "feature1Title": "高速アクション",
-      "feature1Description": "未来的なバトルのアドレナリンラッシュを体験してください。",
+      "feature1Description": "最先端のホバーバイクでスリリングなレースに参加してください。",
       "feature2Title": "戦略的なゲームプレイ",
-      "feature2Description": "タイミング、戦術、素早い反応でライバルを出し抜けましょう。",
+      "feature2Description": "タイミングと戦術で対戦相手を出し抜きましょう。",
       "feature3Title": "鮮やかな軌跡",
-      "feature3Description": "アリーナをナビゲートしながら、カラフルな軌跡を残しましょう。",
-      "feature4Title": "直感的な操作",
-      "feature4Description": "簡単な操作であなたのホバーバイクをマスターしましょう。"
+      "feature3Description": "競技場を移動するにつれて、カラフルな軌跡を残しましょう。",
+      "feature4Title": "マルチプレイヤーバトル",
+      "feature4Description": "生き残るために、他のプレイヤーと電撃的なレースで競い合いましょう。"
     },
     "HomeFAQs": {
       "title": "よくある質問"
@@ -60,12 +60,12 @@
       "title": "おすすめ"
     },
     "HomeComments": {
-      "title": "ゲームのコメント"
+      "title": "プレイコメント"
     },
     "GamePage": {
       "title": "すべてのゲーム",
       "description": "すべてのゲーム",
-      "games": "ゲーム"
+      "games": "ゲーム一覧"
     },
     "CategoryPage": {
       "categories": "カテゴリー",

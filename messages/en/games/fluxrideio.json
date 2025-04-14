@@ -1,10 +1,10 @@
 {
   "fluxrideio": {
-    "title": "",
-    "slogan": "",
-    "description": "",
+    "title": "FluxRideIO - High-Speed Hoverbike Battles Online",
+    "slogan": "Experience the Thrill of Futuristic Racing!",
+    "description": "Dive into FluxRideIO's action-packed world! Master hoverbike skills, outmaneuver rivals in 3D battles, and leave vibrant trails. Play FluxRideIO free—timing, tactics, and reflexes are key!",
     "Loading": {
-      "title": ""
+      "title": "Loading..."
     },
     "Navbar": {
       "title": "Nav"
@@ -23,8 +23,8 @@
       "previous": "Previous"
     },
     "HomeIframe": {
-      "title": "",
-      "description": "",
+      "title": "Play FluxRideIO Now",
+      "description": "Experience high-speed hoverbike action in FluxRideIO, a thrilling multiplayer game. Compete in futuristic arenas and outsmart your opponents!",
       "iframeTitle": "Game Preview",
       "fullscreenButton": "Fullscreen",
       "shareButton": "Share",
@@ -33,22 +33,22 @@
       "playGame": "Play Game"
     },
     "HomeFeatures": {
-      "gameTitle": "",
-      "whatIsTitle": "",
-      "whatIsDescription": "",
+      "gameTitle": "FluxRideIO",
+      "whatIsTitle": "What is FluxRideIO?",
+      "whatIsDescription": "FluxRideIO is a multiplayer 3D game where you race futuristic hoverbikes, leaving vibrant trails and outmaneuvering rivals in electrifying battles.",
       "howToPlayTitle": "How to Play",
-      "howToPlayStep1": "",
-      "howToPlayStep2": "",
-      "howToPlayStep3": "",
+      "howToPlayStep1": "Increase speed with W and decrease with S.",
+      "howToPlayStep2": "Steer left and right with A and D.",
+      "howToPlayStep3": "Use Q and E with W, S, A, and D to rotate your bike in the air.",
       "keyFeaturesTitle": "Key Features",
-      "feature1Title": "",
-      "feature1Description": "",
-      "feature2Title": "",
-      "feature2Description": "",
-      "feature3Title": "",
-      "feature3Description": "",
-      "feature4Title": "",
-      "feature4Description": ""
+      "feature1Title": "High-Speed Action",
+      "feature1Description": "Engage in thrilling races with cutting-edge hoverbikes.",
+      "feature2Title": "Strategic Gameplay",
+      "feature2Description": "Outsmart opponents through timing and tactics.",
+      "feature3Title": "Vibrant Trails",
+      "feature3Description": "Leave a colorful trail as you navigate the arena.",
+      "feature4Title": "Multiplayer Battles",
+      "feature4Description": "Compete against other players in electrifying races for survival."
     },
     "HomeFAQs": {
       "title": "FAQs"

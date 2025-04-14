@@ -1,17 +1,17 @@
 {
   "fluxrideio": {
-    "title": "FluxRideIO Online kostenlos spielen - Hochgeschwindigkeits-Hoverbike-Action",
-    "slogan": "Erleben Sie den Nervenkitzel futuristischer Kämpfe in FluxRideIO!",
-    "description": "Tauchen Sie ein in FluxRideIO, ein schnelles Multiplayer-3D-Spiel. Beherrschen Sie die Hoverbike-Steuerung, überlisten Sie Ihre Gegner und hinterlassen Sie leuchtende Spuren. Genießen Sie aufregende Rennen in FluxRideIO! Spielen Sie jetzt FluxRideIO!",
+    "title": "FluxRideIO – Hochgeschwindigkeits-Hoverbike-Schlachten online",
+    "slogan": "Erleben Sie den Nervenkitzel des futuristischen Rennsports!",
+    "description": "Tauchen Sie ein in die actionreiche Welt von FluxRideIO! Meistern Sie die Hoverbike-Fähigkeiten, überlisten Sie Ihre Rivalen in 3D-Schlachten und hinterlassen Sie lebendige Spuren. Spielen Sie FluxRideIO kostenlos – Timing, Taktik und Reflexe sind der Schlüssel!",
     "Loading": {
-      "title": "Wird geladen..."
+      "title": "Lädt..."
     },
     "Navbar": {
       "title": "Navigation"
     },
     "Common": {
       "createAt": "Erstellt am",
-      "guide": "Anleitung",
+      "guide": "Leitfaden",
       "privacyPolicy": "Datenschutzrichtlinie",
       "termsOfServices": "Nutzungsbedingungen",
       "text": "Inhalt",
@@ -23,8 +23,8 @@
       "previous": "Zurück"
     },
     "HomeIframe": {
-      "title": "FluxRideIO",
-      "description": "Erleben Sie Hochgeschwindigkeits-Action in FluxRideIO, einem Multiplayer-3D-Hoverbike-Spiel. Überlisten Sie Ihre Gegner und hinterlassen Sie leuchtende Spuren in diesem elektrisierenden Überlebenskampf!",
+      "title": "Spielen Sie jetzt FluxRideIO",
+      "description": "Erleben Sie Hochgeschwindigkeits-Hoverbike-Action in FluxRideIO, einem spannenden Multiplayer-Spiel. Kämpfen Sie in futuristischen Arenen und überlisten Sie Ihre Gegner!",
       "iframeTitle": "Spielvorschau",
       "fullscreenButton": "Vollbild",
       "shareButton": "Teilen",
@@ -35,20 +35,20 @@
     "HomeFeatures": {
       "gameTitle": "FluxRideIO",
       "whatIsTitle": "Was ist FluxRideIO?",
-      "whatIsDescription": "FluxRideIO ist ein spannendes Multiplayer-3D-Spiel, in dem Sie ein hochmodernes Hoverbike in futuristischen Kämpfen steuern. Navigieren Sie durch die Arena, weichen Sie Spuren aus und überlisten Sie Ihre Gegner in diesem elektrisierenden Überlebensrennen.",
-      "howToPlayTitle": "So spielen Sie FluxRideIO",
-      "howToPlayStep1": "Erhöhen Sie die Geschwindigkeit mit W, verringern Sie sie mit S.",
-      "howToPlayStep2": "Steuern Sie links und rechts mit A und D, um Ihre Gegner zu überlisten.",
-      "howToPlayStep3": "Verwenden Sie Q und E zusammen mit W, S, A und D, um Ihr Bike nahtlos in der Luft zu drehen.",
-      "keyFeaturesTitle": "Wichtige Merkmale von FluxRideIO",
+      "whatIsDescription": "FluxRideIO ist ein Multiplayer-3D-Spiel, in dem Sie mit futuristischen Hoverbikes Rennen fahren, lebendige Spuren hinterlassen und Rivalen in elektrisierenden Schlachten überlisten.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Erhöhen Sie die Geschwindigkeit mit W und verringern Sie sie mit S.",
+      "howToPlayStep2": "Lenken Sie links und rechts mit A und D.",
+      "howToPlayStep3": "Verwenden Sie Q und E mit W, S, A und D, um Ihr Bike in der Luft zu drehen.",
+      "keyFeaturesTitle": "Haupteigenschaften",
       "feature1Title": "Hochgeschwindigkeits-Action",
-      "feature1Description": "Erleben Sie den Adrenalinschub futuristischer Kämpfe.",
+      "feature1Description": "Nehmen Sie an spannenden Rennen mit hochmodernen Hoverbikes teil.",
       "feature2Title": "Strategisches Gameplay",
-      "feature2Description": "Überlisten Sie Ihre Gegner mit Timing, Taktik und Schnelligkeit.",
-      "feature3Title": "Leuchtende Spuren",
-      "feature3Description": "Hinterlassen Sie eine farbenfrohe Spur, während Sie sich durch die Arena bewegen.",
-      "feature4Title": "Intuitive Steuerung",
-      "feature4Description": "Beherrschen Sie Ihr Hoverbike mit leicht zu erlernenden Steuerelementen."
+      "feature2Description": "Überlisten Sie Gegner durch Timing und Taktik.",
+      "feature3Title": "Lebendige Spuren",
+      "feature3Description": "Hinterlassen Sie eine farbenfrohe Spur, während Sie sich in der Arena bewegen.",
+      "feature4Title": "Multiplayer-Schlachten",
+      "feature4Description": "Treten Sie gegen andere Spieler in elektrisierenden Rennen um den Sieg an."
     },
     "HomeFAQs": {
       "title": "FAQ"
@@ -60,7 +60,7 @@
       "title": "Empfehlungen"
     },
     "HomeComments": {
-      "title": "Spielkommentare"
+      "title": "Spielekommentare"
     },
     "GamePage": {
       "title": "Alle Spiele",

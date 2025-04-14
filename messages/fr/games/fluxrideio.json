@@ -1,57 +1,57 @@
 {
   "fluxrideio": {
-    "title": "Jouez à FluxRideIO en ligne gratuitement - Action de vélo-volant à haute vitesse",
-    "slogan": "Découvrez l'excitation des batailles futuristes dans FluxRideIO !",
-    "description": "Plongez-vous dans FluxRideIO, un jeu 3D multijoueur à grande vitesse. Maîtrisez les commandes de votre vélo-volant, dépassez vos rivaux et laissez des traces vibrantes. Profitez de courses palpitantes dans FluxRideIO ! Jouez à FluxRideIO dès maintenant !",
+    "title": "FluxRideIO - Combats de hoverbike à grande vitesse en ligne",
+    "slogan": "Découvrez le frisson des courses futuristes !",
+    "description": "Plongez-vous dans le monde palpitant de FluxRideIO ! Maîtrisez les compétences de conduite de hoverbike, déjouez vos rivaux dans des combats 3D et laissez des traces vibrantes. Jouez à FluxRideIO gratuitement ; le timing, la tactique et les réflexes sont les clés !",
     "Loading": {
-      "title": "Chargement..."
+      "title": "Chargement…"
     },
     "Navbar": {
       "title": "Navigation"
     },
     "Common": {
-      "createAt": "Créé le",
+      "createAt": "Créé à",
       "guide": "Guide",
       "privacyPolicy": "Politique de confidentialité",
       "termsOfServices": "Conditions d'utilisation",
       "text": "Contenu",
       "help": "Aide",
-      "friendlyLinks": "Liens Amis",
+      "friendlyLinks": "Liens amicaux",
       "articleList": "Liste des articles",
       "home": "Accueil",
       "next": "Suivant",
       "previous": "Précédent"
     },
     "HomeIframe": {
-      "title": "FluxRideIO",
-      "description": "Découvrez l'action à grande vitesse dans FluxRideIO, un jeu 3D multijoueur de vélo-volant. Dépassez vos rivaux et laissez des traces vibrantes dans cette course palpitante pour la survie !",
+      "title": "Jouer à FluxRideIO maintenant",
+      "description": "Découvrez l'action à grande vitesse des hoverbikes dans FluxRideIO, un jeu multijoueur palpitant. Affrontez vos adversaires dans des arènes futuristes et surpassez-les !",
       "iframeTitle": "Aperçu du jeu",
       "fullscreenButton": "Plein écran",
       "shareButton": "Partager",
-      "urlCopied": "URL copiée dans le presse-papiers !",
+      "urlCopied": "URL copiée dans le presse-papier !",
       "downloadGame": "Télécharger le jeu",
       "playGame": "Jouer"
     },
     "HomeFeatures": {
       "gameTitle": "FluxRideIO",
-      "whatIsTitle": "Qu'est-ce que FluxRideIO ?",
-      "whatIsDescription": "FluxRideIO est un jeu 3D multijoueur palpitant où vous contrôlez un vélo-volant de pointe dans des batailles futuristes. Naviguez dans l'arène, esquivez les obstacles et devancez vos rivaux dans cette course électrique pour la survie.",
-      "howToPlayTitle": "Comment jouer à FluxRideIO",
-      "howToPlayStep1": "Augmentez la vitesse avec W, diminuez avec S.",
-      "howToPlayStep2": "Dirigez à gauche et à droite avec A et D pour déjouer vos adversaires.",
-      "howToPlayStep3": "Utilisez Q et E avec W, S, A et D pour faire pivoter votre vélo en toute fluidité dans les airs.",
-      "keyFeaturesTitle": "Caractéristiques principales de FluxRideIO",
+      "whatIsTitle": "Qu'est-ce que FluxRideIO ?",
+      "whatIsDescription": "FluxRideIO est un jeu 3D multijoueur où vous pilotez des hoverbikes futuristes, laissant des traces vibrantes et déjouant vos rivaux dans des combats électriques.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Augmentez la vitesse avec Z et diminuez-la avec S.",
+      "howToPlayStep2": "Dirigez à gauche et à droite avec Q et D.",
+      "howToPlayStep3": "Utilisez les touches de direction (Z, S, Q, et D) avec les touches de déplacement (Q et D) afin de faire pivoter votre moto dans les airs. ",
+      "keyFeaturesTitle": "Principales caractéristiques",
       "feature1Title": "Action à grande vitesse",
-      "feature1Description": "Découvrez le frisson des batailles futuristes.",
-      "feature2Title": "Gameplay stratégique",
-      "feature2Description": "Dépassez vos rivaux grâce au timing, aux tactiques et à vos réflexes rapides.",
+      "feature1Description": "Participez à des courses palpitantes avec des hoverbikes dernier cri.",
+      "feature2Title": "Jeu stratégique",
+      "feature2Description": "Surpassez vos adversaires grâce au timing et à la tactique.",
       "feature3Title": "Traces vibrantes",
       "feature3Description": "Laissez une traînée colorée pendant que vous naviguez dans l'arène.",
-      "feature4Title": "Commandes intuitives",
-      "feature4Description": "Maîtrisez votre vélo-volant avec des commandes faciles à apprendre."
+      "feature4Title": "Combats multijoueurs",
+      "feature4Description": "Affrontez d'autres joueurs dans des courses palpitantes pour survivre."
     },
     "HomeFAQs": {
-      "title": "FAQ"
+      "title": "Foire aux questions"
     },
     "HomeRelatedVideo": {
       "title": "Vidéo du jeu"

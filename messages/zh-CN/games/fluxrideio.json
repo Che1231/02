@@ -1,8 +1,8 @@
 {
   "fluxrideio": {
-    "title": "免费在线玩FluxRideIO - 高速悬浮滑板车动作",
-    "slogan": "体验FluxRideIO中的未来战斗刺激！",
-    "description": "潜入FluxRideIO，一个高速多人3D游戏。掌握悬浮滑板车控制，巧妙地避开对手，留下绚丽轨迹。在FluxRideIO中体验刺激的比赛！现在就玩FluxRideIO！",
+    "title": "FluxRideIO - 高速悬浮摩托在线对战",
+    "slogan": "体验未来竞速的刺激！",
+    "description": "沉浸在FluxRideIO动感十足的世界中！掌握悬浮摩托技能，在3D战斗中智胜对手，留下充满活力的轨迹。免费畅玩FluxRideIO——时机、战术和反应是关键！",
     "Loading": {
       "title": "加载中..."
     },
@@ -10,7 +10,7 @@
       "title": "导航"
     },
     "Common": {
-      "createAt": "创建时间",
+      "createAt": "创建于",
       "guide": "指南",
       "privacyPolicy": "隐私政策",
       "termsOfServices": "服务条款",
@@ -19,12 +19,12 @@
       "friendlyLinks": "友情链接",
       "articleList": "文章列表",
       "home": "首页",
-      "next": "下一个",
-      "previous": "上一个"
+      "next": "下一页",
+      "previous": "上一页"
     },
     "HomeIframe": {
-      "title": "FluxRideIO",
-      "description": "在FluxRideIO中体验高速动作，这是一个多人3D悬浮滑板车游戏。在这个充满电力的生存竞赛中，巧妙地避开对手，留下绚丽的轨迹！",
+      "title": "立即畅玩FluxRideIO",
+      "description": "在FluxRideIO这款激动人心的多人游戏中，体验高速悬浮摩托的乐趣。在未来竞技场中竞争，智胜你的对手！",
       "iframeTitle": "游戏预览",
       "fullscreenButton": "全屏",
       "shareButton": "分享",
@@ -34,22 +34,21 @@
     },
     "HomeFeatures": {
       "gameTitle": "FluxRideIO",
-      "whatIsTitle": "FluxRideIO 是什么？",
-      "whatIsDescription": "FluxRideIO 是一款刺激的多人3D游戏，您可以在未来战斗中控制尖端悬浮滑板车。在这个充满电力的生存竞赛中，在竞技场中穿梭，躲避轨迹，智胜对手！",
-      "howToPlayTitle": "如何玩FluxRideIO",
-      "howToPlayStep1": "按W加速，按S减速。",
-      "howToPlayStep2": "按A向左转弯，按D向右转弯，以巧妙地避开对手。",
-      "howToPlayStep3": "按Q和E配合W、S、A和D，在空中平稳旋转你的滑板车。",
-      "keyFeaturesTitle": "FluxRideIO 主要特色",
-      "feature1Title": "高速动作",
-      "feature1Description": "体验未来战斗带来的肾上腺素飙升。",
-      "feature2Title": "策略游戏",
-      "feature2Description": "利用时间、策略和快速反应智胜对手。",
-      "feature3Title": "绚丽轨迹",
-      "feature3Description": "在竞技场中穿梭时留下五彩缤纷的轨迹。",
-      "feature4Title": "直观控制",
-      "feature4Description": "轻松掌握悬浮滑板车的控制。",
-      "howToPlayStep4": "使用空格键或鼠标左键发射能量弹或道具。"
+      "whatIsTitle": "什么是FluxRideIO？",
+      "whatIsDescription": "FluxRideIO是一款多人3D游戏，你可以在游戏中驾驶未来悬浮摩托进行比赛，留下充满活力的轨迹，并在激烈的战斗中智胜对手。",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "使用W键加速，S键减速。",
+      "howToPlayStep2": "使用A键和D键向左和向右转向。",
+      "howToPlayStep3": "结合W、S、A和D键，使用Q和E键在空中旋转你的摩托。",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "高速行动",
+      "feature1Description": "驾驶尖端悬浮摩托参与惊险刺激的比赛。",
+      "feature2Title": "战略游戏",
+      "feature2Description": "通过时机和战术智胜对手。",
+      "feature3Title": "充满活力的轨迹",
+      "feature3Description": "在竞技场中穿梭时，留下一条色彩鲜艳的轨迹。",
+      "feature4Title": "多人战斗",
+      "feature4Description": "在激烈的生存竞赛中与其他玩家竞争。"
     },
     "HomeFAQs": {
       "title": "常见问题"
@@ -61,7 +60,7 @@
       "title": "推荐"
     },
     "HomeComments": {
-      "title": "游戏评论"
+      "title": "玩家评论"
     },
     "GamePage": {
       "title": "所有游戏",
@@ -69,10 +68,10 @@
       "games": "游戏"
     },
     "CategoryPage": {
-      "categories": "游戏分类",
-      "noCategories": "未找到游戏分类",
+      "categories": "分类",
+      "noCategories": "未找到分类",
       "viewMore": "查看更多",
-      "page": "页码"
+      "page": "页"
     }
   }
 }

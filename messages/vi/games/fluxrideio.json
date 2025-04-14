@@ -1,13 +1,13 @@
 {
   "fluxrideio": {
-    "title": "Chơi FluxRideIO trực tuyến miễn phí - Hành động xe hoverbike tốc độ cao",
-    "slogan": "Trải nghiệm cảm giác hồi hộp của các trận chiến tương lai trong FluxRideIO!",
-    "description": "Đắm mình vào FluxRideIO, một trò chơi 3D nhiều người chơi tốc độ cao. Làm chủ các điều khiển xe hoverbike, vượt mặt đối thủ và để lại những vệt sáng rực rỡ. Tận hưởng những cuộc đua hấp dẫn trong FluxRideIO! Chơi FluxRideIO ngay bây giờ!",
+    "title": "FluxRideIO - Cuộc chiến hoverbike tốc độ cao trực tuyến",
+    "slogan": "Trải nghiệm cảm giác hồi hộp của cuộc đua tương lai!",
+    "description": "Đắm chìm trong thế giới hành động đầy kịch tính của FluxRideIO! Thành thạo kỹ năng lái hoverbike, vượt mặt đối thủ trong các trận chiến 3D và để lại những vệt đường đầy màu sắc. Chơi FluxRideIO miễn phí - thời gian, chiến thuật và phản xạ là chìa khóa!",
     "Loading": {
       "title": "Đang tải..."
     },
     "Navbar": {
-      "title": "Điều hướng"
+      "title": "Định vị"
     },
     "Common": {
       "createAt": "Tạo lúc",
@@ -20,52 +20,52 @@
       "articleList": "Danh sách bài viết",
       "home": "Trang chủ",
       "next": "Tiếp theo",
-      "previous": "Trước đó"
+      "previous": "Trước"
     },
     "HomeIframe": {
-      "title": "FluxRideIO",
-      "description": "Trải nghiệm hành động tốc độ cao trong FluxRideIO, một trò chơi 3D nhiều người chơi về xe hoverbike. Vượt mặt đối thủ và để lại những vệt sáng rực rỡ trong cuộc đua sinh tồn đầy kịch tính này!",
+      "title": "Chơi FluxRideIO ngay bây giờ",
+      "description": "Trải nghiệm hành động đua hoverbike tốc độ cao trong FluxRideIO, một trò chơi nhiều người chơi đầy kịch tính. Tham gia tranh tài trong các đấu trường tương lai và vượt qua đối thủ của bạn!",
       "iframeTitle": "Xem trước trò chơi",
       "fullscreenButton": "Toàn màn hình",
       "shareButton": "Chia sẻ",
-      "urlCopied": "Đã sao chép URL vào clipboard!",
-      "downloadGame": "Tải game",
-      "playGame": "Chơi game"
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
     },
     "HomeFeatures": {
       "gameTitle": "FluxRideIO",
       "whatIsTitle": "FluxRideIO là gì?",
-      "whatIsDescription": "FluxRideIO là một trò chơi 3D nhiều người chơi hồi hộp, trong đó bạn điều khiển một chiếc xe hoverbike tiên tiến trong các trận chiến tương lai. Điều hướng trong đấu trường, né tránh đường ray, và vượt qua đối thủ trong cuộc đua sinh tồn đầy kịch tính này.",
-      "howToPlayTitle": "Cách chơi FluxRideIO",
-      "howToPlayStep1": "Tăng tốc độ bằng W, giảm tốc độ bằng S.",
-      "howToPlayStep2": "Điều khiển trái phải bằng A và D để vượt mặt đối thủ.",
-      "howToPlayStep3": "Sử dụng Q và E với W, S, A và D để xoay chiếc xe của bạn một cách mượt mà trên không.",
-      "keyFeaturesTitle": "Các tính năng chính của FluxRideIO",
+      "whatIsDescription": "FluxRideIO là một trò chơi nhiều người chơi 3D nơi bạn đua xe hoverbike tương lai, để lại những vệt đường đầy màu sắc và vượt qua đối thủ trong những trận chiến đầy điện.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Tăng tốc độ bằng W và giảm tốc độ bằng S.",
+      "howToPlayStep2": "Quay trái và phải bằng A và D.",
+      "howToPlayStep3": "Sử dụng Q và E cùng với W, S, A và D để xoay xe của bạn trong không trung.",
+      "keyFeaturesTitle": "Các tính năng chính",
       "feature1Title": "Hành động tốc độ cao",
-      "feature1Description": "Trải nghiệm cảm giác hồi hộp của các trận chiến tương lai.",
+      "feature1Description": "Tham gia vào những cuộc đua hồi hộp với các loại hoverbike hiện đại.",
       "feature2Title": "Gameplay chiến thuật",
-      "feature2Description": "Vượt qua đối thủ bằng thời gian, chiến thuật và phản xạ nhanh.",
-      "feature3Title": "Vệt sáng rực rỡ",
-      "feature3Description": "Để lại một vệt sáng rực rỡ khi bạn điều hướng trong đấu trường.",
-      "feature4Title": "Điều khiển trực quan",
-      "feature4Description": "Làm chủ chiếc xe hoverbike của bạn với các điều khiển dễ học."
+      "feature2Description": "Vượt qua đối thủ thông qua thời gian và chiến thuật.",
+      "feature3Title": "Những vệt đường đầy màu sắc",
+      "feature3Description": "Để lại một vệt đường đầy màu sắc khi bạn điều hướng trong đấu trường.",
+      "feature4Title": "Trận chiến nhiều người chơi",
+      "feature4Description": "Cạnh tranh với những người chơi khác trong các cuộc đua đầy kịch tính để tồn tại."
     },
     "HomeFAQs": {
       "title": "Câu hỏi thường gặp"
     },
     "HomeRelatedVideo": {
-      "title": "Video game"
+      "title": "Video trò chơi"
     },
     "HomeRecommendation": {
       "title": "Đề xuất"
     },
     "HomeComments": {
-      "title": "Bình luận game"
+      "title": "Bình luận trò chơi"
     },
     "GamePage": {
-      "title": "Tất cả các game",
-      "description": "Tất cả các game",
-      "games": "Các game"
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
     },
     "CategoryPage": {
       "categories": "Các danh mục",

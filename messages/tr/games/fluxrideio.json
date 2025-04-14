@@ -1,8 +1,8 @@
 {
   "fluxrideio": {
-    "title": "Ücretsiz Oynamak İçin FluxRideIO'yu Çevrimiçi Oynayın - Yüksek Hızlı Hoverbike Eylemi",
-    "slogan": "FluxRideIO'da Gelecekteki Savaşların Heyecanını Yaşayın!",
-    "description": "FluxRideIO'ya, yüksek hızlı çok oyunculu 3B bir oyuna dalın. Hoverbike kontrollerini ustalaşın, rakiplerinizi alt edin ve canlı izler bırakın. FluxRideIO'da heyecan verici yarışların tadını çıkarın! Şimdi FluxRideIO'yu oynayın!",
+    "title": "FluxRideIO - Yüksek Hızlı Hoverbike Çevrimiçi Savaşları",
+    "slogan": "Geleceğin Yarışlarının Heyecanını Yaşayın!",
+    "description": "FluxRideIO'nun aksiyon dolu dünyasına dalın! Hoverbike becerilerinizi geliştirin, 3B savaşlarda rakiplerinizi alt edin ve canlı izler bırakın.  FluxRideIO'yu ücretsiz oynayın – zamanlama, taktikler ve refleksler çok önemli!",
     "Loading": {
       "title": "Yükleniyor..."
     },
@@ -13,7 +13,7 @@
       "createAt": "Oluşturulma Tarihi",
       "guide": "Yönerge",
       "privacyPolicy": "Gizlilik Politikası",
-      "termsOfServices": "Hizmet Şartları",
+      "termsOfServices": "Hizmet Koşulları",
       "text": "İçerik",
       "help": "Yardım",
       "friendlyLinks": "Dost Bağlantılar",
@@ -23,8 +23,8 @@
       "previous": "Önceki"
     },
     "HomeIframe": {
-      "title": "FluxRideIO",
-      "description": "FluxRideIO'da, çok oyunculu 3B hoverbike oyununda yüksek hızlı aksiyonu deneyimleyin. Rakiplerinizi alt edin ve bu heyecan verici hayatta kalma yarışında canlı izler bırakın!",
+      "title": "Şimdi FluxRideIO Oyna",
+      "description": "FluxRideIO'da heyecan verici bir çok oyunculu oyunda yüksek hızlı hoverbike aksiyonunu yaşayın. Geleceğin arenalarında yarışın ve rakiplerinizi alt edin!",
       "iframeTitle": "Oyun Önizlemesi",
       "fullscreenButton": "Tam Ekran",
       "shareButton": "Paylaş",
@@ -35,20 +35,20 @@
     "HomeFeatures": {
       "gameTitle": "FluxRideIO",
       "whatIsTitle": "FluxRideIO Nedir?",
-      "whatIsDescription": "FluxRideIO, gelecekteki savaşlarda keskin bir hoverbike'ı kontrol ettiğiniz heyecan verici bir çok oyunculu 3B oyundur. Arenanın içinde, izlerden sakının ve bu heyecan verici hayatta kalma yarışında rakiplerinizi alt edin.",
-      "howToPlayTitle": "FluxRideIO Nasıl Oynanır?",
-      "howToPlayStep1": "Hızı W ile artırın, S ile azaltın.",
-      "howToPlayStep2": "Rakiplerinizi alt etmek için A ve D tuşlarıyla sola ve sağa yönlendirin.",
-      "howToPlayStep3": "Hava aracı kontrolünü sorunsuz bir şekilde döndürmek için W, S, A ve D'yi kullanarak Q ve E tuşlarını kullanın.",
-      "keyFeaturesTitle": "FluxRideIO'nun Temel Özellikleri",
-      "feature1Title": "Yüksek Hızlı Eylem",
-      "feature1Description": "Gelecekteki savaşların heyecanını yaşayın.",
+      "whatIsDescription": "FluxRideIO, futuristik hoverbike'larla yarıştığınız, canlı izler bıraktığınız ve heyecan verici savaşlarda rakiplerinizi alt ettiğiniz bir çok oyunculu 3B oyundur.",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Hızı artırmak için W tuşuna, azaltmak için S tuşuna basın.",
+      "howToPlayStep2": "Sola ve sağa doğru yönlendirmek için A ve D tuşlarına basın.",
+      "howToPlayStep3": "Bisikletlerinizi havada döndürmek için W, S, A ve D tuşlarıyla birlikte Q ve E tuşlarını kullanın.",
+      "keyFeaturesTitle": "Ana Özellikler",
+      "feature1Title": "Yüksek Hızlı Aksiyon",
+      "feature1Description": "Son teknoloji hoverbike'larla heyecan verici yarışlara katılın.",
       "feature2Title": "Stratejik Oyun",
-      "feature2Description": "Zamanlama, taktikler ve hızlı reflekslerinizle rakiplerinizi alt edin.",
+      "feature2Description": "Zamanlamayı ve taktikleri kullanarak rakiplerinizi alt edin.",
       "feature3Title": "Canlı İzler",
-      "feature3Description": "Aracınızla arenada ilerlerken renkli bir iz bırakın.",
-      "feature4Title": "Kullanışlı Kontroller",
-      "feature4Description": "Kolay öğrenilebilir kontrollerle hoverbike'ınızı ustalaşın."
+      "feature3Description": "Arenada ilerlerken renkli bir iz bırakın.",
+      "feature4Title": "Çok Oyunculu Savaşlar",
+      "feature4Description": "Hayatta kalmak için diğer oyunculara karşı heyecan verici yarışmalara katılın."
     },
     "HomeFAQs": {
       "title": "SSS"
@@ -57,7 +57,7 @@
       "title": "Oyun Videosu"
     },
     "HomeRecommendation": {
-      "title": "Tavsiye Eder"
+      "title": "Tavsiyeler"
     },
     "HomeComments": {
       "title": "Oyun Yorumları"

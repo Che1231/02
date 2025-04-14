@@ -1,8 +1,8 @@
 {
   "fluxrideio": {
-    "title": "Gioca a FluxRideIO online gratuitamente - Azione a alta velocità con hoverbike",
-    "slogan": "Vivi l'emozione di battaglie futuristiche in FluxRideIO!",
-    "description": "Immergiti in FluxRideIO, un gioco 3D multiplayer ad alta velocità. Padroneggia i controlli dell'hoverbike, supera i rivali e lascia tracce vibranti. Vivi emozionanti gare in FluxRideIO! Gioca a FluxRideIO ora!",
+    "title": "FluxRideIO - Battaglie online ad alta velocità con hoverbike",
+    "slogan": "Vivi l'emozione delle corse futuristiche!",
+    "description": "Immergiti nel mondo dinamico di FluxRideIO! Padroneggia le abilità degli hoverbike, supera i rivali nelle battaglie 3D e lascia tracce vibranti. Gioca gratis a FluxRideIO: tempo, tattica e riflessi sono fondamentali!",
     "Loading": {
       "title": "Caricamento..."
     },
@@ -10,21 +10,21 @@
       "title": "Navigazione"
     },
     "Common": {
-      "createAt": "Creato alle",
+      "createAt": "Creato il",
       "guide": "Guida",
       "privacyPolicy": "Informativa sulla privacy",
       "termsOfServices": "Termini di servizio",
-      "text": "Contenuto",
+      "text": "Contenuti",
       "help": "Aiuto",
-      "friendlyLinks": "Collegamenti utili",
-      "articleList": "Elenco articoli",
+      "friendlyLinks": "Collegamenti amichevoli",
+      "articleList": "Lista articoli",
       "home": "Home",
       "next": "Successivo",
       "previous": "Precedente"
     },
     "HomeIframe": {
-      "title": "FluxRideIO",
-      "description": "Vivi un'azione ad alta velocità in FluxRideIO, un gioco 3D multiplayer con hoverbike. Supera i rivali e lascia tracce vibranti in questa elettrizzante corsa per la sopravvivenza!",
+      "title": "Gioca a FluxRideIO ora",
+      "description": "Vivi l'azione ad alta velocità degli hoverbike in FluxRideIO, un emozionante gioco multiplayer. Competi in arene futuristiche e inganna i tuoi avversari!",
       "iframeTitle": "Anteprima del gioco",
       "fullscreenButton": "Schermo intero",
       "shareButton": "Condividi",
@@ -35,20 +35,20 @@
     "HomeFeatures": {
       "gameTitle": "FluxRideIO",
       "whatIsTitle": "Cos'è FluxRideIO?",
-      "whatIsDescription": "FluxRideIO è un emozionante gioco 3D multiplayer in cui controlli un'hoverbike all'avanguardia in battaglie futuristiche. Naviga nell'arena, schiva le tracce e sconfiggi i tuoi rivali in questa elettrizzante corsa per la sopravvivenza.",
-      "howToPlayTitle": "Come giocare a FluxRideIO",
-      "howToPlayStep1": "Aumenta la velocità con W, diminuiscila con S.",
-      "howToPlayStep2": "Gira a sinistra e a destra con A e D per superare gli avversari.",
-      "howToPlayStep3": "Usa Q ed E con W, S, A e D per ruotare la tua moto senza soluzione di continuità in aria.",
-      "keyFeaturesTitle": "Caratteristiche principali di FluxRideIO",
+      "whatIsDescription": "FluxRideIO è un gioco 3D multiplayer in cui gareggi con hoverbike futuristiche, lasciando tracce vibranti e superando i rivali in battaglie elettrizzanti.",
+      "howToPlayTitle": "Come giocare",
+      "howToPlayStep1": "Aumenta la velocità con W e diminuiscila con S.",
+      "howToPlayStep2": "Gira a sinistra e a destra con A e D.",
+      "howToPlayStep3": "Utilizza Q ed E insieme a W, S, A e D per ruotare la tua hoverbike in aria.",
+      "keyFeaturesTitle": "Caratteristiche principali",
       "feature1Title": "Azione ad alta velocità",
-      "feature1Description": "Vivi l'adrenalina delle battaglie futuristiche.",
+      "feature1Description": "Partecipa a emozionanti corse con gli hoverbike all'avanguardia.",
       "feature2Title": "Gameplay strategico",
-      "feature2Description": "Supera i tuoi rivali con tempismo, tattiche e riflessi rapidi.",
+      "feature2Description": "Inganna gli avversari tramite tempismo e tattica.",
       "feature3Title": "Tracce vibranti",
-      "feature3Description": "Lascia una traccia colorata mentre navighi nell'arena.",
-      "feature4Title": "Controlli intuitivi",
-      "feature4Description": "Padroneggia la tua hoverbike con controlli facili da imparare."
+      "feature3Description": "Lascia una scia colorata mentre navighi nell'arena.",
+      "feature4Title": "Battaglie multiplayer",
+      "feature4Description": "Competi contro altri giocatori in corse elettrizzanti per la sopravvivenza."
     },
     "HomeFAQs": {
       "title": "FAQ"
@@ -57,7 +57,7 @@
       "title": "Video del gioco"
     },
     "HomeRecommendation": {
-      "title": "Consigli"
+      "title": "Raccomandazioni"
     },
     "HomeComments": {
       "title": "Commenti sul gioco"
@@ -69,7 +69,7 @@
     },
     "CategoryPage": {
       "categories": "Categorie",
-      "noCategories": "Categorie non trovate",
+      "noCategories": "Nessuna categoria trovata",
       "viewMore": "Visualizza altro",
       "page": "Pagina"
     }

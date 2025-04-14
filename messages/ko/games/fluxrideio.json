@@ -1,8 +1,8 @@
 {
   "fluxrideio": {
-    "title": "플럭스라이드IO 온라인 무료 플레이 - 고속 호버바이크 액션",
-    "slogan": "플럭스라이드IO에서 미래 전투의 짜릿함을 경험하세요!",
-    "description": "고속 멀티플레이어 3D 게임 플럭스라이드IO에 뛰어드세요. 호버바이크 조작을 마스터하고 라이벌을 제치고 생생한 궤적을 남겨보세요. 플럭스라이드IO에서 짜릿한 레이스를 즐겨보세요! 지금 플럭스라이드IO를 플레이하세요!",
+    "title": "FluxRideIO - 초고속  hoverbike 온라인 대결",
+    "slogan": "미래 레이싱의 짜릿함을 경험하세요!",
+    "description": "FluxRideIO의 액션 가득한 세계로 뛰어들세요! hoverbike 기술을 마스터하고 3D 대결에서 라이벌을 제치고 눈부신 궤적을 남겨보세요. FluxRideIO는 무료로 이용 가능하며, 타이밍, 전략, 반사 신경이 핵심입니다!",
     "Loading": {
       "title": "로딩 중..."
     },
@@ -16,15 +16,15 @@
       "termsOfServices": "서비스 약관",
       "text": "콘텐츠",
       "help": "도움말",
-      "friendlyLinks": "친선 링크",
+      "friendlyLinks": "친절한 링크",
       "articleList": "기사 목록",
       "home": "홈",
       "next": "다음",
       "previous": "이전"
     },
     "HomeIframe": {
-      "title": "플럭스라이드IO",
-      "description": "멀티플레이어 3D 호버바이크 게임 플럭스라이드IO에서 고속 액션을 경험해보세요. 라이벌을 제치고 짜릿한 생존 경쟁에서 생생한 궤적을 남겨보세요!",
+      "title": "지금 FluxRideIO 플레이",
+      "description": "FluxRideIO에서 짜릿한 멀티플레이어 게임으로 초고속 hoverbike 액션을 경험하세요. 미래의 아레나에서 경쟁하고 상대를 속여라!",
       "iframeTitle": "게임 미리보기",
       "fullscreenButton": "전체 화면",
       "shareButton": "공유",
@@ -33,22 +33,22 @@
       "playGame": "게임 플레이"
     },
     "HomeFeatures": {
-      "gameTitle": "플럭스라이드IO",
-      "whatIsTitle": "플럭스라이드IO는 무엇인가요?",
-      "whatIsDescription": "플럭스라이드IO는 미래 전투에서 최첨단 호버바이크를 조종하는 짜릿한 멀티플레이어 3D 게임입니다. 아레나를 탐색하고 궤적을 피하며 라이벌을 제치고 짜릿한 생존 경쟁에 참여하세요.",
-      "howToPlayTitle": "플럭스라이드IO 플레이 방법",
-      "howToPlayStep1": "W키로 속도를 높이고 S키로 속도를 낮춥니다.",
-      "howToPlayStep2": "A키와 D키로 방향을 바꿔 상대를 따돌립니다.",
-      "howToPlayStep3": "W, S, A, D키와 함께 Q키와 E키를 사용하여 공중에서 바이크를 원활하게 회전시켜보세요.",
-      "keyFeaturesTitle": "플럭스라이드IO의 주요 기능",
-      "feature1Title": "고속 액션",
-      "feature1Description": "미래 전투의 짜릿한 쾌감을 경험하세요.",
-      "feature2Title": "전략적인 게임플레이",
-      "feature2Description": "타이밍, 전략, 빠른 반응으로 라이벌을 제압하세요.",
-      "feature3Title": "생생한 궤적",
-      "feature3Description": "아레나를 탐색하면서 다채로운 색상의 궤적을 남겨보세요.",
-      "feature4Title": "직관적인 조작",
-      "feature4Description": "쉽게 배우고 익힐 수 있는 조작으로 호버바이크를 마스터하세요."
+      "gameTitle": "FluxRideIO",
+      "whatIsTitle": "FluxRideIO란 무엇인가요?",
+      "whatIsDescription": "FluxRideIO는 미래형 hoverbike를 타고 경주하는 멀티플레이어 3D 게임입니다. 눈부신 궤적을 남기고 전기적인 대결에서 라이벌을 제치세요.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "W를 누르면 속도를 높이고 S를 누르면 속도를 줄입니다.",
+      "howToPlayStep2": "A와 D를 누르면 좌우로 조정합니다.",
+      "howToPlayStep3": "W, S, A, D와 함께 Q와 E를 사용하여 공중에서 바이크를 회전시킵니다.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "초고속 액션",
+      "feature1Description": "첨단 hoverbike로 짜릿한 경주에 참여하세요.",
+      "feature2Title": "전략적 플레이",
+      "feature2Description": "타이밍과 전략으로 상대를 속여라.",
+      "feature3Title": "눈부신 궤적",
+      "feature3Description": "아레나를 이동하면서 화려한 궤적을 남겨보세요.",
+      "feature4Title": "멀티플레이어 대결",
+      "feature4Description": "다른 플레이어와 경쟁하여 생존을 위한 전기적인 경주에 참여하세요."
     },
     "HomeFAQs": {
       "title": "자주 묻는 질문"
@@ -70,7 +70,7 @@
     "CategoryPage": {
       "categories": "카테고리",
       "noCategories": "카테고리가 없습니다.",
-      "viewMore": "더보기",
+      "viewMore": "자세히 보기",
       "page": "페이지"
     }
   }
