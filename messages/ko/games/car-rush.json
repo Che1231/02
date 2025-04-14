@@ -1,0 +1,77 @@
+{
+  "car-rush": {
+    "title": "자동차 러쉬: 무료 온라인 레이싱! 속도, 기술, 짜릿함이 기다립니다",
+    "slogan": "자동차 러쉬에서 최고의 속도 도전을 경험하세요!",
+    "description": "고속 액션 준비되셨나요? 자동차 러쉬는 흥미로운 세계를 질주하며 장애물을 피하고 시간과 경쟁하도록 도전합니다. 자동차 러쉬에서 드라이빙 기술을 마스터하고 최고 기록을 향해 경쟁하세요. 지금 자동차 러쉬를 플레이하고 짜릿함을 느껴보세요!",
+    "Loading": {
+      "title": "자동차 러쉬 로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "게시글 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "자동차 러쉬",
+      "description": "세 가지 세계를 질주하며 레이스하세요! 자동차 러쉬에서 시간이 다 떨어지기 전에 장애물을 피하고 랩을 완성하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "자동차 러쉬",
+      "whatIsTitle": "자동차 러쉬는 무엇인가요?",
+      "whatIsDescription": "자동차 러쉬는 세 가지 독특한 세계의 까다로운 트랙에서 경주하는 짜릿한 레이싱 게임입니다. 기술을 시험하고, 장애물을 피하고, 시간과 경쟁하세요!",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "가속하기 위해 위쪽 화살표 키를 사용하세요.",
+      "howToPlayStep2": "감속 및 속도 조절을 위해 아래쪽 화살표 키를 사용하세요.",
+      "howToPlayStep3": "차량 방향 전환을 위해 왼쪽과 오른쪽 화살표 키를 사용하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "챌린지 코스",
+      "feature1Description": "레이싱 능력을 시험할 수 있도록 설계된 세 가지 다양한 세계의 트랙을 탐험하세요.",
+      "feature2Title": "장애물 회피",
+      "feature2Description": "속도를 유지하고 코스를 유지하기 위해 다양한 장애물을 피하세요.",
+      "feature3Title": "시간 제한 게임",
+      "feature3Description": "승리를 위해 시간이 다 떨어지기 전에 모든 랩을 완료하세요.",
+      "feature4Title": "모바일 및 데스크톱 플레이",
+      "feature4Description": "모바일 폰, 태블릿 또는 컴퓨터에서 온라인으로 자동차 러쉬를 즐겨보세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

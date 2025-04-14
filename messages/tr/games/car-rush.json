@@ -1,0 +1,77 @@
+{
+  "car-rush": {
+    "title": "Araç Koşusu: Ücretsiz Oynamak İçin Online Yarış! Hız, Beceri ve Heyecan Bekliyor",
+    "slogan": "Araç Koşusunda en üst düzey hız savaşını yaşayın!",
+    "description": "Yüksek hızdaki aksiyona hazır mısınız? Araç Koşusu, heyecan verici dünyalar arasında yarışarak engellere kaçınmanıza ve zamanla yarışmanıza meydan okuyor. Araç Koşusu'nda sürüş becerilerinizi geliştirin ve en hızlı tur sürelerine ulaşmak için yarışın. Şimdi Araç Koşusu'nu oynayın ve heyecanı hissedin!",
+    "Loading": {
+      "title": "Araç Koşusu Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Araç Koşusu",
+      "description": "Üç dünya boyunca yarış yolculuğunuza devam edin! Engelsiz yarışarak ve zaman tükenmeden önce tam turu tamamlayın!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Araç Koşusu",
+      "whatIsTitle": "Araç Koşusu Nedir?",
+      "whatIsDescription": "Araç Koşusu, üç benzersiz dünyada zorlu parkurlarda ilerleyerek heyecan verici bir yarış oyunudur. Becerilerinizi test edin, engellere dikkat edin ve zamanla yarışın!",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Hızlanmak için yukarı ok tuşuna basın.",
+      "howToPlayStep2": "Fren yapmak ve yavaşlamak için aşağı ok tuşuna basın.",
+      "howToPlayStep3": "Arabayı döndürmek için sol ve sağ ok tuşlarını kullanın.",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Zorlu Parkurlar",
+      "feature1Description": "Yarış yeteneklerinizi test etmek üzere tasarlanmış üç farklı dünyayı keşfedin.",
+      "feature2Title": "Engellerden Kaçınma",
+      "feature2Description": "Hızınızı korumak ve parkurda kalmak için çeşitli engellere dikkat edin.",
+      "feature3Title": "Zaman Tabanlı Oyun",
+      "feature3Description": "Zaman tükenmeden önce tüm turu tamamlayarak zaferi elde edin.",
+      "feature4Title": "Mobil ve Masaüstü Oynanış",
+      "feature4Description": "Mobil telefonunuzda, tabletinizde veya bilgisayarınızda çevrimiçi Araç Koşusu keyfini çıkarın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Hiç kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

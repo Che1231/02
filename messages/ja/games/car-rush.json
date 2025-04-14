@@ -1,0 +1,77 @@
+{
+  "car-rush": {
+    "title": "カーラッシュ：無料オンラインレース！スピード、スキル、スリルが待っています",
+    "slogan": "カーラッシュで究極のスピードチャレンジを体験してください！",
+    "description": "高速アクションの準備はできていますか？ カーラッシュは、エキサイティングな世界を駆け抜け、障害物を避け、時計と競う挑戦です。カーラッシュであなたの運転スキルをマスターし、最速のラップタイムを目指しましょう。今すぐカーラッシュをプレイして、その興奮を体感してください！",
+    "Loading": {
+      "title": "カーラッシュを読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "サービス利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "カーラッシュ",
+      "description": "3つの世界を駆け抜け、カーラッシュで障害物を避け、時間が尽きる前にラップを完了しましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "フルスクリーン",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "カーラッシュ",
+      "whatIsTitle": "カーラッシュとは？",
+      "whatIsDescription": "カーラッシュは、3つのユニークな世界を駆け抜ける挑戦的なコースをナビゲートする、エキサイティングなレースゲームです。あなたのスキルを試して、障害物を避け、時計と競い合いましょう！",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "アクセルを踏むには、上矢印キーを使用します。",
+      "howToPlayStep2": "ブレーキと減速するには、下矢印キーを使用します。",
+      "howToPlayStep3": "車を回転させるには、左右の矢印キーを使用します。",
+      "keyFeaturesTitle": "主な特長",
+      "feature1Title": "挑戦的なコース",
+      "feature1Description": "あなたのレーシングスキルを試すように設計された、3つの多様な世界のコースを探索しましょう。",
+      "feature2Title": "障害物回避",
+      "feature2Description": "速度を維持し、コース上にとどまるために、さまざまな障害物を避けましょう。",
+      "feature3Title": "時間制限プレイ",
+      "feature3Description": "勝利するには、時間切れになる前にすべてのラップを完了させましょう。",
+      "feature4Title": "モバイルとデスクトップのプレイ",
+      "feature4Description": "モバイルフォン、タブレット、またはコンピューターでオンラインでカーラッシュをお楽しみください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

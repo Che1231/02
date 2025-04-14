@@ -1,0 +1,77 @@
+{
+  "car-rush": {
+    "title": "Car Rush : Course en ligne gratuit ! Vitesse, compétence et sensations fortes vous attendent",
+    "slogan": "Découvrez le défi ultime de la vitesse dans Car Rush !",
+    "description": "Prêt pour une action à grande vitesse ? Car Rush vous défie de parcourir des mondes palpitants, d'éviter les obstacles et de battre la montre. Maîtrisez vos compétences de conduite dans Car Rush et concourrez pour les temps au tour les plus rapides. Jouez à Car Rush maintenant et ressentez l'excitation !",
+    "Loading": {
+      "title": "Chargement de Car Rush ..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amicaux",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Car Rush",
+      "description": "Parcourez trois mondes ! Évitez les obstacles et terminez les tours avant l'échéance dans Car Rush !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer au jeu"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Car Rush",
+      "whatIsTitle": "Qu'est-ce que Car Rush ?",
+      "whatIsDescription": "Car Rush est un jeu de course exaltant où vous naviguez sur des pistes difficiles à travers trois mondes uniques. Mettez vos compétences à l'épreuve, évitez les obstacles et course contre la montre !",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Utilisez la flèche du haut pour accélérer.",
+      "howToPlayStep2": "Utilisez la flèche du bas pour freiner et ralentir.",
+      "howToPlayStep3": "Utilisez les flèches gauche et droite pour tourner la voiture.",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Pistes difficiles",
+      "feature1Description": "Explorez trois mondes différents avec des pistes conçues pour mettre vos capacités de course à l'épreuve.",
+      "feature2Title": "Évitements d'obstacles",
+      "feature2Description": "Évitez divers obstacles pour maintenir votre vitesse et rester sur la bonne voie.",
+      "feature3Title": "Gameplay basé sur le temps",
+      "feature3Description": "Terminez tous les tours avant la fin du temps pour remporter la victoire.",
+      "feature4Title": "Jeu sur mobile et ordinateur de bureau",
+      "feature4Description": "Profitez de Car Rush en ligne sur votre téléphone mobile, tablette ou ordinateur."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires des joueurs"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}
