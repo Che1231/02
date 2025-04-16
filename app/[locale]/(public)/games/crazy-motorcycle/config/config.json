@@ -11,8 +11,8 @@
   "gameType": "iframe",
   "gameIframeUrl": "https://html5.gamedistribution.com/30637801603e46ec82b342b77f539cf3/?gd_sdk_referrer_url=https://lagged.com/en/g/crazy-motorcycle",
   "gameRedirectUrl": "",
-  "bgType": "iframe",
-  "bgImage": "",
+  "bgType": "image",
+  "bgImage": "https://th.bing.com/th/id/OIP.DWV-ioDZGMtzokna9EzQeAAAAA?rs=1&pid=ImgDetMain",
   "bgVideo": "",
   "gameDownload": {
     "showDownloadButton": true,
