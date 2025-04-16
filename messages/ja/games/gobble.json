@@ -1,0 +1,77 @@
+{
+  "gobble": {
+    "title": "無料オンラインガブルゲーム：人以外何でも食べろ！",
+    "slogan": "",
+    "description": "空腹な口を操る、中毒性のあるアーケードゲーム、ガブルの奇妙な世界を探検！サボテン、岩、木をむさぼり食ええ！人だけはやめよう！ガブルには挑戦的なパズルと尽きない楽しみがあります。今すぐガブルをプレイして、どれだけ食べれるか見てみましょう！",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "ガブル",
+      "description": "",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ゲームタイトル",
+      "whatIsTitle": "これは何ですか？",
+      "whatIsDescription": "このゲームの概要です。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "",
+      "howToPlayStep2": "",
+      "howToPlayStep3": "",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "",
+      "feature1Description": "",
+      "feature2Title": "",
+      "feature2Description": "",
+      "feature3Title": "",
+      "feature3Description": "",
+      "feature4Title": "",
+      "feature4Description": ""
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "推奨ゲーム"
+    },
+    "HomeComments": {
+      "title": "ゲームコメント"
+    },
+    "GamePage": {
+      "title": "全てのゲーム",
+      "description": "全てのゲームのリストです。",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

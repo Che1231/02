@@ -1,0 +1,77 @@
+{
+  "gobble": {
+    "title": "เล่น Gobble ออนไลน์ฟรี: กินทุกอย่าง ยกเว้นคน!",
+    "slogan": "",
+    "description": "ดำดิ่งสู่โลกแปลกประหลาดของ Gobble เกมอาร์เคดติดหนึบที่คุณควบคุมปากหิว! กินกระบองเพชร หิน และต้นไม้ แต่หลีกเลี่ยงคน! Gobble มาพร้อมกับปริศนาที่ท้าทายและความสนุกไม่รู้จบ เล่น Gobble ตอนนี้และดูว่าคุณจะกินได้ไกลแค่ไหน!",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "นำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์ที่เป็นมิตร",
+      "articleList": "รายการบทความ",
+      "home": "หน้าแรก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "Gobble",
+      "description": "",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ลงในคลิปบอร์ดแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ชื่อเกม",
+      "whatIsTitle": "คืออะไร",
+      "whatIsDescription": "คำอธิบายเกี่ยวกับ Gobble คืออะไร",
+      "howToPlayTitle": "วิธีการเล่น",
+      "howToPlayStep1": "",
+      "howToPlayStep2": "",
+      "howToPlayStep3": "",
+      "keyFeaturesTitle": "คุณสมบัติสำคัญ",
+      "feature1Title": "",
+      "feature1Description": "",
+      "feature2Title": "",
+      "feature2Description": "",
+      "feature3Title": "",
+      "feature3Description": "",
+      "feature4Title": "",
+      "feature4Description": ""
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นในการเล่นเกม"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

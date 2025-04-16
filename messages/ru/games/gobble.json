@@ -1,0 +1,77 @@
+{
+  "gobble": {
+    "title": "Играйте в Gobble онлайн бесплатно: Съешьте всё, кроме людей!",
+    "slogan": "",
+    "description": "Погрузитесь в безумный мир Gobble, увлекательной аркадной игры, где вы управляете голодным ртом! Поглощайте кактусы, камни и деревья, но избегайте людей! Gobble предлагает сложные головоломки и бесконечное веселье. Сыграйте в Gobble прямо сейчас и посмотрите, как далеко вы сможете поглотить!",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "Навигация"
+    },
+    "Common": {
+      "createAt": "Создано",
+      "guide": "Руководство",
+      "privacyPolicy": "Политика конфиденциальности",
+      "termsOfServices": "Условия предоставления услуг",
+      "text": "Контент",
+      "help": "Помощь",
+      "friendlyLinks": "Полезные ссылки",
+      "articleList": "Список статей",
+      "home": "Главная",
+      "next": "Следующая",
+      "previous": "Предыдущая"
+    },
+    "HomeIframe": {
+      "title": "Gobble",
+      "description": "",
+      "iframeTitle": "Предварительный просмотр игры",
+      "fullscreenButton": "Полный экран",
+      "shareButton": "Поделиться",
+      "urlCopied": "Ссылка скопирована в буфер обмена!",
+      "downloadGame": "Скачать игру",
+      "playGame": "Играть"
+    },
+    "HomeFeatures": {
+      "gameTitle": "",
+      "whatIsTitle": "",
+      "whatIsDescription": "",
+      "howToPlayTitle": "Как играть",
+      "howToPlayStep1": "",
+      "howToPlayStep2": "",
+      "howToPlayStep3": "",
+      "keyFeaturesTitle": "Ключевые особенности",
+      "feature1Title": "",
+      "feature1Description": "",
+      "feature2Title": "",
+      "feature2Description": "",
+      "feature3Title": "",
+      "feature3Description": "",
+      "feature4Title": "",
+      "feature4Description": ""
+    },
+    "HomeFAQs": {
+      "title": "Часто задаваемые вопросы"
+    },
+    "HomeRelatedVideo": {
+      "title": "Видео игры"
+    },
+    "HomeRecommendation": {
+      "title": "Рекомендации"
+    },
+    "HomeComments": {
+      "title": "Комментарии к игре"
+    },
+    "GamePage": {
+      "title": "Все игры",
+      "description": "Все игры",
+      "games": "Игры"
+    },
+    "CategoryPage": {
+      "categories": "Категории",
+      "noCategories": "Категории не найдены",
+      "viewMore": "Показать больше",
+      "page": "Страница"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "gobble": {
+    "title": "Jouer à Gobble en ligne gratuitement : mangez tout sauf les gens !",
+    "slogan": "",
+    "description": "Plongez dans le monde farfelu de Gobble, un jeu d'arcade addictif où vous contrôlez une bouche affamée ! Dévorez les cactus, les rochers et les arbres, mais évitez les gens ! Gobble présente des énigmes difficiles et un plaisir sans fin. Jouez maintenant à Gobble et voyez jusqu'où vous pouvez Gobble !",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amis",
+      "articleList": "Liste d'articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Gobble",
+      "description": "",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer au jeu"
+    },
+    "HomeFeatures": {
+      "gameTitle": "",
+      "whatIsTitle": "Qu'est-ce que Gobble ?",
+      "whatIsDescription": "",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "",
+      "howToPlayStep2": "",
+      "howToPlayStep3": "",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "",
+      "feature1Description": "",
+      "feature2Title": "",
+      "feature2Description": "",
+      "feature3Title": "",
+      "feature3Description": "",
+      "feature4Title": "",
+      "feature4Description": ""
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

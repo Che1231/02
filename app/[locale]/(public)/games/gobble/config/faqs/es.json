@@ -1,0 +1,42 @@
+[
+  {
+    "pregunta": "Introducción a Gobble: ¿Cuáles son los controles básicos en Gobble y cómo puedo aprender a jugar rápidamente?",
+    "respuesta": "En Gobble, los controles básicos son principalmente movimiento y engullir. Normalmente, el movimiento se realiza con las teclas WASD de tu teclado o el joystick de tu controlador. Para engullir, a menudo utilizas la barra espaciadora o un botón asignado. Para aprender rápidamente, comienza con el modo tutorial. Por ejemplo, en el tutorial, aprenderás a usar la tecla 'W' para avanzar y la 'Barra espaciadora' para comer objetos más pequeños. Practica estos movimientos en los niveles iniciales para familiarizarte con el juego antes de avanzar y dominar técnicas más avanzadas más adelante."
+  },
+  {
+    "pregunta": "¿Por qué mi engullidor se queda atascado? ¿Qué debo hacer cuando la partida de Gobble se vuelve frustrante?",
+    "respuesta": "Tu engullidor probablemente se atasca debido a problemas de colisión con el entorno u otros engullidores más grandes. Cuando esto sucede, intenta lo siguiente: 1) Realiza pequeños ajustes direccionales para ver si el engullidor puede liberarse. 2) Si eso no funciona, explora rutas alternativas. 3) Como último recurso, considera reiniciar el nivel desde el último punto de control. Un escenario común es quedar atrapado entre dos rocas grandes en el área temprana del bosque. En lugar de forzar tu camino hacia adelante (que probablemente esté bloqueado), intenta moverte hacia la izquierda para encontrar una abertura."
+  },
+  {
+    "pregunta": "El tamaño importa en Gobble: ¿Cómo afecta el aumento del tamaño de mi engullidor al juego y cuáles son las ventajas estratégicas?",
+    "respuesta": "Aumentar el tamaño de tu engullidor altera significativamente el juego. Un engullidor más grande puede consumir objetos más grandes y atravesar el paisaje con mayor facilidad. Las ventajas estratégicas incluyen: 1) Acceso a nuevas áreas que antes eran inaccesibles debido a restricciones de tamaño. 2) Intimidar y, potencialmente, consumir a oponentes más pequeños. 3) Obtener un multiplicador de puntuación por consumir objetos más grandes. Por ejemplo, un engullidor pequeño podría tener dificultades para comer un hongo grande, pero un engullidor completamente desarrollado puede comerlo de un bocado, obteniendo un aumento sustancial de puntos!"
+  },
+  {
+    "pregunta": "Técnicas avanzadas de engullimiento: ¿Cómo puedo realizar engullimientos en cadena y cuáles son los beneficios de dominar esta habilidad?",
+    "respuesta": "El engullimiento en cadena te permite comer múltiples objetos en rápida sucesión, aumentando tu puntuación y eficiencia. PASO 1: Identifica una secuencia de objetos más pequeños en proximidad. PASO 2: Comienza a consumirlos en rápida sucesión, manteniendo el impulso hacia adelante. PASO 3: Practica el tiempo de tus engullimientos para evitar vacíos en el consumo. Un buen lugar para practicar esto es en el área de los campos abiertos, donde a menudo hay filas de bayas que puedes engullir en cadena, obteniendo puntos combinados y subiendo de nivel súper rápido en las primeras fases del juego."
+  },
+  {
+    "pregunta": "Optimización de Gobble: ¿Qué configuraciones de engullidor son más efectivas para las carreras, y por qué se consideran de primer nivel?",
+    "respuesta": "Para las carreras de Gobble, las configuraciones que priorizan la velocidad y el consumo eficiente son clave. Las configuraciones de primer nivel generalmente se centran en maximizar la velocidad de movimiento y minimizar el tiempo de digestión. [Tabla de configuración:] A) Configuración \"El Glotón\": Se centra en la cantidad absoluta y la capacidad de retener el tamaño. B) \"La Flecha\" es un arma de fuego. C) Una configuración híbrida sacrifica algunas estadísticas de eficiencia para mejorar la maniobrabilidad. En general, el primer nivel corre con la configuración \"La Flecha\", ya que el daño a la salud no es relevante en una carrera, por lo que la eficiencia es mucho más importante. Esto generalmente se mejora con potenciadores temporales."
+  },
+  {
+    "pregunta": "¿Qué influye en el multiplicador de puntuación de Gobble y cómo puede maximizarlo para obtener puntuaciones más altas en el juego?",
+    "respuesta": "El multiplicador de puntuación de Gobble depende de varios factores, principalmente de la diferencia de tamaño entre tu engullidor y el objeto que estás engullendo, y de tu combinación actual. Ten en cuenta estos factores al intentar maximizar la eficiencia: enemigos más pequeños dan puntuaciones más bajas, y mantener el medidor siempre lleno es crucial. Por ejemplo, engullir constantemente objetos ligeramente más grandes que tú, manteniendo una cadena continua, resultará en un multiplicador de puntuación más alto que simplemente engullir el objeto más grande disponible cada vez que sea posible. Las puntuaciones más altas también pueden proporcionar recompensas cosméticas."
+  },
+  {
+    "pregunta": "Estadísticas ocultas de Gobble: ¿Cómo funciona el sistema digestivo en Gobble y cuánto afecta al juego?",
+    "respuesta": "El sistema digestivo en Gobble es una estadística oculta que afecta la rapidez con la que tu engullidor procesa los objetos consumidos. La velocidad de digestión determina la rapidez con la que puedes consumir elementos adicionales y mantener tu medidor de combinación. Un sistema digestivo más rápido permite un engullimiento en cadena más rápido y una puntuación general más alta. Por ejemplo, si has equipado el objeto \"Estómago de Hierro\", puedes comer continuamente sin que la digestión ralentice la velocidad y la agilidad del engullidor durante mucho tiempo, dándote la ventaja en el caos de engullimiento."
+  },
+  {
+    "pregunta": "¿Cuál es la correlación entre los tipos de enemigos y sus valores de EXP correspondientes en Gobble? ¿Cuáles son las mejores áreas para la granja de EXP?",
+    "respuesta": "Cada tipo de enemigo en Gobble proporciona una cantidad diferente de EXP (puntos de experiencia) al ser consumido. Los enemigos más grandes y peligrosos suelen ofrecer más EXP. Para una granja de EXP eficiente, céntrate en áreas con una alta densidad de estos enemigos. Por ejemplo, puedes elegir cultivar monstruos de nivel superior en el desierto para aumentar tus estadísticas y EXP. La mejor área para ello sería la ubicación del Oasis."
+  },
+  {
+    "pregunta": "¿Cómo funciona la sincronización de guardado entre plataformas en Gobble y puedo jugar con la misma cuenta de engullidor en PC y móvil?",
+    "respuesta": "La sincronización de guardado entre plataformas te permite jugar con la misma cuenta de engullidor en varios dispositivos. Normalmente funciona vinculando tu cuenta de juego a un servicio en la nube. Para sincronizar tu progreso, asegúrate de iniciar sesión con la misma cuenta en tu PC y en tu dispositivo móvil. Aquí hay una comparación: (A) Guardado en la nube de Steam, (B) Guardado en la nube móvil: algunas plataformas admiten la sincronización automática, mientras que otras requieren guardar manualmente. (C) Los datos nunca se comparten entre plataformas con diferentes versiones disponibles."
+  },
+  {
+    "pregunta": "¿Existen áreas secretas o engullidores ocultos en Gobble y cómo puedo encontrarlos?  ¡Habla de los secretos de Gobble!",
+    "respuesta": "¡Sí, hay áreas secretas y engullidores ocultos para descubrir! A menudo se encuentran fuera del camino trillado o requieren acciones específicas para desbloquearlos. Un buen ejemplo es el \"Pasaje Arcoíris\", necesitas haber comido al menos 5 \"Frutas Prismática\" para activar el portal. Encontrar estos a menudo implica explorar cada rincón y grieta de los mapas. Presta atención a las pistas visuales, como patrones inusuales, caminos ocultos o interacciones con el entorno."
+  }
+]

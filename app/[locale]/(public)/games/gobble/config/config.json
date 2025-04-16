@@ -1,0 +1,120 @@
+{
+  "name": "Gobble",
+  "pagePath": "/games/gobble",
+  "pageName": "gobble",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://gamesonline86.github.io/gobble/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "CosmicKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicKraken42.png",
+      "content": "This game is wild! Eating everything but people is such a fun concept. Addictive gameplay!"
+    },
+    {
+      "author": "SavageRevolver_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageRevolver_X.png",
+      "content": "Gobble is surprisingly challenging. Never thought eating stuff could be so strategic. What a blast!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "The puzzles in Gobble get progressively harder, which keeps things interesting. Don't eat people, lol!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "So much fun to just devour everything! This rocks."
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "The graphics are simple but charming, and the core mechanic of not eating people is hilarious. Worth a try!"
+    },
+    {
+      "author": "NeonLeviathan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonLeviathan99.png",
+      "content": "Gobble is weird, I love it! The escalating challenges are a neat touch."
+    },
+    {
+      "author": "AdjectiveKatana_Z",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AdjectiveKatana_Z.png",
+      "content": "Okay, the whole 'dont eat people' thing is pretty funny. Simple, but effective. Easy to waste time on!"
+    },
+    {
+      "author": "EldenRingFan87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/EldenRingFan87.png",
+      "content": "Didn't expect much, but Gobble's actually pretty great! Those new challenges they introduce!"
+    },
+    {
+      "author": "PhantomPhoenix42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix42.png",
+      "content": "Gobble is a silly concept executed excellently. Gameplay is easy to get into."
+    },
+    {
+      "author": "DescriptiveBroadsword_Y",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/DescriptiveBroadsword_Y.png",
+      "content": "I keep accidentally eating people! Is there a penalty? Anyways, very fun."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744782318925-4cod2d.avif",
+  "page_path": "/games/gobble",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Clicker"
+  ],
+  "createdTime": "2025-04-16 13:46:43"
+}

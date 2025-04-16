@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Gobble giriş: Gobble'da temel kontroller nelerdir ve nasıl hızlı bir şekilde oynamayı öğrenebilirim?",
+    "answer": "Gobble'da temel kontroller öncelikle hareket ve \"Yutma\"dır. Genellikle hareket, klavyenizdeki WASD tuşları veya denetleyicinizdeki joystick ile yapılır. Yutmak için genellikle boşluk çubuğu veya belirlenmiş bir düğmeyi kullanırsınız. Hızlı öğrenmek için, öncelikle eğitici moddan başlayın. Örneğin, eğitimde, ileriye doğru hareket etmek için 'W' tuşunu ve daha küçük nesneleri yemek için 'Boşluk çubuğu'nu kullanmayı öğreneceksiniz. Daha ileri seviyelere geçmeden önce ve daha sonra daha gelişmiş teknikleri ustalaşmadan önce oyunun hissine kavuşmak için ilk seviyelerde bu hareketleri uygulayın."
+  },
+  {
+    "question": "Neden Gobbler'ım takılıyor? Gobble oyun deneyimi sinir bozucu olduğunda ne yapmalıyım?",
+    "answer": "Gobbler'ınız muhtemelen çevreyle veya diğer daha büyük Gobbler'larla çarpışma sorunlarından dolayı takılıyor olabilir. Bu olduğunda, şunları deneyin: 1) Gobbler'ın kendini kurtarmasını sağlamak için küçük yön ayarlamaları yapın. 2) Bu işe yaramazsa, alternatif yolları keşfedin. 3) Son çare olarak, seviyeyi son kontrol noktasından yeniden başlatmayı düşünün. Yaygın bir senaryo, erken orman alanında iki büyük kaya arasında sıkışıp kalmaktır. Kendinizi zorla ileriye doğru itmek yerine (bu muhtemelen engellenmiştir), bir açıklık bulmak için sola doğru hareket etmeye çalışın."
+  },
+  {
+    "question": "Gobble Boyutu Önemli: Gobbler'ımın boyutunu artırmak oyun deneyimini nasıl etkiler ve stratejik avantajlar nelerdir?",
+    "answer": "Gobbler'ınızın boyutunu artırmak oyun deneyimini önemli ölçüde değiştirir. Daha büyük bir Gobbler daha büyük nesneleri tüketebilir ve arazide daha kolay hareket edebilir! Stratejik avantajlar şunları içerir: 1) Boyut kısıtlamaları nedeniyle önceden erişilemeyen yeni alanlara erişmek. 2) Daha küçük rakipleri yıldırmak ve muhtemelen tüketmek. 3) Daha büyük nesneleri tüketmek için puan çarpıcısı kazanmak. Örneğin, küçük bir Gobbler büyük bir mantarı yemek zorunda kalırken, tam büyüklüğe ulaşmış bir Gobbler onu tek ısırıkta yiyebilir ve önemli bir puan artışı sağlayabilir!"
+  },
+  {
+    "question": "Gelişmiş Yutma Teknikleri: Zincir Yutmaları nasıl gerçekleştirebilirim ve bu Gobble becerisini ustalaşmanın faydaları nelerdir?",
+    "answer": "Zincir Yutma, puanınızı ve verimliliğinizi artırarak hızlı bir şekilde birden fazla nesne yemek için size olanak tanır. ADIM 1: Yakın mesafelerde birbirine yakın küçük nesnelerden oluşan bir dizi belirleyin. ADIM 2: Hızlı bir şekilde tüketmeye başlayın ve ilerlemeyi koruyun. ADIM 3: Tüketimdeki boşlukları önlemek için yutmalarınızı zamanlamayı uygulayın. Bunu uygulama için açık alan alanlarında, genellikle erken oyun aşamalarında combo puanları kazanarak ve seviye atlayarak yiyebileceğiniz bir dizi meyve bulunduğundan burada iyi bir yerdir."
+  },
+  {
+    "question": "Gobble Optimizasyonu: Hızlı oyun için en etkili Gobbler yapılandırmaları hangileridir ve neden üst düzey olarak kabul edilirler?",
+    "answer": "Gobble oyununda hızlı oyun için, hız ve verimli tüketimi önceliklendiren yapılandırmalar önemlidir. Üst düzey yapılandırmalar genellikle hareket hızını en üst düzeye çıkarmaya ve sindirim süresini en aza indirmeye odaklanır. [Yapılandırma Tablosu:] A) 'Obur': Tamamen hacme ve boyutu koruma yeteneğine odaklanıyor. B) 'Dart': Cam tüfek. C) Hibrit yapılandırma, bazı verimlilik istatistiklerini değiş tokuş ederek manevra kabiliyetini iyileştirir. Üst düzey genellikle 'Dart' yapılandırmasını kullanır, çünkü hız oyununda sağlık hasarı pek alakalı değildir, verimliliği çok daha önemli hale getirir. Bu genellikle geçici güçlendirmelerle artırılır."
+  },
+  {
+    "question": "Gobble puan çarpanı neyi etkiler ve onu en üst düzeye çıkarmak daha yüksek oyun puanları elde etmemi nasıl sağlayabilir?",
+    "answer": "Gobble puan çarpanı, öncelikle Gobbler'ınız ile yuttuğunuz nesne arasındaki boyut farkı ve mevcut kombonuz olmak üzere birkaç faktöre bağlıdır. Verimliliği en üst düzeye çıkarmak için bu faktörleri göz önünde bulundurun: daha küçük düşmanlar daha düşük puanlar verir ve ölçer her zaman dolu tutmak önemlidir. Örneğin, sürekli olarak sizden biraz daha büyük olan nesneleri yutarken ve sürekli bir zincir korurken, mümkün olan en büyük nesneyi her zaman yutmaktan daha yüksek bir puan çarpanı elde edersiniz. Daha yüksek puanlar ayrıca kozmetik ödüller sağlayabilir."
+  },
+  {
+    "question": "Gobble Gizli İstatistikler: Sindirim sistemi Gobble'da nasıl çalışır ve oyun oynamayı ne kadar etkiler?",
+    "answer": "Gobble'daki sindirim sistemi, Gobbler'ınızın tüketilen nesneleri ne kadar hızlı işleme aldığını etkileyen gizli bir özelliktir. Sindirim hızı, ek öğeleri ne kadar hızlı yutabileceğinizi ve combo ölçerini koruyabileceğinizi belirler. Daha hızlı bir sindirim sistemi, daha hızlı zincir yutma ve genel olarak daha yüksek bir puana olanak tanır. Örneğin, 'Demir Mide' öğesini taktıysanız, uzun süreler boyunca sindirim Gobbler'ın hızını ve çevikliğini yavaşlatmadan sürekli olarak yemek yiyebilir ve Gobbling kaosunda üstünlük sağlayabilirsiniz."
+  },
+  {
+    "question": "Düşman türleri Gobble'da karşılık gelen EXP değerleri arasında nasıl bir ilişki vardır? EXP çiftliği için en iyi alanlar nelerdir?",
+    "answer": "Gobble'daki her düşman türü, tüketildiğinde farklı miktarda EXP (deneyim puanı) sağlar. Daha büyük ve daha tehlikeli düşmanlar genellikle daha fazla EXP sunar. Verimli EXP çiftçiliği için, bu düşmanların yoğunluğunun yüksek olduğu alanlara odaklanın. Örneğin, istatistiklerinizi ve EXP'nizi artırmak için çöldeki daha yüksek seviyeli canavarları çiftleyebilirsiniz. Bunun için en iyi alan Vahaların konumudur."
+  },
+  {
+    "question": "Birden Çok Cihazda Gobble: Platformlar arası kaydetme senkronizasyonu nasıl çalışır ve aynı Gobbler hesabını PC ve mobilde oynayabilir miyim?",
+    "answer": "Platformlar arası kaydetme senkronizasyonu, aynı Gobbler hesabını birden çok cihazda oynamanıza olanak tanır. Genellikle, oyun hesabınızı bir bulut hizmetine bağlayarak çalışır. İlerlemeyi senkronize etmek için, PC'nizde ve mobil cihazınızda aynı hesaba giriş yaptığınızdan emin olun. İşte bir karşılaştırma: (A) Steam bulut kaydetme, (B) Mobil bulut kaydetme: Bazı platformlar otomatik senkronizasyonu desteklerken, diğerleri manuel kaydetmeleri gerektirir. (C) Veriler, farklı versiyonlara sahip farklı platformlar arasında asla paylaşılmaz."
+  },
+  {
+    "question": "Gobble'da gizli alanlar veya gizli Gobbler'lar var mı ve nasıl bulabilirim? Gizli Gobble'ler - Bana daha fazla bilgi ver!",
+    "answer": "Evet, keşfedilecek gizli alanlar ve gizli Gobbler'lar var! Bunlar genellikle yoldan çıkmış yerlerde bulunur veya belirli eylemler gerektirebilir. İyi bir örnek, \"Gökkuşağı Geçidi\"dir, portali etkinleştirmek için en az 5 'Prismatic Meyve' yemiş olmanız gerekir. Bunları bulmak genellikle haritaların her köşesini ve boşluğunu keşfetmeyi içerir. Olağandışı desenler, gizli yollar veya çevreyle etkileşimler gibi görsel ipuçlarına dikkat edin."
+  }
+]
