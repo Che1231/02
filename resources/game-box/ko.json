@@ -2,102 +2,102 @@
   "recommended": [
     {
       "visible": true,
-      "url": "/games/slice-master",
+      "url": "/games/doodle-road",
       "position": 1
     },
     {
       "visible": true,
-      "url": "/games/screw-master-3d-pin-puzzle",
+      "url": "/games/hole-io",
       "position": 2
     },
     {
       "visible": true,
-      "url": "/games/ice-cream-stack-runner",
+      "url": "/games/city-blocks",
       "position": 3
     },
     {
       "visible": true,
-      "url": "/games/unpuzzle-master-tap-away",
+      "url": "/games/man-runner-2048",
       "position": 4
     },
     {
       "visible": true,
-      "url": "/games/tiles-hop-edm-rush",
+      "url": "/games/cubinko",
       "position": 5
     },
     {
       "visible": true,
-      "url": "/games/bridge-race",
+      "url": "/games/slice-master",
       "position": 6
     },
     {
       "visible": true,
-      "url": "/games/count-masters-stickman-games",
+      "url": "/games/screw-puzzle-diy",
       "position": 7
     },
     {
       "visible": true,
-      "url": "/games/stack-n-sort",
+      "url": "/games/fruita-crush",
       "position": 8
     },
     {
       "visible": true,
-      "url": "/games/stickman-clash",
+      "url": "/games/save-dogs-from-bee-game",
       "position": 9
     },
     {
       "visible": true,
-      "url": "/games/bbq-stack-run",
+      "url": "/games/ice-cream-stack-runner",
       "position": 10
     },
     {
       "visible": true,
-      "url": "/games/papa-s-pancakeria",
+      "url": "/games/ragdoll-archers",
       "position": 11
     },
     {
       "visible": true,
-      "url": "/games/papa-s-freezeria",
+      "url": "/games/basketball-superstars",
       "position": 12
     },
     {
       "visible": true,
-      "url": "/games/papa-s-cupcakeria",
+      "url": "/games/sprunki-shooter-2025",
       "position": 13
     },
     {
       "visible": true,
-      "url": "/games/papa-s-taco-mia",
+      "url": "/games/warfare-1942",
       "position": 14
     },
     {
       "visible": true,
-      "url": "/games/papa-s-pastaria",
+      "url": "/games/fnf-vs-touhou",
       "position": 15
     },
     {
       "visible": true,
-      "url": "/games/city-blocks",
+      "url": "/games/papa-s-pancakeria",
       "position": 16
     },
     {
       "visible": true,
-      "url": "/games/8-ball-billiards-classic",
+      "url": "/games/world-z-defense-zombie-defense",
       "position": 17
     },
     {
       "visible": true,
-      "url": "/games/basketbros",
+      "url": "/games/geometry-dash-clutterfunk",
       "position": 18
     },
     {
       "visible": true,
-      "url": "/games/jump-smash-3d",
+      "url": "/games/tanks",
       "position": 19
     },
     {
       "visible": true,
-      "url": "/games/alphabet-run",
+      "url": "/games/thief-puzzle",
       "position": 20
     }
   ],
@@ -110,16 +110,16 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "직접 선별한 최고 등급 게임으로 엔터테인먼트를 보장합니다!"
+      "description": "직접 선별한 최고 등급의 게임으로, 즐거움이 보장됩니다!"
     },
     {
-      "name": "인기",
+      "name": "핫",
       "path": "/c/hot",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
-      "description": "이 달 가장 많이 플레이되는 게임 – 놓치지 마세요!",
+      "description": "이 달 가장 많이 플레이된 게임 – 놓치지 마세요!",
       "position": 2
     },
     {
@@ -129,7 +129,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "검을 휘두르는 모험으로 도전을 헤쳐나가세요!",
+      "description": "검을 휘두르며 도전을 극복하는 모험!",
       "position": 3
     },
     {
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "짜릿한 퀘스트에 나서고 숨겨진 보물을 찾으세요!"
+      "description": "짜릿한 모험에 나서고 숨겨진 보물을 찾으세요!"
     },
     {
       "name": "슈팅",
@@ -150,7 +150,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "목표를 정하고 발사하여 전장을 제압하세요!"
+      "description": "겨냥하고 발사하여 전장을 제압하세요!"
     },
     {
       "name": "레이싱",
@@ -169,28 +169,28 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "바쁜 일정에도 맞는 터치 한 번으로 즐기는 재미!",
+      "description": "바쁜 일정에도 즐길 수 있는 간편한 즐거움!",
       "position": 7
     },
     {
-      "name": "퍼즐",
-      "path": "/c/puzzle",
+      "name": "멀티플레이어",
+      "path": "/c/multiplayer",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791209881-tlvgkr.png",
       "position": 8,
-      "description": "지적인 퍼즐과 미로로 두뇌를 훈련시키세요! "
+      "description": "전 세계 친구들과 팀을 이루거나 경쟁하세요!"
     },
     {
-      "name": "음악",
-      "path": "/c/music",
+      "name": "클릭러",
+      "path": "/c/clicker",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791224103-9c24n9.png",
       "position": 9,
-      "description": "리듬에 맞춰 율동을 마스터하세요!"
+      "description": "탭하여 골드를 벌고 제국을 자동화하세요!"
     },
     {
       "name": "스포츠",
@@ -200,47 +200,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
       "position": 10,
-      "description": "골을 넣고, 덩크슛을 하고, 기록을 세우세요!"
-    },
-    {
-      "name": "멀티플레이어",
-      "path": "/c/multiplayer",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
-      "position": 11,
-      "description": "전 세계 친구들과 팀을 이루거나 경쟁하세요!"
-    },
-    {
-      "name": "클릭러",
-      "path": "/c/clicker",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483016845-q3l71i.png",
-      "position": 12,
-      "description": "탭하여 골드를 벌고 제국의 자동화를 진행하세요!"
-    },
-    {
-      "name": "요리",
-      "path": "/c/cooking",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484130517-98a2qo.png",
-      "position": 13,
-      "description": "맛있는 음식을 60초 만에 요리하세요!"
-    },
-    {
-      "name": "농장",
-      "path": "/c/farming",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
-      "position": 14,
-      "description": "작물을 수확하고 탭 한 번으로 꿈의 농장을 건설하세요!"
+      "description": "골을 넣고, 덩크슛을 성공하고, 즉시 기록을 경신하세요!"
     },
     {
       "name": ".IO",
@@ -248,19 +208,9 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
-      "position": 15,
-      "description": ".IO 세계에서 먹고 자라고 지배하세요!"
-    },
-    {
-      "name": "3D",
-      "path": "/c/3d",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
-      "position": 16,
-      "description": "놀라운 그래픽으로 몰입형 3D 세계를 탐험하세요! "
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791236590-lmb1ph.png",
+      "position": 11,
+      "description": ".IO 우주에서 먹고, 자라고, 지배하세요!"
     }
   ]
 }

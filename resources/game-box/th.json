@@ -2,102 +2,102 @@
   "recommended": [
     {
       "visible": true,
-      "url": "/games/slice-master",
+      "url": "/games/doodle-road",
       "position": 1
     },
     {
       "visible": true,
-      "url": "/games/screw-master-3d-pin-puzzle",
+      "url": "/games/hole-io",
       "position": 2
     },
     {
       "visible": true,
-      "url": "/games/ice-cream-stack-runner",
+      "url": "/games/city-blocks",
       "position": 3
     },
     {
       "visible": true,
-      "url": "/games/unpuzzle-master-tap-away",
+      "url": "/games/man-runner-2048",
       "position": 4
     },
     {
       "visible": true,
-      "url": "/games/tiles-hop-edm-rush",
+      "url": "/games/cubinko",
       "position": 5
     },
     {
       "visible": true,
-      "url": "/games/bridge-race",
+      "url": "/games/slice-master",
       "position": 6
     },
     {
       "visible": true,
-      "url": "/games/count-masters-stickman-games",
+      "url": "/games/screw-puzzle-diy",
       "position": 7
     },
     {
       "visible": true,
-      "url": "/games/stack-n-sort",
+      "url": "/games/fruita-crush",
       "position": 8
     },
     {
       "visible": true,
-      "url": "/games/stickman-clash",
+      "url": "/games/save-dogs-from-bee-game",
       "position": 9
     },
     {
       "visible": true,
-      "url": "/games/bbq-stack-run",
+      "url": "/games/ice-cream-stack-runner",
       "position": 10
     },
     {
       "visible": true,
-      "url": "/games/papa-s-pancakeria",
+      "url": "/games/ragdoll-archers",
       "position": 11
     },
     {
       "visible": true,
-      "url": "/games/papa-s-freezeria",
+      "url": "/games/basketball-superstars",
       "position": 12
     },
     {
       "visible": true,
-      "url": "/games/papa-s-cupcakeria",
+      "url": "/games/sprunki-shooter-2025",
       "position": 13
     },
     {
       "visible": true,
-      "url": "/games/papa-s-taco-mia",
+      "url": "/games/warfare-1942",
       "position": 14
     },
     {
       "visible": true,
-      "url": "/games/papa-s-pastaria",
+      "url": "/games/fnf-vs-touhou",
       "position": 15
     },
     {
       "visible": true,
-      "url": "/games/city-blocks",
+      "url": "/games/papa-s-pancakeria",
       "position": 16
     },
     {
       "visible": true,
-      "url": "/games/8-ball-billiards-classic",
+      "url": "/games/world-z-defense-zombie-defense",
       "position": 17
     },
     {
       "visible": true,
-      "url": "/games/basketbros",
+      "url": "/games/geometry-dash-clutterfunk",
       "position": 18
     },
     {
       "visible": true,
-      "url": "/games/jump-smash-3d",
+      "url": "/games/tanks",
       "position": 19
     },
     {
       "visible": true,
-      "url": "/games/alphabet-run",
+      "url": "/games/thief-puzzle",
       "position": 20
     }
   ],
@@ -110,26 +110,26 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "เกมยอดนิยมที่คัดสรรมาอย่างดี รับรองความสนุก!"
+      "description": "เกมยอดนิยมที่คัดสรรมาแล้ว รับรองความบันเทิง!"
     },
     {
-      "name": "ฮิต",
+      "name": "ฮอต",
       "path": "/c/hot",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
-      "description": "เกมที่เล่นมากที่สุดในเดือนนี้ – ห้ามพลาด!",
+      "description": "เกมที่เล่นมากที่สุดในเดือนนี้ – อย่าพลาด!",
       "position": 2
     },
     {
-      "name": "แอ็คชัน",
+      "name": "แอ็คชั่น",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "ต่อสู้กับความท้าทายด้วยการผจญภัยด้วยดาบ!",
+      "description": "ฝ่าฟันความท้าทายด้วยการผจญภัยที่ใช้ดาบ!",
       "position": 3
     },
     {
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "ออกเดินทางในภารกิจที่น่าตื่นเต้นและค้นพบสมบัติที่ซ่อนอยู่!"
+      "description": "ออกเดินทางสู่ภารกิจตื่นเต้น และค้นพบสมบัติที่ซ่อนอยู่!"
     },
     {
       "name": "ยิง",
@@ -150,7 +150,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "ยิง, ยิงและครอบงำสนามรบในพริบตา!"
+      "description": "เล็ง ยิง และครองสนามรบในพริบตา!"
     },
     {
       "name": "แข่งรถ",
@@ -160,37 +160,37 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "เผา ยาง และลอยไปสู่ชัยชนะ!"
+      "description": "เผาถนนและดริฟท์ไปสู่ชัยชนะ!"
     },
     {
-      "name": "Hypercasual",
+      "name": "ไฮเปอร์แคชชวล",
       "path": "/c/hypercasual",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "ความสนุกแบบแตะเดียวที่เข้ากับตารางเวลาที่ยุ่งของคุณ!",
+      "description": "ความสนุกเพียงปลายนิ้วที่เหมาะกับตารางเวลาอันวุ่นวายของคุณ!",
       "position": 7
     },
     {
-      "name": "ปริศนา",
-      "path": "/c/puzzle",
+      "name": "ผู้เล่นหลายคน",
+      "path": "/c/multiplayer",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791209881-tlvgkr.png",
       "position": 8,
-      "description": "ฝึกสมองของคุณด้วยปริศนาและทางลับที่ซับซ้อน!"
+      "description": "ร่วมทีมหรือแข่งขันกับเพื่อนทั่วโลก!"
     },
     {
-      "name": "เพลง",
-      "path": "/c/music",
+      "name": "คลิกเกอร์",
+      "path": "/c/clicker",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791224103-9c24n9.png",
       "position": 9,
-      "description": "เข้ากับจังหวะและกลายเป็นผู้เชี่ยวชาญด้านจังหวะ!"
+      "description": "แตะเพื่อรับทองคำและอัตโนมัติจักรวรรดิของคุณ!"
     },
     {
       "name": "กีฬา",
@@ -200,47 +200,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
       "position": 10,
-      "description": "ทำประตู แตะ และทำลายสถิติได้ในทันที!"
-    },
-    {
-      "name": "ผู้เล่นหลายคน",
-      "path": "/c/multiplayer",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
-      "position": 11,
-      "description": "รวมทีมหรือแข่งขันกับเพื่อนทั่วโลก!"
-    },
-    {
-      "name": "คลิกเกอร์",
-      "path": "/c/clicker",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483016845-q3l71i.png",
-      "position": 12,
-      "description": "แตะเพื่อรับทองคำและอัตโนมัติจักรวรรดิของคุณ!"
-    },
-    {
-      "name": "ทำอาหาร",
-      "path": "/c/cooking",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484130517-98a2qo.png",
-      "position": 13,
-      "description": "ทำอาหารอร่อยๆ ใน 60 วินาที! "
-    },
-    {
-      "name": "การเกษตร",
-      "path": "/c/farming",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
-      "position": 14,
-      "description": "เก็บเกี่ยวพืชผลและสร้างฟาร์มในฝันของคุณด้วยการแตะเพียงครั้งเดียว! "
+      "description": "ทำประตู ยิงแด๊ง และทำลายสถิติทันที!"
     },
     {
       "name": ".IO",
@@ -248,19 +208,9 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
-      "position": 15,
-      "description": "กิน เติบโต และครอบงำจักรวาล .IO! "
-    },
-    {
-      "name": "3 มิติ",
-      "path": "/c/3d",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
-      "position": 16,
-      "description": "ดำดิ่งสู่โลก 3 มิติที่น่าดึงดูดด้วยกราฟิกที่สวยงาม! "
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791236590-lmb1ph.png",
+      "position": 11,
+      "description": "กิน เติบโต และครองจักรวาล .IO!"
     }
   ]
 }

@@ -2,118 +2,118 @@
   "recommended": [
     {
       "visible": true,
-      "url": "/games/slice-master",
+      "url": "/games/doodle-road",
       "position": 1
     },
     {
       "visible": true,
-      "url": "/games/screw-master-3d-pin-puzzle",
+      "url": "/games/hole-io",
       "position": 2
     },
     {
       "visible": true,
-      "url": "/games/ice-cream-stack-runner",
+      "url": "/games/city-blocks",
       "position": 3
     },
     {
       "visible": true,
-      "url": "/games/unpuzzle-master-tap-away",
+      "url": "/games/man-runner-2048",
       "position": 4
     },
     {
       "visible": true,
-      "url": "/games/tiles-hop-edm-rush",
+      "url": "/games/cubinko",
       "position": 5
     },
     {
       "visible": true,
-      "url": "/games/bridge-race",
+      "url": "/games/slice-master",
       "position": 6
     },
     {
       "visible": true,
-      "url": "/games/count-masters-stickman-games",
+      "url": "/games/screw-puzzle-diy",
       "position": 7
     },
     {
       "visible": true,
-      "url": "/games/stack-n-sort",
+      "url": "/games/fruita-crush",
       "position": 8
     },
     {
       "visible": true,
-      "url": "/games/stickman-clash",
+      "url": "/games/save-dogs-from-bee-game",
       "position": 9
     },
     {
       "visible": true,
-      "url": "/games/bbq-stack-run",
+      "url": "/games/ice-cream-stack-runner",
       "position": 10
     },
     {
       "visible": true,
-      "url": "/games/papa-s-pancakeria",
+      "url": "/games/ragdoll-archers",
       "position": 11
     },
     {
       "visible": true,
-      "url": "/games/papa-s-freezeria",
+      "url": "/games/basketball-superstars",
       "position": 12
     },
     {
       "visible": true,
-      "url": "/games/papa-s-cupcakeria",
+      "url": "/games/sprunki-shooter-2025",
       "position": 13
     },
     {
       "visible": true,
-      "url": "/games/papa-s-taco-mia",
+      "url": "/games/warfare-1942",
       "position": 14
     },
     {
       "visible": true,
-      "url": "/games/papa-s-pastaria",
+      "url": "/games/fnf-vs-touhou",
       "position": 15
     },
     {
       "visible": true,
-      "url": "/games/city-blocks",
+      "url": "/games/papa-s-pancakeria",
       "position": 16
     },
     {
       "visible": true,
-      "url": "/games/8-ball-billiards-classic",
+      "url": "/games/world-z-defense-zombie-defense",
       "position": 17
     },
     {
       "visible": true,
-      "url": "/games/basketbros",
+      "url": "/games/geometry-dash-clutterfunk",
       "position": 18
     },
     {
       "visible": true,
-      "url": "/games/jump-smash-3d",
+      "url": "/games/tanks",
       "position": 19
     },
     {
       "visible": true,
-      "url": "/games/alphabet-run",
+      "url": "/games/thief-puzzle",
       "position": 20
     }
   ],
   "categories": [
     {
-      "name": "Melhores",
+      "name": "Melhor",
       "path": "/c/best",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "Jogos premiados, selecionados, garantidamente divertidos!"
+      "description": "Jogos premiados selecionados, garantidamente para entreter!"
     },
     {
-      "name": "Quentes",
+      "name": "Quente",
       "path": "/c/hot",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
@@ -129,7 +129,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Faça cortes em desafios com aventuras de esgrima!",
+      "description": "Corte os desafios com aventuras de esgrima!",
       "position": 3
     },
     {
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "Embarque em quests emocionantes e descubra tesouros escondidos!"
+      "description": "Embarque em buscas emocionantes e descubra tesouros escondidos!"
     },
     {
       "name": "Tiro",
@@ -150,7 +150,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "Mire, atire e domine o campo de batalha em segundos!"
+      "description": "Mire, dispare e domine o campo de batalha em segundos!"
     },
     {
       "name": "Corrida",
@@ -160,7 +160,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "Queime pneus e derrape até a vitória!"
+      "description": "Queime borracha e deslize em direção à vitória!"
     },
     {
       "name": "Casual",
@@ -169,48 +169,18 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Diversão com um toque que cabe na sua agenda corrida!",
+      "description": "Diversão de um toque que se adapta ao seu horário de trabalho!",
       "position": 7
     },
     {
-      "name": "Quebra-cabeça",
-      "path": "/c/puzzle",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483005238-4ds5l7.png",
-      "position": 8,
-      "description": "Treine seu cérebro com enigmas e labirintos desafiadores!"
-    },
-    {
-      "name": "Música",
-      "path": "/c/music",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484024878-o3dcyp.png",
-      "position": 9,
-      "description": "Acerte o ritmo e torne-se um mestre do ritmo!"
-    },
-    {
-      "name": "Esporte",
-      "path": "/c/sports",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
-      "position": 10,
-      "description": "Marque gols, faça arremessos e quebre recordes instantaneamente!"
-    },
-    {
-      "name": "Multiplayer",
+      "name": "Multijogador",
       "path": "/c/multiplayer",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484088379-00o4vh.png",
-      "position": 11,
-      "description": "Junte-se ou enfrente amigos globalmente!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791209881-tlvgkr.png",
+      "position": 8,
+      "description": "Junte-se ou compeça com amigos globalmente!"
     },
     {
       "name": "Clique",
@@ -218,29 +188,19 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483016845-q3l71i.png",
-      "position": 12,
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791224103-9c24n9.png",
+      "position": 9,
       "description": "Toque para ganhar ouro e automatizar seu império!"
     },
     {
-      "name": "Cozinha",
-      "path": "/c/cooking",
+      "name": "Esportes",
+      "path": "/c/sports",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484130517-98a2qo.png",
-      "position": 13,
-      "description": "Prepare refeições deliciosas em 60 segundos!"
-    },
-    {
-      "name": "Fazenda",
-      "path": "/c/farming",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484225381-fbhzjb.png",
-      "position": 14,
-      "description": "Colha safras e crie sua fazenda dos sonhos com um único toque!"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
+      "position": 10,
+      "description": "Marque gols, arremessos e quebre recordes instantaneamente!"
     },
     {
       "name": ".IO",
@@ -248,19 +208,9 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484385277-xp534w.png",
-      "position": 15,
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791236590-lmb1ph.png",
+      "position": 11,
       "description": "Coma, cresça e domine o universo .IO!"
-    },
-    {
-      "name": "3D",
-      "path": "/c/3d",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484309501-km90m.png",
-      "position": 16,
-      "description": "Mergulhe em mundos 3D imersivos com gráficos deslumbrantes!"
     }
   ]
 }
