@@ -110,7 +110,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "Добори найкращих ігор, які гарантовано розважають!"
+      "description": "Добори найкращих ігор, які гарантовано розважать вас!"
     },
     {
       "name": "Гарячі",
@@ -123,13 +123,13 @@
       "position": 2
     },
     {
-      "name": "Бойові",
+      "name": "Дії",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Вріжтеся в виклики з пригодами з рубанням мечами!",
+      "description": "Пробивайтеся крізь виклики з пригодами з розмахування мечем!",
       "position": 3
     },
     {
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "Відправтеся у захопливі подорожі та відкрийте заховані скарби!"
+      "description": "Вступайте в захоплюючі пошуки та відкрийте сховані скарби!"
     },
     {
       "name": "Стрілянина",
@@ -150,40 +150,40 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "Прицілюйтесь, стріляйте та домінуйте на полі бою за секунди!"
+      "description": "Націлюйтесь, стріляйте та домінуйте на полі битви за секунди!"
     },
     {
-      "name": "Гоночні",
+      "name": "Гонки",
       "path": "/c/racing",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "Спалюйте гуму та дрейфуйте до перемоги!"
+      "description": "Підпалюйте покришки та втікайте до перемоги!"
     },
     {
-      "name": "Гіперкейжваль",
+      "name": "Гіперказуальні",
       "path": "/c/hypercasual",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Один натиск, щоб отримати задоволення, яке підходить вашому напруженому розкладу!",
+      "description": "Один дотик для задоволення, що підходить до вашого напруженого графіку!",
       "position": 7
     },
     {
-      "name": "Мультиплеєр",
+      "name": "Багатокористувацькі",
       "path": "/c/multiplayer",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791209881-tlvgkr.png",
       "position": 8,
-      "description": "Спільно працюйте або змагайтеся з друзями по всьому світу!"
+      "description": "Об'єднуйтесь або змагайтесь з друзями по всьому світу!"
     },
     {
-      "name": "Кліки",
+      "name": "Клікеры",
       "path": "/c/clicker",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -200,7 +200,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
       "position": 10,
-      "description": "Забивайте голи, робіть данки та встановлюйте рекорди миттєво!"
+      "description": "Забивайте голи, виконуйте данки та встановлюйте рекорди миттєво!"
     },
     {
       "name": ".IO",
@@ -210,7 +210,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791236590-lmb1ph.png",
       "position": 11,
-      "description": "Їжте, розростайтеся та пануйте у всесвіті .IO!"
+      "description": "Їжте, ростіть і домінуйте у всесвіті .IO!"
+    },
+    {
+      "name": "111",
+      "path": "/c/111",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "position": 12,
+      "description": "111"
     }
   ]
 }

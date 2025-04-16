@@ -110,16 +110,16 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "Jogos premiados selecionados, garantidamente divertidos!"
+      "description": "Jogos premiados, selecionados à mão, garantidos para entreter!"
     },
     {
-      "name": "Em alta",
+      "name": "Quente",
       "path": "/c/hot",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
-      "description": "Os jogos mais jogados este mês – não perca!",
+      "description": "Os jogos mais jogados neste mês – não perca!",
       "position": 2
     },
     {
@@ -129,7 +129,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Faça cortes através dos desafios com aventuras com esgrima!",
+      "description": "Enfrente desafios com aventuras que exigem o uso de espadas!",
       "position": 3
     },
     {
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "Parta em quests emocionantes e descubra tesouros escondidos!"
+      "description": "Parta em emocionantes missões e descubra tesouros escondidos!"
     },
     {
       "name": "Tiro",
@@ -160,16 +160,16 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "Queime borracha e derrape para a vitória!"
+      "description": "Queime borracha e derrape até a vitória!"
     },
     {
-      "name": "Casual",
+      "name": "Hypercasual",
       "path": "/c/hypercasual",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Diversão com um toque, que se ajusta à sua agenda ocupada!",
+      "description": "Diversão com um toque, perfeita para sua agenda agitada!",
       "position": 7
     },
     {
@@ -180,7 +180,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791209881-tlvgkr.png",
       "position": 8,
-      "description": "Junte-se a amigos ou competindo globalmente!"
+      "description": "Junte-se ou rivalize com amigos em todo o mundo!"
     },
     {
       "name": "Clique",
@@ -190,7 +190,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791224103-9c24n9.png",
       "position": 9,
-      "description": "Toque para ganhar ouro e automatize seu império!"
+      "description": "Toque para ganhar ouro e automatizar seu império!"
     },
     {
       "name": "Esportes",

@@ -110,7 +110,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "Лучшие игры, отобранные вручную, гарантированно доставят удовольствие!"
+      "description": "Ручной отбор лучших игр, гарантированно развлекущих!"
     },
     {
       "name": "Популярные",
@@ -119,17 +119,17 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
-      "description": "Самые популярные игры этого месяца — не упустите!",
+      "description": "Самые играемые игры этого месяца — не пропустите!",
       "position": 2
     },
     {
-      "name": "Экшн",
+      "name": "Экшен",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Прокладывайте путь сквозь испытания с приключениями с маханием мечом!",
+      "description": "Прокладывайте путь сквозь вызовы с приключениями с размахиванием мечом!",
       "position": 3
     },
     {
@@ -140,17 +140,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "Отправляйтесь в захватывающие квесты и откройте скрытые сокровища!"
+      "description": "Отправляйтесь в захватывающие квесты и откройте для себя скрытые сокровища!"
     },
     {
-      "name": "Стрельба",
+      "name": "Стрелялки",
       "path": "/c/shooting",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "Прицеливайтесь, стреляйте и доминируйте на поле боя!"
+      "description": "Нацельтесь, стреляйте и доминируйте на поле боя за считанные секунды!"
     },
     {
       "name": "Гонки",
@@ -160,7 +160,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "Сожгите резину и дрифтуйте к победе!"
+      "description": "Сожгите резину и устройте дрифт к победе!"
     },
     {
       "name": "Гиперкежуал",
@@ -169,7 +169,7 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Развлечение одним касанием, которое подходит вашему загруженному расписанию!",
+      "description": "Развлечения одним касанием, идеально подходящие для вашего плотного графика!",
       "position": 7
     },
     {
@@ -180,7 +180,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791209881-tlvgkr.png",
       "position": 8,
-      "description": "Объединитесь или соревнуйтесь с друзьями по всему миру!"
+      "description": "Совмещайтесь или соревнуйтесь с друзьями по всему миру!"
     },
     {
       "name": "Кликеры",
@@ -190,7 +190,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791224103-9c24n9.png",
       "position": 9,
-      "description": "Нажимайте, чтобы получать золото и автоматизировать свою империю!"
+      "description": "Нажимайте, чтобы заработать золото и автоматизировать свою империю!"
     },
     {
       "name": "Спорт",
@@ -200,17 +200,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
       "position": 10,
-      "description": "Забивайте голы, делайте данки и устанавливайте рекорды мгновенно!"
+      "description": "Забивайте голы, выполняйте данки и устанавливайте рекорды мгновенно!"
     },
     {
-      "name": "IO",
+      "name": ".IO",
       "path": "/c/io",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791236590-lmb1ph.png",
       "position": 11,
-      "description": "Ешь, расти и доминируй в вселенной .IO!"
+      "description": "Ешьте, растите и доминируйте в .IO вселенной!"
     }
   ]
 }

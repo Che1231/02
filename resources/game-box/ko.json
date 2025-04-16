@@ -110,7 +110,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "직접 선별한 최고 등급의 게임으로, 즐거움이 보장됩니다!"
+      "description": "수작업으로 선별한 최고 평점 게임으로 즐거움이 보장됩니다!"
     },
     {
       "name": "핫",
@@ -119,7 +119,7 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
-      "description": "이 달 가장 많이 플레이된 게임 – 놓치지 마세요!",
+      "description": "이달 가장 많이 플레이되는 게임 – 놓치지 마세요!",
       "position": 2
     },
     {
@@ -129,7 +129,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "검을 휘두르며 도전을 극복하는 모험!",
+      "description": "검으로 휘두르며 도전을 극복하는 모험!",
       "position": 3
     },
     {
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "짜릿한 모험에 나서고 숨겨진 보물을 찾으세요!"
+      "description": "짜릿한 퀘스트에 나서서 숨겨진 보물을 발견하세요!"
     },
     {
       "name": "슈팅",
@@ -150,7 +150,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "겨냥하고 발사하여 전장을 제압하세요!"
+      "description": "겨냥, 사격, 몇 초 만에 전장을 지배하세요!"
     },
     {
       "name": "레이싱",
@@ -169,7 +169,7 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "바쁜 일정에도 즐길 수 있는 간편한 즐거움!",
+      "description": "바쁜 일정에 맞춰 한 번 터치로 즐기는 재미!",
       "position": 7
     },
     {
@@ -190,7 +190,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791224103-9c24n9.png",
       "position": 9,
-      "description": "탭하여 골드를 벌고 제국을 자동화하세요!"
+      "description": "탭하여 금을 벌고 제국의 자동화를하세요!"
     },
     {
       "name": "스포츠",
@@ -200,7 +200,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
       "position": 10,
-      "description": "골을 넣고, 덩크슛을 성공하고, 즉시 기록을 경신하세요!"
+      "description": "골, 덩크슛을 성공시키고 기록을 경신하세요!"
     },
     {
       "name": ".IO",
@@ -210,7 +210,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791236590-lmb1ph.png",
       "position": 11,
-      "description": ".IO 우주에서 먹고, 자라고, 지배하세요!"
+      "description": ".IO 유니버스에서 먹고 자라고 지배하세요! "
     }
   ]
 }

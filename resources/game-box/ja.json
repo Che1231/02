@@ -103,14 +103,14 @@
   ],
   "categories": [
     {
-      "name": "最高のゲーム",
+      "name": "ベスト",
       "path": "/c/best",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "厳選された上位のゲームは、必ずお楽しみいただけます！"
+      "description": "厳選されたトップクラスのゲームでエンターテイメントを保証します！"
     },
     {
       "name": "ホット",
@@ -119,7 +119,7 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
-      "description": "今月はもっともプレイされているゲーム。お見逃しなく！",
+      "description": "今月の最もプレイされているゲーム。お見逃しなく！",
       "position": 2
     },
     {
@@ -129,7 +129,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "剣を振るう冒険で、挑戦を乗り越えましょう！",
+      "description": "剣を振るう冒険で、課題を切り開きましょう！",
       "position": 3
     },
     {
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "スリリングなクエストに乗り出し、隠された宝物を発見しましょう！"
+      "description": "スリリングなクエストに乗り出し、隠された宝物を見つけましょう！"
     },
     {
       "name": "シューティング",
@@ -153,23 +153,23 @@
       "description": "狙い、発射、そして瞬時に戦場で支配しましょう！"
     },
     {
-      "name": "レース",
+      "name": "レーシング",
       "path": "/c/racing",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "ゴムを燃やし、勝利にドリフトしましょう！"
+      "description": "ゴムを燃やし、勝利へとドリフトしましょう！"
     },
     {
-      "name": "カジュアル",
+      "name": "ハイパーカジュアル",
       "path": "/c/hypercasual",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "忙しいスケジュールにも合う、ワンタップで楽しめるゲーム！",
+      "description": "忙しいスケジュールに合う、ワンタップで楽しめるゲーム！",
       "position": 7
     },
     {
@@ -180,7 +180,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791209881-tlvgkr.png",
       "position": 8,
-      "description": "世界中の友達とチームを組んだり、競い合ったりしましょう！"
+      "description": "世界中の友達とチームを組んだり、競い合いましょう！"
     },
     {
       "name": "クリック",
@@ -190,7 +190,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791224103-9c24n9.png",
       "position": 9,
-      "description": "タップして金貨を稼ぎ、あなたの帝国を自動化しましょう！"
+      "description": "タップして金を得て、自分の帝国を自動化しましょう！"
     },
     {
       "name": "スポーツ",
@@ -200,7 +200,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
       "position": 10,
-      "description": "瞬時にゴールを決め、ダンクショットを決め、記録を更新しましょう！"
+      "description": "瞬時にゴール、ダンク、記録を達成しましょう！"
     },
     {
       "name": ".IO",
@@ -210,7 +210,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791236590-lmb1ph.png",
       "position": 11,
-      "description": ".IO宇宙で食べ、成長し、支配しましょう！"
+      "description": ".IO宇宙で食べて、成長し、支配しましょう！"
     }
   ]
 }

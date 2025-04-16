@@ -110,7 +110,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "精選的頂級遊戲，保證娛樂！"
+      "description": "精選頂級遊戲，保證娛樂！"
     },
     {
       "name": "熱門",
@@ -119,7 +119,7 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
-      "description": "本月最受歡迎的遊戲，不容錯過！",
+      "description": "本月最多人遊玩的遊戲，千萬別錯過！",
       "position": 2
     },
     {
@@ -129,7 +129,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "揮舞著寶劍，挑戰各種關卡！",
+      "description": "揮舞著寶劍，勇闖挑戰！",
       "position": 3
     },
     {
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "啟程展開令人興奮的冒險，探索隱藏的寶藏！"
+      "description": "展開刺激的冒險，探索隱藏的寶藏！"
     },
     {
       "name": "射擊",
@@ -150,7 +150,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "瞄準、開火，在戰場上稱霸！"
+      "description": "瞄準、開火，瞬間掌控戰場！"
     },
     {
       "name": "賽車",
@@ -160,27 +160,27 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "燃燒胎紋，漂移至勝利！"
+      "description": "燃燒橡膠，漂移奪勝！"
     },
     {
-      "name": "輕度休閒",
+      "name": "輕鬆休閒",
       "path": "/c/hypercasual",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "輕鬆一鍵，適合忙碌的時光！",
+      "description": "輕鬆一鍵，滿足您忙碌的時間!",
       "position": 7
     },
     {
-      "name": "多人遊戲",
+      "name": "多人",
       "path": "/c/multiplayer",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791209881-tlvgkr.png",
       "position": 8,
-      "description": "與全球朋友們組隊或競爭！"
+      "description": "與朋友們全球合作或競爭！"
     },
     {
       "name": "點擊器",
@@ -190,7 +190,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791224103-9c24n9.png",
       "position": 9,
-      "description": "點擊賺取金幣，自動化你的帝國！"
+      "description": "點擊賺取金幣，自動化您的帝國！"
     },
     {
       "name": "運動",
@@ -200,7 +200,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
       "position": 10,
-      "description": "立即進球、扣籃並打破紀錄！"
+      "description": "立即進球、灌籃，打破紀錄！"
     },
     {
       "name": ".IO",
@@ -210,7 +210,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791236590-lmb1ph.png",
       "position": 11,
-      "description": "吞噬、成長並稱霸.IO宇宙！"
+      "description": "吞噬、成長，統治 .IO 宇宙！"
     }
   ]
 }

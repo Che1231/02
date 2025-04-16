@@ -119,7 +119,7 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
-      "description": "Les jeux les plus joués ce mois-ci – ne les manquez pas !",
+      "description": "Les jeux les plus joués ce mois-ci - ne les manquez pas !",
       "position": 2
     },
     {
@@ -129,7 +129,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Éclatez les défis avec des aventures palpitantes à l'épée !",
+      "description": "Défiez les défis avec des aventures trépidantes d'escrime !",
       "position": 3
     },
     {
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "Embarquez pour des quêtes passionnantes et découvrez des trésors cachés !"
+      "description": "Embarquez pour des quêtes palpitantes et découvrez des trésors cachés !"
     },
     {
       "name": "Tir",
@@ -150,7 +150,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "Visez, tirez et dominez le champ de bataille en un instant !"
+      "description": "Visez, tirez et dominez le champ de bataille en quelques secondes !"
     },
     {
       "name": "Course",
@@ -160,16 +160,16 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "Brûlez la gomme et dérivez vers la victoire !"
+      "description": "Faites brûler les pneus et dérive jusqu'à la victoire !"
     },
     {
-      "name": "Hyper-casual",
+      "name": "Hypercasual",
       "path": "/c/hypercasual",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Du plaisir en un seul clic, adapté à votre emploi du temps chargé !",
+      "description": "Du plaisir en un seul passage qui correspond à votre emploi du temps chargé !",
       "position": 7
     },
     {
@@ -190,7 +190,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791224103-9c24n9.png",
       "position": 9,
-      "description": "Cliquez pour gagner de l'or et automatiser votre empire !"
+      "description": "Appuyez pour gagner de l'or et automatisez votre empire !"
     },
     {
       "name": "Sports",
@@ -200,10 +200,10 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
       "position": 10,
-      "description": "Marquez des buts, des paniers et battez des records instantanément !"
+      "description": "Marquez des buts, effectuez des paniers et battez des records instantanément !"
     },
     {
-      "name": "IO",
+      "name": ".IO",
       "path": "/c/io",
       "pageSize": 15,
       "backgroundColor": "#ffffff",

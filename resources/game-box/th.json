@@ -103,7 +103,7 @@
   ],
   "categories": [
     {
-      "name": "ยอดเยี่ยมที่สุด",
+      "name": "ยอดเยี่ยม",
       "path": "/c/best",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -119,17 +119,17 @@
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
-      "description": "เกมที่เล่นมากที่สุดในเดือนนี้ – อย่าพลาด!",
+      "description": "เกมที่เล่นมากที่สุดในเดือนนี้ – ห้ามพลาด!",
       "position": 2
     },
     {
-      "name": "แอ็คชั่น",
+      "name": "แอ็คชัน",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "ฝ่าฟันความท้าทายด้วยการผจญภัยที่ใช้ดาบ!",
+      "description": "สาดความท้าทายด้วยการผจญภัยแห่งการฟันดาบ!",
       "position": 3
     },
     {
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "ออกเดินทางสู่ภารกิจตื่นเต้น และค้นพบสมบัติที่ซ่อนอยู่!"
+      "description": "ออกเดินทางสู่ภารกิจตื่นเต้นและค้นพบสมบัติที่ซ่อนอยู่!"
     },
     {
       "name": "ยิง",
@@ -150,7 +150,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "เล็ง ยิง และครองสนามรบในพริบตา!"
+      "description": "ยิง, ยิง, และครองสนามรบในเสี้ยววินาที!"
     },
     {
       "name": "แข่งรถ",
@@ -160,16 +160,16 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "เผาถนนและดริฟท์ไปสู่ชัยชนะ!"
+      "description": "เผายางและลื่นไถลสู่ชัยชนะ!"
     },
     {
-      "name": "ไฮเปอร์แคชชวล",
+      "name": "ไวรัส",
       "path": "/c/hypercasual",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "ความสนุกเพียงปลายนิ้วที่เหมาะกับตารางเวลาอันวุ่นวายของคุณ!",
+      "description": "ความสนุกแบบแตะเดียว ที่เหมาะกับตารางงานที่ยุ่งของคุณ!",
       "position": 7
     },
     {
@@ -180,7 +180,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791209881-tlvgkr.png",
       "position": 8,
-      "description": "ร่วมทีมหรือแข่งขันกับเพื่อนทั่วโลก!"
+      "description": "รวมทีมหรือแข่งขันกับเพื่อนทั่วโลก!"
     },
     {
       "name": "คลิกเกอร์",
@@ -200,7 +200,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
       "position": 10,
-      "description": "ทำประตู ยิงแด๊ง และทำลายสถิติทันที!"
+      "description": "ทำประตู, แบ็คดัน, และทำลายสถิติได้ทันที!"
     },
     {
       "name": ".IO",
@@ -210,7 +210,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791236590-lmb1ph.png",
       "position": 11,
-      "description": "กิน เติบโต และครองจักรวาล .IO!"
+      "description": "กิน, เติบโต, และครองจักรวาล .IO!"
     }
   ]
 }

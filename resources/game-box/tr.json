@@ -110,16 +110,16 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "Eğlenceye garantili en üst düzey oyunlar özenle seçildi!"
+      "description": "Eğlence garantisiyle seçkin üst düzey oyunlar!"
     },
     {
-      "name": "Sıcak",
+      "name": "Yeni",
       "path": "/c/hot",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
-      "description": "Bu ay en çok oynanan oyunlar – kaçırmayın!",
+      "description": "Bu ay en çok oynanan oyunlar - kaçırmayın!",
       "position": 2
     },
     {
@@ -129,7 +129,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Kılıç sallayarak maceralarla zorlukları aşın!",
+      "description": "Kılıç sallamalarla meydan okumalara dalın!",
       "position": 3
     },
     {
@@ -150,7 +150,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "Hedefi doğrularak, saniyeler içinde savaş alanını ele geçirin!"
+      "description": "Hedef alın, ateş edin ve savaş alanını saniyeler içinde ele geçirin!"
     },
     {
       "name": "Yarış",
@@ -160,16 +160,16 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "Lastikleri yak ve zafere doğru sür!"
+      "description": "Kauçuk yakıp zafer için sürün!"
     },
     {
-      "name": "Süper Oyun",
+      "name": "Hızlı ve Kolay",
       "path": "/c/hypercasual",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Boş zamanlarınız için tek dokunuşla eğlence!",
+      "description": "Meşgul zamanlarınıza uyan tek dokunuşla eğlence!",
       "position": 7
     },
     {
@@ -180,10 +180,10 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791209881-tlvgkr.png",
       "position": 8,
-      "description": "Dünya çapında arkadaşlarınızla takım olun veya yarışın!"
+      "description": "Dünyanın dört bir yanındaki arkadaşlarınızla takım oluşturun veya yarışın!"
     },
     {
-      "name": "Tıklatıcı",
+      "name": "Tıklama",
       "path": "/c/clicker",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -200,7 +200,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
       "position": 10,
-      "description": "Gol atın, şutlar yapın ve anında rekorlar kırın!"
+      "description": "Gol atın, şutlar yapın ve rekorları hemen kırın!"
     },
     {
       "name": ".IO",
@@ -210,7 +210,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791236590-lmb1ph.png",
       "position": 11,
-      "description": ".IO evreninde yemek yiyin, büyüyin ve hakim olun! "
+      "description": ".IO evreninde yiyin, büyüyün ve hükmedin!"
     }
   ]
 }

@@ -113,7 +113,7 @@
       "description": "Permainan terbaik yang terpilih, dijamin menghibur!"
     },
     {
-      "name": "Terhangat",
+      "name": "Terpanas",
       "path": "/c/hot",
       "pageSize": 15,
       "backgroundColor": "#ffdde1",
@@ -123,13 +123,13 @@
       "position": 2
     },
     {
-      "name": "Tindakan",
+      "name": "Aksi",
       "path": "/c/action",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Terobos tantangan dengan petualangan mengayun pedang!",
+      "description": "Menebas tantangan dengan petualangan pedang!",
       "position": 3
     },
     {
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "Berangkat dalam pencarian seru dan temukan harta tersembunyi!"
+      "description": "Mulailah petualangan yang menegangkan dan temukan harta karun tersembunyi!"
     },
     {
       "name": "Penembakan",
@@ -150,7 +150,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
       "position": 5,
-      "description": "Sasarkan, tembak, dan kuasai medan perang dalam hitungan detik!"
+      "description": "Menembak, menembak, dan mendominasi medan perang dalam hitungan detik!"
     },
     {
       "name": "Balap",
@@ -160,7 +160,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
       "position": 6,
-      "description": "Bakar ban dan bermanuver menuju kemenangan!"
+      "description": "Bakar ban dan melayang ke kemenangan!"
     },
     {
       "name": "Hypercasual",
@@ -169,7 +169,7 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Keseruan satu sentuhan yang sesuai dengan jadwal sibuk Anda!",
+      "description": "Keseruan satu ketukan yang sesuai dengan jadwal sibuk Anda!",
       "position": 7
     },
     {
@@ -190,7 +190,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791224103-9c24n9.png",
       "position": 9,
-      "description": "Ketuk untuk mendapatkan emas dan otomatisasi kekaisaran Anda!"
+      "description": "Ketuk untuk mendapatkan emas dan otomatisasi kerajaan Anda!"
     },
     {
       "name": "Olahraga",
@@ -200,7 +200,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
       "position": 10,
-      "description": "Skor gol, slam dunk, dan pecahkan rekor seketika!"
+      "description": "Menjebol gawang, menghantam lapangan basket, dan memecahkan rekor dalam sekejap!"
     },
     {
       "name": ".IO",

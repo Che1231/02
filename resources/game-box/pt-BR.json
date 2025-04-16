@@ -110,7 +110,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "Jogos premiados selecionados, garantidamente para entreter!"
+      "description": "Jogos premiados selecionados, garantidos para entreter!"
     },
     {
       "name": "Quente",
@@ -129,7 +129,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Corte os desafios com aventuras de esgrima!",
+      "description": "Enfrente desafios com aventuras de cortes com espada!",
       "position": 3
     },
     {
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
       "position": 4,
-      "description": "Embarque em buscas emocionantes e descubra tesouros escondidos!"
+      "description": "Embarque em emocionantes buscas e descubra tesouros escondidos!"
     },
     {
       "name": "Tiro",
@@ -149,8 +149,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
-      "position": 5,
-      "description": "Mire, dispare e domine o campo de batalha em segundos!"
+      "description": "Mire, atire e domine o campo de batalha em segundos!",
+      "position": 5
     },
     {
       "name": "Corrida",
@@ -159,8 +159,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
-      "position": 6,
-      "description": "Queime borracha e deslize em direção à vitória!"
+      "description": "Queime borracha e derrape até a vitória!",
+      "position": 6
     },
     {
       "name": "Casual",
@@ -169,7 +169,7 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Diversão de um toque que se adapta ao seu horário de trabalho!",
+      "description": "Diversão com um toque que cabe na sua agenda corrida!",
       "position": 7
     },
     {
@@ -179,8 +179,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791209881-tlvgkr.png",
-      "position": 8,
-      "description": "Junte-se ou compeça com amigos globalmente!"
+      "description": "Junte-se ou compita globalmente com os amigos!",
+      "position": 8
     },
     {
       "name": "Clique",
@@ -189,18 +189,18 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791224103-9c24n9.png",
-      "position": 9,
-      "description": "Toque para ganhar ouro e automatizar seu império!"
+      "description": "Toque para ganhar ouro e automatizar seu império!",
+      "position": 9
     },
     {
-      "name": "Esportes",
+      "name": "Esporte",
       "path": "/c/sports",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
-      "position": 10,
-      "description": "Marque gols, arremessos e quebre recordes instantaneamente!"
+      "description": "Marque gols, faça arremessos e quebre recordes instantaneamente!",
+      "position": 10
     },
     {
       "name": ".IO",
@@ -209,8 +209,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791236590-lmb1ph.png",
-      "position": 11,
-      "description": "Coma, cresça e domine o universo .IO!"
+      "description": "Coma, cresça e domine o universo .IO!",
+      "position": 11
     }
   ]
 }
