@@ -1,0 +1,77 @@
+{
+  "cubinko": {
+    "title": "Cubinko：创新匹配3益智游戏，免费在线体验",
+    "slogan": "创新有趣的三消游戏！",
+    "description": "加入Cubinko，一款引人入胜的三消益智游戏，挑战你的技巧！享受具有独特墨块和鲜艳色彩的令人上瘾的游戏体验。完美搭配碎片，释放Cubinko的令人满意的爆炸效果，解锁Cubinko。现在免费体验Cubinko！",
+    "Loading": {
+      "title": "加载中"
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "Cubinko",
+      "description": "近年来最具创新性和乐趣的三消游戏！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "关于Cubinko",
+      "whatIsTitle": "Cubinko是什么？",
+      "whatIsDescription": "这款全新的三消游戏模式将考验你的益智技能！我们独有的墨块将以你意想不到的方式拓展你的思维，让你沉浸在这个令人上瘾的益智游戏中。享受将碎片完美地组合到一起的成就感，用色彩爆炸填充游戏画面，体验极富乐趣的设计！",
+      "howToPlayTitle": "如何游戏？",
+      "howToPlayStep1": "旋转并拖动块来移动它们。",
+      "howToPlayStep2": "尝试将它们组合在一起，通过3个或更多块的组合来摧毁方块。你一次摧毁的方块越多，获得的分数就越高！",
+      "howToPlayStep3": "在街机模式下没有时间限制，但你需要完成任务才能获得更多移动次数并继续游戏。但在时间挑战模式下情况就不同了，时间有限但移动次数没有限制，尽量利用时间获得最高分数！",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "墨块",
+      "feature1Description": "块状益智游戏流畅的效果！轻松快速地玩游戏。",
+      "feature2Title": "简单有趣的游戏",
+      "feature2Description": "易于学习，乐趣无穷的游戏体验。",
+      "feature3Title": "无时间限制",
+      "feature3Description": "随时随地享受游戏！",
+      "feature4Title": "没有WiFi？没问题！",
+      "feature4Description": "随时离线玩游戏。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

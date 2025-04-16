@@ -1,0 +1,120 @@
+{
+  "name": "cubinko",
+  "pagePath": "/games/cubinko",
+  "pageName": "cubinko",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://gamesonline86.github.io/cubinko/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingPhoenix42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix42.png",
+      "content": "Cubinko is so much fun! It really puts your puzzle skills to the test!"
+    },
+    {
+      "author": "NeonRevolver_99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonRevolver_99.png",
+      "content": "This game is awesome! I especially love the smooth effect of the ink blocks!"
+    },
+    {
+      "author": "PhantomKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomKraken87.png",
+      "content": "Can't believe how easy it is to pick up, but still fun to master the game. Anyone tried Cubinko yet?"
+    },
+    {
+      "author": "CosmicBroadsword-X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicBroadsword-X.png",
+      "content": "The graphics and sounds are just beautiful, makes me want to play forever!"
+    },
+    {
+      "author": "Leviathan_Katana",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Leviathan_Katana.png",
+      "content": "Wow, no time limits? I can play anywhere, anytime. Love it!"
+    },
+    {
+      "author": "PuzzleMaster666",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PuzzleMaster666.png",
+      "content": "The more blocks you destory together, the higher the score, right? Addictive!"
+    },
+    {
+      "author": "SavageBlade90",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBlade90.png",
+      "content": "Great game design makes every move satisfying. Can't stop playing Cubinko!"
+    },
+    {
+      "author": "InfiniteFury",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/InfiniteFury.png",
+      "content": "Pushing limits with Cubinko and loving every minute of it! No Wi-Fi needed."
+    },
+    {
+      "author": "ArcaneXII",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/ArcaneXII.png",
+      "content": "Really addictive, but hard enough to challenge even the pros. Have fun folks!"
+    },
+    {
+      "author": "TimeAttackPro",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/TimeAttackPro.png",
+      "content": "Time Attack mode keeps me on my toes. Perfect game to pass time on boring days. "
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744782034114-5cby5.jpg",
+  "page_path": "/games/cubinko",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Clicker"
+  ],
+  "createdTime": "2025-04-16 13:40:24"
+}
