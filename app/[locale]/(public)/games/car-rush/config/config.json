@@ -1,5 +1,5 @@
 {
-  "name": "car-rush",
+  "name": "Car-Rush",
   "pagePath": "/games/car-rush",
   "pageName": "car-rush",
   "theme": {
@@ -116,5 +116,6 @@
   "categories": [
     "Racing"
   ],
-  "createdTime": "2025-04-14 15:44:15"
+  "createdTime": "2025-04-14 15:44:15",
+  "userInputText": ""
 }

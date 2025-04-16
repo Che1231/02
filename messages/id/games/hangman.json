@@ -1,0 +1,77 @@
+{
+  "hangman": {
+    "title": "Mainkan Hangman Online Gratis: Permainan Tebak Kata",
+    "slogan": "",
+    "description": "Siap untuk tantangan kata? Mainkan Hangman online gratis! Tebak huruf untuk memecahkan teka-teki dalam permainan kata klasik ini. Nikmati Hangman dan uji keterampilan kosakata Anda. Mulai bermain Hangman sekarang!",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Hangman",
+      "description": "Mainkan Hangman, permainan tebak kata klasik!",
+      "iframeTitle": "Pratinjau Permainan",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Permainan",
+      "playGame": "Mainkan Permainan"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Hangman",
+      "whatIsTitle": "Apa itu Hangman?",
+      "whatIsDescription": "Hangman adalah permainan tebak kata. Tebak huruf dalam kata rahasia untuk memecahkan teka-teki.",
+      "howToPlayTitle": "Cara Bermain Hangman",
+      "howToPlayStep1": "Tebak huruf dalam kata rahasia dengan mengklik atau mengetik.",
+      "howToPlayStep2": "Dapatkan poin untuk huruf yang benar dan selesaikan kata dengan cepat.",
+      "howToPlayStep3": "Dapatkan skor total tertinggi setelah 5 babak untuk memenangkan permainan Hangman!",
+      "keyFeaturesTitle": "Fitur Utama Hangman",
+      "feature1Title": "Permainan Kata Klasik",
+      "feature1Description": "Nikmati pengalaman Hangman tradisional secara online.",
+      "feature2Title": "Mode Tunggal dan Multiplayer",
+      "feature2Description": "Mainkan sendiri atau dengan teman dalam pertandingan pribadi.",
+      "feature3Title": "Avatar yang Dapat Dikustomisasi",
+      "feature3Description": "Personalisasi avatar dalam permainan Anda.",
+      "feature4Title": "Tips dan Strategi",
+      "feature4Description": "Pelajari tips bermanfaat untuk meningkatkan permainan Hangman Anda."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Permainan"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Permainan",
+      "description": "Semua Permainan",
+      "games": "Permainan"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Lebih Banyak",
+      "page": "Halaman"
+    }
+  }
+}

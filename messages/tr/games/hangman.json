@@ -1,0 +1,77 @@
+{
+  "hangman": {
+    "title": "Çevrimiçi Asılı Adam Oyna: Kelime Bulmaca Oyunu",
+    "slogan": "",
+    "description": "Bir kelime mücadelesine hazır mısınız? Bu klasik kelime oyununda çevrimiçi Asılı Adam oyununu ücretsiz oynayın! Harfleri tahmin edip bulmacayı çözün. Asılı Adam oyununu tadını çıkarın ve kelime dağarcığınızı test edin. Şimdi Asılı Adam oyununa başlayın!",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Asılı Adam",
+      "description": "Klasik bir kelime tahmin oyunu olan Asılı Adam oyununu oynayın!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Asılı Adam",
+      "whatIsTitle": "Asılı Adam Nedir?",
+      "whatIsDescription": "Asılı Adam, gizli kelimedeki harfleri tahmin ederek bulmacayı çözmeniz gereken bir kelime tahmin oyunudur.",
+      "howToPlayTitle": "Asılı Adam Nasıl Oynanır?",
+      "howToPlayStep1": "Gizli kelimedeki harfleri tıklayarak veya yazarak tahmin edin.",
+      "howToPlayStep2": "Doğru harfler için puan kazanın ve kelimeyi hızlıca çözün.",
+      "howToPlayStep3": "5 turdan sonra en yüksek toplam puanı elde ederek Asılı Adam oyununu kazanın!",
+      "keyFeaturesTitle": "Asılı Adam Oyununun Özellikleri",
+      "feature1Title": "Klasik Kelime Oyunu",
+      "feature1Description": "Çevrimiçi geleneksel Asılı Adam deneyiminin tadını çıkarın.",
+      "feature2Title": "Tekli ve Çoklu Oyun Modları",
+      "feature2Description": "Tek başınıza veya özel maçlarda arkadaşlarınızla oynayın.",
+      "feature3Title": "Kişiselleştirilebilir Avatarlar",
+      "feature3Description": "Oyun içi avatarınızı kişiselleştirin.",
+      "feature4Title": "İpuçları ve Stratejiler",
+      "feature4Description": "Asılı Adam oyununuzu geliştirmek için faydalı ipuçlarını öğrenin."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

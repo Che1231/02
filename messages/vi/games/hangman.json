@@ -1,0 +1,77 @@
+{
+  "hangman": {
+    "title": "Chơi Trò Chơi Đoán Từ Hangman Trực Tuyến Miễn Phí",
+    "slogan": "",
+    "description": "Sẵn sàng cho một thử thách từ vựng? Chơi Trò Chơi Đoán Từ Hangman trực tuyến miễn phí! Đoán các chữ cái để giải quyết câu đố trong trò chơi từ vựng cổ điển này. Thưởng thức Hangman và kiểm tra kỹ năng từ vựng của bạn. Bắt đầu chơi Hangman ngay bây giờ!",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "Đọc"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước"
+    },
+    "HomeIframe": {
+      "title": "Hangman",
+      "description": "Chơi Hangman, một trò chơi đoán từ cổ điển!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Màn hình toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào bộ nhớ tạm!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Hangman",
+      "whatIsTitle": "Hangman là gì?",
+      "whatIsDescription": "Hangman là một trò chơi đoán từ. Đoán các chữ cái trong từ bí mật để giải quyết câu đố.",
+      "howToPlayTitle": "Cách chơi Hangman",
+      "howToPlayStep1": "Đoán các chữ cái trong từ bí mật bằng cách nhấp hoặc gõ.",
+      "howToPlayStep2": "Nhận điểm cho các chữ cái đúng và giải quyết từ nhanh chóng.",
+      "howToPlayStep3": "Nhận điểm số cao nhất sau 5 vòng để giành chiến thắng trong trò chơi Hangman!",
+      "keyFeaturesTitle": "Các tính năng chính của Hangman",
+      "feature1Title": "Trò chơi từ vựng cổ điển",
+      "feature1Description": "Trải nghiệm trò chơi Hangman truyền thống trực tuyến.",
+      "feature2Title": "Chế độ đơn và đa người chơi",
+      "feature2Description": "Chơi đơn hoặc với bạn bè trong các trận đấu riêng tư.",
+      "feature3Title": "Avatar tùy chỉnh",
+      "feature3Description": "Cá nhân hóa avatar trong trò chơi của bạn.",
+      "feature4Title": "Mẹo và chiến thuật",
+      "feature4Description": "Tìm hiểu các mẹo hữu ích để cải thiện trò chơi Hangman của bạn."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Khuyến nghị"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các loại",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

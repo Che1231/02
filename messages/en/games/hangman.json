@@ -1,0 +1,77 @@
+{
+  "hangman": {
+    "title": "Play Hangman Online Free: Guess the Word Puzzle Game",
+    "slogan": "",
+    "description": "Ready for a word challenge? Play Hangman online for free! Guess letters to solve the puzzle in this classic word game. Enjoy Hangman and test your vocabulary skills. Start playing Hangman now!",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Hangman",
+      "description": "Play Hangman, a classic word-guessing game!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Hangman",
+      "whatIsTitle": "What is Hangman?",
+      "whatIsDescription": "Hangman is a word-guessing game. Guess the letters in the secret word to solve the puzzle.",
+      "howToPlayTitle": "How to Play Hangman",
+      "howToPlayStep1": "Guess the letters in the secret word by clicking or typing.",
+      "howToPlayStep2": "Score points for correct letters and solving the word quickly.",
+      "howToPlayStep3": "Get the highest total score after 5 rounds to win the Hangman game!",
+      "keyFeaturesTitle": "Key Features of Hangman",
+      "feature1Title": "Classic Word Game",
+      "feature1Description": "Enjoy the traditional Hangman experience online.",
+      "feature2Title": "Single and Multiplayer Modes",
+      "feature2Description": "Play solo or with friends in private matches.",
+      "feature3Title": "Customizable Avatars",
+      "feature3Description": "Personalize your in-game avatar.",
+      "feature4Title": "Tips and Strategies",
+      "feature4Description": "Learn helpful tips to improve your Hangman game."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

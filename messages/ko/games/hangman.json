@@ -1,0 +1,77 @@
+{
+  "hangman": {
+    "title": "온라인 행맨 게임: 단어 퍼즐 게임 무료 플레이",
+    "slogan": "",
+    "description": "단어 도전 준비가 되셨나요? 이 클래식 단어 게임에서 온라인 행맨을 무료로 플레이하세요! 퍼즐을 풀기 위해 문자를 추측하세요. 행맨을 즐기고 어휘력을 테스트해보세요. 지금 행맨 게임을 시작하세요!",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "행맨",
+      "description": "클래식 단어 추측 게임, 행맨을 플레이하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "행맨",
+      "whatIsTitle": "행맨이란 무엇인가요?",
+      "whatIsDescription": "행맨은 단어 추측 게임입니다. 비밀 단어의 문자를 추측하여 퍼즐을 풀어보세요.",
+      "howToPlayTitle": "행맨 게임 플레이 방법",
+      "howToPlayStep1": "클릭하거나 입력하여 비밀 단어의 문자를 추측하세요.",
+      "howToPlayStep2": "정확한 문자와 단어를 빠르게 풀이하여 점수를 획득하세요.",
+      "howToPlayStep3": "5라운드 후 최고 점수를 얻으면 행맨 게임에서 승리할 수 있습니다!",
+      "keyFeaturesTitle": "행맨의 주요 기능",
+      "feature1Title": "클래식 단어 게임",
+      "feature1Description": "온라인으로 전통적인 행맨 경험을 즐겨보세요.",
+      "feature2Title": "싱글 및 멀티플레이어 모드",
+      "feature2Description": "개인 매치에서 혼자 또는 친구들과 플레이하세요.",
+      "feature3Title": "맞춤형 아바타",
+      "feature3Description": "게임 내 아바타를 개인화하세요.",
+      "feature4Title": "팁과 전략",
+      "feature4Description": "행맨 게임을 개선하는 데 도움이 되는 유용한 팁을 배워보세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

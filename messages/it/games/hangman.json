@@ -1,0 +1,77 @@
+{
+  "hangman": {
+    "title": "Gioco dell'Impiccato Online Gratuito: Indovinare il Puzzle della Parola",
+    "slogan": "",
+    "description": "Pronto per una sfida a parole? Gioca all'Impiccato online gratuitamente! Indovinate le lettere per risolvere il puzzle in questo classico gioco di parole. Divertiti con l'Impiccato e metti alla prova le tue abilità lessicali. Inizia a giocare all'Impiccato ora!",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "Navigazione"
+    },
+    "Common": {
+      "createAt": "Creato alle",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla Privacy",
+      "termsOfServices": "Termini di Servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Collegamenti Utili",
+      "articleList": "Elenco Articoli",
+      "home": "Home",
+      "next": "Successivo",
+      "previous": "Precedente"
+    },
+    "HomeIframe": {
+      "title": "Impiccato",
+      "description": "Gioca all'Impiccato, un classico gioco di indovinello!",
+      "iframeTitle": "Anteprima del Gioco",
+      "fullscreenButton": "Schermo intero",
+      "shareButton": "Condividi",
+      "urlCopied": "URL copiato negli appunti!",
+      "downloadGame": "Scarica il Gioco",
+      "playGame": "Gioca"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Impiccato",
+      "whatIsTitle": "Cos'è l'Impiccato?",
+      "whatIsDescription": "L'Impiccato è un gioco di indovinello. Indovinate le lettere nella parola segreta per risolvere il puzzle.",
+      "howToPlayTitle": "Come giocare all'Impiccato",
+      "howToPlayStep1": "Indovinate le lettere nella parola segreta cliccando o digitando.",
+      "howToPlayStep2": "Ottenete punti per le lettere corrette e per risolvere la parola velocemente.",
+      "howToPlayStep3": "Ottenete il punteggio totale più alto dopo 5 round per vincere il gioco dell'Impiccato!",
+      "keyFeaturesTitle": "Caratteristiche principali dell'Impiccato",
+      "feature1Title": "Classico Gioco a Parole",
+      "feature1Description": "Goditi la tradizionale esperienza dell'Impiccato online.",
+      "feature2Title": "Modalità Singolo e Multiplayer",
+      "feature2Description": "Gioca da solo o con gli amici in partite private.",
+      "feature3Title": "Avatar Personalizzabili",
+      "feature3Description": "Personalizza il tuo avatar in-game.",
+      "feature4Title": "Consigli e Strategie",
+      "feature4Description": "Impara consigli utili per migliorare il tuo gioco dell'Impiccato."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Raccomandazioni"
+    },
+    "HomeComments": {
+      "title": "Commenti sul Gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i Giochi",
+      "description": "Tutti i Giochi",
+      "games": "Giochi"
+    },
+    "CategoryPage": {
+      "categories": "Categorie",
+      "noCategories": "Nessuna categoria trovata",
+      "viewMore": "Visualizza altro",
+      "page": "Pagina"
+    }
+  }
+}

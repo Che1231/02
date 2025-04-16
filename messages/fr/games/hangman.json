@@ -1,0 +1,77 @@
+{
+  "hangman": {
+    "title": "Jouer au pendu en ligne gratuitement : jeu de puzzle de devinette de mots",
+    "slogan": "",
+    "description": "Prêt pour un défi de mots ? Jouez au pendu en ligne gratuitement ! Devinez les lettres pour résoudre le puzzle dans ce jeu de mots classique. Profitez du pendu et testez vos compétences en vocabulaire. Commencez à jouer au pendu maintenant !",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens utiles",
+      "articleList": "Liste d'articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Jeu du pendu",
+      "description": "Jouez au pendu, un jeu classique de devinette de mots !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Lancer le jeu"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Jeu du pendu",
+      "whatIsTitle": "Qu'est-ce que le pendu ?",
+      "whatIsDescription": "Le pendu est un jeu de devinette de mots. Devinez les lettres du mot secret pour résoudre le puzzle.",
+      "howToPlayTitle": "Comment jouer au pendu",
+      "howToPlayStep1": "Devinez les lettres du mot secret en cliquant ou en les tapant.",
+      "howToPlayStep2": "Gagnez des points pour les lettres correctes et résolvez le mot rapidement.",
+      "howToPlayStep3": "Obtenez le score total le plus élevé après 5 manches pour gagner le jeu du pendu !",
+      "keyFeaturesTitle": "Principales caractéristiques du pendu",
+      "feature1Title": "Jeu de mots classique",
+      "feature1Description": "Profitez de l'expérience traditionnelle du pendu en ligne.",
+      "feature2Title": "Modes simple et multijoueur",
+      "feature2Description": "Jouez seul ou avec des amis dans des parties privées.",
+      "feature3Title": "Avatars personnalisables",
+      "feature3Description": "Personnalisez votre avatar en jeu.",
+      "feature4Title": "Conseils et stratégies",
+      "feature4Description": "Apprenez des conseils utiles pour améliorer votre jeu du pendu."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Afficher plus",
+      "page": "Page"
+    }
+  }
+}

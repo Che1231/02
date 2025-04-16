@@ -1,0 +1,120 @@
+{
+  "name": "Hangman",
+  "pagePath": "/games/hangman",
+  "pageName": "hangman",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://gamesonline86.github.io/hangman/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingPhoenix_87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix_87.png",
+      "content": "Absolutely love Hangman! The way it awards points based on speed and balloons left is so clever. Makes every guess feel like a calculated risk!"
+    },
+    {
+      "author": "NeonKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonKatana_X.png",
+      "content": "The private match feature is a game-changer. Been playing Hangman with my friends all night—endless fun and bragging rights!"
+    },
+    {
+      "author": "CosmicKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicKraken42.png",
+      "content": "The ‘Etaoin shrdlu’ tip seriously saved me in Hangman. Who knew letters had a frequency ranking? Mind blown!"
+    },
+    {
+      "author": "SavageRevolver_99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageRevolver_99.png",
+      "content": "Quick play in Hangman is perfect for those quick brain breaks. Fast, fun, and addictive—what’s not to love?"
+    },
+    {
+      "author": "PhantomLeviathan_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomLeviathan_X.png",
+      "content": "Customizing my avatar in Hangman was surprisingly fun. Small touches, but they make the game feel more personal."
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Hangman’s tip about focusing on vowels first? Genius. I’ve gone from noob to pro in just a few rounds!"
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "The phrase breakdown strategy in Hangman is a lifesaver. Now I’m crushing those multi-word puzzles like it’s nothing!"
+    },
+    {
+      "author": "VoidWalker_Prime",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/VoidWalker_Prime.png",
+      "content": "Lagged a bit during one round, but Hangman’s still a blast. Love the trophy system—keeps me coming back for more!"
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "Hangman’s Js and Zs always trip me up, but that’s what makes it challenging. Keeps me on my toes, y’know?"
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "The balloon count mechanic in Hangman adds a nice twist. It’s not just about guessing—it’s about strategy too!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744782611504-1qd09f.jpg",
+  "page_path": "/games/hangman",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Clicker"
+  ],
+  "createdTime": "2025-04-16 13:50:01"
+}

@@ -1,0 +1,77 @@
+{
+  "hangman": {
+    "title": "Jogar Hangman Online Gratuitamente: Adivinhe o Jogo de Palavras de Quebra-Cabeça",
+    "slogan": "",
+    "description": "Pronto para um desafio de palavras? Jogue Hangman online gratuitamente! Adivinhe letras para resolver o quebra-cabeça neste jogo clássico de palavras. Aproveite o Hangman e teste suas habilidades de vocabulário. Comece a jogar Hangman agora!",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links amigáveis",
+      "articleList": "Lista de artigos",
+      "home": "Página inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Hangman",
+      "description": "Jogue Hangman, um jogo clássico de adivinhação de palavras!",
+      "iframeTitle": "Pré-visualização do jogo",
+      "fullscreenButton": "Tela cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Hangman",
+      "whatIsTitle": "O que é Hangman?",
+      "whatIsDescription": "Hangman é um jogo de adivinhação de palavras. Adivinhe as letras da palavra secreta para resolver o quebra-cabeça.",
+      "howToPlayTitle": "Como jogar Hangman",
+      "howToPlayStep1": "Adivinhe as letras da palavra secreta clicando ou digitando.",
+      "howToPlayStep2": "Ganhe pontos por letras corretas e resolvendo a palavra rapidamente.",
+      "howToPlayStep3": "Obtenha a maior pontuação total após 5 rodadas para vencer o jogo Hangman!",
+      "keyFeaturesTitle": "Principais recursos do Hangman",
+      "feature1Title": "Jogo de palavras clássico",
+      "feature1Description": "Experimente a experiência tradicional de Hangman online.",
+      "feature2Title": "Modos de jogo único e multiplayer",
+      "feature2Description": "Jogue sozinho ou com amigos em partidas privadas.",
+      "feature3Title": "Avatares personalizáveis",
+      "feature3Description": "Personalize seu avatar no jogo.",
+      "feature4Title": "Dicas e estratégias",
+      "feature4Description": "Aprenda dicas úteis para melhorar seu jogo de Hangman."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do jogo"
+    },
+    "GamePage": {
+      "title": "Todos os jogos",
+      "description": "Todos os jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver mais",
+      "page": "Página"
+    }
+  }
+}

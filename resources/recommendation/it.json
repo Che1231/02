@@ -283,7 +283,7 @@
     "title": "can-your-pet",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743306431731-8erm7.png",
     "url": "/games/can-your-pet",
-    "category": "can-your-pet",
+    "category": "Gioco",
     "visible": true
   },
   {
@@ -1487,13 +1487,20 @@
     "title": "car-rush",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-14/images/1744616660952-kjb0yh.png",
     "url": "/games/car-rush",
-    "category": "car-rush",
+    "category": "Gioco",
     "visible": true
   },
   {
     "title": "Gobble",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744782318925-4cod2d.avif",
     "url": "/games/gobble",
+    "category": "Gioco",
+    "visible": true
+  },
+  {
+    "title": "Hangman",
+    "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744782611504-1qd09f.jpg",
+    "url": "/games/hangman",
     "category": "Gioco",
     "visible": true
   }
