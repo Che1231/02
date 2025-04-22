@@ -1,1 +1,0 @@
-Ev.io is an FPS game where you can engage in multiplayer battles within a futuristic arena. The game incorporates strategic level designs reminiscent of Halo, Destiny, and Quake. With a variety of weapons and abilities at your disposal, you can join the fight with a simple click, ready to showcase your skills on the battlefield.

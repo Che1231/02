@@ -1,1 +1,0 @@
-Welcome to Army Commander Craft, a game full of strategy and shooting elements. As a commander, building and upgrading your army. Lead them into nervous battles against enemy forces.Command your army to begin nervous shooting battles. Defeat the enemy units with precision and strategy.
