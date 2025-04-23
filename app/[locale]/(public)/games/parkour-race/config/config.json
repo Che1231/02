@@ -1,0 +1,120 @@
+{
+  "name": "Parkour Race",
+  "pagePath": "/games/parkour-race",
+  "pageName": "parkour-race",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://gamesonline86.github.io/parkour-race/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingPhoenix87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix87.png",
+      "content": "Just tried Parkour Race today and it’s so much fun! The 3D graphics are amazing and the controls are super easy to learn. Got some cool skins too by winning races."
+    },
+    {
+      "author": "NeonLeviathan_42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonLeviathan_42.png",
+      "content": "Wow, what an adrenaline rush! This game is way more addictive than I thought it’d be. Jumping between buildings is so smooth and satisfying."
+    },
+    {
+      "author": "PhoenixRevolver_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhoenixRevolver_X.png",
+      "content": "The daily races are super exciting, and there are tons of cool skins to unlock. It’s like a big celebration of parkour all wrapped up in a mobile game!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Wasn’t expecting this much from a free game. Parkour Race has some wicked visuals and simple controls that still look really cool. Great for killing time on commutes."
+    },
+    {
+      "author": "SavageKatana89",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatana89.png",
+      "content": "This game is so much easier on the thumbs compared to other runners. Plus, all the different race modes add a lot of variety. Highly recommend!"
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "The action effects are so smooth, it feels like you’re actually running and jumping through the city. Really immersive stuff right here. Can’t wait to try more!"
+    },
+    {
+      "author": "CosmicKraken_Prime",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicKraken_Prime.png",
+      "content": "Super fun and challenging. Love how they mix in racing with puzzle-solving bits. It keeps the game fresh and engaging."
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "How do you make a simple tap-to-run game even more user-friendly? Parkour Race does just that. Graphics are top-notch and very realistic!"
+    },
+    {
+      "author": "LootGoblin99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LootGoblin99.png",
+      "content": "What a rush! This game feels like a rollercoaster ride. The competitive element is great, and winning rewards to unlock new outfits is a huge plus."
+    },
+    {
+      "author": "xX_SavageFury_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_SavageFury_Xx.png",
+      "content": "This game is surprisingly intense. Controls are a breeze, but the game throws some curveballs your way which makes it so rewarding when you clear them."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-23/images/1745413566397-15twip.avif",
+  "page_path": "/games/parkour-race",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Best"
+  ],
+  "createdTime": "2025-04-23 21:05:57"
+}
