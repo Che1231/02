@@ -1,0 +1,77 @@
+{
+  "minesweeper": {
+    "title": "Jouez au Déminage en Ligne Gratuitement | Découvrez le Jeu Déminage",
+    "slogan": "",
+    "description": "Découvrez le Déminage ! Mettez vos compétences logiques et stratégiques à l'épreuve dans ce jeu de puzzle classique. Le Déminage vous met au défi de dégager le plateau sans déclencher de mines. Jouez au Déminage en ligne gratuitement maintenant !",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de Confidentialité",
+      "termsOfServices": "Conditions d'Utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste d'Articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Déminage",
+      "description": "Voici une introduction détaillée au jeu Déminage :",
+      "iframeTitle": "Aperçu du Jeu",
+      "fullscreenButton": "Plein Écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le Jeu",
+      "playGame": "Jouer au Jeu"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Déminage",
+      "whatIsTitle": "Qu'est-ce que le Déminage ?",
+      "whatIsDescription": "Le jeu Déminage est originaire d'un jeu appelé \"Cube\" en 1973. Plus tard, grâce à plusieurs modifications, Tom Anderson a développé le prototype du Déminage. En 1992, il a été intégré au système Windows 3.1 et est devenu un logiciel d'entraînement à la manipulation de la souris.",
+      "howToPlayTitle": "Comment Jouer",
+      "howToPlayStep1": "Objectif du Jeu : L'objectif du jeu est de trouver toutes les mines dans la matrice carrée dans le temps imparti sans marcher sur aucune mine. Le joueur gagne si toutes les cases sûres sont ouvertes et que toutes les mines sont marquées, et perd si une case contenant une mine est ouverte.",
+      "howToPlayStep2": "Interface du Jeu : L'interface du jeu se compose d'une matrice carrée. Les mines sont distribuées aléatoirement dans les cases. Chaque case peut contenir une mine ou être vide. Le nombre affiché sur la case sûre ouverte indique le nombre de mines dans les cases environnantes. S'il s'agit d'une case vide (c'est-à-dire 0), les cases environnantes seront automatiquement ouvertes.",
+      "howToPlayStep3": "Méthodes de Manipulation : Clic gauche sur une case non ouverte pour l'ouvrir ; clic droit sur une case non ouverte pour la marquer ou la déмарquer comme une mine ; double-clic (les deux boutons simultanément) sur un nombre sur une case ouverte. Si le nombre de mines marquées autour du nombre est égal au nombre lui-même, toutes les cases non ouvertes restantes autour du nombre seront ouvertes.",
+      "keyFeaturesTitle": "Caractéristiques Principales",
+      "feature1Title": "Niveaux de Difficulté",
+      "feature1Description": "Habituellement, il existe plusieurs niveaux de difficulté. Le niveau débutant est généralement un plateau de 8x8 ou 9x9 avec 10 mines, le niveau intermédiaire un plateau de 16x16 avec 40 mines et le niveau expert un plateau de 30x16 avec 99 mines. Un mode personnalisé permet aux joueurs de définir la taille du plateau et le nombre de mines selon leurs préférences.",
+      "feature2Title": "Démarrer au Centre",
+      "feature2Description": "Il est conseillé de commencer par cliquer sur une case au centre du plateau. En effet, commencer par un coin peut conduire à une situation où il y a moins de cases déplaçables au début du jeu, ce qui augmente les risques de blocage.",
+      "feature3Title": "Rechercher des Modèles",
+      "feature3Description": "Il existe des modèles courants dans le jeu. Par exemple, dans un modèle \"1 - 2 - 1\", les cases entre les \"1\" sont des mines, et dans un modèle \"1 - 2 - 2 - 1\", les mines sont à côté des \"2\".",
+      "feature4Title": "Utiliser la Déduction Logique",
+      "feature4Description": "En fonction des nombres sur les cases ouvertes, déduisez les emplacements des mines. Par exemple, si une case avec le chiffre \"1\" n'a qu'une seule case adjacente non ouverte, alors cette dernière doit être une mine."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du Jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le Jeu"
+    },
+    "GamePage": {
+      "title": "Tous les Jeux",
+      "description": "Tous les Jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir Plus",
+      "page": "Page"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "minesweeper": {
+    "title": "Play Minesweeper Online Free | Discover Minesweeper Game",
+    "slogan": "",
+    "description": "Discover Minesweeper! Test your logic and strategy skills in this classic puzzle game. Minesweeper challenges you to clear the board without detonating any mines. Play Minesweeper online now for free!",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Minesweeper",
+      "description": "Here is a detailed introduction to Minesweeper:",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Minesweeper",
+      "whatIsTitle": "What is Minesweeper?",
+      "whatIsDescription": "The Minesweeper game originated from a game called \"Cube\" in 1973. Later, through several modifications, Tom Anderson developed the prototype of Minesweeper. In 1992, it was incorporated into the Windows 3.1 system and became a software for training users' mouse operation ability.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Game Goal: The goal of the game is to find all the mines in the square matrix within the specified time without stepping on any mines. The player wins if all safe squares are opened and all mines are flagged, and loses if a mine - containing square is opened.",
+      "howToPlayStep2": "Game Interface: The game interface consists of a square matrix. Mines are randomly distributed in the squares. Each square may contain a mine or be empty. The number displayed on the opened safe square indicates the number of mines in the surrounding squares. If it is an empty square (i.e., 0), the surrounding squares will be automatically opened.",
+      "howToPlayStep3": "Operation Methods: Left - click an unopened square to open it; right - click an unopened square to mark or unmark it as a mine; double - click (left and right buttons simultaneously) a number on an opened square. If the number of mines marked around the number is equal to the number itself, all the remaining unopened squares around the number will be opened.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Difficulty Levels",
+      "feature1Description": "Usually, there are multiple difficulty levels. The beginner level is generally an 8x8 or 9x9 board with 10 mines, the intermediate level is a 16x16 board with 40 mines, and the expert level is a 30x16 board with 99 mines. There is also a custom mode where players can set the board size and the number of mines according to their preferences.",
+      "feature2Title": "Starting in the Center",
+      "feature2Description": "It is advisable to start by clicking a square in the center of the board. This is because starting from the corner may lead to a situation where there are fewer movable squares in the early stage of the game, making it more likely to get stuck.",
+      "feature3Title": "Looking for Patterns",
+      "feature3Description": "There are some common patterns in the game. For example, in a \"1 - 2 - 1\" pattern, the squares between the \"1\"s are mines, and in a \"1 - 2 - 2 - 1\" pattern, the mines are next to the \"2\"s.",
+      "feature4Title": "Using Logic Deduction",
+      "feature4Description": "Based on the numbers on the opened squares, infer the locations of the mines. For example, if a square with the number \"1\" has only one unopened adjacent square, then that square must be a mine."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

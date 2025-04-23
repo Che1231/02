@@ -1,0 +1,77 @@
+{
+  "minesweeper": {
+    "title": "在线免费玩扫雷游戏 | 探索扫雷游戏",
+    "slogan": "",
+    "description": "探索扫雷游戏！测试您的逻辑和策略技能在这个经典益智游戏中。扫雷挑战您清除棋盘，而不会引爆任何地雷。现在免费在线玩扫雷游戏！",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一个",
+      "previous": "上一个"
+    },
+    "HomeIframe": {
+      "title": "扫雷",
+      "description": "这是一个关于扫雷的详细介绍：",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "扫雷游戏",
+      "whatIsTitle": "扫雷游戏是什么？",
+      "whatIsDescription": "扫雷游戏源自1973年的“立方体”游戏。后来，经过多次修改，汤姆·安德森开发了扫雷游戏的原型。1992年，它被整合到Windows 3.1系统中，成为训练用户鼠标操作能力的软件。",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "游戏目标：目标是在规定的时间内找到方格矩阵中的所有地雷，而不会踩踏任何地雷。如果所有安全方格都打开并且所有地雷都标记，玩家获胜；如果打开包含地雷的方格，则玩家失败。",
+      "howToPlayStep2": "游戏界面：游戏界面由一个方格矩阵组成。地雷随机分布在方格中。每个方格可能包含地雷或为空白。打开的安全方格上显示的数字表示周围方格中地雷的数量。如果它是一个空白方格（即0），则周围的方格将自动打开。",
+      "howToPlayStep3": "操作方法：左键单击未打开的方格以打开它；右键单击未打开的方格将其标记或取消标记为地雷；双击（同时点击左右按键）打开方格上的数字。如果周围标记的地雷数量等于该数字本身，则所有剩余的未打开的周围方格将打开。",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "难度级别",
+      "feature1Description": "通常，有多个难度级别。初学者级别通常是 8x8 或 9x9 的棋盘，有 10 个地雷；中等难度是 16x16 的棋盘，有 40 个地雷；专家级别是 30x16 的棋盘，有 99 个地雷。还有一种自定义模式，玩家可以根据自己的偏好设置棋盘大小和地雷数量。",
+      "feature2Title": "从中心开始",
+      "feature2Description": "建议从棋盘中心的方格开始点击。这是因为从角落开始可能会导致游戏初期可移动的方格较少，更容易卡住。",
+      "feature3Title": "寻找模式",
+      "feature3Description": "游戏中有某些常见的模式。例如，在“1-2-1”模式中， “1”之间的方格是地雷；在“1-2-2-1”模式中，地雷位于“2”旁边。",
+      "feature4Title": "使用逻辑推理",
+      "feature4Description": "根据打开的方格上的数字推断地雷的位置。例如，如果数字为“1”的方格只有一个未打开的相邻方格，则该方格一定是地雷。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "类别",
+      "noCategories": "未找到类别",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

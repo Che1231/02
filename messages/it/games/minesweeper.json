@@ -1,0 +1,77 @@
+{
+  "minesweeper": {
+    "title": "Gioca a Minesweeper Online Gratis | Scopri il Gioco Minesweeper",
+    "slogan": "",
+    "description": "Scopri Minesweeper! Metti alla prova le tue capacità logiche e strategiche in questo classico gioco di puzzle. Minesweeper ti sfida a sgombrare il campo senza far esplodere nessuna mina. Gioca a Minesweeper online ora gratuitamente!",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "Navigazione"
+    },
+    "Common": {
+      "createAt": "Creato il",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla privacy",
+      "termsOfServices": "Termini di servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Collegamenti utili",
+      "articleList": "Elenco articoli",
+      "home": "Home",
+      "next": "Successivo",
+      "previous": "Precedente"
+    },
+    "HomeIframe": {
+      "title": "Minesweeper",
+      "description": "Ecco un'introduzione dettagliata a Minesweeper:",
+      "iframeTitle": "Anteprima del gioco",
+      "fullscreenButton": "Schermo intero",
+      "shareButton": "Condividi",
+      "urlCopied": "URL copiato negli appunti!",
+      "downloadGame": "Scarica il gioco",
+      "playGame": "Gioca"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Minesweeper",
+      "whatIsTitle": "Cos'è Minesweeper?",
+      "whatIsDescription": "Il gioco Minesweeper ha avuto origine da un gioco chiamato \"Dado\" nel 1973. In seguito, attraverso diverse modifiche, Tom Anderson ha sviluppato il prototipo di Minesweeper. Nel 1992, è stato incluso nel sistema Windows 3.1 e divenne un software per allenare l'abilità di utilizzo del mouse degli utenti.",
+      "howToPlayTitle": "Come giocare",
+      "howToPlayStep1": "Obiettivo del gioco: l'obiettivo del gioco è trovare tutte le mine nella matrice quadrata entro il tempo specificato senza calpestare alcuna mina. Il giocatore vince se tutte le caselle sicure vengono aperte e tutte le mine vengono segnate e perde se viene aperta una casella contenente una mina.",
+      "howToPlayStep2": "Interfaccia di gioco: l'interfaccia di gioco consiste in una matrice quadrata. Le mine sono distribuite casualmente nelle caselle. Ogni casella può contenere una mina o essere vuota. Il numero visualizzato sulla casella sicura aperta indica il numero di mine nelle caselle circostanti. Se è una casella vuota (cioè 0), le caselle circostanti verranno aperte automaticamente.",
+      "howToPlayStep3": "Metodi di operazione: clic sinistro su una casella non aperta per aprirla; clic destro su una casella non aperta per contrassegnare o scontrassegnare come mina; doppio clic (simultaneo di pulsanti sinistro e destro) su un numero su una casella aperta. Se il numero di mine contrassegnate attorno al numero è uguale al numero stesso, tutte le rimanenti caselle non aperte attorno al numero verranno aperte.",
+      "keyFeaturesTitle": "Caratteristiche principali",
+      "feature1Title": "Livelli di difficoltà",
+      "feature1Description": "In genere, ci sono più livelli di difficoltà. Il livello principiante è generalmente un tabellone 8x8 o 9x9 con 10 mine, il livello intermedio è un tabellone 16x16 con 40 mine e il livello esperto è un tabellone 30x16 con 99 mine. Esiste anche una modalità personalizzata in cui i giocatori possono impostare le dimensioni del tabellone e il numero di mine in base alle loro preferenze.",
+      "feature2Title": "Inizio al centro",
+      "feature2Description": "È consigliabile iniziare cliccando una casella al centro del tabellone. Questo perché partire da un angolo potrebbe portare a una situazione in cui ci sono meno caselle spostabili nella fase iniziale del gioco, rendendo più probabile rimanere bloccati.",
+      "feature3Title": "Ricerca di schemi",
+      "feature3Description": "Ci sono alcuni schemi comuni nel gioco. Ad esempio, in uno schema \"1 - 2 - 1\", le caselle tra i \"1\" sono mine, e in uno schema \"1 - 2 - 2 - 1\", le mine si trovano accanto ai \"2\".",
+      "feature4Title": "Utilizzo della deduzione logica",
+      "feature4Description": "In base ai numeri sulle caselle aperte, dedurre le posizioni delle mine. Ad esempio, se una casella con il numero \"1\" ha solo una casella adiacente non aperta, allora quella casella deve essere una mina."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video di gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Consigliati"
+    },
+    "HomeComments": {
+      "title": "Commenti sul gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i giochi",
+      "description": "Tutti i giochi",
+      "games": "Giochi"
+    },
+    "CategoryPage": {
+      "categories": "Categorie",
+      "noCategories": "Nessuna categoria trovata",
+      "viewMore": "Visualizza altro",
+      "page": "Pagina"
+    }
+  }
+}

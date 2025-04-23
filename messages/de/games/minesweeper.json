@@ -1,0 +1,77 @@
+{
+  "minesweeper": {
+    "title": "Minesweeper Online kostenlos spielen | Entdecken Sie das Minesweeper-Spiel",
+    "slogan": "",
+    "description": "Entdecken Sie Minesweeper! Testen Sie Ihre Logik- und Strategieskills in diesem klassischen Puzzlespiel. Minesweeper fordert Sie heraus, das Spielfeld zu räumen, ohne auf Minen zu treten. Spielen Sie Minesweeper jetzt kostenlos online!",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Minesweeper",
+      "description": "Hier ist eine detaillierte Einführung in Minesweeper:",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Minesweeper",
+      "whatIsTitle": "Was ist Minesweeper?",
+      "whatIsDescription": "Das Minesweeper-Spiel entstand 1973 aus einem Spiel namens \"Cube\". Später entwickelte Tom Anderson durch verschiedene Modifikationen den Prototypen von Minesweeper. 1992 wurde es in das Windows 3.1-System integriert und diente als Software zur Schulung der Mausbedienung der Benutzer.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Spielziel: Das Ziel des Spiels ist es, innerhalb der vorgegebenen Zeit alle Minen im quadratischen Raster zu finden, ohne auf Minen zu treten. Der Spieler gewinnt, wenn alle sicheren Felder geöffnet und alle Minen markiert sind, und verliert, wenn ein mit einer Mine versehenes Feld geöffnet wird.",
+      "howToPlayStep2": "Spieloberfläche: Die Spieloberfläche besteht aus einem quadratischen Raster. Die Minen sind zufällig in den Feldern verteilt. Jedes Feld kann eine Mine oder leer sein. Die auf dem geöffneten sicheren Feld angezeigte Zahl gibt die Anzahl der Minen in den umliegenden Feldern an. Ist es ein leeres Feld (d. h. 0), werden die umliegenden Felder automatisch geöffnet.",
+      "howToPlayStep3": "Bedienungsmethoden: Linksklick auf ein geschlossenes Feld, um es zu öffnen; Rechtsklick auf ein geschlossenes Feld, um es als Mine zu markieren oder zu entfernen; Doppelklick (Links- und Rechtsklick gleichzeitig) auf eine Zahl auf einem geöffneten Feld. Stimmen die Anzahl der um die Zahl herum markierten Minen mit der Zahl selbst überein, werden alle verbleibenden geschlossenen Felder um die Zahl herum geöffnet.",
+      "keyFeaturesTitle": "Schlüsselmerkmale",
+      "feature1Title": "Schwierigkeitsgrade",
+      "feature1Description": "In der Regel gibt es mehrere Schwierigkeitsgrade. Die Anfängerstufe ist in der Regel ein 8x8- oder 9x9-Feld mit 10 Minen, die mittlere Stufe ein 16x16-Feld mit 40 Minen und die Expertenstufe ein 30x16-Feld mit 99 Minen. Es gibt auch einen benutzerdefinierten Modus, in dem die Spieler die Größe des Spielfelds und die Anzahl der Minen nach ihren Wünschen festlegen können.",
+      "feature2Title": "Start in der Mitte",
+      "feature2Description": "Es ist ratsam, mit dem Klicken auf ein Feld in der Mitte des Spielfelds zu beginnen. Dies liegt daran, dass ein Beginn in der Ecke zu einer Situation führen kann, in der anfänglich weniger bewegliche Felder zur Verfügung stehen, wodurch die Wahrscheinlichkeit steigt, stecken zu bleiben.",
+      "feature3Title": "Nach Mustern suchen",
+      "feature3Description": "Es gibt einige gängige Muster im Spiel. Beispielsweise sind in einem Muster \"1 - 2 - 1\" die Felder zwischen den \"1\"-Feldern Minen, und in einem Muster \"1 - 2 - 2 - 1\" befinden sich die Minen neben den \"2\"-Feldern.",
+      "feature4Title": "Logische Schlussfolgerungen verwenden",
+      "feature4Description": "Auf Grundlage der Zahlen auf den geöffneten Feldern können Sie die Positionen der Minen ableiten. Beispielsweise, wenn ein Feld mit der Zahl \"1\" nur ein unöffenbares benachbartes Feld hat, dann muss dieses Feld eine Mine sein."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr ansehen",
+      "page": "Seite"
+    }
+  }
+}

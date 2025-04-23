@@ -1,0 +1,77 @@
+{
+  "minesweeper": {
+    "title": "線上免費玩地雷掃雷遊戲 | 探索地雷掃雷遊戲",
+    "slogan": "",
+    "description": "探索地雷掃雷遊戲！測試您的邏輯和策略技巧，體驗這款經典的益智遊戲。地雷掃雷考驗您在不引爆任何地雷的情況下清除棋盤。現在就線上免費玩地雷掃雷遊戲！",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "地雷掃雷",
+      "description": "這裡有詳細的地雷掃雷介紹：",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "地雷掃雷",
+      "whatIsTitle": "什麼是地雷掃雷？",
+      "whatIsDescription": "地雷掃雷遊戲源自於1973年的\"立方體\"遊戲。之後，經過多次修改，湯姆·安德森開發了地雷掃雷的原型。1992年，它被整合到Windows 3.1系統中，成為訓練使用者滑鼠操作能力的軟體。",
+      "howToPlayTitle": "如何玩遊戲",
+      "howToPlayStep1": "遊戲目標：在規定的時間內找到方陣中的所有地雷，而不得踩踏任何地雷。如果所有安全區域都打開，所有地雷都標記，則玩家獲勝；如果打開包含地雷的方塊，則玩家失敗。",
+      "howToPlayStep2": "遊戲介面：遊戲介面由方陣組成。地雷隨機分佈在方塊中。每個方塊可能包含地雷或為空。顯示在已打開的安全方塊上的數字表示周圍方塊中的地雷數量。如果該方塊是空方塊（即 0），則周圍的方塊將自動打開。",
+      "howToPlayStep3": "操作方法：左鍵點擊未打開的方塊以打開；右鍵點擊未打開的方塊以標記或取消標記為地雷；雙擊（同時點擊左右按鈕）已打開方塊上的數字。如果圍繞數字標記的地雷數量等於數字本身，則將打開該數字周圍所有剩餘未打開的方塊。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "難度等級",
+      "feature1Description": "通常有多個難度級別。初學者級別通常是由 8x8 或 9x9 的棋盤，擁有 10 個地雷，中級是 16x16 的棋盤，擁有 40 個地雷，而專家級別則是由 30x16 的棋盤，擁有 99 個地雷。也有自訂模式，讓玩家可以根據自己的喜好設定棋盤大小和地雷數量。",
+      "feature2Title": "從中央開始",
+      "feature2Description": "建議從棋盤中央的方塊開始點擊。這是因為從角落開始可能導致遊戲初期可移動的方塊較少，更容易卡住。",
+      "feature3Title": "尋找模式",
+      "feature3Description": "遊戲中有一些常見的模式。例如，在\"1-2-1\"模式中，\"1\"之間的方塊是地雷；在\"1-2-2-1\"模式中，地雷位於\"2\"旁。",
+      "feature4Title": "運用邏輯推理",
+      "feature4Description": "根據已打開方塊上的數字，推斷地雷的位置。例如，如果標示為\"1\"的方塊只有一個未打開的相鄰方塊，那麼該方塊必定是地雷。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "檢視更多",
+      "page": "頁面"
+    }
+  }
+}
