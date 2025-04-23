@@ -1,0 +1,77 @@
+{
+  "hop-chop": {
+    "title": "無料！ホップチョップオンラインゲーム！ジャンプと回避のゲーム！",
+    "slogan": "ジャンプ、斬り、そして楽しみましょう！",
+    "description": "ジャンプに挑戦する準備はできていますか？ホップチョップは、星を集めてポイントを獲得するためにジャンプと回避を行う楽しいゲームです。ホップチョップの動きをマスターし、コスチュームや武器をアンロックし、高得点を目指しましょう！今すぐホップチョップをプレイ！",
+    "Loading": {
+      "title": "読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "ホップチョップ",
+      "description": "ホップチョップは、SnoutUp Gamesが開発したジャンプと回避ゲームです。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ホップチョップ",
+      "whatIsTitle": "ホップチョップとは？",
+      "whatIsDescription": "ホップチョップは、ブタの子を操作するジャンプと回避ゲームです。",
+      "howToPlayTitle": "ホップチョップの遊び方",
+      "howToPlayStep1": "ジャンプするにはタップします",
+      "howToPlayStep2": "障害物を回避します",
+      "howToPlayStep3": "星を集めます",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "無限の楽しみ",
+      "feature1Description": "エンドレスにプレイして、あなたの最高スコアに挑戦しましょう。",
+      "feature2Title": "アンロック可能なコンテンツ",
+      "feature2Description": "さまざまなSnoutfitと武器をアンロックします。",
+      "feature3Title": "シンプルな操作",
+      "feature3Description": "簡単操作で、マスターするのは難しいゲームプレイ。",
+      "feature4Title": "挑戦的なゲームプレイ",
+      "feature4Description": "あなたの反応速度とタイミングスキルを試しましょう。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

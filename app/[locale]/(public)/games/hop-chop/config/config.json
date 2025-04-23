@@ -1,0 +1,120 @@
+{
+  "name": "Hop-Chop",
+  "pagePath": "/games/hop-chop",
+  "pageName": "hop-chop",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://gamesonline86.github.io/hop-chop/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken87.png",
+      "content": "Hop-Chop is so addictive! Once you get the timing right for those jumps, it's pure satisfaction. Can’t stop chasing those stars!"
+    },
+    {
+      "author": "NeonBlade_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonBlade_X.png",
+      "content": "Who knew a pig could be this cool? The Snoutfits are hilarious and the gameplay is surprisingly deep for a clicker."
+    },
+    {
+      "author": "CosmicPhoenix99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicPhoenix99.png",
+      "content": "Love how simple yet challenging Hop-Chop is. Dodging obstacles while collecting stars never gets old!"
+    },
+    {
+      "author": "LootGoblin42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LootGoblin42.png",
+      "content": "Hop-Chop is a blast! The weapons add a fun twist to the jumping mechanic. Just wish there were more levels!"
+    },
+    {
+      "author": "SavageRevolver_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageRevolver_X.png",
+      "content": "This game is the perfect time-killer. The pig’s expressions crack me up every time I mess up a jump!"
+    },
+    {
+      "author": "PhantomLeviathan",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomLeviathan.png",
+      "content": "Hop-Chop is surprisingly intense for a casual game. Those Snoutfits are a nice reward for all the grinding!"
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "The game is fun, but the difficulty spikes can be frustrating. Still, I keep coming back for more!"
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "Hop-Chop is my new obsession. The star-collecting mechanic is simple but super satisfying!"
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "This game is way more fun than I expected. The Snoutfits are a great incentive to keep playing!"
+    },
+    {
+      "author": "VoidWalker_Prime",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/VoidWalker_Prime.png",
+      "content": "Hop-Chop is a gem! The mix of jumping and combat is unique, and the pig’s design is adorable."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-23/images/1745412476004-aqg23g.avif",
+  "page_path": "/games/hop-chop",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Clicker"
+  ],
+  "createdTime": "2025-04-23 20:47:39"
+}

@@ -1,0 +1,77 @@
+{
+  "hop-chop": {
+    "title": "免費線上玩跳跳斬！跳躍和躲避遊戲樂趣",
+    "slogan": "跳、砍、樂在其中！",
+    "description": "準備好迎接跳躍挑戰了嗎？跳跳斬是一款有趣的遊戲，讓您跳躍和躲避以收集星星並賺取積分。掌握跳跳斬的技巧，解鎖服裝和武器，並盡情揮砍，取得高分！現在就來玩跳跳斬！",
+    "Loading": {
+      "title": "載入中..."
+    },
+    "Navbar": {
+      "title": "導覽列"
+    },
+    "Common": {
+      "createAt": "建立時間",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "跳跳斬",
+      "description": "跳跳斬是一款由SnoutUp Games開發的跳躍和躲避遊戲。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "遊玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "跳跳斬",
+      "whatIsTitle": "跳跳斬是什麼？",
+      "whatIsDescription": "跳跳斬是一款跳躍和躲避遊戲，您控制的是一隻小豬。",
+      "howToPlayTitle": "如何玩跳跳斬",
+      "howToPlayStep1": "點擊跳躍",
+      "howToPlayStep2": "躲避障礙物",
+      "howToPlayStep3": "收集星星",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "無盡樂趣",
+      "feature1Description": "無盡遊戲，努力打破您的高分紀錄。",
+      "feature2Title": "可解鎖內容",
+      "feature2Description": "解鎖各種Snoutfit和武器。",
+      "feature3Title": "簡單控制",
+      "feature3Description": "易於學習，難以精通的遊戲玩法。",
+      "feature4Title": "具挑戰性的遊戲玩法",
+      "feature4Description": "測試您的反應和時間控制能力。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到分類",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

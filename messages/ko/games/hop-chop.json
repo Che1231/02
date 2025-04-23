@@ -1,0 +1,77 @@
+{
+  "hop-chop": {
+    "title": "무료로 홉-찹 온라인 플레이! 점프와 회피 게임 재미",
+    "slogan": "점프하고, 자르고, 즐겨요!",
+    "description": "점프 도전 준비되셨나요? 홉-찹은 별을 모으고 점수를 얻기 위해 점프하고 회피하는 재미있는 게임입니다. 홉-찹에서 기술을 마스터하고, 의상 및 무기를 해제하고, 높은 점수를 향해 전진하세요! 지금 홉-찹을 플레이하세요!",
+    "Loading": {
+      "title": "로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "내용",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "홉-찹",
+      "description": "홉-찹은 스나우트업 게임즈에서 만든 점프와 회피 게임입니다.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "홉-찹",
+      "whatIsTitle": "홉-찹이란 무엇인가요?",
+      "whatIsDescription": "홉-찹은 돼지 새끼를 조종하는 점프와 회피 게임입니다.",
+      "howToPlayTitle": "홉-찹 플레이 방법",
+      "howToPlayStep1": "점프하려면 탭하세요",
+      "howToPlayStep2": "장애물을 피하세요",
+      "howToPlayStep3": "별을 모으세요",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "끝없는 재미",
+      "feature1Description": "끝없이 플레이하고 자신의 최고 점수를 기록해 보세요.",
+      "feature2Title": "잠금 해제 콘텐츠",
+      "feature2Description": "다양한 스나우핏과 무기를 해제하세요.",
+      "feature3Title": "간단한 컨트롤",
+      "feature3Description": "쉽게 배우고, 마스터하기 어려운 게임 플레이.",
+      "feature4Title": "도전적인 게임 플레이",
+      "feature4Description": "반응 속도와 타이밍 능력을 테스트하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}
