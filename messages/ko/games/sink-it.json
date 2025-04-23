@@ -1,0 +1,77 @@
+{
+  "sink-it": {
+    "title": "플레이 싱크 이트 온라인 무료 - 해적 전투 게임",
+    "slogan": "",
+    "description": "싱크 이트는 해적 선장이 되어 적 함선을 격침시키는 재미있는 캐주얼 게임입니다! 샷을 계산하고 파도를 활용하며 아이템을 수집하세요. 지금 무료로 싱크 이트를 플레이하세요!",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "유용한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "싱크 이트",
+      "description": "싱크 이트는 해적 테마의 캐주얼 경쟁 게임입니다.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "싱크 이트",
+      "whatIsTitle": "싱크 이트는 무엇인가요?",
+      "whatIsDescription": "싱크 이트는 해적 테마의 캐주얼 경쟁 게임입니다.",
+      "howToPlayTitle": "싱크 이트 플레이 방법",
+      "howToPlayStep1": "배의 대포를 조종하세요.",
+      "howToPlayStep2": "적 함선을 격침시키세요.",
+      "howToPlayStep3": "하늘에서 떨어지는 아이템을 수집하세요.",
+      "keyFeaturesTitle": "싱크 이트의 주요 특징",
+      "feature1Title": "단일 및 2인 플레이 모드",
+      "feature1Description": "단일 플레이어 모드를 즐기거나 2인 플레이어 모드로 친구들과 전투하세요.",
+      "feature2Title": "현실적인 물리 엔진",
+      "feature2Description": "샷 각도와 힘을 계산하고 파도를 활용하세요.",
+      "feature3Title": "아이템 수집",
+      "feature3Description": "아이템을 수집하여 바다를 얼리는 등의 특수 효과를 사용하세요.",
+      "feature4Title": "크로스 플랫폼 플레이",
+      "feature4Description": "웹 브라우저, 안드로이드 및 iOS 기기에서 싱크 이트를 플레이하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 코멘트"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

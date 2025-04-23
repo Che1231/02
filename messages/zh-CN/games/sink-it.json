@@ -1,0 +1,77 @@
+{
+  "sink-it": {
+    "title": "免费玩《沉没》- 海盗战斗游戏",
+    "slogan": "",
+    "description": "《沉没》是一款有趣的休闲游戏，让你化身海盗船长，击沉敌舰！计算你的射击，利用海浪，收集物品。现在免费畅玩《沉没》！",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "沉没",
+      "description": "《沉没》是一款以海盗为主题的休闲对抗游戏。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL 已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "沉没",
+      "whatIsTitle": "什么是沉没？",
+      "whatIsDescription": "《沉没》是一款以海盗为主题的休闲对抗游戏。",
+      "howToPlayTitle": "如何玩沉没",
+      "howToPlayStep1": "控制你的船只炮塔。",
+      "howToPlayStep2": "击沉敌舰。",
+      "howToPlayStep3": "收集从天而降的物品。",
+      "keyFeaturesTitle": "沉没游戏的主要特点",
+      "feature1Title": "单人模式和双人模式",
+      "feature1Description": "享受单人模式或与朋友一起进行双人模式对抗。",
+      "feature2Title": "逼真的物理引擎",
+      "feature2Description": "计算射击角度和力量，并利用海浪来获得优势。",
+      "feature3Title": "物品收集",
+      "feature3Description": "收集物品来使用特殊效果，例如冻结大海。",
+      "feature4Title": "跨平台游戏",
+      "feature4Description": "在网页浏览器、Android 和 iOS 设备上玩《沉没》。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "分类",
+      "noCategories": "未找到分类",
+      "viewMore": "查看更多",
+      "page": "页"
+    }
+  }
+}

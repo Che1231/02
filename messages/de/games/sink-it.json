@@ -1,0 +1,77 @@
+{
+  "sink-it": {
+    "title": "Kostenloses Online-Sink-It-Spiel spielen – Piraten-Kampfspiel",
+    "slogan": "",
+    "description": "Sink It ist ein lustiges Gelegenheitsspiel, in dem Sie zum Piratenkapitän werden und feindliche Schiffe versenken! Berechnen Sie Ihre Schüsse, nutzen Sie Wellen und sammeln Sie Gegenstände. Spielen Sie Sink It jetzt kostenlos!",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Sink It",
+      "description": "Sink It ist ein Gelegenheitsspiel zum Thema Piraten mit kompetitiven Elementen.",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sink It",
+      "whatIsTitle": "Was ist Sink It?",
+      "whatIsDescription": "Sink It ist ein Gelegenheitsspiel mit Piraten-Thema und kompetitiven Elementen.",
+      "howToPlayTitle": "So spielen Sie Sink It",
+      "howToPlayStep1": "Steuern Sie die Kanonen Ihres Schiffes.",
+      "howToPlayStep2": "Versenken Sie feindliche Schiffe.",
+      "howToPlayStep3": "Sammeln Sie Gegenstände, die vom Himmel fallen.",
+      "keyFeaturesTitle": "Wichtige Merkmale von Sink It",
+      "feature1Title": "Einzel- und Zwei-Spieler-Modi",
+      "feature1Description": "Genießen Sie den Einzelspielermodus oder treten Sie mit Freunden im Zwei-Spieler-Modus gegeneinander an.",
+      "feature2Title": "Realismus in der Spielphysik",
+      "feature2Description": "Berechnen Sie Schusswinkel und -kraft und nutzen Sie Wellen zu Ihrem Vorteil.",
+      "feature3Title": "Gegenstandssammlung",
+      "feature3Description": "Sammeln Sie Gegenstände, um Spezialeffekte zu verwenden, wie z. B. das Einfrieren des Meeres.",
+      "feature4Title": "Plattformübergreifendes Spielen",
+      "feature4Description": "Spielen Sie Sink It in Webbrowsern, auf Android- und iOS-Geräten."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spiel Kommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}
