@@ -1,0 +1,120 @@
+{
+  "name": "Who Is",
+  "pagePath": "/games/who-is",
+  "pageName": "who-is",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://gamesonline86.github.io/who-is/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomStalker99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomStalker99.png",
+      "content": "Wow, this game is mind-blowing! The logic and deduction are so intense, it’s like being a detective every turn."
+    },
+    {
+      "author": "SavageKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatana_X.png",
+      "content": "Who Is It? is such a fun way to spend time with the family! The questions help us all think more critically while having a blast."
+    },
+    {
+      "author": "CosmicPhoenix42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicPhoenix42.png",
+      "content": "This game really tests your observational skills and attention to detail. Love playing it with friends!"
+    },
+    {
+      "author": "NeonRevolver87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonRevolver87.png",
+      "content": "Playing this game feels like a race, each question can make or break your progress. It's thrilling!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Hilarious when you ask a silly question and the other player gives a deadpan response. Made me burst out laughing!"
+    },
+    {
+      "author": "CrazyKrakenXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CrazyKrakenXX.png",
+      "content": "I never knew how much observation I lacked until I started playing this game. Great for improving cognitive skills!"
+    },
+    {
+      "author": "xX_SlyDetective_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_SlyDetective_Xx.png",
+      "content": "This game is perfect for thinking out of the box. Loved the challenge and couldn't put it down!"
+    },
+    {
+      "author": "Leviathan_LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Leviathan_LagWarriorXX.png",
+      "content": "Who Is It? is not just a game, it's a brain workout! Got my mind buzzing with excitement after every round."
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "Got to play this with my nephew, he loved it! This game is a great blend of strategy and fun."
+    },
+    {
+      "author": "Funky_Broomstick42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Funky_Broomstick42.png",
+      "content": "Who Is It? is an absolute joy to play. It makes everyone in the room feel like a genius."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-24/images/1745489187245-nn1ixb.avif",
+  "page_path": "/games/who-is",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Hypercasual"
+  ],
+  "createdTime": "2025-04-24 18:07:42"
+}
