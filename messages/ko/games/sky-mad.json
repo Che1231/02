@@ -1,0 +1,77 @@
+{
+  "sky-mad": {
+    "title": "스카이 매드: 제트 전투기 게임 - 지금 무료 온라인 플레이",
+    "slogan": "스카이 매드에서 최고의 전투기 조종사가 되세요!",
+    "description": "제트 전투기를 조종하는 꿈을 꾸십니까? 스릴 넘치는 제트 전투기 시뮬레이션 게임, 스카이 매드에 뛰어들세요! 제트기를 조종하고 레이싱에 참여하거나 격렬한 공중 전투에 참여하세요. 스카이 매드에서 레이싱과 전투 모드를 전환하고 하늘을 지배하세요! 다양한 레벨을 즐기고 스카이 매드에서 다양한 제트 전투기를 잠금 해제하세요. 지금 바로 온라인으로 플레이하세요!",
+    "Loading": {
+      "title": "스카이 매드 로딩 중"
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일자",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 이용약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "스카이 매드",
+      "description": "무료로 스카이 매드를 온라인으로 플레이하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "스카이 매드",
+      "whatIsTitle": "스카이 매드는 무엇인가요?",
+      "whatIsDescription": "스카이 매드는 적과 레이싱하거나 싸울 수 있는 제트 전투기 시뮬레이션 게임입니다. 모드를 전환하고 다양한 제트기를 잠금 해제하세요!",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "키보드: W 또는 위 화살표(이륙), A 또는 왼쪽 화살표(왼쪽으로 이동), S 또는 아래 화살표(착륙), D 또는 오른쪽 화살표(오른쪽으로 이동)",
+      "howToPlayStep2": "마우스: 회전하고자 하는 제트기 측면을 클릭하세요. 더욱 정교한 회전을 위해 여러 번 클릭하세요!",
+      "howToPlayStep3": "적을 공격하려면 먼저 적을 조준하세요. 적 주변의 사각형이 빨간색으로 변하면 자동으로 발사됩니다! 스페이스 바를 눌러 레이싱 모드와 공격 모드를 전환하세요!",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "제트 전투기 시뮬레이션",
+      "feature1Description": "격렬한 공중 전투에서 제트 전투기를 조종하는 스릴을 경험하세요.",
+      "feature2Title": "레이싱과 전투",
+      "feature2Description": "다채로운 게임 플레이를 위해 레이싱 모드와 전투 모드를 전환하세요.",
+      "feature3Title": "잠금 해제 가능한 제트기",
+      "feature3Description": "스카이 매드에서 더욱 강력한 경험을 위해 다양한 제트기를 잠금 해제하세요.",
+      "feature4Title": "다양한 레벨",
+      "feature4Description": "스카이 매드에서 최고의 전투기 조종사가 되기 위한 다양한 레벨과 도전을 즐기세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "name": "Twice",
+  "pagePath": "/games/twice",
+  "pageName": "twice",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://gamesonline86.github.io/twice/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken87.png",
+      "content": "This game's graphics are just amazing, I love the cute animals! Simple, yet addictive."
+    },
+    {
+      "author": "SavageBroadsword_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBroadsword_X.png",
+      "content": "Need to be quick! My brain hurts but in a good way. So good for short bursts."
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "The icons are so well-designed! Is it just me, or is this game like crack?"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Easy to pick up and start playing. The time limits get intense tho!"
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "I'm hooked! Never thought matching icons could be this fun. What a great way to kill time."
+    },
+    {
+      "author": "PhantomPhoenix99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix99.png",
+      "content": "The graphics are so polished and cute. Playing Twice is such a relaxing experience."
+    },
+    {
+      "author": "AdjectiveRevolver_V",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AdjectiveRevolver_V.png",
+      "content": "A great game overall! I can play this for hours without even noticing lol."
+    },
+    {
+      "author": "MetaverseMemeLord",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/MetaverseMemeLord.png",
+      "content": "The gameplay is simple perfection. But why is it so hard?! This is addicting!"
+    },
+    {
+      "author": "LeetHaxor42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LeetHaxor42.png",
+      "content": "Okay, the clock is my worst enemy. The graphics of Twice are cute, tho."
+    },
+    {
+      "author": "NeonLeviathan42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonLeviathan42.png",
+      "content": "Didn't expect to like a matching game this much? Seriously, give it a try!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-24/images/1745488920041-9vp4j9.avif",
+  "page_path": "/games/twice",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Hypercasual"
+  ],
+  "createdTime": "2025-04-24 18:01:46"
+}

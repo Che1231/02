@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Twice: Nasıl temel saldırılar ve hareketler gerçekleştiririm? (Yeni Başlayanlar İçin Sorusu)",
+    "answer": "Twice'de temel saldırıları gerçekleştirmek için sol fare düğmesini kullanın. Hareketler WASD tuşlarıyla kontrol edilir. Örneğin, 'W' tuşuna basmak karakterinizi öne doğru hareket ettirir. Başlangıç alanında pratik yapmak son derece önerilir. Bu temel beceri, Twice'de ilerlemek ve savaşı ustalaşmak için çok önemlidir. Bu, bir roman yazmadan önce alfabenin öğrenilmesine benzer. [Benzerlik: Koşmadan önce yürümeyi öğrenmek]"
+  },
+  {
+    "question": "Twice'de farklı karakter sınıfları nelerdir ve hangisi yeni başlayanlar için en iyisidir? (Twice Sınıf Rehberi)",
+    "answer": "Twice, dört farklı karakter sınıfına sahiptir: Savaşçı, Büyücü, Okçu ve Hırsız. Yeni başlayanlar için, yüksek sağlık puanı ve basit yakın dövüş stili nedeniyle Savaşçı en iyisidir. Büyücü güçlüdür ancak daha düşük sağlık puanına sahiptir. Okçu ve Hırsız daha karmaşıktır ve daha gelişmiş oyun deneyimi gerektirir. [Yapılandırma Tablosu: Sınıf / Zorluk / Oyun Tarzı (Savaşçı: Kolay, Yakın Dövüş), (Büyücü: Orta, Uzaktan), (Okçu: Zor, Uzaktan Saldırı Hasarı), (Hırsız: Orta, Yakın Dövüş Hasarı)]"
+  },
+  {
+    "question": "Twice: Oyunda erken dönemde sağlık iksirleri gibi önemli kaynakları nerede bulabilirim? (Erken Oyun Rehberi)",
+    "answer": "Twice'de sağlık iksirleri gibi önemli kaynaklar birkaç yerde bulunabilir. Başlangıç şehrini dikkatlice kontrol edin; satıcılar temel iksirler satar ve alanda bulunan sandıkları ve varilleri açın. Onları görev ödülleri olarak da alabilirsiniz. Örneğin, şehrin yaşlısı tarafından verilen ilk görev genellikle size 3 sağlık iksiri verir. [Örnek: Şehir Yaşlısının İlk Görevi 3 sağlık iksiri ödülü veriyor]."
+  },
+  {
+    "question": "Gelişmiş oyuncular, son oyun aşamasında maksimum hasar çıkarmak için Twice karakter yapılarını nasıl optimize edebilir? (Son Oyun Yapısı Optimizasyonu)",
+    "answer": "Son oyun aşamasında Twice karakter yapınızı maksimum hasar için optimize etmek için dikkatli istatistik dağılımı ve ekipman seçimi gereklidir. ADIM 1: Ekipmanınızdaki kritik vuruş şansı ve hasar istatistiklerine odaklanın. ADIM 2: Birbirleriyle iyi uyum sağlayan becerileri seçin, kombinasyon fırsatları yaratın. ADIM 3: Güç dengesini korumak için ekipmanınızı zanaat veya ticaret yoluyla düzenli olarak yükseltin. [Adım Adım: Hasar Optimizasyonu Süreci]"
+  },
+  {
+    "question": "Twice: Uzman oyuncuların konuştuğu kötü şöhretli \"Gölge Lordu\" patronunu yenmek için en iyi stratejiler nelerdir? (Patron Savaşı Stratejisi)",
+    "answer": "Twice'de Gölge Lordu patronunu yenmek için iyi koordine edilmiş bir strateji gerekir. ADIM 1: Saldırı desenini anlayın; Gölge Lordu her 30 saniyede bir güçlü bir alana etkili saldırı kullanır. ADIM 2: Diğerleri arkada DPS vermek üzerine yoğunlaşırken, bir tankı Gölge Lordu'nun dikkatini çekmek için görevlendirin. ADIM 3: Alandan kaçınmak ve gerektiğinde yeniden bir araya gelmek için çevreyi kullanın. İletişim çok önemlidir! [Adım Adım: Gölge Lordu Yıkımı]"
+  },
+  {
+    "question": "Twice'deki gizli görevler veya gizli alanlar, tamamlama oyuncuları için benzersiz ödüller ve zorluklar sunuyor mu? (Gizli Alan Rehberi)",
+    "answer": "Twice'deki bazı gizli görevler ve alanlar benzersiz ödüller sunmaktadır. Dikkat çeken bir örnek, Fısıltılı Ormanlar yakınında bir dizi çevre bulmacasını çözerek ulaşılabilen \"Yaşlıların Kayıp Tapınağı\" dır. Bu görevi tamamlamak, istatistiklerinizi önemli ölçüde artıran güçlü bir artefakt ödülü verir. Tapınak, sırayla ışık, ses ve harekete ilişkin 3 bulmacayı çözmeyi gerektirir. İyi şanslar! [Örnek: Yaşlıların Kayıp Tapınağı bulmaca görevi]"
+  },
+  {
+    "question": "Twice'deki \"Mana Dalgası\" sistemi neden bu şekilde çalışıyor ve mana yenilenmesini tanımlayan bir formül var mı? (Sistem Ayrıntılandırması)",
+    "answer": "Twice'deki \"Mana Dalgası\" sistemi, yetenek kullanımını ve stratejik kaynak yönetimini düzenlemek için tasarlanmıştır. Mana, ekipmanın etkilediği modlarla 5 saniyelik aralıklarla yenilenir. Gerçek formül şu şekildedir: Mana Yenilenmesi/Saniye = Temel Yenilenme * (1 + Mana Yenilenme Bonusu). Özünde, sistem kaynak yönetimine derinlik katar. [Formül: Mana Yenilenmesi Analizi]"
+  },
+  {
+    "question": "Twice'da kritik vuruş şansı ve hasarını hesaplamak için iç mekanizmalar nelerdir? (Hasar Hesaplama Derinlemesine Bakış)",
+    "answer": "Twice'daki kritik vuruş şansı ve hasarı, karakter istatistikleri ve ekipman bonuslarının bir kombinasyonuna dayanarak hesaplanır. Temel kritik vuruş şansı %5'tir ve ekipman ve becerilerle artırılabilir. Son kritik hasar çarpanı, 1 + (Kritik Hasar Bonusu) olarak hesaplanır. Örneğin, %60 Kritik Vuruş Şansı ve %30 Kritik Hasar sonucunda = %60 ihtimalle %130 hasar verilecektir! [Mekanizma: Kritik Hasar Formülü]"
+  },
+  {
+    "question": "PC'de oynanan Twice'dan mobil cihaza geçersem, tüm ilerlemelerim platformlar arasında kaydedilir mi? (Platformlar Arası Kaydetme)",
+    "answer": "Evet, Twice platformlar arası kaydetmeyi destekler. Hem PC'nizde hem de mobil cihazınızda aynı hesaba giriş yaptığınızdan emin olun. Karakter seviyeleri, ekipman ve görev ilerlemeleri dahil olmak üzere ilerlemeleriniz otomatik olarak birincil sunucuya senkronize edilecektir. [İş Akışı: Platformlar Arası Oyun]"
+  },
+  {
+    "question": "Twice'da, oyunun tümünde en nadir kozmetik olarak söylenen gizli 'Gökyüzü Ejderhası' skinini nasıl açabilirim? (Kozmetik Stratejisi)",
+    "answer": "Twice'da \"Gökyüzü Ejderhası\" kıyafeti gerçekten çok nadir ve aranan bir kıyafettir. Bunu açmak için bir dizi gizli başarımı tamamlamalısınız. Haftada zamanlanmış düşüş/öğeler içeren, uzun süredir devam eden bir oyun içi arayış. Özellikle, bir ay içinde benzersiz tüm görev kalıntılarını elde etmeniz gerekir. Ayrıca bu gizli içeriğin zaman sınırlı olduğunu belirtmekte fayda var. [Gizli İçerik: Kozmetik Açılışı]"
+  }
+]
