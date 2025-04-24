@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Introdução ao Campo Minado: Como começo uma partida de Campo Minado e o que o clique inicial faz?",
+    "answer": "Começar uma partida de Campo Minado é simples. Basta clicar em qualquer quadrado da grade. O primeiro clique nunca será uma mina. Ele revela uma área segura ou um número indicando minas adjacentes. Se o primeiro clique revelar uma grande área, significa que não há minas próximas. O objetivo é desvendar todos os quadrados seguros sem detonar nenhuma mina. Exemplo: Clicar em um quadrado de canto é frequentemente um bom começo, pois minimiza as potenciais minas adjacentes."
+  },
+  {
+    "question": "O que os números no Campo Minado representam e como eles podem me ajudar a identificar zonas seguras?",
+    "answer": "Os números no Campo Minado representam a contagem de minas nos quadrados adjacentes (horizontal, vertical e diagonalmente). Usando esses números, você pode deduzir onde estão as minas e marcá-las. Por exemplo, se um '1' está ao lado de apenas um quadrado coberto, esse quadrado coberto deve ser uma mina. Combine as dicas numéricas para revelar áreas seguras maiores. A tabela de configuração é mostrada abaixo:\nNúmero | Contagem de Minas\n---|---\n1|Uma mina\n2|Duas minas\n3|Três minas"
+  },
+  {
+    "question": "Bandeiras no Campo Minado: Por que é crucial usar bandeiras no Campo Minado e como marco corretamente uma possível mina?",
+    "answer": "As bandeiras são essenciais no Campo Minado para marcar os quadrados que você acredita conterem minas, evitando cliques acidentais e detonações. Para marcar um quadrado, clique com o botão direito do mouse nele (ou use o botão de bandeira designado em dispositivos móveis). Uma vez marcado, um quadrado não poderá ser clicado acidentalmente até que a bandeira seja removida. O uso eficiente de bandeiras é fundamental para o progresso. Exemplo: Se você vir um '1' com um quadrado adjacente coberto, marque-o imediatamente para evitar erros."
+  },
+  {
+    "question": "Campo Minado Estratégico: Quais são algumas estratégias avançadas de Campo Minado para limpar placas maiores de forma consistente?",
+    "answer": "Para placas de Campo Minado maiores, considere estas estratégias: PASSO 1: Identifique padrões comuns. Procure por configurações '1-2-1' ou '1-1', que frequentemente revelam minas. PASSO 2: Use dedução avançada. Por exemplo, se um '2' tem duas minas marcadas adjacentes, todos os outros quadrados adjacentes são seguros. PASSO 3: Periodicamente, analise o tabuleiro em busca de grupos isoláveis e solucionáveis. Essas estratégias ajudam a garantir a limpeza consistente. Analogia: Campo Minado é semelhante a resolver um caso de detetive, siga as pistas para encontrar o suspeito."
+  },
+  {
+    "question": "Cadeias no Campo Minado: Como posso usar 'cordas' ou 'cliques' para limpar rapidamente seções com minas conhecidas?",
+    "answer": "Clicar em um quadrado numerado após marcar o número correto de minas adjacentes limpa todos os quadrados adjacentes restantes de uma só vez. Isso economiza muito tempo. Certifique-se de que as bandeiras estão corretas antes de clicar. Por exemplo, se um '3' tem três bandeiras ao seu redor, um clique de acorde revelará todos os outros quadrados adjacentes não-minas rapidamente. Comparação de esquemas: O clique padrão é passo a passo, o clique de acorde limpa vários de uma só vez."
+  },
+  {
+    "question": "Probabilidade no Campo Minado: Como posso usar a probabilidade para adivinhar com segurança quando estou preso em um tabuleiro de Campo Minado?",
+    "answer": "Quando nenhuma dedução clara pode ser feita, use a probabilidade. Estime a densidade de minas nas áreas não resolvidas e clique nos quadrados com a menor probabilidade de serem uma mina. Isso é arriscado, mas às vezes é necessário. Exemplo: Se você tem uma grande área não resolvida com alguns números de borda, clicar no centro dessa área não resolvida pode ter uma menor densidade de minas. O fluxograma é mostrado abaixo:\nInício -> Dedução -> Irresolúvel? -> Estimativa de Probabilidade -> Clique Seguro."
+  },
+  {
+    "question": "Algoritmo do Campo Minado: Qual é o algoritmo subjacente que determina a colocação de minas no Campo Minado?",
+    "answer": "O Campo Minado normalmente usa um gerador de números aleatórios para colocar minas após o primeiro clique para garantir que o primeiro clique sempre seja seguro. O algoritmo distribui as minas uniformemente pela grade com base na dificuldade definida. Algumas versões podem ajustar a colocação de minas para evitar estados de tabuleiro insolúveis. Análises numéricas revelam que as distribuições de minas são consistentes com a configuração de dificuldade definida. As configurações podem ser vistas: Fácil (10 minas), Médio (40 minas), Difícil (99 minas)."
+  },
+  {
+    "question": "Solucionador de Campo Minado: Como os solucionadores de Campo Minado funcionam e quais algoritmos eles empregam para vencer o jogo?",
+    "answer": "Os solucionadores de Campo Minado usam dedução lógica e algoritmos probabilísticos para determinar os quadrados seguros. Eles simulam estratégias humanas e analisam padrões e probabilidades muito mais rápido. Algoritmos comuns incluem satisfação de restrições e métodos de Monte Carlo. O solucionador mais avançado pode jogar em nível de especialista. O solucionador de jogo é semelhante aos jogadores especialistas em termos de resolução de problemas, embora a velocidade seja drasticamente aprimorada."
+  },
+  {
+    "question": "Campo Minado Multiplataforma: Existe sincronização de progresso multiplataforma disponível para o Campo Minado em diferentes dispositivos (por exemplo, dispositivos móveis e PC)?",
+    "answer": "A disponibilidade de sincronização de progresso multiplataforma para o Campo Minado depende da versão ou aplicativo específico que está sendo usado. Algumas versões, especialmente as modernas com integração de serviços em nuvem, permitem que você sincronize seu progresso entre dispositivos (móveis e PC) se você fizer login em sua conta. No entanto, muitas versões autônomas ou mais antigas não oferecem essa funcionalidade. Verifique as configurações do aplicativo ou a documentação, deve haver uma opção para sincronização nas configurações de conta. Analogia: A sincronização de progresso multiplataforma é como um 'salvamento na nuvem', onde seus dados de progresso são salvos em uma nuvem e recuperáveis posteriormente."
+  },
+  {
+    "question": "Easter Eggs do Campo Minado: Existem temas ocultos ou opções personalizáveis e como posso habilitar o 'Modo Noturno' no Campo Minado?",
+    "answer": "Muitas versões do Campo Minado oferecem personalização, incluindo temas e esquemas de cores. Verifique o menu de configurações para opções de alteração de aparência. Algumas versões podem ter easter eggs ativados por combinações específicas de teclas ou cliques. O 'Modo Noturno', se disponível, reduz a fadiga ocular em ambientes escuros usando cores mais escuras. Procure a configuração de tema em Configurações. Você pode encontrar algum tema oculto."
+  }
+]

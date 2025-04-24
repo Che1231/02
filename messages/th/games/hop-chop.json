@@ -1,0 +1,77 @@
+{
+  "hop-chop": {
+    "title": "เล่น Hop-Chop ออนไลน์ฟรี! เกมกระโดดและหลบอย่างสนุก",
+    "slogan": "กระโดด ตัด และสนุก!",
+    "description": "พร้อมสำหรับการท้าทายการกระโดดหรือไม่? Hop-Chop เป็นเกมสนุกๆ ที่คุณต้องกระโดดและหลบเพื่อเก็บดาวและคะแนน  ฝึกฝนทักษะการเล่นใน Hop-Chop เปิดล็อคชุดและอาวุธ และฟันทางของคุณไปสู่คะแนนสูงสุด! เล่น Hop-Chop ตอนนี้!",
+    "Loading": {
+      "title": "กำลังโหลด..."
+    },
+    "Navbar": {
+      "title": "นำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดในการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์แนะนำ",
+      "articleList": "รายการบทความ",
+      "home": "หน้าแรก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "Hop-Chop",
+      "description": "Hop-Chop เป็นเกมกระโดดและหลบจาก SnoutUp Games",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ไปยังคลิปบอร์ดแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Hop-Chop",
+      "whatIsTitle": "Hop-Chop คืออะไร?",
+      "whatIsDescription": "Hop-Chop เป็นเกมกระโดดและหลบ ที่คุณควบคุมหมูตัวน้อย",
+      "howToPlayTitle": "วิธีการเล่น Hop-Chop",
+      "howToPlayStep1": "แตะเพื่อกระโดด",
+      "howToPlayStep2": "หลบสิ่งกีดขวาง",
+      "howToPlayStep3": "เก็บดาว",
+      "keyFeaturesTitle": "คุณสมบัติหลัก",
+      "feature1Title": "ความสนุกไม่รู้จบ",
+      "feature1Description": "เล่นอย่างไม่รู้จบ และพยายามทำลายสถิติสูงสุดของคุณ",
+      "feature2Title": "เนื้อหาที่ปลดล็อคได้",
+      "feature2Description": "ปลดล็อคชุด Snoutfit และอาวุธต่างๆ",
+      "feature3Title": "การควบคุมที่ง่าย",
+      "feature3Description": "เรียนรู้ได้ง่าย เล่นยาก",
+      "feature4Title": "การเล่นเกมที่ท้าทาย",
+      "feature4Description": "ทดสอบปฏิกิริยาและจังหวะของคุณ"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นเกี่ยวกับการเล่นเกม"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

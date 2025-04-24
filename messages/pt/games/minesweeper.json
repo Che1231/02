@@ -1,0 +1,77 @@
+{
+  "minesweeper": {
+    "title": "Jogue Minesweeper Online Grátis | Descubra o Jogo Minesweeper",
+    "slogan": "",
+    "description": "Descubra o Minesweeper! Teste suas habilidades de lógica e estratégia neste clássico jogo de quebra-cabeça. O Minesweeper desafia você a limpar o tabuleiro sem detonar nenhuma mina. Jogue Minesweeper online agora mesmo, gratuitamente!",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Úteis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Minesweeper",
+      "description": "Aqui está uma introdução detalhada ao Minesweeper:",
+      "iframeTitle": "Pré-visualização do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Minesweeper",
+      "whatIsTitle": "O que é Minesweeper?",
+      "whatIsDescription": "O jogo Minesweeper originou-se de um jogo chamado \"Cube\" em 1973. Posteriormente, por meio de várias modificações, Tom Anderson desenvolveu o protótipo do Minesweeper. Em 1992, foi incluído no sistema Windows 3.1 e tornou-se um software para treinamento da habilidade de operação do mouse dos usuários.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Objetivo do Jogo: O objetivo do jogo é encontrar todas as minas na matriz quadrada dentro do tempo especificado sem pisar em nenhuma mina. O jogador vence se todos os quadrados seguros forem abertos e todas as minas forem marcadas, e perde se um quadrado contendo uma mina for aberto.",
+      "howToPlayStep2": "Interface do Jogo: A interface do jogo consiste em uma matriz quadrada. As minas são distribuídas aleatoriamente nos quadrados. Cada quadrado pode conter uma mina ou estar vazio. O número exibido no quadrado seguro aberto indica o número de minas nos quadrados vizinhos. Se for um quadrado vazio (ou seja, 0), os quadrados vizinhos serão abertos automaticamente.",
+      "howToPlayStep3": "Métodos de Operação: Clique esquerdo em um quadrado não aberto para abri-lo; clique direito em um quadrado não aberto para marcá-lo ou desmarcá-lo como uma mina; clique duplo (botões esquerdo e direito simultaneamente) em um número em um quadrado aberto. Se o número de minas marcadas ao redor do número for igual ao próprio número, todos os quadrados não abertos restantes ao redor do número serão abertos.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Níveis de Dificuldade",
+      "feature1Description": "Normalmente, existem vários níveis de dificuldade. O nível iniciante geralmente é um tabuleiro de 8x8 ou 9x9 com 10 minas, o nível intermediário é um tabuleiro de 16x16 com 40 minas e o nível expert é um tabuleiro de 30x16 com 99 minas. Há também um modo personalizado onde os jogadores podem definir o tamanho do tabuleiro e o número de minas de acordo com suas preferências.",
+      "feature2Title": "Início no Centro",
+      "feature2Description": "É aconselhável começar clicando em um quadrado no centro do tabuleiro. Isso ocorre porque começar a partir do canto pode levar a uma situação em que há menos quadrados móveis na fase inicial do jogo, tornando mais provável ficar preso.",
+      "feature3Title": "Procurando por Padrões",
+      "feature3Description": "Existem alguns padrões comuns no jogo. Por exemplo, em um padrão \"1 - 2 - 1\", os quadrados entre os \"1\"s são minas, e em um padrão \"1 - 2 - 2 - 1\", as minas estão ao lado dos \"2\"s.",
+      "feature4Title": "Usando Dedução Lógica",
+      "feature4Description": "Com base nos números nos quadrados abertos, infira as localizações das minas. Por exemplo, se um quadrado com o número \"1\" tiver apenas um quadrado vizinho não aberto, esse quadrado deve ser uma mina."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

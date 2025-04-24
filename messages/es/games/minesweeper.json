@@ -1,0 +1,77 @@
+{
+  "minesweeper": {
+    "title": "Juega al Buscaminas Online Gratis | Descubre el Juego de Buscaminas",
+    "slogan": "",
+    "description": "¡Descubre Buscaminas! Pon a prueba tus habilidades lógicas y estratégicas en este clásico juego de rompecabezas. Buscaminas te desafía a despejar el tablero sin detonar ninguna mina. ¡Juega a Buscaminas online ahora gratis!",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Términos de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Buscaminas",
+      "description": "Aquí tienes una introducción detallada al Buscaminas:",
+      "iframeTitle": "Vista Previa del Juego",
+      "fullscreenButton": "Pantalla Completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar Juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Buscaminas",
+      "whatIsTitle": "¿Qué es Buscaminas?",
+      "whatIsDescription": "El juego Buscaminas se originó de un juego llamado \"Cubo\" en 1973. Posteriormente, a través de varias modificaciones, Tom Anderson desarrolló el prototipo de Buscaminas. En 1992, se incorporó al sistema Windows 3.1 y se convirtió en un software para entrenar la capacidad de operación del ratón de los usuarios.",
+      "howToPlayTitle": "Cómo Jugar",
+      "howToPlayStep1": "Objetivo del juego: El objetivo del juego es encontrar todas las minas en la matriz cuadrada dentro del tiempo especificado sin pisar ninguna mina. El jugador gana si se abren todas las casillas seguras y se marcan todas las minas, y pierde si se abre una casilla que contiene una mina.",
+      "howToPlayStep2": "Interfaz del juego: La interfaz del juego consiste en una matriz cuadrada. Las minas se distribuyen aleatoriamente en las casillas. Cada casilla puede contener una mina o estar vacía. El número que se muestra en la casilla segura abierta indica el número de minas en las casillas circundantes. Si es una casilla vacía (es decir, 0), las casillas circundantes se abrirán automáticamente.",
+      "howToPlayStep3": "Métodos de operación: Haga clic con el botón izquierdo en una casilla sin abrir para abrirla; haga clic con el botón derecho en una casilla sin abrir para marcarla o desmarcarla como mina; haga doble clic (botones izquierdo y derecho simultáneamente) en un número en una casilla abierta. Si el número de minas marcadas alrededor del número es igual al número en sí, todas las casillas restantes sin abrir alrededor del número se abrirán.",
+      "keyFeaturesTitle": "Características Clave",
+      "feature1Title": "Niveles de Dificultad",
+      "feature1Description": "Generalmente, hay varios niveles de dificultad. El nivel principiante suele ser un tablero de 8x8 o 9x9 con 10 minas, el nivel intermedio es un tablero de 16x16 con 40 minas, y el nivel experto es un tablero de 30x16 con 99 minas. También hay un modo personalizado donde los jugadores pueden configurar el tamaño del tablero y el número de minas según sus preferencias.",
+      "feature2Title": "Comenzar en el Centro",
+      "feature2Description": "Es recomendable empezar haciendo clic en una casilla en el centro del tablero. Esto se debe a que empezar desde la esquina puede llevar a una situación en la que haya menos casillas móviles en la fase inicial del juego, aumentando las probabilidades de quedar atascado.",
+      "feature3Title": "Buscar Patrones",
+      "feature3Description": "Hay algunos patrones comunes en el juego. Por ejemplo, en un patrón \"1 - 2 - 1\", las casillas entre los \"1\" son minas, y en un patrón \"1 - 2 - 2 - 1\", las minas están junto a los \"2\".",
+      "feature4Title": "Utilizar la Deducción Lógica",
+      "feature4Description": "Basándose en los números de las casillas abiertas, infiere las ubicaciones de las minas. Por ejemplo, si una casilla con el número \"1\" tiene solo una casilla adyacente sin abrir, entonces esa casilla debe ser una mina."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas Frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del Juego"
+    },
+    "GamePage": {
+      "title": "Todos los Juegos",
+      "description": "Todos los Juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver Más",
+      "page": "Página"
+    }
+  }
+}

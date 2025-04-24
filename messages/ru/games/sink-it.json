@@ -1,0 +1,77 @@
+{
+  "sink-it": {
+    "title": "Бесплатная онлайн-игра «Sink It» — пиратские морские сражения",
+    "slogan": "",
+    "description": "Sink It — это веселая игра-песочница, в которой вы, капитан пирата, топите корабли врагов! Рассчитывайте свои выстрелы, используйте волны и собирайте предметы. Играйте в Sink It бесплатно прямо сейчас!",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "Навигация"
+    },
+    "Common": {
+      "createAt": "Создано",
+      "guide": "Руководство",
+      "privacyPolicy": "Политика конфиденциальности",
+      "termsOfServices": "Условия предоставления услуг",
+      "text": "Содержание",
+      "help": "Помощь",
+      "friendlyLinks": "Полезные ссылки",
+      "articleList": "Список статей",
+      "home": "Главная",
+      "next": "Далее",
+      "previous": "Предыдущая"
+    },
+    "HomeIframe": {
+      "title": "Sink It",
+      "description": "Sink It — это непринужденная соревновательная игра с пиратской тематикой.",
+      "iframeTitle": "Предварительный просмотр игры",
+      "fullscreenButton": "Полноэкранный режим",
+      "shareButton": "Поделиться",
+      "urlCopied": "Ссылка скопирована в буфер обмена!",
+      "downloadGame": "Скачать игру",
+      "playGame": "Играть"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sink It",
+      "whatIsTitle": "Что такое Sink It?",
+      "whatIsDescription": "Sink It — это непринужденная соревновательная игра с пиратской тематикой.",
+      "howToPlayTitle": "Как играть в Sink It",
+      "howToPlayStep1": "Управляйте орудиями своего корабля.",
+      "howToPlayStep2": "Топите корабли противника.",
+      "howToPlayStep3": "Собирайте предметы, падающие с неба.",
+      "keyFeaturesTitle": "Ключевые особенности Sink It",
+      "feature1Title": "Режимы для одного и двух игроков",
+      "feature1Description": "Наслаждайтесь одиночной игрой или сразитесь с друзьями в режиме для двух игроков.",
+      "feature2Title": "Реалистичная физика",
+      "feature2Description": "Рассчитывайте углы и силу выстрелов, а также используйте волны себе на пользу.",
+      "feature3Title": "Сбор предметов",
+      "feature3Description": "Собирайте предметы, чтобы использовать специальные эффекты, такие как замораживание моря.",
+      "feature4Title": "Игровой процесс на нескольких платформах",
+      "feature4Description": "Играйте в Sink It в веб-браузерах, на устройствах Android и iOS."
+    },
+    "HomeFAQs": {
+      "title": "Вопросы и ответы"
+    },
+    "HomeRelatedVideo": {
+      "title": "Видео по игре"
+    },
+    "HomeRecommendation": {
+      "title": "Рекомендации"
+    },
+    "HomeComments": {
+      "title": "Комментарии к игре"
+    },
+    "GamePage": {
+      "title": "Все игры",
+      "description": "Все игры",
+      "games": "Игры"
+    },
+    "CategoryPage": {
+      "categories": "Категории",
+      "noCategories": "Категории не найдены",
+      "viewMore": "Показать больше",
+      "page": "Страница"
+    }
+  }
+}

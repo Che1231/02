@@ -1,0 +1,77 @@
+{
+  "sink-it": {
+    "title": "Jouer à Sink It en ligne gratuitement - Jeu de bataille de pirates",
+    "slogan": "",
+    "description": "Sink It est un jeu décontracté amusant où vous devenez un capitaine pirate et coulez les navires ennemis ! Calculez vos tirs, utilisez les vagues et récupérez des objets. Jouez à Sink It gratuitement dès maintenant !",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Sink It",
+      "description": "Sink It est un jeu de compétition décontracté à thème pirate.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sink It",
+      "whatIsTitle": "Qu'est-ce que Sink It ?",
+      "whatIsDescription": "Sink It est un jeu de compétition décontracté à thème pirate.",
+      "howToPlayTitle": "Comment jouer à Sink It",
+      "howToPlayStep1": "Contrôlez le canon de votre navire.",
+      "howToPlayStep2": "Coulez les navires ennemis.",
+      "howToPlayStep3": "Collectionnez les objets tombés du ciel.",
+      "keyFeaturesTitle": "Caractéristiques principales de Sink It",
+      "feature1Title": "Modes solo et à deux joueurs",
+      "feature1Description": "Profitez du mode solo ou affrontez des amis en mode à deux joueurs.",
+      "feature2Title": "Physique réaliste",
+      "feature2Description": "Calculez les angles et la puissance des tirs, et utilisez les vagues à votre avantage.",
+      "feature3Title": "Collection d'objets",
+      "feature3Description": "Collectionnez des objets pour utiliser des effets spéciaux, comme geler la mer.",
+      "feature4Title": "Jeu multiplateforme",
+      "feature4Description": "Jouez à Sink It sur les navigateurs web, les appareils Android et iOS."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "hop-chop": {
+    "title": "Ücretsiz Oynamak İçin Hop-Chop'u Oynayın! Zıplama ve Kaçınma Oyunu Eğlencesi",
+    "slogan": "Zıpla, Doğra ve Eğlen!",
+    "description": "Bir zıplama meydan okumasına hazır mısınız? Hop-Chop, yıldızlar toplamak ve puan kazanmak için zıplayıp kaçındığınız eğlenceli bir oyundur. Hop-Chop'ta hareketleri ustalaşın, kıyafetler ve silahlar açın ve yüksek puan için yolunuzu açın! Hop-Chop'u şimdi oynayın!",
+    "Loading": {
+      "title": "Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulduğu Zaman",
+      "guide": "Nasıl Oynanır",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Hop-Chop",
+      "description": "Hop Chop, SnoutUp Games'ten zıplama ve kaçınma oyunudur.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Hop-Chop",
+      "whatIsTitle": "Hop-Chop Nedir?",
+      "whatIsDescription": "Hop-Chop, bir domuz yavrusunu kontrol ettiğiniz bir zıplama ve kaçınma oyunudur.",
+      "howToPlayTitle": "Hop-Chop Nasıl Oynanır",
+      "howToPlayStep1": "Zıplamak için dokunun",
+      "howToPlayStep2": "Engellere kaçının",
+      "howToPlayStep3": "Yıldızları toplayın",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Sonsuz Eğlence",
+      "feature1Description": "Sonsuz bir şekilde oynayın ve yüksek puanınızı yenmeye çalışın.",
+      "feature2Title": "Açılabilen İçerik",
+      "feature2Description": "Çeşitli Snoutfit ve silahları açın.",
+      "feature3Title": "Basit Kontroller",
+      "feature3Description": "Öğrenmesi kolay, ustalaşması zor oyun.",
+      "feature4Title": "Zorlu Oyun",
+      "feature4Description": "Reaksiyon ve zamanlama becerilerinizi test edin."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

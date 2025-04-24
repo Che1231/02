@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Mayın Tarlası Temelleri: Mayın Tarlası oyununa nasıl başlarım ve ilk tıklama ne yapar?",
+    "answer": "Bir Mayın Tarlası oyununa başlamak basittir. Sadece ızgaradaki herhangi bir kareye tıklayın. İlk tıklama asla bir mayın olmayacaktır. Güvenli bir alan veya bitişik mayınları gösteren bir sayı ortaya çıkarır. İlk tıklama büyük bir alanı açığa çıkarırsa, yakında mayın olmadığı anlamına gelir. Amaç, herhangi bir mayını patlatmadan tüm güvenli kareleri ortaya çıkarmaktır. Örnek: Köşe bir tuğlaya tıklamak, potansiyel bitişik mayınları en aza indirdiği için genellikle iyi bir başlangıçtır."
+  },
+  {
+    "question": "Mayın Tarlası'ndaki Sayılar neyi temsil ediyor ve güvenli alanları nasıl belirlememe yardımcı olabiliyorlar?",
+    "answer": "Mayın Tarlası'ndaki sayılar, bitişik karelerdeki (yatay, dikey ve çapraz) mayın sayısını temsil eder. Bu sayıları kullanarak, mayınların nerede olduğunu ve bunları işaretleyebilir veya 'bayrak'layabilirsiniz. Örneğin, bir '1', sadece bir kapalı kareye bitişikse, bu kapalı kare bir mayın olmalıdır. Sayı ipuçlarını birleştirerek daha büyük güvenli alanları ortaya çıkarabilirsiniz. Şema aşağıda gösterilmektedir:\nSayı |Mayın Sayısı\n---|---\n1|Bir mayın\n2|İki mayın\n3|Üç mayın"
+  },
+  {
+    "question": "Mayın Tarlası Bayrakları: Neden Mayın Tarlası'nda bayrak kullanmak çok önemlidir ve bir olası mayını nasıl doğru şekilde işaretlerim?",
+    "answer": "Bayraklar, Mayın Tarlası'nda mayın içerdiğinizi düşündüğünüz kareleri işaretlemek için çok önemlidir, kazara tıklamaları ve patlamaları önler. Bir kareyi işaretlemek için, üzerine sağ tıklayın (veya mobil cihazda belirlenmiş bayrak düğmesini kullanın). Bir kez işaretlendikten sonra, bayrak kaldırılana kadar bir kareye yanlışlıkla tıklanamaz. Bayrakların verimli kullanımı ilerlemek için çok önemlidir. Örnek: Bir '1'in yanında bir bitişik kapalı kare varsa, hatalardan kaçınmak için hemen işaretleyin."
+  },
+  {
+    "question": "Stratejik Mayın Tarlası: Büyük tahta parçalarında tutarlı olarak temizlik için bazı gelişmiş Mayın Tarlası stratejileri nelerdir?",
+    "answer": "Daha büyük Mayın Tarlası tahtaları için bu stratejileri düşünün: ADIM 1: Sık görülen desenleri belirleyin. Genellikle mayınları ortaya çıkaran '1-2-1' veya '1-1' yapılarına bakın. ADIM 2: Gelişmiş çıkarım yapın. Örneğin, bir '2'nin yanında iki bitişik işaretlenmiş mayın varsa, diğer bütün bitişik kareler güvenlidir. ADIM 3: Periyodik olarak izole edilebilir çözülebilir kümeler için tahtayı tarayın. Bu stratejiler, tutarlı temizlik sağlar. Benzetme: Mayın Tarlası bir dedektif olayını çözmeye benzer, ipucu izleyerek şüpheliyi bulun."
+  },
+  {
+    "question": "Mayın Tarlası'nda Zincirleme: Bilinen mayınlar olan bölümleri hızlı bir şekilde temizlemek için 'akortlar' veya 'tıklamaları' nasıl kullanabilirim?",
+    "answer": "Akortlama veya doğru sayıda bitişik mayını işaretledikten sonra sayılı bir kareye tıklamak, tüm kalan bitişik olmayan mayınlı kareleri bir kerede temizler. Bu büyük bir zaman kazandırır. Akort yapmadan önce bayrakların doğru olduğundan emin olun. Örneğin, bir '3'ün etrafında üç bayrak varsa, bir akort tıklaması tüm diğer bitişik olmayan mayınlı kareleri hızlı bir şekilde ortaya çıkaracaktır. Şema karşılaştırması: Standart tıklama adım adım ilerlerken, akort tıklaması birden fazlasını bir kerede temizler."
+  },
+  {
+    "question": "Mayın Tarlası Olasılığı: Mayın Tarlası tahtasında sıkışıp kaldığımda güvenli bir şekilde tahminde bulunmak için olasılığı nasıl kullanabilirim?",
+    "answer": "Açık çıkarımlar yapılamadığında olasılığı kullanın. Çözülmemiş alanlarda mayın yoğunluğunu tahmin edin ve mayın olma olasılığı en düşük olan karelere tıklayın. Bu risklidir ancak bazen gereklidir. Örnek: Çevresinde birkaç sınır sayısı olan büyük bir çözülmemiş alanınız varsa, bu çözülmemiş alanın merkezi alanına tıklamak, mayın yoğunluğunun daha düşük olmasını sağlayabilir. Akış şeması aşağıda gösterilmektedir: \nBaşla -> Çıkarım -> Çözülemez mi? -> Olasılık Tahmini -> Güvenli Tıklama."
+  },
+  {
+    "question": "Mayın Tarlası Algoritması: Mayın Tarlası'nda mayın yerleştirmeyi belirleyen temel algoritma nedir?",
+    "answer": "Mayın Tarlası genellikle, ilk tıklamanın her zaman güvenli olmasını sağlamak için ilk tıklamadan sonra mayınları yerleştirmek için rastgele sayı üreteci kullanır. Algoritma, ayarlanan zorluk derecesine göre ızgarada mayınları eşit şekilde dağıtır. Bazı sürümler, çözülemeyen oyun durumlarını önlemek için mayın yerleşimini ayarlayabilir. Sayısal analiz, mayın dağılımlarının ayarlanan zorluk ayarlarıyla tutarlı olduğunu ortaya koymaktadır. Yapılandırmalar aşağıdaki gibi görülebilir: Kolay (10 mayın), Orta (40 mayın), Zor (99 mayın)."
+  },
+  {
+    "question": "Mayın Tarlası Çözücü: Mayın Tarlası çözücüleri nasıl çalışır ve oyunu yenmek için hangi algoritmaları kullanırlar?",
+    "answer": "Mayın Tarlası çözücüleri, güvenli kareleri belirlemek için mantık çıkarımı ve olasılık algoritmaları kullanır. İnsan stratejilerini simüle eder ve desenleri ve olasılıkları çok daha hızlı analiz eder. Yaygın algoritmalar arasında kısıtlama tatmini ve Monte Carlo yöntemleri bulunur. Daha gelişmiş çözücüler uzman seviyesinde oynayabilir. Oyun çözücü, problem çözme açısından uzman oyunculara benzer, ancak hız büyük ölçüde iyileştirilmiştir."
+  },
+  {
+    "question": "Mayın Tarlası Platformlar Arası: Farklı cihazlarda (örneğin mobil ve PC) Mayın Tarlası için platformlar arası ilerleme senkronizasyonu mevcut mu?",
+    "answer": "Mayın Tarlası için platformlar arası ilerleme senkronizasyonunun kullanılıp kullanılmadığı, kullanılan belirli sürüme veya uygulamaya bağlıdır. Özellikle bulut hizmeti entegrasyonu olan modern sürümler, hesabınıza giriş yaparsanız ilerlemenizi cihazlar arasında (mobil ve PC) senkronize etmenize olanak tanır. Bununla birlikte, birçok bağımsız veya eski sürüm bu işlevi sunmaz. Uygulamanın ayarlarını veya belgelerini kontrol edin, hesap ayarları aracılığıyla senkronizasyon seçeneği olmalıdır. Benzetme: Platformlar arası ilerleme senkronizasyonu, ilerleme verilerinizin bulutta depolandığı ve daha sonra alınabileceği \"bulut kaydetme\" gibidir."
+  },
+  {
+    "question": "Mayın Tarlası Paskalya Yumurtaları: Gizli temalar veya özelleştirilebilir seçenekler var mı ve Mayın Tarlası'nda \"Gece Modu\" nasıl etkinleştirebilirim?",
+    "answer": "Birçok Mayın Tarlası sürümü özelleştirme sunar, bunların arasında temalar ve renk şemaları da bulunur. Görünümü değiştirmek için ayarlar menüsündeki seçenekleri kontrol edin. Bazı sürümlerin, belirli tuş kombinasyonları veya tıklamalar yoluyla etkinleştirilen Paskalya yumurtaları olabilir. \"Gece Modu\" mevcutsa, karanlık ortamlarda göz yorgunluğunu azaltmak için daha koyu renkler kullanır. Ayarlar altında tema yapılandırmasını arayın. Bazen gizli bir tema bulabilirsiniz."
+  }
+]

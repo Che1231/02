@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Dasar-dasar Minesweeper: Bagaimana cara memulai permainan Minesweeper, dan apa yang dilakukan klik awal?",
+    "answer": "Memulai permainan Minesweeper sangat mudah. Cukup klik kotak apa pun di grid. Klik pertama tidak akan pernah berupa ranjau. Ini akan membuka area aman atau angka yang menunjukkan ranjau di sekitarnya. Jika klik pertama membuka area yang luas, itu berarti tidak ada ranjau di dekatnya. Tujuannya adalah untuk membuka semua kotak aman tanpa meledakkan ranjau apa pun. Contoh: Mengklik ubin sudut seringkali merupakan awal yang baik karena meminimalkan potensi ranjau yang berdekatan."
+  },
+  {
+    "question": "Apa yang diwakili angka-angka dalam Minesweeper, dan bagaimana angka-angka tersebut dapat membantu saya mengidentifikasi zona aman?",
+    "answer": "Angka-angka dalam Minesweeper mewakili penghitungan ranjau di kotak-kotak yang berdekatan (secara horizontal, vertikal, dan diagonal). Dengan menggunakan angka-angka ini, Anda dapat menyimpulkan di mana letak ranjau dan menandai mereka. Misalnya, jika '1' berada di samping satu kotak tertutup, kotak tertutup itu pasti merupakan ranjau. Gabungkan petunjuk angka untuk membuka area aman yang lebih besar. Tabel konfigurasi ditunjukkan di bawah ini:\nAngka |Jumlah Ranjau\n---|---\n1|Satu ranjau\n2|Dua ranjau\n3|Tiga ranjau"
+  },
+  {
+    "question": "Bendera Minesweeper: Mengapa penggunaan bendera dalam Minesweeper sangat penting, dan bagaimana cara menandai ranjau potensial dengan benar?",
+    "answer": "Bendera sangat penting dalam Minesweeper untuk menandai kotak yang menurut Anda berisi ranjau, mencegah klik dan ledakan yang tidak disengaja. Untuk menandai kotak, klik kanan padanya (atau gunakan tombol bendera yang ditentukan pada ponsel). Setelah ditandai, kotak tidak dapat diklik secara tidak sengaja sampai bendera dihapus. Penggunaan bendera yang efisien adalah kunci kemajuan. Contoh: Jika Anda melihat '1' dengan satu kotak penutup di sebelahnya, tandai segera agar terhindar dari kesalahan."
+  },
+  {
+    "question": "Strategi Minesweeper: Apa saja strategi Minesweeper tingkat lanjut untuk membersihkan papan yang lebih besar secara konsisten?",
+    "answer": "Untuk papan Minesweeper yang lebih besar, pertimbangkan strategi berikut: LANGKAH 1: Identifikasi pola umum. Cari konfigurasi '1-2-1' atau '1-1', yang seringkali mengungkapkan ranjau. LANGKAH 2: Gunakan deduksi tingkat lanjut. Misalnya, jika '2' memiliki dua ranjau berbendera berdekatan, semua kotak yang berdekatan lainnya aman. LANGKAH 3: Periksa secara berkala papan untuk kluster terisolasi yang dapat dipecahkan. Strategi ini membantu memastikan pembersihan yang konsisten. Perumpamaan: Minesweeper mirip dengan memecahkan kasus detektif, ikuti petunjuk untuk menemukan pelakunya."
+  },
+  {
+    "question": "Rangkaian dalam Minesweeper: Bagaimana saya dapat menggunakan \"akord\" atau \"klik\" untuk dengan cepat membersihkan bagian dengan ranjau yang diketahui?",
+    "answer": "Akord, atau mengklik kotak bernomor setelah menandai jumlah ranjau yang tepat di sekitarnya, membersihkan semua kotak yang berdekatan lainnya sekaligus. Ini sangat menghemat waktu. Pastikan bendera akurat sebelum melakukan akord. Misalnya, jika '3' memiliki tiga bendera yang mengelilinginya, klik akord akan segera mengungkapkan semua kotak yang berdekatan yang bukan ranjau. Perbandingan skema: Klik standar langkah demi langkah, Klik Akord membersihkan beberapa kotak sekaligus."
+  },
+  {
+    "question": "Probabilitas Minesweeper: Bagaimana saya dapat menggunakan probabilitas untuk menebak dengan aman saat saya terjebak di papan Minesweeper?",
+    "answer": "Ketika tidak ada deduksi yang jelas, gunakan probabilitas. Perkirakan kepadatan ranjau di area yang belum terpecahkan dan klik kotak dengan kemungkinan terkecil untuk menjadi ranjau. Ini berisiko, tetapi terkadang diperlukan. Contoh: Jika Anda memiliki area yang luas yang belum terpecahkan dengan beberapa angka perbatasan, mengklik area tengah dari area yang belum terpecahkan mungkin memiliki kepadatan ranjau yang lebih rendah. Diagram alir ditunjukkan di bawah ini:\nMulai -> Deduksi -> Tidak dapat dipecahkan? -> Perkiraan Probabilitas -> Klik Aman."
+  },
+  {
+    "question": "Algoritma Minesweeper: Apa algoritma yang mendasarinya yang menentukan penempatan ranjau dalam Minesweeper?",
+    "answer": "Minesweeper biasanya menggunakan generator angka acak untuk menempatkan ranjau setelah klik pertama untuk memastikan klik pertama selalu aman. Algoritma mendistribusikan ranjau secara merata di grid berdasarkan kesulitan yang ditetapkan. Beberapa versi mungkin menyesuaikan penempatan ranjau untuk mencegah keadaan papan yang tidak dapat dipecahkan. Analisis numerik menunjukkan distribusi ranjau konsisten dengan pengaturan kesulitan yang ditetapkan. Konfigurasi dapat dilihat: Mudah (10 ranjau), Sedang (40 ranjau), Sulit (99 ranjau)."
+  },
+  {
+    "question": "Pembuat Solusi Minesweeper: Bagaimana cara kerja pembuat solusi Minesweeper, dan algoritma apa yang mereka gunakan untuk mengalahkan permainan?",
+    "answer": "Pembuat solusi Minesweeper menggunakan deduksi logika dan algoritma probabilistik untuk menentukan kotak aman. Mereka mensimulasikan strategi manusia dan menganalisis pola serta probabilitas jauh lebih cepat. Algoritma umum meliputi pemenuhan kendala dan metode Monte Carlo. Pembuat solusi yang lebih canggih dapat bermain pada tingkat ahli. Pembuat solusi permainan mirip dengan pemain ahli dalam hal pemecahan masalah, meskipun kecepatannya jauh lebih ditingkatkan."
+  },
+  {
+    "question": "Minesweeper Antar-Platform: Apakah ada sinkronisasi kemajuan antar-platform yang tersedia untuk Minesweeper di perangkat yang berbeda (misalnya, ponsel dan PC)?",
+    "answer": "Ketersediaan sinkronisasi kemajuan antar-platform untuk Minesweeper tergantung pada versi atau aplikasi spesifik yang digunakan. Beberapa versi, terutama versi modern dengan integrasi layanan cloud, memungkinkan Anda menyinkronkan kemajuan Anda di berbagai perangkat (ponsel & PC) jika Anda masuk ke akun Anda. Namun, banyak versi mandiri atau versi lama tidak menawarkan fungsionalitas ini. Periksa pengaturan atau dokumentasi aplikasi, harus ada opsi untuk sinkronisasi melalui pengaturan akun. Perumpamaan: Sinkronisasi kemajuan Antar-Platform seperti 'penghematan awan' di mana data kemajuan Anda disimpan di awan dan dapat diambil di lain waktu."
+  },
+  {
+    "question": "Telur Paskah Minesweeper: Apakah ada tema tersembunyi atau opsi yang dapat disesuaikan, dan bagaimana cara mengaktifkan 'Mode Malam' di Minesweeper?",
+    "answer": "Banyak versi Minesweeper menawarkan penyesuaian, termasuk tema dan skema warna. Periksa menu pengaturan untuk opsi mengubah tampilan. Beberapa versi mungkin memiliki telur Paskah yang diaktifkan dengan kombinasi atau klik tombol tertentu. 'Mode Malam', jika tersedia, mengurangi kelelahan mata di lingkungan gelap dengan menggunakan warna yang lebih gelap. Cari konfigurasi tema di bawah pengaturan. Anda mungkin dapat menemukan beberapa tema tersembunyi."
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "sink-it": {
+    "title": "無料オンライン版沈める！ - 海賊バトルゲーム",
+    "slogan": "",
+    "description": "沈める！は、海賊船長となり敵艦を沈める、楽しいカジュアルゲームです！ 射撃を計算し、波を使い、アイテムを集めましょう。今すぐ沈める！を無料でお楽しみください！",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "沈める！",
+      "description": "沈める！は、海賊をテーマにしたカジュアルな対戦ゲームです。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "沈める！",
+      "whatIsTitle": "沈める！とは？",
+      "whatIsDescription": "沈める！は、海賊をテーマにしたカジュアルな対戦ゲームです。",
+      "howToPlayTitle": "沈める！の遊び方",
+      "howToPlayStep1": "自分の船の砲台を操作します。",
+      "howToPlayStep2": "敵の船を沈めます。",
+      "howToPlayStep3": "空から落とされるアイテムを集めます。",
+      "keyFeaturesTitle": "沈める！の主な特徴",
+      "feature1Title": "シングルプレイヤーと2人プレイモード",
+      "feature1Description": "シングルプレイヤーモードをお楽しみいただくか、友達と2人プレイモードで戦えます。",
+      "feature2Title": "リアルな物理エンジン",
+      "feature2Description": "射撃角度と威力、波を利用して有利に戦いましょう。",
+      "feature3Title": "アイテム収集",
+      "feature3Description": "特殊効果を持つアイテムを集めて、海を凍らせるなど様々な効果を活用します。",
+      "feature4Title": "クロスプラットフォーム対応",
+      "feature4Description": "ウェブブラウザ、Android、iOSデバイスで沈める！をお楽しみいただけます。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

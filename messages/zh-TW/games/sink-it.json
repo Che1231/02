@@ -1,0 +1,77 @@
+{
+  "sink-it": {
+    "title": "免費線上玩沉沒遊戲 - 海盜戰鬥遊戲",
+    "slogan": "",
+    "description": "沉沒遊戲是一款有趣的休閒遊戲，讓您化身海盜船長，擊沉敵艦！計算您的射擊，利用波浪，並收集物品。現在免費玩沉沒遊戲！",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "沉沒遊戲",
+      "description": "沉沒遊戲是一款以海盜為主題的休閒競爭遊戲。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "遊玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "沉沒遊戲",
+      "whatIsTitle": "什麼是沉沒遊戲？",
+      "whatIsDescription": "沉沒遊戲是一款以海盜為主題的休閒競爭遊戲。",
+      "howToPlayTitle": "如何玩沉沒遊戲",
+      "howToPlayStep1": "控制你的船隻炮塔。",
+      "howToPlayStep2": "擊沉敵艦。",
+      "howToPlayStep3": "收集從天空中掉落的物品。",
+      "keyFeaturesTitle": "沉沒遊戲的主要特色",
+      "feature1Title": "單人和雙人模式",
+      "feature1Description": "享受單人模式或與朋友在雙人模式中戰鬥。",
+      "feature2Title": "逼真的物理引擎",
+      "feature2Description": "計算射擊角度和力量，並利用波浪來優勢。",
+      "feature3Title": "物品收集",
+      "feature3Description": "收集物品以使用特殊效果，例如凍結海洋。",
+      "feature4Title": "跨平台遊玩",
+      "feature4Description": "在網頁瀏覽器、Android 和 iOS 裝置上遊玩沉沒遊戲。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

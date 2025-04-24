@@ -1,0 +1,77 @@
+{
+  "parkour-race": {
+    "title": "Course de Parkour : Jeu d'arcade Parkour en ligne gratuit - Jouez maintenant !",
+    "slogan": "Courez, sautez, course ! Vivez le frisson de la course de parkour !",
+    "description": "Préparez-vous pour Parkour Race, le jeu occasionnel ultime d'arcade de Madbox ! Maîtrisez les compétences de parkour, naviguez dans des parcours difficiles et devancez vos adversaires. Jouez à Parkour Race dès maintenant et ressentez le frisson de l'adrénaline ! Disponible en ligne gratuitement.",
+    "Loading": {
+      "title": "Chargement…"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Course de Parkour",
+      "description": "Parkour Race : Découvrez le jeu ultime de parkour !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer au jeu"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Course de Parkour",
+      "whatIsTitle": "Qu'est-ce que Parkour Race ?",
+      "whatIsDescription": "Parkour Race est un jeu mobile d'arcade décontracté de parkour lancé par Madbox.",
+      "howToPlayTitle": "Comment jouer à Parkour Race",
+      "howToPlayStep1": "Contrôlez votre personnage pour courir entre les bâtiments.",
+      "howToPlayStep2": "Balayez vers la gauche ou la droite pour vous déplacer, en effectuant des sauts opportuns sur les zones de poussée.",
+      "howToPlayStep3": "Évitez les obstacles et devancez les adversaires pour atteindre la ligne d'arrivée en premier dans Parkour Race.",
+      "keyFeaturesTitle": "Caractéristiques principales de Parkour Race",
+      "feature1Title": "Scénarios de jeu 3D complets",
+      "feature1Description": "Profitez d'environnements 3D immersifs avec un style de personnage minimaliste, des visuels réalistes et des animations fluides dans Parkour Race.",
+      "feature2Title": "Plusieurs modes de jeu",
+      "feature2Description": "Participez à des compétitions quotidiennes, à des aventures basées sur les niveaux, à des défis de course et à des éléments de puzzle dans Parkour Race.",
+      "feature3Title": "Options de personnalisation complètes",
+      "feature3Description": "Personnalisez votre personnage avec une variété de skins, d'effets d'action, de graffitis et d'accessoires dans Parkour Race.",
+      "feature4Title": "Contrôles simples, mouvements sympas",
+      "feature4Description": "Découvrez des contrôles faciles à apprendre qui maintiennent l'excitation du parkour, adaptés aux joueurs de tous âges dans Parkour Race."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

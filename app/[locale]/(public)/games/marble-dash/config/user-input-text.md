@@ -1,0 +1,1 @@
+Marble Dash is a marble Zuma bubble shooter game. Travel across the ancient Egyptian World. It's different from Zuma: Marble shooter because of different features. But your goal is to clear all the marbles before they reach the end of the path. Achieve Marbles and Combos as many as possible to get the highest score.

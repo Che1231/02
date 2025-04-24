@@ -1,0 +1,77 @@
+{
+  "minesweeper": {
+    "title": "Chơi Minesweeper Trực Tuyến Miễn Phí | Khám Phá Trò Chơi Minesweeper",
+    "slogan": "",
+    "description": "Khám phá Minesweeper! Kiểm tra kỹ năng logic và chiến thuật của bạn trong trò chơi giải đố cổ điển này. Minesweeper thách thức bạn dọn sạch bảng mà không kích nổ bất kỳ quả mìn nào. Hãy chơi Minesweeper trực tuyến ngay bây giờ hoàn toàn miễn phí!",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước"
+    },
+    "HomeIframe": {
+      "title": "Minesweeper",
+      "description": "Đây là một bài giới thiệu chi tiết về trò chơi Minesweeper:",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào clipboard!",
+      "downloadGame": "Tải xuống trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Minesweeper",
+      "whatIsTitle": "Minesweeper là gì?",
+      "whatIsDescription": "Trò chơi Minesweeper bắt nguồn từ một trò chơi gọi là \"Cube\" vào năm 1973. Sau đó, thông qua một số chỉnh sửa, Tom Anderson đã phát triển nguyên mẫu của Minesweeper. Năm 1992, nó được tích hợp vào hệ thống Windows 3.1 và trở thành phần mềm để huấn luyện khả năng thao tác chuột của người dùng.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Mục tiêu trò chơi: Mục tiêu của trò chơi là tìm tất cả các quả mìn trong ma trận vuông trong thời gian quy định mà không bước vào bất kỳ quả mìn nào. Người chơi thắng nếu tất cả các ô an toàn được mở và tất cả các quả mìn được đánh dấu, và thua nếu một ô chứa mìn được mở.",
+      "howToPlayStep2": "Giao diện trò chơi: Giao diện trò chơi bao gồm một ma trận hình vuông. Quả mìn được phân bố ngẫu nhiên trong các ô vuông. Mỗi ô vuông có thể chứa một quả mìn hoặc trống. Số hiển thị trên ô an toàn được mở cho biết số quả mìn ở các ô xung quanh. Nếu đó là một ô trống (tức là 0), các ô xung quanh sẽ tự động được mở.",
+      "howToPlayStep3": "Phương pháp hoạt động: Nhấp chuột trái vào một ô chưa mở để mở nó; nhấp chuột phải vào một ô chưa mở để đánh dấu hoặc bỏ đánh dấu nó là một quả mìn; nhấp đúp chuột (hai nút trái và phải cùng lúc) vào một số trên một ô mở. Nếu số quả mìn được đánh dấu xung quanh số đó bằng chính số đó, tất cả các ô chưa mở còn lại xung quanh số đó sẽ được mở.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Các cấp độ khó",
+      "feature1Description": "Thông thường, có nhiều cấp độ khó khác nhau. Mức độ người mới bắt đầu thường là bảng 8x8 hoặc 9x9 với 10 quả mìn, mức độ trung bình là bảng 16x16 với 40 quả mìn và mức độ chuyên gia là bảng 30x16 với 99 quả mìn. Ngoài ra còn có chế độ tùy chỉnh mà người chơi có thể thiết lập kích thước bảng và số lượng quả mìn theo sở thích của họ.",
+      "feature2Title": "Bắt đầu từ tâm",
+      "feature2Description": "Tốt nhất nên bắt đầu bằng cách nhấp vào một ô ở giữa bảng. Điều này là bởi vì bắt đầu từ góc có thể dẫn đến tình huống có ít ô có thể di chuyển hơn trong giai đoạn đầu của trò chơi, làm cho việc bị mắc kẹt có nhiều khả năng hơn.",
+      "feature3Title": "Tìm kiếm mô hình",
+      "feature3Description": "Có một số mô hình phổ biến trong trò chơi. Ví dụ, trong mô hình \"1-2-1\", các ô giữa các \"1\" là mìn, và trong mô hình \"1-2-2-1\", các quả mìn nằm cạnh các \"2\".",
+      "feature4Title": "Sử dụng suy luận logic",
+      "feature4Description": "Dựa trên các số trên các ô được mở, suy ra vị trí của các quả mìn. Ví dụ, nếu một ô có số \"1\" chỉ có một ô chưa mở liền kề, thì ô đó chắc chắn là quả mìn."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả trò chơi",
+      "description": "Tất cả trò chơi",
+      "games": "Trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

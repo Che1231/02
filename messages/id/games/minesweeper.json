@@ -1,0 +1,77 @@
+{
+  "minesweeper": {
+    "title": "Mainkan Minesweeper Online Gratis | Temukan Permainan Minesweeper",
+    "slogan": "",
+    "description": "Temukan Minesweeper! Uji kemampuan logika dan strategi Anda dalam permainan teka-teki klasik ini. Minesweeper menantang Anda untuk membersihkan papan tanpa meledakkan ranjau. Mainkan Minesweeper online sekarang secara gratis!",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Buat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Minesweeper",
+      "description": "Berikut pengantar rinci tentang Minesweeper:",
+      "iframeTitle": "Pratinjau Permainan",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Permainan",
+      "playGame": "Mainkan Permainan"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Minesweeper",
+      "whatIsTitle": "Apa itu Minesweeper?",
+      "whatIsDescription": "Permainan Minesweeper berasal dari permainan yang disebut \"Kotak\" pada tahun 1973. Kemudian, melalui beberapa modifikasi, Tom Anderson mengembangkan prototipe Minesweeper. Pada tahun 1992, permainan ini diintegrasikan ke dalam sistem Windows 3.1 dan menjadi perangkat lunak untuk melatih kemampuan pengoperasian mouse pengguna.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Tujuan Permainan: Tujuan permainan adalah menemukan semua ranjau di matriks persegi dalam waktu yang ditentukan tanpa menginjak ranjau apa pun. Pemain menang jika semua kotak aman dibuka dan semua ranjau ditandai, dan kalah jika kotak yang berisi ranjau dibuka.",
+      "howToPlayStep2": "Antarmuka Permainan: Antarmuka permainan terdiri dari matriks persegi. Ranjau didistribusikan secara acak di kotak-kotak. Setiap kotak mungkin berisi ranjau atau kosong. Angka yang ditampilkan pada kotak aman yang dibuka menunjukkan jumlah ranjau di kotak-kotak di sekitarnya. Jika ini adalah kotak kosong (yaitu, 0), kotak-kotak di sekitarnya akan secara otomatis dibuka.",
+      "howToPlayStep3": "Metode Operasi: Klik kiri pada kotak yang belum dibuka untuk membukanya; klik kanan pada kotak yang belum dibuka untuk menandai atau membatalkan tandanya sebagai ranjau; klik ganda (tombol kiri dan kanan secara bersamaan) pada angka pada kotak yang telah dibuka. Jika jumlah ranjau yang ditandai di sekitar angka itu sama dengan angka itu sendiri, semua kotak yang belum dibuka di sekitar angka itu akan dibuka.",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Tingkat Kesulitan",
+      "feature1Description": "Biasanya, terdapat beberapa tingkat kesulitan. Tingkat pemula umumnya adalah papan 8x8 atau 9x9 dengan 10 ranjau, tingkat menengah adalah papan 16x16 dengan 40 ranjau, dan tingkat ahli adalah papan 30x16 dengan 99 ranjau. Ada juga mode kustom di mana pemain dapat mengatur ukuran papan dan jumlah ranjau sesuai preferensi mereka.",
+      "feature2Title": "Memulai di Tengah",
+      "feature2Description": "Disarankan untuk memulai dengan mengklik kotak di tengah papan. Hal ini karena memulai dari sudut dapat menyebabkan situasi di mana ada lebih sedikit kotak yang dapat dipindahkan pada tahap awal permainan, sehingga lebih mungkin untuk terjebak.",
+      "feature3Title": "Mencari Pola",
+      "feature3Description": "Ada beberapa pola umum dalam permainan. Misalnya, dalam pola \"1-2-1\", kotak-kotak di antara \"1\" adalah ranjau, dan dalam pola \"1-2-2-1\", ranjau berada di sebelah \"2\".",
+      "feature4Title": "Menggunakan Deduksi Logika",
+      "feature4Description": "Berdasarkan angka-angka pada kotak yang dibuka, menyimpulkan lokasi ranjau. Misalnya, jika kotak dengan angka \"1\" hanya memiliki satu kotak yang berdekatan yang belum dibuka, maka kotak itu pasti merupakan ranjau."
+    },
+    "HomeFAQs": {
+      "title": "Pertanyaan Umum"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Permainan"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Permainan",
+      "description": "Semua Permainan",
+      "games": "Permainan"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Lebih Banyak",
+      "page": "Halaman"
+    }
+  }
+}

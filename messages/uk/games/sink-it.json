@@ -1,0 +1,77 @@
+{
+  "sink-it": {
+    "title": "Безкоштовна онлайн-гра Sink It – гра про битви піратів",
+    "slogan": "",
+    "description": "Sink It – це весела казуальна гра, у якій ви станете капітаном піратського корабля та потопите кораблі ворогів! Розрахуйте постріли, використовуйте хвилі та збирайте предмети. Грай у Sink It безкоштовно зараз!",
+    "Loading": {
+      "title": ""
+    },
+    "Navbar": {
+      "title": "Навігація"
+    },
+    "Common": {
+      "createAt": "Створено",
+      "guide": "Посібник",
+      "privacyPolicy": "Політика конфіденційності",
+      "termsOfServices": "Умови надання послуг",
+      "text": "Вміст",
+      "help": "Довідка",
+      "friendlyLinks": "Корисні посилання",
+      "articleList": "Список статей",
+      "home": "Головна",
+      "next": "Далі",
+      "previous": "Попередній"
+    },
+    "HomeIframe": {
+      "title": "Sink It",
+      "description": "Sink It – це казуальна конкурентна гра з темою піратів.",
+      "iframeTitle": "Перегляд гри",
+      "fullscreenButton": "Повноекранний режим",
+      "shareButton": "Поділитися",
+      "urlCopied": "Посилання скопійовано в буфер обміну!",
+      "downloadGame": "Завантажити гру",
+      "playGame": "Грати"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sink It",
+      "whatIsTitle": "Що таке Sink It?",
+      "whatIsDescription": "Sink It – це казуальна конкурентна гра з піратською тематикою.",
+      "howToPlayTitle": "Як грати в Sink It",
+      "howToPlayStep1": "Керуйте гарматою свого корабля.",
+      "howToPlayStep2": "Потоплюйте кораблі ворогів.",
+      "howToPlayStep3": "Збирайте предмети, що падають з неба.",
+      "keyFeaturesTitle": "Основні характеристики Sink It",
+      "feature1Title": "Режими для однієї та двох гравців",
+      "feature1Description": "Насолоджуйтесь режимом для одного гравця або позмагайтеся з друзями в двомісному режимі.",
+      "feature2Title": "Реалістична фізика",
+      "feature2Description": "Виконуйте розрахунки кутів і сили пострілу, використовуючи хвилі для своєї переваги.",
+      "feature3Title": "Збір предметів",
+      "feature3Description": "Збирайте предмети, щоб використовувати спеціальні ефекти, такі як заморожування моря.",
+      "feature4Title": "Кросплатформна гра",
+      "feature4Description": "Грайте в Sink It на веб-браузерах, пристроях Android та iOS."
+    },
+    "HomeFAQs": {
+      "title": "Часті запитання"
+    },
+    "HomeRelatedVideo": {
+      "title": "Відео ігри"
+    },
+    "HomeRecommendation": {
+      "title": "Рекомендації"
+    },
+    "HomeComments": {
+      "title": "Коментарі до гри"
+    },
+    "GamePage": {
+      "title": "Всі ігри",
+      "description": "Всі ігри",
+      "games": "Ігри"
+    },
+    "CategoryPage": {
+      "categories": "Категорії",
+      "noCategories": "Категорії не знайдено",
+      "viewMore": "Детальніше",
+      "page": "Сторінка"
+    }
+  }
+}

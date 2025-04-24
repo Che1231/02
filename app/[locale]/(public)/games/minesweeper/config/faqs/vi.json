@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Cơ bản của Minesweeper: Làm thế nào để bắt đầu một trò chơi Minesweeper và thao tác nhấp chuột đầu tiên làm gì?",
+    "answer": "Bắt đầu một trò chơi Minesweeper rất đơn giản. Chỉ cần nhấp chuột vào bất kỳ ô nào trên lưới. Nhấp chuột đầu tiên chắc chắn sẽ không phải là mìn. Nó sẽ tiết lộ một khu vực an toàn hoặc một số chỉ định các mìn lân cận. Nếu nhấp chuột đầu tiên tiết lộ một khu vực rộng lớn, có nghĩa là không có mìn xung quanh. Mục tiêu là mở tất cả các ô an toàn mà không kích nổ bất kỳ quả mìn nào. Ví dụ: Nhấp vào một ô ở góc thường là một khởi đầu tốt vì nó giảm thiểu các mìn lân cận tiềm tàng."
+  },
+  {
+    "question": "Các số trong Minesweeper đại diện cho điều gì và làm thế nào chúng có thể giúp tôi xác định các khu vực an toàn?",
+    "answer": "Các số trong Minesweeper đại diện cho số lượng mìn trong các ô lân cận (nằm ngang, dọc và chéo). Sử dụng các số này, bạn có thể suy luận vị trí đặt mìn và đánh dấu chúng. Ví dụ, nếu một số '1' nằm cạnh chỉ một ô chưa được mở, thì ô chưa được mở đó chắc chắn là một quả mìn. Kết hợp các manh mối số để tiết lộ các khu vực an toàn lớn hơn. Bảng cấu hình được hiển thị như sau: \nSố |Số lượng mìn\n---|---\n1|Một quả mìn\n2|Hai quả mìn\n3|Ba quả mìn"
+  },
+  {
+    "question": "Cờ trong Minesweeper: Tại sao việc sử dụng cờ trong Minesweeper rất quan trọng và làm thế nào để tôi đánh dấu một quả mìn tiềm tàng đúng cách?",
+    "answer": "Cờ là điều cần thiết trong Minesweeper để đánh dấu các ô mà bạn cho là chứa mìn, ngăn ngừa việc nhấp chuột vô tình và kích nổ mìn. Để đánh dấu một ô, hãy nhấp chuột phải vào nó (hoặc sử dụng nút cờ được chỉ định trên thiết bị di động). Sau khi được đánh dấu, một ô không thể được nhấp chuột vô tình cho đến khi cờ được gỡ bỏ. Sử dụng cờ hiệu quả là chìa khóa để tiến lên. Ví dụ: nếu bạn thấy một số '1' với một ô chưa được mở lân cận, hãy ngay lập tức đánh dấu nó để tránh sai lầm."
+  },
+  {
+    "question": "Chiến lược Minesweeper: Những chiến lược nâng cao nào cho Minesweeper để dọn sạch các bảng lớn một cách nhất quán?",
+    "answer": "Đối với bảng Minesweeper lớn hơn, hãy cân nhắc các chiến lược này: BƯỚC 1: Xác định các mẫu phổ biến. Tìm các cấu hình '1-2-1' hoặc '1-1', những cấu hình này thường tiết lộ mìn. BƯỚC 2: Sử dụng suy luận nâng cao. Ví dụ, nếu một số '2' có hai mìn được đánh dấu lân cận, tất cả các ô lân cận khác đều an toàn. BƯỚC 3: Định kỳ quét bảng để tìm các cụm cô lập có thể giải quyết được. Các chiến lược này giúp đảm bảo việc dọn sạch liên tục. Ví dụ minh họa:  Minesweeper giống như giải quyết một vụ án hình sự, theo manh mối để tìm đối tượng nghi vấn."
+  },
+  {
+    "question": "Chuỗi trong Minesweeper: Làm thế nào tôi có thể sử dụng 'chuỗi' hoặc 'nhấp chuột' để nhanh chóng dọn sạch các phần có mìn đã biết?",
+    "answer": "Chuỗi, hoặc nhấp chuột vào một ô có số đã biết sau khi đánh dấu chính xác số mìn lân cận, sẽ dọn sạch tất cả các ô lân cận còn lại cùng một lúc. Đây là cách tiết kiệm thời gian rất lớn. Hãy đảm bảo các cờ được chính xác trước khi chuỗi nhấp chuột. Ví dụ, nếu một số '3' có ba cờ xung quanh, một nhấp chuột chuỗi sẽ nhanh chóng tiết lộ tất cả các ô lân cận khác không phải mìn. So sánh phương pháp: Nhấp chuột tiêu chuẩn là từng bước một, nhấp chuột chuỗi dọn sạch nhiều ô cùng một lúc."
+  },
+  {
+    "question": "Xác suất Minesweeper: Làm thế nào tôi có thể sử dụng xác suất để đoán an toàn khi tôi bị mắc kẹt trong một bảng Minesweeper?",
+    "answer": "Khi không thể đưa ra suy luận rõ ràng, hãy sử dụng xác suất. Ước tính mật độ mìn trong các khu vực chưa được giải quyết và nhấp chuột vào các ô có khả năng là mìn thấp nhất. Điều này có rủi ro nhưng đôi khi cần thiết. Ví dụ: nếu bạn có một khu vực chưa được giải quyết lớn với một vài số ở biên, việc nhấp chuột vào khu vực trung tâm của khu vực chưa được giải quyết đó có thể có mật độ mìn thấp hơn. Sơ đồ luồng được hiển thị như sau: \nBắt đầu -> Suy luận -> Không thể giải quyết được? -> Ước tính xác suất -> Nhấp chuột an toàn."
+  },
+  {
+    "question": "Thuật toán Minesweeper: Thuật toán cơ bản nào xác định vị trí đặt mìn trong Minesweeper?",
+    "answer": "Minesweeper thường sử dụng máy phát số ngẫu nhiên để đặt mìn sau nhấp chuột đầu tiên để đảm bảo nhấp chuột đầu tiên luôn luôn an toàn. Thuật toán phân phối mìn đều trên lưới dựa trên độ khó đã đặt. Một số phiên bản có thể điều chỉnh vị trí đặt mìn để ngăn các trạng thái bảng không thể giải quyết được. Phân tích số học cho thấy phân phối mìn phù hợp với cài đặt độ khó đã đặt. Cấu hình có thể được xem: Dễ (10 mìn), Trung bình (40 mìn), Khó (99 mìn)."
+  },
+  {
+    "question": "Bộ giải Minesweeper: Bộ giải Minesweeper hoạt động như thế nào và chúng sử dụng những thuật toán nào để chiến thắng trò chơi?",
+    "answer": "Bộ giải Minesweeper sử dụng suy luận logic và thuật toán xác suất để xác định các ô an toàn. Chúng mô phỏng các chiến lược của con người và phân tích các mẫu và xác suất nhanh hơn nhiều. Các thuật toán phổ biến bao gồm thỏa mãn ràng buộc và phương pháp Monte Carlo. Bộ giải nâng cao hơn có thể chơi ở cấp độ chuyên gia. Bộ giải trò chơi tương tự như người chơi chuyên nghiệp về khả năng giải quyết vấn đề, mặc dù tốc độ được cải thiện đáng kể."
+  },
+  {
+    "question": "Minesweeper Chéo nền tảng: Có đồng bộ hóa tiến trình chéo nền tảng nào có sẵn cho Minesweeper trên các thiết bị khác nhau (ví dụ: di động và PC)?",
+    "answer": "Sự khả dụng của đồng bộ hóa tiến trình chéo nền tảng cho Minesweeper phụ thuộc vào phiên bản hoặc ứng dụng cụ thể đang được sử dụng. Một số phiên bản, đặc biệt là các phiên bản hiện đại tích hợp dịch vụ đám mây, cho phép bạn đồng bộ tiến trình của mình trên các thiết bị (di động và PC) nếu bạn đăng nhập vào tài khoản của mình. Tuy nhiên, nhiều phiên bản độc lập hoặc phiên bản cũ hơn không cung cấp chức năng này. Kiểm tra cài đặt hoặc tài liệu của ứng dụng, ở đó nên có tùy chọn đồng bộ thông qua cài đặt tài khoản. Ví dụ minh họa: Đồng bộ hóa tiến trình chéo nền tảng giống như \"lưu trên đám mây\" nơi dữ liệu tiến trình của bạn được lưu trên đám mây và có thể truy xuất được vào lúc sau."
+  },
+  {
+    "question": "Trò chơi Minesweeper có trứng Phục sinh không: Có bất kỳ chủ đề ẩn hoặc tùy chọn tùy chỉnh nào không và làm thế nào để tôi bật \"Chế độ đêm\" trong Minesweeper?",
+    "answer": "Nhiều phiên bản Minesweeper cung cấp tùy chỉnh, bao gồm chủ đề và bảng màu. Kiểm tra menu cài đặt để tìm tùy chọn thay đổi giao diện. Một số phiên bản có thể có trứng phục sinh được kích hoạt bằng các tổ hợp hoặc nhấp chuột phím cụ thể. \"Chế độ đêm\", nếu có, giảm sự mỏi mắt trong môi trường tối bằng cách sử dụng màu tối hơn. Tìm cấu hình chủ đề trong cài đặt. Bạn có thể tìm thấy một số chủ đề ẩn."
+  }
+]

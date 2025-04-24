@@ -1,0 +1,77 @@
+{
+  "hop-chop": {
+    "title": "Jouez à Hop-Chop en ligne gratuitement ! Des sauts et des esquives amusants",
+    "slogan": "Sautez, coupez et amusez-vous !",
+    "description": "Prêt pour un défi de saut ? Hop-Chop est un jeu amusant où vous sautez et esquivez pour ramasser des étoiles et gagner des points. Maîtrisez les mouvements dans Hop-Chop, débloquez des tenues et des armes, et fendez votre chemin vers un score élevé ! Jouez à Hop-Chop dès maintenant !",
+    "Loading": {
+      "title": "Chargement..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Hop-Chop",
+      "description": "Hop-Chop est un jeu de sauts et d'esquives de SnoutUp Games.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer au jeu"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Hop-Chop",
+      "whatIsTitle": "Qu'est-ce que Hop-Chop ?",
+      "whatIsDescription": "Hop-Chop est un jeu de sauts et d'esquives où vous contrôlez un porcelet.",
+      "howToPlayTitle": "Comment jouer à Hop-Chop",
+      "howToPlayStep1": "Appuyer pour sauter",
+      "howToPlayStep2": "Esquiver les obstacles",
+      "howToPlayStep3": "Ramasser des étoiles",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Amusements sans fin",
+      "feature1Description": "Jouez sans fin et essayez de battre votre meilleur score.",
+      "feature2Title": "Contenu déverrouillable",
+      "feature2Description": "Débloquez diverses tenues et armes Snoutfit.",
+      "feature3Title": "Commandes simples",
+      "feature3Description": "Gameplay facile à apprendre, difficile à maîtriser.",
+      "feature4Title": "Gameplay stimulant",
+      "feature4Description": "Testez vos réflexes et votre sens du timing."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}
