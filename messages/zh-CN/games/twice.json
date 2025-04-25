@@ -1,0 +1,77 @@
+{
+  "twice": {
+    "title": "Twice：一款免费的趣味图标匹配挑战游戏",
+    "slogan": "在这个令人上瘾的益智游戏中找到匹配的图标！",
+    "description": "潜入 Twice，一款适合所有年龄段的引人入胜的图标匹配益智游戏！在这个激动人心的冒险中测试你的记忆力和速度，消除成对的图标。现在就玩 Twice，挑战你的技能！",
+    "Loading": {
+      "title": "正在加载 Twice"
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "Twice",
+      "description": "《Twice!》是由 Avix Games 精心打造的一款图标匹配益智游戏，为玩家带来别出心裁的游戏体验。它凭借独特的设计、丰富的内容和富有挑战性的玩法，在众多益智游戏中脱颖而出。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL 已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Twice",
+      "whatIsTitle": "Twice 是什么？",
+      "whatIsDescription": "Twice 是一款由 Avix Games 开发的图标匹配益智游戏，它提供独特的游戏体验，设计独特，内容丰富，游戏玩法极具挑战性。",
+      "howToPlayTitle": "如何玩 Twice",
+      "howToPlayStep1": "快速找到并点击相同的图标。",
+      "howToPlayStep2": "在时间用完之前消除成对的图标。",
+      "howToPlayStep3": "随着游戏进程的推进，挑战你的速度和准确性。",
+      "keyFeaturesTitle": "Twice 的主要特点",
+      "feature1Title": "精美画面",
+      "feature1Description": "在 Twice 中，欣赏充满精妙图案的世界，包括可爱的动物和美味的水果。",
+      "feature2Title": "刺激的限时游戏",
+      "feature2Description": "测试你的反应速度！在 Twice 游戏中，图标数量和复杂程度会随着时间增加。",
+      "feature3Title": "简单易用",
+      "feature3Description": "无论是在电脑还是移动设备上，都能轻松享受 Twice 的游戏乐趣。现在就玩 Twice！",
+      "feature4Title": "丰富你的休闲时光",
+      "feature4Description": "随时随地享受 Twice 带来的有趣和具有挑战性的益智体验。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐游戏"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏列表"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

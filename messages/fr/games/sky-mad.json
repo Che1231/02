@@ -1,0 +1,77 @@
+{
+  "sky-mad": {
+    "title": "Sky Mad : Jeu de chasseurs de jets - Jouez gratuitement en ligne maintenant",
+    "slogan": "Devenez le pilote de chasseur ultime dans Sky Mad !",
+    "description": "Rêvez-vous de piloter un chasseur ? Plongez-vous dans Sky Mad, un jeu de simulation de chasseur de jets palpitant ! Contrôlez votre jet, participez à des courses ou engagez-vous dans des combats aériens intenses. Passez du mode course à combat dans Sky Mad et dominez les airs ! Profitez de nombreux niveaux et débloquez une large gamme de chasseurs dans Sky Mad. Jouez gratuitement en ligne maintenant !",
+    "Loading": {
+      "title": "Chargement de Sky Mad"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Sky Mad",
+      "description": "Jouez à Sky Mad en ligne gratuitement !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sky Mad",
+      "whatIsTitle": "Qu'est-ce que Sky Mad ?",
+      "whatIsDescription": "Sky Mad est un jeu de simulation de chasseur de jets dans lequel vous pouvez courir ou combattre des ennemis. Passez d'un mode à l'autre et débloquez de nombreux jets !",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Clavier : W ou flèche du haut (descendre), A ou flèche de gauche (aller à gauche), S ou flèche du bas (monter), D ou flèche de droite (aller à droite)",
+      "howToPlayStep2": "Souris : Cliquez sur le côté du jet vers lequel vous souhaitez tourner. Cliquez plusieurs fois pour des virages plus nets !",
+      "howToPlayStep3": "Pour tirer sur les ennemis, visez-les. Une fois que le carré autour d'eux devient rouge, vous tirerez automatiquement ! Appuyez sur la barre d'espace pour passer du mode course au mode attaque !",
+      "keyFeaturesTitle": "Principales caractéristiques",
+      "feature1Title": "Simulation de chasseur de jets",
+      "feature1Description": "Découvrez le frisson de piloter un chasseur de jets dans des combats aériens intenses.",
+      "feature2Title": "Course et combat",
+      "feature2Description": "Passez du mode course au mode combat pour un gameplay varié.",
+      "feature3Title": "Jets déblocables",
+      "feature3Description": "Débloquez une large gamme de chasseurs pour améliorer votre expérience dans Sky Mad.",
+      "feature4Title": "Plusieurs niveaux",
+      "feature4Description": "Profitez de nombreux niveaux et défis pour devenir le pilote de chasseur ultime dans Sky Mad."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

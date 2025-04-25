@@ -1,0 +1,77 @@
+{
+  "who-is": {
+    "title": "누구인가요? - 클래식 추리 게임 | 무료 온라인 플레이",
+    "slogan": "",
+    "description": "아이들과 가족 모두에게 완벽한 클래식 추리 게임, 누구인가요?의 재미를 발견하세요! 상대방의 캐릭터를 추측하기 위해 관찰력을 활용하세요. 지금 누구인가요?를 플레이하고 수많은 시간 동안의 즐거움을 만끽하세요. 누구인가요?를 즐기세요!",
+    "Loading": {
+      "title": "누구인가요? 로딩 중"
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일시",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "컨텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "누구인가요?",
+      "description": "누구인가요?는 클래식 추리 게임입니다. 각 플레이어는 상대방이 선택한 캐릭터를 추측해야 합니다. 오늘 누구인가요? 게임을 플레이하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "누구인가요?",
+      "whatIsTitle": "누구인가요?는 무엇인가요?",
+      "whatIsDescription": "누구인가요?는 상대방의 비밀 캐릭터를 맞추기 위해 예 또는 아니오 질문을 사용하는 클래식 2인용 추리 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "각 플레이어는 비밀 캐릭터를 선택합니다.",
+      "howToPlayStep2": "플레이어는 캐릭터를 제거하기 위해 예 또는 아니오 질문을 번갈아가며 합니다.",
+      "howToPlayStep3": "상대방의 캐릭터를 정확히 맞춘 첫 번째 플레이어가 승리합니다!",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "논리와 추론",
+      "feature1Description": "논리적 사고와 추론 능력을 향상시킵니다.",
+      "feature2Title": "관찰력",
+      "feature2Description": "세부 사항을 관찰하고 핵심적인 차이점을 식별하는 능력을 향상시킵니다.",
+      "feature3Title": "대화형 게임플레이",
+      "feature3Description": "친구 및 가족들과 함께 재밌고 참여적인 게임을 즐기세요.",
+      "feature4Title": "클래식 엔터테인먼트",
+      "feature4Description": "세대를 즐겁게 해 온 시간 초월의 게임을 경험하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

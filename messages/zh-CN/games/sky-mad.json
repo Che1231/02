@@ -1,0 +1,77 @@
+{
+  "sky-mad": {
+    "title": "天际狂飙：喷气战斗机游戏——现在即可免费在线游玩",
+    "slogan": "在《天际狂飙》中成为终极战斗机飞行员！",
+    "description": "你梦想驾驶喷气战斗机吗？潜入《天际狂飙》，这是一款令人兴奋的喷气战斗机模拟游戏！控制你的喷气机，参加比赛，或进行激烈的空中战斗。在《天际狂飙》中切换赛车和战斗模式，掌控天空！享受众多关卡，并在《天际狂飙》中解锁各种喷气战斗机。现在就免费在线玩！",
+    "Loading": {
+      "title": "正在加载天际狂飙"
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建日期",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一步",
+      "previous": "上一步"
+    },
+    "HomeIframe": {
+      "title": "天际狂飙",
+      "description": "免费在线玩《天际狂飙》！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "天际狂飙",
+      "whatIsTitle": "什么是《天际狂飙》？",
+      "whatIsDescription": "《天际狂飙》是一款喷气战斗机模拟游戏，您可以在其中进行赛车或与敌人作战。在两种模式之间切换，并解锁各种喷气机！",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "键盘：W键或向上箭头键（向下飞行），A键或向左箭头键（向左飞行），S键或向下箭头键（向上飞行），D键或向右箭头键（向右飞行）",
+      "howToPlayStep2": "鼠标：单击您想要转向的飞机侧面。多次单击以实现更锐利的转弯！",
+      "howToPlayStep3": "要击落敌人，请将他们瞄准。一旦他们周围的方框变为红色，您将自动开火！按空格键切换赛车和攻击模式！",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "喷气战斗机模拟",
+      "feature1Description": "体验驾驶喷气战斗机进行激烈空中战斗的刺激。",
+      "feature2Title": "赛车和战斗",
+      "feature2Description": "在赛车和战斗模式之间切换，以获得多样的游戏体验。",
+      "feature3Title": "可解锁的喷气机",
+      "feature3Description": "解锁各种喷气战斗机以增强您在《天际狂飙》中的体验。",
+      "feature4Title": "多关卡",
+      "feature4Description": "享受众多关卡和挑战，成为《天际狂飙》中的终极战斗机飞行员。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}
