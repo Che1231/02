@@ -1,0 +1,77 @@
+{
+  "doodle-cricket": {
+    "title": "塗鴉板球遊戲：免費線上玩 - 塗鴉板球樂趣",
+    "slogan": "盡情享受塗鴉板球，一場有趣且引人入勝的遊戲！",
+    "description": "沉浸在塗鴉板球的世界，一款結合塗鴉美學和引人入勝的遊戲機制。體驗簡單易學的操作和無盡的樂趣。現在免費線上玩塗鴉板球！",
+    "Loading": {
+      "title": "正在載入塗鴉板球"
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "塗鴉板球",
+      "description": "免費線上玩塗鴉板球！享受這款操作簡單、遊戲無盡的有趣且引人入勝的板球遊戲。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "塗鴉板球特色",
+      "whatIsTitle": "什麼是塗鴉板球？",
+      "whatIsDescription": "塗鴉板球是一款充滿趣味、輕鬆愉快的板球遊戲，以迷人的塗鴉藝術風格呈現。上手容易，非常適合休閒玩家。",
+      "howToPlayTitle": "如何玩塗鴉板球",
+      "howToPlayStep1": "輕觸或滑動來控制球棒。",
+      "howToPlayStep2": "準確地擊球，讓球飛得越遠越好。",
+      "howToPlayStep3": "躲避守備員的接殺。",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "簡單的操作",
+      "feature1Description": "簡單易懂的操作讓每個人都能輕鬆上手。",
+      "feature2Title": "無盡的遊戲",
+      "feature2Description": "享受無止境的板球競技。",
+      "feature3Title": "迷人的圖形",
+      "feature3Description": "充滿魅力的塗鴉藝術風格。",
+      "feature4Title": "離線遊戲",
+      "feature4Description": "隨時隨地玩塗鴉板球，即使沒有網路連線也能暢玩。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦遊戲"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "瀏覽所有遊戲",
+      "games": "遊戲列表"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到任何類別",
+      "viewMore": "檢視更多",
+      "page": "頁碼"
+    }
+  }
+}

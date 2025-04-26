@@ -1,0 +1,77 @@
+{
+  "google-snake": {
+    "title": "Play Google Snake Online for Free - Classic Arcade Fun!",
+    "slogan": "Enjoy the timeless Google Snake game online!",
+    "description": "Dive into the classic arcade excitement of Google Snake! Control the snake, eat to grow, and avoid collisions. Play Google Snake now for a nostalgic and addictive gaming experience! Google Snake is fun!",
+    "Loading": {
+      "title": "Loading Google Snake"
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Google Snake",
+      "description": "Play Google Snake online for free!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google Snake",
+      "whatIsTitle": "What is Google Snake?",
+      "whatIsDescription": "Google Snake is a classic arcade game where you control a snake, eating food to grow longer while avoiding collisions with the walls and itself.",
+      "howToPlayTitle": "How to Play Google Snake",
+      "howToPlayStep1": "Use arrow keys or swipe to control the snake's direction.",
+      "howToPlayStep2": "Eat the food (dots or fruits) to grow longer and score points.",
+      "howToPlayStep3": "Avoid hitting the walls or your own tail.",
+      "keyFeaturesTitle": "Key Features of Google Snake",
+      "feature1Title": "Classic Gameplay",
+      "feature1Description": "Experience the original Google Snake gameplay that's been loved for decades.",
+      "feature2Title": "Simple Controls",
+      "feature2Description": "Easy-to-learn controls make Google Snake accessible to players of all ages.",
+      "feature3Title": "Increasing Difficulty",
+      "feature3Description": "The Google Snake game becomes more challenging as the snake grows longer.",
+      "feature4Title": "Nostalgic Pixel Graphics",
+      "feature4Description": "Enjoy the retro pixel art style of the Google Snake game."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

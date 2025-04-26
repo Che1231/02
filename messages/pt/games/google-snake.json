@@ -1,0 +1,77 @@
+{
+  "google-snake": {
+    "title": "Jogue Google Snake Online Grátis - Diversão Clássica de Arcade!",
+    "slogan": "Aproveite o jogo clássico Google Snake online!",
+    "description": "Mergulhe na emoção do arcade clássico do Google Snake! Controle a cobra, coma para crescer e evite colisões. Jogue o Google Snake agora para uma experiência de jogo nostálgica e viciante! Google Snake é divertido!",
+    "Loading": {
+      "title": "Carregando Google Snake"
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links de Amigos",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Google Snake",
+      "description": "Jogue Google Snake online gratuitamente!",
+      "iframeTitle": "Pré-visualização do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google Snake",
+      "whatIsTitle": "O que é Google Snake?",
+      "whatIsDescription": "Google Snake é um jogo de arcade clássico onde você controla uma cobra, comendo comida para crescer enquanto evita colisões com as paredes e consigo mesmo.",
+      "howToPlayTitle": "Como jogar Google Snake",
+      "howToPlayStep1": "Use as setas do teclado ou deslize para controlar a direção da cobra.",
+      "howToPlayStep2": "Coma a comida (pontos ou frutas) para crescer e marcar pontos.",
+      "howToPlayStep3": "Evite bater nas paredes ou na sua própria cauda.",
+      "keyFeaturesTitle": "Principais Características do Google Snake",
+      "feature1Title": "Jogabilidade Clássica",
+      "feature1Description": "Experimente a jogabilidade original do Google Snake, que é amada há décadas.",
+      "feature2Title": "Controles Simples",
+      "feature2Description": "Os controles fáceis de aprender tornam o Google Snake acessível a jogadores de todas as idades.",
+      "feature3Title": "Dificuldade Crescente",
+      "feature3Description": "O jogo Google Snake torna-se mais desafiador à medida que a cobra cresce.",
+      "feature4Title": "Gráficos Pixel Nostalgicos",
+      "feature4Description": "Aproveite o estilo de arte pixel retro do jogo Google Snake."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

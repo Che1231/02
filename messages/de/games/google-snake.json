@@ -1,0 +1,77 @@
+{
+  "google-snake": {
+    "title": "Kostenloses Google Snake Online spielen – klassischer Arcade-Spaß!",
+    "slogan": "Genießen Sie das zeitlose Google Snake-Spiel online!",
+    "description": "Tauchen Sie ein in die klassische Arcade-Aufregung von Google Snake! Steuern Sie die Schlange, essen Sie, um zu wachsen, und vermeiden Sie Kollisionen. Spielen Sie jetzt Google Snake für ein nostalgisches und süchtig machendes Spielerlebnis! Google Snake macht Spaß!",
+    "Loading": {
+      "title": "Google Snake wird geladen"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Google Schlange",
+      "description": "Spielen Sie Google Schlange kostenlos online!",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google Schlange",
+      "whatIsTitle": "Was ist Google Snake?",
+      "whatIsDescription": "Google Snake ist ein klassisches Arcade-Spiel, bei dem Sie eine Schlange steuern, Nahrung essen, um länger zu werden, und dabei Kollisionen mit Wänden und sich selbst vermeiden.",
+      "howToPlayTitle": "So spielen Sie Google Snake",
+      "howToPlayStep1": "Steuern Sie die Richtung der Schlange mit den Pfeiltasten oder Wischen.",
+      "howToPlayStep2": "Essen Sie die Nahrung (Punkte oder Früchte), um länger zu werden und Punkte zu sammeln.",
+      "howToPlayStep3": "Vermeiden Sie die Wände oder Ihre eigene Schlange.",
+      "keyFeaturesTitle": "Wichtige Merkmale von Google Snake",
+      "feature1Title": "Klassisches Gameplay",
+      "feature1Description": "Erleben Sie das originale Google Snake-Gameplay, das seit Jahrzehnten geliebt wird.",
+      "feature2Title": "Einfache Steuerung",
+      "feature2Description": "Die leicht zu erlernenden Steuerelemente machen Google Snake für Spieler jeden Alters zugänglich.",
+      "feature3Title": "Steigende Schwierigkeit",
+      "feature3Description": "Das Google Snake-Spiel wird schwieriger, wenn die Schlange länger wird.",
+      "feature4Title": "Nostalgische Pixelgrafiken",
+      "feature4Description": "Genießen Sie den Retro-Pixel-Kunststil des Google Snake-Spiels."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "google-snake": {
+    "title": "Грай у Google Snake онлайн безкоштовно – класична аркадна гра!",
+    "slogan": "Насолоджуйтесь вічною онлайн-грою Google Snake!",
+    "description": "Зануртеся в класичне аркадне захоплення Google Snake! Керуйте змією, їжте, щоб рости, і уникайте зіткнень. Грай у Google Snake зараз для ностальгічного та захоплюючого ігрового досвіду! Google Snake – це весело!",
+    "Loading": {
+      "title": "Завантаження Google Snake"
+    },
+    "Navbar": {
+      "title": "Навігація"
+    },
+    "Common": {
+      "createAt": "Створено",
+      "guide": "Посібник",
+      "privacyPolicy": "Політика конфіденційності",
+      "termsOfServices": "Умови використання",
+      "text": "Зміст",
+      "help": "Допомога",
+      "friendlyLinks": "Дружні посилання",
+      "articleList": "Список статей",
+      "home": "Головна",
+      "next": "Далі",
+      "previous": "Попередній"
+    },
+    "HomeIframe": {
+      "title": "Google Snake",
+      "description": "Грай у Google Snake онлайн безкоштовно!",
+      "iframeTitle": "Перегляд гри",
+      "fullscreenButton": "Повноекранний режим",
+      "shareButton": "Поділитися",
+      "urlCopied": "Посилання скопійовано в буфер обміну!",
+      "downloadGame": "Завантажити гру",
+      "playGame": "Грати"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google Snake",
+      "whatIsTitle": "Що таке Google Snake?",
+      "whatIsDescription": "Google Snake – це класична аркадна гра, у якій ви керуєте змією, поїдаєте їжу, щоб стати довшою, уникаючи зіткнень зі стінами та самою собою.",
+      "howToPlayTitle": "Як грати в Google Snake",
+      "howToPlayStep1": "Використовуйте стрілки або жести для керування напрямком змії.",
+      "howToPlayStep2": "Їжте їжу (точки або фрукти), щоб стати довшою і набирати бали.",
+      "howToPlayStep3": "Уникайте зіткнень зі стінами або своїм хвостиком.",
+      "keyFeaturesTitle": "Ключові особливості Google Snake",
+      "feature1Title": "Класична гра",
+      "feature1Description": "Досвідіть оригінальну гру Google Snake, яка подобається гравцям десятиліттями.",
+      "feature2Title": "Прості керування",
+      "feature2Description": "Прості керування роблять Google Snake доступною для гравців будь-якого віку.",
+      "feature3Title": "Збільшення складності",
+      "feature3Description": "Гра Google Snake стає складнішою з розростанням змії.",
+      "feature4Title": "Ностальгічні піксельні графіки",
+      "feature4Description": "Насолоджуйтесь ретро піксельною графікою Google Snake."
+    },
+    "HomeFAQs": {
+      "title": "Часті запитання"
+    },
+    "HomeRelatedVideo": {
+      "title": "Відео про гру"
+    },
+    "HomeRecommendation": {
+      "title": "Рекомендації"
+    },
+    "HomeComments": {
+      "title": "Коментарі до гри"
+    },
+    "GamePage": {
+      "title": "Всі ігри",
+      "description": "Всі ігри",
+      "games": "Ігри"
+    },
+    "CategoryPage": {
+      "categories": "Категорії",
+      "noCategories": "Категорії не знайдено",
+      "viewMore": "Переглянути більше",
+      "page": "Сторінка"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "google-snake": {
+    "title": "구글 스네이크 무료 온라인 플레이 - 클래식 아케이드 게임!",
+    "slogan": "시간이 흘러도 즐거운 구글 스네이크 온라인 게임을 즐기세요!",
+    "description": "구글 스네이크의 클래식 아케이드 재미에 뛰어들어 보세요! 뱀을 조종하고 먹이를 먹어 크게 만들고 충돌을 피하십시오. 향수를 불러일으키고 중독성 있는 게임 경험을 위해 지금 구글 스네이크를 플레이하세요! 구글 스네이크는 재밌습니다!",
+    "Loading": {
+      "title": "구글 스네이크 로딩 중"
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "유용한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "구글 스네이크",
+      "description": "무료로 구글 스네이크 온라인 플레이!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "구글 스네이크",
+      "whatIsTitle": "구글 스네이크는 무엇인가요?",
+      "whatIsDescription": "구글 스네이크는 뱀을 조종하여 먹이를 먹고 크게 만들면서 벽이나 자신과의 충돌을 피하는 클래식 아케이드 게임입니다.",
+      "howToPlayTitle": "구글 스네이크 플레이 방법",
+      "howToPlayStep1": "화살표 키 또는 쓸어서 뱀의 방향을 조정하세요.",
+      "howToPlayStep2": "먹이(점이나 과일)를 먹어 더 길고 점수를 얻으세요.",
+      "howToPlayStep3": "벽이나 자신의 꼬리에 부딪히지 않도록 주의하세요.",
+      "keyFeaturesTitle": "구글 스네이크의 주요 특징",
+      "feature1Title": "클래식 게임 방식",
+      "feature1Description": "수십 년 동안 사랑받아온 원래 구글 스네이크 게임 방식을 경험하세요.",
+      "feature2Title": "간단한 조작",
+      "feature2Description": "나이에 상관없이 모든 플레이어가 쉽게 구글 스네이크를 즐길 수 있도록 간단한 조작으로 구성되어 있습니다.",
+      "feature3Title": "점점 어려워지는 난이도",
+      "feature3Description": "뱀이 길어짐에 따라 구글 스네이크 게임이 더욱 어려워집니다.",
+      "feature4Title": "향수를 자극하는 픽셀 그래픽",
+      "feature4Description": "구글 스네이크 게임의 레트로 픽셀 아트 스타일을 즐겨보세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}
