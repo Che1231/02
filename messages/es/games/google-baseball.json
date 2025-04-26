@@ -1,0 +1,77 @@
+{
+  "google-baseball": {
+    "title": "Juega al Béisbol de Google en línea gratis: Juego divertido de dibujos animados de béisbol",
+    "slogan": "¡Conecta un jonrón con el Béisbol de Google!",
+    "description": "¡Prepárate para el plato y juega al Béisbol de Google! Este atractivo juego del doodle de Béisbol de Google te permite experimentar la emoción de batear. Disfruta de los visuales retro y la adictiva jugabilidad del Béisbol de Google. ¡Juega ahora gratis!",
+    "Loading": {
+      "title": "Cargando el Béisbol de Google"
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Creado en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces útiles",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Béisbol de Google",
+      "description": "El doodle interactivo de Béisbol de Google es un juego de béisbol divertido e interactivo.",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Béisbol de Google",
+      "whatIsTitle": "¿Qué es el Béisbol de Google?",
+      "whatIsDescription": "El Béisbol de Google es un juego de dibujos animados creado por Google para celebrar la temporada de las Grandes Ligas de Béisbol 2019. ¡Juega como bateador e intenta conectar jonrones!",
+      "howToPlayTitle": "¿Cómo jugar al Béisbol de Google?",
+      "howToPlayStep1": "Usa las flechas para posicionar el bate.",
+      "howToPlayStep2": "Presiona la barra espaciadora para batir.",
+      "howToPlayStep3": "Ajusta el momento del bateo para golpear la pelota lo más lejos posible en el Béisbol de Google.",
+      "keyFeaturesTitle": "Características principales del Béisbol de Google",
+      "feature1Title": "Estilo visual retro",
+      "feature1Description": "Disfruta del diseño clásico de las tarjetas de béisbol con elementos dibujados a mano.",
+      "feature2Title": "Interacción social",
+      "feature2Description": "Compite con jugadores de todo el mundo en la tabla de clasificación del Béisbol de Google.",
+      "feature3Title": "Diversión educativa",
+      "feature3Description": "Aprende sobre la historia del béisbol con ilustraciones de jugadores y estadios.",
+      "feature4Title": "Sorpresas ocultas",
+      "feature4Description": "Descubre mensajes secretos y animaciones especiales."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

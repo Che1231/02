@@ -1,0 +1,120 @@
+{
+  "name": "Google Baseball",
+  "pagePath": "/games/google-baseball",
+  "pageName": "google-baseball",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://freeonlinegames.github.io/fourth-of-july-2019.html",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomPhoenix42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix42.png",
+      "content": "Wow, Google Baseball is actually pretty fun! The retro baseball card art style is so cool, and I love trying to hit those home runs. Anyone else get a secret message yet?"
+    },
+    {
+      "author": "SavageBlade_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBlade_X.png",
+      "content": "This Google Baseball game is a time waster, in the best of ways! I can't stop trying to beat my high score, haha. That's one awesome Doodle game."
+    },
+    {
+      "author": "WitcherFan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/WitcherFan99.png",
+      "content": "Google Baseball is a blast! The gameplay is so easy, but it's surprisingly addictive. I dig the leaderboards and the social sharing. Gotta share my scores!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "I'm terrible at Google Baseball, but I still keep playing! That special animation when you hit a homer is epic. I love the idea of baseball history in the game."
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "Just played Google Baseball! It's simple, but the fast pitches really test your reflexes. The game has a unique visual feel, makes me wanna play always."
+    },
+    {
+      "author": "CosmicLeviathan87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicLeviathan87.png",
+      "content": "This version of Google Baseball is pretty cool. Getting a homer so the ball goes into space is a nice touch. Makes you feel like a pro!"
+    },
+    {
+      "author": "NeonKatana_77",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonKatana_77.png",
+      "content": "Google Baseball is great, right? Especially for something that's just a Doodle. I gotta say, hitting the homer is really satisfying. Well done, Google!"
+    },
+    {
+      "author": "StalkingKraken_V",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken_V.png",
+      "content": "The retro style makes Google Baseball a fun throwback. I'm always checking the leaderboard to see who's got the top score... It's so competitive!"
+    },
+    {
+      "author": "Witcher4Lyfe!",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe!.png",
+      "content": "Google Baseball is actually pretty fun, love the old-school feels I get from it! The gameplay keeps me wanting more, super simple to understand."
+    },
+    {
+      "author": "NeonBlade_01",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonBlade_01.png",
+      "content": "What, Google Baseball is all right! I like that it kind of teaches you about baseball history while you play. It's actually a nice touch for a game."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-26/images/1745656944037-paymoa.jpg",
+  "page_path": "/games/google-baseball",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Sports"
+  ],
+  "createdTime": "2025-04-26 16:42:03"
+}
