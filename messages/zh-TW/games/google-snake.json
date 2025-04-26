@@ -1,0 +1,77 @@
+{
+  "google-snake": {
+    "title": "免費線上玩 Google 蛇遊戲 – 經典街機遊戲！",
+    "slogan": "線上體驗經典的 Google 蛇遊戲！",
+    "description": "體驗 Google 蛇經典街機遊戲的刺激！控制蛇，吃東西長大，並避免碰撞。現在就玩 Google 蛇，享受懷舊而上癮的遊戲體驗！Google 蛇很有趣！",
+    "Loading": {
+      "title": "正在載入 Google 蛇"
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "Google 蛇",
+      "description": "免費線上玩 Google 蛇！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google 蛇",
+      "whatIsTitle": "什麼是 Google 蛇？",
+      "whatIsDescription": "Google 蛇是一款經典街機遊戲，您控制一條蛇，吃食物長大，同時避免與牆壁或自身碰撞。",
+      "howToPlayTitle": "如何玩 Google 蛇",
+      "howToPlayStep1": "使用方向鍵或滑動來控制蛇的方向。",
+      "howToPlayStep2": "吃食物（點或水果）來變長並得分。",
+      "howToPlayStep3": "避免撞到牆壁或自己的尾巴。",
+      "keyFeaturesTitle": "Google 蛇的主要特色",
+      "feature1Title": "經典遊戲玩法",
+      "feature1Description": "體驗幾十年來深受喜愛的原始 Google 蛇遊戲玩法。",
+      "feature2Title": "簡單控制",
+      "feature2Description": "易於學習的控制讓所有年齡層的玩家都能輕鬆上手 Google 蛇。",
+      "feature3Title": "越來越困難",
+      "feature3Description": "隨著蛇變長，Google 蛇的遊戲難度會越來越高。",
+      "feature4Title": "懷舊像素圖形",
+      "feature4Description": "享受 Google 蛇遊戲的復古像素藝術風格。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

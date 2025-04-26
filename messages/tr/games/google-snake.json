@@ -1,0 +1,77 @@
+{
+  "google-snake": {
+    "title": "Ücretsiz Oynamak İçin Google Yılanını Oyna - Klasik Arcade Eğlencesi!",
+    "slogan": "Zamansız Google Yılanı oyununun tadını çıkarın!",
+    "description": "Google Yılanının klasik arcade heyecanına dalın! Yılanı kontrol edin, büyümek için yiyin ve çarpışmalardan kaçının. Nostaljik ve bağımlılık yapan bir oyun deneyimi için şimdi Google Yılanını oynayın! Google Yılanı eğlenceli!",
+    "Loading": {
+      "title": "Google Yılanı Yükleniyor"
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Nasıl Oynanır",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Anasayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Google Yılanı",
+      "description": "Google Yılanını çevrimiçi ücretsiz oynayın!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google Yılanı",
+      "whatIsTitle": "Google Yılanı Nedir?",
+      "whatIsDescription": "Google Yılanı, bir yılanı kontrol ettiğiniz klasik bir arcade oyunudur. Duvarlara ve kendinize çarpmaktan kaçınarak yiyecek yer ve uzar.",
+      "howToPlayTitle": "Google Yılanını Nasıl Oynanır",
+      "howToPlayStep1": "Yılanın yönünü kontrol etmek için ok tuşlarını veya kaydırmayı kullanın.",
+      "howToPlayStep2": "Uzun ve puan almak için yiyecekleri (noktalar veya meyveler) yiyin.",
+      "howToPlayStep3": "Duvarlara veya kendi kuyruğunuza çarpmaktan kaçının.",
+      "keyFeaturesTitle": "Google Yılanının Ana Özellikleri",
+      "feature1Title": "Klasik Oyun",
+      "feature1Description": "On yıllar boyunca sevilen orijinal Google Yılanı oyun deneyimini yaşayın.",
+      "feature2Title": "Basit Kontroller",
+      "feature2Description": "Kolay öğrenilebilir kontroller, Google Yılanını her yaştan oyuncuya kullanılabilir hale getirir.",
+      "feature3Title": "Artan Zorluk",
+      "feature3Description": "Google Yılanı oyunu, yılan uzar uzar daha zorlu hale gelir.",
+      "feature4Title": "Nostaljik Piksel Grafikleri",
+      "feature4Description": "Google Yılanı oyununun retro piksel sanat tarzının tadını çıkarın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

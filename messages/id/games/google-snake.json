@@ -1,0 +1,77 @@
+{
+  "google-snake": {
+    "title": "Mainkan Google Snake Online Gratis - Keseruan Arcade Klasik!",
+    "slogan": "Nikmati permainan Google Snake klasik online!",
+    "description": "Jelajahi keseruan arcade klasik Google Snake! Kontrol ular, makan untuk tumbuh, dan hindari tabrakan. Mainkan Google Snake sekarang untuk pengalaman bermain game yang nostalgia dan adiktif! Google Snake menyenangkan!",
+    "Loading": {
+      "title": "Memuat Google Snake"
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Google Snake",
+      "description": "Mainkan Google Snake secara online gratis!",
+      "iframeTitle": "Pratinjau Game",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Game",
+      "playGame": "Mainkan Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google Snake",
+      "whatIsTitle": "Apa itu Google Snake?",
+      "whatIsDescription": "Google Snake adalah permainan arcade klasik di mana Anda mengendalikan seekor ular, memakan makanan untuk tumbuh lebih panjang sambil menghindari tabrakan dengan dinding dan dirinya sendiri.",
+      "howToPlayTitle": "Cara Bermain Google Snake",
+      "howToPlayStep1": "Gunakan tombol panah atau gesek untuk mengontrol arah ular.",
+      "howToPlayStep2": "Makan makanan (titik atau buah) untuk tumbuh lebih panjang dan mencetak poin.",
+      "howToPlayStep3": "Hindari menabrak dinding atau ekor Anda sendiri.",
+      "keyFeaturesTitle": "Fitur Utama Google Snake",
+      "feature1Title": "Gameplay Klasik",
+      "feature1Description": "Alami gameplay Google Snake asli yang dicintai selama beberapa dekade.",
+      "feature2Title": "Kontrol Sederhana",
+      "feature2Description": "Kontrol yang mudah dipelajari menjadikan Google Snake mudah diakses oleh pemain segala usia.",
+      "feature3Title": "Kesulitan Meningkat",
+      "feature3Description": "Permainan Google Snake menjadi lebih menantang saat ular tumbuh lebih panjang.",
+      "feature4Title": "Grafis Piksel Nostalgik",
+      "feature4Description": "Nikmati gaya seni piksel retro dari permainan Google Snake."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Game"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Bermain"
+    },
+    "GamePage": {
+      "title": "Semua Game",
+      "description": "Semua Game",
+      "games": "Game"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Lebih Banyak",
+      "page": "Halaman"
+    }
+  }
+}

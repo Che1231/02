@@ -1,0 +1,120 @@
+{
+  "name": "Google Snake",
+  "pagePath": "/games/google-snake",
+  "pageName": "google-snake",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://freeonlinegames.github.io/google-snake.html",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomLeviathan42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomLeviathan42.png",
+      "content": "OMG, this Google Snake game is seriously addictive! I can't stop playing, it's like a retro dream come true. The pixelated graphics are so nostalgic, love it!"
+    },
+    {
+      "author": "SavageRevolver_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageRevolver_X.png",
+      "content": "Just tried Google Snake for the first time. The gameplay is so simple, yet so challenging. The difficulty REALLY ramps up as your snake gets longer, damn!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Google Snake is pure fun! Remember those old Nokia phones? This is the modern equivalent, but way better.  I like how it makes you plan ahead."
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "LOL, I can't believe I'm spending hours on Google Snake! The graphics are classic, and that addictive gameplay is pure gold. It's a timeless classic!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "This game, Google Snake, is actually pretty decent, huh? The concept of eating food to grow longer is strangely compelling, and I'm kinda hooked already."
+    },
+    {
+      "author": "StalkingKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken87.png",
+      "content": "Seriously, Google Snake's got me hooked. Reminds me of my childhood, but with a fresh coat of pixel paint."
+    },
+    {
+      "author": "NeonKatana_99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonKatana_99.png",
+      "content": "Is it just me, or is Google Snake the ultimate time-waster? But hey, I'm not complaining! Trying to NOT hit the edges of the board is so tense."
+    },
+    {
+      "author": "CosmicBroadsword",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicBroadsword.png",
+      "content": "I love how the game Google Snake combines classic gameplay with modern elements. Simple yet engaging, it's the best!"
+    },
+    {
+      "author": "PhantomPhoenix",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix.png",
+      "content": "This Google Snake game is so easy to pick up and play. I played the Google Maps version and loved it. So much fun!"
+    },
+    {
+      "author": "StalkingLeviathan42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingLeviathan42.png",
+      "content": "The pixel style in Google Snake is perfect. It takes me way, way back and just makes the fun so timeless. I will play every day!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-26/images/1745643374667-g3146.png",
+  "page_path": "/games/google-snake",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    ".IO"
+  ],
+  "createdTime": "2025-04-26 12:56:29"
+}

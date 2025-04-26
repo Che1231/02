@@ -1,0 +1,77 @@
+{
+  "google-snake": {
+    "title": "無料でプレイできるGoogleスネーク - クラシックアーケードゲーム！",
+    "slogan": "タイムレスなGoogleスネークゲームをオンラインで楽しんでください！",
+    "description": "Googleスネークのクラシックアーケードの興奮に浸ってください！ヘビを操作し、食べ物を食べて大きくし、衝突を避けましょう。ノスタルジックで中毒性のあるゲーム体験のために今すぐGoogleスネークをプレイしてください！Googleスネークは楽しいです！",
+    "Loading": {
+      "title": "Googleスネークの読み込み"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "Googleスネーク",
+      "description": "無料でオンラインでGoogleスネークをプレイ！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Googleスネーク",
+      "whatIsTitle": "Googleスネークとは？",
+      "whatIsDescription": "Googleスネークは、ヘビを操作して壁や自分自身と衝突を避けながら、食べ物を食べて大きくなるクラシックなアーケードゲームです。",
+      "howToPlayTitle": "Googleスネークの遊び方",
+      "howToPlayStep1": "矢印キーまたはスワイプを使用してヘビの方向を制御します。",
+      "howToPlayStep2": "食べ物を食べる（ドットまたはフルーツ）ことで、大きくなり、ポイントを獲得します。",
+      "howToPlayStep3": "壁や自分の尻尾にぶつからないように注意してください。",
+      "keyFeaturesTitle": "Googleスネークの主な特徴",
+      "feature1Title": "クラシックなゲームプレイ",
+      "feature1Description": "何十年も愛されているオリジナルのGoogleスネークゲームプレイを体験してください。",
+      "feature2Title": "シンプルな操作",
+      "feature2Description": "誰でも簡単に操作できるため、Googleスネークはあらゆる年齢層のプレイヤーにアクセスできます。",
+      "feature3Title": "難易度アップ",
+      "feature3Description": "ヘビが大きくなるにつれて、Googleスネークゲームはより難しくなります。",
+      "feature4Title": "ノスタルジックなピクセルグラフィック",
+      "feature4Description": "Googleスネークゲームのレトロなピクセルアートスタイルをお楽しみください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームのコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリ",
+      "noCategories": "カテゴリが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}
