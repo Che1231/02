@@ -1,0 +1,120 @@
+{
+  "name": "Doodle Cricket",
+  "pagePath": "/games/doodle-cricket",
+  "pageName": "doodle-cricket",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://f3.silvergames.com/m/doodle-cricket/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingKraken89",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken89.png",
+      "content": "OMG! Doodle Cricket is so addictive! The simple gameplay and those cute characters are really charming. Gotta beat my high score now!"
+    },
+    {
+      "author": "SavageKATANA_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKATANA_X.png",
+      "content": "This game is pure fun. The doodle style is just fantastic, and I love how easy it is to pick up and play Doodle Cricket. Still, I am terrible at it, haha!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Doodle Cricket is my daily dose. I just love the simple yet intense gameplay. What's not to love? It is great for kids and adults."
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Geez, I'm hooked to Doodle Cricket! The scoring system is so easy to get, but getting a good score is very cool! You gotta try it."
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "This game is pure genius! The light-weight design of Doodle Cricket is perfect, it also has very cool game modes. Highly recommend it."
+    },
+    {
+      "author": "PhantomPhoenix42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix42.png",
+      "content": "I really love Doodle Cricket! It is great when I want to waste some time. The simple rules are easy to learn!"
+    },
+    {
+      "author": "NeonBroadsword_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonBroadsword_X.png",
+      "content": "Doodle Cricket's visual style is awesome. It's simple, fun and also challenging. The game is good to go when you do not want a big game!"
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "What a great game! The simple graphics makes Doodle Cricket perfect for quick plays. This is the best game I've played in ages!"
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "The Google Doodle version of Doodle Cricket is the best! Those old school games are always fun! Highly recommend to who loves a good game!"
+    },
+    {
+      "author": "VoidLeviathan87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/VoidLeviathan87.png",
+      "content": "Dude, Doodle Cricket is pure gold. I love the Doodle art style of the game. I love the way that you can hit the ball into the air!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-26/images/1745643825731-meh5do.png",
+  "page_path": "/games/doodle-cricket",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Sports"
+  ],
+  "createdTime": "2025-04-26 13:03:24"
+}

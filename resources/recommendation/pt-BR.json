@@ -45,7 +45,7 @@
     "title": "Among Us Online Edition",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743489376291-c14b55.jpg",
     "url": "/games/among-us-online-edition",
-    "category": "",
+    "category": "Jogo de Ação",
     "visible": true
   },
   {
@@ -73,7 +73,7 @@
     "title": "Google Snake",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-26/images/1745643374667-g3146.png",
     "url": "/games/google-snake",
-    "category": "",
+    "category": "Jogo de Puzzle",
     "visible": true
   },
   {
@@ -94,7 +94,7 @@
     "title": "Baby Taylor Thanksgiving Cooking",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743522604624-ya88b.jpg",
     "url": "/games/baby-taylor-thanksgiving-cooking",
-    "category": "",
+    "category": "Jogo de Cozinha",
     "visible": true
   },
   {
@@ -129,28 +129,28 @@
     "title": "Baseball Star",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743518618226-vxb9wc.jpg",
     "url": "/games/baseball-star",
-    "category": "",
+    "category": "Jogo de Beisebol",
     "visible": true
   },
   {
     "title": "Basket Champs",
     "cover": "https://images.1games.io/cache/game/basket-champs/basket-champs-m200x130.webp",
     "url": "/games/basket-champs",
-    "category": "",
+    "category": "Jogo de Basquete",
     "visible": true
   },
   {
     "title": "Basketball Stars",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743518179089-3twd4r.avif",
     "url": "/games/basketball-stars",
-    "category": "",
+    "category": "Jogo de Basquete",
     "visible": true
   },
   {
     "title": "Basketball Superstars",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743517883237-npc4r7.avif",
     "url": "/games/basketball-superstars",
-    "category": "",
+    "category": "Jogo de Basquete",
     "visible": true
   },
   {
@@ -206,7 +206,7 @@
     "title": "Blockheads",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-05/images/1743839890514-hptmg7.avif",
     "url": "/games/blockheads",
-    "category": "",
+    "category": "Jogo de Construção",
     "visible": true
   },
   {
@@ -241,14 +241,14 @@
     "title": "Build and Crush",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743492928767-sp3arf.avif",
     "url": "/games/build-and-crush",
-    "category": "",
+    "category": "Jogo de Construção",
     "visible": true
   },
   {
     "title": "Build Royale",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743311125501-37pfot.png",
     "url": "/games/build-royale",
-    "category": "",
+    "category": "Jogo de Construção",
     "visible": true
   },
   {
@@ -262,7 +262,7 @@
     "title": "Bumper Car Demolition Race",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743497864989-wgfmb.jpg",
     "url": "/games/bumper-car-demolition-race",
-    "category": "",
+    "category": "Corrida de Carros",
     "visible": true
   },
   {
@@ -311,14 +311,14 @@
     "title": "Color Match",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-06/images/1743935628155-i2unu7.avif",
     "url": "/games/color-match",
-    "category": "",
+    "category": "Jogo de Correspondência",
     "visible": true
   },
   {
     "title": "Color Rings Block Puzzle",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743480453817-xlqigl.jpg",
     "url": "/games/color-rings-block-puzzle",
-    "category": "",
+    "category": "Jogo de Puzzle",
     "visible": true
   },
   {
@@ -332,7 +332,7 @@
     "title": "Combat Reloaded",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-05/images/1743839271406-zh3xmd.avif",
     "url": "/games/combat-reloaded",
-    "category": "",
+    "category": "Jogo de Ação",
     "visible": true
   },
   {
@@ -354,6 +354,13 @@
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-12/images/1744450618359-vh3a9q.jpg",
     "url": "/games/craftnite-io",
     "category": "",
+    "visible": true
+  },
+  {
+    "title": "Mahjong",
+    "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-26/images/1745643602248-0raepw.png",
+    "url": "/games/mahjong",
+    "category": "Jogo de cartas",
     "visible": true
   },
   {
@@ -430,7 +437,14 @@
     "title": "Minesweeper",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-23/images/1745413147109-o89wcg.jpg",
     "url": "/games/minesweeper",
-    "category": "Jogo de Quebra-Cabeça",
+    "category": "Jogo de Puzzle",
+    "visible": true
+  },
+  {
+    "title": "Doodle Cricket",
+    "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-26/images/1745643825731-meh5do.png",
+    "url": "/games/doodle-cricket",
+    "category": "",
     "visible": true
   },
   {
@@ -493,7 +507,7 @@
     "title": "Football Blitz",
     "cover": "https://images.1games.io/cache/game/football-blitz/football-blitz-m200x130.webp",
     "url": "/games/football-blitz",
-    "category": "",
+    "category": "Futebol",
     "visible": true
   },
   {
@@ -591,7 +605,7 @@
     "title": "Golf Orbit",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743518013396-4kbt9f.avif",
     "url": "/games/golf-orbit",
-    "category": "",
+    "category": "Golfe",
     "visible": true
   },
   {
@@ -787,7 +801,7 @@
     "title": "Top Speed Racing 3D",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-24/images/1745488687762-8wnz4l.webp",
     "url": "/games/top-speed-racing-3d",
-    "category": "",
+    "category": "Corrida de Carros",
     "visible": true
   },
   {
@@ -808,35 +822,35 @@
     "title": "Papa’s Cupcakeria",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743323081718-vles8.png",
     "url": "/games/papa-s-cupcakeria",
-    "category": "",
+    "category": "Jogo de Confeitaria",
     "visible": true
   },
   {
     "title": "Papa's Freezeria",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743322625066-4t6r2.png",
     "url": "/games/papa-s-freezeria",
-    "category": "",
+    "category": "Jogo de Confeitaria",
     "visible": true
   },
   {
     "title": "Papa's Pancakeria",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743322458140-xuwd0y.png",
     "url": "/games/papa-s-pancakeria",
-    "category": "",
+    "category": "Jogo de Confeitaria",
     "visible": true
   },
   {
     "title": "Papa's Pastaria",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743322843395-qauuel.png",
     "url": "/games/papa-s-pastaria",
-    "category": "",
+    "category": "Jogo de Restaurante",
     "visible": true
   },
   {
     "title": "Papa's Taco Mia",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743322933137-hvgqv.png",
     "url": "/games/papa-s-taco-mia",
-    "category": "",
+    "category": "Jogo de Restaurante",
     "visible": true
   },
   {
@@ -976,7 +990,7 @@
     "title": "Screw Master 3D: Pin Puzzle",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743501482301-iqojrj.jpg",
     "url": "/games/screw-master-3d-pin-puzzle",
-    "category": "",
+    "category": "Jogo de quebra-cabeça",
     "visible": true
   },
   {
@@ -990,7 +1004,7 @@
     "title": "Shape Walls",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743522973728-krknqe.jpg",
     "url": "/games/shape-walls",
-    "category": "",
+    "category": "Jogo de quebra-cabeça",
     "visible": true
   },
   {
@@ -1144,7 +1158,7 @@
     "title": "Tic Tac Toe",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743304639319-x5sbt5.png",
     "url": "/games/tic-tac-toe",
-    "category": "Jogo de Estratégia",
+    "category": "",
     "visible": true
   },
   {
@@ -1410,7 +1424,7 @@
     "title": "Hangman",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744782611504-1qd09f.jpg",
     "url": "/games/hangman",
-    "category": "Jogo de Palavras",
+    "category": "",
     "visible": true
   }
 ]

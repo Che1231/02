@@ -1,0 +1,77 @@
+{
+  "doodle-cricket": {
+    "title": "Игра Doodle Cricket: играйте бесплатно онлайн - Doodle Cricket Fun",
+    "slogan": "Наслаждайтесь Doodle Cricket, увлекательной и интересной игрой!",
+    "description": "Погрузитесь в мир Doodle Cricket, захватывающей игры в крикет, сочетающей эстетику рисунков с увлекательной игрой. Освойте простые механизмы и наслаждайтесь бесконечным весельем. Играйте в Doodle Cricket онлайн бесплатно прямо сейчас!",
+    "Loading": {
+      "title": "Загрузка Doodle Cricket"
+    },
+    "Navbar": {
+      "title": "Навигация"
+    },
+    "Common": {
+      "createAt": "Создано",
+      "guide": "Руководство",
+      "privacyPolicy": "Политика конфиденциальности",
+      "termsOfServices": "Условии использования",
+      "text": "Содержание",
+      "help": "Помощь",
+      "friendlyLinks": "Полезные ссылки",
+      "articleList": "Список статей",
+      "home": "Главная",
+      "next": "Далее",
+      "previous": "Предыдущий"
+    },
+    "HomeIframe": {
+      "title": "Doodle Cricket",
+      "description": "Играйте в Doodle Cricket онлайн бесплатно! Наслаждайтесь этой увлекательной и интересной игрой в крикет с простым управлением и бесконечной игрой.",
+      "iframeTitle": "Предварительный просмотр игры",
+      "fullscreenButton": "На весь экран",
+      "shareButton": "Поделиться",
+      "urlCopied": "Ссылка скопирована в буфер обмена!",
+      "downloadGame": "Скачать игру",
+      "playGame": "Играть"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Особенности Doodle Cricket",
+      "whatIsTitle": "Что такое Doodle Cricket?",
+      "whatIsDescription": "Doodle Cricket - это веселая и непринужденная игра в крикет в очаровательном стиле рисованных картинок. Ее легко освоить и играть, что идеально подходит для любителей случайных игр.",
+      "howToPlayTitle": "Как играть в Doodle Cricket",
+      "howToPlayStep1": "Нажимайте или проводите пальцем, чтобы управлять битой.",
+      "howToPlayStep2": "Отслеживайте момент удара, чтобы отбить мяч как можно дальше.",
+      "howToPlayStep3": "Избегайте отбора у защитников.",
+      "keyFeaturesTitle": "Основные характеристики",
+      "feature1Title": "Простое управление",
+      "feature1Description": "Простые элементы управления делают Doodle Cricket доступной для всех.",
+      "feature2Title": "Бесконечная игра",
+      "feature2Description": "Наслаждайтесь неограниченным действием в крикет.",
+      "feature3Title": "Очаровательная графика",
+      "feature3Description": "Прелестный стиль рисованных картинок.",
+      "feature4Title": "Игра без подключения к сети",
+      "feature4Description": "Играйте в Doodle Cricket в любое время и в любом месте, даже без подключения к интернета."
+    },
+    "HomeFAQs": {
+      "title": "Часто задаваемые вопросы"
+    },
+    "HomeRelatedVideo": {
+      "title": "Видео игры"
+    },
+    "HomeRecommendation": {
+      "title": "Рекомендации"
+    },
+    "HomeComments": {
+      "title": "Комментарии к игре"
+    },
+    "GamePage": {
+      "title": "Все игры",
+      "description": "Просмотр всех игр",
+      "games": "Игры"
+    },
+    "CategoryPage": {
+      "categories": "Категории",
+      "noCategories": "Категории не найдены",
+      "viewMore": "Посмотреть больше",
+      "page": "Страница"
+    }
+  }
+}
