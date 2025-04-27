@@ -1,0 +1,77 @@
+{
+  "google-solitaire": {
+    "title": "Mainkan Google Solitaire Online Gratis – Hiburan Permainan Kartu",
+    "slogan": "Nikmati permainan kartu klasik Google Solitaire di browser Anda!",
+    "description": "Temukan Google Solitaire, permainan kartu yang menawan, sempurna untuk semua tingkat keahlian. Nikmati gameplay-nya yang intuitif dan berbagai mode. Mainkan Google Solitaire sekarang dan uji keterampilan Anda! Rasakan kesenangan berjam-jam bermain Google Solitaire.",
+    "Loading": {
+      "title": "Memuat Google Solitaire"
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Google Solitaire",
+      "description": "Mainkan Google Solitaire online di browser Anda. Nikmati permainan kartu klasik secara gratis!",
+      "iframeTitle": "Pratinjau Permainan",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Permainan",
+      "playGame": "Mainkan Permainan"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google Solitaire",
+      "whatIsTitle": "Apa itu Google Solitaire?",
+      "whatIsDescription": "Google Solitaire adalah permainan kartu pemain tunggal yang dapat dimainkan di browser Anda, berdasarkan gameplay solitaire klasik yang dikembangkan oleh Wes Cherry.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Bangun empat tumpukan fondasi (hati, berlian, keriting, dan sekop) dari A sampai K.",
+      "howToPlayStep2": "Pindahkan kartu dari tableau ke tumpukan fondasi atau di antara kolom tableau.",
+      "howToPlayStep3": "Buat urutan dalam urutan menurun dengan warna bergantian (misalnya, ratu hitam pada raja merah).",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Beberapa Mode Permainan",
+      "feature1Description": "Cocok untuk berbagai preferensi dan tingkat keahlian pemain, dari pemula hingga ahli Google Solitaire.",
+      "feature2Title": "Antarmuka Sederhana",
+      "feature2Description": "Mudah dioperasikan dengan antarmuka pengguna yang bersih dan intuitif di Google Solitaire.",
+      "feature3Title": "Mainkan Kapan Pun, di Mana Pun",
+      "feature3Description": "Sebagai permainan berbasis web, Anda dapat mengakses Google Solitaire di berbagai perangkat dan menikmatinya kapan pun, di mana pun.",
+      "feature4Title": "Fungsi Ulang",
+      "feature4Description": "Memungkinkan pemain untuk membatalkan langkah sebelumnya, sehingga memudahkan untuk memperbaiki kesalahan atau mengeksplorasi strategi berbeda di Google Solitaire."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Permainan"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Permainan",
+      "description": "Semua Permainan",
+      "games": "Permainan"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Lebih Banyak",
+      "page": "Halaman"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "google-solitaire": {
+    "title": "Jogue o Google Solitaire Online Grátis - Diversão de Jogos de Cartas",
+    "slogan": "Aproveite o clássico jogo de cartas Google Solitaire no seu navegador!",
+    "description": "Descubra o Google Solitaire, um jogo de cartas cativante perfeito para todos os níveis de habilidade. Aproveite seu jogo intuitivo e vários modos. Jogue o Google Solitaire agora e teste suas habilidades! Experimente horas de diversão jogando o Google Solitaire.",
+    "Loading": {
+      "title": "Carregando o Google Solitaire"
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Úteis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Google Solitaire",
+      "description": "Jogue o Google Solitaire online no seu navegador. Aproveite o jogo de cartas clássico gratuitamente!",
+      "iframeTitle": "Prévia do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google Solitaire",
+      "whatIsTitle": "O que é o Google Solitaire?",
+      "whatIsDescription": "O Google Solitaire é um jogo de cartas para um jogador jogável no seu navegador, baseado no clássico jogo de paciência desenvolvido por Wes Cherry.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Construa quatro pilhas de fundação (copas, ouros, paus e espadas) de A a K.",
+      "howToPlayStep2": "Mova os cartões da mesa para as pilhas de fundação ou entre as colunas da mesa.",
+      "howToPlayStep3": "Construa sequências em ordem decrescente com cores alternadas (por exemplo, rainha preta em um rei vermelho).",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Vários Modos de Jogo",
+      "feature1Description": "Adequado para diferentes preferências de jogadores e níveis de habilidade, de iniciantes a especialistas no Google Solitaire.",
+      "feature2Title": "Interface Simples",
+      "feature2Description": "Fácil de operar com uma interface de usuário limpa e intuitiva no Google Solitaire.",
+      "feature3Title": "Jogue a Qualquer Hora e Em Qualquer Lugar",
+      "feature3Description": "Como um jogo baseado na web, você pode acessar o Google Solitaire em vários dispositivos e desfrutar dele a qualquer hora e em qualquer lugar.",
+      "feature4Title": "Função Desfazer",
+      "feature4Description": "Permite que os jogadores desfaçam a etapa anterior, facilitando a correção de erros ou a exploração de diferentes estratégias no Google Solitaire."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

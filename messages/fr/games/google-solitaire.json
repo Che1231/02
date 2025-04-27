@@ -1,0 +1,77 @@
+{
+  "google-solitaire": {
+    "title": "Jouer au Solitaire Google en ligne gratuitement - Amusement avec les jeux de cartes",
+    "slogan": "Profitez du jeu de cartes classique Google Solitaire dans votre navigateur !",
+    "description": "Découvrez Google Solitaire, un jeu de cartes captivant parfait pour tous les niveaux. Profitez de son gameplay intuitif et de ses différents modes. Jouez à Google Solitaire maintenant et testez vos compétences ! Vivez des heures de plaisir en jouant à Google Solitaire.",
+    "Loading": {
+      "title": "Chargement de Google Solitaire"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Google Solitaire",
+      "description": "Jouez à Google Solitaire en ligne dans votre navigateur. Profitez du jeu de cartes classique gratuitement !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google Solitaire",
+      "whatIsTitle": "Qu'est-ce que Google Solitaire ?",
+      "whatIsDescription": "Google Solitaire est un jeu de cartes solo jouable dans votre navigateur, basé sur le jeu classique Solitaire développé par Wes Cherry.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Construisez quatre tas de fondation (cœurs, carreaux, trèfles et piques) de l’As au Roi.",
+      "howToPlayStep2": "Déplacez les cartes du tableau vers les tas de fondation ou entre les colonnes du tableau.",
+      "howToPlayStep3": "Construisez des séquences en ordre décroissant avec des couleurs alternées (par exemple, une dame noire sur un roi rouge).",
+      "keyFeaturesTitle": "Principales fonctionnalités",
+      "feature1Title": "Plusieurs modes de jeu",
+      "feature1Description": "Adapté aux différentes préférences et niveaux de compétence des joueurs, des débutants aux experts.",
+      "feature2Title": "Interface simple",
+      "feature2Description": "Facile à utiliser avec une interface utilisateur épurée et intuitive.",
+      "feature3Title": "Jouez n'importe quand, n'importe où",
+      "feature3Description": "En tant que jeu en ligne, vous pouvez accéder à Google Solitaire sur divers appareils et en profiter à tout moment, n'importe où.",
+      "feature4Title": "Fonction Annuler",
+      "feature4Description": "Permet aux joueurs d’annuler la manipulation précédente, facilitant ainsi la correction des erreurs ou l’exploration de différentes stratégies."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

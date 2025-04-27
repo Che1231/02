@@ -1,5 +1,0 @@
-Doodle Cricket is a cute and fun online cricket game inspired by the popular Google Doodle cricket theme. Available for free on Silvergames.com, this charming game takes a whimsical twist on the sport of cricket, where you command a group of crickets playing cricket and face off against their slow but surprisingly technical opponents, snails.
-
-Your main goal in Doodle Cricket is to show off your batting ability by hitting the ball as far as possible and accumulate points along the way. The game's simple mechanics revolve around timing and reflexes, challenging you to swing the cricket bat at the right moment to get the highest score possible.
-
-However, there's a catchy – miss a ball and your game will be over. To succeed in Doodle Cricket, you'll have to improve your reflexes and tune your timing skills to perfection. Every swing of the bat is crucial because it determines your score and progress in the game. The unique duel between crickets and snails adds a whimsical touch to this cricket match. Can your agile cricket team outperform the seemingly slow snail, or will the snail's skills surprise you? The only way to find out is to test your cricket ability

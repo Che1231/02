@@ -1,0 +1,77 @@
+{
+  "google-solitaire": {
+    "title": "Play Google Solitaire Online for Free - Card Game Fun",
+    "slogan": "Enjoy the classic card game Google Solitaire in your browser!",
+    "description": "Discover Google Solitaire, a captivating card game perfect for all skill levels. Enjoy its intuitive gameplay and various modes. Play Google Solitaire now and test your skills! Experience hours of fun playing Google Solitaire.",
+    "Loading": {
+      "title": "Loading Google Solitaire"
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Google Solitaire",
+      "description": "Play Google Solitaire online in your browser. Enjoy the classic card game for free!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google Solitaire",
+      "whatIsTitle": "What is Google Solitaire?",
+      "whatIsDescription": "Google Solitaire is a single-player card game playable in your browser, based on the classic solitaire gameplay developed by Wes Cherry.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Build four foundation piles (hearts, diamonds, clubs, and spades) from A to K.",
+      "howToPlayStep2": "Move cards from the tableau to the foundation piles or between tableau columns.",
+      "howToPlayStep3": "Construct sequences in descending order with alternating colors (e.g., black queen on a red king).",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Multiple Game Modes",
+      "feature1Description": "Suitable for different player preferences and skill levels, from beginners to experts in Google Solitaire.",
+      "feature2Title": "Simple Interface",
+      "feature2Description": "Easy to operate with a clean and intuitive user interface in Google Solitaire.",
+      "feature3Title": "Play Anytime, Anywhere",
+      "feature3Description": "As a web-based game, you can access Google Solitaire on various devices and enjoy it anytime, anywhere.",
+      "feature4Title": "Undo Function",
+      "feature4Description": "Allows players to undo the previous step, making it easy to correct mistakes or explore different strategies in Google Solitaire."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}
