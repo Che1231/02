@@ -1,0 +1,77 @@
+{
+  "klondike-solitaire": {
+    "title": "Kostenloses Klondike-Solitaire Online spielen - Klassiker Kartenspiel",
+    "slogan": "Genießen Sie das zeitlose Klondike-Solitaire-Kartenspiel!",
+    "description": "Entdecken Sie das klassische Klondike-Solitaire-Erlebnis online! Dieses fesselnde Spiel fordert Ihr strategisches Denken heraus. Spielen Sie Klondike-Solitaire, um Ihre Fähigkeiten zu testen und stundenlangen Spaß zu haben. Starten Sie jetzt Ihr Klondike-Solitaire-Spiel!",
+    "Loading": {
+      "title": "Klondike-Solitaire wird geladen"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Klondike Solitaire",
+      "description": "Klondike Solitaire im Vollbildmodus spielen!",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Klondike-Solitaire",
+      "whatIsTitle": "Was ist Klondike-Solitaire?",
+      "whatIsDescription": "Klondike Solitaire ist ein klassisches Einzelspieler-Kartenspiel, das sich durch sein fesselndes Gameplay und seine strategische Tiefe auszeichnet.",
+      "howToPlayTitle": "So spielen Sie Klondike-Solitaire",
+      "howToPlayStep1": "Richten Sie das Tableau mit sieben Spalten Karten ein.",
+      "howToPlayStep2": "Verschieben Sie die Karten in die Fundamentstapel nach Farbe in aufsteigender Reihenfolge (As bis König).",
+      "howToPlayStep3": "Barken Sie verdeckte Karten auf und strategisieren Sie Ihre Züge, um das Tableau zu leeren.",
+      "keyFeaturesTitle": "Wichtigste Merkmale von Klondike-Solitaire",
+      "feature1Title": "Klassisches Gameplay",
+      "feature1Description": "Erleben Sie die authentischen Klondike-Solitaire-Regeln und das traditionelle Kartenlayout.",
+      "feature2Title": "Intuitive Benutzeroberfläche",
+      "feature2Description": "Genießen Sie flüssige Kartenbewegungen und ein benutzerfreundliches Design für ein nahtloses Spielerlebnis.",
+      "feature3Title": "Anpassbare Optionen",
+      "feature3Description": "Personalisieren Sie Ihr Spiel mit verschiedenen Kartendesigns und Hintergründen.",
+      "feature4Title": "Statistikverfolgung",
+      "feature4Description": "Überwachen Sie Ihre Leistung mit detaillierten Statistiken, um Ihre Fähigkeiten zu verbessern."
+    },
+    "HomeFAQs": {
+      "title": "FAQ zu Klondike-Solitaire"
+    },
+    "HomeRelatedVideo": {
+      "title": "Klondike-Solitaire-Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfohlene Klondike-Solitaire-Spiele"
+    },
+    "HomeComments": {
+      "title": "Kommentare zum Klondike-Solitaire-Spiel"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Entdecken Sie eine Vielzahl von Kartenspielen und anderen fesselnden Titeln.",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

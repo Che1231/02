@@ -1,0 +1,77 @@
+{
+  "klondike-solitaire": {
+    "title": "클론다이크 솔리테어 온라인 무료 플레이 - 클래식 카드 게임",
+    "slogan": "타임리스 클론다이크 솔리테어 카드 게임을 즐겨보세요!",
+    "description": "온라인으로 클래식 클론다이크 솔리테어 경험을 발견하세요! 이 매력적인 게임은 전략적 사고를 능숙하게 테스트합니다. 클론다이크 솔리테어를 플레이하여 기술을 시험하고 즐거움을 만끽하세요. 지금 바로 클론다이크 솔리테어 게임을 시작하세요!",
+    "Loading": {
+      "title": "클론다이크 솔리테어 로딩중"
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "내용",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "클론다이크 솔리테어",
+      "description": "전체화면 모드로 클론다이크 솔리테어를 플레이하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "클론다이크 솔리테어",
+      "whatIsTitle": "클론다이크 솔리테어는 무엇인가요?",
+      "whatIsDescription": "클론다이크 솔리테어는 몰입도 높은 게임성과 전략적인 깊이로 유명한 클래식 싱글플레이어 카드 게임입니다.",
+      "howToPlayTitle": "클론다이크 솔리테어 게임 방법",
+      "howToPlayStep1": "7개의 카드 열로 묘사판을 설정하세요.",
+      "howToPlayStep2": "순서대로(A에서 K까지) 맞는 무늬의 카드를 파운데이션 쌓기에 이동하세요.",
+      "howToPlayStep3": "숨겨진 카드를 드러내고 묘사판을 비우기 위한 전략을 세우세요.",
+      "keyFeaturesTitle": "클론다이크 솔리테어의 주요 특징",
+      "feature1Title": "클래식 게임플레이",
+      "feature1Description": "진정한 클론다이크 솔리테어 규칙과 전통적인 카드 배치를 경험하세요.",
+      "feature2Title": "직관적인 인터페이스",
+      "feature2Description": "원활한 카드 이동과 사용자 친화적인 디자인으로 매끄러운 게임 플레이를 즐기세요.",
+      "feature3Title": "맞춤 설정 옵션",
+      "feature3Description": "다양한 카드 디자인과 배경으로 게임을 개인화하세요.",
+      "feature4Title": "통계 추적",
+      "feature4Description": "기술 향상을 위한 상세 통계로 성능을 모니터링하세요."
+    },
+    "HomeFAQs": {
+      "title": "클론다이크 솔리테어 FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "클론다이크 솔리테어 게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 클론다이크 솔리테어 게임"
+    },
+    "HomeComments": {
+      "title": "클론다이크 솔리테어 플레이 코멘트"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "다양한 카드 게임과 기타 매력적인 타이틀을 탐험해보세요.",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

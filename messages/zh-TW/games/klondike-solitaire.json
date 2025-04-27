@@ -1,0 +1,77 @@
+{
+  "klondike-solitaire": {
+    "title": "免費線上玩克隆戴克紙牌遊戲 - 經典紙牌遊戲",
+    "slogan": "享受永恆的克隆戴克紙牌遊戲！",
+    "description": "線上體驗經典的克隆戴克紙牌遊戲！這個引人入勝的遊戲考驗您的策略思維。玩克隆戴克紙牌遊戲，測試您的技能，享受數小時的樂趣。現在開始您的克隆戴克紙牌遊戲！",
+    "Loading": {
+      "title": "正在載入克隆戴克紙牌遊戲"
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "克隆戴克紙牌遊戲",
+      "description": "以全螢幕模式遊玩克隆戴克紙牌遊戲！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "克隆戴克紙牌遊戲",
+      "whatIsTitle": "什麼是克隆戴克紙牌遊戲？",
+      "whatIsDescription": "克隆戴克紙牌遊戲是一款經典的單人紙牌遊戲，以其引人入勝的遊戲性和策略深度而聞名。",
+      "howToPlayTitle": "如何玩克隆戴克紙牌遊戲",
+      "howToPlayStep1": "使用七列卡片設置牌桌。",
+      "howToPlayStep2": "將卡片依花色順序（A到K）移動到底牌堆。",
+      "howToPlayStep3": "揭示隱藏的卡片並策略性地移動卡片以清除牌桌。",
+      "keyFeaturesTitle": "克隆戴克紙牌遊戲主要特色",
+      "feature1Title": "經典遊戲玩法",
+      "feature1Description": "體驗正宗的克隆戴克紙牌遊戲規則和傳統的紙牌佈局。",
+      "feature2Title": "直觀介面",
+      "feature2Description": "享受順暢的卡片移動和用戶友好的設計，讓遊戲體驗更順暢。",
+      "feature3Title": "可客製化選項",
+      "feature3Description": "使用不同的紙牌圖案和背景，客製化您的遊戲。",
+      "feature4Title": "統計追蹤",
+      "feature4Description": "使用詳細的統計資料來監控您的表現，進而提升您的技巧。"
+    },
+    "HomeFAQs": {
+      "title": "關於克隆戴克紙牌遊戲的常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "克隆戴克紙牌遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦克隆戴克紙牌遊戲"
+    },
+    "HomeComments": {
+      "title": "克隆戴克紙牌遊戲遊玩評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "探索各種紙牌遊戲和其他引人入勝的遊戲。",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}
