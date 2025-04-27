@@ -1,0 +1,77 @@
+{
+  "google-baseball": {
+    "title": "구글 야구 무료 온라인 플레이 - 재미있는 야구 그림 게임",
+    "slogan": "구글 야구로 홈런을 치세요!",
+    "description": "구글 야구를 시작해 보세요! 이 매력적인 구글 야구 그림 게임은 타격의 짜릿함을 경험하게 해줍니다. 구식 비주얼과 중독성 있는 게임 플레이를 즐기세요. 지금 무료로 플레이하세요!",
+    "Loading": {
+      "title": "구글 야구 로딩 중"
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "구글 야구",
+      "description": "구글 야구 인터랙티브 그림은 재미있고 즐거운 야구 게임입니다.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "구글 야구",
+      "whatIsTitle": "구글 야구는 무엇인가요?",
+      "whatIsDescription": "구글 야구는 2019년 MLB 시즌을 기념하기 위해 구글에서 제작한 그림 게임입니다. 타자로 플레이하고 홈런을 치세요!",
+      "howToPlayTitle": "구글 야구 플레이 방법",
+      "howToPlayStep1": "방향키를 사용하여 배트 위치를 조정합니다.",
+      "howToPlayStep2": "스페이스바를 눌러 스윙합니다.",
+      "howToPlayStep3": "구글 야구에서 공을 최대한 멀리 치기 위해 스윙 타이밍을 맞추세요.",
+      "keyFeaturesTitle": "구글 야구의 주요 기능",
+      "feature1Title": "복고풍 비주얼 스타일",
+      "feature1Description": "손으로 그린 요소가 있는 클래식 야구 카드 디자인을 즐기세요.",
+      "feature2Title": "사회적 상호 작용",
+      "feature2Description": "구글 야구의 전세계 선수들과 리더보드에서 경쟁하세요.",
+      "feature3Title": "교육적인 재미",
+      "feature3Description": "선수 및 경기장 일러스트를 통해 야구 역사를 배우세요.",
+      "feature4Title": "숨겨진 놀라움",
+      "feature4Description": "비밀 메시지와 특별 애니메이션을 찾아보세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 동영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 코멘트"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

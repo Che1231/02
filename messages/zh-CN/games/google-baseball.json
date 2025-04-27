@@ -1,0 +1,77 @@
+{
+  "google-baseball": {
+    "title": "免费在线玩谷歌棒球——趣味棒球涂鸦游戏",
+    "slogan": "在谷歌棒球中击出全垒打！",
+    "description": "上场打击，玩谷歌棒球！这个引人入胜的谷歌棒球涂鸦游戏让你体验击球的刺激。在谷歌棒球中享受复古的画面和令人上瘾的游戏玩法。现在免费玩！",
+    "Loading": {
+      "title": "正在加载谷歌棒球"
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一个",
+      "previous": "上一个"
+    },
+    "HomeIframe": {
+      "title": "谷歌棒球",
+      "description": "谷歌棒球互动涂鸦游戏是一款有趣且引人入胜的棒球游戏。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL 已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "谷歌棒球",
+      "whatIsTitle": "什么是谷歌棒球？",
+      "whatIsDescription": "谷歌棒球是一款由谷歌创作的涂鸦游戏，以庆祝 2019 年 MLB 赛季。扮演击球员，尝试击出全垒打！",
+      "howToPlayTitle": "如何玩谷歌棒球",
+      "howToPlayStep1": "使用方向键摆放你的球棒。",
+      "howToPlayStep2": "按空格键挥棒。",
+      "howToPlayStep3": "把握时机挥棒，在谷歌棒球中尽可能击球远。",
+      "keyFeaturesTitle": "谷歌棒球的主要功能",
+      "feature1Title": "复古视觉风格",
+      "feature1Description": "享受带有手绘元素的经典棒球卡设计。",
+      "feature2Title": "社交互动",
+      "feature2Description": "在谷歌棒球的排行榜上与世界各地的玩家竞争。",
+      "feature3Title": "寓教于乐",
+      "feature3Description": "通过球员和球场插图了解棒球历史。",
+      "feature4Title": "隐藏惊喜",
+      "feature4Description": "发现秘密信息和特殊动画。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "类别",
+      "noCategories": "未找到类别",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

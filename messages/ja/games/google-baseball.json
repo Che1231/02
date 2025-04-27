@@ -1,0 +1,77 @@
+{
+  "google-baseball": {
+    "title": "無料のGoogle野球オンラインゲーム - 面白い野球の落書きゲーム",
+    "slogan": "Google野球でホームランを打とう！",
+    "description": "Google野球に挑戦！この魅力的なGoogle野球落書きゲームでは、バッティングの興奮を体験できます。レトロなビジュアルと中毒性のあるゲームプレイをGoogle野球で楽しんでください。今すぐ無料でプレイしましょう！",
+    "Loading": {
+      "title": "Google野球の読み込み中"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "Google野球",
+      "description": "Google野球のインタラクティブな落書きは、楽しく魅力的な野球ゲームです。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google野球",
+      "whatIsTitle": "Google野球とは何ですか？",
+      "whatIsDescription": "Google野球は、2019年のMLBシーズンを祝うためにGoogleによって作成された落書きゲームです。バッターとしてプレーし、ホームランを打とう！",
+      "howToPlayTitle": "Google野球の遊び方",
+      "howToPlayStep1": "矢印キーを使ってバットの位置を調整します。",
+      "howToPlayStep2": "スペースキーを押して振り上げます。",
+      "howToPlayStep3": "Google野球で可能な限り遠くまでボールを打ち出すように、振り回すタイミングを合わせます。",
+      "keyFeaturesTitle": "Google野球の主な特徴",
+      "feature1Title": "レトロなビジュアルスタイル",
+      "feature1Description": "手描きの要素を使用した、クラシックな野球カードデザインをお楽しみください。",
+      "feature2Title": "ソーシャルなインタラクション",
+      "feature2Description": "Google野球のリーダーボードで世界中のプレイヤーと競い合ってください。",
+      "feature3Title": "教育的な楽しみ",
+      "feature3Description": "選手やスタジアムのイラストで野球の歴史を学びましょう。",
+      "feature4Title": "隠されたサプライズ",
+      "feature4Description": "秘密のメッセージや特別なアニメーションを発見してください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりませんでした",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}
