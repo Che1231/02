@@ -1,0 +1,77 @@
+{
+  "uno-online": {
+    "title": "เล่น Uno Online ฟรี - เกมไพ่สนุกออนไลน์",
+    "slogan": "เล่น Uno Online กับเพื่อนๆ!  สัมผัสประสบการณ์เกมไพ่คลาสสิก",
+    "description": "พร้อมสำหรับความสนุกของ Uno Online แล้วหรือยัง? ค้นพบเกมไพ่ Uno Online คลาสสิก เหมาะสำหรับทุกเพศทุกวัย! เล่น Uno Online ฟรีออนไลน์ตอนนี้และท้าทายเพื่อนๆ เริ่มเล่น Uno Online วันนี้!",
+    "Loading": {
+      "title": "กำลังโหลด Uno Online"
+    },
+    "Navbar": {
+      "title": "นำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์ที่เป็นมิตร",
+      "articleList": "รายการบทความ",
+      "home": "หน้าแรก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "Uno Online",
+      "description": "Uno Online เป็นเกมไพ่ออนไลน์ที่สร้างขึ้นจากเกมไพ่ Uno แบบดั้งเดิม เล่นกับเพื่อนๆ ออนไลน์ตอนนี้!",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ลงในคลิปบอร์ดแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Uno Online",
+      "whatIsTitle": "Uno Online คืออะไร?",
+      "whatIsDescription": "Uno Online เป็นเกมไพ่ออนไลน์ที่สร้างขึ้นจากเกมไพ่ Uno แบบดั้งเดิม เกมนี้เกี่ยวข้องกับการจับคู่สีหรือตัวเลขเพื่อทิ้งไพ่และเป็นคนแรกที่ทิ้งไพ่ทั้งหมดในมือของคุณ",
+      "howToPlayTitle": "วิธีเล่น Uno Online",
+      "howToPlayStep1": "แต่ละผู้เล่นเริ่มต้นด้วยไพ่เจ็ดใบ",
+      "howToPlayStep2": "จับคู่สีหรือตัวเลขของไพ่บนกองไพ่ทิ้ง",
+      "howToPlayStep3": "เป็นคนแรกที่ทิ้งไพ่ทั้งหมดของคุณเพื่อชนะ!",
+      "keyFeaturesTitle": "คุณสมบัติสำคัญของ Uno Online",
+      "feature1Title": "เรียนรู้ได้ง่าย",
+      "feature1Description": "กฎมีการอธิบายอย่างง่ายและเข้าใจได้สำหรับผู้เล่นทุกวัย",
+      "feature2Title": "ปฏิสัมพันธ์ทางสังคม",
+      "feature2Description": "เล่นกับเพื่อน ครอบครัว หรือผู้เล่นคนอื่นออนไลน์เพื่อความสนุกมากขึ้น",
+      "feature3Title": "เล่นได้ทุกที่ ทุกเวลา",
+      "feature3Description": "เข้าถึงเกมผ่านเบราว์เซอร์โดยไม่ต้องดาวน์โหลดหรือติดตั้ง",
+      "feature4Title": "การเล่นเกมเชิงกลยุทธ์",
+      "feature4Description": "พัฒนาการคิดเชิงกลยุทธ์และทักษะทางสังคม"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นของผู้เล่น"
+    },
+    "GamePage": {
+      "title": "ทุกเกม",
+      "description": "ทุกเกม",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}
