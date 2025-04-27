@@ -1,0 +1,77 @@
+{
+  "solitaire": {
+    "title": "เล่น Solitaire ออนไลน์ฟรี - Klondike, Spider และ FreeCell",
+    "slogan": "เพลิดเพลินกับเกมไพ่ Solitaire คลาสสิกออนไลน์!",
+    "description": "ค้นพบความสุขที่ยั่งยืนของ Solitaire! เกมไพ่คลาสสิกนี้ ซึ่งรู้จักกันในชื่อ Patience นำเสนอความบันเทิงเป็นชั่วโมง เล่น Solitaire Klondike, Solitaire Spider และ Solitaire FreeCell ฟรี และท้าทายความคิดของคุณด้วย Solitaire ในวันนี้!",
+    "Loading": {
+      "title": "กำลังโหลด Solitaire"
+    },
+    "Navbar": {
+      "title": "แถบนำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดในการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์ที่เป็นมิตร",
+      "articleList": "รายการบทความ",
+      "home": "หน้าหลัก",
+      "next": "ต่อไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "เล่น Solitaire ออนไลน์",
+      "description": "เพลิดเพลินกับเกม Solitaire สั้นๆ!",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ลงในคลิปบอร์ดแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Solitaire",
+      "whatIsTitle": "Solitaire คืออะไร?",
+      "whatIsDescription": "Solitaire ซึ่งมักหมายถึง Klondike, Spider หรือ FreeCell เป็นเกมไพ่แบบผู้เล่นเดียวคลาสสิก เป้าหมายคือจัดเรียงไพ่ทั้งหมดลงในกองฟาวน์เดชั่นตามชนิดและค่า",
+      "howToPlayTitle": "วิธีเล่น Solitaire",
+      "howToPlayStep1": "ตั้งค่าแท็บเลอด้วยคอลัมน์ไพ่เจ็ดคอลัมน์",
+      "howToPlayStep2": "ย้ายไพ่ระหว่างคอลัมน์ตามกฎของชนิดและค่า",
+      "howToPlayStep3": "สร้างกองฟาวน์เดชั่นจากเอซถึงกษัตริย์",
+      "keyFeaturesTitle": "คุณสมบัติหลัก",
+      "feature1Title": "การเล่นเกมแบบคลาสสิก",
+      "feature1Description": "สนุกกับกฎดั้งเดิมของเกม Solitaire ต่างๆ",
+      "feature2Title": "หลายรูปแบบ",
+      "feature2Description": "เล่น Klondike, Spider, FreeCell และอื่นๆ",
+      "feature3Title": "อินเทอร์เฟซที่ใช้งานง่าย",
+      "feature3Description": "ง่ายต่อการนำทางและเล่น",
+      "feature4Title": "เล่นฟรี",
+      "feature4Description": "เพลิดเพลินกับเกม Solitaire ฟรีไม่จำกัด"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นเกม"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เรียกดูคอลเลกชันของเรา",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

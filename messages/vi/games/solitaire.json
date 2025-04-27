@@ -1,0 +1,77 @@
+{
+  "solitaire": {
+    "title": "Chơi Solitaire Trực Tuyến Miễn Phí - Klondike, Spider & FreeCell",
+    "slogan": "Thưởng thức các trò chơi bài Solitaire kinh điển trực tuyến!",
+    "description": "Khám phá niềm vui bất diệt của Solitaire! Trò chơi bài kinh điển này, còn được gọi là sự kiên nhẫn, mang đến hàng giờ giải trí. Chơi Solitaire Klondike, Solitaire Spider và Solitaire FreeCell miễn phí và thách thức trí tuệ của bạn với Solitaire ngay hôm nay!",
+    "Loading": {
+      "title": "Đang tải Solitaire"
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Chơi Solitaire Trực tuyến",
+      "description": "Thưởng thức một ván Solitaire nhanh chóng!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải xuống trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Solitaire",
+      "whatIsTitle": "Solitaire là gì?",
+      "whatIsDescription": "Solitaire, thường đề cập đến Klondike, Spider hoặc FreeCell, là một trò chơi bài kinh điển dành cho một người chơi. Mục tiêu là sắp xếp tất cả các lá bài vào chồng nền theo chất và bậc.",
+      "howToPlayTitle": "Cách chơi Solitaire",
+      "howToPlayStep1": "Thiết lập bàn chơi với bảy cột bài.",
+      "howToPlayStep2": "Di chuyển các lá bài giữa các cột, tuân theo quy tắc chất và bậc.",
+      "howToPlayStep3": "Xây dựng chồng nền từ Át đến Kì.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Gameplay kinh điển",
+      "feature1Description": "Hãy tận hưởng quy tắc truyền thống của các trò chơi Solitaire khác nhau.",
+      "feature2Title": "Nhiều biến thể",
+      "feature2Description": "Chơi Klondike, Spider, FreeCell và nhiều hơn nữa.",
+      "feature3Title": "Giao diện thân thiện với người dùng",
+      "feature3Description": "Dễ dàng điều hướng và chơi.",
+      "feature4Title": "Miễn phí chơi",
+      "feature4Description": "Hãy tận hưởng các trò chơi Solitaire không giới hạn miễn phí."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận về trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Xem bộ sưu tập các trò chơi của chúng tôi.",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

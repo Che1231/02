@@ -1,0 +1,77 @@
+{
+  "solitaire": {
+    "title": "Solitaire kostenlos online spielen – Klondike, Spider & FreeCell",
+    "slogan": "Genießen Sie klassische Solitaire-Kartenspiele online!",
+    "description": "Entdecken Sie die zeitlose Freude an Solitaire! Dieses klassische Kartenspiel, auch bekannt als Geduldspiel, bietet stundenlangen Unterhaltung. Spielen Sie Klondike Solitaire, Spider Solitaire und FreeCell Solitaire kostenlos und fordern Sie Ihr Denkvermögen mit Solitaire heute heraus!",
+    "Loading": {
+      "title": "Solitaire wird geladen"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Solitaire online spielen",
+      "description": "Genießen Sie ein schnelles Solitaire-Spiel!",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Solitaire",
+      "whatIsTitle": "Was ist Solitaire?",
+      "whatIsDescription": "Solitaire, oft auf Klondike, Spider oder FreeCell bezogen, ist ein klassisches Einzelspieler-Kartenspiel. Ziel ist es, alle Karten nach Farbe und Rang in die Foundation-Stapel zu ordnen.",
+      "howToPlayTitle": "So spielen Sie Solitaire",
+      "howToPlayStep1": "Richten Sie das Tableau mit sieben Kartenspalten ein.",
+      "howToPlayStep2": "Verschieben Sie Karten zwischen den Spalten, gemäß den Regeln von Farbe und Rang.",
+      "howToPlayStep3": "Bauen Sie die Foundation-Stapel vom Ass bis zum König auf.",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
+      "feature1Title": "Klassisches Gameplay",
+      "feature1Description": "Genießen Sie die traditionellen Regeln verschiedener Solitaire-Spiele.",
+      "feature2Title": "Mehrere Varianten",
+      "feature2Description": "Spielen Sie Klondike, Spider, FreeCell und mehr.",
+      "feature3Title": "Benutzerfreundliche Oberfläche",
+      "feature3Description": "Einfach zu navigieren und zu spielen.",
+      "feature4Title": "Kostenlos spielbar",
+      "feature4Description": "Genießen Sie unbegrenzt viele Solitaire-Spiele kostenlos."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Durchsuchen Sie unsere Spielekollektion.",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

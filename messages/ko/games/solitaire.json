@@ -1,0 +1,77 @@
+{
+  "solitaire": {
+    "title": "무료 온라인 솔리테어 플레이 - 클론다이크, 스파이더 및 프리셀",
+    "slogan": "온라인 클래식 솔리테어 카드 게임을 즐겨보세요!",
+    "description": "솔리테어의 시간을 초월한 즐거움을 경험하세요! 이 클래식 카드 게임(패션이라고도 함)은 수많은 시간 동안의 엔터테인먼트를 제공합니다. 무료로 클론다이크 솔리테어, 스파이더 솔리테어 및 프리셀 솔리테어를 플레이하고 오늘 솔리테어로 마음을 겨루어 보세요!",
+    "Loading": {
+      "title": "솔리테어 로딩 중"
+    },
+    "Navbar": {
+      "title": "탐색 메뉴"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인 정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "온라인 솔리테어 플레이",
+      "description": "빠른 솔리테어 게임을 즐겨보세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "솔리테어",
+      "whatIsTitle": "솔리테어는 무엇인가요?",
+      "whatIsDescription": "솔리테어(클론다이크, 스파이더 또는 프리셀을 종종 의미함)는 클래식한 싱글플레이어 카드 게임입니다. 목표는 모든 카드를 무늬와 숫자 순서대로 파운데이션 묶음에 배열하는 것입니다.",
+      "howToPlayTitle": "솔리테어 게임 방법",
+      "howToPlayStep1": "7개의 카드 열로 테이블을 설정합니다.",
+      "howToPlayStep2": "무늬와 숫자 규칙을 따르면서 열들 간에 카드를 이동시킵니다.",
+      "howToPlayStep3": "에이스부터 킹까지 파운데이션 묶음을 쌓습니다.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "클래식한 게임 플레이",
+      "feature1Description": "다양한 솔리테어 게임의 전통적인 규칙을 즐겨보세요.",
+      "feature2Title": "다양한 변형",
+      "feature2Description": "클론다이크, 스파이더, 프리셀 등을 플레이하세요.",
+      "feature3Title": "사용자 친화적인 인터페이스",
+      "feature3Description": "쉽게 탐색하고 플레이할 수 있습니다.",
+      "feature4Title": "무료 플레이",
+      "feature4Description": "무료로 제한 없이 솔리테어 게임을 즐겨보세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "게임 컬렉션을 둘러보세요.",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

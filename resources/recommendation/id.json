@@ -73,7 +73,7 @@
     "title": "Google Snake",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-26/images/1745643374667-g3146.png",
     "url": "/games/google-snake",
-    "category": "Permainan",
+    "category": "Permainan Ular",
     "visible": true
   },
   {
@@ -350,10 +350,17 @@
     "visible": true
   },
   {
+    "title": "Solitaire",
+    "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-27/images/1745765837198-3npip.png",
+    "url": "/games/solitaire",
+    "category": "Permainan Solitaire",
+    "visible": true
+  },
+  {
     "title": "Mahjong",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-26/images/1745643602248-0raepw.png",
     "url": "/games/mahjong",
-    "category": "Permainan",
+    "category": "Permainan Mahjong",
     "visible": true
   },
   {
@@ -794,14 +801,14 @@
     "title": "Top Speed Racing 3D",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-24/images/1745488687762-8wnz4l.webp",
     "url": "/games/top-speed-racing-3d",
-    "category": "Permainan",
+    "category": "Permainan Balap",
     "visible": true
   },
   {
     "title": "Night City Racing",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743497388982-e2pbjg.avif",
     "url": "/games/night-city-racing",
-    "category": "Permainan",
+    "category": "Permainan Balap",
     "visible": true
   },
   {
@@ -899,7 +906,7 @@
     "title": "Racing Limits",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743496746103-6ycxg.avif",
     "url": "/games/racing-limits",
-    "category": "Permainan",
+    "category": "Permainan Balap",
     "visible": true
   },
   {
@@ -969,7 +976,7 @@
     "title": "Run 2",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743310474587-k44sb.png",
     "url": "/games/run-2",
-    "category": "Permainan",
+    "category": "Permainan Lari",
     "visible": true
   },
   {
@@ -1200,7 +1207,7 @@
     "title": "Turkish draughts",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743521597905-ut9r3s.jpg",
     "url": "/games/turkish-draughts",
-    "category": "Permainan",
+    "category": "Permainan Catur",
     "visible": true
   },
   {
@@ -1298,7 +1305,7 @@
     "title": "World Z Defense - Zombie Defense",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743493409431-79uk07.avif",
     "url": "/games/world-z-defense-zombie-defense",
-    "category": "Permainan",
+    "category": "Permainan Pertahanan",
     "visible": true
   },
   {
@@ -1424,7 +1431,7 @@
     "title": "Hangman",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744782611504-1qd09f.jpg",
     "url": "/games/hangman",
-    "category": "Permainan",
+    "category": "Permainan Teka-Teki Kata",
     "visible": true
   },
   {
@@ -1445,7 +1452,7 @@
     "title": "Google Solitaire",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-27/images/1745765702395-ibvtx.jpg",
     "url": "/games/google-solitaire",
-    "category": "Permainan",
+    "category": "Permainan Solitaire",
     "visible": true
   }
 ]

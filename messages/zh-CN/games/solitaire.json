@@ -1,0 +1,77 @@
+{
+  "solitaire": {
+    "title": "免费在线玩纸牌游戏 - 克隆迪克、蜘蛛纸牌和自由单人纸牌",
+    "slogan": "在线体验经典纸牌游戏！",
+    "description": "体验纸牌游戏的永恒乐趣！这款经典纸牌游戏（也称为纸牌游戏）将为您带来数小时的娱乐。免费玩克隆迪克纸牌、蜘蛛纸牌和自由单人纸牌纸牌游戏，并立即挑战您的思维！",
+    "Loading": {
+      "title": "正在加载纸牌游戏"
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "在线玩纸牌游戏",
+      "description": "快速玩一局纸牌游戏！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "纸牌游戏",
+      "whatIsTitle": "什么是纸牌游戏？",
+      "whatIsDescription": "纸牌游戏（通常指克隆迪克、蜘蛛或自由单人纸牌）是一款经典的单人纸牌游戏。目标是按花色和点数将所有牌排列到基础牌堆中。",
+      "howToPlayTitle": "如何玩纸牌游戏",
+      "howToPlayStep1": "用七列牌设置牌堆。",
+      "howToPlayStep2": "按照花色和点数规则在各列之间移动牌。",
+      "howToPlayStep3": "从A到K建立基础牌堆。",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "经典游戏玩法",
+      "feature1Description": "享受各种纸牌游戏的传统规则。",
+      "feature2Title": "多种变体",
+      "feature2Description": "玩克隆迪克、蜘蛛、自由单人纸牌等游戏。",
+      "feature3Title": "用户友好界面",
+      "feature3Description": "易于导航和游戏。",
+      "feature4Title": "免费游戏",
+      "feature4Description": "免费无限玩纸牌游戏。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "浏览我们的游戏收藏。",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "分类",
+      "noCategories": "未找到分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "solitaire": {
+    "title": "無料オンラインソリティアゲーム - クラシック、スパイダー、フリーセル",
+    "slogan": "オンラインでクラシックなソリティアカードゲームをお楽しみください！",
+    "description": "ソリティアのタイムレスな喜びを発見！このクラシックなカードゲーム（パシエンスとも呼ばれます）は、数時間分のエンターテイメントを提供します。無料のクロンダイクソリティア、スパイダーソリティア、フリーセルソリティアをプレイし、今日ソリティアであなたの知性を試してみてください！",
+    "Loading": {
+      "title": "ソリティアを読み込み中"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "オンラインソリティアをプレイ",
+      "description": "素早くソリティアゲームをお楽しみください！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ソリティア",
+      "whatIsTitle": "ソリティアとは何ですか？",
+      "whatIsDescription": "ソリティア（クロンダイク、スパイダー、フリーセルを指すことが多い）は、クラシックな1人用カードゲームです。目標は、すべてのカードをスートとランクでファウンデーションの山に並べることです。",
+      "howToPlayTitle": "ソリティアをプレイする方法",
+      "howToPlayStep1": "7つの列のカードでタブロウを設定します。",
+      "howToPlayStep2": "スートとランクのルールに従って、列間でカードを移動します。",
+      "howToPlayStep3": "エースからキングまでファウンデーションの山に重ねます。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "クラシックなゲームプレイ",
+      "feature1Description": "さまざまなソリティアゲームの伝統的なルールをお楽しみいただけます。",
+      "feature2Title": "複数のバリエーション",
+      "feature2Description": "クロンダイク、スパイダー、フリーセルなどをプレイします。",
+      "feature3Title": "ユーザーフレンドリーなインターフェース",
+      "feature3Description": "ナビゲートしてプレイしやすく設計されています。",
+      "feature4Title": "無料プレイ",
+      "feature4Description": "無料のソリティアゲームを無限に楽しめます。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "ゲームコレクションをご覧ください。",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

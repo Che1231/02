@@ -1,0 +1,77 @@
+{
+  "solitaire": {
+    "title": "Jugar solitario en línea gratis: Klondike, Spider y FreeCell",
+    "slogan": "¡Disfruta de los clásicos juegos de cartas Solitario online!",
+    "description": "¡Descubre el placer atemporal del solitario! Este clásico juego de cartas, también conocido como paciencia, ofrece horas de entretenimiento. ¡Juega al solitario Klondike, solitario Spider y solitario FreeCell gratis y desafía tu mente con el solitario hoy!",
+    "Loading": {
+      "title": "Cargando solitario"
+    },
+    "Navbar": {
+      "title": "Navegacion"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Jugar solitario online",
+      "description": "¡Disfruta de una partida rápida de solitario!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Solitario",
+      "whatIsTitle": "¿Qué es el solitario?",
+      "whatIsDescription": "El solitario, a menudo referido como Klondike, Spider o FreeCell, es un clásico juego de cartas para un solo jugador. El objetivo es ordenar todas las cartas en montones de fundación por palo y rango.",
+      "howToPlayTitle": "¿Cómo jugar al solitario?",
+      "howToPlayStep1": "Configura el tablero con siete columnas de cartas.",
+      "howToPlayStep2": "Mueve las cartas entre las columnas, siguiendo las reglas de palo y rango.",
+      "howToPlayStep3": "Construye montones de fundación del As al Rey.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Jugabilidad clásica",
+      "feature1Description": "Disfruta de las reglas tradicionales de varios juegos de solitario.",
+      "feature2Title": "Variantes múltiples",
+      "feature2Description": "Juega al solitario Klondike, Spider, FreeCell y más.",
+      "feature3Title": "Interfaz fácil de usar",
+      "feature3Description": "Fácil de navegar y jugar.",
+      "feature4Title": "Gratis para jugar",
+      "feature4Description": "Disfruta de juegos ilimitados de solitario gratis."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Explora nuestra colección de juegos.",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}
