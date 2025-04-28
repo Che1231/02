@@ -32,7 +32,7 @@
     },
     {
       "visible": true,
-      "url": "/games/screw-puzzle-diy",
+      "url": "/games/rooftop-run",
       "position": 7
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "visible": true,
-      "url": "/games/ice-cream-stack-runner",
+      "url": "/games/helix-jump",
       "position": 10
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "visible": true,
-      "url": "/games/sprunki-shooter-2025",
+      "url": "/games/merge-construct",
       "position": 13
     },
     {
@@ -103,114 +103,134 @@
   ],
   "categories": [
     {
-      "name": "최고",
-      "path": "/c/best",
+      "name": "새롭고 트렌디한 게임",
+      "path": "/c/new-trending",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "수작업으로 선별한 최고 평점 게임으로 즐거움이 보장됩니다!"
+      "description": "매주 선정! 인디/신작 클래식 게임 – 즉시 WebGL로 플레이 가능하며, 50만 명 이상의 평점으로 트렌드를 반영합니다."
     },
     {
-      "name": "핫",
-      "path": "/c/hot",
-      "pageSize": 15,
-      "backgroundColor": "#ffdde1",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
-      "description": "이달 가장 많이 플레이되는 게임 – 놓치지 마세요!",
-      "position": 2
-    },
-    {
-      "name": "액션",
-      "path": "/c/action",
+      "name": "액션 게임",
+      "path": "/c/action-game",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "검으로 휘두르며 도전을 극복하는 모험!",
-      "position": 3
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815583893-1ov2te.png",
+      "description": "콤보 매니아! 픽셀 완벽한 조작, 화면 진동 공격 – 터치/키보드 최적화.",
+      "position": 2
     },
     {
-      "name": "모험",
-      "path": "/c/adventure",
+      "name": "슈팅 게임",
+      "path": "/c/shooter-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815702803-jwfoq.png",
+      "position": 3,
+      "description": "탄환 지옥 + 엄폐 전술! 동기화된 SF 탄환으로 100명의 플레이어가 참여하는 실시간 전투."
+    },
+    {
+      "name": "멀티플레이어 게임",
+      "path": "/c/multiplayer-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815711657-79vvcq.png",
       "position": 4,
-      "description": "짜릿한 퀘스트에 나서서 숨겨진 보물을 발견하세요!"
+      "description": "게임 통합 스쿼드! 음성 채팅, 공유 진행 – 포위전에서 협동 퍼즐까지 전환 가능합니다."
     },
     {
-      "name": "슈팅",
-      "path": "/c/shooting",
+      "name": "전략 및 퍼즐",
+      "path": "/c/strategy-puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815763054-q49yn2.png",
       "position": 5,
-      "description": "겨냥, 사격, 몇 초 만에 전장을 지배하세요!"
+      "description": "게으른 전략 + 두뇌 퍼즐! 오프라인 자원 관리 + AR 공간 퍼즐."
     },
     {
-      "name": "레이싱",
-      "path": "/c/racing",
+      "name": "시뮬레이션 & 게으른 게임",
+      "path": "/c/simulation-idle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816169112-k5x75h.png",
       "position": 6,
-      "description": "타이어를 태우고 승리로 질주하세요!"
+      "description": "게으른 이익! 자동 진행 + 클라우드 동기화 QR 코드를 통해 – 오프라인 이득 200%."
     },
     {
-      "name": "하이퍼캐주얼",
-      "path": "/c/hypercasual",
+      "name": "RPG & 모험",
+      "path": "/c/rpg-adventure",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "바쁜 일정에 맞춰 한 번 터치로 즐기는 재미!",
+      "description": "스토리 중심 RPG 및 오픈 월드 모험! 크로스 플랫폼 저장, 협동 퍼즐. 2개의 독특한 세계 – 중세 판타지 & 포스트 아포칼립스 – 숨겨진 이야기 50개 이상.",
       "position": 7
     },
     {
-      "name": "멀티플레이어",
-      "path": "/c/multiplayer",
+      "name": "스포츠 & .IO",
+      "path": "/c/sports-io",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791209881-tlvgkr.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816383288-nxe2wm.png",
       "position": 8,
-      "description": "전 세계 친구들과 팀을 이루거나 경쟁하세요!"
+      "description": ".IO 생존 + 스포츠! 볼 분할 또는 팀 코칭 – 크로스 플랫폼 순위표, 로그인 없음."
     },
     {
-      "name": "클릭러",
-      "path": "/c/clicker",
+      "name": "드라이빙 게임",
+      "path": "/c/driving-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791224103-9c24n9.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816438112-a6e0gj.png",
       "position": 9,
-      "description": "탭하여 금을 벌고 제국의 자동화를하세요!"
+      "description": "먹고 자라고 .IO 우주를 지배하라!"
     },
     {
-      "name": "스포츠",
-      "path": "/c/sports",
+      "name": "호러 게임",
+      "path": "/c/horror-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816432234-45f2b9.png",
       "position": 10,
-      "description": "골, 덩크슛을 성공시키고 기록을 경신하세요!"
+      "description": "맥박 뛰는 호러! WebGL 그림자 + AR 퍼즐 – 사랑스러운 공포와 함께하는 록크라프트 분위기."
     },
     {
-      "name": ".IO",
-      "path": "/c/io",
+      "name": "샌드박스 라이트",
+      "path": "/c/sandbox-lite",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791236590-lmb1ph.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816176521-n6vds.png",
       "position": 11,
-      "description": ".IO 유니버스에서 먹고 자라고 지배하세요! "
+      "description": "자유롭게 건설! 자동 저장 + VR 편집 – 모듈식 농장/포스트 아포칼립스 기지 물리."
+    },
+    {
+      "name": "카드 & 클래식",
+      "path": "/c/card-classic",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816207554-afl8au.png",
+      "position": 12,
+      "description": "지역 클래식! 마작/파이 고우 리메이크 – 기술 적응형 AI, 레트로 픽셀 UI."
+    },
+    {
+      "name": "리듬 & 음성",
+      "path": "/c/rhythm-voice",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816232192-m7iue2.png",
+      "position": 13,
+      "description": "음성 제어 비트! 50ms 마이크 정확도, VTuber 댄스 – 7.1 서라운드 동기화."
     }
   ]
 }

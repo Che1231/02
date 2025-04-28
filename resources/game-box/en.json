@@ -103,114 +103,134 @@
   ],
   "categories": [
     {
-      "name": "Best",
-      "path": "/c/best",
+      "name": "New & Trending",
+      "path": "/c/new-trending",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "Handpicked top-rated games guaranteed to entertain!"
+      "description": "Weekly handpicks! Indie/new classics – instant play via WebGL, trending by 500k+ ratings."
     },
     {
-      "name": "Hot",
-      "path": "/c/hot",
-      "pageSize": 15,
-      "backgroundColor": "#ffdde1",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
-      "description": "The most-played games this month – don’t miss out!",
-      "position": 2
-    },
-    {
-      "name": "Action",
-      "path": "/c/action",
+      "name": "Action Game",
+      "path": "/c/action-game",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Slash through challenges with sword-swinging adventures!",
-      "position": 3
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815583893-1ov2te.png",
+      "description": "Combo mania! Pixel-perfect controls, screen-shaking strikes – touch/keyboard optimized.",
+      "position": 2
     },
     {
-      "name": "Adventure",
-      "path": "/c/adventure",
+      "name": "Shooter Game",
+      "path": "/c/shooter-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815702803-jwfoq.png",
+      "position": 3,
+      "description": "Bullet hell + cover tactics! 100-player real-time battles with synced sci-fi bullets."
+    },
+    {
+      "name": "Multiplayer Game",
+      "path": "/c/multiplayer-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815711657-79vvcq.png",
       "position": 4,
-      "description": "Embark on thrilling quests and discover hidden treasures!"
+      "description": "Cross-game squads! Voice chat, shared progress – switch from sieges to co-op puzzles."
     },
     {
-      "name": "Shooting",
-      "path": "/c/shooting",
+      "name": "Strategy & Puzzle",
+      "path": "/c/strategy-puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815763054-q49yn2.png",
       "position": 5,
-      "description": "Aim, fire, and dominate the battlefield in seconds!"
+      "description": "Idle strategy + brain-teasers! Offline resource management + AR spatial puzzles."
     },
     {
-      "name": "Racing",
-      "path": "/c/racing",
+      "name": "Simulation & Idle",
+      "path": "/c/simulation-idle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816169112-k5x75h.png",
       "position": 6,
-      "description": "Burn rubber and drift into victory!"
+      "description": "Idle profits! Auto-progress + cloud sync via QR – 200% offline gains."
     },
     {
-      "name": "Hypercasual",
-      "path": "/c/hypercasual",
+      "name": "RPG & Adventure",
+      "path": "/c/rpg-adventure",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "One-tap fun that fits your busy schedule!",
+      "description": "Story-driven RPGs & open-world adventures! Cross-platform saves, co-op puzzles. 2 unique worlds – medieval fantasy & post-apoc – with 50+ hidden stories.",
       "position": 7
     },
     {
-      "name": "Multiplayer",
-      "path": "/c/multiplayer",
+      "name": "Sports & IO",
+      "path": "/c/sports-io",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791209881-tlvgkr.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816383288-nxe2wm.png",
       "position": 8,
-      "description": "Team up or compete with friends globally!"
+      "description": ".IO survival + sports! Split balls or coach teams – cross-platform leaderboards, no login."
     },
     {
-      "name": "Clicker",
-      "path": "/c/clicker",
+      "name": "Driving Game",
+      "path": "/c/driving-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791224103-9c24n9.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816438112-a6e0gj.png",
       "position": 9,
-      "description": "Tap to earn gold and automate your empire!"
-    },
-    {
-      "name": "Sports",
-      "path": "/c/sports",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
-      "position": 10,
-      "description": "Score goals, slam dunks, and break records instantly!"
-    },
-    {
-      "name": ".IO",
-      "path": "/c/io",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791236590-lmb1ph.png",
-      "position": 11,
       "description": "Eat, grow, and dominate the .IO universe! "
+    },
+    {
+      "name": "Horror Game",
+      "path": "/c/horror-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816432234-45f2b9.png",
+      "position": 10,
+      "description": "Pulse-racing horror! WebGL shadows + AR puzzles – smart scares with Lovecraftian vibes."
+    },
+    {
+      "name": "Sandbox Lite",
+      "path": "/c/sandbox-lite",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816176521-n6vds.png",
+      "position": 11,
+      "description": "Build freely! Auto-save + VR editing – modular farms/post-apoc bases with physics."
+    },
+    {
+      "name": "Card & Classic",
+      "path": "/c/card-classic",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816207554-afl8au.png",
+      "position": 12,
+      "description": "Regional classics! Mahjong/pai Gow remakes – skill-adaptive AI, retro pixel UI."
+    },
+    {
+      "name": "Rhythm & Voice",
+      "path": "/c/rhythm-voice",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816232192-m7iue2.png",
+      "position": 13,
+      "description": "Voice-controlled beats! 50ms mic precision, VTuber dances – 7.1 surround sync."
     }
   ]
 }

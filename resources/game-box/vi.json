@@ -32,7 +32,7 @@
     },
     {
       "visible": true,
-      "url": "/games/screw-puzzle-diy",
+      "url": "/games/rooftop-run",
       "position": 7
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "visible": true,
-      "url": "/games/ice-cream-stack-runner",
+      "url": "/games/helix-jump",
       "position": 10
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "visible": true,
-      "url": "/games/sprunki-shooter-2025",
+      "url": "/games/merge-construct",
       "position": 13
     },
     {
@@ -103,114 +103,134 @@
   ],
   "categories": [
     {
-      "name": "Tốt nhất",
-      "path": "/c/best",
+      "name": "Mới & Xu hướng",
+      "path": "/c/new-trending",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "Các trò chơi hàng đầu được chọn lọc đảm bảo giải trí!"
+      "description": "Chọn lọc hàng tuần! Game độc lập/kinh điển mới – chơi ngay thông qua WebGL, xu hướng bởi 500.000+ xếp hạng."
     },
     {
-      "name": "Nóng",
-      "path": "/c/hot",
-      "pageSize": 15,
-      "backgroundColor": "#ffdde1",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
-      "description": "Các trò chơi được chơi nhiều nhất trong tháng này – đừng bỏ lỡ!",
-      "position": 2
-    },
-    {
-      "name": "Hành động",
-      "path": "/c/action",
+      "name": "Trò chơi hành động",
+      "path": "/c/action-game",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Vượt qua những thử thách với những cuộc phiêu lưu vung kiếm!",
-      "position": 3
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815583893-1ov2te.png",
+      "description": "Combo cuồng nhiệt! Điều khiển hoàn hảo, đòn đánh rung màn hình – tối ưu hóa cho cảm ứng/bàn phím.",
+      "position": 2
     },
     {
-      "name": "Phiêu lưu",
-      "path": "/c/adventure",
+      "name": "Trò chơi bắn súng",
+      "path": "/c/shooter-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815702803-jwfoq.png",
+      "position": 3,
+      "description": "Bắn đạn địa ngục + chiến thuật che chắn! Trận chiến thời gian thực 100 người chơi với đạn khoa học viễn tưởng đồng bộ."
+    },
+    {
+      "name": "Trò chơi nhiều người chơi",
+      "path": "/c/multiplayer-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815711657-79vvcq.png",
       "position": 4,
-      "description": "Tham gia những cuộc tìm kiếm đầy thú vị và khám phá kho báu ẩn giấu!"
+      "description": "Đội hình chéo game! Chát thoại bằng giọng nói, tiến trình chung – chuyển đổi từ các cuộc bao vây sang các trò chơi hợp tác."
     },
     {
-      "name": "Bắn súng",
-      "path": "/c/shooting",
+      "name": "Chiến lược & Đố",
+      "path": "/c/strategy-puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815763054-q49yn2.png",
       "position": 5,
-      "description": "Nhắm bắn, bắn và thống trị chiến trường trong nháy mắt!"
+      "description": "Chiến lược nghỉ ngơi + câu đố! Quản lý tài nguyên ngoại tuyến + câu đố không gian AR."
     },
     {
-      "name": "Chạy đua",
-      "path": "/c/racing",
+      "name": "Mô phỏng & Ngang hàng",
+      "path": "/c/simulation-idle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816169112-k5x75h.png",
       "position": 6,
-      "description": "Đốt lốp và drift để giành chiến thắng!"
+      "description": "Lợi nhuận từ ngưng nghỉ! Tự động tiến bộ + đồng bộ đám mây thông qua mã QR – tăng lợi nhuận ngoại tuyến 200%."
     },
     {
-      "name": "Hypercasual",
-      "path": "/c/hypercasual",
+      "name": "RPG & Phiêu lưu",
+      "path": "/c/rpg-adventure",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Giải trí một chạm phù hợp với lịch trình bận rộn của bạn!",
+      "description": "RPG hướng câu chuyện & phiêu lưu thế giới mở! Lưu dữ liệu chéo nền tảng, trò chơi hợp tác. 2 thế giới độc đáo – giả tưởng thời trung cổ & hậu tận thế – với 50+ câu chuyện bí mật.",
       "position": 7
     },
     {
-      "name": "Đa người chơi",
-      "path": "/c/multiplayer",
+      "name": "Thể thao & IO",
+      "path": "/c/sports-io",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791209881-tlvgkr.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816383288-nxe2wm.png",
       "position": 8,
-      "description": "Đoàn kết hoặc cạnh tranh với bạn bè trên toàn cầu!"
+      "description": "Sự sống còn IO + thể thao! Chia bóng hoặc huấn luyện đội – bảng xếp hạng chéo nền tảng, không cần đăng nhập."
     },
     {
-      "name": "Clicker",
-      "path": "/c/clicker",
+      "name": "Trò chơi lái xe",
+      "path": "/c/driving-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791224103-9c24n9.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816438112-a6e0gj.png",
       "position": 9,
-      "description": "Nhấn để kiếm vàng và tự động hóa đế chế của bạn!"
+      "description": "Ăn, lớn lên và thống trị vũ trụ .IO!"
     },
     {
-      "name": "Thể thao",
-      "path": "/c/sports",
+      "name": "Trò chơi kinh dị",
+      "path": "/c/horror-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816432234-45f2b9.png",
       "position": 10,
-      "description": "Ghi bàn, ném rổ và phá kỷ lục ngay lập tức!"
+      "description": "Trò chơi kinh dị hồi hộp! Bóng đổ WebGL + câu đố AR – những nỗi sợ thông minh với phong cách Lovecraftian."
     },
     {
-      "name": ".IO",
-      "path": "/c/io",
+      "name": "Sandbox nhẹ",
+      "path": "/c/sandbox-lite",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791236590-lmb1ph.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816176521-n6vds.png",
       "position": 11,
-      "description": "Ăn, lớn lên và thống trị vũ trụ .IO! "
+      "description": "Xây dựng tự do! Lưu tự động + chỉnh sửa VR – trang trại/cơ sở hậu tận thế mô-đun với vật lý."
+    },
+    {
+      "name": "Thẻ & Kinh điển",
+      "path": "/c/card-classic",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816207554-afl8au.png",
+      "position": 12,
+      "description": "Các trò chơi kinh điển của khu vực! Phiên bản lại Mahjong/pai Gow – AI thích nghi với kỹ năng, giao diện pixel cổ điển."
+    },
+    {
+      "name": "Nhịp điệu & Giọng nói",
+      "path": "/c/rhythm-voice",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816232192-m7iue2.png",
+      "position": 13,
+      "description": "Nhịp điệu điều khiển bằng giọng nói! Độ chính xác âm thanh 50ms, vũ điệu VTuber – đồng bộ âm thanh 7.1."
     }
   ]
 }

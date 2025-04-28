@@ -32,7 +32,7 @@
     },
     {
       "visible": true,
-      "url": "/games/screw-puzzle-diy",
+      "url": "/games/rooftop-run",
       "position": 7
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "visible": true,
-      "url": "/games/ice-cream-stack-runner",
+      "url": "/games/helix-jump",
       "position": 10
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "visible": true,
-      "url": "/games/sprunki-shooter-2025",
+      "url": "/games/merge-construct",
       "position": 13
     },
     {
@@ -103,114 +103,134 @@
   ],
   "categories": [
     {
-      "name": "最佳",
-      "path": "/c/best",
+      "name": "最新趨勢",
+      "path": "/c/new-trending",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "精選頂級遊戲，保證娛樂！"
+      "description": "每周精選！獨立遊戲/經典新作 – 立即透過 WebGL 玩，由 50 萬用戶以上評分決定趨勢。"
     },
     {
-      "name": "熱門",
-      "path": "/c/hot",
-      "pageSize": 15,
-      "backgroundColor": "#ffdde1",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
-      "description": "本月最多人遊玩的遊戲，千萬別錯過！",
-      "position": 2
-    },
-    {
-      "name": "動作",
-      "path": "/c/action",
+      "name": "動作遊戲",
+      "path": "/c/action-game",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "揮舞著寶劍，勇闖挑戰！",
-      "position": 3
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815583893-1ov2te.png",
+      "description": "連擊狂潮！像素完美控制，畫面震顫的攻擊 – 觸控/鍵盤最佳化。",
+      "position": 2
     },
     {
-      "name": "冒險",
-      "path": "/c/adventure",
+      "name": "射擊遊戲",
+      "path": "/c/shooter-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815702803-jwfoq.png",
+      "position": 3,
+      "description": "子彈地獄 + 遮蔽戰術！100 人實時的戰鬥，同步的科幻子彈。"
+    },
+    {
+      "name": "多人遊戲",
+      "path": "/c/multiplayer-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815711657-79vvcq.png",
       "position": 4,
-      "description": "展開刺激的冒險，探索隱藏的寶藏！"
+      "description": "跨遊戲小隊！語音聊天、共享進度 – 從圍攻轉換為合作解謎。"
     },
     {
-      "name": "射擊",
-      "path": "/c/shooting",
+      "name": "策略與益智",
+      "path": "/c/strategy-puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815763054-q49yn2.png",
       "position": 5,
-      "description": "瞄準、開火，瞬間掌控戰場！"
+      "description": "閒置策略 + 腦力激盪！離線資源管理 + AR 空間解謎。"
     },
     {
-      "name": "賽車",
-      "path": "/c/racing",
+      "name": "模擬與閒置",
+      "path": "/c/simulation-idle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816169112-k5x75h.png",
       "position": 6,
-      "description": "燃燒橡膠，漂移奪勝！"
+      "description": "閒置獲利！自動進度 + 雲端同步 via QR – 200% 離線收益。"
     },
     {
-      "name": "輕鬆休閒",
-      "path": "/c/hypercasual",
+      "name": "角色扮演與冒險",
+      "path": "/c/rpg-adventure",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "輕鬆一鍵，滿足您忙碌的時間!",
+      "description": "劇情驅動的 RPG 和開放世界冒險！跨平台儲存、合作解謎。2 個獨特的遊戲世界 – 中世紀奇幻和末日後 – 擁有超過 50 個隱藏故事。",
       "position": 7
     },
     {
-      "name": "多人",
-      "path": "/c/multiplayer",
+      "name": "運動與 .IO",
+      "path": "/c/sports-io",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791209881-tlvgkr.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816383288-nxe2wm.png",
       "position": 8,
-      "description": "與朋友們全球合作或競爭！"
+      "description": ".IO 生存 + 運動！拆分球或指導球隊 – 跨平台排行榜，无需登入。"
     },
     {
-      "name": "點擊器",
-      "path": "/c/clicker",
+      "name": "駕駛遊戲",
+      "path": "/c/driving-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791224103-9c24n9.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816438112-a6e0gj.png",
       "position": 9,
-      "description": "點擊賺取金幣，自動化您的帝國！"
+      "description": "吞噬、成長並統治 .IO 宇宙！"
     },
     {
-      "name": "運動",
-      "path": "/c/sports",
+      "name": "恐怖遊戲",
+      "path": "/c/horror-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816432234-45f2b9.png",
       "position": 10,
-      "description": "立即進球、灌籃，打破紀錄！"
+      "description": "脈搏加速的恐怖！WebGL 陰影 + AR 解謎 – 充滿愛麗絲風格的聰明驚嚇。"
     },
     {
-      "name": ".IO",
-      "path": "/c/io",
+      "name": "沙盒遊戲 (精簡版)",
+      "path": "/c/sandbox-lite",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791236590-lmb1ph.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816176521-n6vds.png",
       "position": 11,
-      "description": "吞噬、成長，統治 .IO 宇宙！"
+      "description": "自由搭建！自動儲存 + VR 編輯 – 模組化農場/末日基地具有物理特性。"
+    },
+    {
+      "name": "卡牌與經典",
+      "path": "/c/card-classic",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816207554-afl8au.png",
+      "position": 12,
+      "description": "區域經典！麻將/百家樂重製版本 – 技能適應的 AI、復古像素 UI。"
+    },
+    {
+      "name": "節奏與語音",
+      "path": "/c/rhythm-voice",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816232192-m7iue2.png",
+      "position": 13,
+      "description": "語音控制節拍！50ms 微訊精確度、VTuber 舞蹈 – 7.1 環繞同步。"
     }
   ]
 }

@@ -32,7 +32,7 @@
     },
     {
       "visible": true,
-      "url": "/games/screw-puzzle-diy",
+      "url": "/games/rooftop-run",
       "position": 7
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "visible": true,
-      "url": "/games/ice-cream-stack-runner",
+      "url": "/games/helix-jump",
       "position": 10
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "visible": true,
-      "url": "/games/sprunki-shooter-2025",
+      "url": "/games/merge-construct",
       "position": 13
     },
     {
@@ -103,114 +103,134 @@
   ],
   "categories": [
     {
-      "name": "Mejor",
-      "path": "/c/best",
+      "name": "Nuevas y Tendencias",
+      "path": "/c/new-trending",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "¡Juegos principales seleccionados garantizados para entretener!"
+      "description": "Recomendaciones semanales! Clásicos Indie/nuevos – juego instantáneo a través de WebGL, tendencia por más de 500.000 calificaciones."
     },
     {
-      "name": "Caliente",
-      "path": "/c/hot",
-      "pageSize": 15,
-      "backgroundColor": "#ffdde1",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
-      "description": "¡Los juegos más jugados este mes - no te lo pierdas!",
-      "position": 2
-    },
-    {
-      "name": "Acción",
-      "path": "/c/action",
+      "name": "Juego de Acción",
+      "path": "/c/action-game",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "¡Atraviesa desafíos con aventuras con espada!",
-      "position": 3
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815583893-1ov2te.png",
+      "description": "¡Manía de combinaciones! Controles perfectos en píxeles, golpes que hacen temblar la pantalla – optimizados para toque/teclado.",
+      "position": 2
     },
     {
-      "name": "Aventura",
-      "path": "/c/adventure",
+      "name": "Juego de Disparos",
+      "path": "/c/shooter-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815702803-jwfoq.png",
+      "position": 3,
+      "description": "Infierno de balas + tácticas de cobertura! Batallas en tiempo real para 100 jugadores con balas de ciencia ficción sincronizadas."
+    },
+    {
+      "name": "Juego Multijugador",
+      "path": "/c/multiplayer-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815711657-79vvcq.png",
       "position": 4,
-      "description": "¡Embárcate en emocionantes misiones y descubre tesoros ocultos!"
+      "description": "Escuadrones multijuego! Chat de voz, progreso compartido – cambia de asedios a rompecabezas cooperativos."
     },
     {
-      "name": "Disparos",
-      "path": "/c/shooting",
+      "name": "Estrategia y Rompecabezas",
+      "path": "/c/strategy-puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815763054-q49yn2.png",
       "position": 5,
-      "description": "¡Apunta, dispara y domina el campo de batalla en segundos!"
+      "description": "Estrategia inactiva + acertijos! Administración de recursos sin conexión + rompecabezas espaciales de realidad aumentada."
     },
     {
-      "name": "Carreras",
-      "path": "/c/racing",
+      "name": "Simulación e Inactivo",
+      "path": "/c/simulation-idle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816169112-k5x75h.png",
       "position": 6,
-      "description": "¡Quema caucho y deslízate hacia la victoria!"
+      "description": "Beneficios inactivos! Progreso automático + sincronización en la nube a través de código QR – ganancias 200% sin conexión."
     },
     {
-      "name": "Hypercasual",
-      "path": "/c/hypercasual",
+      "name": "RPG y Aventura",
+      "path": "/c/rpg-adventure",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "¡Disfruta de la diversión de un toque que se adapta a tu apretada agenda!",
+      "description": "Juegos RPG con historia y aventuras de mundo abierto! Guardados multiplataforma, rompecabezas cooperativos. 2 mundos únicos – fantasía medieval y postapocalíptica – con más de 50 historias ocultas.",
       "position": 7
     },
     {
-      "name": "Multijugador",
-      "path": "/c/multiplayer",
+      "name": "Deportes e IO",
+      "path": "/c/sports-io",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791209881-tlvgkr.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816383288-nxe2wm.png",
       "position": 8,
-      "description": "¡Únete o compite con tus amigos a nivel global!"
+      "description": "Supervivencia .IO + deportes! Divide las pelotas o dirige equipos – tablas de clasificación multiplataforma, sin inicio de sesión."
     },
     {
-      "name": "Clicker",
-      "path": "/c/clicker",
+      "name": "Juego de Conducción",
+      "path": "/c/driving-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791224103-9c24n9.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816438112-a6e0gj.png",
       "position": 9,
-      "description": "¡Toca para ganar oro y automatizar tu imperio!"
+      "description": "Come, crece y domina el universo .IO ! "
     },
     {
-      "name": "Deportes",
-      "path": "/c/sports",
+      "name": "Juego de Terror",
+      "path": "/c/horror-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816432234-45f2b9.png",
       "position": 10,
-      "description": "¡Marca goles, encestes y bate récords al instante!"
+      "description": "Terror palpitante! Sombras de WebGL + rompecabezas de RA – sustos inteligentes con vibraciones Lovecraftianas."
     },
     {
-      "name": ".IO",
-      "path": "/c/io",
+      "name": "Sandbox Lite",
+      "path": "/c/sandbox-lite",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791236590-lmb1ph.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816176521-n6vds.png",
       "position": 11,
-      "description": "¡Come, crece y domina el universo .IO!"
+      "description": "Construye libremente! Guardado automático + edición de RV – granjas modulares/bases postapocalípticas con física."
+    },
+    {
+      "name": "Carta y Clásica",
+      "path": "/c/card-classic",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816207554-afl8au.png",
+      "position": 12,
+      "description": "Clásicos regionales! Remakes de Mahjong/Pai Gow – IA adaptativa a la habilidad, IU retro de píxeles."
+    },
+    {
+      "name": "Ritmo y Voz",
+      "path": "/c/rhythm-voice",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816232192-m7iue2.png",
+      "position": 13,
+      "description": "Ritmos controlados por voz! Precisión de micrófonos de 50 ms, baile de VTuber – sincronización envolvente 7.1."
     }
   ]
 }

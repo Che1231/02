@@ -32,7 +32,7 @@
     },
     {
       "visible": true,
-      "url": "/games/screw-puzzle-diy",
+      "url": "/games/rooftop-run",
       "position": 7
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "visible": true,
-      "url": "/games/ice-cream-stack-runner",
+      "url": "/games/helix-jump",
       "position": 10
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "visible": true,
-      "url": "/games/sprunki-shooter-2025",
+      "url": "/games/merge-construct",
       "position": 13
     },
     {
@@ -103,124 +103,134 @@
   ],
   "categories": [
     {
-      "name": "Найкращі",
-      "path": "/c/best",
+      "name": "Нові та трендові",
+      "path": "/c/new-trending",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "Добори найкращих ігор, які гарантовано розважать вас!"
+      "description": "Щотижневі рекомендації! Інді-новинки та класика – миттєва гра через WebGL, трендові за 500 000+ оцінок."
     },
     {
-      "name": "Гарячі",
-      "path": "/c/hot",
-      "pageSize": 15,
-      "backgroundColor": "#ffdde1",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
-      "description": "Найбільш популярні ігри цього місяця – не пропустіть!",
-      "position": 2
-    },
-    {
-      "name": "Дії",
-      "path": "/c/action",
+      "name": "Гра дії",
+      "path": "/c/action-game",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Пробивайтеся крізь виклики з пригодами з розмахування мечем!",
-      "position": 3
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815583893-1ov2te.png",
+      "description": "Манія комбо! Піксельна точність керування, потрясіння екрану – оптимізовано для сенсорного введення та клавіатури.",
+      "position": 2
     },
     {
-      "name": "Пригоди",
-      "path": "/c/adventure",
+      "name": "Гра стрільба",
+      "path": "/c/shooter-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815702803-jwfoq.png",
+      "position": 3,
+      "description": "Кулі з пекла + тактика прикриття! Реальні битви з 100 гравцями з синхронізованими науково-фантастичними кулями."
+    },
+    {
+      "name": "Мультиплейерна гра",
+      "path": "/c/multiplayer-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815711657-79vvcq.png",
       "position": 4,
-      "description": "Вступайте в захоплюючі пошуки та відкрийте сховані скарби!"
+      "description": "Команди в різних іграх! Голосовий чат, спільний прогрес – переходьте від облог до кооперативних головоломок."
     },
     {
-      "name": "Стрілянина",
-      "path": "/c/shooting",
+      "name": "Стратегія та головоломки",
+      "path": "/c/strategy-puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815763054-q49yn2.png",
       "position": 5,
-      "description": "Націлюйтесь, стріляйте та домінуйте на полі битви за секунди!"
+      "description": "Ігрова стратегія + головоломки! Автоматичне керування ресурсами + просторові головоломки AR."
     },
     {
-      "name": "Гонки",
-      "path": "/c/racing",
+      "name": "Симуляція та бездіяльність",
+      "path": "/c/simulation-idle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816169112-k5x75h.png",
       "position": 6,
-      "description": "Підпалюйте покришки та втікайте до перемоги!"
+      "description": "Бездіяльний прибуток! Автоматичний прогрес + синхронізація в хмарі за допомогою QR-коду – 200% виграшів офлайн."
     },
     {
-      "name": "Гіперказуальні",
-      "path": "/c/hypercasual",
+      "name": "RPG та пригоди",
+      "path": "/c/rpg-adventure",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Один дотик для задоволення, що підходить до вашого напруженого графіку!",
+      "description": "Пригодницькі RPG та пригоди з відкритим світом! Збереження між платформами, кооперативні головоломки. 2 унікальні світи – середньовічна фантастика та постапокаліптичний – з понад 50 таємними історіями.",
       "position": 7
     },
     {
-      "name": "Багатокористувацькі",
-      "path": "/c/multiplayer",
+      "name": "Спорт та IO",
+      "path": "/c/sports-io",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791209881-tlvgkr.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816383288-nxe2wm.png",
       "position": 8,
-      "description": "Об'єднуйтесь або змагайтесь з друзями по всьому світу!"
+      "description": "Виживання в IO та спорт! Розділіть м’ячі або тренуйте команди – таблиці лідерів між платформами, без входу."
     },
     {
-      "name": "Клікеры",
-      "path": "/c/clicker",
+      "name": "Гра водіння",
+      "path": "/c/driving-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791224103-9c24n9.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816438112-a6e0gj.png",
       "position": 9,
-      "description": "Натискайте, щоб заробити золото та автоматизувати свою імперію!"
+      "description": "Пожирайте, зростайте та домінуйте в Всесвіті IO!"
     },
     {
-      "name": "Спорт",
-      "path": "/c/sports",
+      "name": "Гра жахів",
+      "path": "/c/horror-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816432234-45f2b9.png",
       "position": 10,
-      "description": "Забивайте голи, виконуйте данки та встановлюйте рекорди миттєво!"
+      "description": "Тривожні жахи! WebGL тіні + головоломки AR – розумні лякання з атмосферою Lovecrafta."
     },
     {
-      "name": ".IO",
-      "path": "/c/io",
+      "name": "Пісочниця Lite",
+      "path": "/c/sandbox-lite",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791236590-lmb1ph.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816176521-n6vds.png",
       "position": 11,
-      "description": "Їжте, ростіть і домінуйте у всесвіті .IO!"
+      "description": "Вільне будівництво! Автоматичне збереження + редагування VR – модульні ферми/бази постапокаліптичного світу з фізикою."
     },
     {
-      "name": "111",
-      "path": "/c/111",
+      "name": "Карти та класика",
+      "path": "/c/card-classic",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816207554-afl8au.png",
       "position": 12,
-      "description": "111"
+      "description": "Регіональні класики! Переробки Маджонгу/пай Гоу – адаптивний AI, ретро піксель інтерфейс."
+    },
+    {
+      "name": "Ритм та голос",
+      "path": "/c/rhythm-voice",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816232192-m7iue2.png",
+      "position": 13,
+      "description": "Ритм, керований голосом! Точність мікрофона 50 мс, танці VTuber – синхронізація 7.1 об’єму."
     }
   ]
 }
