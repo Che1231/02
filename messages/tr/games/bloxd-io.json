@@ -1,0 +1,77 @@
+{
+  "bloxd-io": {
+    "title": "Bloxd.io: Çevrimiçi Minecraft tarzı IO Oyun Modlarını Ücretsiz Oynayın",
+    "slogan": "Bloxd.io'yu ücretsiz oynayın!",
+    "description": "Bloxd.io'ya dalın, çeşitli heyecan verici modlara sahip Minecraft tarzı bir IO oyunudur! Parkur zorluklarını, kum kutusu yaratıcılığını ve çatışma senaryolarını keşfedin. Bloxd.io'yu şimdi oynayın ve arkadaşlarınızla sonsuz eğlence yaşayın. Bugün Bloxd.io'nun voksel evrenine katılın!",
+    "Loading": {
+      "title": "Bloxd.io Yükleniyor"
+    },
+    "Navbar": {
+      "title": "Gezinme"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Kılavuz",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Bloxd.io Oyna",
+      "description": "Bloxd.io, Minecraft grafiklerine ve çeşitli oyun modlarına sahip bir IO macera oyunudur.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Bloxd.io",
+      "whatIsTitle": "Bloxd.io Nedir?",
+      "whatIsDescription": "Bloxd.io, çeşitli oyun modlarına sahip çok oyunculu çevrimiçi bir oyundur. Bloxd.io, oynayacağınız moda bağlı olarak parkur, kum kutusu yaratıcılığı ve savaş içerir. Bloxd.io, eğlenceli yeni özellikler ve modlarla düzenli olarak güncellenmektedir.",
+      "howToPlayTitle": "Bloxd.io Nasıl Oynanır?",
+      "howToPlayStep1": "Zıplama ve hareketlerinizi doğru bir şekilde zamanlayarak zorlu engelleri aşın.",
+      "howToPlayStep2": "Hayatta kalmak için kaynakları toplayın, aletler üretin ve hayatta kalma modunda düşmanlara karşı koyun.",
+      "howToPlayStep3": "Bloxd.io yolculuğunuza başlamak için çeşitli oyun modlarından birini seçin, her biri çeşitli zorluklarla dolu.",
+      "keyFeaturesTitle": "Bloxd.io'nun Ana Özellikleri",
+      "feature1Title": "Eğlenceli, voksel dünyalar",
+      "feature1Description": "Bloxd.io'yu web tarayıcınızdan ücretsiz oynayarak eğlenceli voksel dünyaları keşfedin.",
+      "feature2Title": "Çeşitli Oyun Modları",
+      "feature2Description": "Bloxd.io'da farklı hedeflerle çeşitli oyun modlarını oynayın.",
+      "feature3Title": "Altın Kazan",
+      "feature3Description": "Başarılarınızdan altın kazanın ve Bloxd.io'daki dükkanda harcayın.",
+      "feature4Title": "Çok Oyunculu Oyunlar",
+      "feature4Description": "Bloxd.io'da arkadaşlarınızla çok oyunculu oyunlara katılın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

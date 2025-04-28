@@ -1,0 +1,77 @@
+{
+  "bloxd-io": {
+    "title": "Bloxd.io : Jouez à des modes de jeu IO de style Minecraft en ligne gratuitement",
+    "slogan": "Jouez à Bloxd.io gratuitement !",
+    "description": "Plongez dans Bloxd.io, un jeu IO inspiré de Minecraft avec divers modes passionnants ! Explorez les défis de parkour, la créativité de bac à sable et les scénarios de combat. Jouez maintenant à Bloxd.io et vivez des moments de plaisir infinis avec vos amis. Rejoignez l'univers voxelé de Bloxd.io aujourd'hui !",
+    "Loading": {
+      "title": "Chargement de Bloxd.io"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Jouer à Bloxd.io",
+      "description": "Bloxd.io est un jeu d'aventure IO présentant des graphismes Minecraft et divers modes de jeu.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Bloxd.io",
+      "whatIsTitle": "Qu'est-ce que Bloxd.io ?",
+      "whatIsDescription": "Bloxd.io est un jeu en ligne multijoueur avec une variété de modes de jeu. Bloxd.io propose du parkour, de la créativité en bac à sable et des combats, selon le mode que vous choisissez de jouer. Bloxd.io est régulièrement mis à jour avec de nouvelles fonctionnalités et des nouveaux modes amusants.",
+      "howToPlayTitle": "Comment jouer à Bloxd.io",
+      "howToPlayStep1": "Naviguez dans des parcours d'obstacles stimulants en synchronisant vos sauts et vos mouvements avec précision.",
+      "howToPlayStep2": "Recueillez des ressources, créez des outils et repoussez les ennemis pour survivre en mode survie.",
+      "howToPlayStep3": "Choisissez parmi plusieurs modes de jeu pour commencer le voyage de Bloxd.io, chacun avec une variété de défis.",
+      "keyFeaturesTitle": "Principales caractéristiques de Bloxd.io",
+      "feature1Title": "Des mondes voxélisés amusants",
+      "feature1Description": "Explorez des mondes voxélisés amusants gratuitement dans votre navigateur web en jouant à Bloxd.io.",
+      "feature2Title": "Divers modes de jeu",
+      "feature2Description": "Jouez à divers modes de jeu avec différents objectifs dans Bloxd.io.",
+      "feature3Title": "Gagner de l'or",
+      "feature3Description": "Gagnez de l'or grâce à vos réalisations et dépensez-le dans la boutique de Bloxd.io.",
+      "feature4Title": "Jeux multijoueurs",
+      "feature4Description": "Rejoignez vos amis dans des jeux multijoueurs sur Bloxd.io."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux Questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires de jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

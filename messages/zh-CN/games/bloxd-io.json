@@ -1,0 +1,77 @@
+{
+  "bloxd-io": {
+    "title": "Bloxd.io：免费在线玩像素风格的IO游戏模式，类似Minecraft",
+    "slogan": "免费玩Bloxd.io！",
+    "description": "潜入Bloxd.io，一款受Minecraft启发的IO游戏，包含各种令人兴奋的模式！探索跑酷挑战、沙盒创造性和战斗场景。现在就玩Bloxd.io，与朋友一起体验无穷的乐趣。今天就加入Bloxd.io的像素世界！",
+    "Loading": {
+      "title": "加载Bloxd.io"
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "玩Bloxd.io",
+      "description": "Bloxd.io是一款IO冒险游戏，采用Minecraft图形和各种游戏模式。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "玩游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Bloxd.io",
+      "whatIsTitle": "Bloxd.io是什么？",
+      "whatIsDescription": "Bloxd.io是一款多人在线游戏，拥有各种游戏模式。Bloxd.io包含跑酷、沙盒创造性和战斗，具体取决于您选择的游戏模式。Bloxd.io会定期更新有趣的新的功能和模式。",
+      "howToPlayTitle": "如何玩Bloxd.io",
+      "howToPlayStep1": "通过准确计时跳跃和移动来导航具有挑战性的障碍赛道。",
+      "howToPlayStep2": "收集资源，制作工具，并在生存模式中抵御敌人以生存。",
+      "howToPlayStep3": "从不同的游戏模式中选择一个开始Bloxd.io之旅，每个模式都有各种挑战。",
+      "keyFeaturesTitle": "Bloxd.io的主要特点",
+      "feature1Title": "有趣的像素世界",
+      "feature1Description": "在您的网络浏览器中免费探索有趣的像素世界，玩Bloxd.io。",
+      "feature2Title": "各种游戏模式",
+      "feature2Description": "在Bloxd.io中玩具有不同目标的各种游戏模式。",
+      "feature3Title": "赚取金币",
+      "feature3Description": "通过您的成就赚取金币，并在Bloxd.io内的商店中花费。",
+      "feature4Title": "多人游戏",
+      "feature4Description": "在Bloxd.io上与朋友一起加入多人游戏。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "类别",
+      "noCategories": "未找到类别",
+      "viewMore": "查看更多",
+      "page": "页"
+    }
+  }
+}

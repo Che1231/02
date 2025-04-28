@@ -1,0 +1,120 @@
+{
+  "name": "Bloxd.io",
+  "pagePath": "/games/bloxd-io",
+  "pageName": "bloxd-io",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://bloxd.io/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "CosmicPhoenix87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicPhoenix87.png",
+      "content": "Wow! Bloxd.io has been so much fun! I love how you can create anything in Creative mode. I spent hours building a giant castle!"
+    },
+    {
+      "author": "SavageKatana_99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatana_99.png",
+      "content": "The BloxdHOP is really challenging but so addictive! I just can't stop trying to get to the end in time. Any tips?"
+    },
+    {
+      "author": "PhantomRevolver87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomRevolver87.png",
+      "content": "This DoodleCube is surprisingly fun and creative. Loved building that pirate ship with my friends! Great game, man."
+    },
+    {
+      "author": "NeonBlade_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonBlade_X.png",
+      "content": "Peaceful mode is like a breath of fresh air. Just relax, mine some resources, and enjoy the world. No rush here!"
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "CubeWarfare is wild! Battle it out with other players and even build your own defenses. So much action and excitement!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Hey, does anyone else find the EvilTower super hard? I keep falling down every time. Any advice, pros?"
+    },
+    {
+      "author": "xX_SparkCrafter_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_SparkCrafter_Xx.png",
+      "content": "Just picked up the Survival mode today. Got ambushed by monsters! Guess I need more practice gathering stones and building a shelter."
+    },
+    {
+      "author": "StalkingKraken99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken99.png",
+      "content": "Bloxd.io is such a cool mix of parkour, building, and battling. Can't wait to see what new game modes they add next!"
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "DoodleCube is mind-blowing! I drew an entire city and then watched people vote on it. Amazing experience!"
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "Really enjoying the parkour in BloxdHOP. It’s tricky but once you get the hang of it, it's pure fun!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745834607843-ok5re9.avif",
+  "page_path": "/games/bloxd-io",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Sandbox Lite"
+  ],
+  "createdTime": "2025-04-28 18:03:08"
+}
