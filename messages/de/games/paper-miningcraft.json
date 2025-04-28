@@ -1,0 +1,77 @@
+{
+  "paper-miningcraft": {
+    "title": "Paper Miningcraft: Kostenloser Online-Spiel – Bauen und Erkunden!",
+    "slogan": "",
+    "description": "Tauchen Sie ein in Paper Miningcraft, eine 2D-Neuauflage des klassischen Sandbox-Spiels. Sammeln Sie Ressourcen, fertigen Sie Werkzeuge an und bauen Sie Ihre Welt! Genießen Sie Paper Miningcraft kostenlos online und beginnen Sie noch heute Ihr Abenteuer!",
+    "Loading": {
+      "title": "Paper Miningcraft wird geladen"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Paper Miningcraft",
+      "description": "Paper Miningcraft ist eine 2D-Version des beliebten Sandbox-Spiels. Spielen Sie jetzt in Ihrem Browser!",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Paper Miningcraft",
+      "whatIsTitle": "Was ist Paper Miningcraft?",
+      "whatIsDescription": "Paper Miningcraft ist eine Online-2D-Version des beliebten Sandbox-Spiels Minecraft, erstellt von Mojang Studios. Wählen Sie einen Spielmodus, ein Skin und erkunden Sie eine quadratische Pixelwelt, genau wie in Minecraft.",
+      "howToPlayTitle": "So spielen Sie Paper Miningcraft",
+      "howToPlayStep1": "WASD- oder Pfeiltasten zum Bewegen, Springen oder Schwimmen",
+      "howToPlayStep2": "Linksklick zum Graben oder Platzieren von Blöcken",
+      "howToPlayStep3": "E drücken, um den Inventar- oder Truheninhalt zu öffnen",
+      "keyFeaturesTitle": "Wichtigste Eigenschaften",
+      "feature1Title": "2D-Grafik",
+      "feature1Description": "Erleben Sie die vertraute Welt von Minecraft aus einer einzigartigen 2D-Perspektive.",
+      "feature2Title": "Mehrere Spielmodi",
+      "feature2Description": "Wählen Sie zwischen den Modi Survival, Friedlich und Kreativ, um Ihrem Spielstil zu entsprechen.",
+      "feature3Title": "Benutzerdefinierte Karten",
+      "feature3Description": "Erkunden Sie unzählige benutzerdefinierte Karten, die von anderen Spielern entworfen wurden.",
+      "feature4Title": "Verschiedene Werkzeuge und Ressourcen",
+      "feature4Description": "Nutzen Sie eine breite Palette an Werkzeugen, Optionen und Ressourcen, um zu bauen und zu überleben."
+    },
+    "HomeFAQs": {
+      "title": "Häufig gestellte Fragen zu Paper Miningcraft"
+    },
+    "HomeRelatedVideo": {
+      "title": "Paper Miningcraft Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Weitere Spiele wie Paper Miningcraft"
+    },
+    "HomeComments": {
+      "title": "Kommentare zum Spielen von Paper Miningcraft"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Durchsuchen Sie unsere Sammlung von Spielen.",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr ansehen",
+      "page": "Seite"
+    }
+  }
+}

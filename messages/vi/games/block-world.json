@@ -1,0 +1,77 @@
+{
+  "block-world": {
+    "title": "Chơi Block World trực tuyến miễn phí - Trò chơi xây dựng thú vị",
+    "slogan": "",
+    "description": "Tham gia Block World, một trò chơi xây dựng hấp dẫn lấy cảm hứng từ Minecraft. Khám phá vô số khả năng và xây dựng thế giới mơ ước của bạn. Chơi Block World ngay bây giờ và thỏa sức sáng tạo! Tận hưởng trò chơi Block World miễn phí ngay hôm nay.",
+    "Loading": {
+      "title": "Đang tải Block World"
+    },
+    "Navbar": {
+      "title": "Điều hướng"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước"
+    },
+    "HomeIframe": {
+      "title": "Block World",
+      "description": "Khám phá những khả năng vô hạn của Block World, một trò chơi xây dựng theo phong cách Minecraft.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào bộ nhớ tạm!",
+      "downloadGame": "Tải game",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Block World",
+      "whatIsTitle": "Block World là gì?",
+      "whatIsDescription": "Block World là một trò chơi xây dựng tương tự như phong cách Minecraft. Đây là một trò chơi miễn phí, bạn hoàn toàn tự do tưởng tượng mà không bị giới hạn.",
+      "howToPlayTitle": "Cách chơi Block World",
+      "howToPlayStep1": "WASD hoặc các phím mũi tên để di chuyển",
+      "howToPlayStep2": "Nhấn chuột trái để xóa khối, nhấn chuột phải để đặt khối",
+      "howToPlayStep3": "Phím cách để nhảy, số từ 1 đến 9 để chọn khối",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Xây dựng dễ dàng",
+      "feature1Description": "Cơ chế xây dựng và điều khiển cực kỳ dễ dàng trong Block World.",
+      "feature2Title": "Các chế độ chơi",
+      "feature2Description": "Bạn có thể chọn từ 2 chế độ chơi: cuộc sống hoặc tự do trong Block World.",
+      "feature3Title": "Ngày và đêm chân thực",
+      "feature3Description": "Nó diễn ra giống như cuộc sống thực, ngày và đêm. Rất chân thực!",
+      "feature4Title": "Đèn đuốc và đèn pin",
+      "feature4Description": "Ban đêm sẽ có đèn pin để hỗ trợ bạn. Sử dụng đèn đuốc. Sử dụng đèn pin"
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi Block World"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận chơi game"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các loại",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

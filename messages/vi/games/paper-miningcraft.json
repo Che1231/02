@@ -1,0 +1,77 @@
+{
+  "paper-miningcraft": {
+    "title": "Paper Miningcraft: Trò chơi trực tuyến miễn phí - Xây dựng và Khám phá!",
+    "slogan": "",
+    "description": "Chìm đắm trong Paper Miningcraft, một phiên bản tái hiện 2D của trò chơi sandbox kinh điển. Thu thập tài nguyên, chế tạo công cụ và xây dựng thế giới của bạn! Tận hưởng Paper Miningcraft trực tuyến miễn phí và bắt đầu cuộc phiêu lưu của bạn ngay hôm nay!",
+    "Loading": {
+      "title": "Đang tải Paper Miningcraft"
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Paper Miningcraft",
+      "description": "Paper Miningcraft là phiên bản 2D của trò chơi sandbox phổ biến. Chơi ngay trên trình duyệt của bạn!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Màn hình toàn cảnh",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép đường dẫn vào khay nhớ tạm!",
+      "downloadGame": "Tải game",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Paper Miningcraft",
+      "whatIsTitle": "Paper Miningcraft là gì?",
+      "whatIsDescription": "Paper Miningcraft là một phiên bản 2D trực tuyến của trò chơi sandbox phổ biến Minecraft do Mojang Studios phát triển. Chọn chế độ chơi, da và khám phá thế giới khối pixel giống như trong Minecraft.",
+      "howToPlayTitle": "Cách chơi Paper Miningcraft",
+      "howToPlayStep1": "WASD hoặc các phím mũi tên để di chuyển, nhảy hoặc bơi",
+      "howToPlayStep2": "Nhấp chuột trái để đào hoặc đặt khối",
+      "howToPlayStep3": "E để mở kho hoặc hòm",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Đồ họa 2D",
+      "feature1Description": "Trải nghiệm thế giới quen thuộc của Minecraft trong một quan điểm 2D độc đáo.",
+      "feature2Title": "Nhiều chế độ chơi",
+      "feature2Description": "Chọn từ chế độ Sinh tồn, Hòa bình và Sáng tạo để phù hợp với phong cách chơi của bạn.",
+      "feature3Title": "Bản đồ tùy chỉnh",
+      "feature3Description": "Khám phá rất nhiều bản đồ tùy chỉnh được thiết kế bởi các người chơi khác.",
+      "feature4Title": "Nhiều công cụ và tài nguyên",
+      "feature4Description": "Sử dụng nhiều công cụ, tùy chọn và tài nguyên để xây dựng và sinh tồn."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp về Paper Miningcraft"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi Paper Miningcraft"
+    },
+    "HomeRecommendation": {
+      "title": "Các trò chơi tương tự như Paper Miningcraft"
+    },
+    "HomeComments": {
+      "title": "Bình luận chơi Paper Miningcraft"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Xem bộ sưu tập trò chơi của chúng tôi.",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

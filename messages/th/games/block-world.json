@@ -1,0 +1,77 @@
+{
+  "block-world": {
+    "title": "เล่น Block World ออนไลน์ฟรี - เกมสร้างสรรค์สนุก",
+    "slogan": "",
+    "description": "ดื่มด่ำกับ Block World เกมสร้างสรรค์ที่ได้รับแรงบันดาลใจจาก Minecraft สำรวจความเป็นไปได้ไม่รู้จบและสร้างโลกฝันของคุณ เล่น Block World ตอนนี้และปลดปล่อยความคิดสร้างสรรค์ของคุณ!  สนุกกับเกม Block World ฟรีวันนี้",
+    "Loading": {
+      "title": "กำลังโหลด Block World"
+    },
+    "Navbar": {
+      "title": "นำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดในการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์เพื่อน",
+      "articleList": "รายการบทความ",
+      "home": "หน้าหลัก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "Block World",
+      "description": "สำรวจความเป็นไปได้ที่ไม่มีที่สิ้นสุดของ Block World เกมสร้างสรรค์ในสไตล์ Minecraft",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ลงในคลิปบอร์ดแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Block World",
+      "whatIsTitle": "Block World คืออะไร?",
+      "whatIsDescription": "Block World เป็นเกมสร้างสรรค์คล้ายกับสไตล์ Minecraft นี่คือเกมฟรี คุณสามารถจินตนาการได้อย่างอิสระโดยไม่มีข้อจำกัดใดๆ",
+      "howToPlayTitle": "วิธีเล่น Block World",
+      "howToPlayStep1": "ใช้ WASD หรือลูกศรเพื่อเคลื่อนที่",
+      "howToPlayStep2": "คลิกซ้ายเพื่อลบบล็อก คลิกขวาเพื่อวางบล็อก",
+      "howToPlayStep3": "กด Space bar เพื่อกระโดด เลข 1 ถึง 9 เพื่อเลือกบล็อก",
+      "keyFeaturesTitle": "คุณสมบัติหลัก",
+      "feature1Title": "การสร้างที่ง่ายดาย",
+      "feature1Description": "กลไกการสร้างและควบคุมที่ง่ายมากใน Block World",
+      "feature2Title": "โหมดเกม",
+      "feature2Description": "คุณสามารถเลือกจาก 2 โหมดเกม: ชีวิตหรืออิสรภาพใน Block World",
+      "feature3Title": "กลางวันและกลางคืนที่สมจริง",
+      "feature3Description": "เล่นเหมือนชีวิตจริง กลางวันกลางคืน  แท้จริงมาก!",
+      "feature4Title": "ไฟฉายและไฟฉาย",
+      "feature4Description": "กลางคืนจะมีไฟฉายช่วยเหลือคุณ ใช้ไฟฉาย T ใช้ไฟฉาย F"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม Block World"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นในการเล่น"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

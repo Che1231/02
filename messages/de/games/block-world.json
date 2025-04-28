@@ -1,0 +1,77 @@
+{
+  "block-world": {
+    "title": "Kostenlos Block World Online spielen - Bau-Spaß-Spiel",
+    "slogan": "",
+    "description": "Tauchen Sie ein in Block World, ein fesselndes Bau-Spiel, inspiriert von Minecraft. Entdecken Sie endlose Möglichkeiten und bauen Sie Ihre Traumwelt. Spielen Sie jetzt Block World und entfesseln Sie Ihre Kreativität! Genießen Sie noch heute kostenlos Block World.",
+    "Loading": {
+      "title": "Block World wird geladen"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Block World",
+      "description": "Entdecken Sie die grenzenlosen Möglichkeiten von Block World, einem Bau-Spiel im Minecraft-Stil.",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel spielen"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Block World",
+      "whatIsTitle": "Was ist Block World?",
+      "whatIsDescription": "Block World ist ein Bau-Spiel im Minecraft-Stil. Dieses kostenlose Spiel lässt Ihrer Fantasie freien Lauf ohne Einschränkungen.",
+      "howToPlayTitle": "Wie spielt man Block World?",
+      "howToPlayStep1": "WASD oder Pfeiltasten zum Bewegen",
+      "howToPlayStep2": "Linksklick zum Entfernen, Rechtsklick zum Platzieren eines Blocks",
+      "howToPlayStep3": "Leertaste zum Springen, Zahlen 1 bis 9 zur Auswahl eines Blocks",
+      "keyFeaturesTitle": "Wichtige Merkmale",
+      "feature1Title": "Einfaches Bauen",
+      "feature1Description": "Extrem einfache Bau- und Steuerungsmöglichkeiten in Block World.",
+      "feature2Title": "Spielemodi",
+      "feature2Description": "Sie können zwischen zwei Spielmodi wählen: Leben oder Freiheit in Block World.",
+      "feature3Title": "Realitätsnaher Tag und Nacht-Zyklus",
+      "feature3Description": "Es spielt sich wie im echten Leben ab, Tag und Nacht. Sehr authentisch!",
+      "feature4Title": "Fackel und Taschenlampe",
+      "feature4Description": "Die Nacht wird von einer Taschenlampe unterstützt. T zum Verwenden der Fackel, F zur Benutzung der Taschenlampe."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Block World Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

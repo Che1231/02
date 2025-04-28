@@ -1,0 +1,77 @@
+{
+  "block-world": {
+    "title": "免费玩方块世界 - 建造游戏乐趣",
+    "slogan": "",
+    "description": "潜入方块世界，一款令人着迷的建造游戏，灵感源于我的世界。探索无限可能，建造你梦想中的世界。现在玩方块世界，释放你的创造力！今天就免费体验方块世界游戏！",
+    "Loading": {
+      "title": "加载方块世界"
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "方块世界",
+      "description": "探索方块世界无限的可能性，一款建造类游戏，风格类似我的世界。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "方块世界",
+      "whatIsTitle": "什么是方块世界？",
+      "whatIsDescription": "方块世界是一款类似我的世界风格的建造游戏。这是一个免费游戏，你可以完全自由地发挥想象力，没有任何限制。",
+      "howToPlayTitle": "如何玩方块世界",
+      "howToPlayStep1": "使用 WASD 或方向键移动",
+      "howToPlayStep2": "左键点击移除方块，右键点击放置方块",
+      "howToPlayStep3": "空格键跳跃，1 到 9 数字选择方块",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "轻松建造",
+      "feature1Description": "方块世界中的建造和控制机制非常简单易用。",
+      "feature2Title": "游戏模式",
+      "feature2Description": "您可以在方块世界中选择 2 种游戏模式：生存或自由模式。",
+      "feature3Title": "逼真的昼夜循环",
+      "feature3Description": "它像现实生活一样，有昼夜循环。非常真实！",
+      "feature4Title": "火把和手电筒",
+      "feature4Description": "晚上可以使用手电筒辅助。T 使用火把。F 使用手电筒。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "方块世界游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页"
+    }
+  }
+}

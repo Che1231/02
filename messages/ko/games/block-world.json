@@ -1,0 +1,77 @@
+{
+  "block-world": {
+    "title": "무료 블록 월드 온라인 플레이 - 건설 게임 재미",
+    "slogan": "",
+    "description": "마인크래프트에서 영감을 얻은 매혹적인 건설 게임, 블록 월드에 뛰어들세요. 무한한 가능성을 탐험하고 꿈의 세계를 건설하세요. 지금 바로 블록 월드를 플레이하고 창의력을 발휘하세요! 오늘 블록 월드 게임을 무료로 즐겨보세요.",
+    "Loading": {
+      "title": "블록 월드 로딩 중"
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "내용",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "블록 월드",
+      "description": "마인크래프트 스타일의 건설 게임 블록 월드의 무한한 가능성을 탐험하세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "블록 월드",
+      "whatIsTitle": "블록 월드는 무엇인가요?",
+      "whatIsDescription": "마인크래프트 스타일의 건설 게임인 블록 월드입니다. 이 게임은 무료이며, 제약 없이 자유롭게 상상할 수 있습니다.",
+      "howToPlayTitle": "블록 월드 게임 플레이 방법",
+      "howToPlayStep1": "이동하려면 WASD 키 또는 화살표 키를 사용하세요.",
+      "howToPlayStep2": "블록을 제거하려면 왼쪽 클릭, 블록을 놓으려면 오른쪽 클릭을 사용하세요.",
+      "howToPlayStep3": "점프하려면 스페이스바, 블록을 선택하려면 숫자 1에서 9까지를 사용하세요.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "쉬운 건설",
+      "feature1Description": "블록 월드는 매우 쉬운 건설 및 제어 메커니즘을 제공합니다.",
+      "feature2Title": "게임 모드",
+      "feature2Description": "블록 월드에서 생존 또는 자유 모드 중에서 선택할 수 있습니다.",
+      "feature3Title": "현실적인 낮과 밤",
+      "feature3Description": "실제 낮과 밤처럼 진행됩니다. 매우 사실적입니다!",
+      "feature4Title": "횃불과 손전등",
+      "feature4Description": "밤에는 손전등을 사용하여 도움을 받을 수 있습니다. 횃불은 T 키를, 손전등은 F 키를 사용합니다."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "블록 월드 게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

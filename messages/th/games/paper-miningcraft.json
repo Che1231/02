@@ -1,0 +1,77 @@
+{
+  "paper-miningcraft": {
+    "title": "Paper Miningcraft: เล่นออนไลน์ฟรี – สร้างและสำรวจ!",
+    "slogan": "",
+    "description": "ดื่มด่ำไปกับ Paper Miningcraft การสร้างใหม่ในรูปแบบ 2 มิติของเกมส์แซนด์บ็อกซ์คลาสสิก รวบรวมทรัพยากร สร้างเครื่องมือ และสร้างโลกของคุณ!  เพลิดเพลินกับ Paper Miningcraft ออนไลน์ฟรีและเริ่มต้นการผจญภัยของคุณวันนี้!",
+    "Loading": {
+      "title": "กำลังโหลด Paper Miningcraft"
+    },
+    "Navbar": {
+      "title": "นำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดในการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์ที่เป็นมิตร",
+      "articleList": "รายการบทความ",
+      "home": "หน้าแรก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "Paper Miningcraft",
+      "description": "Paper Miningcraft เป็นเวอร์ชัน 2 มิติของเกมส์แซนด์บ็อกซ์ยอดนิยม เล่นในเบราว์เซอร์ของคุณได้เลย!",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ลงในคลิปบอร์ดแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Paper Miningcraft",
+      "whatIsTitle": "Paper Miningcraft คืออะไร?",
+      "whatIsDescription": "Paper Miningcraft เป็นเวอร์ชันออนไลน์ 2 มิติของเกมส์แซนด์บ็อกซ์ยอดนิยม Minecraft ที่สร้างขึ้นโดย Mojang Studios เลือกโหมดเกม ผิวหนัง และสำรวจโลกบล็อกพิกเซลเหมือนใน Minecraft",
+      "howToPlayTitle": "วิธีการเล่น Paper Miningcraft",
+      "howToPlayStep1": "ใช้ WASD หรือลูกศรเพื่อเคลื่อนไหว กระโดด หรือว่ายน้ำ",
+      "howToPlayStep2": "คลิกซ้ายเพื่อขุดหรือวางบล็อก",
+      "howToPlayStep3": "กด E เพื่อเปิดหน้าต่างหรือลัง",
+      "keyFeaturesTitle": "คุณสมบัติหลัก",
+      "feature1Title": "กราฟิก 2 มิติ",
+      "feature1Description": "สัมผัสกับโลก Minecraft ที่คุ้นเคยในมุมมอง 2 มิติที่แปลกใหม่",
+      "feature2Title": "โหมดเกมหลายแบบ",
+      "feature2Description": "เลือกโหมดการเล่น Survival, Peaceful และ Creative เพื่อให้เหมาะกับสไตล์การเล่นของคุณ",
+      "feature3Title": "แผนที่ที่กำหนดเอง",
+      "feature3Description": "สำรวจแผนที่ที่กำหนดเองมากมายที่ออกแบบโดยผู้เล่นคนอื่น",
+      "feature4Title": "เครื่องมือและทรัพยากรต่างๆ",
+      "feature4Description": "ใช้เครื่องมือ ตัวเลือก และทรัพยากรมากมายเพื่อสร้างและเอาตัวรอด"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อยเกี่ยวกับ Paper Miningcraft"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม Paper Miningcraft"
+    },
+    "HomeRecommendation": {
+      "title": "เกมเพิ่มเติมที่คล้ายกับ Paper Miningcraft"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นเกี่ยวกับการเล่น Paper Miningcraft"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เรียกดูคอลเลกชันเกมของเรา",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

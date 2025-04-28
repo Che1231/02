@@ -1,0 +1,120 @@
+{
+  "name": "Block World",
+  "pagePath": "/games/block-world",
+  "pageName": "block-world",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://paper-mc.io/block-world.embed",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "NeonPhantom_87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonPhantom_87.png",
+      "content": "I love how easy it is to build in Block World! The controls are so intuitive."
+    },
+    {
+      "author": "SavageBlade_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBlade_X.png",
+      "content": "This game is amazing! Day and night cycles make it so realistic, almost like living in a fantasy world!"
+    },
+    {
+      "author": "PhoenixReaper",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhoenixReaper.png",
+      "content": "Can't believe how immersive Block World is with its torch and flashlight mechanics!"
+    },
+    {
+      "author": "CosmicKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicKraken42.png",
+      "content": "Wow, the freedom mode lets you really unleash your creativity. So much fun!"
+    },
+    {
+      "author": "LootGoblin89",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LootGoblin89.png",
+      "content": "Block World is pure joy! I love building and exploring, the night adds such an extra thrill."
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "Hey, does anyone else find the day-night cycle super cool in Block World? Feels like real life!"
+    },
+    {
+      "author": "ShadowKatana",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/ShadowKatana.png",
+      "content": "So glad I stumbled upon this game. It's addictive and there's no limit to what you can build!"
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "This game is awesome! No rules = endless possibilities. Can't get enough of it."
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "I'm having a blast in Block World. It's like Minecraft but with less constraints. Highly recommend!"
+    },
+    {
+      "author": "xX_BlazingAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_BlazingAura_Xx.png",
+      "content": "Block World is great for both day and night play. Super realistic environment!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745835577263-6xsn1.png",
+  "page_path": "/games/block-world",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Sandbox Lite"
+  ],
+  "createdTime": "2025-04-28 18:19:20"
+}
