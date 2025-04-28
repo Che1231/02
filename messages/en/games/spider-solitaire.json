@@ -1,0 +1,77 @@
+{
+  "spider-solitaire": {
+    "title": "Play Spider Solitaire Online for Free: A Classic Card Game",
+    "slogan": "Test your strategy skills with Spider Solitaire!",
+    "description": "Ready for a challenging card game? Spider Solitaire is a classic, strategic solitaire game perfect for all skill levels. Enjoy hours of addictive gameplay and test your solitaire skills. Play Spider Solitaire online now and experience the ultimate card game challenge! Spider Solitaire.",
+    "Loading": {
+      "title": "Loading Spider Solitaire"
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Spider Solitaire",
+      "description": "Enjoy a full-screen experience of Spider Solitaire.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Why Play Spider Solitaire?",
+      "whatIsTitle": "What is Spider Solitaire?",
+      "whatIsDescription": "Spider Solitaire is a popular solitaire card game known for its strategic gameplay. Arrange cards in descending order and matching suits to clear the board. A true test of skill and patience with endless card arrangements, Spider Solitaire is sure to give the player a brain workout.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Arrange cards in descending order.",
+      "howToPlayStep2": "Form complete sequences of the same suit.",
+      "howToPlayStep3": "Clear all cards to win the game.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Multiple Difficulty Levels",
+      "feature1Description": "Choose from 1, 2, or 4 suits for varying challenges in Spider Solitaire.",
+      "feature2Title": "Intuitive Interface",
+      "feature2Description": "Enjoy smooth and easy gameplay with a user-friendly design in Spider Solitaire.",
+      "feature3Title": "Undo Function",
+      "feature3Description": "Correct mistakes and refine your strategy with the undo feature in Spider Solitaire.",
+      "feature4Title": "Detailed Statistics",
+      "feature4Description": "Track your progress and improve your skills with comprehensive statistics in Spider Solitaire."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "Explore our collection of games.",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

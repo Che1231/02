@@ -1,0 +1,120 @@
+{
+  "name": "Spider Solitaire",
+  "pagePath": "/games/spider-solitaire",
+  "pageName": "spider-solitaire",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.squidbyte.com/games_third/spider/en/spider-solitaire-halloween/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingPhoenix87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix87.png",
+      "content": "Spider Solitaire is so addictive! I love the challenge of arranging the cards, especially that feeling when you clear a whole suit. GG!"
+    },
+    {
+      "author": "SavageBlade_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBlade_X.png",
+      "content": "This game, Spider Solitaire, is seriously messing with my brain, but I can't stop playing! Building those long sequences is so satisfying; I need more of this."
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Just spent ages on Spider Solitaire, and finally finished a game! The strategy is deep, who knew? It's a real time killer, but I love it!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Dude, Spider Solitaire is harder than it looks, I'm always messing up. The rules keep on spinning my head! Anyway, keep up."
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "OMG, I WON at Spider Solitaire! Building those long sequences and using the right strategy is key. So stoked! I am not gonna lie, it is a good card game."
+    },
+    {
+      "author": "NeonKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonKraken42.png",
+      "content": "Spider Solitaire is a classic, right? I love the way you have to think ahead. The challenge of managing that complex card layout is what I live for."
+    },
+    {
+      "author": "PhantomRevolver99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomRevolver99.png",
+      "content": "This is my current favourite game! I keep coming back to Spider Solitaire. Trying to clear those long sequences with different suits makes me happy."
+    },
+    {
+      "author": "AuraKatana_Z",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AuraKatana_Z.png",
+      "content": "Spider Solitaire is amazing. Clearing the eight complete sequences is the best feeling. I just enjoy the core gameplay."
+    },
+    {
+      "author": "Gamer4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Gamer4Lyfe.png",
+      "content": "Why is Spider Solitaire so hard? I understand the rules, but then I can't seem to get a good result. Maybe I needed to try again!"
+    },
+    {
+      "author": "Ctrl_Alt_Defeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Ctrl_Alt_Defeat.png",
+      "content": "I am addicted to Spider Solitaire. It is so many levels harder than Klondike! Definitely a great mind game, you have to think to finish it."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745835861814-tzbdv2.png",
+  "page_path": "/games/spider-solitaire",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Card & Classic"
+  ],
+  "createdTime": "2025-04-28 18:25:29"
+}

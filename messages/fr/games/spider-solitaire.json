@@ -1,0 +1,77 @@
+{
+  "spider-solitaire": {
+    "title": "Jouer au Solitaire Araignée en ligne gratuitement : un jeu de cartes classique",
+    "slogan": "Testez vos compétences en stratégie avec le Solitaire Araignée !",
+    "description": "Prêt pour un jeu de cartes stimulant ? Le Solitaire Araignée est un jeu de solitaire stratégique classique, parfait pour tous les niveaux. Profitez d'heures de jeu addictif et testez vos compétences en solitaire. Jouez au Solitaire Araignée en ligne maintenant et découvrez le défi ultime des jeux de cartes ! Solitaire Araignée.",
+    "Loading": {
+      "title": "Chargement du Solitaire Araignée"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Solitaire Araignée",
+      "description": "Profitez d'une expérience intégrale du Solitaire Araignée.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Pourquoi jouer au Solitaire Araignée ?",
+      "whatIsTitle": "Qu'est-ce que le Solitaire Araignée ?",
+      "whatIsDescription": "Le Solitaire Araignée est un jeu de cartes de solitaire populaire connu pour son gameplay stratégique. Disposez les cartes par ordre décroissant et par couleur identique pour vider le plateau. Un vrai test de compétence et de patience avec des arrangements de cartes infinis, le Solitaire Araignée est sûr de stimuler votre cerveau.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Disposition des cartes par ordre décroissant.",
+      "howToPlayStep2": "Formation de séquences complètes de la même couleur.",
+      "howToPlayStep3": "Vider toutes les cartes pour gagner le jeu.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Plusieurs niveaux de difficulté",
+      "feature1Description": "Choisissez entre 1, 2 ou 4 couleurs pour des défis variés dans le Solitaire Araignée.",
+      "feature2Title": "Interface intuitive",
+      "feature2Description": "Profitez d'un gameplay fluide et facile grâce à une conception conviviale dans le Solitaire Araignée.",
+      "feature3Title": "Fonction Annuler",
+      "feature3Description": "Corrigez les erreurs et affinez votre stratégie avec la fonction Annuler dans le Solitaire Araignée.",
+      "feature4Title": "Statistiques détaillées",
+      "feature4Description": "Suivez vos progrès et améliorez vos compétences grâce aux statistiques complètes du Solitaire Araignée."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires de jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Parcourez notre collection de jeux.",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

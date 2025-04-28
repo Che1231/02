@@ -1,0 +1,77 @@
+{
+  "spider-solitaire": {
+    "title": "Ücretsiz Oynamak İçin Örümcek Soliteri Oyna: Klasik Bir Kart Oyunu",
+    "slogan": "Örümcek Soliteri ile strateji becerilerinizi test edin!",
+    "description": "Zorlu bir kart oyununa hazır mısınız? Örümcek Soliteri, tüm beceri seviyeleri için mükemmel olan klasik bir stratejik soliter oyunudur. Saatlerce bağımlılık yaratan oyun keyfini çıkarın ve soliter becerilerinizi test edin. Şimdi Örümcek Soliteri online olarak oynayın ve en son kart oyunu meydan okumasını deneyimleyin! Örümcek Soliteri.",
+    "Loading": {
+      "title": "Örümcek Soliteri Yükleniyor"
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Örümcek Soliteri",
+      "description": "Örümcek Soliteri'nin tam ekran deneyimini yaşayın.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Örümcek Soliteri'ni Neden Oynamalısınız?",
+      "whatIsTitle": "Örümcek Soliteri Nedir?",
+      "whatIsDescription": "Örümcek Soliteri, stratejik oyun tarzı ile bilinen popüler bir soliter kart oyunudur. Kartları azalan sırada ve eşleşen renklerde düzenleyerek tahtanın üzerine temizleyin. Sonsuz kart düzenlemeleri ile beceri ve sabrın gerçek bir testidir, Örümcek Soliteri oyuncunun beynini çalıştırmaya emindir.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Kartları azalan sırada düzenleyin.",
+      "howToPlayStep2": "Aynı renkteki tam diziler oluşturun.",
+      "howToPlayStep3": "Tüm kartları temizleyerek oyunu kazanın.",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Çoklu Zorluk Seviyeleri",
+      "feature1Description": "Örümcek Soliteri'nde değişen zorluklar için 1, 2 veya 4 takım arasından seçim yapın.",
+      "feature2Title": "Kullanışlı Arabirim",
+      "feature2Description": "Kullanıcı dostu bir tasarıma sahip Örümcek Soliteri ile sorunsuz ve kolay oyun keyfi yaşayın.",
+      "feature3Title": "Geri Alma İşlevi",
+      "feature3Description": "Örümcek Soliteri'ndeki geri alma özelliği ile hataları düzeltin ve stratejinizi iyileştirin.",
+      "feature4Title": "Ayrıntılı İstatistikler",
+      "feature4Description": "Örümcek Soliteri'ndeki kapsamlı istatistiklerle ilerlemenizi takip edin ve becerilerinizi geliştirin."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiye Eder"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Oyun koleksiyonumuzu keşfedin.",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Hiç kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}
