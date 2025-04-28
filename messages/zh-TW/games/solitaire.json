@@ -1,0 +1,77 @@
+{
+  "solitaire": {
+    "title": "免費線上玩紙牌遊戲 - 克隆迪克、蜘蛛及自由單人模式",
+    "slogan": "線上享受經典紙牌遊戲！",
+    "description": "體驗紙牌遊戲的經典樂趣！這款經典紙牌遊戲，也稱為耐心遊戲，提供數小時的娛樂。免費玩克隆迪克、蜘蛛和自由單人紙牌，並立即挑戰您的心智！",
+    "Loading": {
+      "title": "正在載入紙牌遊戲"
+    },
+    "Navbar": {
+      "title": "導覽列"
+    },
+    "Common": {
+      "createAt": "建立時間",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一個",
+      "previous": "上一個"
+    },
+    "HomeIframe": {
+      "title": "線上玩紙牌遊戲",
+      "description": "享受快速紙牌遊戲！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "紙牌遊戲",
+      "whatIsTitle": "什麼是紙牌遊戲？",
+      "whatIsDescription": "紙牌遊戲，通常指克隆迪克、蜘蛛或自由單人模式，是一種經典的單人紙牌遊戲。目標是根據花色和點數將所有牌排列到基礎牌堆中。",
+      "howToPlayTitle": "如何玩紙牌遊戲",
+      "howToPlayStep1": "將七列牌卡設置到牌桌。",
+      "howToPlayStep2": "按照花色和點數規則，在各列之間移動牌。",
+      "howToPlayStep3": "從 A 到 K 建立基礎牌堆。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "經典遊戲玩法",
+      "feature1Description": "享受各種紙牌遊戲的傳統規則。",
+      "feature2Title": "多種遊戲模式",
+      "feature2Description": "玩克隆迪克、蜘蛛、自由單人及更多。",
+      "feature3Title": "使用者友善介面",
+      "feature3Description": "易於導航和遊戲。",
+      "feature4Title": "免費遊戲",
+      "feature4Description": "免費享受無限的紙牌遊戲。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦遊戲"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "瀏覽我們的遊戲收藏。",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "未找到分類",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

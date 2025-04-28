@@ -1,0 +1,77 @@
+{
+  "google-solitaire": {
+    "title": "免費線上暢玩 Google Solitaire - 紙牌遊戲樂趣",
+    "slogan": "在您的瀏覽器中享受經典紙牌遊戲 Google Solitaire！",
+    "description": "探索 Google Solitaire，這是一款適合所有技能水平的迷人紙牌遊戲。享受其直觀的遊戲玩法和各種模式。立即玩 Google Solitaire 並測試您的技能！體驗數小時的 Google Solitaire 樂趣。",
+    "Loading": {
+      "title": "正在載入 Google Solitaire"
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "創建於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友善連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "Google Solitaire",
+      "description": "在您的瀏覽器中線上玩 Google Solitaire。免費享受經典紙牌遊戲！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google Solitaire",
+      "whatIsTitle": "什麼是 Google Solitaire？",
+      "whatIsDescription": "Google Solitaire 是一款單人紙牌遊戲，可在您的瀏覽器中玩，基於 Wes Cherry 開發的經典單人紙牌遊戲玩法。",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "建立四個基礎堆（紅心、方塊、梅花和黑桃），從 A 到 K。",
+      "howToPlayStep2": "將牌從牌疊移動到基礎堆或牌疊列之間。",
+      "howToPlayStep3": "以交替顏色按降序構建序列（例如，紅色國王上的黑色皇后）。",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "多種遊戲模式",
+      "feature1Description": "適合不同的玩家偏好和技能水平，從 Google Solitaire 的初學者到專家。",
+      "feature2Title": "簡單介面",
+      "feature2Description": "易於操作，在 Google Solitaire 中具有乾淨直觀的使用者介面。",
+      "feature3Title": "隨時隨地玩",
+      "feature3Description": "作為一款基於網路的遊戲，您可以在各種設備上訪問 Google Solitaire，並隨時隨地享受它。",
+      "feature4Title": "撤銷功能",
+      "feature4Description": "允許玩家撤銷上一步，從而輕鬆糾正錯誤或探索 Google Solitaire 中的不同策略。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到分類",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "solitaire": {
+    "title": "Jouer au Solitaire en ligne gratuitement - Klondike, Araignée et FreeCell",
+    "slogan": "Profitez des jeux classiques de Solitaire en ligne !",
+    "description": "Découvrez la joie intemporelle du Solitaire ! Ce jeu de cartes classique, également connu sous le nom de patience, offre des heures de divertissement. Jouez à Solitaire Klondike, Solitaire Araignée et Solitaire FreeCell gratuitement et défiez votre esprit dès aujourd'hui !",
+    "Loading": {
+      "title": "Chargement du Solitaire"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Jouer au Solitaire en ligne",
+      "description": "Profitez d'une partie rapide de Solitaire !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Solitaire",
+      "whatIsTitle": "Qu'est-ce que le Solitaire ?",
+      "whatIsDescription": "Le Solitaire, souvent désigné par Klondike, Araignée ou FreeCell, est un jeu de cartes classique pour un joueur. L'objectif est de ranger toutes les cartes dans les tas de fondation par couleur et par rang.",
+      "howToPlayTitle": "Comment jouer au Solitaire",
+      "howToPlayStep1": "Mettez en place le tableau avec sept colonnes de cartes.",
+      "howToPlayStep2": "Déplacez les cartes entre les colonnes, en suivant les règles de couleur et de rang.",
+      "howToPlayStep3": "Construisez les tas de fondation de l'As au Roi.",
+      "keyFeaturesTitle": "Fonctionnalités principales",
+      "feature1Title": "Gameplay classique",
+      "feature1Description": "Profitez des règles traditionnelles de divers jeux de Solitaire.",
+      "feature2Title": "Plusieurs variantes",
+      "feature2Description": "Jouez à Klondike, Araignée, FreeCell et plus encore.",
+      "feature3Title": "Interface conviviale",
+      "feature3Description": "Facile à naviguer et à jouer.",
+      "feature4Title": "Gratuit à jouer",
+      "feature4Description": "Profitez de jeux de Solitaire illimités gratuitement."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Parcourez notre collection de jeux.",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

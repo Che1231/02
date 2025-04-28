@@ -1,0 +1,77 @@
+{
+  "google-solitaire": {
+    "title": "เล่น Google Solitaire ออนไลน์ฟรี - เกมไพ่สนุก",
+    "slogan": "เพลิดเพลินกับเกมไพ่คลาสสิก Google Solitaire ในเบราว์เซอร์ของคุณ!",
+    "description": "ค้นพบ Google Solitaire เกมไพ่ที่น่าดึงดูดเหมาะสำหรับทุกระดับทักษะ  เพลิดเพลินไปกับการเล่นเกมที่ใช้งานง่ายและโหมดต่างๆ เล่น Google Solitaire ตอนนี้และทดสอบทักษะของคุณ!  สัมผัสประสบการณ์ความสนุกในการเล่น Google Solitaire นานหลายชั่วโมง",
+    "Loading": {
+      "title": "กำลังโหลด Google Solitaire"
+    },
+    "Navbar": {
+      "title": "นำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์เพื่อน",
+      "articleList": "รายการบทความ",
+      "home": "หน้าหลัก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "Google Solitaire",
+      "description": "เล่น Google Solitaire ออนไลน์ผ่านเบราว์เซอร์ของคุณ  เพลิดเพลินกับเกมไพ่คลาสสิกฟรี!",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ไปยังคลิปบอร์ดแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google Solitaire",
+      "whatIsTitle": "Google Solitaire คืออะไร?",
+      "whatIsDescription": "Google Solitaire คือเกมไพ่เดี่ยวที่เล่นผ่านเบราว์เซอร์ของคุณ  ขึ้นอยู่กับกติกา Solitaire คลาสสิกที่พัฒนาโดย Wes Cherry",
+      "howToPlayTitle": "วิธีการเล่น",
+      "howToPlayStep1": "สร้างกองไพ่พื้นฐานสี่กอง (หัวใจ  โพดำ  ข้าวหลามตัด  และรูปหัวใจ) จาก A ถึง K",
+      "howToPlayStep2": "ย้ายไพ่จากกองไพ่ชุดไปยังกองไพ่พื้นฐานหรือระหว่างคอลัมน์ของกองไพ่ชุด",
+      "howToPlayStep3": "สร้างลำดับแบบเรียงลำดับจากน้อยไปมากสลับสี (เช่น ราชินีดำบนกษัตริย์แดง)",
+      "keyFeaturesTitle": "คุณสมบัติหลัก",
+      "feature1Title": "โหมดเกมหลายแบบ",
+      "feature1Description": "เหมาะสมสำหรับความชอบและระดับทักษะของผู้เล่นที่หลากหลาย  ตั้งแต่ผู้เริ่มต้นไปจนถึงผู้เชี่ยวชาญใน Google Solitaire",
+      "feature2Title": "อินเทอร์เฟซที่ใช้งานง่าย",
+      "feature2Description": "ใช้งานง่ายด้วยอินเทอร์เฟซผู้ใช้ที่เรียบง่ายและใช้งานง่ายใน Google Solitaire",
+      "feature3Title": "เล่นได้ทุกที่ทุกเวลา",
+      "feature3Description": "ในฐานะเกมเว็บ คุณสามารถเข้าถึง Google Solitaire บนอุปกรณ์ต่างๆ และเพลิดเพลินได้ทุกที่ทุกเวลา",
+      "feature4Title": "ฟังก์ชั่นย้อนกลับ",
+      "feature4Description": "ช่วยให้ผู้เล่นสามารถย้อนขั้นตอนก่อนหน้าได้ ทำให้แก้ไขข้อผิดพลาดหรือสำรวจกลยุทธ์ต่างๆ ใน Google Solitaire ได้ง่ายขึ้น"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นการเล่นเกม"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

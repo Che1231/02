@@ -1,0 +1,120 @@
+{
+  "name": "Uno Online",
+  "pagePath": "/games/uno-online",
+  "pageName": "uno-online",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.xpgameplus.com/games/uno/default.html",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingPhoenix_42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix_42.png",
+      "content": "Wow, Uno Online is so much fun! It's so easy to learn, even for newbies like me."
+    },
+    {
+      "author": "NeonRevolver_87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonRevolver_87.png",
+      "content": "Is it just me or Uno Online is seriously addictive? Can't stop playing!"
+    },
+    {
+      "author": "PhantomKraken99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomKraken99.png",
+      "content": "The social aspect of this game is incredible. Played with some strangers, now they're my best friends. Thanks, Uno Online!"
+    },
+    {
+      "author": "NoobMaster_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster_Xx.png",
+      "content": "Uno Online is easy peasy! Even my grandma beats me sometimes."
+    },
+    {
+      "author": "CosmicLootgoblin_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicLootgoblin_X.png",
+      "content": "Can you believe you can play Uno Online anytime, anywhere? Just open the browser and BAM! Game on!"
+    },
+    {
+      "author": "LagWarrior87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarrior87.png",
+      "content": "Finally, a game that keeps up with my gaming speed! No lags here, man!"
+    },
+    {
+      "author": "SavageBlade69",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBlade69.png",
+      "content": "Uno Online is surprisingly strategic. You've gotta think fast and play smarter!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Who knew Uno could be this thrilling? Played it with my buddy, he still owes me four cards. LOL!"
+    },
+    {
+      "author": "NeonCosmicX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonCosmicX.png",
+      "content": "Anybody else feeling the 'Uno Online' rush?"
+    },
+    {
+      "author": "ReversingLeviathan69",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/ReversingLeviathan69.png",
+      "content": "Fun and frustrating at the same time. Uno Online has got it all!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-27/images/1745766181814-i6lsbq.png",
+  "page_path": "/games/uno-online",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Clicker"
+  ],
+  "createdTime": "2025-04-27 23:02:41"
+}

@@ -1,0 +1,77 @@
+{
+  "solitaire": {
+    "title": "Gioca a Solitario Online Gratis - Klondike, Ragno e FreeCell",
+    "slogan": "Goditi i classici giochi di carte Solitario online!",
+    "description": "Scopri l'inimitabile gioia di Solitario! Questo classico gioco di carte, noto anche come pazienza, offre ore di intrattenimento. Gioca a Solitario Klondike, Solitario Ragno e Solitario FreeCell gratuitamente e sfida la tua mente con Solitario oggi!",
+    "Loading": {
+      "title": "Caricamento Solitario"
+    },
+    "Navbar": {
+      "title": "Navigazione"
+    },
+    "Common": {
+      "createAt": "Creato il",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla privacy",
+      "termsOfServices": "Termini di servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Link utili",
+      "articleList": "Elenco articoli",
+      "home": "Home",
+      "next": "Successivo",
+      "previous": "Precedente"
+    },
+    "HomeIframe": {
+      "title": "Gioca a Solitario Online",
+      "description": "Goditi una partita rapida di Solitario!",
+      "iframeTitle": "Anteprima del gioco",
+      "fullscreenButton": "Schermo intero",
+      "shareButton": "Condividi",
+      "urlCopied": "URL copiato negli appunti!",
+      "downloadGame": "Scarica il gioco",
+      "playGame": "Gioca"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Solitario",
+      "whatIsTitle": "Cos'è il Solitario?",
+      "whatIsDescription": "Solitario, spesso riferito a Klondike, Ragno o FreeCell, è un classico gioco di carte per un giocatore singolo. L'obiettivo è disporre tutte le carte nei mazzi fondanti per seme e rango.",
+      "howToPlayTitle": "Come giocare a Solitario",
+      "howToPlayStep1": "Crea il tabellone con sette colonne di carte.",
+      "howToPlayStep2": "Sposta le carte tra le colonne, seguendo le regole di seme e rango.",
+      "howToPlayStep3": "Costruisci i mazzi fondanti dall'asso al re.",
+      "keyFeaturesTitle": "Caratteristiche principali",
+      "feature1Title": "Gameplay Classico",
+      "feature1Description": "Goditi le regole tradizionali dei vari giochi di Solitario.",
+      "feature2Title": "Molteplici Varianti",
+      "feature2Description": "Gioca a Klondike, Ragno, FreeCell e altro ancora.",
+      "feature3Title": "Interfaccia User-Friendly",
+      "feature3Description": "Facile da navigare e giocare.",
+      "feature4Title": "Gioco Gratuito",
+      "feature4Description": "Goditi partite illimitate di Solitario gratuitamente."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Raccomandazioni"
+    },
+    "HomeComments": {
+      "title": "Commenti sul gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i giochi",
+      "description": "Sfoglia la nostra collezione di giochi.",
+      "games": "Giochi"
+    },
+    "CategoryPage": {
+      "categories": "Categorie",
+      "noCategories": "Categorie non trovate",
+      "viewMore": "Visualizza altro",
+      "page": "Pagina"
+    }
+  }
+}

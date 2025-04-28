@@ -1,0 +1,77 @@
+{
+  "google-solitaire": {
+    "title": "Chơi Solitaire Google Trực Tuyến Miễn Phí - Trò Chơi Thẻ Hay",
+    "slogan": "Thưởng thức trò chơi bài cổ điển Solitaire Google trên trình duyệt của bạn!",
+    "description": "Khám phá Solitaire Google, một trò chơi bài cuốn hút hoàn hảo cho mọi trình độ. Thưởng thức lối chơi trực quan và nhiều chế độ khác nhau. Chơi Solitaire Google ngay bây giờ và thử thách kỹ năng của bạn! Trải nghiệm những giờ phút thư giãn khi chơi Solitaire Google.",
+    "Loading": {
+      "title": "Đang tải Solitaire Google"
+    },
+    "Navbar": {
+      "title": "ĐH"
+    },
+    "Common": {
+      "createAt": "Tạo Tại",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Solitaire Google",
+      "description": "Chơi Solitaire Google trực tuyến trên trình duyệt của bạn. Thưởng thức trò chơi bài cổ điển miễn phí!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào clipboard!",
+      "downloadGame": "Tải xuống trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Solitaire Google",
+      "whatIsTitle": "Solitaire Google là gì?",
+      "whatIsDescription": "Solitaire Google là một trò chơi bài đơn người chơi có thể chơi được trên trình duyệt, dựa trên lối chơi bài solitaire cổ điển do Wes Cherry phát triển.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Xây dựng bốn chồng nền tảng (cơ, rô, bích, và tép) từ A đến K.",
+      "howToPlayStep2": "Di chuyển các lá bài từ bàn chơi đến chồng nền tảng hoặc giữa các cột bàn chơi.",
+      "howToPlayStep3": "Xây dựng chuỗi theo thứ tự giảm dần với các màu xen kẽ (ví dụ, quân hậu đen lên quân vua đỏ).",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Nhiều chế độ chơi",
+      "feature1Description": "Phù hợp với sở thích và trình độ của nhiều người chơi, từ người mới bắt đầu đến chuyên gia trong Solitaire Google.",
+      "feature2Title": "Giao diện đơn giản",
+      "feature2Description": "Dễ dàng vận hành với giao diện người dùng sạch sẽ và trực quan trong Solitaire Google.",
+      "feature3Title": "Chơi mọi lúc mọi nơi",
+      "feature3Description": "Là một trò chơi dựa trên web, bạn có thể truy cập Solitaire Google trên nhiều thiết bị khác nhau và thưởng thức bất cứ lúc nào, bất cứ nơi nào.",
+      "feature4Title": "Chức năng hoàn tác",
+      "feature4Description": "Cho phép người chơi hoàn tác bước trước đó, giúp dễ dàng sửa lỗi hoặc khám phá các chiến lược khác nhau trong Solitaire Google."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả trò chơi",
+      "description": "Tất cả trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

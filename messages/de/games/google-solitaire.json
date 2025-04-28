@@ -1,0 +1,77 @@
+{
+  "google-solitaire": {
+    "title": "Kostenloses Google-Solitaire online spielen - Kartenspielspaß",
+    "slogan": "Genießen Sie das klassische Kartenspiel Google Solitaire in Ihrem Browser!",
+    "description": "Entdecken Sie Google Solitaire, ein fesselndes Kartenspiel, perfekt für alle Könnerstufen. Genießen Sie das intuitive Gameplay und die verschiedenen Modi. Spielen Sie jetzt Google Solitaire und testen Sie Ihr Können! Erleben Sie stundenlangen Spielspaß mit Google Solitaire.",
+    "Loading": {
+      "title": "Google Solitaire wird geladen"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Google Solitaire",
+      "description": "Spielen Sie Google Solitaire online in Ihrem Browser. Genießen Sie das klassische Kartenspiel kostenlos!",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google Solitaire",
+      "whatIsTitle": "Was ist Google Solitaire?",
+      "whatIsDescription": "Google Solitaire ist ein Einzelspieler-Kartenspiel, das in Ihrem Browser spielbar ist und auf dem klassischen Solitaire-Gameplay von Wes Cherry basiert.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Bauen Sie vier Fundamentstapel (Herz, Karo, Kreuz und Pik) vom Ass bis zum König auf.",
+      "howToPlayStep2": "Verschieben Sie Karten vom Tableau auf die Fundamentstapel oder zwischen den Tableau-Spalten.",
+      "howToPlayStep3": "Erstellen Sie Folgen in absteigender Reihenfolge mit abwechselnden Farben (z. B. Dame schwarz auf König rot).",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
+      "feature1Title": "Mehrere Spielmodi",
+      "feature1Description": "Geeignet für verschiedene Spielerpräferenzen und Könnensstufen, von Anfängern bis hin zu Experten bei Google Solitaire.",
+      "feature2Title": "Einfache Oberfläche",
+      "feature2Description": "Einfach zu bedienen mit einer sauberen und intuitiven Benutzeroberfläche bei Google Solitaire.",
+      "feature3Title": "Zu jeder Zeit und überall spielen",
+      "feature3Description": "Als webbasiertes Spiel können Sie auf verschiedenen Geräten auf Google Solitaire zugreifen und es jederzeit und überall genießen.",
+      "feature4Title": "Rückgängig-Funktion",
+      "feature4Description": "Ermöglicht es den Spielern, den vorherigen Schritt rückgängig zu machen, um Fehler zu korrigieren oder verschiedene Strategien in Google Solitaire zu erkunden."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

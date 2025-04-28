@@ -1,0 +1,77 @@
+{
+  "klondike-solitaire": {
+    "title": "Jugar Klondike Solitaire en línea gratis: juego clásico de cartas",
+    "slogan": "¡Disfruta del eterno juego de cartas Klondike Solitaire!",
+    "description": "¡Descubre la experiencia clásica de Klondike Solitaire en línea! Este juego cautivador desafía tu pensamiento estratégico. Juega a Klondike Solitaire para poner a prueba tus habilidades y disfrutar de horas de diversión. ¡Comienza tu partida de Klondike Solitaire ahora!",
+    "Loading": {
+      "title": "Cargando Klondike Solitaire"
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Klondike Solitaire",
+      "description": "¡Juega a Klondike Solitaire en modo pantalla completa!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Klondike Solitaire",
+      "whatIsTitle": "¿Qué es Klondike Solitaire?",
+      "whatIsDescription": "Klondike Solitaire es un juego de cartas clásico para un solo jugador conocido por su jugabilidad atractiva y su profundidad estratégica.",
+      "howToPlayTitle": "¿Cómo jugar a Klondike Solitaire?",
+      "howToPlayStep1": "Configura el tablero con siete columnas de cartas.",
+      "howToPlayStep2": "Mueve las cartas a las pilas de fundación por palo en orden ascendente (A a K).",
+      "howToPlayStep3": "Descubre las cartas ocultas y planifica tus movimientos para liberar el tablero.",
+      "keyFeaturesTitle": "Características clave de Klondike Solitaire",
+      "feature1Title": "Jugabilidad clásica",
+      "feature1Description": "Experimenta las reglas auténticas de Klondike Solitaire y el diseño tradicional de cartas.",
+      "feature2Title": "Interfaz intuitiva",
+      "feature2Description": "Disfruta de movimientos de cartas fluidos y un diseño fácil de usar para una jugabilidad sin problemas.",
+      "feature3Title": "Opciones personalizables",
+      "feature3Description": "Personaliza tu juego con diferentes diseños de cartas y fondos.",
+      "feature4Title": "Seguimiento de estadísticas",
+      "feature4Description": "Monitoriza tu rendimiento con estadísticas detalladas para mejorar tus habilidades."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes sobre Klondike Solitaire"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo del juego Klondike Solitaire"
+    },
+    "HomeRecommendation": {
+      "title": "Juegos recomendados de Klondike Solitaire"
+    },
+    "HomeComments": {
+      "title": "Comentarios sobre el juego Klondike Solitaire"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Explora una variedad de juegos de cartas y otros títulos atractivos.",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

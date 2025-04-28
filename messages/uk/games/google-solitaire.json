@@ -1,0 +1,77 @@
+{
+  "google-solitaire": {
+    "title": "Грати в Google Solіtaire онлайн безкоштовно – Гра з картами",
+    "slogan": "Насолоджуйтесь класичною карточною грою Google Solіtaire у вашому браузері!",
+    "description": "Відкрийте для себе Google Solitaire – захоплюючу карточну гру, ідеальну для гравців будь-якого рівня майстерності. Насолоджуйтесь інтуїтивно зрозумілою грою та різними режимами. Грайте в Google Solіtaire прямо зараз і перевірте свої навички! Проживіть години веселощів, граючи в Google Solіtaire.",
+    "Loading": {
+      "title": "Завантаження Google Solitaire"
+    },
+    "Navbar": {
+      "title": "Навігація"
+    },
+    "Common": {
+      "createAt": "Створено",
+      "guide": "Посібник",
+      "privacyPolicy": "Політика конфіденційності",
+      "termsOfServices": "Умови використання",
+      "text": "Зміст",
+      "help": "Довідка",
+      "friendlyLinks": "Корисні посилання",
+      "articleList": "Список статей",
+      "home": "Головна",
+      "next": "Наступна",
+      "previous": "Попередня"
+    },
+    "HomeIframe": {
+      "title": "Google Solitaire",
+      "description": "Грайте в Google Solitaire онлайн у вашому браузері. Насолоджуйтесь класичною карточною грою безкоштовно!",
+      "iframeTitle": "Попередній перегляд гри",
+      "fullscreenButton": "Повноекранний режим",
+      "shareButton": "Поділитися",
+      "urlCopied": "Посилання скопійовано в буфер обміну!",
+      "downloadGame": "Завантажити гру",
+      "playGame": "Грати"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google Solitaire",
+      "whatIsTitle": "Що таке Google Solitaire?",
+      "whatIsDescription": "Google Solitaire – це одногравецька карточная гра, доступна у вашому браузері, заснована на класичній грі в Solіtaire, розробленій Вeсом Cherry.",
+      "howToPlayTitle": "Як грати",
+      "howToPlayStep1": "Збирайте чотири стоси (червоні, буби, трефи та піки) від туза до короля.",
+      "howToPlayStep2": "Переміщуйте карти зі стосу до стосу або між стосами.",
+      "howToPlayStep3": "Складайте послідовності у спадному порядку з чергуванням кольорів (наприклад, чорна дама на червоному королі).",
+      "keyFeaturesTitle": "Основні особливості",
+      "feature1Title": "Кілька режимів гри",
+      "feature1Description": "Підходить для різних уподобань та рівнів майстерності гравців, від початківців до експертів в Google Solitaire.",
+      "feature2Title": "Простий інтерфейс",
+      "feature2Description": "Легко керувати інтуїтивно зрозумілим інтерфейсом Google Solitaire.",
+      "feature3Title": "Грайте де завгодно та коли завгодно",
+      "feature3Description": "Як веб-гра, ви можете зайти в Google solitaire на різних пристроях та насолоджуватися нею будь-коли, будь-де.",
+      "feature4Title": "Функція відновлення",
+      "feature4Description": "Дозволяє гравцям скасувати попередній хід, що полегшує виправлення помилок або дослідження різних стратегій в Google Solitaire."
+    },
+    "HomeFAQs": {
+      "title": "Часті запитання"
+    },
+    "HomeRelatedVideo": {
+      "title": "Відео про гру"
+    },
+    "HomeRecommendation": {
+      "title": "Рекомендації"
+    },
+    "HomeComments": {
+      "title": "Коментарі про гру"
+    },
+    "GamePage": {
+      "title": "Всі ігри",
+      "description": "Всі ігри",
+      "games": "Ігри"
+    },
+    "CategoryPage": {
+      "categories": "Категорії",
+      "noCategories": "Категорії не знайдено",
+      "viewMore": "Дивитися більше",
+      "page": "Сторінка"
+    }
+  }
+}

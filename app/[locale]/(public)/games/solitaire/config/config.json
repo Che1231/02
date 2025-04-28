@@ -1,0 +1,120 @@
+{
+  "name": "Solitaire",
+  "pagePath": "/games/solitaire",
+  "pageName": "solitaire",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.edogan.us/solitaire-js/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomKraken99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomKraken99.png",
+      "content": "Solitaire is my go-to game when I need to chill! Love how you can move cards in sequences—it’s so satisfying!"
+    },
+    {
+      "author": "SavageKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatana_X.png",
+      "content": "Just learned the Klondike turn three rule in Solitaire—totally changes the game! More challenging but way more fun."
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Solitaire is a classic for a reason. Building those foundation piles feels like a tiny victory every time!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Why is Solitaire so addictive? I swear, I’ve lost hours trying to stack those cards perfectly!"
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "Spider Solitaire is my jam! The eight columns make it tricky, but I love the complexity."
+    },
+    {
+      "author": "CosmicPhoenix87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicPhoenix87.png",
+      "content": "Solitaire is such a clever game! Moving those alternating color cards is like solving a puzzle."
+    },
+    {
+      "author": "NeonRevolver_42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonRevolver_42.png",
+      "content": "I tried FreeCell Solitaire for the first time—it’s like Klondike but with more strategy! So refreshing."
+    },
+    {
+      "author": "LootGoblin89",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LootGoblin89.png",
+      "content": "Solitaire never gets old! The way you can flip cards and strategize makes every game unique."
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "Solitaire is the ultimate time-killer. That moment when you finally clear the tableau? Pure joy!"
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "Why does Solitaire feel so rewarding? Maybe it’s the A-K order—it’s like a tiny triumph every time!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-27/images/1745765837198-3npip.png",
+  "page_path": "/games/solitaire",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Clicker"
+  ],
+  "createdTime": "2025-04-27 22:58:08"
+}

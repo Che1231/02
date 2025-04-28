@@ -1,0 +1,77 @@
+{
+  "uno-online": {
+    "title": "유노 온라인 무료 플레이 - 재미있는 카드 게임 온라인",
+    "slogan": "친구들과 유노 온라인을 플레이하세요! 카드 게임의 전통을 경험해보세요.",
+    "description": "유노 온라인 즐거움을 준비하셨나요? 모든 연령층에 완벽한 클래식 유노 온라인 카드 게임을 발견하세요! 지금 바로 유노 온라인을 무료로 플레이하고 친구들과 도전해보세요. 오늘부터 유노 온라인을 플레이 시작하세요!",
+    "Loading": {
+      "title": "유노 온라인 로딩 중"
+    },
+    "Navbar": {
+      "title": "탐색창"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "유노 온라인",
+      "description": "유노 온라인은 전통적인 유노 카드 게임을 기반으로 한 온라인 카드 게임입니다. 지금 친구들과 온라인으로 플레이하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "유노 온라인",
+      "whatIsTitle": "유노 온라인이란 무엇인가요?",
+      "whatIsDescription": "유노 온라인은 전통적인 유노 카드 게임을 기반으로 한 온라인 카드 게임입니다. 게임은 카드를 버리고 손패를 먼저 비우는 것을 목표로 색상이나 숫자를 맞추는 방식으로 진행됩니다.",
+      "howToPlayTitle": "유노 온라인 플레이 방법",
+      "howToPlayStep1": "각 플레이어는 7장의 카드로 시작합니다.",
+      "howToPlayStep2": "버려진 카드 뭉치 위의 카드의 색상이나 숫자를 맞춥니다.",
+      "howToPlayStep3": "모든 카드를 제거하고 승리하세요!",
+      "keyFeaturesTitle": "유노 온라인의 주요 기능",
+      "feature1Title": "학습이 용이",
+      "feature1Description": "모든 연령대의 플레이어가 쉽게 이해할 수 있는 간단한 규칙입니다.",
+      "feature2Title": "사회적 상호 작용",
+      "feature2Description": "온라인에서 친구, 가족 또는 다른 플레이어와 함께 플레이하여 즐거움을 더하세요.",
+      "feature3Title": "언제 어디서나 플레이",
+      "feature3Description": "다운로드나 설치 없이 브라우저를 통해 게임에 접속하세요.",
+      "feature4Title": "전략적인 게임 플레이",
+      "feature4Description": "사회적 기술과 전략적 사고를 향상시키세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

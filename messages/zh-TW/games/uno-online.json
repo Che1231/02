@@ -1,0 +1,77 @@
+{
+  "uno-online": {
+    "title": "線上UNO遊戲免費 - 線上趣味紙牌遊戲",
+    "slogan": "與朋友一起線上玩UNO！體驗經典的紙牌遊戲！",
+    "description": "準備好線上UNO的樂趣了嗎？探索這款經典的線上UNO紙牌遊戲，適合所有年齡層！現在免費線上玩UNO遊戲，挑戰朋友！立即開始線上玩UNO！",
+    "Loading": {
+      "title": "載入線上UNO"
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友善連結",
+      "articleList": "文章清單",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "線上UNO",
+      "description": "線上UNO是一款基於傳統UNO紙牌遊戲的線上紙牌遊戲。現在就與朋友一起線上玩！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "線上UNO",
+      "whatIsTitle": "什麼是線上UNO？",
+      "whatIsDescription": "線上UNO是一款基於傳統UNO紙牌遊戲的線上紙牌遊戲。遊戲需要匹配顏色或數字來棄牌，並搶先清空你的牌堆。",
+      "howToPlayTitle": "如何玩線上UNO",
+      "howToPlayStep1": "每位玩家一開始都拿到七張牌。",
+      "howToPlayStep2": "匹配廢棄牌堆頂牌的顏色或數字。",
+      "howToPlayStep3": "搶先將所有牌棄掉以獲勝！",
+      "keyFeaturesTitle": "線上UNO的主要功能",
+      "feature1Title": "易於學習",
+      "feature1Description": "遊戲規則簡單易懂，適合所有年齡層的玩家。",
+      "feature2Title": "社交互動",
+      "feature2Description": "與朋友、家人或其他線上玩家一起玩遊戲，增添樂趣。",
+      "feature3Title": "隨時隨地玩遊戲",
+      "feature3Description": "透過瀏覽器存取遊戲，無需下載或安裝。",
+      "feature4Title": "策略遊戲",
+      "feature4Description": "提升社交技巧和策略思考能力。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到分類",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

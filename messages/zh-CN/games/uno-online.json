@@ -1,0 +1,77 @@
+{
+  "uno-online": {
+    "title": "玩UNO在线版-免费在线纸牌游戏",
+    "slogan": "与朋友一起玩UNO在线版！体验经典纸牌游戏。",
+    "description": "准备好体验UNO在线版乐趣了吗？发现经典的UNO在线纸牌游戏，适合所有年龄段！现在免费在线玩UNO在线版，挑战朋友。立即开始玩UNO在线版！",
+    "Loading": {
+      "title": "正在加载UNO在线版"
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "UNO在线版",
+      "description": "UNO在线版是一款基于传统UNO纸牌游戏的在线纸牌游戏。现在就与朋友在线玩！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "UNO在线版",
+      "whatIsTitle": "什么是UNO在线版？",
+      "whatIsDescription": "UNO在线版是一款基于传统UNO纸牌游戏的在线纸牌游戏。游戏需要匹配颜色或数字来弃牌，第一个将所有牌都弃掉的人获胜。",
+      "howToPlayTitle": "如何玩UNO在线版",
+      "howToPlayStep1": "每个玩家开始时都有七张牌。",
+      "howToPlayStep2": "匹配废牌堆顶牌的颜色或数字。",
+      "howToPlayStep3": "率先将所有牌都弃掉的人获胜！",
+      "keyFeaturesTitle": "UNO在线版的特色功能",
+      "feature1Title": "易于学习",
+      "feature1Description": "规则简单易懂，适合所有年龄段的玩家。",
+      "feature2Title": "社交互动",
+      "feature2Description": "与朋友、家人或其他在线玩家一起玩，增加乐趣。",
+      "feature3Title": "随时随地玩游戏",
+      "feature3Description": "无需下载或安装，即可通过浏览器访问游戏。",
+      "feature4Title": "策略性游戏",
+      "feature4Description": "提高社交能力和策略思维。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

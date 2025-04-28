@@ -1,0 +1,120 @@
+{
+  "name": "Klondike Solitaire",
+  "pagePath": "/games/klondike-solitaire",
+  "pageName": "klondike-solitaire",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://freeonlinegames.github.io/klondike-solitaire/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "CosmicKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicKraken42.png",
+      "content": "OMG, this Klondike Solitaire game is so addictive! Moving cards to the foundation is super satisfying. Anyone else feel the same?"
+    },
+    {
+      "author": "SavageKatana_Z",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatana_Z.png",
+      "content": "Classic Klondike! Building those stacks from ace to king keeps me hooked for hours. The rules are simple yet challenging! Worth checking out."
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Is it just me, or is Klondike the perfect game to unwind with? Laying out the cards is so therapeutic LOL."
+    },
+    {
+      "author": "PhantomLeviathan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomLeviathan99.png",
+      "content": "This version of Klondike Solitaire brings back so many memories! I really like the challenging gameplay when the deck is running low."
+    },
+    {
+      "author": "AdjectiveBroadsword_Y",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AdjectiveBroadsword_Y.png",
+      "content": "The flipping card animations feel old school! I could play this solitaire all day. Can you believe that it takes patience?"
+    },
+    {
+      "author": "StalkingPhoenix87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix87.png",
+      "content": "Seriously addicted! The feeling when you finish putting the last card? Unbeatable. How am I supposed to get any work done now?"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "It is so frustrating when I realize I missed a move because of autopilot!! The worst part is still shuffling, though."
+    },
+    {
+      "author": "CosmiCleviathan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmiCleviathan99.png",
+      "content": "Love the feeling when all the cards line up perfectly. But those moments don't happen nearly enough. This solitaire is the best."
+    },
+    {
+      "author": "PhantoMLeviathan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantoMLeviathan99.png",
+      "content": "The most frustrating and satisfying game on the planet. Klondike and its ability to make you go insane is amazing. Try it!"
+    },
+    {
+      "author": "NeonLeviathnn87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonLeviathnn87.png",
+      "content": "Alright, who else is playing this instead of doing actual work? Stacking each suit feels like a mini-achievement. Totally worth it!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-27/images/1745766061338-jv06dr.png",
+  "page_path": "/games/klondike-solitaire",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Clicker"
+  ],
+  "createdTime": "2025-04-27 23:00:39"
+}

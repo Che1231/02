@@ -1,0 +1,120 @@
+{
+  "name": "Google Solitaire",
+  "pagePath": "/games/google-solitaire",
+  "pageName": "google-solitaire",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.google.com/logos/fnbx/solitaire/standalone.html",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingKraken87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken87.png",
+      "content": "This game is so addictive! I love that you can undo moves, super helpful. Google Solitaire is a classic for a reason!"
+    },
+    {
+      "author": "SavageBroadsword_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageBroadsword_X.png",
+      "content": "Pretty cool how easy it is to just search 'google solitaire' and start playing. Simple but fun!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Can't believe this game is free in the browser. The interface is so clean! I'm hooked."
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Is it just me, or is this game impossibly addicting? I can spend hours rearranging cards on the tableau."
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "I love that its really easy to access! No download! Just 'google solitaire', and there you go."
+    },
+    {
+      "author": "PhantomPhoenix99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomPhoenix99.png",
+      "content": "Didn't know Google had solitaire built in! This game is unexpectedly fun. It's super easy to correct mistakes too."
+    },
+    {
+      "author": "AdjectiveRevolver_V",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AdjectiveRevolver_V.png",
+      "content": "So simple, yet so addictive! Who knew a browser game could be this good? Building those foundation piles is satisfying."
+    },
+    {
+      "author": "EldenRingFan87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/EldenRingFan87.png",
+      "content": "I'm surprised at how easy it is to search 'google solitaire'. Plus, it has multiple game modes to keep me entertained. :D"
+    },
+    {
+      "author": "GitGudNoob42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/GitGudNoob42.png",
+      "content": "Google solitaire just hits different fr. No downloads required. So easy. I'm not sure what's happening, dawg."
+    },
+    {
+      "author": "zZ_ShadowLord_Zz",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/zZ_ShadowLord_Zz.png",
+      "content": "The fact this is on any device is epic. I play EVERYWHERE. I dig games where you can undo. My Solitaire skill is improving!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-27/images/1745765702395-ibvtx.jpg",
+  "page_path": "/games/google-solitaire",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Clicker"
+  ],
+  "createdTime": "2025-04-27 22:54:41"
+}

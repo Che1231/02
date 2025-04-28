@@ -1,0 +1,77 @@
+{
+  "google-solitaire": {
+    "title": "無料でプレイできるGoogle Solitaireオンライン - カードゲームを楽しむ",
+    "slogan": "ブラウザで、クラシックなカードゲームGoogle Solitaireをお楽しみいただけます！",
+    "description": "あらゆるスキルレベルにぴったりの魅力的なカードゲーム、Google Solitaireを発見してください。直感的なゲームプレイとさまざまなモードをお楽しみください。今すぐGoogle Solitaireをプレイして、あなたのスキルを試してみてください！Google Solitaireをプレイして、数時間の楽しい時間を体験してください。",
+    "Loading": {
+      "title": "Google Solitaire読み込み中"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "Google Solitaire",
+      "description": "ブラウザでオンラインGoogle Solitaireをプレイできます。無料でお楽しみいただけるクラシックなカードゲーム！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google Solitaire",
+      "whatIsTitle": "Google Solitaireとは？",
+      "whatIsDescription": "Google Solitaireは、ウェブブラウザ上でプレイできる、Wes Cherry氏が開発したクラシックなSolitaireゲームに基づいた、1人用カードゲームです。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "4つの山札（ハート、ダイヤ、クラブ、スペード）をAからKまで構築します。",
+      "howToPlayStep2": "カードを山札から山札、または山札の間の列に移動します。",
+      "howToPlayStep3": "交互の色で降順に（たとえば、赤のキングの上に黒のクイーン）シーケンスを作成します。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "複数のゲームモード",
+      "feature1Description": "初心者からGoogle Solitaireのエキスパートまで、さまざまなプレイヤーの好みとスキルレベルに適しています。",
+      "feature2Title": "シンプルなインターフェース",
+      "feature2Description": "Google Solitaireでは、クリーンで直感的なユーザーインターフェースで操作が簡単です。",
+      "feature3Title": "いつでもどこでもプレイ可能",
+      "feature3Description": "Webベースのゲームとして、さまざまなデバイスでGoogle Solitaireにアクセスして、いつでもどこでも楽しめます。",
+      "feature4Title": "やり直し機能",
+      "feature4Description": "前の手順をやり直せるため、ミスを修正したり、Google Solitaireでさまざまな戦略を試したりする際に便利です。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "コメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

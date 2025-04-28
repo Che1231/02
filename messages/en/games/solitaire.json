@@ -1,0 +1,77 @@
+{
+  "solitaire": {
+    "title": "Play Solitaire Online for Free - Klondike, Spider & FreeCell",
+    "slogan": "Enjoy classic Solitaire card games online!",
+    "description": "Discover the timeless joy of Solitaire! This classic card game, also known as patience, offers hours of entertainment. Play Klondike Solitaire, Spider Solitaire, and FreeCell Solitaire for free and challenge your mind with Solitaire today!",
+    "Loading": {
+      "title": "Loading Solitaire"
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Play Solitaire Online",
+      "description": "Enjoy a quick game of Solitaire!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Solitaire",
+      "whatIsTitle": "What is Solitaire?",
+      "whatIsDescription": "Solitaire, often referring to Klondike, Spider, or FreeCell, is a classic single-player card game. The goal is to arrange all cards into foundation piles by suit and rank.",
+      "howToPlayTitle": "How to Play Solitaire",
+      "howToPlayStep1": "Set up the tableau with seven columns of cards.",
+      "howToPlayStep2": "Move cards between columns, following suit and rank rules.",
+      "howToPlayStep3": "Build foundation piles from Ace to King.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Classic Gameplay",
+      "feature1Description": "Enjoy the traditional rules of various Solitaire games.",
+      "feature2Title": "Multiple Variants",
+      "feature2Description": "Play Klondike, Spider, FreeCell, and more.",
+      "feature3Title": "User-Friendly Interface",
+      "feature3Description": "Easy to navigate and play.",
+      "feature4Title": "Free to Play",
+      "feature4Description": "Enjoy unlimited games of Solitaire for free."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "Browse our collection of games.",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

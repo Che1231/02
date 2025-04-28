@@ -1,0 +1,77 @@
+{
+  "solitaire": {
+    "title": "Mainkan Solitaire Online Gratis - Klondike, Spider & FreeCell",
+    "slogan": "Nikmati permainan kartu Solitaire klasik online!",
+    "description": "Temukan kegembiraan Solitaire yang abadi! Permainan kartu klasik ini, yang juga dikenal sebagai patience, menawarkan jam hiburan. Mainkan Solitaire Klondike, Solitaire Spider, dan Solitaire FreeCell secara gratis dan tantang pikiran Anda dengan Solitaire hari ini!",
+    "Loading": {
+      "title": "Memuat Solitaire"
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Syarat Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Mainkan Solitaire Online",
+      "description": "Nikmati permainan Solitaire singkat!",
+      "iframeTitle": "Pratinjau Permainan",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Permainan",
+      "playGame": "Mainkan Permainan"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Solitaire",
+      "whatIsTitle": "Apa itu Solitaire?",
+      "whatIsDescription": "Solitaire, sering merujuk pada Klondike, Spider, atau FreeCell, adalah permainan kartu klasik untuk satu pemain. Tujuannya adalah untuk mengatur semua kartu ke dalam tumpukan fondasi berdasarkan jenis dan peringkat.",
+      "howToPlayTitle": "Cara Bermain Solitaire",
+      "howToPlayStep1": "Atur tableau dengan tujuh kolom kartu.",
+      "howToPlayStep2": "Pindahkan kartu di antara kolom, mengikuti aturan jenis dan peringkat.",
+      "howToPlayStep3": "Bangun tumpukan fondasi dari As hingga Raja.",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Gameplay Klasik",
+      "feature1Description": "Nikmati aturan tradisional berbagai permainan Solitaire.",
+      "feature2Title": "Beberapa Varian",
+      "feature2Description": "Mainkan Klondike, Spider, FreeCell, dan lainnya.",
+      "feature3Title": "Antarmuka Ramah Pengguna",
+      "feature3Description": "Mudah dinavigasi dan dimainkan.",
+      "feature4Title": "Gratis Dimainkan",
+      "feature4Description": "Nikmati permainan Solitaire tanpa batas secara gratis."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Permainan"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Permainan",
+      "description": "Jelajahi koleksi permainan kami.",
+      "games": "Permainan"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Lebih Banyak",
+      "page": "Halaman"
+    }
+  }
+}

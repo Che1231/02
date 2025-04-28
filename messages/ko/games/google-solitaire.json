@@ -1,0 +1,77 @@
+{
+  "google-solitaire": {
+    "title": "무료 온라인 구글 솔리테어 게임 플레이 - 카드 게임 재미",
+    "slogan": "브라우저에서 클래식 카드 게임인 구글 솔리테어를 즐겨보세요!",
+    "description": "모든 실력 수준의 플레이어를 위한 매혹적인 카드 게임인 구글 솔리테어를 발견하세요. 직관적인 게임 플레이와 다양한 모드를 즐기세요. 지금 구글 솔리테어를 플레이하고 실력을 테스트해보세요! 구글 솔리테어 게임을 통해 수 시간 동안 즐거움을 경험하세요.",
+    "Loading": {
+      "title": "구글 솔리테어 로딩 중"
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "구글 솔리테어",
+      "description": "브라우저에서 온라인으로 구글 솔리테어를 플레이하세요. 클래식 카드 게임을 무료로 즐겨 보세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "구글 솔리테어",
+      "whatIsTitle": "구글 솔리테어는 무엇인가요?",
+      "whatIsDescription": "구글 솔리테어는 웹 브라우저에서 플레이할 수 있는 싱글 플레이어 카드 게임으로, 웨스 체리(Wes Cherry)가 개발한 클래식 솔리테어 게임 방식을 기반으로 합니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "A부터 K까지 네 개의 기본 쌓기 더미(하트, 다이아몬드, 클럽, 스페이드)를 쌓아 올리세요.",
+      "howToPlayStep2": "카드를 기본 쌓기 더미 또는 테이블 컬럼끼리 이동하세요.",
+      "howToPlayStep3": "색상이 교대로 되는 내림차순으로 카드를 쌓아 올리세요(예: 검정색 여왕 카드는 빨간색 왕 카드 위에 쌓으세요).",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "다중 게임 모드",
+      "feature1Description": "초보자부터 구글 솔리테어 전문가까지 다양한 플레이어 선호도와 기술 수준에 적합합니다.",
+      "feature2Title": "간편한 인터페이스",
+      "feature2Description": "구글 솔리테어는 깔끔하고 직관적인 사용자 인터페이스를 통해 쉽게 작동할 수 있습니다.",
+      "feature3Title": "언제 어디서나 플레이",
+      "feature3Description": "웹 기반 게임으로 다양한 기기에서 언제 어디서나 구글 솔리테어에 접속하여 즐길 수 있습니다.",
+      "feature4Title": "되돌리기 기능",
+      "feature4Description": "이전 단계를 되돌릴 수 있어 실수를 바로잡거나 구글 솔리테어에서 다양한 전략을 탐색하기 쉽습니다."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

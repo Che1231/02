@@ -1,0 +1,77 @@
+{
+  "klondike-solitaire": {
+    "title": "เล่น Klondike Solitaire ออนไลน์ฟรี - เกมไพ่คลาสสิก",
+    "slogan": "เพลิดเพลินไปกับเกมไพ่ Klondike Solitaire ที่มีเสน่ห์ตลอดกาล!",
+    "description": "สัมผัสประสบการณ์ Klondike Solitaire คลาสสิกออนไลน์! เกมที่ท้าทายการคิดเชิงกลยุทธ์ของคุณ เล่น Klondike Solitaire เพื่อทดสอบทักษะและสนุกสนานไปหลายชั่วโมง เริ่มเล่นเกม Klondike Solitaire ของคุณตอนนี้!",
+    "Loading": {
+      "title": "กำลังโหลด Klondike Solitaire"
+    },
+    "Navbar": {
+      "title": "เมนู"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์ที่เป็นมิตร",
+      "articleList": "รายการบทความ",
+      "home": "หน้าหลัก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "Klondike Solitaire",
+      "description": "เล่น Klondike Solitaire ในโหมดเต็มหน้าจอ!",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ลงในคลิปบอร์ดเรียบร้อยแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Klondike Solitaire",
+      "whatIsTitle": "Klondike Solitaire คืออะไร?",
+      "whatIsDescription": "Klondike Solitaire เป็นเกมไพ่เดี่ยวคลาสสิกที่รู้จักในด้านการเล่นเกมที่น่าสนใจและความลึกซึ้งทางกลยุทธ์",
+      "howToPlayTitle": "วิธีการเล่น Klondike Solitaire",
+      "howToPlayStep1": "จัดเรียงแถวไพ่เจ็ดแถว",
+      "howToPlayStep2": "ย้ายไพ่ไปยังกองไพ่หลักตามหัวใจในลำดับที่เพิ่มขึ้น (A ถึง K)",
+      "howToPlayStep3": "เปิดเผยไพ่ที่ซ่อนอยู่และวางแผนการเคลื่อนไหวของคุณเพื่อเคลียร์แถวไพ่",
+      "keyFeaturesTitle": "คุณสมบัติหลักของ Klondike Solitaire",
+      "feature1Title": "การเล่นเกมแบบคลาสสิก",
+      "feature1Description": "สัมผัสกฎ Klondike Solitaire ที่แท้จริงและเค้าโครงไพ่แบบดั้งเดิม",
+      "feature2Title": "อินเทอร์เฟซที่ใช้งานง่าย",
+      "feature2Description": "เพลิดเพลินไปกับการเคลื่อนไหวไพ่ที่ราบรื่นและดีไซน์ที่ใช้งานง่ายสำหรับการเล่นเกมที่ลื่นไหล",
+      "feature3Title": "ตัวเลือกปรับแต่ง",
+      "feature3Description": "ปรับแต่งเกมของคุณด้วยการออกแบบและพื้นหลังไพ่ที่แตกต่างกัน",
+      "feature4Title": "ติดตามสถิติ",
+      "feature4Description": "ตรวจสอบประสิทธิภาพของคุณด้วยสถิติรายละเอียดเพื่อปรับปรุงทักษะของคุณ"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อยเกี่ยวกับ Klondike Solitaire"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม Klondike Solitaire"
+    },
+    "HomeRecommendation": {
+      "title": "เกม Klondike Solitaire ที่แนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นเกี่ยวกับการเล่น Klondike Solitaire"
+    },
+    "GamePage": {
+      "title": "ทุกเกม",
+      "description": "สำรวจเกมไพ่หลากหลายและชื่อเรื่องที่น่าสนใจอื่นๆ",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}
