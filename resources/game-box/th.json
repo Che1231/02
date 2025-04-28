@@ -103,23 +103,23 @@
   ],
   "categories": [
     {
-      "name": "เกมใหม่และกำลังเป็นที่นิยม",
+      "name": "ใหม่และได้รับความนิยม",
       "path": "/c/new-trending",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "การคัดสรรรายสัปดาห์! เกมอินดี้/คลาสสิกใหม่ – เล่นทันทีผ่าน WebGL, เป็นที่นิยมโดยคะแนน 5 แสนรายการขึ้นไป"
+      "description": "การคัดเลือกประจำสัปดาห์! เกมอินดี้/คลาสสิกใหม่ – เล่นได้ทันทีผ่าน WebGL, ได้รับความนิยมจากการให้คะแนนมากกว่า 5 แสนครั้ง"
     },
     {
-      "name": "เกมแอ็คชั่น",
+      "name": "เกมแอ็คชัน",
       "path": "/c/action-game",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815583893-1ov2te.png",
-      "description": "คอมโบสุดมันส์! การควบคุมที่สมบูรณ์แบบ, การสั่นสะเทือนของหน้าจอ – ปรับแต่งสำหรับการสัมผัส/คีย์บอร์ด",
+      "description": "คอมโบสุดมันส์! การควบคุมที่แม่นยำแบบพิกเซล, การสั่นสะเทือนบนหน้าจอ – ปรับให้เหมาะกับการสัมผัส/คีย์บอร์ด",
       "position": 2
     },
     {
@@ -130,7 +130,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815702803-jwfoq.png",
       "position": 3,
-      "description": "ลูกกระสุนสุดมันส์ + กลยุทธ์การหลบภัย! การต่อสู้แบบเรียลไทม์ 100 ผู้เล่นกับลูกกระสุนวิทยาศาสตร์ที่ซิงโครไนซ์"
+      "description": "กระสุนนับไม่ถ้วน + กลยุทธ์การซ่อนตัว! การรบแบบเรียลไทม์ 100 ผู้เล่น พร้อมกับกระสุนไซไฟที่ซิงค์กัน"
     },
     {
       "name": "เกมผู้เล่นหลายคน",
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815711657-79vvcq.png",
       "position": 4,
-      "description": "ทีมผู้เล่นข้ามเกม! แชทเสียง, ความคืบหน้าร่วมกัน – สลับจากการปิดล้อมไปจนถึงปริศนาแบบร่วมมือกัน"
+      "description": "ทีมผู้เล่นข้ามเกม! แชทเสียง, ความคืบหน้าร่วมกัน – สลับจากการปิดล้อมไปยังปริศนาแบบร่วมมือกัน"
     },
     {
       "name": "กลยุทธ์และปริศนา",
@@ -150,17 +150,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815763054-q49yn2.png",
       "position": 5,
-      "description": "กลยุทธ์แบบไม่ต้องเล่นต่อเนื่อง + ปริศนาท้าทาย! การจัดการทรัพยากรแบบออฟไลน์ + ปริศนาเชิงพื้นที่ AR"
+      "description": "กลยุทธ์แบบว่างงาน + ปริศนา! การจัดการทรัพยากรแบบออฟไลน์ + ปริศนาเชิงพื้นที่ AR"
     },
     {
-      "name": "จำลองและไม่ต้องเล่นต่อเนื่อง",
+      "name": "จำลองและว่างงาน",
       "path": "/c/simulation-idle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816169112-k5x75h.png",
       "position": 6,
-      "description": "กำไรแบบไม่ต้องเล่นต่อเนื่อง! ความก้าวหน้าอัตโนมัติ + ซิงค์ข้อมูลบนคลาวด์ผ่าน QR – กำไรออฟไลน์ 200%"
+      "description": "กำไรแบบว่างงาน! ความคืบหน้าอัตโนมัติ + การซิงค์ข้อมูลบนคลาวด์ผ่าน QR – กำไรเพิ่มขึ้น 200% ในโหมดออฟไลน์"
     },
     {
       "name": "RPG และการผจญภัย",
@@ -169,7 +169,7 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "RPG ที่มีเรื่องราวและการผจญภัยแบบโอเพ่นเวิลด์! บันทึกข้ามแพลตฟอร์ม, ปริศนาแบบร่วมมือกัน โลกที่แตกต่างกัน 2 โลก – แฟนตาซียุคกลางและหลังหายนะ – มีเรื่องราวที่ซ่อนอยู่มากกว่า 50 เรื่อง",
+      "description": "RPG ที่มีเรื่องราวและการผจญภัยแบบโอเพ่นเวิลด์! บันทึกข้ามแพลตฟอร์ม, ปริศนาแบบร่วมมือกัน โลกที่ไม่เหมือนใครสองแบบ – แฟนตาซียุคกลางและโพสต์อะโพคาลิปส์ – พร้อมเรื่องราวลับมากกว่า 50 เรื่อง",
       "position": 7
     },
     {
@@ -180,7 +180,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816383288-nxe2wm.png",
       "position": 8,
-      "description": "การเอาตัวรอดใน .IO + กีฬา! แบ่งลูกบอลหรือฝึกสอนทีม – ตารางอันดับข้ามแพลตฟอร์ม, ไม่ต้องลงชื่อเข้าใช้"
+      "description": "การอยู่รอดแบบ IO และกีฬา! แบ่งลูกบอลหรือฝึกสอนทีม – ตารางคะแนนทั่วโลกข้ามแพลตฟอร์ม, ไม่ต้องเข้าสู่ระบบ"
     },
     {
       "name": "เกมขับรถ",
@@ -190,17 +190,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816438112-a6e0gj.png",
       "position": 9,
-      "description": "กิน, เติบโต, และครองจักรวาล .IO!"
-    },
-    {
-      "name": "เกมสยองขวัญ",
-      "path": "/c/horror-game",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816432234-45f2b9.png",
-      "position": 10,
-      "description": "เกมสยองขวัญที่ตื่นเต้น! เงา WebGL + ปริศนา AR – ความกลัวที่ฉลาดด้วยบรรยากาศ Lovecraftian"
+      "description": "กิน, เติบโตและครองจักรวาล .IO!"
     },
     {
       "name": "Sandbox ง่ายๆ",
@@ -208,19 +198,19 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816176521-n6vds.png",
-      "position": 11,
-      "description": "สร้างได้อย่างอิสระ! บันทึกอัตโนมัติ + การแก้ไข VR – ฟาร์มแบบแยกส่วน/ฐานหลังหายนะพร้อมฟิสิกส์"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839114872-shg2ym.png",
+      "position": 10,
+      "description": "สร้างได้อย่างอิสระ! บันทึกอัตโนมัติ + การแก้ไข VR – ฟาร์มแบบโมดูลาร์/ฐานโพสต์อะโพคาลิปส์ด้วยฟิสิกส์"
     },
     {
-      "name": "เกมการ์ดและคลาสสิก",
+      "name": "การ์ดและคลาสสิก",
       "path": "/c/card-classic",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816207554-afl8au.png",
-      "position": 12,
-      "description": "คลาสสิกในแต่ละภูมิภาค! การรีเมค Mahjong/Pai Gow – AI ที่ปรับให้เข้ากับทักษะ, UI แบบพิกเซลแบบย้อนยุค"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839109336-jlksij.png",
+      "position": 11,
+      "description": "เกมคลาสสิกรอบท้องถิ่น! ปรับปรุง Mahjong/Pai Gow – AI ที่ปรับตามทักษะ, UI แบบพิกเซลยุคเก่า"
     },
     {
       "name": "จังหวะและเสียง",
@@ -228,9 +218,9 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816232192-m7iue2.png",
-      "position": 13,
-      "description": "จังหวะที่ควบคุมด้วยเสียง! ความแม่นยำของไมโครโฟน 50 มิลลิวินาที, การเต้นของ VTuber – ซิงโครไนซ์เสียงรอบทิศ 7.1"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839102053-cncg4.png",
+      "position": 12,
+      "description": "จังหวะที่ควบคุมด้วยเสียง! ความแม่นยำของไมโครโฟน 50 มิลลิวินาที, การเต้นของ VTuber – ซิงค์เสียง 7.1 Surround"
     }
   ]
 }

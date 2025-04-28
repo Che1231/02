@@ -103,14 +103,14 @@
   ],
   "categories": [
     {
-      "name": "新着・トレンド",
+      "name": "新着＆トレンド",
       "path": "/c/new-trending",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "毎週のおすすめ！インディー/新旧の名作 - WebGLで即プレイ可能、50万以上の人気ランキングで話題のゲーム。"
+      "description": "毎週厳選！インディー/新定番ゲーム！WebGLで即プレイ可能、50万以上の評価でトレンド。"
     },
     {
       "name": "アクションゲーム",
@@ -119,7 +119,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815583893-1ov2te.png",
-      "description": "コンボマ…ia！ピクセルパーフェクトな操作感、画面揺れする攻撃 - タッチ/キーボード最適化済み。",
+      "description": "コンボ祭り！ピクセルパーフェクトな操作感、画面揺れと衝撃！タッチ/キーボード最適化済みです。",
       "position": 2
     },
     {
@@ -130,7 +130,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815702803-jwfoq.png",
       "position": 3,
-      "description": "弾幕＋カバー戦術！100人対戦リアルタイムバトル、同期したサイファイ弾丸。"
+      "description": "弾幕地獄＋カバー戦術！100人リアルタイム対戦、同期したSF弾幕。"
     },
     {
       "name": "マルチプレイヤーゲーム",
@@ -140,67 +140,57 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815711657-79vvcq.png",
       "position": 4,
-      "description": "クロスゲームのチーム！ボイスチャット、共有進行 - 包囲戦から協力パズルへ。"
+      "description": "クロスゲームな部隊！ボイスチャット、共有進捗！包囲から協力パズルまで。 "
     },
     {
-      "name": "戦略&パズル",
+      "name": "ストラテジー＆パズル",
       "path": "/c/strategy-puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815763054-q49yn2.png",
       "position": 5,
-      "description": "放置戦略＋脳みそをひねり出す！オフライン資源管理＋AR空間パズル。"
+      "description": "放置ストラテジー＋脳みそパズル！オフライン資源管理＋AR空間パズル。"
     },
     {
-      "name": "シミュレーション&放置",
+      "name": "シミュレーション＆放置",
       "path": "/c/simulation-idle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816169112-k5x75h.png",
       "position": 6,
-      "description": "放置で利益！自動進行＋クラウド同期 via QR - オフラインで200％獲得！"
+      "description": "放置で利益！自動進捗＋クラウド同期 via QR – オフラインで200%獲得。"
     },
     {
-      "name": "RPG&アドベンチャー",
+      "name": "RPG＆アドベンチャー",
       "path": "/c/rpg-adventure",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "ストーリー重視のRPG＆オープンワールドアドベンチャー！クロスプラットフォーム保存、協力パズル。2つの世界 - 中世ファンタジーとポスト・アポカリプス - 50+の隠しストーリー付き。",
+      "description": "ストーリー重視のRPG＆オープンワールドアドベンチャー！クロスプラットフォーム保存、協力パズル。2つの独特な世界 - 中世ファンタジーとポスト・アポカリプス - 50以上の隠し物語。",
       "position": 7
     },
     {
-      "name": "スポーツ&.IO",
+      "name": "スポーツ＆IO",
       "path": "/c/sports-io",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816383288-nxe2wm.png",
       "position": 8,
-      "description": ".IOサバイバル＋スポーツ！ボールを分割したり、チームを率いる - クロスプラットフォームのランキング、ログイン不要。"
+      "description": "IOサバイバル＋スポーツ！ボールを分裂させたりチームを指揮！クロスプラットフォームランキング、ログイン不要。"
     },
     {
-      "name": "運転ゲーム",
+      "name": "ドライブゲーム",
       "path": "/c/driving-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816438112-a6e0gj.png",
       "position": 9,
-      "description": "食べる、成長し、.IOの世界を支配する！"
-    },
-    {
-      "name": "ホラーゲーム",
-      "path": "/c/horror-game",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816432234-45f2b9.png",
-      "position": 10,
-      "description": "脈拍が速くなるホラー！WebGLの影＋ARパズル - Lovecraftianな雰囲気のスマートな恐怖。"
+      "description": "食べ、成長し、IO宇宙を支配！ "
     },
     {
       "name": "サンドボックスライト",
@@ -208,29 +198,29 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816176521-n6vds.png",
-      "position": 11,
-      "description": "自由に構築！自動保存＋VR編集 - モジュール農場/ポスト・アポカリプス基地を物理学で構築。"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839114872-shg2ym.png",
+      "position": 10,
+      "description": "自由に構築！自動保存＋VR編集 - モジュール式農場/ポスト・アポカリプス基地物理エンジン。"
     },
     {
-      "name": "カード&クラシック",
+      "name": "カード＆クラシック",
       "path": "/c/card-classic",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816207554-afl8au.png",
-      "position": 12,
-      "description": "地域のクラシック！麻雀/牌九のリメイク - スキル適応型AI、レトロピクセルUI。"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839109336-jlksij.png",
+      "position": 11,
+      "description": "地域別クラシック！麻雀/牌九のリメイク - スキル適応型AI、レトロピクセルUI。"
     },
     {
-      "name": "リズム&ボイス",
+      "name": "リズム＆ボイス",
       "path": "/c/rhythm-voice",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816232192-m7iue2.png",
-      "position": 13,
-      "description": "ボイスコントロールのビート！50msのマイク精度、VTuberダンス - 7.1サラウンド同期。"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839102053-cncg4.png",
+      "position": 12,
+      "description": "ボイスコントロールビート！50msマイク精度、VTuberダンス - 7.1サラウンド同期。"
     }
   ]
 }

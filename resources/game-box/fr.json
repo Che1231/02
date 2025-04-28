@@ -103,44 +103,44 @@
   ],
   "categories": [
     {
-      "name": "Nouveauté et tendances",
+      "name": "Nouveautés et tendances",
       "path": "/c/new-trending",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "Sélections hebdomadaires ! Classiques indépendants/nouveaux – lecture instantanée via WebGL, tendance grâce à plus de 500 000 évaluations."
+      "description": "Sélections hebdomadaires ! Classiques indé/nouveaux – jeu instantané via WebGL, tendance avec plus de 500 000 évaluations."
     },
     {
-      "name": "Jeux d'action",
+      "name": "Jeu d'action",
       "path": "/c/action-game",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815583893-1ov2te.png",
-      "description": "Manie des combinaisons ! Contrôles parfaits au pixel près, frappes secouant l'écran – optimisé pour les commandes tactile/clavier.",
+      "description": "Manie des combos ! Contrôles précis au pixel, coups déstabilisant l'écran – optimisé pour les touches/clavier.",
       "position": 2
     },
     {
-      "name": "Jeux de tir",
+      "name": "Jeu de tir",
       "path": "/c/shooter-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815702803-jwfoq.png",
       "position": 3,
-      "description": "Enfer à balles + tactiques de couverture ! Batailles en temps réel à 100 joueurs avec des tirs futuristes synchronisés."
+      "description": "Enfer à balles + tactiques de couverture ! Batailles en temps réel de 100 joueurs avec des balles futuristes synchronisées."
     },
     {
-      "name": "Jeux multijoueurs",
+      "name": "Jeu multijoueur",
       "path": "/c/multiplayer-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815711657-79vvcq.png",
       "position": 4,
-      "description": "Escouades inter-jeux ! Chat vocal, progression partagée – passez des sièges aux puzzles coopératifs."
+      "description": "Équipages inter-jeux ! Chat vocal, progression partagée – passez des sièges à des énigmes coopératives."
     },
     {
       "name": "Stratégie et casse-tête",
@@ -150,17 +150,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815763054-q49yn2.png",
       "position": 5,
-      "description": "Stratégie passive + casse-tête ! Gestion des ressources hors ligne + puzzles spatiaux AR."
+      "description": "Stratégie au ralenti + casse-têtes ! Gestion des ressources hors ligne + casse-têtes spatiaux AR."
     },
     {
-      "name": "Simulation et jeux passifs",
+      "name": "Simulation et jeu de loisir",
       "path": "/c/simulation-idle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816169112-k5x75h.png",
       "position": 6,
-      "description": "Profits passifs ! Progression automatique + synchronisation cloud via QR – gains hors ligne de 200 %."
+      "description": "Profits au ralenti ! Progression automatique + synchronisation sur le cloud via QR code – gains hors ligne de 200 %."
     },
     {
       "name": "RPG et aventure",
@@ -169,38 +169,28 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "RPG axés sur l'histoire et aventures en monde ouvert ! Sauvegardes multiplateformes, puzzles coopératifs. 2 mondes uniques – Fantastique médiéval et Post-apocalyptique – avec plus de 50 histoires cachées.",
+      "description": "RPG narratifs et aventures en monde ouvert ! Sauvegardes multiplateformes, énigmes coopératives. 2 mondes uniques – fantaisie médiévale et post-apocalyptique – avec plus de 50 histoires cachées.",
       "position": 7
     },
     {
-      "name": "Sports et .IO",
+      "name": "Sport et IO",
       "path": "/c/sports-io",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816383288-nxe2wm.png",
       "position": 8,
-      "description": "Survie .IO + sports ! Diviser les balles ou entraîner des équipes – tableaux de classement multiplateformes, sans connexion."
+      "description": "Survie IO + sport ! Diviser les ballons ou entraîner des équipes – classements multiplateformes, pas de connexion."
     },
     {
-      "name": "Jeux de conduite",
+      "name": "Jeu de conduite",
       "path": "/c/driving-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816438112-a6e0gj.png",
       "position": 9,
-      "description": "Mettez-vous au travail, développez-vous et maîtrisez l'univers .IO !"
-    },
-    {
-      "name": "Jeux d'horreur",
-      "path": "/c/horror-game",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816432234-45f2b9.png",
-      "position": 10,
-      "description": "Horreur à couper le souffle ! Ombres WebGL + puzzles AR – Peur intelligente avec une ambiance Lovecraftienne."
+      "description": "Mangez, grandissez et dominez l'univers .IO !"
     },
     {
       "name": "Sandbox léger",
@@ -208,19 +198,19 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816176521-n6vds.png",
-      "position": 11,
-      "description": "Construisez librement ! Sauvegarde automatique + édition VR – Fermes modulaires/bases post-apocalyptiques avec physique."
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839114872-shg2ym.png",
+      "position": 10,
+      "description": "Construisez librement ! Sauvegarde automatique + édition VR – fermes modulaires/bases post-apocalyptiques avec physique."
     },
     {
-      "name": "Cartes et classiques",
+      "name": "Carte et classique",
       "path": "/c/card-classic",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816207554-afl8au.png",
-      "position": 12,
-      "description": "Classiques régionaux ! Rééditions de Mahjong/Pai Gow – IA adaptable aux compétences, interface utilisateur rétro pixels."
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839109336-jlksij.png",
+      "position": 11,
+      "description": "Classiques régionaux ! Remises au goût du jour de Mahjong/Pai Gow – IA adaptable aux compétences, interface utilisateur rétro pixelisée."
     },
     {
       "name": "Rythme et voix",
@@ -228,9 +218,9 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816232192-m7iue2.png",
-      "position": 13,
-      "description": "Rythmes contrôlés par la voix ! Précision du micro de 50 ms, danse VTuber – synchronisation 7.1 surround."
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839102053-cncg4.png",
+      "position": 12,
+      "description": "Rythmes contrôlés par la voix ! Précision du micro de 50 ms, danses VTuber – synchronisation surround 7.1."
     }
   ]
 }

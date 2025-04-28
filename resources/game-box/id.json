@@ -110,7 +110,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "Pilihan terbaik mingguan! Klasik indie/baru – mainkan langsung melalui WebGL, tren berdasarkan rating lebih dari 500.000."
+      "description": "Pilihan minggu ini! Klasik baru/indie – mainkan langsung melalui WebGL, tren berdasarkan peringkat lebih dari 500.000."
     },
     {
       "name": "Game Aksi",
@@ -119,7 +119,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815583893-1ov2te.png",
-      "description": "Mania kombinasi! Kontrol presisi piksel, serangan yang mengguncang layar – dioptimalkan untuk sentuhan/keyboard.",
+      "description": "Mania kombinasi! Kontrol sempurna piksel, serangan yang mengguncang layar – dioptimalkan untuk sentuh/keyboard.",
       "position": 2
     },
     {
@@ -129,8 +129,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815702803-jwfoq.png",
-      "description": "Neraka peluru + taktik penutup! Pertempuran waktu nyata 100 pemain dengan peluru sci-fi yang disinkronkan.",
-      "position": 3
+      "position": 3,
+      "description": "Neraka peluru + taktik perlindungan! Pertempuran waktu nyata 100 pemain dengan peluru sci-fi yang disinkronkan."
     },
     {
       "name": "Game Multiplayer",
@@ -139,18 +139,18 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815711657-79vvcq.png",
-      "description": "Pasukan lintas game! Obrolan suara, kemajuan bersama – beralih dari pengepungan ke teka-teki kerja sama.",
-      "position": 4
+      "position": 4,
+      "description": "Skuad lintas game! Obrolan suara, kemajuan bersama – beralih dari pengepungan ke teka-teki kerja sama."
     },
     {
-      "name": "Strategi & Teka-teki",
+      "name": "Strategi & Teka-Teki",
       "path": "/c/strategy-puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815763054-q49yn2.png",
-      "description": "Strategi pasif + teka-teki otak! Manajerial sumber daya offline + teka-teki ruang AR.",
-      "position": 5
+      "position": 5,
+      "description": "Strategi pasif + teka-teki otak! Manajemen sumber daya offline + teka-teki spasial AR."
     },
     {
       "name": "Simulasi & Pasif",
@@ -159,8 +159,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816169112-k5x75h.png",
-      "description": "Keuntungan pasif! Otomatisasi kemajuan + sinkronisasi cloud melalui QR – keuntungan offline 200%.",
-      "position": 6
+      "position": 6,
+      "description": "Keuntungan pasif! Kemajuan otomatis + sinkronisasi cloud melalui QR – perolehan offline 200%."
     },
     {
       "name": "RPG & Petualangan",
@@ -169,7 +169,7 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "RPG berbasis cerita & petualangan dunia terbuka! Simpanan lintas platform, teka-teki kerja sama. 2 dunia unik – fantasi abad pertengahan & pasca-apokaliptik – dengan 50+ kisah tersembunyi.",
+      "description": "RPG bercerita & petualangan dunia terbuka! Simpanan lintas platform, teka-teki kolaboratif. 2 dunia unik – fantasi abad pertengahan & pasca-apokaliptik – dengan 50+ kisah tersembunyi.",
       "position": 7
     },
     {
@@ -179,8 +179,8 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816383288-nxe2wm.png",
-      "description": "Kelangsungan hidup IO + olahraga! Pisahkan bola atau latih tim – papan peringkat lintas platform, tidak perlu masuk.",
-      "position": 8
+      "position": 8,
+      "description": "Kelangsungan hidup IO + olahraga! Pisahkan bola atau latih tim – papan peringkat lintas platform, tanpa masuk."
     },
     {
       "name": "Game Mengemudi",
@@ -189,28 +189,18 @@
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816438112-a6e0gj.png",
-      "description": "Makan, tumbuh, dan kuasai alam semesta IO! ",
-      "position": 9
+      "position": 9,
+      "description": "Makan, tumbuh, dan kuasai alam semesta .IO!"
     },
     {
-      "name": "Game Horor",
-      "path": "/c/horror-game",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816432234-45f2b9.png",
-      "description": "Horor yang menggetarkan! Bayangan WebGL + teka-teki AR – ketakutan cerdas dengan getaran Lovecraftian.",
-      "position": 10
-    },
-    {
-      "name": "Sandbox Ringan",
+      "name": "Kotak Pasir Ringan",
       "path": "/c/sandbox-lite",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816176521-n6vds.png",
-      "description": "Bangun dengan bebas! Simpan otomatis + pengeditan VR – pertanian modular/basis pasca-apokaliptik dengan fisika.",
-      "position": 11
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839114872-shg2ym.png",
+      "position": 10,
+      "description": "Bangun secara bebas! Otomatis menyimpan + mengedit VR – pertanian modular/basis pasca-apokaliptik dengan fisika."
     },
     {
       "name": "Kartu & Klasik",
@@ -218,9 +208,9 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816207554-afl8au.png",
-      "description": "Klasik regional! Remake Mahjong/pai Gow – AI adaptif keterampilan, antarmuka piksel retro.",
-      "position": 12
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839109336-jlksij.png",
+      "position": 11,
+      "description": "Klasik regional! Remake Mahjong/pai Gow – AI adaptif keterampilan, antarmuka piksel retro."
     },
     {
       "name": "Ritme & Suara",
@@ -228,9 +218,9 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816232192-m7iue2.png",
-      "description": "Detak yang dikendalikan suara! Presisi mikrofon 50 ms, tarian VTuber – sinkronisasi surround 7.1.",
-      "position": 13
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839102053-cncg4.png",
+      "position": 12,
+      "description": "Ketukan yang dikendalikan suara! Presisi mikrofon 50ms, tarian VTuber – sinkronisasi surround 7.1."
     }
   ]
 }

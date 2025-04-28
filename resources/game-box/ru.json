@@ -103,34 +103,34 @@
   ],
   "categories": [
     {
-      "name": "Новые и трендовые",
+      "name": "Новые и популярные",
       "path": "/c/new-trending",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "Еженедельные подборки! Независимые/новые хиты – мгновенное воспроизведение через WebGL, трендовые по 500 000+ рейтингам."
+      "description": "Еженедельные рекомендации! Независимые/классические новинки – мгновенное воспроизведение через WebGL, популярные благодаря рейтингам более 500 000."
     },
     {
-      "name": "Игра в стиле экшен",
+      "name": "Игра в действия",
       "path": "/c/action-game",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815583893-1ov2te.png",
-      "description": "Мания комбинаций! Точные пиксельные управления, сотрясающие экран удары – оптимизировано для сенсорного управления/клавиатуры.",
+      "description": "Комбо-магия! Точные пиксельные элементы управления, потрясающие удары – оптимизировано под сенсорный ввод и клавиатуру.",
       "position": 2
     },
     {
-      "name": "Игра в стиле шутер",
+      "name": "Игра со стрельбой",
       "path": "/c/shooter-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815702803-jwfoq.png",
       "position": 3,
-      "description": "Адаптация пули + тактика укрытий! Реальные сражения в реальном времени с 100 игроками с синхронизированными научными пулями."
+      "description": "Ад + тактика укрытия! Реальные сражения в реальном времени с 100 участниками, синхронизированные научно-фантастические пули."
     },
     {
       "name": "Многопользовательская игра",
@@ -140,27 +140,27 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815711657-79vvcq.png",
       "position": 4,
-      "description": "Команды в разных играх! Голосовой чат, общий прогресс – переключайтесь с осады на кооперативные головоломки."
+      "description": "Команды в разных играх! Голосовой чат, общий прогресс – переключайтесь между осадами и совместными головоломками."
     },
     {
-      "name": "Стратегия и головоломка",
+      "name": "Стратегия и головоломки",
       "path": "/c/strategy-puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815763054-q49yn2.png",
       "position": 5,
-      "description": "Пассивные стратегии + головоломки! Управление ресурсами офлайн + пространственные головоломки дополненной реальности (AR)."
+      "description": "Пассивные стратегии + головоломки! Управление ресурсами в автономном режиме + пространственные головоломки с помощью дополненной реальности."
     },
     {
-      "name": "Симуляция и пассивные игры",
+      "name": "Симуляция и дремлющие",
       "path": "/c/simulation-idle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816169112-k5x75h.png",
       "position": 6,
-      "description": "Пассивный доход! Автоматический прогресс + синхронизация в облаке через QR-код – прибыль на 200% в автономном режиме."
+      "description": "Пассивные доходы! Автоматический прогресс + синхронизация в облаке через QR-код – доходность в автономном режиме на 200%."
     },
     {
       "name": "RPG и приключения",
@@ -169,7 +169,7 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Сюжетно-ориентированные RPG и приключения в открытом мире! Сохранение через платформы, кооперативные головоломки. 2 уникальных мира – средневековая фантастика и пост-апокалипсис – с более чем 50 скрытыми историями.",
+      "description": "RPG с сюжетом и приключения в открытом мире! Сохранение данных на разных платформах, совместные головоломки. 2 уникальных мира – средневековая фантастика и пост-апокалипсис – с 50+ скрытыми историями.",
       "position": 7
     },
     {
@@ -180,27 +180,17 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816383288-nxe2wm.png",
       "position": 8,
-      "description": "Выживание в стиле IO + спорт! Разделение мячей или тренировка команд – таблицы лидеров через платформы, без входа в систему."
+      "description": "Выживание в стиле .IO + спорт! Разделяйте мячи или тренируйте команды – доски лидеров на разных платформах, без входа."
     },
     {
-      "name": "Игра с управлением автомобилем",
+      "name": "Игра с вождением",
       "path": "/c/driving-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816438112-a6e0gj.png",
       "position": 9,
-      "description": "Поглощайте, развивайтесь и доминируйте в вселенной .IO!"
-    },
-    {
-      "name": "Игра в стиле ужасов",
-      "path": "/c/horror-game",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816432234-45f2b9.png",
-      "position": 10,
-      "description": "Ужасающие ощущения! WebGL тени + головоломки AR – умные страхи с настроениями от Лавкрафта."
+      "description": "Поглощайте, растите и доминируйте во вселенной .IO! "
     },
     {
       "name": "Песочница Lite",
@@ -208,9 +198,9 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816176521-n6vds.png",
-      "position": 11,
-      "description": "Стройте свободно! Автоматическое сохранение + редактирование в VR – модульные фермы/базы в стиле пост-апокалипсиса с физикой."
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839114872-shg2ym.png",
+      "position": 10,
+      "description": "Стройте свободно! Автоматическое сохранение + редактирование в виртуальной реальности – модульные фермы/базы пост-апокалипсиса с физикой."
     },
     {
       "name": "Карты и классика",
@@ -218,9 +208,9 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816207554-afl8au.png",
-      "position": 12,
-      "description": "Региональные классики! Ремейки Маджонга/пай-гао – адаптивный к навыкам ИИ, ретро пиксельная пользовательский интерфейс."
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839109336-jlksij.png",
+      "position": 11,
+      "description": "Региональные классики! Переделки Маджонга/Паи Гоу – адаптивный ИИ, ретро-пиксельная графика."
     },
     {
       "name": "Ритм и голос",
@@ -228,9 +218,9 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816232192-m7iue2.png",
-      "position": 13,
-      "description": "Ритмы, управляемые голосом! Точность микрофона 50 мс, танцы VTuber – синхронизация 7.1."
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839102053-cncg4.png",
+      "position": 12,
+      "description": "Ритмы с голосовым управлением! Точность микрофона 50 мс, танцы VTuber – синхронизация объемного звука 7.1."
     }
   ]
 }

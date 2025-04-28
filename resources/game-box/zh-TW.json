@@ -110,7 +110,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "每周精選！獨立遊戲/經典新作 – 立即透過 WebGL 玩，由 50 萬用戶以上評分決定趨勢。"
+      "description": "每周精選！獨立/經典新作 – 立即透過 WebGL 玩，由 50 萬以上評分決定趨勢。"
     },
     {
       "name": "動作遊戲",
@@ -119,7 +119,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815583893-1ov2te.png",
-      "description": "連擊狂潮！像素完美控制，畫面震顫的攻擊 – 觸控/鍵盤最佳化。",
+      "description": "連擊狂潮！像素完美控制、畫面震動的攻擊 – 觸控/鍵盤最佳化。",
       "position": 2
     },
     {
@@ -130,7 +130,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815702803-jwfoq.png",
       "position": 3,
-      "description": "子彈地獄 + 遮蔽戰術！100 人實時的戰鬥，同步的科幻子彈。"
+      "description": "子彈地獄 + 遮蔽戰術！與同步科幻子彈的 100 人即時戰鬥。"
     },
     {
       "name": "多人遊戲",
@@ -140,7 +140,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815711657-79vvcq.png",
       "position": 4,
-      "description": "跨遊戲小隊！語音聊天、共享進度 – 從圍攻轉換為合作解謎。"
+      "description": "跨遊戲隊伍！語音聊天、共同進展 – 從圍攻到合作解謎。"
     },
     {
       "name": "策略與益智",
@@ -150,7 +150,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815763054-q49yn2.png",
       "position": 5,
-      "description": "閒置策略 + 腦力激盪！離線資源管理 + AR 空間解謎。"
+      "description": "閒置策略 + 腦力測驗！離線資源管理 + AR 空間益智遊戲。"
     },
     {
       "name": "模擬與閒置",
@@ -160,7 +160,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816169112-k5x75h.png",
       "position": 6,
-      "description": "閒置獲利！自動進度 + 雲端同步 via QR – 200% 離線收益。"
+      "description": "閒置獲利！自動進度 + 雲端同步透過 QR – 200% 離線獲利。"
     },
     {
       "name": "角色扮演與冒險",
@@ -169,7 +169,7 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "劇情驅動的 RPG 和開放世界冒險！跨平台儲存、合作解謎。2 個獨特的遊戲世界 – 中世紀奇幻和末日後 – 擁有超過 50 個隱藏故事。",
+      "description": "以故事為導向的 RPG 和開放世界冒險！跨平台儲存、合作解謎。2 個獨特的遊戲世界 – 中世紀奇幻和末日廢土 – 擁有 50 多個隱藏故事。",
       "position": 7
     },
     {
@@ -180,7 +180,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816383288-nxe2wm.png",
       "position": 8,
-      "description": ".IO 生存 + 運動！拆分球或指導球隊 – 跨平台排行榜，无需登入。"
+      "description": ".IO 生存 + 運動！分割球或指導隊伍 – 跨平台排行榜，無需登入。"
     },
     {
       "name": "駕駛遊戲",
@@ -190,37 +190,27 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816438112-a6e0gj.png",
       "position": 9,
-      "description": "吞噬、成長並統治 .IO 宇宙！"
+      "description": "吞噬、成長並主宰 .IO 宇宙！"
     },
     {
-      "name": "恐怖遊戲",
-      "path": "/c/horror-game",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816432234-45f2b9.png",
-      "position": 10,
-      "description": "脈搏加速的恐怖！WebGL 陰影 + AR 解謎 – 充滿愛麗絲風格的聰明驚嚇。"
-    },
-    {
-      "name": "沙盒遊戲 (精簡版)",
+      "name": "沙盒輕量版",
       "path": "/c/sandbox-lite",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816176521-n6vds.png",
-      "position": 11,
-      "description": "自由搭建！自動儲存 + VR 編輯 – 模組化農場/末日基地具有物理特性。"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839114872-shg2ym.png",
+      "position": 10,
+      "description": "自由建造！自動儲存 + VR 編輯 – 模組化農場/末日廢土基地和物理。"
     },
     {
-      "name": "卡牌與經典",
+      "name": "紙牌與經典",
       "path": "/c/card-classic",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816207554-afl8au.png",
-      "position": 12,
-      "description": "區域經典！麻將/百家樂重製版本 – 技能適應的 AI、復古像素 UI。"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839109336-jlksij.png",
+      "position": 11,
+      "description": "地區經典！麻將/跑得快翻新 – 技能適應 AI，復古像素介面。"
     },
     {
       "name": "節奏與語音",
@@ -228,9 +218,9 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816232192-m7iue2.png",
-      "position": 13,
-      "description": "語音控制節拍！50ms 微訊精確度、VTuber 舞蹈 – 7.1 環繞同步。"
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839102053-cncg4.png",
+      "position": 12,
+      "description": "語音控制節拍！50 毫秒麥克風精確度，VTuber 舞動 – 7.1 環繞同步。"
     }
   ]
 }

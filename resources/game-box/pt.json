@@ -110,7 +110,7 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "Sugestões semanais! Clássicos independentes/novos – jogo instantâneo via WebGL, tendência por mais de 500 mil avaliações."
+      "description": "Seleções semanais! Clássicos Indie/novos – acesso instantâneo via WebGL, tendência por 500.000+ avaliações."
     },
     {
       "name": "Jogo de Ação",
@@ -119,7 +119,7 @@
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815583893-1ov2te.png",
-      "description": "Mania de combos! Controles perfeitos em pixel, golpes que fazem a tela tremer – otimizado para toque/teclado.",
+      "description": "Maníaca de combinações! Controles perfeitos para pixels, impactos que tremem a tela – otimizados para toque/teclado.",
       "position": 2
     },
     {
@@ -140,27 +140,27 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815711657-79vvcq.png",
       "position": 4,
-      "description": "Esquadrões de vários jogos! Chat de voz, progresso compartilhado – alterne entre cercos e quebra-cabeças cooperativos."
+      "description": "Esquadrões multijogo! Chat de voz, progresso compartilhado – mude de cercos para quebra-cabeças cooperativos."
     },
     {
-      "name": "Estratégia e Quebra-Cabeça",
+      "name": "Estratégia e Quebra-cabeça",
       "path": "/c/strategy-puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815763054-q49yn2.png",
       "position": 5,
-      "description": "Estratégia idle + quebra-cabeças! Gerenciamento offline de recursos + quebra-cabeças espaciais de RA."
+      "description": "Estratégia de inatividade + quebra-cabeças! Gerenciamento de recursos offline + quebra-cabeças espaciais de RA."
     },
     {
-      "name": "Simulação e Idle",
+      "name": "Simulação e Inativo",
       "path": "/c/simulation-idle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816169112-k5x75h.png",
       "position": 6,
-      "description": "Lucros ociosos! Progresso automático + sincronização na nuvem via QR – Ganhos offline de 200%."
+      "description": "Lucros de inatividade! Progresso automático + sincronização em nuvem via QR – ganhos offline em 200%."
     },
     {
       "name": "RPG e Aventura",
@@ -169,7 +169,7 @@
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "RPGs com história e aventuras no mundo aberto! Salvos multiplataforma, quebra-cabeças cooperativos. 2 mundos únicos – fantasia medieval e pós-apocalíptica – com mais de 50 histórias ocultas.",
+      "description": "RPGs com enredos e aventuras de mundo aberto! Salvos multiplataforma, quebra-cabeças cooperativos. 2 mundos exclusivos – fantasia medieval e pós-apocalíptico – com mais de 50 histórias ocultas.",
       "position": 7
     },
     {
@@ -180,10 +180,10 @@
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816383288-nxe2wm.png",
       "position": 8,
-      "description": "Sobrevivência .IO + esportes! Divida bolas ou treine equipes – tabelas de classificação multiplataforma, sem login."
+      "description": "Sobrevivência IO + esportes! Divida bolas ou treine equipes – tabelas de classificação multiplataforma, sem login."
     },
     {
-      "name": "Jogo de Dirigir",
+      "name": "Jogo de Condução",
       "path": "/c/driving-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
@@ -193,34 +193,24 @@
       "description": "Coma, cresça e domine o universo .IO!"
     },
     {
-      "name": "Jogo de Terror",
-      "path": "/c/horror-game",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816432234-45f2b9.png",
-      "position": 10,
-      "description": "Terror de tirar o fôlego! Sombras WebGL + quebra-cabeças de RA – sustos inteligentes com vibrações Lovecraftianas."
-    },
-    {
       "name": "Areia Lite",
       "path": "/c/sandbox-lite",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816176521-n6vds.png",
-      "position": 11,
-      "description": "Construa livremente! Salvar automático + edição de RV – fazendas modulares/bases pós-apocalípticas com física."
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839114872-shg2ym.png",
+      "position": 10,
+      "description": "Construa livremente! Salvo automático + edição de RV – fazendas modulares/bases pós-apocalípticas com física."
     },
     {
-      "name": "Cartas e Clássicos",
+      "name": "Cartão e Clássico",
       "path": "/c/card-classic",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816207554-afl8au.png",
-      "position": 12,
-      "description": "Clássicos regionais! Remakes de Mahjong/pai Gow – IA adaptável de habilidades, interface retro em pixel."
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839109336-jlksij.png",
+      "position": 11,
+      "description": "Clássicos regionais! Remakes de Mahjong/pai Gow – IA adaptável à habilidade, interface retro pixel."
     },
     {
       "name": "Ritmo e Voz",
@@ -228,9 +218,9 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816232192-m7iue2.png",
-      "position": 13,
-      "description": "Ritmos controlados por voz! Precisão de microfone de 50ms, danças VTuber – sincronização surround 7.1."
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839102053-cncg4.png",
+      "position": 12,
+      "description": "Batidas controladas por voz! Precisão de microfone de 50 ms, danças de VTuber – sincronização surround 7.1."
     }
   ]
 }
