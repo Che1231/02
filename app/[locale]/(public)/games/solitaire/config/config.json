@@ -104,7 +104,7 @@
   "isShowRecommendation": true,
   "isShowRightGames": true,
   "customizeFeatures": true,
-  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-27/images/1745765837198-3npip.png",
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-29/images/1745930979621-ulx4xo.webp",
   "page_path": "/games/solitaire",
   "override_page_path": true,
   "auto_deploy": true,
@@ -116,5 +116,6 @@
   "categories": [
     "Card & Classic"
   ],
-  "createdTime": "2025-04-27 22:58:08"
+  "createdTime": "2025-04-27 22:58:08",
+  "userInputText": "Solitaire通常指单人纸牌游戏，常见的类型有Klondike Solitaire（克朗代克纸牌）、Spider Solitaire（蜘蛛纸牌）、FreeCell Solitaire（空当接龙）等。以下为你介绍其规则和相关玩法：\n- **准备**：需要一副标准的52张扑克牌，去除大小王。游戏开始时，会有7列牌作为“牌桌”（tableau），从左到右各列牌数依次为1到7张，最后一张牌面朝上，其余牌面朝下。剩余的牌作为“牌堆”（stockpile），牌面朝下放置。另外，还有“弃牌堆”（waste pile），用于放置从牌堆中翻开但暂时不用的牌，以及“基牌堆”（foundation piles），初始为空。\n- **游戏目标**：将所有牌按照花色，以A（ace）开头，按从小到大的顺序依次放入基牌堆，直到每个花色都从A到K（king）排列完成。\n- **游戏规则**\n    - **移动牌**：只能移动面朝上的牌。牌桌上的牌，若符合交替颜色且数值比目标牌小1的规则，可从一列移到另一列，如梅花6可放在方块7或红桃7上。也可移动一组按降序、交替颜色排列的连续牌。\n    - **翻开牌**：牌桌上的面朝下牌，在其上面的面朝上牌被移走后，可被翻开使用。\n    - **构建基牌堆**：基牌堆以A开始，然后按同花色从小到大顺序添加牌，如黑桃A后可放黑桃2。\n    - **放置K**：只有K或包含K的一组连续牌可以放在空的牌桌列上。\n    - **翻牌**：若牌桌上的牌无法移动，可从牌堆中翻牌到弃牌堆，每次翻1张（Klondike turn one规则）或3张（Klondike turn three规则），弃牌堆最上面的面朝上牌可用于移动或构建基牌堆。\n    - **重新发牌**：当牌堆的牌都进入弃牌堆后，可将弃牌堆的牌面朝下重新作为牌堆使用。\n\n此外，“Solitaire”还是欧美流行歌曲的名字，由Neil Sedaka演唱，发行于1972年。同时，它也可以作为人名，音译为苏立泰尔。"
 }
