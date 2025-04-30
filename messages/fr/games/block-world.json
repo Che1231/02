@@ -1,0 +1,77 @@
+{
+  "block-world": {
+    "title": "Jouer à Block World en ligne gratuitement - Divertissement de jeu de construction",
+    "slogan": "",
+    "description": "Plongez dans Block World, un jeu de construction captivant inspiré de Minecraft. Explorez des possibilités infinies et construisez votre monde de rêve. Jouez à Block World maintenant et libérez votre créativité ! Profitez du jeu Block World gratuitement aujourd'hui.",
+    "Loading": {
+      "title": "Chargement de Block World"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Block World",
+      "description": "Explorez les possibilités infinies de Block World, un jeu de construction dans le style de Minecraft.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer au jeu"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Block World",
+      "whatIsTitle": "Qu'est-ce que Block World ?",
+      "whatIsDescription": "Block World est un jeu de construction semblable à Minecraft. Ce jeu est gratuit, vous êtes totalement libre d'imaginer sans aucune contrainte.",
+      "howToPlayTitle": "Comment jouer à Block World",
+      "howToPlayStep1": "WASD ou flèches pour se déplacer",
+      "howToPlayStep2": "Cliquez gauche pour supprimer un bloc, cliquez droit pour placer un bloc",
+      "howToPlayStep3": "Espace pour sauter, 1 à 9 pour choisir un bloc",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Construction facile",
+      "feature1Description": "Mécanisme de construction et de contrôle extrêmement simple dans Block World.",
+      "feature2Title": "Modes de jeu",
+      "feature2Description": "Vous pouvez choisir parmi 2 modes de jeu : vie ou liberté dans Block World.",
+      "feature3Title": "Jour et nuit réalistes",
+      "feature3Description": "Le jeu se déroule comme dans la vraie vie, jour et nuit. Très authentique !",
+      "feature4Title": "Torche et lampe de poche",
+      "feature4Description": "La nuit sera accompagnée d'une lampe de poche pour vous aider. Utilisez la torche avec T. Utilisez la lampe de poche avec F."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu Block World"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

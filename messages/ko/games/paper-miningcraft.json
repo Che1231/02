@@ -1,0 +1,77 @@
+{
+  "paper-miningcraft": {
+    "title": "페이퍼 마이닝크래프트: 무료 온라인 플레이 - 빌딩 및 탐험!",
+    "slogan": "",
+    "description": "클래식 샌드박스 게임의 2D 재해석인 페이퍼 마이닝크래프트에 뛰어들어보세요. 자원을 모으고 도구를 제작하고, 자신의 세계를 건설하세요! 지금 바로 무료로 페이퍼 마이닝크래프트 온라인에서 모험을 시작하세요!",
+    "Loading": {
+      "title": "페이퍼 마이닝크래프트 로딩 중"
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "내용",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "페이퍼 마이닝크래프트",
+      "description": "페이퍼 마이닝크래프트는 인기 샌드박스 게임의 2D 버전입니다. 이제 브라우저에서 플레이하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "페이퍼 마이닝크래프트",
+      "whatIsTitle": "페이퍼 마이닝크래프트는 무엇인가요?",
+      "whatIsDescription": "페이퍼 마이닝크래프트는 Mojang Studios에서 만든 인기 샌드박스 게임 마인크래프트의 온라인 2D 버전입니다. 게임 모드, 스킨을 선택하고 마인크래프트처럼 픽셀화된 블록 세계를 탐험하세요.",
+      "howToPlayTitle": "페이퍼 마이닝크래프트 플레이 방법",
+      "howToPlayStep1": "이동, 점프 또는 수영하기 위해 WASD 또는 화살표 키를 사용합니다.",
+      "howToPlayStep2": "블록을 파거나 배치하려면 왼쪽 클릭을 합니다.",
+      "howToPlayStep3": "E를 눌러 인벤토리 또는 상자를 엽니다.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "2D 그래픽",
+      "feature1Description": "독특한 2D 관점에서 익숙한 마인크래프트 세계를 경험하세요.",
+      "feature2Title": "다양한 게임 모드",
+      "feature2Description": "서바이벌, 평화, 그리고 크리에이티브 모드 중에서 플레이 스타일에 맞는 모드를 선택하세요.",
+      "feature3Title": "커스텀 맵",
+      "feature3Description": "다른 플레이어가 디자인한 수많은 커스텀 맵을 탐험하세요.",
+      "feature4Title": "다양한 도구 및 자원",
+      "feature4Description": "건설 및 생존에 필요한 다양한 도구, 옵션 및 자원을 활용하세요."
+    },
+    "HomeFAQs": {
+      "title": "페이퍼 마이닝크래프트에 대한 자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "페이퍼 마이닝크래프트 게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "페이퍼 마이닝크래프트와 비슷한 게임 더 보기"
+    },
+    "HomeComments": {
+      "title": "페이퍼 마이닝크래프트 플레이 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "게임 컬렉션을 둘러보세요.",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

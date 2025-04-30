@@ -1,0 +1,77 @@
+{
+  "bloxd-io": {
+    "title": "Bloxd.io：無料オンラインMinecraft風IOゲームモードをプレイ",
+    "slogan": "Bloxd.ioを無料でプレイ！",
+    "description": "さまざまなエキサイティングなモードを備えたMinecraftにインスパイアされたIOゲーム、Bloxd.ioに没頭してください！パークールチャレンジ、サンドボックスクリエイティビティ、戦闘シナリオを探検。今すぐBloxd.ioをプレイして、友達と無限の楽しさを体験してください。今日からBloxd.ioのボクセル化した宇宙に参加しましょう！",
+    "Loading": {
+      "title": "Bloxd.ioの読み込み中"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "Bloxd.ioをプレイ",
+      "description": "Bloxd.ioは、Minecraftのグラフィックとさまざまなゲームモードを備えたIOアドベンチャーゲームです。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Bloxd.io",
+      "whatIsTitle": "Bloxd.ioとは？",
+      "whatIsDescription": "Bloxd.ioは、さまざまなゲームモードを持つマルチプレイヤーオンラインゲームです。Bloxd.ioでは、選択するモードに応じて、パークール、サンドボックスクリエイティビティ、戦闘が特徴です。Bloxd.ioは、定期的に楽しい新機能とモードで更新されます。",
+      "howToPlayTitle": "Bloxd.ioの遊び方",
+      "howToPlayStep1": "ジャンプと動きを正確にタイミングを合わせて、挑戦的な障害物を乗り越えてください。",
+      "howToPlayStep2": "サバイバルモードで資源を集め、ツールを作り、敵から身を守って生き残ってください。",
+      "howToPlayStep3": "さまざまな挑戦が用意された、いくつかのゲームモードから選択してBloxd.ioの冒険を始めましょう。",
+      "keyFeaturesTitle": "Bloxd.ioの主な特徴",
+      "feature1Title": "楽しいボクセルワールド",
+      "feature1Description": "Bloxd.ioをウェブブラウザで無料でプレイして、楽しいボクセルワールドを探検してください。",
+      "feature2Title": "多様なゲームモード",
+      "feature2Description": "Bloxd.ioで、さまざまな目標を持つさまざまなゲームモードをプレイしてください。",
+      "feature3Title": "ゴールドを獲得",
+      "feature3Description": "Bloxd.io内の実績からゴールドを獲得し、ストアでそれを利用してください。",
+      "feature4Title": "マルチプレイヤーゲーム",
+      "feature4Description": "Bloxd.ioで友達とマルチプレイヤーゲームに参加してください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

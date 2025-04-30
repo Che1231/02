@@ -1,0 +1,77 @@
+{
+  "spider-solitaire": {
+    "title": "無料のスパイダーソリティアをオンラインでプレイ：クラシックなカードゲーム",
+    "slogan": "スパイダーソリティアであなたの戦略スキルをテスト！",
+    "description": "挑戦的なカードゲームの準備はできましたか？スパイダーソリティアは、あらゆるスキルレベルに最適な、クラシックな戦略的ソリティアです。中毒性のあるゲームプレイを数時間楽しんで、あなたのソリティアスキルをテストしましょう。今すぐスパイダーソリティアをオンラインでプレイし、究極のカードゲームの挑戦を体験してください！スパイダーソリティア。",
+    "Loading": {
+      "title": "スパイダーソリティア読み込み中"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "スパイダーソリティア",
+      "description": "スパイダーソリティアをフルスクリーンで体験してください。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "フルスクリーン",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "なぜスパイダーソリティアをプレイするのですか？",
+      "whatIsTitle": "スパイダーソリティアとは何ですか？",
+      "whatIsDescription": "スパイダーソリティアは戦略的なゲームプレイで知られる人気のあるソリティアカードゲームです。カードを降順に、同じスーツを合わせて並べてボードをクリアします。無限のカード配置で、スキルと忍耐力の真のテストであり、プレーヤーの頭脳を鍛え上げてくれます。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "カードを降順に並べます。",
+      "howToPlayStep2": "同じスーツの完全なシーケンスを形成します。",
+      "howToPlayStep3": "すべてのカードをクリアしてゲームに勝利します。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "複数の難易度レベル",
+      "feature1Description": "スパイダーソリティアでさまざまな挑戦のために、1、2、または4のスーツから選択できます。",
+      "feature2Title": "直感的なインターフェース",
+      "feature2Description": "ユーザーフレンドリーなデザインで、スムーズで簡単なゲームプレイを楽しめます。",
+      "feature3Title": "やり直し機能",
+      "feature3Description": "スパイダーソリティアでのやり直し機能で間違いを修正し、戦略を洗練しましょう。",
+      "feature4Title": "詳細な統計",
+      "feature4Description": "包括的な統計であなたの進捗状況を追跡し、スパイダーソリティアであなたのスキルを向上させましょう。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "オススメ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "私たちのゲームコレクションを探索してください。",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

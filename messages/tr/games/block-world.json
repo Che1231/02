@@ -1,0 +1,77 @@
+{
+  "block-world": {
+    "title": "Ücretsiz Oynamak İçin Blok Dünyası - Yapım Oyunu Eğlence",
+    "slogan": "",
+    "description": "Minecraft'ten esinlenen büyüleyici bir yapı oyununa, Blok Dünyasına dalın. Sonsuz olasılıkları keşfedin ve hayalinizdeki dünyayı inşa edin. Blok Dünyası'nı şimdi oynayın ve yaratıcılığınızı serbest bırakın! Bugünden itibaren Blok Dünyası oyununun tadını çıkarın.",
+    "Loading": {
+      "title": "Blok Dünyası Yükleniyor"
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Blok Dünyası",
+      "description": "Minecraft tarzında bir yapı oyununda Blok Dünyasının sınırsız olanaklarını keşfedin.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Blok Dünyası",
+      "whatIsTitle": "Blok Dünyası Nedir?",
+      "whatIsDescription": "Blok Dünyası, Minecraft tarzında bir yapı oyunudur. Bu ücretsiz bir oyundur, hiçbir kısıtlama olmadan tamamen hayal kurma özgürlüğüne sahipsiniz.",
+      "howToPlayTitle": "Blok Dünyası Nasıl Oynanır",
+      "howToPlayStep1": "Hareket etmek için WASD veya ok tuşlarını kullanın",
+      "howToPlayStep2": "Bloğu kaldırmak için sol tıklayın, bloğu yerleştirmek için sağ tıklayın",
+      "howToPlayStep3": "Zıplamak için boşluk çubuğunu kullanın, bir blok seçmek için 1'den 9'a kadar sayıları kullanın",
+      "keyFeaturesTitle": "Ana Özellikler",
+      "feature1Title": "Kolay Yapım",
+      "feature1Description": "Blok Dünyası'nda son derece kolay yapı ve kontrol mekanizması.",
+      "feature2Title": "Oyun Modları",
+      "feature2Description": "Blok Dünyası'nda iki oyun modundan birini seçebilirsiniz: yaşam veya özgürlük.",
+      "feature3Title": "Gerçekçi Gün ve Gece",
+      "feature3Description": "Gerçek yaşam gibi gerçekçi, gün ve gece. Çok otantik!",
+      "feature4Title": "Meşale ve Fener",
+      "feature4Description": "Gece size yardımcı olmak için bir el fenerine sahip olacaktır. Meşaleyi T ile, el fenerini F ile kullanın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Blok Dünyası Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

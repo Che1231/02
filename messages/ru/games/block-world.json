@@ -1,0 +1,77 @@
+{
+  "block-world": {
+    "title": "Бесплатная игра Block World онлайн – Развлекательная игра по строительству",
+    "slogan": "",
+    "description": "Погрузитесь в Block World, увлекательную игру по строительству, вдохновлённую Minecraft. Исследуйте бесконечные возможности и создайте свой мир мечты. Играйте в Block World прямо сейчас и раскройте свой творческий потенциал! Наслаждайтесь бесплатной игрой Block World уже сегодня.",
+    "Loading": {
+      "title": "Загрузка Block World"
+    },
+    "Navbar": {
+      "title": "Навигация"
+    },
+    "Common": {
+      "createAt": "Создано",
+      "guide": "Руководство",
+      "privacyPolicy": "Политика конфиденциальности",
+      "termsOfServices": "Условия использования",
+      "text": "Контент",
+      "help": "Помощь",
+      "friendlyLinks": "Полезные ссылки",
+      "articleList": "Список статей",
+      "home": "Главная",
+      "next": "Далее",
+      "previous": "Предыдущая"
+    },
+    "HomeIframe": {
+      "title": "Block World",
+      "description": "Исследуйте безграничные возможности Block World, игры по строительству в стиле Minecraft.",
+      "iframeTitle": "Предварительный просмотр игры",
+      "fullscreenButton": "Полноэкранный режим",
+      "shareButton": "Поделиться",
+      "urlCopied": "URL скопирован в буфер обмена!",
+      "downloadGame": "Скачать игру",
+      "playGame": "Играть"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Block World",
+      "whatIsTitle": "Что такое Block World?",
+      "whatIsDescription": "Block World — это игра по строительству, похожая на Minecraft. Это бесплатная игра, вы можете полностью свободно фантазировать без ограничений.",
+      "howToPlayTitle": "Как играть в Block World",
+      "howToPlayStep1": "Перемещение с помощью клавиш WASD или стрелок",
+      "howToPlayStep2": "Щелчок левой кнопкой мыши для удаления блока, щелчок правой кнопкой мыши для размещения блока",
+      "howToPlayStep3": "Пробел для прыжка, цифры от 1 до 9 для выбора блока",
+      "keyFeaturesTitle": "Основные особенности",
+      "feature1Title": "Простое строительство",
+      "feature1Description": "Исключительно простой механизм строительства и управления в Block World.",
+      "feature2Title": "Режим игры",
+      "feature2Description": "Вы можете выбрать один из двух режимов игры: жизнь или свобода в Block World.",
+      "feature3Title": "Реалистичное дневное и ночное время",
+      "feature3Description": "Игра воспроизводит дневное и ночное время как в реальной жизни. Очень аутентично!",
+      "feature4Title": "Фонарь и фонарик",
+      "feature4Description": "В ночном режиме вам поможет фонарик. Используйте фонарь с помощью клавиши «Т». Включите фонарик с помощью клавиши «Ф»."
+    },
+    "HomeFAQs": {
+      "title": "ЧАВО"
+    },
+    "HomeRelatedVideo": {
+      "title": "Видео по игре Block World"
+    },
+    "HomeRecommendation": {
+      "title": "Рекомендации"
+    },
+    "HomeComments": {
+      "title": "Комментарии к игре"
+    },
+    "GamePage": {
+      "title": "Все игры",
+      "description": "Все игры",
+      "games": "Игры"
+    },
+    "CategoryPage": {
+      "categories": "Категории",
+      "noCategories": "Категории не найдены",
+      "viewMore": "Смотреть больше",
+      "page": "Страница"
+    }
+  }
+}

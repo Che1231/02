@@ -1,0 +1,77 @@
+{
+  "paper-miningcraft": {
+    "title": "Paper Miningcraft：無料オンラインプレイ - 建てよう！探検！",
+    "slogan": "",
+    "description": "クラシックなサンドボックスゲームの2Dリメイク、Paper Miningcraftを体験してください。資源を集め、ツールを製作し、あなたの世界を築き上げましょう！Paper Miningcraftを無料でオンラインで楽しみ、今日、あなたの冒険を始めましょう！",
+    "Loading": {
+      "title": "Paper Miningcraftを読み込み中"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "Paper Miningcraft",
+      "description": "Paper Miningcraftは、人気のサンドボックスゲームの2D版です。今すぐあなたのブラウザでプレイしましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Paper Miningcraft",
+      "whatIsTitle": "Paper Miningcraftとは？",
+      "whatIsDescription": "Paper Miningcraftは、Mojang Studiosが制作した、人気のサンドボックスゲームMinecraftのオンライン2D版です。ゲームモード、スキンを選択し、Minecraftと同じようにブロック状のピクセルワールドを探検しましょう。",
+      "howToPlayTitle": "Paper Miningcraftの遊び方",
+      "howToPlayStep1": "移動、ジャンプ、または水泳にWASDキーまたは矢印キーを使用",
+      "howToPlayStep2": "左クリックでブロックを掘り下げたり配置したりする",
+      "howToPlayStep3": "Eキーでインベントリまたはチェストを開ける",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "2Dグラフィックス",
+      "feature1Description": "Minecraftの馴染み深い世界を、独特の2D視点で体験してください。",
+      "feature2Title": "複数のゲームモード",
+      "feature2Description": "サバイバル、平和、クリエイティブモードから、自分のプレイスタイルに合ったモードを選択してください。",
+      "feature3Title": "カスタムマップ",
+      "feature3Description": "他のプレイヤーが作成した多数のカスタムマップを探検してください。",
+      "feature4Title": "様々なツールと資源",
+      "feature4Description": "建築や生存のために、さまざまなツール、オプション、および資源を活用してください。"
+    },
+    "HomeFAQs": {
+      "title": "Paper Miningcraftに関するよくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "Paper Miningcraftゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "Paper Miningcraftに似たゲーム"
+    },
+    "HomeComments": {
+      "title": "Paper Miningcraftプレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "ゲームコレクションをご覧ください。",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "詳細を見る",
+      "page": "ページ"
+    }
+  }
+}

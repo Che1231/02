@@ -32,7 +32,7 @@
     },
     {
       "visible": true,
-      "url": "/games/screw-puzzle-diy",
+      "url": "/games/rooftop-run",
       "position": 7
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "visible": true,
-      "url": "/games/ice-cream-stack-runner",
+      "url": "/games/helix-jump",
       "position": 10
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "visible": true,
-      "url": "/games/sprunki-shooter-2025",
+      "url": "/games/merge-construct",
       "position": 13
     },
     {
@@ -103,114 +103,124 @@
   ],
   "categories": [
     {
-      "name": "Best",
-      "path": "/c/best",
+      "name": "Neu & Trend",
+      "path": "/c/neu-trend",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "Handverlesene Top-Spiele, die garantiert unterhalten!"
+      "description": "Wöchentliche Auswahl! Indie/neue Klassiker – sofortiges Spielen über WebGL, trendig nach 500.000+ Bewertungen."
     },
     {
-      "name": "Hot",
-      "path": "/c/hot",
-      "pageSize": 15,
-      "backgroundColor": "#ffdde1",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
-      "description": "Die meistgespielten Spiele dieses Monats – verpassen Sie es nicht!",
-      "position": 2
-    },
-    {
-      "name": "Action",
-      "path": "/c/action",
+      "name": "Actionspiel",
+      "path": "/c/action-game",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Schneidet Herausforderungen mit Schwertkämpfen!",
-      "position": 3
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815583893-1ov2te.png",
+      "description": "Kombo-Manie! Pixelgenaue Steuerung, bildschirmerschütternde Schläge – Touch/Tastatur optimiert.",
+      "position": 2
     },
     {
-      "name": "Adventure",
-      "path": "/c/adventure",
+      "name": "Shooter-Spiel",
+      "path": "/c/shooter-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815702803-jwfoq.png",
+      "position": 3,
+      "description": "Bullet-Hölle + Deckungstaktik! Echtzeitkämpfe mit 100 Spielern mit synchronisierten Sci-Fi-Kugeln."
+    },
+    {
+      "name": "Mehrspieler-Spiel",
+      "path": "/c/multiplayer-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815711657-79vvcq.png",
       "position": 4,
-      "description": "Begeben Sie sich auf spannende Quests und entdecken Sie versteckte Schätze!"
+      "description": "Squads für alle Spiele! Sprachchat, gemeinsame Fortschritte – wechseln Sie von Belagerungen zu Koop-Puzzles."
     },
     {
-      "name": "Shooting",
-      "path": "/c/shooting",
+      "name": "Strategie & Puzzle",
+      "path": "/c/strategy-puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
-      "description": "Zielen, Schießen und die Schlachtfeld beherrschen!",
-      "position": 5
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815763054-q49yn2.png",
+      "position": 5,
+      "description": "Idle-Strategie + Denksport! Offline-Ressourcenverwaltung + AR-Raum-Puzzles."
     },
     {
-      "name": "Racing",
-      "path": "/c/racing",
+      "name": "Simulation & Idle",
+      "path": "/c/simulation-idle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
-      "description": "Brennen Sie Gummi und driften Sie zum Sieg!",
-      "position": 6
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816169112-k5x75h.png",
+      "position": 6,
+      "description": "Idle-Gewinne! Auto-Fortschritte + Cloud-Synchronisierung über QR-Code – 200% Offline-Gewinne."
     },
     {
-      "name": "Hypercasual",
-      "path": "/c/hypercasual",
+      "name": "RPG & Abenteuer",
+      "path": "/c/rpg-adventure",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Ein-Tap-Spaß, der zu Ihrem vollen Terminkalender passt!",
+      "description": "Story-basierte RPGs & Open-World-Abenteuer! Plattformabhängige Speicher, Koop-Puzzles. 2 einzigartige Welten – mittelalterliche Fantasie & Postapokalypse – mit über 50 versteckten Geschichten.",
       "position": 7
     },
     {
-      "name": "Multiplayer",
-      "path": "/c/multiplayer",
+      "name": "Sport & IO",
+      "path": "/c/sports-io",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791209881-tlvgkr.png",
-      "description": "Zusammenarbeiten oder weltweit mit Freunden antreten!",
-      "position": 8
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816383288-nxe2wm.png",
+      "position": 8,
+      "description": ".IO-Überleben im Sport! Kugeln teilen oder Teams trainieren – plattformabhängige Bestenlisten, keine Anmeldung."
     },
     {
-      "name": "Clicker",
-      "path": "/c/clicker",
+      "name": "Fahrspiel",
+      "path": "/c/driving-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791224103-9c24n9.png",
-      "description": "Tippen Sie, um Gold zu verdienen und Ihr Imperium zu automatisieren!",
-      "position": 9
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816438112-a6e0gj.png",
+      "position": 9,
+      "description": "Essen, wachsen und die .IO-Welt beherrschen! "
     },
     {
-      "name": "Sports",
-      "path": "/c/sports",
+      "name": "Sandbox Lite",
+      "path": "/c/sandbox-lite",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
-      "description": "Tore erzielen, Dunks schlagen und Rekorde sofort brechen!",
-      "position": 10
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839114872-shg2ym.png",
+      "position": 10,
+      "description": "Frei bauen! Autospeicher + VR-Editierung – modulare Bauernhöfe/Postapokalyptische Basen mit Physik."
     },
     {
-      "name": ".IO",
-      "path": "/c/io",
+      "name": "Karten & Klassiker",
+      "path": "/c/card-classic",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791236590-lmb1ph.png",
-      "description": "Essen, wachsen und die .IO-Universum dominieren!",
-      "position": 11
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839109336-jlksij.png",
+      "position": 11,
+      "description": "Regionale Klassiker! Mahjong/Pai Gow Neuauflagen – fähigkeitsanpassbare KI, Retro-Pixel-UI."
+    },
+    {
+      "name": "Rhythmus & Stimme",
+      "path": "/c/rhythm-voice",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839102053-cncg4.png",
+      "position": 12,
+      "description": "Stimmen-gesteuerte Beats! 50ms Mikrofonpräzision, VTuber-Tänze – 7.1 Surround-Synchronisation."
     }
   ]
 }

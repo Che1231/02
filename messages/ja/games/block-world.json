@@ -1,0 +1,77 @@
+{
+  "block-world": {
+    "title": "無料のブロックワールドオンラインゲーム - 建築ゲームの楽しみ",
+    "slogan": "",
+    "description": "マインクラフトにインスパイアされた魅力的な建築ゲーム、ブロックワールドに没頭しましょう。無限の可能性を探求し、夢のワールドを構築しましょう。今すぐブロックワールドをプレイして、創造性を解き放ちましょう！今日から無料でブロックワールドゲームをお楽しみください。",
+    "Loading": {
+      "title": "ブロックワールドの読み込み"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "ブロックワールド",
+      "description": "マインクラフト風の建築ゲーム、ブロックワールドの無限の可能性を探求しましょう。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ブロックワールド",
+      "whatIsTitle": "ブロックワールドとは？",
+      "whatIsDescription": "マインクラフト風の建築ゲーム、ブロックワールド。制限なしに自由に想像力を活かせる無料ゲームです。",
+      "howToPlayTitle": "ブロックワールドの遊び方",
+      "howToPlayStep1": "移動：WASDキーまたは矢印キー",
+      "howToPlayStep2": "ブロックの除去：左クリック、ブロックの配置：右クリック",
+      "howToPlayStep3": "ジャンプ：スペースキー、ブロック選択：1～9キー",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "簡単な建築",
+      "feature1Description": "ブロックワールドの建築と操作は非常に簡単です。",
+      "feature2Title": "ゲームモード",
+      "feature2Description": "ブロックワールドではライフモードとフリーダムモードの2つのゲームモードを選択できます。",
+      "feature3Title": "リアルな昼夜",
+      "feature3Description": "現実世界のように昼と夜が交代します。非常にリアルです！",
+      "feature4Title": "トーチと懐中電灯",
+      "feature4Description": "夜間は、懐中電灯を使用して視界を確保できます。トーチ：Tキー、懐中電灯：Fキー"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ブロックワールドゲームのビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめゲーム"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

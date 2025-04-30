@@ -32,7 +32,7 @@
     },
     {
       "visible": true,
-      "url": "/games/screw-puzzle-diy",
+      "url": "/games/rooftop-run",
       "position": 7
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "visible": true,
-      "url": "/games/ice-cream-stack-runner",
+      "url": "/games/helix-jump",
       "position": 10
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "visible": true,
-      "url": "/games/sprunki-shooter-2025",
+      "url": "/games/merge-construct",
       "position": 13
     },
     {
@@ -103,114 +103,124 @@
   ],
   "categories": [
     {
-      "name": "Лучшие",
-      "path": "/c/best",
+      "name": "Новые и популярные",
+      "path": "/c/new-trending",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "Ручной отбор лучших игр, гарантированно развлекущих!"
+      "description": "Еженедельные рекомендации! Независимые/классические новинки – мгновенное воспроизведение через WebGL, популярные благодаря рейтингам более 500 000."
     },
     {
-      "name": "Популярные",
-      "path": "/c/hot",
-      "pageSize": 15,
-      "backgroundColor": "#ffdde1",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
-      "description": "Самые играемые игры этого месяца — не пропустите!",
-      "position": 2
-    },
-    {
-      "name": "Экшен",
-      "path": "/c/action",
+      "name": "Игра в действия",
+      "path": "/c/action-game",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Прокладывайте путь сквозь вызовы с приключениями с размахиванием мечом!",
-      "position": 3
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815583893-1ov2te.png",
+      "description": "Комбо-магия! Точные пиксельные элементы управления, потрясающие удары – оптимизировано под сенсорный ввод и клавиатуру.",
+      "position": 2
     },
     {
-      "name": "Приключения",
-      "path": "/c/adventure",
+      "name": "Игра со стрельбой",
+      "path": "/c/shooter-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815702803-jwfoq.png",
+      "position": 3,
+      "description": "Ад + тактика укрытия! Реальные сражения в реальном времени с 100 участниками, синхронизированные научно-фантастические пули."
+    },
+    {
+      "name": "Многопользовательская игра",
+      "path": "/c/multiplayer-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815711657-79vvcq.png",
       "position": 4,
-      "description": "Отправляйтесь в захватывающие квесты и откройте для себя скрытые сокровища!"
+      "description": "Команды в разных играх! Голосовой чат, общий прогресс – переключайтесь между осадами и совместными головоломками."
     },
     {
-      "name": "Стрелялки",
-      "path": "/c/shooting",
+      "name": "Стратегия и головоломки",
+      "path": "/c/strategy-puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815763054-q49yn2.png",
       "position": 5,
-      "description": "Нацельтесь, стреляйте и доминируйте на поле боя за считанные секунды!"
+      "description": "Пассивные стратегии + головоломки! Управление ресурсами в автономном режиме + пространственные головоломки с помощью дополненной реальности."
     },
     {
-      "name": "Гонки",
-      "path": "/c/racing",
+      "name": "Симуляция и дремлющие",
+      "path": "/c/simulation-idle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816169112-k5x75h.png",
       "position": 6,
-      "description": "Сожгите резину и устройте дрифт к победе!"
+      "description": "Пассивные доходы! Автоматический прогресс + синхронизация в облаке через QR-код – доходность в автономном режиме на 200%."
     },
     {
-      "name": "Гиперкежуал",
-      "path": "/c/hypercasual",
+      "name": "RPG и приключения",
+      "path": "/c/rpg-adventure",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Развлечения одним касанием, идеально подходящие для вашего плотного графика!",
+      "description": "RPG с сюжетом и приключения в открытом мире! Сохранение данных на разных платформах, совместные головоломки. 2 уникальных мира – средневековая фантастика и пост-апокалипсис – с 50+ скрытыми историями.",
       "position": 7
     },
     {
-      "name": "Многопользовательские",
-      "path": "/c/multiplayer",
+      "name": "Спорт и IO",
+      "path": "/c/sports-io",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791209881-tlvgkr.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816383288-nxe2wm.png",
       "position": 8,
-      "description": "Совмещайтесь или соревнуйтесь с друзьями по всему миру!"
+      "description": "Выживание в стиле .IO + спорт! Разделяйте мячи или тренируйте команды – доски лидеров на разных платформах, без входа."
     },
     {
-      "name": "Кликеры",
-      "path": "/c/clicker",
+      "name": "Игра с вождением",
+      "path": "/c/driving-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791224103-9c24n9.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816438112-a6e0gj.png",
       "position": 9,
-      "description": "Нажимайте, чтобы заработать золото и автоматизировать свою империю!"
+      "description": "Поглощайте, растите и доминируйте во вселенной .IO! "
     },
     {
-      "name": "Спорт",
-      "path": "/c/sports",
+      "name": "Песочница Lite",
+      "path": "/c/sandbox-lite",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839114872-shg2ym.png",
       "position": 10,
-      "description": "Забивайте голы, выполняйте данки и устанавливайте рекорды мгновенно!"
+      "description": "Стройте свободно! Автоматическое сохранение + редактирование в виртуальной реальности – модульные фермы/базы пост-апокалипсиса с физикой."
     },
     {
-      "name": ".IO",
-      "path": "/c/io",
+      "name": "Карты и классика",
+      "path": "/c/card-classic",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791236590-lmb1ph.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839109336-jlksij.png",
       "position": 11,
-      "description": "Ешьте, растите и доминируйте в .IO вселенной!"
+      "description": "Региональные классики! Переделки Маджонга/Паи Гоу – адаптивный ИИ, ретро-пиксельная графика."
+    },
+    {
+      "name": "Ритм и голос",
+      "path": "/c/rhythm-voice",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839102053-cncg4.png",
+      "position": 12,
+      "description": "Ритмы с голосовым управлением! Точность микрофона 50 мс, танцы VTuber – синхронизация объемного звука 7.1."
     }
   ]
 }

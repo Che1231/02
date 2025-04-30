@@ -32,7 +32,7 @@
     },
     {
       "visible": true,
-      "url": "/games/screw-puzzle-diy",
+      "url": "/games/rooftop-run",
       "position": 7
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "visible": true,
-      "url": "/games/ice-cream-stack-runner",
+      "url": "/games/helix-jump",
       "position": 10
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "visible": true,
-      "url": "/games/sprunki-shooter-2025",
+      "url": "/games/merge-construct",
       "position": 13
     },
     {
@@ -103,114 +103,124 @@
   ],
   "categories": [
     {
-      "name": "ベスト",
-      "path": "/c/best",
+      "name": "新着＆トレンド",
+      "path": "/c/new-trending",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "厳選されたトップクラスのゲームでエンターテイメントを保証します！"
+      "description": "毎週厳選！インディー/新定番ゲーム！WebGLで即プレイ可能、50万以上の評価でトレンド。"
     },
     {
-      "name": "ホット",
-      "path": "/c/hot",
-      "pageSize": 15,
-      "backgroundColor": "#ffdde1",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
-      "description": "今月の最もプレイされているゲーム。お見逃しなく！",
-      "position": 2
-    },
-    {
-      "name": "アクション",
-      "path": "/c/action",
+      "name": "アクションゲーム",
+      "path": "/c/action-game",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "剣を振るう冒険で、課題を切り開きましょう！",
-      "position": 3
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815583893-1ov2te.png",
+      "description": "コンボ祭り！ピクセルパーフェクトな操作感、画面揺れと衝撃！タッチ/キーボード最適化済みです。",
+      "position": 2
     },
     {
-      "name": "アドベンチャー",
-      "path": "/c/adventure",
+      "name": "シューティングゲーム",
+      "path": "/c/shooter-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815702803-jwfoq.png",
+      "position": 3,
+      "description": "弾幕地獄＋カバー戦術！100人リアルタイム対戦、同期したSF弾幕。"
+    },
+    {
+      "name": "マルチプレイヤーゲーム",
+      "path": "/c/multiplayer-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815711657-79vvcq.png",
       "position": 4,
-      "description": "スリリングなクエストに乗り出し、隠された宝物を見つけましょう！"
+      "description": "クロスゲームな部隊！ボイスチャット、共有進捗！包囲から協力パズルまで。 "
     },
     {
-      "name": "シューティング",
-      "path": "/c/shooting",
+      "name": "ストラテジー＆パズル",
+      "path": "/c/strategy-puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815763054-q49yn2.png",
       "position": 5,
-      "description": "狙い、発射、そして瞬時に戦場で支配しましょう！"
+      "description": "放置ストラテジー＋脳みそパズル！オフライン資源管理＋AR空間パズル。"
     },
     {
-      "name": "レーシング",
-      "path": "/c/racing",
+      "name": "シミュレーション＆放置",
+      "path": "/c/simulation-idle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816169112-k5x75h.png",
       "position": 6,
-      "description": "ゴムを燃やし、勝利へとドリフトしましょう！"
+      "description": "放置で利益！自動進捗＋クラウド同期 via QR – オフラインで200%獲得。"
     },
     {
-      "name": "ハイパーカジュアル",
-      "path": "/c/hypercasual",
+      "name": "RPG＆アドベンチャー",
+      "path": "/c/rpg-adventure",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "忙しいスケジュールに合う、ワンタップで楽しめるゲーム！",
+      "description": "ストーリー重視のRPG＆オープンワールドアドベンチャー！クロスプラットフォーム保存、協力パズル。2つの独特な世界 - 中世ファンタジーとポスト・アポカリプス - 50以上の隠し物語。",
       "position": 7
     },
     {
-      "name": "マルチプレイヤー",
-      "path": "/c/multiplayer",
+      "name": "スポーツ＆IO",
+      "path": "/c/sports-io",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791209881-tlvgkr.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816383288-nxe2wm.png",
       "position": 8,
-      "description": "世界中の友達とチームを組んだり、競い合いましょう！"
+      "description": "IOサバイバル＋スポーツ！ボールを分裂させたりチームを指揮！クロスプラットフォームランキング、ログイン不要。"
     },
     {
-      "name": "クリック",
-      "path": "/c/clicker",
+      "name": "ドライブゲーム",
+      "path": "/c/driving-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791224103-9c24n9.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816438112-a6e0gj.png",
       "position": 9,
-      "description": "タップして金を得て、自分の帝国を自動化しましょう！"
+      "description": "食べ、成長し、IO宇宙を支配！ "
     },
     {
-      "name": "スポーツ",
-      "path": "/c/sports",
+      "name": "サンドボックスライト",
+      "path": "/c/sandbox-lite",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839114872-shg2ym.png",
       "position": 10,
-      "description": "瞬時にゴール、ダンク、記録を達成しましょう！"
+      "description": "自由に構築！自動保存＋VR編集 - モジュール式農場/ポスト・アポカリプス基地物理エンジン。"
     },
     {
-      "name": ".IO",
-      "path": "/c/io",
+      "name": "カード＆クラシック",
+      "path": "/c/card-classic",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791236590-lmb1ph.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839109336-jlksij.png",
       "position": 11,
-      "description": ".IO宇宙で食べて、成長し、支配しましょう！"
+      "description": "地域別クラシック！麻雀/牌九のリメイク - スキル適応型AI、レトロピクセルUI。"
+    },
+    {
+      "name": "リズム＆ボイス",
+      "path": "/c/rhythm-voice",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839102053-cncg4.png",
+      "position": 12,
+      "description": "ボイスコントロールビート！50msマイク精度、VTuberダンス - 7.1サラウンド同期。"
     }
   ]
 }

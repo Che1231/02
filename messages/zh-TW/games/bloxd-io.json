@@ -1,0 +1,77 @@
+{
+  "bloxd-io": {
+    "title": "Bloxd.io：線上免費遊玩類似 Minecraft 的 IO 遊戲模式",
+    "slogan": "免費遊玩 Bloxd.io！",
+    "description": "投入 Bloxd.io，一款以 Minecraft 為靈感的 IO 遊戲，擁有各種令人興奮的模式！探索跑酷挑戰、沙盒創意和戰鬥場景。現在就遊玩 Bloxd.io，與朋友們體驗無盡的樂趣。立即加入 Bloxd.io 的立方體宇宙！",
+    "Loading": {
+      "title": "正在載入 Bloxd.io"
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友好連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "遊玩 Bloxd.io",
+      "description": "Bloxd.io 是一款 IO 冒險遊戲，採用 Minecraft 圖形和各種遊戲模式。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "遊玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Bloxd.io",
+      "whatIsTitle": "Bloxd.io 是什麼？",
+      "whatIsDescription": "Bloxd.io 是一款多人線上遊戲，擁有各種遊戲模式。Bloxd.io 提供跑酷、沙盒創作和戰鬥，取決於您選擇的遊戲模式。Bloxd.io 定期更新，新增有趣的全新功能和模式。",
+      "howToPlayTitle": "如何遊玩 Bloxd.io",
+      "howToPlayStep1": "通過精確掌握跳躍和動作的時機，來通過具有挑戰性的障礙課程。",
+      "howToPlayStep2": "收集資源、製作工具並擊退敵人，以生存模式保持生存。",
+      "howToPlayStep3": "從多種遊戲模式中選擇，開始 Bloxd.io 旅程，每種模式都有各種挑戰。",
+      "keyFeaturesTitle": "Bloxd.io 的主要特色",
+      "feature1Title": "有趣的立方體世界",
+      "feature1Description": "在您的網頁瀏覽器中免費探索有趣的立方體世界，遊玩 Bloxd.io。",
+      "feature2Title": "各種遊戲模式",
+      "feature2Description": "在 Bloxd.io 中遊玩各種遊戲模式，擁有不同的目標。",
+      "feature3Title": "賺取金幣",
+      "feature3Description": "在 Bloxd.io 中從您的成就賺取金幣，並在商店中使用它們。",
+      "feature4Title": "多人遊戲",
+      "feature4Description": "在 Bloxd.io 上與您的朋友一起加入多人遊戲。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到分類",
+      "viewMore": "檢視更多",
+      "page": "頁面"
+    }
+  }
+}

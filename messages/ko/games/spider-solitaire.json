@@ -1,0 +1,77 @@
+{
+  "spider-solitaire": {
+    "title": "무료 스파이더 솔리테어 온라인 플레이: 클래식 카드 게임",
+    "slogan": "스파이더 솔리테어로 전략 실력을 테스트하세요!",
+    "description": "도전적인 카드 게임을 준비하셨나요? 스파이더 솔리테어는 모든 실력 수준의 플레이어를 위한 클래식하고 전략적인 솔리테어 게임입니다. 중독성 있는 게임 플레이를 즐기고 솔리테어 실력을 테스트하세요. 지금 스파이더 솔리테어 온라인을 플레이하고 최고의 카드 게임 도전을 경험하세요! 스파이더 솔리테어.",
+    "Loading": {
+      "title": "스파이더 솔리테어 로딩 중"
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "스파이더 솔리테어",
+      "description": "스파이더 솔리테어의 전면 화면 경험을 즐겨보세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "스파이더 솔리테어를 플레이하는 이유는?",
+      "whatIsTitle": "스파이더 솔리테어란 무엇인가요?",
+      "whatIsDescription": "스파이더 솔리테어는 전략적인 게임 플레이로 유명한 인기 솔리테어 카드 게임입니다. 카드를 내림차순으로 정렬하고 같은 무늬를 맞춰 보드를 정리하세요. 끝없는 카드 배열로 플레이어의 능력과 인내심을 시험하는 스파이더 솔리테어는 두뇌 운동을 제공합니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "카드를 내림차순으로 정렬하세요.",
+      "howToPlayStep2": "같은 무늬의 완성된 순서를 만드세요.",
+      "howToPlayStep3": "모든 카드를 정리하여 게임을 완료하세요.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "다양한 난이도 레벨",
+      "feature1Description": "스파이더 솔리테어에서 1, 2 또는 4개의 무늬 중에서 선택하여 다양한 도전을 경험하세요.",
+      "feature2Title": "직관적인 인터페이스",
+      "feature2Description": "사용자 친화적인 디자인으로 스파이더 솔리테어에서 부드럽고 쉬운 게임 플레이를 즐겨보세요.",
+      "feature3Title": "되돌리기 기능",
+      "feature3Description": "스파이더 솔리테어의 되돌리기 기능으로 실수를 바로잡고 전략을 개선하세요.",
+      "feature4Title": "자세한 통계",
+      "feature4Description": "스파이더 솔리테어의 포괄적인 통계로 자신의 진행 상황을 추적하고 기술을 향상시키세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 비디오"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "게임 컬렉션을 탐색하세요.",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

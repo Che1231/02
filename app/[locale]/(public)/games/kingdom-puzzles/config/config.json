@@ -104,7 +104,7 @@
   "isShowRecommendation": true,
   "isShowRightGames": true,
   "customizeFeatures": true,
-  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743520125102-l42nb7.jpg",
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-29/images/1745936526227-sggwdo.webp",
   "page_path": "/games/kingdom-puzzles",
   "override_page_path": true,
   "auto_deploy": true,
@@ -114,7 +114,12 @@
   "is_sub_game": true,
   "include_available_games": true,
   "categories": [
-    "Clicker"
+    "RPG & Adventure"
   ],
-  "createdTime": "2025-04-01 23:08:47"
+  "createdTime": "2025-04-01 23:08:47",
+  "userInputText": "Kingdom Puzzle is a relaxing brain game where you see a grid with different colored regions. Your goal is to place one king in each region while following the rules. Each region can have only one king, and kings cannot be in the same row or column. They also cannot be next to each other, meaning the nearest tiles must be empty. To win the level, you must place all kings correctly. Placing a king in the wrong spot reduces your points. If your points reach zero, you can either skip the level with a 0 score or retry after watching a short ad. Enjoy the challenge!",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T05:26:46.929Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi"
 }

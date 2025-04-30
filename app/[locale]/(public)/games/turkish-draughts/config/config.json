@@ -104,7 +104,7 @@
   "isShowRecommendation": true,
   "isShowRightGames": true,
   "customizeFeatures": true,
-  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743521597905-ut9r3s.jpg",
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-29/images/1745936495873-9agofq.webp",
   "page_path": "/games/turkish-draughts",
   "override_page_path": true,
   "auto_deploy": true,
@@ -114,7 +114,12 @@
   "is_sub_game": true,
   "include_available_games": true,
   "categories": [
-    "Multiplayer"
+    "Multiplayer Game"
   ],
-  "createdTime": "2025-04-01 23:33:16"
+  "createdTime": "2025-04-01 23:33:16",
+  "userInputText": "The main feature is that moves and captures with checkers are made horizontally and vertically, and not diagonally, as in most popular types of checkers. Accordingly, the initial arrangement of checkers is different. On a 64-cell board, opponents place their 16 checkers on all cells of the second and third horizontals. ",
+  "userId": "cm8mrd3kr00f6kjc5dt8ktli4",
+  "status": "PENDING",
+  "updatedAt": "2025-03-28T05:26:46.929Z",
+  "projectId": "cm8sb0yv100wllywlvh5jkuxi"
 }

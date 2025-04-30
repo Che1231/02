@@ -32,7 +32,7 @@
     },
     {
       "visible": true,
-      "url": "/games/screw-puzzle-diy",
+      "url": "/games/rooftop-run",
       "position": 7
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "visible": true,
-      "url": "/games/ice-cream-stack-runner",
+      "url": "/games/helix-jump",
       "position": 10
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "visible": true,
-      "url": "/games/sprunki-shooter-2025",
+      "url": "/games/merge-construct",
       "position": 13
     },
     {
@@ -103,114 +103,124 @@
   ],
   "categories": [
     {
-      "name": "En İyi",
-      "path": "/c/best",
+      "name": "Yeni ve Trend",
+      "path": "/c/new-trending",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "Eğlence garantisiyle seçkin üst düzey oyunlar!"
+      "description": "Haftalık seçimler! Bağımsız/yeni klasikler – WebGL üzerinden anında oynanabilir, 500.000+ puanla trend."
     },
     {
-      "name": "Yeni",
-      "path": "/c/hot",
-      "pageSize": 15,
-      "backgroundColor": "#ffdde1",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
-      "description": "Bu ay en çok oynanan oyunlar - kaçırmayın!",
-      "position": 2
-    },
-    {
-      "name": "Eylem",
-      "path": "/c/action",
+      "name": "Eylem Oyunu",
+      "path": "/c/action-game",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Kılıç sallamalarla meydan okumalara dalın!",
-      "position": 3
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815583893-1ov2te.png",
+      "description": "Kombo çılgınlığı! Piksel mükemmel kontroller, ekranı titretecek darbeler – dokunmatik/klavye optimizasyonu.",
+      "position": 2
     },
     {
-      "name": "Macera",
-      "path": "/c/adventure",
+      "name": "Shooter Oyunu",
+      "path": "/c/shooter-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815702803-jwfoq.png",
+      "position": 3,
+      "description": "Kurşun cehennemi + siper taktikleri! Senkronize bilim kurgu mermileriyle 100 oyuncu gerçek zamanlı savaşlar."
+    },
+    {
+      "name": "Çok Oyunculu Oyun",
+      "path": "/c/multiplayer-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815711657-79vvcq.png",
       "position": 4,
-      "description": "Heyecan verici maceralara atılın ve gizli hazineleri keşfedin!"
+      "description": "Çeşitli oyunlardan oluşan ekipler! Sesli sohbet, paylaşılan ilerleme – kuşatmalardan işbirlikçi bulmacalara geçiş."
     },
     {
-      "name": "Atış",
-      "path": "/c/shooting",
+      "name": "Strateji ve Bulmaca",
+      "path": "/c/strategy-puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815763054-q49yn2.png",
       "position": 5,
-      "description": "Hedef alın, ateş edin ve savaş alanını saniyeler içinde ele geçirin!"
+      "description": "Boşta strateji + beyin jimnastiği! Çevrimdışı kaynak yönetimi + AR uzamsal bulmacalar."
     },
     {
-      "name": "Yarış",
-      "path": "/c/racing",
+      "name": "Simülasyon ve Boşta",
+      "path": "/c/simulation-idle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816169112-k5x75h.png",
       "position": 6,
-      "description": "Kauçuk yakıp zafer için sürün!"
+      "description": "Boşta kazançlar! Otomatik ilerleme + QR kodlu bulut senkronizasyonu – %200 çevrimdışı kazanç."
     },
     {
-      "name": "Hızlı ve Kolay",
-      "path": "/c/hypercasual",
+      "name": "RPG ve Macera",
+      "path": "/c/rpg-adventure",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Meşgul zamanlarınıza uyan tek dokunuşla eğlence!",
+      "description": "Hikaye odaklı RPG'ler ve açık dünya maceraları! Platformlar arası kaydetmeler, işbirlikçi bulmacalar. 2 benzersiz dünya – ortaçağ fantastik ve sonrası kıyamet – 50+ gizli hikaye ile.",
       "position": 7
     },
     {
-      "name": "Çok Oyunculu",
-      "path": "/c/multiplayer",
+      "name": "Spor ve IO",
+      "path": "/c/sports-io",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791209881-tlvgkr.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816383288-nxe2wm.png",
       "position": 8,
-      "description": "Dünyanın dört bir yanındaki arkadaşlarınızla takım oluşturun veya yarışın!"
+      "description": ".IO hayatta kalma + spor! Topları böl veya takımları koçluk yap – platformlar arası lider tabloları, giriş gerekmiyor."
     },
     {
-      "name": "Tıklama",
-      "path": "/c/clicker",
+      "name": "Sürükleme Oyunu",
+      "path": "/c/driving-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791224103-9c24n9.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816438112-a6e0gj.png",
       "position": 9,
-      "description": "Altın kazanmak ve imparatorluğunuzu otomatikleştirmek için tıklayın!"
+      "description": "Ye, büyü ve .IO evreninde hakimiyet kur!"
     },
     {
-      "name": "Spor",
-      "path": "/c/sports",
+      "name": "Kum Kutusu Hafif",
+      "path": "/c/sandbox-lite",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839114872-shg2ym.png",
       "position": 10,
-      "description": "Gol atın, şutlar yapın ve rekorları hemen kırın!"
+      "description": "Özgürce inşa et! Otomatik kaydetme + VR düzenleme – modüler çiftlikler/sonrası kıyamet üsleri fizikle."
     },
     {
-      "name": ".IO",
-      "path": "/c/io",
+      "name": "Kart ve Klasik",
+      "path": "/c/card-classic",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791236590-lmb1ph.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839109336-jlksij.png",
       "position": 11,
-      "description": ".IO evreninde yiyin, büyüyün ve hükmedin!"
+      "description": "Bölgesel klasikler! Mahjong/pai Gow yeniden yapımları – beceriye uyarlanabilir yapay zeka, retro piksel kullanıcı arayüzü."
+    },
+    {
+      "name": "Ritmik ve Ses",
+      "path": "/c/rhythm-voice",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839102053-cncg4.png",
+      "position": 12,
+      "description": "Sesle kontrol edilen ritimler! 50ms mikrofon hassasiyeti, VTuber dansları – 7.1 surround senkronizasyonu."
     }
   ]
 }

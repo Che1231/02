@@ -32,7 +32,7 @@
     },
     {
       "visible": true,
-      "url": "/games/screw-puzzle-diy",
+      "url": "/games/rooftop-run",
       "position": 7
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "visible": true,
-      "url": "/games/ice-cream-stack-runner",
+      "url": "/games/helix-jump",
       "position": 10
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "visible": true,
-      "url": "/games/sprunki-shooter-2025",
+      "url": "/games/merge-construct",
       "position": 13
     },
     {
@@ -103,114 +103,124 @@
   ],
   "categories": [
     {
-      "name": "Meilleurs",
-      "path": "/c/best",
+      "name": "Nouveautés et tendances",
+      "path": "/c/new-trending",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "Jeux primés, garantis pour vous divertir !"
+      "description": "Sélections hebdomadaires ! Classiques indé/nouveaux – jeu instantané via WebGL, tendance avec plus de 500 000 évaluations."
     },
     {
-      "name": "Tendances",
-      "path": "/c/hot",
-      "pageSize": 15,
-      "backgroundColor": "#ffdde1",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
-      "description": "Les jeux les plus joués ce mois-ci - ne les manquez pas !",
-      "position": 2
-    },
-    {
-      "name": "Action",
-      "path": "/c/action",
+      "name": "Jeu d'action",
+      "path": "/c/action-game",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "Défiez les défis avec des aventures trépidantes d'escrime !",
-      "position": 3
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815583893-1ov2te.png",
+      "description": "Manie des combos ! Contrôles précis au pixel, coups déstabilisant l'écran – optimisé pour les touches/clavier.",
+      "position": 2
     },
     {
-      "name": "Aventure",
-      "path": "/c/adventure",
+      "name": "Jeu de tir",
+      "path": "/c/shooter-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815702803-jwfoq.png",
+      "position": 3,
+      "description": "Enfer à balles + tactiques de couverture ! Batailles en temps réel de 100 joueurs avec des balles futuristes synchronisées."
+    },
+    {
+      "name": "Jeu multijoueur",
+      "path": "/c/multiplayer-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815711657-79vvcq.png",
       "position": 4,
-      "description": "Embarquez pour des quêtes palpitantes et découvrez des trésors cachés !"
+      "description": "Équipages inter-jeux ! Chat vocal, progression partagée – passez des sièges à des énigmes coopératives."
     },
     {
-      "name": "Tir",
-      "path": "/c/shooting",
+      "name": "Stratégie et casse-tête",
+      "path": "/c/strategy-puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815763054-q49yn2.png",
       "position": 5,
-      "description": "Visez, tirez et dominez le champ de bataille en quelques secondes !"
+      "description": "Stratégie au ralenti + casse-têtes ! Gestion des ressources hors ligne + casse-têtes spatiaux AR."
     },
     {
-      "name": "Course",
-      "path": "/c/racing",
+      "name": "Simulation et jeu de loisir",
+      "path": "/c/simulation-idle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816169112-k5x75h.png",
       "position": 6,
-      "description": "Faites brûler les pneus et dérive jusqu'à la victoire !"
+      "description": "Profits au ralenti ! Progression automatique + synchronisation sur le cloud via QR code – gains hors ligne de 200 %."
     },
     {
-      "name": "Hypercasual",
-      "path": "/c/hypercasual",
+      "name": "RPG et aventure",
+      "path": "/c/rpg-adventure",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "Du plaisir en un seul passage qui correspond à votre emploi du temps chargé !",
+      "description": "RPG narratifs et aventures en monde ouvert ! Sauvegardes multiplateformes, énigmes coopératives. 2 mondes uniques – fantaisie médiévale et post-apocalyptique – avec plus de 50 histoires cachées.",
       "position": 7
     },
     {
-      "name": "Multijoueur",
-      "path": "/c/multiplayer",
+      "name": "Sport et IO",
+      "path": "/c/sports-io",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791209881-tlvgkr.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816383288-nxe2wm.png",
       "position": 8,
-      "description": "Faites équipe ou affrontez des amis du monde entier !"
+      "description": "Survie IO + sport ! Diviser les ballons ou entraîner des équipes – classements multiplateformes, pas de connexion."
     },
     {
-      "name": "Clicker",
-      "path": "/c/clicker",
+      "name": "Jeu de conduite",
+      "path": "/c/driving-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791224103-9c24n9.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816438112-a6e0gj.png",
       "position": 9,
-      "description": "Appuyez pour gagner de l'or et automatisez votre empire !"
-    },
-    {
-      "name": "Sports",
-      "path": "/c/sports",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
-      "position": 10,
-      "description": "Marquez des buts, effectuez des paniers et battez des records instantanément !"
-    },
-    {
-      "name": ".IO",
-      "path": "/c/io",
-      "pageSize": 15,
-      "backgroundColor": "#ffffff",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791236590-lmb1ph.png",
-      "position": 11,
       "description": "Mangez, grandissez et dominez l'univers .IO !"
+    },
+    {
+      "name": "Sandbox léger",
+      "path": "/c/sandbox-lite",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839114872-shg2ym.png",
+      "position": 10,
+      "description": "Construisez librement ! Sauvegarde automatique + édition VR – fermes modulaires/bases post-apocalyptiques avec physique."
+    },
+    {
+      "name": "Carte et classique",
+      "path": "/c/card-classic",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839109336-jlksij.png",
+      "position": 11,
+      "description": "Classiques régionaux ! Remises au goût du jour de Mahjong/Pai Gow – IA adaptable aux compétences, interface utilisateur rétro pixelisée."
+    },
+    {
+      "name": "Rythme et voix",
+      "path": "/c/rhythm-voice",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839102053-cncg4.png",
+      "position": 12,
+      "description": "Rythmes contrôlés par la voix ! Précision du micro de 50 ms, danses VTuber – synchronisation surround 7.1."
     }
   ]
 }

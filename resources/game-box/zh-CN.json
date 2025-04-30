@@ -32,7 +32,7 @@
     },
     {
       "visible": true,
-      "url": "/games/screw-puzzle-diy",
+      "url": "/games/rooftop-run",
       "position": 7
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "visible": true,
-      "url": "/games/ice-cream-stack-runner",
+      "url": "/games/helix-jump",
       "position": 10
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "visible": true,
-      "url": "/games/sprunki-shooter-2025",
+      "url": "/games/merge-construct",
       "position": 13
     },
     {
@@ -103,114 +103,134 @@
   ],
   "categories": [
     {
-      "name": "最佳",
-      "path": "/c/best",
+      "name": "新游及趋势",
+      "path": "/c/new-trending",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
       "position": 1,
-      "description": "精选的顶级游戏，保证让你娱乐！"
+      "description": "每周精选！独立游戏/经典新作 – 通过 WebGL 即刻游玩，由 50 万以上用户评价决定趋势。"
     },
     {
-      "name": "热门",
-      "path": "/c/hot",
-      "pageSize": 15,
-      "backgroundColor": "#ffdde1",
-      "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586186840-68ekd.png",
-      "description": "本月最热门的游戏——不要错过！",
-      "position": 2
-    },
-    {
-      "name": "动作",
-      "path": "/c/action",
+      "name": "动作游戏",
+      "path": "/c/action-game",
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-03-30/images/1743346567852-zr4ltr.png",
-      "description": "挥舞着宝剑，挑战各种冒险！",
-      "position": 3
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815583893-1ov2te.png",
+      "description": "连击狂潮！像素级精准控制，屏幕震颤的打击 – 触控/键盘优化。",
+      "position": 2
     },
     {
-      "name": "冒险",
-      "path": "/c/adventure",
+      "name": "射击游戏",
+      "path": "/c/shooter-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482939172-041u9l.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815702803-jwfoq.png",
+      "position": 3,
+      "description": "子弹地狱 + 掩体战术！100 人实时战斗，同步科幻子弹。"
+    },
+    {
+      "name": "多人游戏",
+      "path": "/c/multiplayer-game",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815711657-79vvcq.png",
       "position": 4,
-      "description": "踏上激动人心的探险之旅，探索隐藏的宝藏！"
+      "description": "跨游戏小队！语音聊天，共享进度 – 从围攻到合作解谜。"
     },
     {
-      "name": "射击",
-      "path": "/c/shooting",
+      "name": "策略与益智",
+      "path": "/c/strategy-puzzle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743482960061-7uvoag.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815763054-q49yn2.png",
       "position": 5,
-      "description": "瞄准、射击，在战场上迅速取胜！"
+      "description": "休闲策略 + 脑力激荡！离线资源管理 + AR 空间益智。"
     },
     {
-      "name": "赛车",
-      "path": "/c/racing",
+      "name": "模拟与休闲",
+      "path": "/c/simulation-idle",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483866019-bhyfv.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816169112-k5x75h.png",
       "position": 6,
-      "description": "摩擦轮胎，漂移夺冠！"
+      "description": "休闲收益！自动进度 + 云同步通过二维码 – 离线收益提升 200%。"
     },
     {
-      "name": "休闲",
-      "path": "/c/hypercasual",
+      "name": "角色扮演与冒险",
+      "path": "/c/rpg-adventure",
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
       "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
-      "description": "一键轻松娱乐，适合你的忙碌时间！",
-      "position": 7
+      "position": 7,
+      "description": "剧情驱动的角色扮演游戏和开放世界冒险！跨平台保存，合作解谜。2 个独特世界 – 中世纪奇幻和后启示录 – 50+ 隐藏故事。"
     },
     {
-      "name": "多人游戏",
-      "path": "/c/multiplayer",
+      "name": "运动与 IO",
+      "path": "/c/sports-io",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791209881-tlvgkr.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816383288-nxe2wm.png",
       "position": 8,
-      "description": "与全球朋友组队或竞争！"
+      "description": ".IO 生存 + 运动！分割球或执教球队 – 跨平台排行榜，无需登录。"
     },
     {
-      "name": "点击器",
-      "path": "/c/clicker",
+      "name": "驾驶游戏",
+      "path": "/c/driving-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791224103-9c24n9.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816438112-a6e0gj.png",
       "position": 9,
-      "description": "点击获取金币，自动化你的帝国！"
+      "description": "吞噬，成长并主宰 .IO 宇宙！"
     },
     {
-      "name": "体育",
-      "path": "/c/sports",
+      "name": "恐怖游戏",
+      "path": "/c/horror-game",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743484073984-jpxnm4.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816432234-45f2b9.png",
       "position": 10,
-      "description": "立即得分、扣篮并打破记录！"
+      "description": "心跳加速的恐怖！WebGL 阴影 + AR 解谜 – 充满爱伦·坡风格的聪明惊吓。"
     },
     {
-      "name": ".IO",
-      "path": "/c/io",
+      "name": "沙盒轻量版",
+      "path": "/c/sandbox-lite",
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-16/images/1744791236590-lmb1ph.png",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816176521-n6vds.png",
       "position": 11,
-      "description": "吃、长大和控制 .IO 宇宙！"
+      "description": "自由构建！自动保存 + VR 编辑 – 模块化农场/后启示录基地与物理。"
+    },
+    {
+      "name": "卡牌及经典",
+      "path": "/c/card-classic",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816207554-afl8au.png",
+      "position": 12,
+      "description": "区域经典！麻将/跑得快翻新 – 技能适应的 AI，复古像素 UI。"
+    },
+    {
+      "name": "节奏及语音",
+      "path": "/c/rhythm-voice",
+      "pageSize": 15,
+      "backgroundColor": "#ffffff",
+      "displayStyle": "horizontal",
+      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816232192-m7iue2.png",
+      "position": 13,
+      "description": "语音控制节奏！50 毫秒麦克风精度，VTuber 舞蹈 – 7.1 环绕音同步。"
     }
   ]
 }

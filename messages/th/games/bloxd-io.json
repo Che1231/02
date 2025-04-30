@@ -1,0 +1,77 @@
+{
+  "bloxd-io": {
+    "title": "Bloxd.io: เล่นโหมดเกม IO แบบ Minecraft ออนไลน์ฟรี",
+    "slogan": "เล่น Bloxd.io ฟรี!",
+    "description": "ดื่มด่ำไปกับ Bloxd.io เกม IO ที่ได้รับแรงบันดาลใจจาก Minecraft พร้อมโหมดที่น่าตื่นเต้นมากมาย! สำรวจความท้าทายของการ parkour, การสร้างสรรค์ใน sandbox และสถานการณ์การต่อสู้ เล่น Bloxd.io ตอนนี้และสัมผัสกับความสนุกไม่รู้จบกับเพื่อนๆ เข้าร่วมกับจักรวาล voxel ของ Bloxd.io วันนี้!",
+    "Loading": {
+      "title": "กำลังโหลด Bloxd.io"
+    },
+    "Navbar": {
+      "title": "แถบนำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดในการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์ที่เป็นมิตร",
+      "articleList": "รายการบทความ",
+      "home": "หน้าหลัก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "เล่น Bloxd.io",
+      "description": "Bloxd.io เป็นเกมผจญภัย IO ที่มีกราฟิกแบบ Minecraft และโหมดเกมต่างๆ",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ลงในคลิปบอร์ดแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Bloxd.io",
+      "whatIsTitle": "Bloxd.io คืออะไร?",
+      "whatIsDescription": "Bloxd.io เป็นเกมออนไลน์หลายผู้เล่นพร้อมโหมดเกมที่หลากหลาย Bloxd.io มี parkour, การสร้างสรรค์ใน sandbox และการต่อสู้ ขึ้นอยู่กับโหมดที่คุณเลือกเล่น Bloxd.io จะมีการอัปเดตคุณสมบัติและโหมดใหม่ๆ อยู่เสมอ",
+      "howToPlayTitle": "วิธีเล่น Bloxd.io",
+      "howToPlayStep1": "นำทางผ่านเส้นทางอุปสรรคที่ท้าทายโดยการคำนวณเวลาการกระโดดและการเคลื่อนไหวอย่างแม่นยำ",
+      "howToPlayStep2": "รวบรวมทรัพยากร สร้างเครื่องมือ และต่อสู้กับศัตรูเพื่อความอยู่รอดในโหมดเอาตัวรอด",
+      "howToPlayStep3": "เลือกจากโหมดเกมต่างๆเพื่อเริ่มต้นการผจญภัย Bloxd.io แต่ละโหมดมีการท้าทายต่างๆ",
+      "keyFeaturesTitle": "คุณสมบัติสำคัญของ Bloxd.io",
+      "feature1Title": "โลก voxel ที่สนุกสนาน",
+      "feature1Description": "สำรวจโลก voxel ที่สนุกสนานฟรีในเบราว์เซอร์ของคุณด้วยการเล่น Bloxd.io",
+      "feature2Title": "โหมดเกมต่างๆ",
+      "feature2Description": "เล่นโหมดเกมต่างๆที่มีวัตถุประสงค์ต่างกันใน Bloxd.io",
+      "feature3Title": "รับทอง",
+      "feature3Description": "รับทองจากความสำเร็จของคุณและใช้จ่ายในร้านค้าภายใน Bloxd.io",
+      "feature4Title": "เกมออนไลน์หลายคน",
+      "feature4Description": "เข้าร่วมกับเพื่อนๆ ในเกมออนไลน์หลายคนบน Bloxd.io"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นในการเล่น"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

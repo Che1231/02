@@ -1,0 +1,77 @@
+{
+  "spider-solitaire": {
+    "title": "Juega al solitario araña en línea gratis: un clásico juego de cartas",
+    "slogan": "¡Pon a prueba tus habilidades estratégicas con el solitario araña!",
+    "description": "¿Listo para un juego de cartas desafiante? El solitario araña es un juego de solitario estratégico clásico, perfecto para todos los niveles. Disfruta de horas de juego adictivo y pon a prueba tus habilidades en solitario. ¡Juega al solitario araña en línea ahora y experimenta el último desafío de juego de cartas! Solitario araña.",
+    "Loading": {
+      "title": "Cargando solitario araña"
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Solitario araña",
+      "description": "Disfruta de una experiencia de pantalla completa de Solitario araña.",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "¿Por qué jugar al solitario araña?",
+      "whatIsTitle": "¿Qué es el solitario araña?",
+      "whatIsDescription": "El solitario araña es un popular juego de cartas de solitario conocido por su juego estratégico. Organiza las cartas en orden descendente y con el mismo palo para limpiar el tablero. Una verdadera prueba de habilidad y paciencia con arreglos infinitos de cartas, el solitario araña seguramente hará trabajar las neuronas del jugador.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Organiza las cartas en orden descendente.",
+      "howToPlayStep2": "Forma secuencias completas del mismo palo.",
+      "howToPlayStep3": "Elimina todas las cartas para ganar el juego.",
+      "keyFeaturesTitle": "Características principales",
+      "feature1Title": "Varios niveles de dificultad",
+      "feature1Description": "Elige entre 1, 2 o 4 palos para desafíos variados en el solitario araña.",
+      "feature2Title": "Interfaz intuitiva",
+      "feature2Description": "Disfruta de un juego fluido y fácil con un diseño fácil de usar en el solitario araña.",
+      "feature3Title": "Función de deshacer",
+      "feature3Description": "Corrige errores y perfecciona tu estrategia con la función de deshacer en el solitario araña.",
+      "feature4Title": "Estadísticas detalladas",
+      "feature4Description": "Rastrea tu progreso y mejora tus habilidades con estadísticas completas en el solitario araña."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Explora nuestra colección de juegos.",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}

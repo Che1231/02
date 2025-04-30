@@ -1,0 +1,77 @@
+{
+  "paper-miningcraft": {
+    "title": "Майнингкрафт из бумаги: играйте онлайн бесплатно — стройте и исследуйте!",
+    "slogan": "",
+    "description": "Погрузитесь в Paper Miningcraft — 2D-переосмысление классической игры-песочницы. Соберите ресурсы, создайте инструменты и постройте свой мир! Играйте в Paper Miningcraft онлайн бесплатно и начните свое приключение прямо сегодня!",
+    "Loading": {
+      "title": "Загрузка Paper Miningcraft"
+    },
+    "Navbar": {
+      "title": "Навигация"
+    },
+    "Common": {
+      "createAt": "Создано",
+      "guide": "Руководство",
+      "privacyPolicy": "Политика конфиденциальности",
+      "termsOfServices": "Условия использования",
+      "text": "Содержание",
+      "help": "Помощь",
+      "friendlyLinks": "Полезные ссылки",
+      "articleList": "Список статей",
+      "home": "Главная",
+      "next": "Далее",
+      "previous": "Предыдущее"
+    },
+    "HomeIframe": {
+      "title": "Paper Miningcraft",
+      "description": "Paper Miningcraft — это 2D-версия популярной игры-песочницы. Играйте прямо сейчас в браузере!",
+      "iframeTitle": "Предварительный просмотр игры",
+      "fullscreenButton": "Экранный режим",
+      "shareButton": "Поделиться",
+      "urlCopied": "Ссылка скопирована в буфер обмена!",
+      "downloadGame": "Скачать игру",
+      "playGame": "Играть"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Paper Miningcraft",
+      "whatIsTitle": "Что такое Paper Miningcraft?",
+      "whatIsDescription": "Paper Miningcraft — это онлайн-версия популярной игры-песочницы Minecraft от Mojang Studios, выполненная в 2D. Выберите режим игры, скин и исследуйте блок-пиксельный мир, как в Minecraft.",
+      "howToPlayTitle": "Как играть в Paper Miningcraft",
+      "howToPlayStep1": "WASD или стрелки для перемещения, прыжка или плавания",
+      "howToPlayStep2": "Левой кнопкой мыши, чтобы копать или размещать блоки",
+      "howToPlayStep3": "E для открытия инвентаря или сундука",
+      "keyFeaturesTitle": "Ключевые особенности",
+      "feature1Title": "2D Графика",
+      "feature1Description": "Почувствуйте знакомый мир Minecraft в уникальной 2D перспективе.",
+      "feature2Title": "Несколько режимов игры",
+      "feature2Description": "Выберите режим выживания, мирного или творческого, чтобы подобрать стиль игры.",
+      "feature3Title": "Пользовательские карты",
+      "feature3Description": "Исследуйте множество пользовательских карт, созданных другими игроками.",
+      "feature4Title": "Разнообразные инструменты и ресурсы",
+      "feature4Description": "Используйте широкий спектр инструментов, опций и ресурсов, чтобы построить и выжить."
+    },
+    "HomeFAQs": {
+      "title": "Часто задаваемые вопросы о Paper Miningcraft"
+    },
+    "HomeRelatedVideo": {
+      "title": "Видеоролик Paper Miningcraft"
+    },
+    "HomeRecommendation": {
+      "title": "Еще игры, подобные Paper Miningcraft"
+    },
+    "HomeComments": {
+      "title": "Комментарии к игре Paper Miningcraft"
+    },
+    "GamePage": {
+      "title": "Все игры",
+      "description": "Просмотрите нашу коллекцию игр.",
+      "games": "Игры"
+    },
+    "CategoryPage": {
+      "categories": "Категории",
+      "noCategories": "Категории не найдены",
+      "viewMore": "Смотреть еще",
+      "page": "Страница"
+    }
+  }
+}
