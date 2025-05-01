@@ -1,0 +1,77 @@
+{
+  "magic-cat-academy": {
+    "title": "Sihirli Kedi Akademisi'ni Çevrimiçi Oyna - Ücretsiz Bir Cadılar Bayramı Oyunu",
+    "slogan": "Sihirli Kedi Akademisi'nde büyü yapın ve hayaletleri yenin!",
+    "description": "Sihirli Kedi Akademisi'ne dalın, sevimli bir oyunda siz, Momo olarak, büyülü büyülerle korkunç hayaletlere karşı savunun. Akademisi korumak için semboller çizmeyi ustalaşın ve neşeli Cadılar Bayramı temalı maceradan zevk alın. Büyülü bir deneyim için Sihirli Kedi Akademisi'ni şimdi oynayın!",
+    "Loading": {
+      "title": "Sihirli Kedi Akademisi Yükleniyor"
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Anasayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Sihirli Kedi Akademisi",
+      "description": "Momo ile akademisi hayaletlerden kurtarmak için büyülü bir maceraya katılın!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sihirli Kedi Akademisi Hakkında",
+      "whatIsTitle": "Sihirli Kedi Akademisi Nedir?",
+      "whatIsDescription": "Sihirli Kedi Akademisi, Momo adlı büyücü bir kedi olarak oynadığınız, ekranda büyü çizerek akademisi hayaletlerden koruduğunuz Cadılar Bayramı temalı bir web oyunudur.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Hayaletlerin üzerinde görünen sembolleri çizerek büyü yapın.",
+      "howToPlayStep2": "Her seviyedeki tüm hayaletleri yenerek ilerleyin.",
+      "howToPlayStep3": "Ekstra efektler için kalpler ve daireler gibi özel semboller kullanın!",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Cazibeli Çizgi Film Sanat Tarzı",
+      "feature1Description": "Cadılar Bayramı sezonu için mükemmel, canlı renkler ve sevimli karakter tasarımlarıyla görsel olarak çekici bir oyundan zevk alın.",
+      "feature2Title": "Öğrenmesi Kolay Oyun",
+      "feature2Description": "Fare veya dokunmatik ekran kullanarak semboller çizmeyi kolaylaştırmak için basit kontroller herkes için erişilebilir hale getirir.",
+      "feature3Title": "Artan Zorluk",
+      "feature3Description": "İlerledikçe büyüler daha karmaşık hale gelir ve hayaletler daha zorlaşır, böylece eğlenceli bir meydan okuma sunar.",
+      "feature4Title": "Üç Farklı Hikaye",
+      "feature4Description": "Her biri kendine özgü bir hikaye ve zorluklara sahip üç farklı Sihirli Kedi Akademisi versiyonu yaşayın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Saatlerce eğlence için çeşitli heyecan verici oyunları ve maceraları keşfedin.",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

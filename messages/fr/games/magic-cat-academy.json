@@ -1,0 +1,77 @@
+{
+  "magic-cat-academy": {
+    "title": "Jouer à Magic Cat Academy en ligne - Un jeu d'Halloween gratuit",
+    "slogan": "Lancez des sorts et battez les fantômes dans Magic Cat Academy !",
+    "description": "Plongez-vous dans Magic Cat Academy, un jeu charmant où vous, en tant que Momo, vous défendez contre les fantômes effrayants avec des sorts magiques. Maîtrisez le dessin de symboles pour protéger l'académie et profitez de la délicieuse aventure sur le thème d'Halloween. Jouez à Magic Cat Academy maintenant pour une expérience envoûtante !",
+    "Loading": {
+      "title": "Chargement de Magic Cat Academy"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens utiles",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Magic Cat Academy",
+      "description": "Rejoignez Momo dans une aventure magique pour sauver l'académie des fantômes !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "À propos de Magic Cat Academy",
+      "whatIsTitle": "Qu'est-ce que Magic Cat Academy ?",
+      "whatIsDescription": "Magic Cat Academy est un jeu web sur le thème d'Halloween où vous incarnez Momo, un chat magique, pour défendre l'académie contre les fantômes en dessinant des sorts à l'écran.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Dessinez les symboles qui apparaissent au-dessus des fantômes pour lancer des sorts.",
+      "howToPlayStep2": "Vainquez tous les fantômes de chaque niveau pour progresser.",
+      "howToPlayStep3": "Utilisez des symboles spéciaux comme des cœurs et des cercles pour des effets supplémentaires !",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Style artistique de dessin animé charmant",
+      "feature1Description": "Profitez d'un jeu visuellement attrayant aux couleurs vives et aux designs de personnages mignons, parfait pour la saison d'Halloween.",
+      "feature2Title": "Gameplay facile à apprendre",
+      "feature2Description": "Des commandes simples le rendent accessible à tous pour jouer, en utilisant la souris ou le toucher pour dessiner les symboles.",
+      "feature3Title": "Difficulté croissante",
+      "feature3Description": "Au fur et à mesure de votre progression, les sorts deviennent plus complexes et les fantômes plus coriaces, offrant un défi amusant.",
+      "feature4Title": "Trois histoires uniques",
+      "feature4Description": "Découvrez trois versions distinctes de Magic Cat Academy, chacune avec son propre récit et ses propres défis."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Découvrez une variété de jeux passionnants et d'aventures pour des heures de divertissement.",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

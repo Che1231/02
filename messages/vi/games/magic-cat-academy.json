@@ -1,0 +1,77 @@
+{
+  "magic-cat-academy": {
+    "title": "Trò chơi Học viện Báo Thích - Một trò chơi Halloween miễn phí",
+    "slogan": "Ném bùa chú và đánh bại ma quỷ trong Học viện Báo Thích!",
+    "description": "Tham gia Học viện Báo Thích, một trò chơi hấp dẫn mà bạn, với tư cách là Momo, sẽ bảo vệ chống lại những con ma đáng sợ bằng những phép thuật thần kỳ.  Hãy thành thạo việc vẽ các biểu tượng để bảo vệ học viện và tận hưởng cuộc phiêu lưu đầy thú vị với chủ đề Halloween. Chơi Học viện Báo Thích ngay bây giờ để có trải nghiệm ngoạn mục!",
+    "Loading": {
+      "title": "Đang tải Học viện Báo Thích"
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Học viện Báo Thích",
+      "description": "Tham gia cùng Momo trong một cuộc phiêu lưu thần kỳ để cứu học viện khỏi những con ma!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Giới thiệu về Học viện Báo Thích",
+      "whatIsTitle": "Học viện Báo Thích là gì?",
+      "whatIsDescription": "Học viện Báo Thích là một trò chơi web với chủ đề Halloween, trong đó bạn vào vai Momo, một chú mèo thần kỳ, bảo vệ học viện khỏi những con ma bằng cách vẽ các phép thuật trên màn hình.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Vẽ các biểu tượng xuất hiện trên đầu những con ma để thực hiện phép thuật.",
+      "howToPlayStep2": "Đánh bại tất cả các con ma trong mỗi cấp độ để tiến lên.",
+      "howToPlayStep3": "Sử dụng các biểu tượng đặc biệt như trái tim và vòng tròn để có hiệu ứng thêm!",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Phong cách nghệ thuật hoạt hình dễ thương",
+      "feature1Description": "Tận hưởng một trò chơi hấp dẫn về mặt hình ảnh với màu sắc tươi sáng và thiết kế nhân vật dễ thương, hoàn hảo cho mùa Halloween.",
+      "feature2Title": "Cách chơi dễ dàng",
+      "feature2Description": "Các điều khiển đơn giản giúp mọi người dễ dàng bắt đầu và chơi, sử dụng chuột hoặc chạm để vẽ các biểu tượng.",
+      "feature3Title": "Độ khó tăng dần",
+      "feature3Description": "Khi bạn tiến bộ, các phép thuật trở nên phức tạp hơn và các con ma trở nên khó khăn hơn, mang lại một thử thách thú vị.",
+      "feature4Title": "Ba câu chuyện độc đáo",
+      "feature4Description": "Trải nghiệm ba phiên bản Học viện Báo Thích riêng biệt, mỗi phiên bản đều có câu chuyện và thách thức độc đáo của riêng nó."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Nhận xét Trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Khám phá nhiều trò chơi và cuộc phiêu lưu thú vị để có những giờ phút vui vẻ.",
+      "games": "Trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

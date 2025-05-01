@@ -1,0 +1,77 @@
+{
+  "magic-cat-academy": {
+    "title": "魔法猫学院オンラインゲームをプレイ – 無料のハロウィーンゲーム",
+    "slogan": "魔法猫学院で呪文を唱え、幽霊を倒しましょう！",
+    "description": "魔法猫学院に飛び込みましょう。かわいいゲームで、あなた（モモ）は、魔法の呪文で不気味な幽霊と戦います。学院を守るために記号を描く方法をマスターし、楽しいハロウィーンテーマの冒険を楽しんでください。今すぐ魔法猫学院をプレイして、魔法のような体験を！",
+    "Loading": {
+      "title": "魔法猫学院を読み込み中"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "魔法猫学院",
+      "description": "モモと一緒に、学院を幽霊から救うための魔法の冒険に出かけましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "魔法猫学院について",
+      "whatIsTitle": "魔法猫学院とは何ですか？",
+      "whatIsDescription": "魔法猫学院は、ハロウィーンをテーマにしたウェブゲームです。あなたは魔法の猫モモとして、画面に呪文を描くことで学院を幽霊から守ります。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "幽霊の上に表示される記号を描いて、呪文を唱えましょう。",
+      "howToPlayStep2": "各レベルのすべての幽霊を倒して、次のレベルに進みましょう。",
+      "howToPlayStep3": "ハートや円などの特別な記号は、特別な効果があります！",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "魅力的な漫画風のアートスタイル",
+      "feature1Description": "鮮やかな色とキュートなキャラクターデザインで、視覚的に魅力的なゲームをお楽しみいただけます。ハロウィーンシーズンに最適です。",
+      "feature2Title": "簡単にプレイできるゲーム性",
+      "feature2Description": "マウスまたはタッチを使って記号を描くため、シンプルな操作で誰でも手軽にプレイできます。",
+      "feature3Title": "難易度の上昇",
+      "feature3Description": "ゲームを進めるにつれて、呪文は複雑になり、幽霊は強くなります。楽しい挑戦を提供します。",
+      "feature4Title": "ユニークなストーリーが3つ",
+      "feature4Description": "それぞれ独自のストーリーと課題を持つ、魔法猫学院の3つの異なるバージョンをお楽しみください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "数時間楽しめる、様々なエキサイティングなゲームと冒険を探索してください。",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}
