@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Google Minesweeper: Como começo uma partida sem clicar imediatamente numa mina como um novo jogador?",
+    "answer": "Como principiante, começar o Google Minesweeper pode parecer um campo de minas! A abordagem mais segura é clicar num quadrado aleatório no início. O primeiro clique nunca será uma mina; o Google Minesweeper irá realocar qualquer mina sob o seu primeiro clique para outra parte do tabuleiro. Isto garante um início seguro e ajuda-o a começar a deduzir as posições das minas. Pense nisso como um movimento gratuito para começar a desvendar o quebra-cabeça!"
+  },
+  {
+    "question": "O que cada número representa no Google Minesweeper e como os posso usar para encontrar minas?",
+    "answer": "No Google Minesweeper, cada número indica o número de minas em redor desse quadrado nos oito quadrados adjacentes (horizontal, vertical e diagonalmente). Por exemplo, se um quadrado mostrar um '1', significa que existe uma mina escondida nos quadrados que o tocam diretamente. Digamos que descobriu um '1' com apenas um quadrado escondido ao lado dele, esse quadrado escondido deve conter uma mina. Marque-o! Este é o princípio básico. Trabalhe gradualmente através do tabuleiro."
+  },
+  {
+    "question": "Google Minesweeper: Por que razão o jogo às vezes termina mesmo quando não cliquei numa mina?",
+    "answer": "O jogo termina prematuramente se clicar no último quadrado seguro sem inicialmente marcar todas as minas. Embora, tecnicamente, não tenha clicado numa mina nesse *clique final*, o jogo interpreta-o como uma solução incompleta. Isto porque o jogo espera que identifique *todas* as minas. Imagine que lhe resta um quadrado e que é seguro. Se o clicar *antes* de marcar todas as minas, a condição de vitória não é cumprida. Certifique-se de que cada mina confirmada tem uma bandeira antes de expor o último quadrado seguro."
+  },
+  {
+    "question": "Para além dos cliques básicos, que estratégias avançadas posso usar no Google Minesweeper para limpar tabuleiros mais rapidamente, utilizando técnicas para identificar padrões de minas? (Minesweeper)",
+    "answer": "Para jogadores experientes, certos padrões oferecem soluções rápidas. PASSO 1: Identifique padrões \"1-2-1\". Isto significa que três quadrados são adjacentes, dispostos numa linha, com os números um, dois e um, respetivamente. Pode deduzir que os quadrados diagonalmente adjacentes ao \"2\" e perpendiculares aos \"1\" contêm minas. PASSO 2: Procure padrões \"1-2-2-1\". Em quatro quadrados dispostos linearmente, onde os dois \"2\" centrais terão minas acima ou abaixo para satisfazer os requisitos iniciais dos \"2\". PASSO 3: Pratique a utilização de técnicas para fazer deduções rápidas com base nesses padrões para acelerar o seu jogo."
+  },
+  {
+    "question": "No Google Minesweeper, como é possível limpar eficientemente grandes áreas de quadrados seguros rapidamente e que técnicas de rato estão envolvidas?",
+    "answer": "A limpeza eficiente envolve a técnica de \"corda\" ou \"acordeamento\". Se tiver um quadrado numerado que já tem o número correto de minas marcadas em redor dele, pode \"acordear\" o quadrado (geralmente através dos dois botões do rato simultaneamente). Isto irá limpar automaticamente todos os quadrados vizinhos não marcados. Se marcar erradamente, isto também disparará a mina e perderá. Utilizando esta técnica, pode limpar rapidamente grandes áreas em segundos."
+  },
+  {
+    "question": "Google Minesweeper: Continuo a ficar preso no jogo final. Quais são algumas estratégias para evitar palpites 50/50 quando só restam alguns quadrados? Existe alguma forma de calcular probabilidades?",
+    "answer": "Situações de jogo final muitas vezes levam a palpites 50/50. A chave é analisar todo o tabuleiro, e não apenas a área imediata. Procure pistas mais distantes que possam influenciar a colocação das minas. Por exemplo, um \"1\" no lado oposto do tabuleiro pode limitar as possíveis localizações de minas perto da área em que está preso. Visualizar todas as possibilidades e anotá-las pode eliminar algumas probabilidades e levá-lo a uma escolha mais segura. Infelizmente, algumas situações verdadeiramente 50/50 podem ocorrer; considere-as uma parte inerente ao desafio do jogo."
+  },
+  {
+    "question": "Google Minesweeper: Quais os algoritmos utilizados para gerar o tabuleiro inicial e como garante um puzzle resolvível em cada partida?",
+    "answer": "O Google Minesweeper, e a maioria das implementações de Minesweeper, utiliza um gerador de números pseudo-aleatórios (PRNG) para colocar inicialmente as minas. O tabuleiro não é verdadeiramente aleatório, pelo que, por vezes, os padrões podem ser explorados. Assegurar a resolubilidade é mais complexo. Algumas implementações utilizam algoritmos que impedem configurações de minas impossíveis ou que reembaralham o tabuleiro até atingir um estado resolvível; alguns algoritmos atrasam o procedimento aleatório de colocação de minas até *depois* do primeiro clique. Isto garante que o seu primeiro clique é sempre um quadrado seguro e que a distribuição das minas é então aleatorizada com base nos espaços de tabuleiro restantes."
+  },
+  {
+    "question": "O que acontece quando altero as configurações de dificuldade no Google Minesweeper? Quais os parâmetros específicos, como a densidade das minas, são afetados e de quanto?",
+    "answer": "As configurações de dificuldade afetam principalmente o tamanho do tabuleiro e o número de minas. Iniciante normalmente significa um tabuleiro 9x9 com 10 minas, Intermediário é 16x16 com 40 minas e Experiente é 16x30 com 99 minas. A densidade das minas (minas por quadrado) aumenta com a dificuldade. Pode ver isto numa tabela de configuração, que lhe permite comparar Iniciante (10/81 = 0,123) com Experiente (99/480 = 0,206). Compreender esta densidade ajuda a avaliar o risco envolvido em clicar em cada quadrado e informa a sua estratégia de jogo. Uma densidade mais elevada requer mais marcações estratégicas."
+  },
+  {
+    "question": "Google Minesweeper: A versão do Google Minesweeper funciona em todos os dispositivos e existem problemas conhecidos de compatibilidade entre diferentes sistemas operativos, por exemplo, Android e iOS, que devo ter em conta?",
+    "answer": "O Google Minesweeper é principalmente um jogo baseado na web, o que significa que deve funcionar em qualquer dispositivo com um navegador web (Android ou iOS). Alguns navegadores mais antigos podem apresentar problemas de compatibilidade, mas estes são raros. Não existem problemas persistentes e frequentemente relatados de incompatibilidade entre plataformas de SO que limitem as funcionalidades básicas, desde que o navegador esteja atualizado. Se o jogo apresentar lentidão, tente limpar a cache do seu navegador."
+  },
+  {
+    "question": "Existem temas ou ovos de Páscoa ocultos no Google Minesweeper que alteram a aparência ou a funcionalidade do jogo para jogadores experientes?",
+    "answer": "Embora a jogabilidade de base permaneça consistente, algumas versões do Google Minesweeper (ou alguns plugins de navegador) podem incluir opções de tema. Algumas versões permitem jogar com emojis personalizados em vez de números, alterando a visualização. Infelizmente, estes ovos de Páscoa e skins não alteram a funcionalidade e são apenas detalhes visuais."
+  }
+]

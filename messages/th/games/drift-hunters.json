@@ -1,0 +1,77 @@
+{
+  "drift-hunters": {
+    "title": "นักล่าการลอยตัว:สัมผัสความตื่นเต้นของการลอยตัวออนไลน์",
+    "slogan": "เชี่ยวชาญศิลปะการแข่งรถลอยตัวใน Drift Hunters!",
+    "description": "เตรียมพร้อมสำหรับการแข่งรถ 3 มิติออนไลน์สุดเข้มข้นกับ Drift Hunters! สัมผัสความตื่นเต้นของการลอยตัวด้วยรถสปอร์ตคลาสสิกและโมเดิร์น ปรับแต่งรถของคุณและพิชิตสนามแข่งที่ท้าทาย เล่น Drift Hunters ฟรีตอนนี้!",
+    "Loading": {
+      "title": "กำลังโหลด Drift Hunters"
+    },
+    "Navbar": {
+      "title": "นำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์มิตรภาพ",
+      "articleList": "รายการบทความ",
+      "home": "หน้าแรก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "Drift Hunters",
+      "description": "Drift Hunters เป็นเกมแข่งรถลอยตัว 3 มิติออนไลน์",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ลงในคลิปบอร์ดเรียบร้อยแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Drift Hunters",
+      "whatIsTitle": "Drift Hunters คืออะไร?",
+      "whatIsDescription": "Drift Hunters เป็นเกมแข่งรถลอยตัว 3 มิติออนไลน์ที่คุณสามารถลอยตัวด้วยรถคลาสสิก!",
+      "howToPlayTitle": "วิธีการเล่น",
+      "howToPlayStep1": "ใช้แป้นพิมพ์หรือปุ่มควบคุมบนหน้าจอเพื่อควบคุมรถของคุณ",
+      "howToPlayStep2": "เชี่ยวชาญการเบรก การเร่งความเร็ว และการปรับมุมเพื่อการลอยตัวที่ราบรื่น",
+      "howToPlayStep3": "แข่งขันในโหมดต่างๆ เช่น โหมดอิสระหรือการต่อสู้ลอยตัว",
+      "keyFeaturesTitle": "คุณสมบัติสำคัญ",
+      "feature1Title": "ตัวเลือกการเลือกคันรถที่ครอบคลุม",
+      "feature1Description": "เลือกจากรถลอยตัวกว่า 25 คัน รวมถึงรถสปอร์ตคลาสสิกและซูเปอร์คาร์สมัยใหม่ใน Drift Hunters",
+      "feature2Title": "การปรับแต่งรายละเอียดสูง",
+      "feature2Description": "ปรับแต่งประสิทธิภาพและรูปลักษณ์ของรถของคุณด้วยการอัพเกรดเครื่องยนต์และการปรับแต่งภาพลักษณ์",
+      "feature3Title": "สนามแข่งที่หลากหลาย",
+      "feature3Description": "สัมผัสกับสนามแข่งที่ไม่เหมือนใคร 10 สนาม ตั้งแต่พื้นที่โล่งจนถึงถนนในเมืองที่คดเคี้ยว",
+      "feature4Title": "ฟิสิกส์สมจริง",
+      "feature4Description": "เพลิดเพลินไปกับประสบการณ์การลอยตัวที่ท้าทายแต่คุ้มค่าด้วยการจำลองฟิสิกส์ขั้นสูงใน Drift Hunters"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นของผู้เล่น"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

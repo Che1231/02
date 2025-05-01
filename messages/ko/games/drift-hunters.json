@@ -1,0 +1,77 @@
+{
+  "drift-hunters": {
+    "title": "드리프트 헌터: 온라인 드리프트의 짜릿함을 경험하세요",
+    "slogan": "드리프트 헌터에서 드리프트 레이싱의 기술을 완성하세요!",
+    "description": "드리프트 헌터로 격렬한 온라인 3D 레이싱에 참여하세요! 클래식 및 현대 스포츠카를 이용하여 드리프팅의 짜릿함을 경험하세요. 차량을 커스터마이즈하고 난이도 높은 트랙을 정복하세요. 지금 무료로 드리프트 헌터를 플레이하세요!",
+    "Loading": {
+      "title": "드리프트 헌터 로딩 중"
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "드리프트 헌터",
+      "description": "드리프트 헌터는 온라인 3D 자동차 드리프트 게임입니다.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "드리프트 헌터",
+      "whatIsTitle": "드리프트 헌터는 무엇인가요?",
+      "whatIsDescription": "드리프트 헌터는 아이콘적인 자동차를 드리프트할 수 있는 온라인 3D 자동차 드리프트 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "키보드 또는 화면 제어를 사용하여 차량을 조작하세요.",
+      "howToPlayStep2": "부드러운 드리프트를 위해 제동, 가속 페달 조절 및 각도 조정을 마스터하세요.",
+      "howToPlayStep3": "자유 모드 또는 드리프트 대전과 같은 다양한 모드에서 경쟁하세요.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "다양한 자동차 선택",
+      "feature1Description": "드리프트 헌터는 클래식 스포츠카와 현대 슈퍼카를 포함한 25대 이상의 드리프트 자동차를 선택할 수 있습니다.",
+      "feature2Title": "세부적인 커스터마이징",
+      "feature2Description": "엔진 업그레이드와 시각적 수정을 통해 자동차 성능과 외관을 세밀하게 조정하세요.",
+      "feature3Title": "다양한 트랙",
+      "feature3Description": "개방된 공간에서부터 구불구불한 도시 거리까지, 10개의 독특한 트랙을 경험하세요.",
+      "feature4Title": "현실적인 물리 엔진",
+      "feature4Description": "드리프트 헌터의 고급 물리 시뮬레이션으로 도전적이면서도 보람 있는 드리프트 경험을 만끽하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

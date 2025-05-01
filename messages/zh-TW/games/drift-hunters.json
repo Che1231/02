@@ -1,0 +1,77 @@
+{
+  "drift-hunters": {
+    "title": "漂移獵人：體驗線上漂移的刺激",
+    "slogan": "在漂移獵人中掌握漂移賽車的藝術！",
+    "description": "準備好迎接漂移獵人的激烈線上 3D 賽車！體驗經典和現代跑車的漂移快感。客製化你的座駕，征服挑戰性的賽道。現在免費玩漂移獵人！",
+    "Loading": {
+      "title": "正在載入漂移獵人"
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "漂移獵人",
+      "description": "漂移獵人是一款線上 3D 車輛漂移遊戲。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "漂移獵人",
+      "whatIsTitle": "漂移獵人是什麼？",
+      "whatIsDescription": "漂移獵人是一款線上 3D 車輛漂移遊戲，讓你漂移經典車款！",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "使用鍵盤或螢幕控制來控制你的車輛。",
+      "howToPlayStep2": "熟練掌握制動、油門控制和角度調整以完成順暢的漂移。",
+      "howToPlayStep3": "參與各種模式，例如自由漫遊或漂移戰鬥。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "豐富的車輛選擇",
+      "feature1Description": "在漂移獵人中選擇超過 25 種漂移車輛，包括經典跑車和現代超級跑車。",
+      "feature2Title": "詳細的客製化",
+      "feature2Description": "透過引擎升級和視覺修改，精細調整你的車輛性能和外觀。",
+      "feature3Title": "多樣化的賽道",
+      "feature3Description": "體驗 10 條獨特的賽道，從開闊空間到蜿蜒的城市街道。",
+      "feature4Title": "真實的物理引擎",
+      "feature4Description": "在漂移獵人中體驗具有先進物理模擬的挑戰性且令人滿意的漂移體驗。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到分類",
+      "viewMore": "查看更多",
+      "page": "頁碼"
+    }
+  }
+}

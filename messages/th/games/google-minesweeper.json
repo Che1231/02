@@ -1,0 +1,77 @@
+{
+  "google-minesweeper": {
+    "title": "เล่น Google Minesweeper ออนไลน์ฟรี - เกมปริศนาคลาสสิก",
+    "slogan": "กวาดพื้นที่โดยไม่ทำให้อีเหมินระเบิดใน Google Minesweeper!",
+    "description": "กำลังมองหาความท้าทายของเกมปริศนาคลาสสิกหรือไม่? Google Minesweeper เป็นตัวเลือกที่สมบูรณ์แบบ! เกมที่น่าสนใจนี้ทดสอบทักษะตรรกะและกลยุทธ์ของคุณ สนุกกับ Google Minesweeper ออนไลน์และหลีกเลี่ยงเหมือนนที่ซ่อนอยู่ทั้งหมด เล่น Google Minesweeper ตอนนี้และดูว่าคุณจะไปไกลแค่ไหน!",
+    "Loading": {
+      "title": "กำลังโหลด Google Minesweeper"
+    },
+    "Navbar": {
+      "title": "แถบนำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์ที่เป็นมิตร",
+      "articleList": "รายการบทความ",
+      "home": "หน้าหลัก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "Google Minesweeper",
+      "description": "Google Minesweeper เป็นเกมปริศนาผู้เล่นคนเดียวออนไลน์ที่คุณต้องกวาดพื้นโดยไม่ทำให้อีเหมินระเบิด",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ลงในคลิปบอร์ดแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google Minesweeper",
+      "whatIsTitle": "Google Minesweeper คืออะไร?",
+      "whatIsDescription": "Google Minesweeper เป็นเกมปริศนาตรรกะคลาสสิกที่คุณต้องกวาดพื้นที่ที่มีเหมือนนซ่อนอยู่ ใช้ทักษะการให้เหตุผลของคุณเพื่อค้นหาตารางที่ปลอดภัยและทำเครื่องหมายเหมือนน",
+      "howToPlayTitle": "วิธีการเล่น",
+      "howToPlayStep1": "เปิดเผยตารางโดยคลิกที่ตาราง ถ้าคุณเปิดเผยเหมือนน เกมจะจบลง",
+      "howToPlayStep2": "คลิกขวา (หรือกดค้างบนมือถือ) เพื่อทำเครื่องหมายตำแหน่งของเหมือนนที่อาจเป็นไปได้",
+      "howToPlayStep3": "ชนะโดยการเปิดเผยตารางทั้งหมดที่ไม่มีเหมือนนหรือทำเครื่องหมายเหมือนนทั้งหมดอย่างถูกต้อง",
+      "keyFeaturesTitle": "คุณสมบัติหลัก",
+      "feature1Title": "ส่วนต่อประสานผู้ใช้ที่เป็นมิตร",
+      "feature1Description": "การควบคุมที่ใช้งานง่ายและกราฟิกที่ชัดเจนทำให้การเล่น Google Minesweeper ง่ายขึ้น",
+      "feature2Title": "ความเข้ากันได้หลายแพลตฟอร์ม",
+      "feature2Description": "เล่น Google Minesweeper บนเดสก์ท็อปและอุปกรณ์มือถือ",
+      "feature3Title": "เข้าถึงได้อย่างรวดเร็ว",
+      "feature3Description": "เริ่มเล่นทันทีโดยค้นหา \"Google Minesweeper\" ในเบราว์เซอร์ของคุณ",
+      "feature4Title": "ระดับความยากหลายระดับ",
+      "feature4Description": "เลือกจากระดับเริ่มต้น กลาง และสูง"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นการเล่นเกม"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

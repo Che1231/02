@@ -1,0 +1,77 @@
+{
+  "google-minesweeper": {
+    "title": "免費線上玩Google掃雷遊戲 - 經典益智遊戲",
+    "slogan": "在Google掃雷中清除所有地雷，避免引爆！",
+    "description": "正在尋找經典益智挑戰？Google掃雷是絕佳選擇！這項引人入勝的遊戲考驗您的邏輯和策略能力。在Google掃雷線上遊戲中享受遊戲樂趣，避開所有隱藏的地雷。現在就玩Google掃雷，看看您能走多遠！",
+    "Loading": {
+      "title": "正在載入Google掃雷"
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "Google掃雷",
+      "description": "Google掃雷是一款線上單人益智遊戲，您需要在不觸發任何地雷的情況下清除棋盤。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google掃雷",
+      "whatIsTitle": "Google掃雷是什麼？",
+      "whatIsDescription": "Google掃雷是一款經典的邏輯益智遊戲，您需要清除包含隱藏地雷的網格。運用您的推理能力揭示安全方格並標記地雷。",
+      "howToPlayTitle": "如何遊戲規則",
+      "howToPlayStep1": "點擊方格揭示方格。如果您揭示地雷，遊戲結束。",
+      "howToPlayStep2": "點擊滑鼠右鍵（或在行動裝置上長按）以標記潛在的地雷位置。",
+      "howToPlayStep3": "在揭示所有沒有地雷的方格或正確標記所有地雷的情況下獲勝。",
+      "keyFeaturesTitle": "主要特點",
+      "feature1Title": "使用者友善介面",
+      "feature1Description": "直觀的控制和清晰的圖形設計使Google掃雷易於遊戲。",
+      "feature2Title": "跨平台相容性",
+      "feature2Description": "在桌上型電腦和行動裝置上玩Google掃雷。",
+      "feature3Title": "快速存取",
+      "feature3Description": "在您的瀏覽器中搜尋「Google掃雷」，即可立即開始遊戲。",
+      "feature4Title": "多種難度等級",
+      "feature4Description": "從初級、中級和高級難度等級中選擇。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦遊戲"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "分類",
+      "noCategories": "找不到分類",
+      "viewMore": "檢視更多",
+      "page": "頁面"
+    }
+  }
+}

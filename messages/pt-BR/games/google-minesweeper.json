@@ -1,0 +1,77 @@
+{
+  "google-minesweeper": {
+    "title": "Jogue o Campo Minado do Google Online Grátis - Um Jogo Clássico de Quebra-Cabeça",
+    "slogan": "Limpe o tabuleiro sem detonar nenhuma mina no Campo Minado do Google!",
+    "description": "Procurando um desafio de quebra-cabeça clássico? O Campo Minado do Google é uma ótima escolha! Este jogo envolvente testa suas habilidades de lógica e estratégia. Aproveite o Campo Minado do Google online e evite todas as minas escondidas. Jogue o Campo Minado do Google agora e veja até onde você chega!",
+    "Loading": {
+      "title": "Carregando o Campo Minado do Google"
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Úteis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Campo Minado do Google",
+      "description": "O Campo Minado do Google é um jogo de quebra-cabeça online para um jogador onde você limpa o tabuleiro sem detonar nenhuma mina.",
+      "iframeTitle": "Pré-visualização do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Campo Minado do Google",
+      "whatIsTitle": "O que é o Campo Minado do Google?",
+      "whatIsDescription": "O Campo Minado do Google é um jogo de quebra-cabeça lógico clássico onde você precisa limpar uma grade contendo minas escondidas. Use suas habilidades de raciocínio para descobrir quadrados seguros e marcar as minas.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Revele os quadrados clicando neles. Se você encontrar uma mina, o jogo termina.",
+      "howToPlayStep2": "Clique com o botão direito do mouse (ou toque e segure no celular) para marcar possíveis locais de minas.",
+      "howToPlayStep3": "Ganhe revelando todos os quadrados sem minas ou marcando corretamente todas as minas.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Interface amigável",
+      "feature1Description": "Controles intuitivos e gráficos claros tornam fácil jogar o Campo Minado do Google.",
+      "feature2Title": "Compatibilidade multiplataforma",
+      "feature2Description": "Jogue o Campo Minado do Google em computadores e dispositivos móveis.",
+      "feature3Title": "Acesso rápido",
+      "feature3Description": "Comece a jogar imediatamente pesquisando \"Campo Minado do Google\" no seu navegador.",
+      "feature4Title": "Múltiplos níveis de dificuldade",
+      "feature4Description": "Escolha entre os níveis Iniciante, Intermediário e Avançado."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

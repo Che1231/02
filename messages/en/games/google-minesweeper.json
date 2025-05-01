@@ -1,0 +1,77 @@
+{
+  "google-minesweeper": {
+    "title": "Play Google Minesweeper Online for Free - A Classic Puzzle Game",
+    "slogan": "Clear the board without detonating any mines in Google Minesweeper!",
+    "description": "Looking for a classic puzzle challenge? Google Minesweeper is a perfect choice! This engaging game tests your logic and strategy skills. Enjoy Google Minesweeper online and avoid all the hidden mines. Play Google Minesweeper now and see how far you can get!",
+    "Loading": {
+      "title": "Loading Google Minesweeper"
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Google Minesweeper",
+      "description": "Google Minesweeper is an online single-player puzzle game where you clear the board without detonating any mines.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google Minesweeper",
+      "whatIsTitle": "What is Google Minesweeper?",
+      "whatIsDescription": "Google Minesweeper is a classic logic puzzle game where you must clear a grid containing hidden mines. Use your reasoning skills to uncover safe squares and flag the mines.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Reveal squares by clicking on them. If you uncover a mine, the game ends.",
+      "howToPlayStep2": "Right-click (or long-press on mobile) to flag potential mine locations.",
+      "howToPlayStep3": "Win by revealing all the squares without mines or correctly flagging all the mines.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "User-Friendly Interface",
+      "feature1Description": "Intuitive controls and clear graphics make it easy to play Google Minesweeper.",
+      "feature2Title": "Cross-Platform Compatibility",
+      "feature2Description": "Play Google Minesweeper on desktop and mobile devices.",
+      "feature3Title": "Quick Access",
+      "feature3Description": "Start playing instantly by searching \"Google Minesweeper\" in your browser.",
+      "feature4Title": "Multiple Difficulty Levels",
+      "feature4Description": "Choose from Beginner, Intermediate, and Advanced levels."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

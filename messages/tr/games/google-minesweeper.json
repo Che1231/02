@@ -1,0 +1,77 @@
+{
+  "google-minesweeper": {
+    "title": "Ücretsiz Oynamak İçin Google Mayın Tarayıcısını Çevrimiçi Oynayın - Klasik Bir Bulmaca Oyunu",
+    "slogan": "Google Mayın Tarayıcısında herhangi bir mayını patlatmadan tahtayı temizleyin!",
+    "description": "Klasik bir bulmaca meydan okuması mı arıyorsunuz? Google Mayın Tarayıcısı mükemmel bir seçim! Bu etkileşimli oyun, mantık ve strateji becerilerinizi test eder. Google Mayın Tarayıcısını çevrimiçi oynayın ve tüm gizli mayınlardan kaçının. Şimdi Google Mayın Tarayıcısını oynayın ve ne kadar ilerleyebileceğinizi görün!",
+    "Loading": {
+      "title": "Google Mayın Tarayıcısını Yükleniyor"
+    },
+    "Navbar": {
+      "title": "Gezinti Çubuğu"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Google Mayın Tarayıcısı",
+      "description": "Google Mayın Tarayıcısı, herhangi bir mayını patlatmadan tahtayı temizlediğiniz çevrimiçi tek oyunculu bir bulmaca oyunudur.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google Mayın Tarayıcısı",
+      "whatIsTitle": "Google Mayın Tarayıcısı Nedir?",
+      "whatIsDescription": "Google Mayın Tarayıcısı, gizli mayınlar içeren bir ızgarayı temizlemeniz gereken klasik bir mantık bulmaca oyunudur. Güvenli kareleri ortaya çıkarmak ve mayınları işaretlemek için akıl yürütme becerilerinizi kullanın.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Kareleri tıklayarak ortaya çıkarın. Bir mayın ortaya çıkardığınızda oyun biter.",
+      "howToPlayStep2": "Potansiyel mayın konumlarını işaretlemek için sağ tıklayın (veya mobilde uzun basın).",
+      "howToPlayStep3": "Mayınlar olmadan tüm kareleri ortaya çıkararak veya tüm mayınları doğru bir şekilde işaretleyerek kazanın.",
+      "keyFeaturesTitle": "Ana Özellikler",
+      "feature1Title": "Kullanıcı Dostu Arabirim",
+      "feature1Description": "Sezgisel kontroller ve net grafikler, Google Mayın Tarayıcısını oynamayı kolaylaştırır.",
+      "feature2Title": "Platformlar Arası Uyum",
+      "feature2Description": "Masaüstü ve mobil cihazlarda Google Mayın Tarayıcısını oynayın.",
+      "feature3Title": "Hızlı Erişim",
+      "feature3Description": "Tarayıcınızda \"Google Mayın Tarayıcısı\" araması yaparak hemen oynamaya başlayın.",
+      "feature4Title": "Çoklu Zorluk Seviyeleri",
+      "feature4Description": "Başlangıç, Orta ve Uzman seviyelerinden seçim yapın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiye Eder"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "google-minesweeper": {
+    "title": "Chơi Google Minesweeper Trực Tuyến Miễn Phí - Một Trò Chơi Đố Vui Cổ Điển",
+    "slogan": "Làm sạch bảng mà không kích nổ bất kỳ quả mìn nào trong Google Minesweeper!",
+    "description": "Bạn đang tìm kiếm một thử thách đố vui cổ điển? Google Minesweeper là một lựa chọn hoàn hảo! Trò chơi hấp dẫn này sẽ thử thách kỹ năng logic và chiến lược của bạn. Thưởng thức Google Minesweeper trực tuyến và tránh tất cả các quả mìn ẩn. Chơi Google Minesweeper ngay bây giờ và xem bạn có thể đi được bao xa!",
+    "Loading": {
+      "title": "Đang tải Google Minesweeper"
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Google Minesweeper",
+      "description": "Google Minesweeper là một trò chơi đố vui trực tuyến dành cho một người chơi, trong đó bạn làm sạch bảng mà không kích nổ bất kỳ quả mìn nào.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào clipboard!",
+      "downloadGame": "Tải xuống trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google Minesweeper",
+      "whatIsTitle": "Google Minesweeper là gì?",
+      "whatIsDescription": "Google Minesweeper là một trò chơi đố vui logic cổ điển, trong đó bạn phải dọn sạch một lưới chứa các quả mìn ẩn. Sử dụng kỹ năng suy luận của bạn để tìm ra các ô an toàn và đánh dấu các quả mìn.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Bật các ô bằng cách nhấp vào chúng. Nếu bạn mở được một quả mìn, trò chơi kết thúc.",
+      "howToPlayStep2": "Nhấp chuột phải (hoặc nhấn giữ trên thiết bị di động) để đánh dấu vị trí đặt mìn tiềm năng.",
+      "howToPlayStep3": "Thắng bằng cách mở tất cả các ô không có mìn hoặc đánh dấu chính xác tất cả các quả mìn.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Giao diện thân thiện với người dùng",
+      "feature1Description": "Các điều khiển trực quan và đồ họa rõ ràng giúp dễ dàng chơi Google Minesweeper.",
+      "feature2Title": "Tương thích đa nền tảng",
+      "feature2Description": "Chơi Google Minesweeper trên máy tính để bàn và thiết bị di động.",
+      "feature3Title": "Truy cập nhanh chóng",
+      "feature3Description": "Bắt đầu chơi ngay lập tức bằng cách tìm kiếm \"Google Minesweeper\" trên trình duyệt của bạn.",
+      "feature4Title": "Nhiều cấp độ khó",
+      "feature4Description": "Chọn từ các cấp độ dễ, trung bình và khó."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Khuyến nghị"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "google-minesweeper": {
+    "title": "Kostenloses Google Minesweeper Online spielen - Ein klassisches Puzzlespiel",
+    "slogan": "Räumen Sie das Spielfeld frei, ohne Minen in Google Minesweeper zu detonieren!",
+    "description": "Auf der Suche nach einer klassischen Rätselherausforderung? Google Minesweeper ist die perfekte Wahl! Dieses fesselnde Spiel testet Ihre Logik- und Strategieweisen. Genießen Sie Google Minesweeper online und vermeiden Sie alle versteckten Minen. Spielen Sie jetzt Google Minesweeper und sehen Sie, wie weit Sie kommen!",
+    "Loading": {
+      "title": "Google Minesweeper lädt"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Google Minesweeper",
+      "description": "Google Minesweeper ist ein Online-Puzzlespiel für Einzelspieler, bei dem Sie das Spielfeld räumen, ohne Minen zu detonieren.",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google Minesweeper",
+      "whatIsTitle": "Was ist Google Minesweeper?",
+      "whatIsDescription": "Google Minesweeper ist ein klassisches Logikrätselspiel, bei dem Sie ein Feld mit versteckten Minen räumen müssen. Verwenden Sie Ihr logisches Denkvermögen, um sichere Felder freizulegen und Minen zu markieren.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Legen Sie Felder frei, indem Sie darauf klicken. Wenn Sie eine Mine freilegen, endet das Spiel.",
+      "howToPlayStep2": "Klicken Sie mit der rechten Maustaste (oder drücken Sie lange auf Mobilgeräten), um potenzielle Minen zu markieren.",
+      "howToPlayStep3": "Gewinnen Sie, indem Sie alle Felder ohne Minen freilegen oder alle Minen korrekt markieren.",
+      "keyFeaturesTitle": "Wichtige Merkmale",
+      "feature1Title": "Benutzerfreundliche Oberfläche",
+      "feature1Description": "Intuitive Steuerung und klare Grafiken erleichtern das Spielen von Google Minesweeper.",
+      "feature2Title": "Plattformübergreifende Kompatibilität",
+      "feature2Description": "Spielen Sie Google Minesweeper auf Desktop- und Mobilgeräten.",
+      "feature3Title": "Schneller Zugriff",
+      "feature3Description": "Beginnen Sie sofort mit dem Spielen, indem Sie \"Google Minesweeper\" in Ihrem Browser suchen.",
+      "feature4Title": "Mehrere Schwierigkeitsstufen",
+      "feature4Description": "Wählen Sie zwischen den Schwierigkeitsstufen Anfänger, Mittelstufe und Fortgeschrittene."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

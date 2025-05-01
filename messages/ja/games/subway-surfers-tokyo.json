@@ -1,0 +1,77 @@
+{
+  "subway-surfers-tokyo": {
+    "title": "東京の地下鉄サファリ：無料オンラインで東京の街を駆け抜けろ",
+    "slogan": "東京の活気あふれる街を駆け抜けろ！",
+    "description": "東京地下鉄サファリ、エキサイティングな無限ランニングゲームを体験！象徴的な場所を探索し、コインを集め、電車を避けましょう！東京地下鉄サファリを無料でプレイして、東京の独特の魅力を発見してください。東京地下鉄サファリは無限の楽しみを提供します！",
+    "Loading": {
+      "title": "東京地下鉄サファリを読み込み中"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "東京地下鉄サファリ",
+      "description": "東京の地下鉄サファリワールドツアーに参加しましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "東京地下鉄サファリ",
+      "whatIsTitle": "東京地下鉄サファリとは？",
+      "whatIsDescription": "東京地下鉄サファリは、日本の東京の仮想複製を舞台にしたランニングゲームです。電車を避け、コインを集め、キャラクターをアンロックしましょう！",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "レーンを変更するには、左または右にスワイプします。",
+      "howToPlayStep2": "障害物を飛び越えるには、上にスワイプします。",
+      "howToPlayStep3": "障害物の下をすり抜けるには、下にスワイプします。",
+      "keyFeaturesTitle": "主な機能",
+      "feature1Title": "東京を探索する",
+      "feature1Description": "象徴的なランドマークで東京の独特な雰囲気を体験してください。",
+      "feature2Title": "限定キャラクター",
+      "feature2Description": "はるみなどの特別なキャラクターと、東京版限定の衣装をアンロックしましょう。",
+      "feature3Title": "限定版スケートボード",
+      "feature3Description": "桜と竹刀などの東京をテーマにしたデザインの限定スケートボードに乗ることができます。",
+      "feature4Title": "スペシャルイベント",
+      "feature4Description": "桜の祭りなどの独特の日本テーマのイベントに参加しましょう。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームのコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

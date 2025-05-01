@@ -1,0 +1,77 @@
+{
+  "drift-hunters": {
+    "title": "漂移猎手：体验在线漂移的刺激",
+    "slogan": "在漂移猎手中掌握漂移赛车的艺术！",
+    "description": "准备好体验漂移猎手的激烈在线3D赛车吧！感受经典和现代跑车的漂移乐趣。定制你的座驾，征服具有挑战性的赛道。现在免费玩漂移猎手！",
+    "Loading": {
+      "title": "正在加载漂移猎手"
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "漂移猎手",
+      "description": "漂移猎手是一款在线3D漂移赛车游戏。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "漂移猎手",
+      "whatIsTitle": "漂移猎手是什么？",
+      "whatIsDescription": "漂移猎手是一款在线3D漂移赛车游戏，让你体验驾驶经典赛车的漂移！",
+      "howToPlayTitle": "如何玩游戏",
+      "howToPlayStep1": "使用键盘或屏幕控件控制你的车辆。",
+      "howToPlayStep2": "掌握制动、油门控制和角度调整，实现流畅的漂移。",
+      "howToPlayStep3": "参加各种模式，例如自由漫游或漂移战斗。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "丰富的车型选择",
+      "feature1Description": "漂移猎手提供了超过25款漂移车辆选择，包括经典跑车和现代超级跑车。",
+      "feature2Title": "详细的定制选项",
+      "feature2Description": "通过引擎升级和外观修改，精细调整你的爱车的性能和外观。",
+      "feature3Title": "多样化的赛道",
+      "feature3Description": "体验10条独特的赛道，从开阔的空间到蜿蜒的城市街道。",
+      "feature4Title": "逼真的物理引擎",
+      "feature4Description": "在漂移猎手逼真的物理引擎模拟下，享受充满挑战性和回报的漂移体验。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏列表"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页面"
+    }
+  }
+}

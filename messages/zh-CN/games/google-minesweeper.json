@@ -1,0 +1,77 @@
+{
+  "google-minesweeper": {
+    "title": "免费在线玩谷歌扫雷 - 经典益智游戏",
+    "slogan": "在 Google 扫雷游戏中清除棋盘，避免引爆任何地雷！",
+    "description": "正在寻找经典的益智挑战？Google 扫雷是一个不错的选择！这款引人入胜的游戏考验你的逻辑和策略技能。在线玩 Google 扫雷，避开所有隐藏的地雷。现在玩 Google 扫雷，看看你能走多远！",
+    "Loading": {
+      "title": "正在加载 Google 扫雷"
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一步",
+      "previous": "上一步"
+    },
+    "HomeIframe": {
+      "title": "谷歌扫雷",
+      "description": "Google 扫雷是一款在线单人益智游戏，你需要清除棋盘上的所有方格，避免引爆任何地雷。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL 已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "谷歌扫雷",
+      "whatIsTitle": "什么是谷歌扫雷？",
+      "whatIsDescription": "Google 扫雷是一款经典的逻辑益智游戏，你必须清除包含隐藏地雷的网格。利用你的推理能力发现安全方格并标记地雷。",
+      "howToPlayTitle": "如何玩游戏",
+      "howToPlayStep1": "通过点击方格来揭示方格。如果你发现地雷，游戏结束。",
+      "howToPlayStep2": "右键单击（或在移动设备上长按）以标记潜在的地雷位置。",
+      "howToPlayStep3": "通过揭示所有没有地雷的方格或正确标记所有地雷来获胜。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "用户友好界面",
+      "feature1Description": "直观的控件和清晰的图形使轻松玩Google扫雷。",
+      "feature2Title": "跨平台兼容性",
+      "feature2Description": "可以在台式机和移动设备上玩 Google 扫雷。",
+      "feature3Title": "快速访问",
+      "feature3Description": "在浏览器中搜索“Google 扫雷”即可立即开始游戏。",
+      "feature4Title": "多种难度等级",
+      "feature4Description": "选择新手、中等和高级难度等级。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到任何分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

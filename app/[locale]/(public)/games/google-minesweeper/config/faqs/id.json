@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Google Minesweeper: Bagaimana cara memulai permainan tanpa langsung mengklik ranjau sebagai pemain baru?",
+    "answer": "Sebagai pemula, memulai Google Minesweeper mungkin terasa seperti medan ranjau! Pendekatan paling aman adalah dengan mengklik kotak acak di awal. Klik pertama tidak akan pernah menjadi ranjau, Google Minesweeper akan memindahkan ranjau di bawah klik pertama Anda ke tempat lain di papan. Ini menjamin awal yang aman dan membantu Anda mulai menyimpulkan posisi ranjau. Bayangkan itu seperti langkah gratis untuk mulai membuka teka-teki!"
+  },
+  {
+    "question": "Apa yang diwakili oleh setiap angka di Google Minesweeper dan bagaimana saya dapat menggunakannya untuk menemukan ranjau?",
+    "answer": "Di Google Minesweeper, setiap angka menunjukkan jumlah ranjau di sekitar kotak tersebut dalam delapan kotak yang berdekatan (secara horizontal, vertikal, dan diagonal). Misalnya, jika sebuah kotak menampilkan '1', itu berarti ada satu ranjau tersembunyi di kotak-kotak yang langsung bersentuhan dengannya. Katakanlah Anda menemukan '1' dengan hanya satu kotak tersembunyi di sebelahnya, kotak tersembunyi itu pasti berisi ranjau. Tandakan! Ini adalah prinsip dasar. Secara bertahap selesaikan papan."
+  },
+  {
+    "question": "Google Minesweeper: Mengapa permainan terkadang berakhir meskipun saya belum mengklik ranjau?",
+    "answer": "Permainan berakhir sebelum waktunya jika Anda mengklik kotak aman terakhir tanpa menandai semua ranjau. Meskipun Anda secara teknis tidak mengklik ranjau dalam klik *terakhir*, permainan menginterpretasikannya sebagai solusi yang tidak lengkap. Ini karena permainan mengharapkan Anda mengidentifikasi *semua* ranjau. Bayangkan Anda memiliki satu kotak tersisa dan itu aman. Jika Anda mengkliknya *sebelum* menandai semua ranjau, kondisi kemenangan tidak terpenuhi. Pastikan setiap ranjau yang dikonfirmasi memiliki tanda bendera sebelum mengekspos kotak aman terakhir."
+  },
+  {
+    "question": "Di luar klik dasar, strategi lanjutan apa yang dapat saya gunakan di Google Minesweeper untuk membersihkan papan lebih cepat, memanfaatkan teknik untuk mengidentifikasi pola ranjau? (Minesweeper)",
+    "answer": "Untuk pemain berpengalaman, pola tertentu menawarkan solusi cepat. LANGKAH 1: Identifikasi pola '1-2-1'. Ini berarti tiga kotak berdekatan, disusun dalam satu baris, dengan angka satu, dua, dan satu masing-masing. Anda dapat menyimpulkan bahwa kotak yang berdekatan secara diagonal ke '2' dan tegak lurus terhadap '1' berisi ranjau. LANGKAH 2: Cari pola '1-2-2-1'. Dalam empat kotak yang disusun secara linier, di mana dua '2' tengah akan memiliki ranjau di atas atau di bawah untuk memenuhi persyaratan '2' awal. LANGKAH 3: Berlatih menggunakan teknik untuk membuat deduksi cepat berdasarkan pola-pola ini untuk mempercepat permainan Anda."
+  },
+  {
+    "question": "Di Google Minesweeper, bagaimana cara membersihkan area besar kotak aman dengan cepat, dan teknik mouse apa yang terlibat?",
+    "answer": "Pembersihan yang efisien melibatkan teknik 'akord' atau 'mengakord'. Jika Anda memiliki kotak bernomor yang sudah memiliki jumlah ranjau yang benar ditandai di sekitarnya, Anda dapat mengklik 'akord' kotak tersebut (biasanya kedua tombol mouse secara bersamaan). Ini secara otomatis akan membersihkan semua kotak di sekitarnya yang tidak bertanda. Jika Anda salah menandai, ini juga akan memicu ranjau dan Anda akan kalah. Dengan menggunakan teknik ini, Anda dapat dengan cepat membersihkan area besar dalam hitungan detik."
+  },
+  {
+    "question": "Google Minesweeper: Saya terus terjebak di akhir permainan. Apa beberapa strategi untuk menghindari tebakan 50/50 ketika hanya beberapa kotak tersisa? Apakah ada cara untuk menghitung probabilitas?",
+    "answer": "Situasi akhir permainan sering kali mengarah pada tebakan 50/50. Kuncinya adalah menganalisis *seluruh* papan, bukan hanya area terdekat. Cari petunjuk dari jauh yang mungkin memengaruhi penempatan ranjau. Misalnya, '1' di sisi berlawanan papan mungkin membatasi lokasi ranjau potensial di dekat area tempat Anda terjebak. Memvisualisasikan semua kemungkinan dan menuliskannya dapat menghilangkan beberapa probabilitas dan mengarahkan Anda ke pilihan yang lebih aman. Sayangnya, situasi 50/50 memang terkadang terjadi; anggap itu sebagai bagian intrinsik dari tantangan permainan."
+  },
+  {
+    "question": "Google Minesweeper: Algoritma apa yang digunakan untuk menghasilkan papan awal, dan bagaimana cara memastikan setiap kali teka-teki dapat diselesaikan?",
+    "answer": "Google Minesweeper, dan sebagian besar implementasi Minesweeper, menggunakan generator angka acak semu (PRNG) untuk menempatkan ranjau awalnya. Papan tidak benar-benar acak, sehingga terkadang pola dapat dieksploitasi. Memastikan kelarutan lebih kompleks. Beberapa implementasi menggunakan algoritma yang mencegah konfigurasi ranjau yang tidak mungkin atau mengacak ulang papan sampai keadaan yang dapat diselesaikan tercapai; beberapa algoritma menunda prosedur penanaman ranjau acak sampai *setelah* klik pertama. Ini menjamin bahwa klik pertama Anda selalu merupakan kotak aman, dan distribusi ranjau kemudian diacak berdasarkan ruang papan yang tersisa."
+  },
+  {
+    "question": "Apa yang terjadi saat saya mengubah pengaturan kesulitan di Google Minesweeper? Parameter spesifik apa, seperti kepadatan ranjau, yang terpengaruh, dan seberapa besar?",
+    "answer": "Pengaturan kesulitan terutama memengaruhi ukuran papan dan jumlah ranjau. Pemula biasanya berarti papan 9x9 dengan 10 ranjau, Menengah adalah 16x16 dengan 40 ranjau, dan Ahli adalah 16x30 dengan 99 ranjau. Kepadatan ranjau (ranjau per kotak) meningkat seiring kesulitan. Anda dapat melihatnya dalam tabel konfigurasi, yang memungkinkan Anda membandingkan Pemula (10/81 = 0,123) dengan Ahli (99/480 = 0,206). Memahami kepadatan ini membantu menilai risiko yang terlibat dalam mengklik setiap kotak dan menginformasikan strategi permainan Anda. Kepadatan yang lebih tinggi membutuhkan lebih banyak penandaan strategis."
+  },
+  {
+    "question": "Google Minesweeper: Apakah versi Google Minesweeper berfungsi di semua perangkat, dan apakah ada masalah kompatibilitas yang diketahui yang harus saya ketahui di antara sistem operasi yang berbeda, misalnya, Android dan iOS?",
+    "answer": "Google Minesweeper terutama merupakan permainan berbasis browser, yang berarti seharusnya berfungsi di perangkat apa pun dengan browser web (Android atau iOS). Beberapa browser yang lebih lama mungkin mengalami masalah kompatibilitas, tetapi ini jarang terjadi. Tidak ada masalah ketidaksesuaian yang terus-menerus dan umum yang dilaporkan di antara platform OS yang membatasi fungsionalitas dasar selama browser diperbarui. Jika permainan mengalami lag, coba bersihkan cache browser Anda."
+  },
+  {
+    "question": "Apakah ada tema atau telur Paskah tersembunyi di Google Minesweeper yang mengubah tampilan atau fungsionalitas permainan untuk pemain berpengalaman?",
+    "answer": "Meskipun gameplay inti tetap konsisten, beberapa versi Google Minesweeper (atau ekstensi browser tertentu) mungkin menyertakan opsi tema. Beberapa versi memungkinkan Anda bermain dengan emoji kustom alih-alih angka, mengubah tampilan visual. Sayangnya, telur Paskah dan kulit ini tidak mengubah fungsionalitas dan hanyalah hiasan visual."
+  }
+]

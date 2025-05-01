@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Google Minesweeper: Làm thế nào để bắt đầu một trò chơi mà không nhấp chuột ngay vào một quả mìn như một người chơi mới?",
+    "answer": "Đối với người mới bắt đầu, việc bắt đầu Google Minesweeper có thể giống như một mê cung các quả mìn! Cách an toàn nhất là nhấp vào một ô vuông ngẫu nhiên ban đầu. Nhấp chuột đầu tiên chắc chắn sẽ không phải là một quả mìn; Google Minesweeper sẽ di chuyển bất kỳ quả mìn nào nằm dưới ô vuông bạn nhấp chuột đầu tiên đến một vị trí khác trên bảng. Điều này đảm bảo một khởi đầu an toàn và giúp bạn bắt đầu suy luận vị trí của các quả mìn. Hãy xem đó như một nước đi miễn phí để bắt đầu giải quyết câu đố!"
+  },
+  {
+    "question": "Mỗi số trong Google Minesweeper đại diện cho điều gì và làm thế nào tôi có thể sử dụng chúng để tìm các quả mìn?",
+    "answer": "Trong Google Minesweeper, mỗi số chỉ số lượng quả mìn xung quanh ô vuông đó trong tám ô vuông liền kề (nằm ngang, thẳng đứng và chéo). Ví dụ, nếu một ô vuông hiển thị '1', có nghĩa là có một quả mìn ẩn trong các ô vuông tiếp xúc trực tiếp với nó. Giả sử bạn phát hiện một '1' với chỉ một ô vuông ẩn bên cạnh, ô vuông ẩn đó phải chứa một quả mìn. Đánh dấu nó! Đây là nguyên tắc cơ bản. Dần dần di chuyển qua bảng."
+  },
+  {
+    "question": "Google Minesweeper: Tại sao trò chơi đôi khi kết thúc ngay cả khi tôi chưa nhấp vào một quả mìn?",
+    "answer": "Trò chơi kết thúc sớm nếu bạn nhấp vào ô vuông an toàn cuối cùng mà không đánh dấu tất cả các quả mìn ban đầu. Mặc dù về mặt kỹ thuật bạn không nhấp vào một quả mìn trong nhấp chuột *cuối cùng* đó, trò chơi coi đó như một giải pháp chưa hoàn chỉnh. Điều này là bởi vì trò chơi mong đợi bạn xác định *tất cả* các quả mìn. Hãy tưởng tượng bạn chỉ còn lại một ô vuông và nó an toàn. Nếu bạn nhấp vào nó *trước* khi đánh dấu tất cả các quả mìn, điều kiện thắng không được đáp ứng. Hãy chắc chắn rằng mỗi quả mìn đã xác nhận được đánh dấu trước khi phơi bày ô vuông an toàn cuối cùng."
+  },
+  {
+    "question": "Ngoài các cú nhấp chuột cơ bản, tôi có thể sử dụng những chiến lược nâng cao nào trong Google Minesweeper để dọn dẹp các bảng nhanh hơn, bằng cách sử dụng các kỹ thuật để xác định các mẫu mìn? (Minesweeper)",
+    "answer": "Đối với những người chơi có kinh nghiệm, một số mẫu sẽ giúp giải quyết nhanh chóng. BƯỚC 1: Xác định các mẫu '1-2-1'. Điều này có nghĩa là ba ô vuông liền kề, được sắp xếp thành một hàng, với các số một, hai và một tương ứng. Bạn có thể suy luận rằng các ô vuông chéo liền kề với '2' và vuông góc với các '1' chứa các quả mìn. BƯỚC 2: Tìm các mẫu '1-2-2-1'. Trong bốn ô vuông được sắp xếp theo đường thẳng, trong đó hai '2' ở giữa sẽ có các quả mìn trên hoặc dưới để thỏa mãn các yêu cầu ban đầu của '2'. BƯỚC 3: Thực hành sử dụng các kỹ thuật để thực hiện các suy luận nhanh chóng dựa trên các mẫu này để làm cho trò chơi của bạn diễn ra nhanh hơn."
+  },
+  {
+    "question": "Trong Google Minesweeper, làm thế nào để bạn hiệu quả dọn dẹp các khu vực lớn các ô vuông an toàn nhanh chóng, và những kỹ thuật chuột nào được sử dụng?",
+    "answer": "Việc dọn dẹp hiệu quả bao gồm kỹ thuật 'hòa âm' hoặc 'dồn'. Nếu bạn có một ô vuông có số đã có số lượng quả mìn chính xác xung quanh nó, bạn có thể nhấp 'hòa âm' vào ô vuông đó (thường là cả hai nút chuột cùng một lúc). Điều này sẽ tự động xóa tất cả các ô vuông xung quanh chưa được đánh dấu. Nếu bạn đánh dấu sai, điều này cũng sẽ kích hoạt quả mìn và bạn sẽ thua. Sử dụng kỹ thuật này, bạn có thể nhanh chóng dọn dẹp các khu vực lớn trong vài giây."
+  },
+  {
+    "question": "Google Minesweeper: Tôi cứ bị mắc kẹt trong trò chơi cuối. Có những chiến lược nào để tránh các phỏng đoán 50/50 khi chỉ còn một vài ô vuông? Có cách nào để tính toán xác suất không?",
+    "answer": "Các tình huống trong giai đoạn cuối của trò chơi thường dẫn đến những phỏng đoán 50/50. Chìa khóa là phân tích *toàn bộ* bảng, không chỉ khu vực liền kề. Tìm kiếm các manh mối ở xa hơn có thể ảnh hưởng đến việc đặt các quả mìn. Ví dụ, một '1' ở phía đối diện của bảng có thể hạn chế các vị trí đặt quả mìn tiềm năng gần khu vực bạn bị mắc kẹt. Việc hình dung tất cả các khả năng và ghi chúng xuống có thể loại bỏ một số xác suất và dẫn bạn đến một lựa chọn an toàn hơn. Thật không may, đôi khi các tình huống 50/50 thực sự xảy ra; hãy coi chúng là một phần của thách thức của trò chơi."
+  },
+  {
+    "question": "Google Minesweeper: Các thuật toán nào được sử dụng để tạo bảng ban đầu và làm thế nào để nó đảm bảo trò chơi có thể giải được mỗi lần?",
+    "answer": "Google Minesweeper, và hầu hết các phiên bản của Minesweeper, sử dụng máy phát số ngẫu nhiên giả (PRNG) để đặt các quả mìn ban đầu. Bảng không thực sự ngẫu nhiên, vì vậy đôi khi các mẫu có thể bị khai thác. Việc đảm bảo có thể giải quyết phức tạp hơn. Một số phiên bản sử dụng các thuật toán để ngăn chặn các cấu hình quả mìn không thể hoặc sắp xếp lại bảng cho đến khi đạt được trạng thái giải quyết được; một số thuật toán trì hoãn thủ tục đặt quả mìn ngẫu nhiên cho đến *sau* cú nhấp chuột đầu tiên. Điều này đảm bảo rằng nhấp chuột đầu tiên của bạn luôn là một ô vuông an toàn, và sau đó phân bổ lại quả mìn ngẫu nhiên dựa trên các ô vuông còn lại trên bảng."
+  },
+  {
+    "question": "Điều gì xảy ra khi tôi thay đổi cài đặt độ khó trong Google Minesweeper? Những thông số cụ thể nào, như mật độ mìn, bị ảnh hưởng và như thế nào?",
+    "answer": "Các cài đặt độ khó chủ yếu ảnh hưởng đến kích thước bảng và số lượng quả mìn. Người mới bắt đầu thường có nghĩa là một bảng 9x9 với 10 quả mìn, Trung bình là 16x16 với 40 quả mìn, và Chuyên gia là 16x30 với 99 quả mìn. Mật độ mìn (mìn trên mỗi ô vuông) tăng lên theo độ khó. Bạn có thể thấy điều này trong bảng cấu hình, cho phép bạn so sánh Người mới bắt đầu (10/81 = 0,123) với Chuyên gia (99/480 = 0,206). Việc hiểu mật độ này giúp đánh giá rủi ro khi nhấp vào từng ô vuông và thông báo chiến lược trò chơi của bạn. Mật độ cao hơn đòi hỏi phải đánh dấu chiến lược hơn."
+  },
+  {
+    "question": "Google Minesweeper: Phiên bản Google Minesweeper có hoạt động trên tất cả các thiết bị không và có các vấn đề tương thích đã biết nào mà tôi nên lưu ý giữa các hệ điều hành khác nhau, ví dụ như Android và iOS?",
+    "answer": "Google Minesweeper chủ yếu là một trò chơi dựa trên trình duyệt, có nghĩa là nó nên hoạt động trên bất kỳ thiết bị nào có trình duyệt web (Android hoặc iOS). Một số trình duyệt cũ hơn có thể gặp phải sự cố tương thích, nhưng đây là những trường hợp hiếm gặp. Không có bất kỳ vấn đề không ổn định và thường xuyên được báo cáo về khả năng tương thích giữa các nền tảng hệ điều hành nào hạn chế chức năng cơ bản miễn là trình duyệt được cập nhật. Nếu trò chơi bị trễ, hãy thử xóa bộ nhớ cache của trình duyệt."
+  },
+  {
+    "question": "Có bất kỳ chủ đề ẩn hoặc trứng phục sinh nào trong Google Minesweeper thay đổi hình thức hay chức năng của trò chơi cho những người chơi có kinh nghiệm không?",
+    "answer": "Trong khi lối chơi cốt lõi vẫn giữ nguyên, một số phiên bản của Google Minesweeper (hoặc một số tiện ích mở rộng trình duyệt) có thể bao gồm các tùy chọn chủ đề. Một số phiên bản cho phép bạn chơi với biểu tượng cảm xúc tùy chỉnh thay vì số, thay đổi hình ảnh. Thật không may, những quả trứng phục sinh và lớp da này không thay đổi chức năng mà chỉ là điểm nhấn về hình ảnh."
+  }
+]

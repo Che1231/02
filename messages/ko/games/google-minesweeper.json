@@ -1,0 +1,77 @@
+{
+  "google-minesweeper": {
+    "title": "구글 마인스위퍼 무료 온라인 플레이 - 고전 퍼즐 게임",
+    "slogan": "구글 마인스위퍼에서 광산을 폭발시키지 않고 보드를 정리하세요!",
+    "description": "고전적인 퍼즐 도전을 찾으십니까? 구글 마인스위퍼가 완벽한 선택입니다! 이 매력적인 게임은 귀하의 논리 및 전략 기술을 테스트합니다. 구글 마인스위퍼 온라인으로 즐기고 모든 숨겨진 광산을 피하십시오. 지금 구글 마인스위퍼를 플레이하고 얼마나 멀리 갈 수 있는지 확인하세요!",
+    "Loading": {
+      "title": "구글 마인스위퍼 로딩 중"
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "내용",
+      "help": "도움말",
+      "friendlyLinks": "유용한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "구글 마인스위퍼",
+      "description": "구글 마인스위퍼는 광산을 폭발시키지 않고 보드를 정리하는 온라인 싱글 플레이어 퍼즐 게임입니다.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "구글 마인스위퍼",
+      "whatIsTitle": "구글 마인스위퍼는 무엇인가요?",
+      "whatIsDescription": "구글 마인스위퍼는 숨겨진 광산이 들어있는 그리드를 정리해야 하는 고전적인 논리 퍼즐 게임입니다. 귀하의 추론력을 활용하여 안전한 사각형을 발견하고 광산을 표시하십시오.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "정사각형을 클릭하여 표시하십시오. 만약 광산을 발견하면 게임이 종료됩니다.",
+      "howToPlayStep2": "잠재적인 광산 위치를 표시하려면 마우스 오른쪽 버튼을 클릭(또는 모바일 장치에서 길게 누르세요).",
+      "howToPlayStep3": "광산이 없는 모든 정사각형을 표시하거나 모든 광산을 올바르게 표시하여 승리하십시오.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "사용자 친화적인 인터페이스",
+      "feature1Description": "직관적인 컨트롤과 명확한 그래픽으로 구글 마인스위퍼를 쉽게 플레이할 수 있습니다.",
+      "feature2Title": "다중 플랫폼 호환성",
+      "feature2Description": "데스크톱 및 모바일 장치에서 구글 마인스위퍼를 플레이하십시오.",
+      "feature3Title": "빠른 접근",
+      "feature3Description": "브라우저에서 \"구글 마인스위퍼\"를 검색하여 즉시 게임을 시작할 수 있습니다.",
+      "feature4Title": "다양한 난이도 레벨",
+      "feature4Description": "초보, 중급 및 고급 레벨 중에서 선택하십시오."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}
