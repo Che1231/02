@@ -1,0 +1,77 @@
+{
+  "google-minesweeper": {
+    "title": "Грати в Google Minesweeper онлайн безкоштовно – класична гра-головоломка",
+    "slogan": "Очистіть поле, не підриваючи жодної міни в Google Minesweeper!",
+    "description": "Шукаєте класичну головоломку? Google Minesweeper – ідеальний вибір! Ця захоплююча гра перевіряє ваші логічні та стратегічні навички. Насолоджуйтесь Google Minesweeper онлайн та уникайте всіх прихованих мін. Грайте в Google Minesweeper зараз і подивіться, наскільки далеко ви зможете зайти!",
+    "Loading": {
+      "title": "Завантаження Google Minesweeper"
+    },
+    "Navbar": {
+      "title": "Навігація"
+    },
+    "Common": {
+      "createAt": "Створено",
+      "guide": "Посібник",
+      "privacyPolicy": "Політика конфіденційності",
+      "termsOfServices": "Умови використання",
+      "text": "Контент",
+      "help": "Допомога",
+      "friendlyLinks": "Корисні посилання",
+      "articleList": "Список статей",
+      "home": "Головна",
+      "next": "Далі",
+      "previous": "Попередній"
+    },
+    "HomeIframe": {
+      "title": "Google Minesweeper",
+      "description": "Google Minesweeper – онлайн-гра-головоломка для одного гравця, у якій потрібно очистити поле, не підриваючи жодної міни.",
+      "iframeTitle": "Попередній перегляд гри",
+      "fullscreenButton": "Повноекранний режим",
+      "shareButton": "Поділитися",
+      "urlCopied": "Посилання скопійовано в буфер обміну!",
+      "downloadGame": "Завантажити гру",
+      "playGame": "Грати"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google Minesweeper",
+      "whatIsTitle": "Що таке Google Minesweeper?",
+      "whatIsDescription": "Google Minesweeper – класична гра-головоломка на логіку, у якій потрібно очистити поле з прихованими мінами. Використовуйте свої розсудливі навички, щоб розкрити безпечні клітинки та позначити міни.",
+      "howToPlayTitle": "Як грати",
+      "howToPlayStep1": "Розкривайте клітинки, натискаючи на них. Якщо ви розкриєте міну, гра закінчується.",
+      "howToPlayStep2": "Клацніть правою кнопкою миші (або натисніть і утримуйте на мобільних пристроях), щоб позначити можливі місця мін.",
+      "howToPlayStep3": "Переможте, розкривши всі клітинки без мін або правильно позначивши всі міни.",
+      "keyFeaturesTitle": "Основні особливості",
+      "feature1Title": "Інтуїтивно зрозумілий інтерфейс",
+      "feature1Description": "Інтуїтивно зрозумілі елементи керування та чітке зображення полегшують гру в Google Minesweeper.",
+      "feature2Title": "Сумісність з різними платформами",
+      "feature2Description": "Грайте в Google Minesweeper на комп'ютерах і мобільних пристроях.",
+      "feature3Title": "Швидкий доступ",
+      "feature3Description": "Почніть грати миттєво, шукаючи \"Google Minesweeper\" у своєму браузері.",
+      "feature4Title": "Кілька рівнів складності",
+      "feature4Description": "Виберіть рівень складності: «Початковий», «Середній» або «Досвідчений»."
+    },
+    "HomeFAQs": {
+      "title": "Часті запитання"
+    },
+    "HomeRelatedVideo": {
+      "title": "Відео про гру"
+    },
+    "HomeRecommendation": {
+      "title": "Рекомендації"
+    },
+    "HomeComments": {
+      "title": "Коментарі до гри"
+    },
+    "GamePage": {
+      "title": "Всі ігри",
+      "description": "Всі ігри",
+      "games": "Ігри"
+    },
+    "CategoryPage": {
+      "categories": "Категорії",
+      "noCategories": "Категорії не знайдено",
+      "viewMore": "Переглянути більше",
+      "page": "Сторінка"
+    }
+  }
+}

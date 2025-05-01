@@ -1,0 +1,120 @@
+{
+  "name": "Magic Cat Academy",
+  "pagePath": "/games/magic-cat-academy",
+  "pageName": "magic-cat-academy",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://html5-games.io/game/magic_cat/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StalkingPhoenix42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingPhoenix42.png",
+      "content": "OMG, Magic Cat Academy is such a fun game! The art style is super cute, and I love drawing the symbols to cast spells!"
+    },
+    {
+      "author": "SavageKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatana_X.png",
+      "content": "This game, Magic Cat Academy, is surprisingly challenging! I was surprised it hooked me for hours with its simple controls, ngl."
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "Seriously, Magic Cat Academy is adorable. That cartoonish design is on point, and those Halloween vibes are the best!"
+    },
+    {
+      "author": "NoobMaster87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster87.png",
+      "content": "I didn't expect much, but Magic Cat Academy is actually pretty fun. The gameplay is simple, but it gets a bit tough later on, lol."
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "The simple controls make it super easy get into Magic Cat Academy, but get ready, those ghosts are persistent!"
+    },
+    {
+      "author": "PhantomLeviathan99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomLeviathan99.png",
+      "content": "Anyone else obsessed with Magic Cat Academy? The way you draw the symbols is so satisfying. I'm addicted!"
+    },
+    {
+      "author": "NeonRevolver_89",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonRevolver_89.png",
+      "content": "The Halloween theme on Magic Cat Academy is lit! It's visually stunning, and a great short game if you are bored."
+    },
+    {
+      "author": "CosmicKraken43",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicKraken43.png",
+      "content": "I'm surprised by this game. The art style is great and fits the halloween elements perfectly!"
+    },
+    {
+      "author": "StalkingKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingKraken42.png",
+      "content": "Is anyone else playing Magic Cat Academy? The graphics are absolutely fantastic! What a great use of simple mechanics."
+    },
+    {
+      "author": "PhantomKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomKatana_X.png",
+      "content": "Wow, I had no idea Magic Cat Academy was this good! The ease of play is what I really like."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-05-01/images/1746110782475-gn8kje.webp",
+  "page_path": "/games/magic-cat-academy",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Action Game"
+  ],
+  "createdTime": "2025-05-01 22:47:21"
+}

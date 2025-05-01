@@ -1,0 +1,77 @@
+{
+  "magic-cat-academy": {
+    "title": "Online-Magie-Katzen-Akademie spielen – Ein kostenloses Halloween-Spiel",
+    "slogan": "Wirft Zauber und besiegt Geister in der Magie-Katzen-Akademie!",
+    "description": "Tauchen Sie ein in die Magie-Katzen-Akademie, ein bezauberndes Spiel, in dem Sie als Momo gegen unheimliche Geister mit magischen Zaubern verteidigen. Beherrschen Sie das Zeichnen von Symbolen, um die Akademie zu schützen und genießen Sie das entzückende Halloween-Abenteuer. Spielen Sie jetzt die Magie-Katzen-Akademie für ein zauberhaftes Erlebnis!",
+    "Loading": {
+      "title": "Magie-Katzen-Akademie wird geladen"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Leitfaden",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Magie-Katzen-Akademie",
+      "description": "Treten Sie Momo in einem magischen Abenteuer bei, um die Akademie vor Geistern zu retten!",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Über die Magie-Katzen-Akademie",
+      "whatIsTitle": "Was ist die Magie-Katzen-Akademie?",
+      "whatIsDescription": "Die Magie-Katzen-Akademie ist ein Halloween-Webspiel, in dem Sie als Momo, eine magische Katze, die Akademie vor Geistern verteidigen, indem Sie Zauber auf dem Bildschirm zeichnen.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Zeichnen Sie die Symbole, die über den Geistern erscheinen, um Zauber zu wirken.",
+      "howToPlayStep2": "Besiegen Sie alle Geister in jeder Stufe, um voranzukommen.",
+      "howToPlayStep3": "Verwenden Sie spezielle Symbole wie Herzen und Kreise für zusätzliche Effekte!",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
+      "feature1Title": "Charmanter Cartoon-Kunststil",
+      "feature1Description": "Genießen Sie ein visuell ansprechendes Spiel mit leuchtenden Farben und niedlichen Charakterdesigns, perfekt für die Halloween-Saison.",
+      "feature2Title": "Einfaches Gameplay",
+      "feature2Description": "Einfache Steuerung machen es jedem zugänglich, mit Maus oder Touchscreen Symbole zu zeichnen.",
+      "feature3Title": "Zunehmende Schwierigkeit",
+      "feature3Description": "Wenn Sie Fortschritte machen, werden die Zauber komplexer und die Geister schwieriger, was Ihnen eine spannende Herausforderung bietet.",
+      "feature4Title": "Drei einzigartige Geschichten",
+      "feature4Description": "Erleben Sie drei verschiedene Versionen der Magie-Katzen-Akademie, jede mit ihrer eigenen einzigartigen Geschichte und Herausforderungen."
+    },
+    "HomeFAQs": {
+      "title": "Häufig gestellte Fragen"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spiel Kommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Entdecken Sie eine Vielzahl spannender Spiele und Abenteuer für Stunden voller Spaß.",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

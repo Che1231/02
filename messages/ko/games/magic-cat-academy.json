@@ -1,0 +1,77 @@
+{
+  "magic-cat-academy": {
+    "title": "마법 고양이 아카데미 온라인 플레이 - 무료 할로윈 게임",
+    "slogan": "마법 고양이 아카데미에서 주문을 외우고 유령을 물리치세요!",
+    "description": "모모가 마법 주문으로 무시무시한 유령과 맞서 싸우는 매력적인 게임인 마법 고양이 아카데미에 뛰어들어보세요. 아카데미를 지키기 위해 기호를 그리는 법을 익히고 기분 좋은 할로윈 테마의 모험을 즐겨보세요. 지금 마법 고양이 아카데미를 플레이하고 매혹적인 경험을 해보세요!",
+    "Loading": {
+      "title": "마법 고양이 아카데미 로딩 중"
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "컨텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "마법 고양이 아카데미",
+      "description": "모모와 함께 아카데미를 유령으로부터 구하는 마법의 모험에 참여하세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "마법 고양이 아카데미 소개",
+      "whatIsTitle": "마법 고양이 아카데미는 무엇인가요?",
+      "whatIsDescription": "마법 고양이 아카데미는 모모라는 마법 고양이가 화면에 주문을 그려 유령으로부터 아카데미를 지키는 할로윈 테마의 웹 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "유령 위에 나타나는 기호를 그려 주문을 외우세요.",
+      "howToPlayStep2": "각 레벨에서 모든 유령을 물리치고 다음 레벨로 진행하세요.",
+      "howToPlayStep3": "하트나 원과 같은 특별한 기호를 사용하여 추가 효과를 얻으세요!",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "매력적인 만화풍 아트 스타일",
+      "feature1Description": "밝은 색상과 귀여운 캐릭터 디자인으로 시각적으로 매력적인 게임을 즐겨보세요. 할로윈 시즌에 완벽합니다.",
+      "feature2Title": "쉬운 게임 플레이",
+      "feature2Description": "마우스나 터치를 사용하여 기호를 그리는 간단한 조작으로 누구나 쉽게 게임을 시작하고 즐길 수 있습니다.",
+      "feature3Title": "점점 어려워지는 난이도",
+      "feature3Description": "진행할수록 주문이 복잡해지고 유령이 강해지면서 즐거운 도전을 제공합니다.",
+      "feature4Title": "세 가지 독특한 스토리",
+      "feature4Description": "각기 다른 독특한 스토리와 도전을 가진 마법 고양이 아카데미의 세 가지 버전을 경험하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "수많은 흥미진진한 게임과 모험을 통해 오랜 시간 즐거움을 만끽하세요.",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

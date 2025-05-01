@@ -1,0 +1,77 @@
+{
+  "magic-cat-academy": {
+    "title": "Gioca all'Accademia dei Gatti Magici Online: Un Gioco di Halloween Gratuito",
+    "slogan": "Lancio incantesimi e sconfiggi fantasmi nell'Accademia dei Gatti Magici!",
+    "description": "Immergiti nell'Accademia dei Gatti Magici, un gioco affascinante in cui, come Momo, difenditi dai fantasmi inquietanti con incantesimi magici. Padroneggia il disegno di simboli per proteggere l'accademia e goditi la deliziosa avventura a tema Halloween. Gioca ora all'Accademia dei Gatti Magici per un'esperienza affascinante!",
+    "Loading": {
+      "title": "Caricamento dell'Accademia dei Gatti Magici"
+    },
+    "Navbar": {
+      "title": "Navigazione"
+    },
+    "Common": {
+      "createAt": "Crea il",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla privacy",
+      "termsOfServices": "Termini di servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Collegamenti utili",
+      "articleList": "Elenco degli articoli",
+      "home": "Home",
+      "next": "Successivo",
+      "previous": "Precedente"
+    },
+    "HomeIframe": {
+      "title": "Accademia dei Gatti Magici",
+      "description": "Unisciti a Momo in un'avventura magica per salvare l'accademia dai fantasmi!",
+      "iframeTitle": "Anteprima del gioco",
+      "fullscreenButton": "Schermo intero",
+      "shareButton": "Condividi",
+      "urlCopied": "URL copiato negli appunti!",
+      "downloadGame": "Scarica il gioco",
+      "playGame": "Gioca"
+    },
+    "HomeFeatures": {
+      "gameTitle": "In merito all'Accademia dei Gatti Magici",
+      "whatIsTitle": "Cos'è l'Accademia dei Gatti Magici?",
+      "whatIsDescription": "L'Accademia dei Gatti Magici è un gioco web a tema Halloween in cui giochi come Momo, un gatto magico, difende l'accademia dai fantasmi disegnando incantesimi sullo schermo.",
+      "howToPlayTitle": "Come giocare",
+      "howToPlayStep1": "Disegna i simboli che appaiono sopra i fantasmi per lanciare incantesimi.",
+      "howToPlayStep2": "Sconfiggi tutti i fantasmi in ogni livello per avanzare.",
+      "howToPlayStep3": "Utilizza simboli speciali come cuori e cerchi per effetti extra!",
+      "keyFeaturesTitle": "Caratteristiche principali",
+      "feature1Title": "Affascinante stile di arte cartone animato",
+      "feature1Description": "Goditi un gioco visivamente accattivante con colori vivaci e design di personaggi carini, perfetto per la stagione di Halloween.",
+      "feature2Title": "Gameplay facile da imparare",
+      "feature2Description": "I comandi semplici lo rendono accessibile a tutti, per giocare con il mouse o toccando per disegnare simboli.",
+      "feature3Title": "Difficoltà crescente",
+      "feature3Description": "Mentre procedi, gli incantesimi diventano più complessi e i fantasmi più difficili, offrendo una sfida divertente.",
+      "feature4Title": "Tre storie uniche",
+      "feature4Description": "Vivi tre versioni distinte dell'Accademia dei Gatti Magici, ognuna con la propria storia unica e sfide."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Raccomandazioni"
+    },
+    "HomeComments": {
+      "title": "Commenti sul gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i giochi",
+      "description": "Esplora una varietà di giochi emozionanti e avventure per ore di divertimento.",
+      "games": "Giochi"
+    },
+    "CategoryPage": {
+      "categories": "Categorie",
+      "noCategories": "Categorie non trovate",
+      "viewMore": "Visualizza altro",
+      "page": "Pagina"
+    }
+  }
+}

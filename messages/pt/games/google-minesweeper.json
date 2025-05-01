@@ -1,0 +1,77 @@
+{
+  "google-minesweeper": {
+    "title": "Jogue o Google Minesweeper Online - Um Jogo de Quebra-Cabeça Clássico",
+    "slogan": "Limpe o tabuleiro sem detonar nenhuma mina no Google Minesweeper!",
+    "description": "Procurando um desafio de quebra-cabeça clássico? O Google Minesweeper é uma ótima escolha! Este jogo cativante testa suas habilidades de lógica e estratégia. Divirta-se com o Google Minesweeper online e evite todas as minas escondidas. Jogue o Google Minesweeper agora e veja até onde você chega!",
+    "Loading": {
+      "title": "Carregando o Google Minesweeper"
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado Em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Úteis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Google Minesweeper",
+      "description": "O Google Minesweeper é um jogo de quebra-cabeça online para um jogador onde você precisa limpar o tabuleiro sem detonar nenhuma mina.",
+      "iframeTitle": "Pré-visualização do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google Minesweeper",
+      "whatIsTitle": "O que é o Google Minesweeper?",
+      "whatIsDescription": "O Google Minesweeper é um jogo de quebra-cabeça lógico clássico no qual você precisa limpar uma grade contendo minas escondidas. Use seu raciocínio para descobrir quadrados seguros e marcar as minas.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Revele os quadrados clicando neles. Se você encontrar uma mina, o jogo termina.",
+      "howToPlayStep2": "Clique com o botão direito do mouse (ou pressione e segure no celular) para marcar possíveis locais de minas.",
+      "howToPlayStep3": "Ganhe revelando todos os quadrados sem minas ou marcando corretamente todas as minas.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Interface amigável",
+      "feature1Description": "Controles intuitivos e gráficos claros tornam mais fácil jogar o Google Minesweeper.",
+      "feature2Title": "Compatibilidade multiplataforma",
+      "feature2Description": "Jogue o Google Minesweeper em computadores e dispositivos móveis.",
+      "feature3Title": "Acesso rápido",
+      "feature3Description": "Comece a jogar instantaneamente pesquisando \"Google Minesweeper\" em seu navegador.",
+      "feature4Title": "Múltiplos níveis de dificuldade",
+      "feature4Description": "Escolha entre os níveis Iniciante, Intermediário e Avançado."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

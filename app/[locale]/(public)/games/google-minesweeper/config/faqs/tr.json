@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Google Mayın Tarayıcısı: Yeni bir oyuncu olarak mayına hemen tıklamadan bir oyun nasıl başlatılır?",
+    "answer": "Başlangıç seviyesi olarak, Google Mayın Tarayıcısı'na başlamak mayın tarlası gibi hissettirir! En güvenli yaklaşım, başlangıçta rastgele bir kareye tıklamaktır. İlk tıklama asla bir mayın olmayacaktır; Google Mayın Tarayıcısı, ilk tıklamanızın altındaki herhangi bir mayını tahtada başka bir yere taşıyacaktır. Bu, güvenli bir başlangıç sağlar ve mayınların konumlarını çıkarmaya başlamanızda size yardımcı olur. Bunu, bulmacayı çözmeye başlamak için ücretsiz bir hamle olarak düşünebilirsiniz!"
+  },
+  {
+    "question": "Google Mayın Tarayıcısı'nda her sayı neyi temsil eder ve bunları mayınları bulmak için nasıl kullanabilirim?",
+    "answer": "Google Mayın Tarayıcısı'nda her sayı, o karenin sekiz bitişik karede (yatay, dikey ve çapraz) kaç mayın olduğunu gösterir. Örneğin, bir kare '1' gösteriyorsa, doğrudan onunla temas halindeki karelerde gizlenmiş bir mayın vardır. Diyelim ki yanındaki yalnızca bir gizli kare olan bir '1' ortaya çıkardınız; o gizli kare mayın içermelidir. Bayraklayın! Bu temel prensiptir. Tahta boyunca kademeli olarak ilerleyin."
+  },
+  {
+    "question": "Google Mayın Tarayıcısı: Oyunda henüz mayına tıklamasam bile oyun neden bazen biter?",
+    "answer": "Oyun, tüm mayınları başlangıçta işaretlemeden son güvenli kareye tıkladığınızda erken sona erer. Teknik olarak o *son* tıklamada bir mayına tıklamasanız da, oyun bunu eksik bir çözüm olarak yorumlar. Bunun nedeni, oyunun *tüm* mayınları belirlemenizden beklemesidir. Bir kareniz kaldı ve güvenli. Tüm mayınları bayraklama *öncesinde* ona tıklarsanız, kazanma koşulu karşılanmaz. Her onaylanmış mayının, son güvenli kareyi ortaya çıkarmadan önce bir bayrağa sahip olduğundan emin olun."
+  },
+  {
+    "question": "Temel tıklamaların ötesinde, Google Mayın Tarayıcısı'nda tahtaları daha hızlı temizlemek ve mayın desenlerini belirlemek için teknikleri kullanarak hangi gelişmiş stratejileri kullanabilirim? (Mayın Tarayıcısı)",
+    "answer": "Deneyimli oyuncular için bazı desenler hızlı çözümler sunar. ADIM 1: '1-2-1' desenlerini belirleyin. Bu, üç karenin bitişik, bir çizgide, sırasıyla bir, iki ve bir sayılarıyla düzenlenmiş olduğu anlamına gelir. '2'nin çapraz bitişik karelerinin ve '1'lerin dikey bitişik karelerinin mayın içerdiği çıkarım yapılabilir. ADIM 2: '1-2-2-1' desenlerini arayın. Dört kare doğrusal olarak dizildiğinde, merkezdeki iki '2', ilk '2'lerin gereksinimlerini karşılamak için yukarı veya aşağı mayın içerecektir. ADIM 3: Oyuna hız kazandırmak için bu desenlere dayalı hızlı çıkarımlar yapmak için teknikleri uygulayın."
+  },
+  {
+    "question": "Google Mayın Tarayıcısı'nda, güvenli karelerin büyük alanlarını hızlı bir şekilde verimli bir şekilde nasıl temizlersiniz ve hangi fare teknikleri yer alır?",
+    "answer": "Verimli temizlik, 'akor' veya 'akorlama' tekniğini içerir. Etrafında doğru sayıda mayın işaretlenmiş olan numaralandırılmış bir kareniz varsa, karenin üzerine 'akor' tıklayabilirsiniz (genellikle iki fare düğmesine aynı anda). Bu, işaretlenmemiş tüm çevreleyen kareleri otomatik olarak temizleyecektir. Yanlış işaretlediyseniz, bu aynı zamanda mayını tetikleyecek ve kaybedeceksiniz. Bu teknik kullanılarak, saniyeler içinde büyük alanları hızla temizleyebilirsiniz."
+  },
+  {
+    "question": "Google Mayın Tarayıcısı: Geç oyun aşamasında sıkışıp kalıyorum. Sadece birkaç kare kaldıysa 50/50 tahminlerden nasıl kaçınırım? Olasılıkları hesaplamanın bir yolu var mı?",
+    "answer": "Geç oyun durumları genellikle 50/50 tahminlere yol açar. Anahtar, sadece doğrudan alan değil, tüm tahtayı analiz etmektir. Sıkıştığınız alana etki edebilecek, daha uzaktaki ipuçlarını arayın. Örneğin, tahtadaki karşı taraftaki bir '1', sıkıştığınız alanın yakınındaki olası mayın yerlerini sınırlayabilir. Tüm olasılıkları görselleştirmek ve yazmak bazı olasılıkları ortadan kaldırabilir ve sizi daha güvenli bir seçime götürebilir. Ne yazık ki, bazen gerçek 50/50 durumlar da ortaya çıkar; bunları oyunun zorluğunun doğal bir parçası olarak kabul edin."
+  },
+  {
+    "question": "Google Mayın Tarayıcısı: İlk tahtayı oluşturmak için hangi algoritmalar kullanılır ve her seferinde çözülebilir bir bulmaca sağlamasını nasıl garanti eder?",
+    "answer": "Google Mayın Tarayıcısı ve Mayın Tarayıcısının çoğu uygulaması, mayınları başlangıçta yerleştirmek için sahte rastgele sayı üreteci (PRNG) kullanır. Tahta gerçekten rastgele olmadığından, bazen desenler kullanılabilir. Çözülebilirliği sağlamak daha karmaşıktır. Bazı uygulamalar, imkansız mayın yapılandırmalarını önleyen veya çözülebilir bir duruma gelene kadar tahtayı yeniden karıştıran algoritmalar kullanır; bazı algoritmalar, ilk tıklamadan *sonra* rastgele mayın yerleştirme işlemini geciktirir. Bu, ilk tıklamanızın her zaman güvenli bir kare olmasını garanti eder ve mayın dağılımı daha sonra kalan tahta boşluklarına göre rastgele oluşturulur."
+  },
+  {
+    "question": "Google Mayın Tarayıcısı'nda zorluk ayarlarını değiştirdiğimde ne olur? Mayın yoğunluğu gibi hangi özel parametreler etkilenir ve ne kadar?",
+    "answer": "Zorluk ayarları öncelikle tahta boyutunu ve mayın sayısını etkiler. Başlangıç genellikle 9x9 tahta ve 10 mayın, Orta 16x16 ve 40 mayın, Uzmanlık ise 16x30 ve 99 mayın anlamına gelir. Mayın yoğunluğu (her kareye düşen mayın sayısı) zorluk ile artar. Bunu Başlangıç (10/81 = 0.123) ile Uzman (99/480 = 0.206) arasında karşılaştırmanıza izin veren bir yapılandırma tablosunda görebilirsiniz. Bu yoğunluğu anlamak, her kareye tıklamadaki riski değerlendirmeye ve oyun stratejinizi bilgilendirmeye yardımcı olur. Daha yüksek yoğunluk daha stratejik bayraklama gerektirir."
+  },
+  {
+    "question": "Google Mayın Tarayıcısı: Google Mayın Tarayıcısı tüm cihazlarda çalışır mı ve örneğin Android ve iOS gibi farklı işletim sistemleri arasında bilinen uyumluluk sorunları var mıdır?",
+    "answer": "Google Mayın Tarayıcısı esas olarak web tabanlı bir oyundur, bu nedenle web tarayıcısı olan (Android veya iOS) herhangi bir cihazda çalışmalıdır. Bazı eski tarayıcılar uyumluluk sorunları yaşayabilir ancak bunlar nadirdir. OS platformları arasında temel işlevselliği sınırlayan kalıcı ve yaygın olarak bildirilen uyumluluk sorunları yoktur, tarayıcı güncellendiği sürece. Oyun takılırsa, tarayıcınızın önbelleğini temizlemeyi deneyin."
+  },
+  {
+    "question": "Google Mayın Tarayıcısı'nda deneyimli oyuncular için oyun görünümünü veya işlevselliğini değiştiren gizli temalar veya Paskalya yumurtaları var mıdır?",
+    "answer": "Temel oyun mekaniği değişmezken, bazı Google Mayın Tarayıcısı sürümleri (veya belirli tarayıcı uzantıları) tema seçenekleri içerebilir. Bazı sürümler, sayılar yerine özel emojilerle oynamanıza izin vererek görselleri değiştirir. Ne yazık ki, bu Paskalya yumurtaları ve görünümler işlevselliği değiştirmez ve yalnızca görsel bir özelliktir."
+  }
+]

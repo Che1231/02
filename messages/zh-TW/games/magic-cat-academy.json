@@ -1,0 +1,77 @@
+{
+  "magic-cat-academy": {
+    "title": "線上玩魔法貓學院 - 免費萬聖節遊戲",
+    "slogan": "在魔法貓學院施展法術並擊敗鬼魂！",
+    "description": "潛入魔法貓學院，在這個迷人的遊戲裡，扮演Momo，用魔法咒語對抗可怕的鬼魂。學習繪製符號以保護學院，並享受這個充滿萬聖節主題的精彩冒險。現在就玩魔法貓學院，體驗令人著迷的遊戲體驗！",
+    "Loading": {
+      "title": "載入魔法貓學院"
+    },
+    "Navbar": {
+      "title": "導覽列"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "魔法貓學院",
+      "description": "與Momo一起展開一場神奇的冒險，拯救學院免受鬼魂侵擾！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "關於魔法貓學院",
+      "whatIsTitle": "什麼是魔法貓學院？",
+      "whatIsDescription": "魔法貓學院是一個以萬聖節為主題的網頁遊戲，您扮演Momo，一隻神奇的貓咪，透過在螢幕上畫下魔法咒語來抵禦鬼魂。",
+      "howToPlayTitle": "如何遊戲？",
+      "howToPlayStep1": "在鬼魂上方繪製出現的符號來施展法術。",
+      "howToPlayStep2": "在每個關卡中擊敗所有鬼魂才能前進。",
+      "howToPlayStep3": "使用像心形和圓形之類的特殊符號來獲得額外效果！",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "迷人的卡通藝術風格",
+      "feature1Description": "享受視覺上吸引人的遊戲，充滿明亮的色彩和可愛的角色設計，非常適合萬聖節！",
+      "feature2Title": "易於學習的遊戲玩法",
+      "feature2Description": "簡單的控制讓任何人都可以輕鬆上手並開始遊戲，使用滑鼠或觸控來繪製符號。",
+      "feature3Title": "逐步提升的難度",
+      "feature3Description": "隨著您進展，咒語將變得更複雜，鬼魂也會變得更強大，提供有趣的挑戰。",
+      "feature4Title": "三個獨特的故事線",
+      "feature4Description": "體驗三種不同版本的魔法貓學院，每個版本都有其獨特的故事線和挑戰！"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦遊戲"
+    },
+    "HomeComments": {
+      "title": "玩家評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "探索各種令人興奮的遊戲和冒險，享受數小時的樂趣。",
+      "games": "遊戲列表"
+    },
+    "CategoryPage": {
+      "categories": "遊戲分類",
+      "noCategories": "找不到任何類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

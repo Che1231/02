@@ -1,0 +1,42 @@
+[
+  {
+    "pregunta": "Drift Hunters: ¿Cómo realizo un derrape básico como principiante?",
+    "respuesta": "Para iniciar un derrape en Drift Hunters, especialmente como principiante, comienza acercándote a una curva con velocidad considerable. Luego, presiona el botón del freno de mano (generalmente la barra espaciadora en PC) al mismo tiempo que giras hacia la curva. Controla la dirección opuesta para mantener el control a medida que el coche comienza a deslizarse. Practica este cronometraje con coches como el AE86, que son fáciles para principiantes. Imagínalo como 'desbloquear' momentáneamente las ruedas traseras para iniciar el deslizamiento. Por ejemplo, en la primera curva de Ebisu Minami, intenta iniciar el derrape justo antes del marcador de la curva."
+  },
+  {
+    "pregunta": "¿Cuáles son las diferencias clave entre los coches FR, MR y AWD en Drift Hunters, y cuál es el mejor para aprender?",
+    "respuesta": "Los coches FR (motor delantero, tracción trasera), como el Nissan 240SX, son ideales para aprender a derrapar porque ofrecen una manejabilidad y una respuesta predecibles. Los coches MR (motor central, tracción trasera), como el Honda NSX, tienen una distribución de pesos que puede hacerlos más ágiles, pero más difíciles de controlar inicialmente. Los coches AWD (tracción total), como el Subaru Impreza, ofrecen una excelente tracción, pero requieren una técnica de derrape diferente: 'golpe escandinavo' y 'potencia sobre agarre'. Para aprender, empieza con los coches FR primero. El estilo de derrape de los coches AWD requiere un control constante del acelerador y cambios de gestión de peso."
+  },
+  {
+    "pregunta": "Drift Hunters: ¿Por qué mi coche no está ganando muchos puntos? ¿Qué afecta más al multiplicador de puntos?",
+    "respuesta": "El multiplicador de puntos en Drift Hunters se ve afectado principalmente por la velocidad y el ángulo. Cuanto más rápido derrapes y más cerca estés del vértice, mayor será el multiplicador. La proximidad a las paredes también otorga puntos adicionales, pero conlleva el riesgo de daños. Enlazar derrapes sin enderezar el coche mantiene el multiplicador en crecimiento. Intenta mantener un ángulo de derrape amplio siempre que sea posible. Por ejemplo, derrapar una curva larga a 113 km/h con un ángulo alto obtendrá significativamente más puntos que derrapar a 64 km/h con un ángulo poco profundo. No olvides desactivar las ayudas."
+  },
+  {
+    "pregunta": "Drift Hunters: ¿Cuál es la forma más eficiente de ganar dinero para las actualizaciones de coches y nuevos vehículos?",
+    "respuesta": "La forma más eficiente de ganar dinero en Drift Hunters es conseguir puntuaciones altas de forma consistente en circuitos con curvas largas y fluidas o curvas cerradas. Céntrate en mantener altos ángulos de derrape y velocidad durante períodos prolongados. Practica circuitos como Ebisu Minami o Meihan, donde puedes enlazar múltiples derrapes juntos. ¡También desactiva las ayudas!. Otra estrategia de ganancia consiste en maximizar el multiplicador de puntos derrapar lo más cerca posible de las paredes sin estrellarte. Finalmente, repite los circuitos que se adapten mejor a tu coche."
+  },
+  {
+    "pregunta": "Drift Hunters: ¿Cómo puedo ajustar la configuración de mi suspensión para un control óptimo del derrape? ¿Cuál es el efecto del camber y el toe?",
+    "respuesta": "Ajustar la configuración de la suspensión es crucial para un control óptimo del derrape. El camber afecta al parche de contacto del neumático durante un derrape; un camber negativo se utiliza a menudo para maximizar la adherencia mientras se desliza. La convergencia o divergencia de las ruedas influye en la respuesta de giro y la estabilidad. Los muelles más rígidos reducen el balanceo de la carrocería, mejorando la respuesta, pero reduciendo la adherencia. Empieza por reducir la rigidez/amortiguación de los muelles traseros. A continuación, añade camber negativo en la parte delantera. Experimenta con ajustes menores (incrementos de 0,1) y prueba en un circuito como los muelles para encontrar el punto óptimo donde el coche tenga agarre y sea controlable. Lo más importante es no pasarse. Un coche excesivamente modificado empeorará las cosas."
+  },
+  {
+    "pregunta": "Drift Hunters: PASO A PASO, ¿cómo puedo dominar la conexión de derrapes de forma consistente sin volcar?",
+    "respuesta": "Para conectar de forma consistente derrapes sin volcar, sigue estos pasos: PASO 1: Iniciar el derrape suavemente usando el freno de mano y la dirección. PASO 2: Controla el ángulo de derrape utilizando el acelerador y la contradirección. Evita los cambios bruscos del acelerador. PASO 3: Al pasar a la siguiente curva, suelta suavemente el acelerador y cambia la entrada de la dirección para iniciar el derrape en la dirección opuesta. Mantén una velocidad constante y transiciones suaves. En Ebisu Minami, practica la conexión de las tres primeras curvas juntas. Imagina las líneas que estás conduciendo. Visualiza tu aproximación y ángulo. Recuerda practicar."
+  },
+  {
+    "pregunta": "¿Puedo transferir mi progreso o mi colección de coches de Drift Hunters entre diferentes navegadores o dispositivos?",
+    "respuesta": "Desafortunadamente, los datos de guardado de Drift Hunters normalmente se almacenan localmente en la caché del navegador. La transferencia directa del progreso entre diferentes navegadores o dispositivos no suele ser posible. El juego utiliza una cookie para almacenar el progreso. Si quieres empezar de nuevo, tienes que borrar las cookies. Algunas modificaciones o extensiones no oficiales podrían ofrecer una funcionalidad de guardado. De lo contrario, considera usar un solo navegador/dispositivo para evitar perder el progreso."
+  },
+  {
+    "pregunta": "Drift Hunters: ¿Cuáles son los mecanismos subyacentes del cálculo de puntos de derrape, es decir, ¿cómo se calculan realmente los puntos?",
+    "respuesta": "El cálculo básico de puntuación en Drift Hunters depende en gran medida de tres factores: el ángulo de derrape, la velocidad y la duración. La puntuación base aumenta con ángulos y velocidades más altos. La conexión de derrapes proporciona un multiplicador de combinación que multiplica tu puntuación. La proximidad a la pared durante el derrape otorga puntos adicionales, pero estrellarte restablece tu combinación. El nivel del coche determina la puntuación base inicial en algunas versiones. Por ejemplo, un derrape a 60 grados y 129 km/h proporciona una puntuación base más alta que uno realizado a 30 grados y 80 km/h. Recuerda también que no todos los circuitos otorgan la misma puntuación. Cada uno tiene sus propias variables."
+  },
+  {
+    "pregunta": "Drift Hunters coches secretos: ¿Hay coches ocultos o secretos en Drift Hunters que no estén disponibles en el concesionario? Si es así, ¿cómo encontrarlos?",
+    "respuesta": "Drift Hunters incluye vehículos que son visibles en el concesionario. O bien, algunas modificaciones visuales se parecen a vehículos reales. Puede ser posible modificar los archivos del juego para desbloquear texturas y kits de carrocería solo disponibles en los coches de la CPU del oponente. Ésto no está oficialmente admitido, así que procede con precaución y entiende los riesgos que entrañan las modificaciones de archivos de juego. La emoción del juego reside en la habilidad y la puesta a punto, no necesariamente en la colección de vehículos."
+  },
+  {
+    "pregunta": "Drift Hunters: ¿Qué hacen realmente las diferentes opciones de afinación y cómo debo pensar en elegirlas?",
+    "respuesta": "Las opciones de afinación en Drift Hunters afectan al comportamiento del coche de varias maneras. La potencia afecta a la aceleración y a la velocidad máxima. La reducción de peso mejora la manejabilidad y la respuesta. El ángulo de dirección dicta el ángulo máximo de derrape antes de que el coche recupere la estabilidad. La configuración de la suspensión tiene un amplio efecto; una suspensión más baja reduce el balanceo, aumenta el subviraje y proporciona un control adicional. Al elegir las opciones de afinación, considera tu estilo de conducción. Para circuitos suaves, prioriza la potencia y la reducción de peso. Para circuitos que requieren un gran estilo de derrape, céntrate en el ángulo de dirección y la suspensión. Experimenta en circuitos para ver qué afinación prefieres."
+  }
+]

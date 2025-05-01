@@ -1,0 +1,77 @@
+{
+  "google-minesweeper": {
+    "title": "Mainkan Google Minesweeper Online Gratis - Permainan Puzzle Klasik",
+    "slogan": "Kosongkan papan tanpa memicu ranjau di Google Minesweeper!",
+    "description": "Mencari tantangan teka-teki klasik? Google Minesweeper adalah pilihan yang tepat! Permainan yang menarik ini menguji kemampuan logika dan strategi Anda. Nikmati Google Minesweeper secara online dan hindari semua ranjau tersembunyi. Mainkan Google Minesweeper sekarang dan lihat sejauh mana Anda bisa!",
+    "Loading": {
+      "title": "Memuat Google Minesweeper"
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Google Minesweeper",
+      "description": "Google Minesweeper adalah permainan teka-teki pemain tunggal online di mana Anda membersihkan papan tanpa memicu ranjau.",
+      "iframeTitle": "Pratinjau Permainan",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Permainan",
+      "playGame": "Mainkan Permainan"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Google Minesweeper",
+      "whatIsTitle": "Apa itu Google Minesweeper?",
+      "whatIsDescription": "Google Minesweeper adalah permainan teka-teki logika klasik di mana Anda harus membersihkan kotak yang berisi ranjau tersembunyi. Gunakan kemampuan penalaran Anda untuk menemukan kotak aman dan tandai ranjau.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Ungkapkan kotak dengan mengkliknya. Jika Anda menemukan ranjau, permainan berakhir.",
+      "howToPlayStep2": "Klik kanan (atau tekan lama pada ponsel) untuk menandai lokasi ranjau potensial.",
+      "howToPlayStep3": "Menang dengan mengungkapkan semua kotak tanpa ranjau atau dengan menandai semua ranjau dengan benar.",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Antarmuka Ramah Pengguna",
+      "feature1Description": "Kontrol intuitif dan grafik yang jelas memudahkan bermain Google Minesweeper.",
+      "feature2Title": "Kompatibilitas Antar-Platform",
+      "feature2Description": "Mainkan Google Minesweeper di desktop dan perangkat seluler.",
+      "feature3Title": "Akses Cepat",
+      "feature3Description": "Mulai bermain seketika dengan mencari \"Google Minesweeper\" di browser Anda.",
+      "feature4Title": "Beberapa Tingkat Kesulitan",
+      "feature4Description": "Pilih dari tingkat Pemula, Menengah, dan Lanjut."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Permainan"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Permainan",
+      "description": "Semua Permainan",
+      "games": "Permainan"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Lainnya",
+      "page": "Halaman"
+    }
+  }
+}

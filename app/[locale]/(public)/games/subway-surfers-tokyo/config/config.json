@@ -1,0 +1,120 @@
+{
+  "name": "Subway Surfers Tokyo",
+  "pagePath": "/games/subway-surfers-tokyo",
+  "pageName": "subway-surfers-tokyo",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://freeonlinegames.github.io/subway-surfers-tokyo/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomKraken42.png",
+      "content": "Subway Surfers Tokyo is such a blast! The Shibuya streets look amazing, and I love the cherry blossom skateboard!"
+    },
+    {
+      "author": "SavageKatana_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatana_X.png",
+      "content": "I didn’t think I’d enjoy a runner this much! The Paris update was cool, but Subway Surfers Tokyo takes the cake with its vibrant visuals!"
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "Running through Tokyo's neon lights? Count me in! The new characters are just too stylish!"
+    },
+    {
+      "author": "NoobMaster99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster99.png",
+      "content": "I really enjoy the seasonal events in Subway Surfers Tokyo—it's like I'm part of a Japanese festival! So much fun!"
+    },
+    {
+      "author": "CosmicPhoenix87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicPhoenix87.png",
+      "content": "Seriously, how cool is it to skate beneath the Tokyo Tower? It's like a dream come true. Totally addicted!"
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "I can’t believe I’m dodging trains in Tokyo now! The graphics are stunning, but I keep getting caught by that annoying inspector!"
+    },
+    {
+      "author": "LootGoblin89",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LootGoblin89.png",
+      "content": "The Tokyo edition of Subway Surfers is just filled with culture! The gameplay is addictive, it's hard to put down!"
+    },
+    {
+      "author": "VoidWalker_Prime",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/VoidWalker_Prime.png",
+      "content": "Whoa, did you guys see the new outfits? I’m loving “和服小美.” She matches the vibe of Tokyo perfectly, and her moves are epic!"
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "Hey, why does running make me feel so fast? Subway Surfers Tokyo gets my heart racing with every jump over the trains!"
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "So, I hear there’s a summer festival event coming for Subway Surfers Tokyo! Can’t wait to see what rewards are up for grabs!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-05-01/images/1746111598138-8kkan.webp",
+  "page_path": "/games/subway-surfers-tokyo",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Action Game"
+  ],
+  "createdTime": "2025-05-01 22:59:35"
+}

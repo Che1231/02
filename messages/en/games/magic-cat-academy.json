@@ -1,0 +1,77 @@
+{
+  "magic-cat-academy": {
+    "title": "Play Magic Cat Academy Online - A Free Halloween Game",
+    "slogan": "Cast spells and defeat ghosts in Magic Cat Academy!",
+    "description": "Dive into Magic Cat Academy, a charming game where you, as Momo, defend against spooky ghosts with magical spells. Master drawing symbols to protect the academy and enjoy the delightful Halloween-themed adventure. Play Magic Cat Academy now for a spellbinding experience!",
+    "Loading": {
+      "title": "Loading Magic Cat Academy"
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Magic Cat Academy",
+      "description": "Join Momo in a magical adventure to save the academy from ghosts!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "About Magic Cat Academy",
+      "whatIsTitle": "What is Magic Cat Academy?",
+      "whatIsDescription": "Magic Cat Academy is a Halloween-themed web game where you play as Momo, a magical cat, defending the academy from ghosts by drawing spells on the screen.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Draw the symbols that appear above the ghosts to cast spells.",
+      "howToPlayStep2": "Defeat all the ghosts in each level to advance.",
+      "howToPlayStep3": "Use special symbols like hearts and circles for extra effects!",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Charming Cartoon Art Style",
+      "feature1Description": "Enjoy a visually appealing game with bright colors and cute character designs, perfect for the Halloween season.",
+      "feature2Title": "Easy-to-Learn Gameplay",
+      "feature2Description": "Simple controls make it accessible for everyone to pick up and play, using mouse or touch to draw symbols.",
+      "feature3Title": "Increasing Difficulty",
+      "feature3Description": "As you progress, the spells become more complex and the ghosts become tougher, providing a fun challenge.",
+      "feature4Title": "Three Unique Storylines",
+      "feature4Description": "Experience three distinct versions of Magic Cat Academy, each with its own unique storyline and challenges."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "Explore a variety of exciting games and adventures for hours of fun.",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}
