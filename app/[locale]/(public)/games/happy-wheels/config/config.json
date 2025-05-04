@@ -1,0 +1,120 @@
+{
+  "name": "Happy Wheels",
+  "pagePath": "/games/happy-wheels",
+  "pageName": "happy-wheels",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://games-online.io/game/HappyWheels/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "StrokingPhoenix87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StrokingPhoenix87.png",
+      "content": "This game is so much fun! I've spent hours trying to navigate the insane tracks in Happy Wheels."
+    },
+    {
+      "author": "CosmicKraken99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicKraken99.png",
+      "content": "Whoa, the physics engine in this game is amazing! It's like you're really crashing and burning!"
+    },
+    {
+      "author": "PhantomRevolver_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomRevolver_X.png",
+      "content": "Love the diverse roles you can play. Each one feels so different!"
+    },
+    {
+      "author": "NeonKatana42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonKatana42.png",
+      "content": "Wow, there are so many levels! Every new track is a new adventure."
+    },
+    {
+      "author": "SavageKatana_XX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatana_XX.png",
+      "content": "The customization in Happy Wheels is insane. You can make your own tracks and share with others."
+    },
+    {
+      "author": "RecoilBlademaster",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/RecoilBlademaster.png",
+      "content": "This game is super funny when things go wrong. Great for a quick laugh."
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "I love how tricky these levels can be, but it's just frustrating when I can't get past one!"
+    },
+    {
+      "author": "PotionMishap_XX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap_XX.png",
+      "content": "Anyone else love the crazy physics? Watching characters tumble over each other never gets old."
+    },
+    {
+      "author": "PhantomReaper_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomReaper_X.png",
+      "content": "This game has got some seriously creative levels. The level editor alone is worth playing for."
+    },
+    {
+      "author": "ShadowKatana87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/ShadowKatana87.png",
+      "content": "I love how every role you pick changes your gameplay experience. Unique concept!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-05-04/images/1746373381601-whd5nt.webp",
+  "page_path": "/games/happy-wheels",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "RPG & Adventure"
+  ],
+  "createdTime": "2025-05-04 23:42:42"
+}

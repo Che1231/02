@@ -1,0 +1,77 @@
+{
+  "happy-wheels": {
+    "title": "快樂輪胎：基於物理的線上樂趣 - 立即免費遊玩！",
+    "slogan": "在快樂輪胎中體驗滑稽暴力的基於物理的遊戲玩法！",
+    "description": "準備好享受快樂輪胎的混亂樂趣！控制獨特的角色和車輛，挑戰障礙賽道。享受逼真的物理引擎和用戶創作的關卡。立即免費線上遊玩快樂輪胎！",
+    "Loading": {
+      "title": "載入快樂輪胎"
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友好連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "快樂輪胎",
+      "description": "快樂輪胎是一款以物理為基礎的動作遊戲，以其獨特的風格和遊戲玩法而聞名。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "快樂輪胎",
+      "whatIsTitle": "快樂輪胎是什麼？",
+      "whatIsDescription": "快樂輪胎是一款基於物理的動作遊戲，您可以在其中控制各種角色和車輛，通過危險的賽道。",
+      "howToPlayTitle": "如何玩快樂輪胎",
+      "howToPlayStep1": "選擇您的角色和車輛。",
+      "howToPlayStep2": "在充滿障礙的賽道中穿梭。",
+      "howToPlayStep3": "在避開危險的情況下到達終點線。",
+      "keyFeaturesTitle": "快樂輪胎的主要特色",
+      "feature1Title": "逼真的物理模擬",
+      "feature1Description": "在快樂輪胎中，體驗逼真的動作和反應，隨著您的角色與環境互動。",
+      "feature2Title": "多樣的關卡設計",
+      "feature2Description": "探索各種各樣的關卡，每個關卡都有獨特挑戰和主題。",
+      "feature3Title": "廣泛的客製化",
+      "feature3Description": "使用內建編輯器在快樂輪胎中創建和分享您自己的關卡和角色。",
+      "feature4Title": "多種角色和車輛",
+      "feature4Description": "快樂輪胎提供各種角色和車輛，每個角色和車輛都有獨特的技能和遊戲風格。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "快樂輪胎遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "檢視更多",
+      "page": "頁面"
+    }
+  }
+}
