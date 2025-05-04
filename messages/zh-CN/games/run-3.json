@@ -1,0 +1,77 @@
+{
+  "run-3": {
+    "title": "Run 3：太空隧道无限跑酷游戏",
+    "slogan": "Run 3：在无尽的太空冒险中挑战自我！",
+    "description": "踏上Run 3的惊险旅程，这是一款激动人心的太空主题跑酷游戏！在复杂的隧道中穿梭，挑战重力，躲避障碍。现在玩Run 3，看看你在这款无限跑酷游戏中能跑多远！",
+    "Loading": {
+      "title": "正在加载Run 3"
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "Run 3",
+      "description": "Run 3是一款太空主题的无尽跑酷游戏，玩家控制角色在隧道中通过跳跃和沿墙壁奔跑。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "网址已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Run 3",
+      "whatIsTitle": "Run 3是什么？",
+      "whatIsDescription": "Run 3是一款引人入胜的跑酷游戏，设在复杂的太空隧道网络中。控制你的角色，改变重力，躲避障碍，到达终点。",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "使用方向键移动角色。",
+      "howToPlayStep2": "跳跃并沿着墙壁奔跑以穿梭隧道。",
+      "howToPlayStep3": "改变重力以躲避障碍并继续前进。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "独特的太空主题",
+      "feature1Description": "探索视觉上令人惊叹的3D太空隧道环境，在Run 3中提供独特的沉浸式体验。",
+      "feature2Title": "多种游戏模式",
+      "feature2Description": "享受各种游戏模式，包括探索模式、无尽模式和编辑模式，在Run 3中提供多种游戏体验。",
+      "feature3Title": "可解锁的角色",
+      "feature3Description": "发现并扮演拥有特殊能力的独特角色，为Run 3增添深度和可重复性。",
+      "feature4Title": "创建和分享",
+      "feature4Description": "在编辑模式中设计并分享你自己的关卡，用社区创建的内容扩展Run 3宇宙。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "分类",
+      "noCategories": "未找到分类",
+      "viewMore": "查看更多",
+      "page": "页"
+    }
+  }
+}

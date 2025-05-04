@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Run 3 Basics: Come ti fai saltare e come si evita di cadere nel vuoto come nuovo giocatore?",
+    "answer": "Come nuovo giocatore in Run 3, saltare è fondamentale per la sopravvivenza! Premi semplicemente il tasto spazio o clicca il pulsante sinistro del mouse per saltare. Per evitare di cadere nel vuoto, anticipa le lacune imminenti osservando il percorso davanti a te. All'inizio, i salti brevi e controllati sono più sicuri. Ad esempio, nel primo livello, pratica a saltare le prime piccole lacune prima di tentare salti più lunghi. Pensaci come a un gioco di campana - movimenti piccoli e decisi."
+  },
+  {
+    "question": "Perché il mio corridore in Run 3 a volte cambia improvvisamente direzione e come prevenirlo?",
+    "answer": "Il tuo corridore cambia direzione a causa della geometria del livello e della gravità. Le pareti ti permettono di correre \"su\" di esse, e quando raggiungi la fine, la gravità prende il sopravvento, facendoti correre \"giù\" sulla parete successiva, cambiando essenzialmente direzione. Per evitare cambiamenti indesiderati, resta sulla via principale saltando sulle pareti o attraverso le lacune invece di correre direttamente fino alla fine della parete. Consideralo come guidare un'automobile; se ti schianti contro un muro, non andrai dove vuoi. Cerca di rimanere al centro."
+  },
+  {
+    "question": "Quali sono i diversi tipi di corridori in Run 3 e come ogni tipo di corridore influisce sul gameplay?",
+    "answer": "Run 3 presenta diversi tipi unici di corridori, ognuno dei quali influenza il gameplay: Il Corridore (predefinito, equilibrato), lo Sciatore (più veloce, salti più bassi), il Gigante Gentile (più lento, stabile) e altri personaggi sbloccabili. Lo Sciatore, ad esempio, si distingue nelle corse veloci a causa della sua velocità maggiore e può aggirare alcune aree sfrecciando lungo le rotaie, ma richiede un tempismo preciso per i salti. Sperimenta con ogni personaggio per scoprire il tuo stile di gioco preferito. La tabella seguente evidenzia le differenze principali.\n[Tipo di corridore | Velocità | Altezza del salto | Stabilità]\n[Corridore | Media | Media | Media]\n[Sciatore | Alta | Bassa | Bassa]\n[Gigante | Bassa | Alta | Alta]"
+  },
+  {
+    "question": "Tecniche avanzate di Run 3: Quali sono alcune strategie avanzate per massimizzare la distanza in modalità infinita?",
+    "answer": "Per massimizzare la distanza in modalità infinita, padroneggia queste strategie avanzate: PASSO 1: Perfetta il tuo tempismo. I salti costanti sulle lacune sono fondamentali. PASSO 2: Usa strategicamente la corsa sulle pareti. Correre brevemente sulle pareti può modificare la tua traiettoria, superando gli ostacoli. PASSO 3: Impara la disposizione dei livelli. Memorizza i modelli per reazioni più rapide. Immagina la modalità infinita come una maratona; gestisci il passo, rimani all'erta e impara il percorso."
+  },
+  {
+    "question": "Segreti di Run 3: Ci sono livelli in Run 3 che non compaiono sulla mappa principale e come possono essere trovati?",
+    "answer": "Sì, Run 3 ha livelli segreti o \"errorati\" nascosti attraverso azioni specifiche. Ad esempio, determinate combinazioni di selezione del personaggio e ordine di accesso al livello possono innescare un errore di caricamento del livello, portando a una mappa non intenzionale e singolarmente impegnativa. Non c'è un trigger garantito; sperimenta con diverse combinazioni per trovarli. Pensaci come a codici segreti nascosti nei giochi classici: scopribili attraverso l'esperimento."
+  },
+  {
+    "question": "Sfide di Run 3: Qual è la strategia migliore per affrontare le sfide più difficili della 'Modalità Infinita' e le classifiche dei leader?",
+    "answer": "Conquistare le sfide difficili della 'Modalità Infinita' richiede una combinazione di abilità e scelte strategiche. Priorizza l'anticipazione degli ostacoli, la memorizzazione dei livelli e l'idoneità del personaggio. Ad esempio, lo \"Sciatore\" è popolare tra i contendenti della classifica perché veloce. Inoltre, pratica ripetutamente sezioni difficili specifiche per migliorare la memoria muscolare. Ricorda di rivedere le corse dei giocatori migliori per avere informazioni su percorsi ottimali e tecniche. E' come prepararsi per una gara; allenati duramente, conosci il percorso e guarda i professionisti."
+  },
+  {
+    "question": "Approfondimento di Run 3: Qualcuno può spiegare i sistemi di fisica e rilevazione delle collisioni che influenzano il gameplay?",
+    "answer": "Run 3 utilizza un sistema di fisica semplificato in cui lo slancio e la gravità sono i fattori principali. La rilevazione delle collisioni utilizza bounding box con un certo grado di tolleranza. Ciò significa che non ti scontrerai necessariamente con il bordo di un blocco in modo perfettamente preciso, quindi hai alcuni fotogrammi per riprenderti da mancati impatti. Conoscere queste limitazioni ti permetterà una migliore prevezione del movimento. Per quanto riguarda i valori numerici; l'accelerazione è impostata su X unità per fotogramma."
+  },
+  {
+    "question": "Come funziona la scala di difficoltà in modalità infinita di Run 3 e ci sono trucchi per manipolarla?",
+    "answer": "Nella modalità Infinita di Run 3, la difficoltà aumenta dinamicamente in base alla distanza percorsa. I principi fondamentali del sistema sono la frequenza dei nemici, la complessità del percorso e la velocità. Un trucco è quello di fallire intenzionalmente le sezioni iniziali più volte. Il gioco spesso si aggiusta dopo una serie di perdite di livello. Se stai fallendo in un punto specifico, prova a fallire prima di quel punto per vedere se influenza i parametri. La scala è incrementale quindi potrebbero essere necessari più insuccessi a seconda dei parametri precedenti."
+  },
+  {
+    "question": "Run 3 su diverse piattaforme: è possibile trasferire i progressi tra la versione web e le versioni dell'app e, in tal caso, come?",
+    "answer": "Sfortunatamente, il trasferimento diretto dei progressi tra la versione web e le versioni mobile di Run 3 generalmente non è supportato. Ogni versione funziona in genere in modo indipendente con dati di salvataggio separati. Non esiste una funzionalità integrata nel gioco per sincronizzarle. Tuttavia, alcune versioni dei browser consentono l'esportazione dei cookie per un potenziale backup locale (funzionalità non testata ufficialmente)."
+  },
+  {
+    "question": "Easter Egg di Run 3: Quali sono alcuni degli easter egg più divertenti e riferimenti nascosti in Run 3 e come possono essere trovati dai giocatori?",
+    "answer": "Run 3 presenta numerosi easter egg, spesso riferendosi ad altri giochi Flash e alla cultura di Internet. Uno degli easter egg più accessibili si trova in uno specifico livello infinito che coinvolge il corridore viola. Deve essere il corridore viola per questo livello specifico. Correre continuamente lungo un percorso per un tempo insolitamente lungo innesca un'anomalia visiva che mostra uno sfondo in stile \"8-Bit\". Sperimenta con lunghe corse per scoprire di più. Trovare easter egg nel gioco può diventare una minigioco."
+  }
+]

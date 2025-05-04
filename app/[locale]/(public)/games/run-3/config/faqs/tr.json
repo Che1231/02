@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Run 3 Temelleri: Yeni bir oyuncu olarak boşluğa düşmeden nasıl atlarım?",
+    "answer": "Run 3'te yeni bir oyuncu olarak, hayatta kalmak için zıplamak çok önemli! Sadece boşluk çubuğunu veya sol fare düğmesini tıklatarak zıplayabilirsiniz. Boşluğa düşmekten kaçınmak için, önünüzdeki yolu gözlemleyerek yaklaşan boşlukları öngörün. İlk başlarda kısa ve kontrollü zıplamalar daha güvenlidir. Örneğin, ilk seviyede, daha uzun sıçramalar yapmaya çalışmadan önce ilk küçük boşlukları atlamayı uygulayın. Bunu zıplama tahtası gibi düşünün - küçük, dikkatli hareketler."
+  },
+  {
+    "question": "Run 3'te koşucum neden bazen rastgele yön değiştiriyor ve bunu nasıl önleyebilirim?",
+    "answer": "Koşucunuz yönünü seviye geometrisi ve yerçekimi nedeniyle değiştiriyor. Duvarlar size 'yukarı' yönde koşma olanağı tanıyor ve ulaştığınızda, 'aşağı' yönde bir sonraki duvara koşarak yön değiştiriyor. İstenmeyen değişiklikleri önlemek için, duvarlara veya boşluklara doğrudan koşmak yerine, duvarların ucundan atlayarak veya boşluklardan geçerek ana yolda kalın. Bunu bir araba sürmek gibi düşünün; bir duvara çarparsanız, istediğiniz yere gitmezsiniz. Merkezde kalmaya çalışın."
+  },
+  {
+    "question": "Run 3'te farklı koşucu türleri nelerdir ve her koşucu türü oyun oynanışını nasıl etkiliyor?",
+    "answer": "Run 3, oyun oynanışını etkileyen birkaç benzersiz koşucu türü içeriyor: Koşucu (varsayılan, dengeli), Patenci (daha hızlı, daha düşük zıplama), Nazik Dev (daha yavaş, istikrarlı) ve daha fazlasını açabileceğiniz karakterler. Örneğin, Patenci, hız artışı nedeniyle hız yarışlarında üstündür ve raylara sürtünerek bazı alanları geçebilir, ancak zıplamalar için hassas zamanlama gerektirir. Tercih ettiğiniz oyun tarzını keşfetmek için her karakterle deneyin. Tablo aşağıdaki temel farklılıkları özetliyor. \n[Koşucu Tipi | Hız | Zıplama Yüksekliği | Durağanlık]\n[Koşucu | Orta | Orta | Orta]\n[Patenci | Yüksek | Düşük | Düşük]\n[Dev | Düşük | Yüksek | Yüksek]"
+  },
+  {
+    "question": "Gelişmiş Run 3 Teknikleri: Sonsuz modda mesafeyi en üst düzeye çıkarmak için bazı gelişmiş stratejiler nelerdir?",
+    "answer": "Sonsuz modda mesafeyi en üst düzeye çıkarmak için şu gelişmiş stratejileri ustalaşın: 1. ADIM: Zamanlamanızı mükemmelleştirin. Boşluklar üzerindeki tutarlı zıplamalar çok önemlidir. 2. ADIM: Duvar koşmasını stratejik olarak kullanın. Duvarlar üzerinde kısa süreli koşmak, rotasınızı ayarlayıp engelleri aşmanıza olanak tanır. 3. ADIM: Seviye düzenini öğrenin. Daha hızlı reaksiyonlar için desenleri ezberleyin. Sonsuz modu maraton koşusu gibi düşünün; kendinizi dengeleyin, uyanık kalın ve parkuru öğrenin."
+  },
+  {
+    "question": "Run 3 Sırları: Run 3'te ana haritada görünmeyen seviyeler var mı ve bunlar nasıl bulunabilir?",
+    "answer": "Evet, Run 3'te belirli eylemler aracılığıyla gizlenmiş sır seviyeleri ya da 'hata' seviyeleri bulunuyor. Örneğin, karakter seçiminin ve seviye giriş sırasının belirli kombinasyonları, istenmeyen ve benzersiz zorlukta bir haritaya yol açan bir seviye yükleme hatasına neden olabiliyor. Garantili bir tetikleyici yok; farklı kombinasyonlarla deney yaparak bunları bulun. Bunları klasik oyunlardan gizli hile kodları gibi düşünün - deneyim yoluyla keşfedilebilir."
+  },
+  {
+    "question": "Run 3 Zorlukları: En zor 'Sonsuz Mod' zorluklarını ve lider tabloları sıralamasını ele almak için en iyi strateji nedir?",
+    "answer": "Zor 'Sonsuz Mod' zorluklarını yenmek, beceri ve stratejik seçimlerin bir kombinasyonunu gerektirir. Engelin öngörülmesine, seviye ezberlenmesine ve karakter uygunluğuna öncelik verin. Örneğin, 'Patenci', hızı nedeniyle lider tablolarında öne çıkan bir karakterdir. Ayrıca, kas hafızasını iyileştirmek için belirli zorlu bölümleri tekrar tekrar uygulayın. En iyi yollar ve teknikler hakkında bilgi edinmek için en iyi oyuncuların koşularını gözden geçirin. Bu, bir yarışa hazırlanmak gibidir; sıkı çalışın, parkuru öğrenin ve uzmanlara bakın."
+  },
+  {
+    "question": "Run 3 Derinlemesine Bakış: Oyun oynanışını etkileyen fizik ve çarpışma tespit sistemlerini açıklayabilir misiniz?",
+    "answer": "Run 3, momentum ve yerçekiminin ana faktörler olduğu basitleştirilmiş bir fizik sistemi kullanır. Çarpışma algılaması, bazı esneklik dereceleriyle sınırlayıcı kutular kullanır. Bu, bloğun kenarıyla tam olarak piksel piksel çarpışmayacağınız anlamına gelir, bu nedenle yakın kaçırmalardan kurtulmak için birkaç kare süreniz olur. Bu sınırlamaları bilmek, hareketi daha iyi tahmin etmenizi sağlayacaktır. Sayısal değerlere gelince; ivme her karede X birim olarak ayarlanmıştır."
+  },
+  {
+    "question": "Run 3 sonsuz modunda zorluk ölçeği nasıl çalışıyor ve bunu değiştirmek için herhangi bir hile var mı?",
+    "answer": "Run 3'ün Sonsuz Modunda, zorluk gezerken katettiğiniz mesafeye göre dinamik olarak artar. Sistemin temel ilkeleri düşman sıklığı, yol karmaşıklığı ve hızdır. Hilelerden biri, erken seviyelerde tekrar tekrar isteyerek başarısızlık yaşamak. Oyun, bir dizi kaybetme sonra sıklıkla ayarlar. Belirli bir noktada başarısız oluyorsanız, parametreleri etkileyip etkilemediğini görmek için o nokta öncesinde başarısız olmayı deneyin. Ölçekleme kademeli olduğundan, önceki parametrelere bağlı olarak birden fazla başarısızlığa ihtiyaç duyulabilir."
+  },
+  {
+    "question": "Farklı Platformlarda Run 3: Web sürümü ve uygulama sürümleri arasında ilerleme aktarımı mümkün müdür ve eğer öyleyse nasıl?",
+    "answer": "Maalesef, Run 3'ün web sürümü ve mobil uygulama sürümleri arasında doğrudan ilerleme aktarımı genellikle desteklenmiyor. Her sürüm genellikle ayrı kayıt verileriyle bağımsız olarak çalışır. Bunları senkronize etmek için oyunda yerleşik bir işlev yok. Bununla birlikte, bazı tarayıcı sürümleri, potansiyel yerel yedekleme için çerezleri dışarı aktarmanıza olanak tanır (işlev resmi olarak test edilmemiştir)."
+  },
+  {
+    "question": "Run 3 Paskalya Yumurtaları: Run 3'te en harika paskalya yumurtaları ve gizli referanslar nelerdir ve oyuncular bunları nasıl bulabilir?",
+    "answer": "Run 3, genellikle diğer Flash oyunlarına ve internet kültürüne atıfta bulunan çok sayıda paskalya yumurtası içeriyor. Daha erişilebilir paskalya yumurtalarından biri, belirli bir sonsuz seviyede mor koşucuyu içeriyor. Bu özel seviye için mor koşucu olmalı. Olağandışı uzun bir süre boyunca tek bir yolda sürekli olarak koşmak, '8-Bit' tarzı bir arka plan gösteren görsel bir anormalliği tetikler. Daha fazlasını keşfetmek için uzun koşular yapın. Oyunda paskalya yumurtaları bulmak bir min oyun haline gelebilir."
+  }
+]
