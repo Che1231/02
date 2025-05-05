@@ -1,0 +1,77 @@
+{
+  "happy-wheels": {
+    "title": "ハッピーホイールズ：物理ベースの楽しいオンラインゲーム - 今すぐ無料でプレイ！",
+    "slogan": "ハッピーホイールズで、ユーモラスで残酷な物理ベースのゲームプレイを体験してください！",
+    "description": "ハッピーホイールズでカオスな楽しみを体験しましょう！ユニークなキャラクターと乗り物を制御して、挑戦的な障害物を乗り越えてください。リアリスティックな物理とユーザー作成のレベルをお楽しみください。今すぐハッピーホイールズをオンラインで無料でプレイしてください！",
+    "Loading": {
+      "title": "ハッピーホイールズ読み込み中"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "ハッピーホイールズ",
+      "description": "ハッピーホイールズは、そのユニークなスタイルとゲームプレイで知られる物理ベースのアクションゲームです。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ハッピーホイールズ",
+      "whatIsTitle": "ハッピーホイールズとは？",
+      "whatIsDescription": "ハッピーホイールズは、さまざまなキャラクターと乗り物を危険なコースを駆使して操作する、物理ベースのアクションゲームです。",
+      "howToPlayTitle": "ハッピーホイールズをプレイする方法",
+      "howToPlayStep1": "あなたのキャラクターと乗り物を選びます。",
+      "howToPlayStep2": "障害物だらけのコースをナビゲートします。",
+      "howToPlayStep3": "危険を避けながら、ゴールラインに到達します。",
+      "keyFeaturesTitle": "ハッピーホイールズの主な特徴",
+      "feature1Title": "リアリティ物理シミュレーション",
+      "feature1Description": "ハッピーホイールズでは、キャラクターが環境と相互作用する際のリアルな動きと反応を体験してください。",
+      "feature2Title": "多様なレベルデザイン",
+      "feature2Description": "ユニークな課題とテーマがそれぞれのレベルで用意されている、幅広いレベルを探検してください。",
+      "feature3Title": "広範なカスタマイズ",
+      "feature3Description": "組み込みのエディターを使って、独自のレベルとキャラクターを作成し、共有しましょう。",
+      "feature4Title": "複数のキャラクターと乗り物",
+      "feature4Description": "ハッピーホイールズは、それぞれユニークな能力とプレイスタイルを持つ、さまざまなキャラクターと乗り物を提供しています。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ハッピーホイールズゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "happy-wheels": {
+    "title": "Happy Wheels：基于物理的在线趣味游戏——现在免费玩！",
+    "slogan": "在Happy Wheels体验充满喜剧色彩的基于物理的残酷游戏！",
+    "description": "准备好与Happy Wheels一起享受混乱的乐趣！控制独特的角色和车辆，通过充满挑战的障碍赛道。享受逼真的物理效果和用户创建的关卡。现在免费在线玩Happy Wheels！",
+    "Loading": {
+      "title": "加载Happy Wheels"
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一个",
+      "previous": "上一个"
+    },
+    "HomeIframe": {
+      "title": "Happy Wheels",
+      "description": "Happy Wheels是一款以其独特的风格和游戏玩法而闻名的基于物理的动作游戏。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "玩游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Happy Wheels",
+      "whatIsTitle": "Happy Wheels是什么？",
+      "whatIsDescription": "Happy Wheels是一款基于物理的动作游戏，您可以在其中控制各种角色和车辆，穿过危险的赛道。",
+      "howToPlayTitle": "如何玩Happy Wheels",
+      "howToPlayStep1": "选择您的角色和车辆。",
+      "howToPlayStep2": "在充满障碍的赛道中导航。",
+      "howToPlayStep3": "在避开危险的同时到达终点。",
+      "keyFeaturesTitle": "Happy Wheels 的主要特点",
+      "feature1Title": "逼真的物理模拟",
+      "feature1Description": "在Happy Wheels中体验角色与环境互动时的逼真动作和反应。",
+      "feature2Title": "多样化的关卡设计",
+      "feature2Description": "探索各种关卡，每个关卡都有独特的挑战和主题。",
+      "feature3Title": "全面的自定义功能",
+      "feature3Description": "使用内置编辑器创建和分享您自己的关卡和角色。",
+      "feature4Title": "多种角色和车辆",
+      "feature4Description": "Happy Wheels提供各种角色和车辆，每个角色和车辆都有独特的技能和游戏风格。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "Happy Wheels游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐内容"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页"
+    }
+  }
+}

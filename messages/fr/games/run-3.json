@@ -1,0 +1,77 @@
+{
+  "run-3": {
+    "title": "Run 3 : Jeu vidéo en ligne gratuit - Course infinie dans les tunnels spatiaux",
+    "slogan": "Run 3 : Relevez-vous dans une aventure spatiale sans fin !",
+    "description": "Embarquez pour un voyage exaltant avec Run 3, un jeu de course passionnant à thème spatial ! Naviguez dans des tunnels complexes, défiez la gravité et évitez les obstacles. Jouez à Run 3 maintenant et découvrez jusqu'où vous pouvez aller dans ce jeu runner infini !",
+    "Loading": {
+      "title": "Chargement de Run 3"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amis",
+      "articleList": "Liste d'articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Run 3",
+      "description": "Run 3 est un jeu de course infinie à thème spatial où vous contrôlez un personnage qui navigue dans des tunnels en sautant et en courant le long des murs.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Run 3",
+      "whatIsTitle": "Qu'est-ce que Run 3 ?",
+      "whatIsDescription": "Run 3 est un jeu de course captivant se déroulant dans un réseau complexe de tunnels spatiaux. Contrôlez votre personnage, changez la gravité, et évitez les obstacles pour atteindre la fin.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Utilisez les touches fléchées pour déplacer votre personnage.",
+      "howToPlayStep2": "Sautez et courez le long des murs pour vous déplacer dans les tunnels.",
+      "howToPlayStep3": "Changez la gravité pour éviter les obstacles et progresser plus loin.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Thème spatial unique",
+      "feature1Description": "Découvrez des environnements 3D visuellement époustouflants dans les tunnels spatiaux, offrant une expérience unique et immersive dans Run 3.",
+      "feature2Title": "Plusieurs modes de jeu",
+      "feature2Description": "Profitez de divers modes de jeu, incluant le mode Exploration, le mode Infini, et le mode Édition, pour des expériences de jeu variées dans Run 3.",
+      "feature3Title": "Personnages déblocables",
+      "feature3Description": "Découvrez et jouez avec des personnages uniques dotés de capacités spéciales, ajoutant de la profondeur et de la rejouabilité à Run 3.",
+      "feature4Title": "Créer et partager",
+      "feature4Description": "Concevez et partagez vos propres niveaux en mode Édition, en élargissant l’univers de Run 3 avec du contenu créé par la communauté."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}
