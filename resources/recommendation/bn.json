@@ -360,14 +360,14 @@
     "title": "Solitaire",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-29/images/1745930979621-ulx4xo.webp",
     "url": "/games/solitaire",
-    "category": "ট্রাম্পের খেলা",
+    "category": "অজানা",
     "visible": true
   },
   {
     "title": "Mahjong",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-29/images/1745931490076-dpiker.webp",
     "url": "/games/mahjong",
-    "category": "ম্যাঞ্চোং",
+    "category": "অজানা",
     "visible": true
   },
   {
@@ -451,7 +451,7 @@
     "title": "Minesweeper",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-29/images/1745931734619-zsku9.webp",
     "url": "/games/minesweeper",
-    "category": "মাইনসুইপার",
+    "category": "অজানা",
     "visible": true
   },
   {
@@ -1165,7 +1165,7 @@
     "title": "Tanks",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-29/images/1745937540691-10xha.webp",
     "url": "/games/tanks",
-    "category": "ট্যাঙ্ক",
+    "category": "অজানা",
     "visible": true
   },
   {
@@ -1200,7 +1200,7 @@
     "title": "Tic Tac Toe",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-29/images/1745940929243-n0aaww.webp",
     "url": "/games/tic-tac-toe",
-    "category": "টিক ট্যাক টো",
+    "category": "অজানা",
     "visible": true
   },
   {
@@ -1466,7 +1466,7 @@
     "title": "Hangman",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-29/images/1745932541150-q08zku.webp",
     "url": "/games/hangman",
-    "category": "হ্যাংম্যান",
+    "category": "অজানা",
     "visible": true
   },
   {
@@ -1487,14 +1487,14 @@
     "title": "Google Solitaire",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-29/images/1745931321446-w5u0mb.webp",
     "url": "/games/google-solitaire",
-    "category": "গুগলের সলিটেয়ার",
+    "category": "অজানা",
     "visible": true
   },
   {
     "title": "Klondike Solitaire",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-29/images/1745930943261-db9g4e.webp",
     "url": "/games/klondike-solitaire",
-    "category": "ক্লনডাইক সলিটেয়ার",
+    "category": "অজানা",
     "visible": true
   },
   {
@@ -1508,7 +1508,7 @@
     "title": "Spider Solitaire",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-29/images/1745930673505-w8cm2k.webp",
     "url": "/games/spider-solitaire",
-    "category": "স্পাইডার সলিটেয়ার",
+    "category": "অজানা",
     "visible": true
   },
   {
@@ -1522,7 +1522,7 @@
     "title": "Google Minesweeper",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-05-01/images/1746111126008-8w63wk.webp",
     "url": "/games/google-minesweeper",
-    "category": "গুগলের মাইনসুইপার",
+    "category": "অজানা",
     "visible": true
   },
   {
@@ -1536,6 +1536,13 @@
     "title": "Subway Surfers Tokyo",
     "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-05-01/images/1746111598138-8kkan.webp",
     "url": "/games/subway-surfers-tokyo",
+    "category": "অজানা",
+    "visible": true
+  },
+  {
+    "title": "StackBall.io",
+    "cover": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-05-09/images/1746780938045-l7zhcw.webp",
+    "url": "/games/stackball-io",
     "category": "অজানা",
     "visible": true
   }

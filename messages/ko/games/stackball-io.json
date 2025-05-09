@@ -1,0 +1,77 @@
+{
+  "stackball-io": {
+    "title": "스택 볼: 굴리고 부수세요! 무료로 StackBall.io 온라인 플레이",
+    "slogan": "StackBall.io에서 승리로 향하는 격렬한 공격!",
+    "description": "끝까지 스택을 부수는 흥미진진한 캐주얼 게임, StackBall.io에 참여하세요! 랜덤하게 생성되는 레벨과 3D 물리 엔진으로 역동적인 게임플레이를 경험해 보십시오. 지금 다운로드하거나 StackBall.io 온라인으로 플레이하세요! StackBall.io에서 수많은 시간 동안 무료로 즐거움을 누리세요.",
+    "Loading": {
+      "title": "StackBall.io 로딩 중"
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "컨텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "StackBall.io",
+      "description": "무료로 StackBall.io 온라인 플레이!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "StackBall.io",
+      "whatIsTitle": "StackBall.io는 무엇인가요?",
+      "whatIsDescription": "StackBall.io는 플랫폼을 부수고 바닥까지 도달하기 위해 공을 제어하는 캐주얼 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "공이 더 빠르게 떨어지도록 탭하여 누르세요.",
+      "howToPlayStep2": "멈추기 위해 해제하세요. 장애물을 피하기 위해 동작 타이밍을 맞춰주세요.",
+      "howToPlayStep3": "끝까지 스택을 부수세요.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "랜덤하게 생성되는 레벨",
+      "feature1Description": "각 게임마다 고유하고 예측할 수 없는 레벨 디자인을 특징으로 합니다.",
+      "feature2Title": "3D 물리 엔진",
+      "feature2Description": "현실적인 공 충돌과 역동적인 게임플레이를 즐기세요.",
+      "feature3Title": "다양한 테마",
+      "feature3Description": "다양한 스타일과 비주얼로 게임을 커스터마이즈 하세요.",
+      "feature4Title": "여러 게임 모드",
+      "feature4Description": "StackBall.io에서 다양한 도전을 위한 표준 및 슈퍼 파이어볼 모드를 경험하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임 목록"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

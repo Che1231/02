@@ -1,0 +1,120 @@
+{
+  "name": "StackBall.io",
+  "pagePath": "/games/stackball-io",
+  "pageName": "stackball-io",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://stackball.io/",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PhantomKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomKraken42.png",
+      "content": "StackBall.io is so addictive! The random level generation keeps it fresh every time. Love the 3D physics!"
+    },
+    {
+      "author": "NeonRevolver_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonRevolver_X.png",
+      "content": "Just unlocked the super fireball mode in StackBall.io. Smashing five stacks at once feels epic!"
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "The themes in StackBall.io are so sleek. Each one feels unique and visually stunning. Highly recommend!"
+    },
+    {
+      "author": "NoobMaster9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster9000.png",
+      "content": "Tried StackBall.io and got hooked instantly. The difficulty curve is just right—challenging but fair."
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "The 3D visuals in StackBall.io are next level. The ball collisions feel so satisfying to watch!"
+    },
+    {
+      "author": "CosmicPhoenix99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicPhoenix99.png",
+      "content": "StackBall.io is my go-to game for quick fun. The random tower layouts keep me on my toes!"
+    },
+    {
+      "author": "SavageKatana_Prime",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageKatana_Prime.png",
+      "content": "The power-ups in StackBall.io are a game-changer. Timing the invincibility just right feels so rewarding."
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "StackBall.io is surprisingly deep for a casual game. The super fireball mode is a blast!"
+    },
+    {
+      "author": "PotionMishap",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PotionMishap.png",
+      "content": "The minimalist art style in StackBall.io is so clean. It’s easy on the eyes and super fun to play."
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "StackBall.io is the perfect game to kill time. The random levels and smooth controls make it a winner."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-05-09/images/1746780938045-l7zhcw.webp",
+  "page_path": "/games/stackball-io",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Sports & IO"
+  ],
+  "createdTime": "2025-05-09 16:55:11"
+}

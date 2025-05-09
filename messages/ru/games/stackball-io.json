@@ -1,0 +1,77 @@
+{
+  "stackball-io": {
+    "title": "Stack Ball: Катание и Разрушение! Играйте в StackBall.io онлайн бесплатно",
+    "slogan": "Проложите путь к победе в StackBall.io!",
+    "description": "Погрузитесь в StackBall.io, захватывающую игру-головоломку, где вам нужно пробить стопки, чтобы добраться до финиша! Ощутите динамичную игру с случайно генерируемыми уровнями и 3D-физикой. Скачайте сейчас или играйте в StackBall.io онлайн! Наслаждайтесь часами бесплатного веселья в StackBall.io.",
+    "Loading": {
+      "title": "Загрузка StackBall.io"
+    },
+    "Navbar": {
+      "title": "Навигация"
+    },
+    "Common": {
+      "createAt": "Создано",
+      "guide": "Руководство",
+      "privacyPolicy": "Политика конфиденциальности",
+      "termsOfServices": "Условия использования",
+      "text": "Контент",
+      "help": "Помощь",
+      "friendlyLinks": "Полезные ссылки",
+      "articleList": "Список статей",
+      "home": "Главная",
+      "next": "Далее",
+      "previous": "Предыдущая"
+    },
+    "HomeIframe": {
+      "title": "StackBall.io",
+      "description": "Играйте в StackBall.io онлайн бесплатно!",
+      "iframeTitle": "Предварительный просмотр игры",
+      "fullscreenButton": "Полный экран",
+      "shareButton": "Поделиться",
+      "urlCopied": "Ссылка скопирована в буфер обмена!",
+      "downloadGame": "Скачать игру",
+      "playGame": "Играть"
+    },
+    "HomeFeatures": {
+      "gameTitle": "StackBall.io",
+      "whatIsTitle": "Что такое StackBall.io?",
+      "whatIsDescription": "StackBall.io - это игра-головоломка, в которой вы управляете шаром, чтобы пробивать платформы и добраться до финиша.",
+      "howToPlayTitle": "Как играть",
+      "howToPlayStep1": "Нажмите и удерживайте, чтобы шар падал быстрее.",
+      "howToPlayStep2": "Отпустите, чтобы остановить. Оптимизируйте свои движения, чтобы избежать препятствий.",
+      "howToPlayStep3": "Пробивайте стопки, чтобы добраться до финиша.",
+      "keyFeaturesTitle": "Основные возможности",
+      "feature1Title": "Случайно генерируемые уровни",
+      "feature1Description": "В каждой игре представлены уникальные и непредсказуемые уровни.",
+      "feature2Title": "Двигатель 3D-физики",
+      "feature2Description": "Наслаждайтесь реалистичными столкновениями шаров и динамичной игрой.",
+      "feature3Title": "Разнообразие тем",
+      "feature3Description": "Настройте свою игру с различными стилями и визуальными эффектами.",
+      "feature4Title": "Несколько режимов игры",
+      "feature4Description": "Попробуйте стандартный и супер-огненный шар для разнообразных испытаний в StackBall.io."
+    },
+    "HomeFAQs": {
+      "title": "Часто задаваемые вопросы"
+    },
+    "HomeRelatedVideo": {
+      "title": "Видео игры"
+    },
+    "HomeRecommendation": {
+      "title": "Рекомендации"
+    },
+    "HomeComments": {
+      "title": "Комментарии к игре"
+    },
+    "GamePage": {
+      "title": "Все игры",
+      "description": "Все игры",
+      "games": "Игры"
+    },
+    "CategoryPage": {
+      "categories": "Категории",
+      "noCategories": "Категории не найдены",
+      "viewMore": "Показать больше",
+      "page": "Страница"
+    }
+  }
+}
