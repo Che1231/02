@@ -1,0 +1,77 @@
+{
+  "stackball-io": {
+    "title": "疊疊球：滾動並擊碎！免費線上玩StackBall.io",
+    "slogan": "在StackBall.io中擊碎你的路，贏取勝利！",
+    "description": "潛入StackBall.io，這是一款令人興奮的休閒遊戲，讓你擊碎疊層以到達終點！體驗動態的遊戲玩法，隨機生成的關卡和3D物理引擎。立即下載或線上玩StackBall.io！在StackBall.io中享受無數小時的免費樂趣。",
+    "Loading": {
+      "title": "正在載入StackBall.io"
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "StackBall.io",
+      "description": "免費線上玩StackBall.io！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "遊玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "StackBall.io",
+      "whatIsTitle": "StackBall.io是什麼？",
+      "whatIsDescription": "StackBall.io是一款休閒遊戲，您控制一個球來打破平台並到達底部。",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "輕觸並按住使球下落更快。",
+      "howToPlayStep2": "放開以停止。調整你的動作以避免障礙物。",
+      "howToPlayStep3": "擊碎疊層以到達終點。",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "隨機生成的關卡",
+      "feature1Description": "每場遊戲都具有獨特且不可預測的關卡設計。",
+      "feature2Title": "3D物理引擎",
+      "feature2Description": "享受逼真的球體碰撞和動態遊戲玩法。",
+      "feature3Title": "多種主題",
+      "feature3Description": "用不同的風格和視覺效果自訂您的遊戲。",
+      "feature4Title": "多種遊戲模式",
+      "feature4Description": "體驗標準和超級火球模式，以應對StackBall.io中的各種挑戰。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題集"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

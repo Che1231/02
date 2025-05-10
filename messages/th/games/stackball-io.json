@@ -1,0 +1,77 @@
+{
+  "stackball-io": {
+    "title": "Stack Ball: กดและทุบ! เล่น StackBall.io ออนไลน์ฟรี",
+    "slogan": "ทำลายทุกอย่างเพื่อชัยชนะใน StackBall.io!",
+    "description": "เข้าสู่ StackBall.io เกมสบายๆ ที่น่าตื่นเต้น ซึ่งคุณต้องทุบผ่านกองเพื่อไปถึงจุดหมาย!  สัมผัสกับการเล่นเกมที่ไดนามิกด้วยระดับที่สร้างขึ้นแบบสุ่มและฟิสิกส์ 3 มิติ ดาวน์โหลดตอนนี้หรือเล่น StackBall.io ออนไลน์! เพลิดเพลินกับความสนุกแบบไม่จำกัดใน StackBall.io",
+    "Loading": {
+      "title": "กำลังโหลด StackBall.io"
+    },
+    "Navbar": {
+      "title": "นำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คำแนะนำ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดในการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์ที่เป็นมิตร",
+      "articleList": "รายการบทความ",
+      "home": "หน้าหลัก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "StackBall.io",
+      "description": "เล่น StackBall.io ออนไลน์ฟรี!",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ไปยังคลิปบอร์ดเรียบร้อยแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "StackBall.io",
+      "whatIsTitle": "StackBall.io คืออะไร?",
+      "whatIsDescription": "StackBall.io เป็นเกมสบายๆ ที่คุณควบคุมลูกบอลเพื่อทำลายแพลตฟอร์มและไปถึงด้านล่าง",
+      "howToPlayTitle": "วิธีการเล่น",
+      "howToPlayStep1": "แตะและกดค้างไว้เพื่อให้ลูกบอลตกลงมาเร็วขึ้น",
+      "howToPlayStep2": "ปล่อยเพื่อหยุด  ประสานการเคลื่อนไหวเพื่อหลีกเลี่ยงสิ่งกีดขวาง",
+      "howToPlayStep3": "ทำลายกองเพื่อไปถึงจุดหมาย",
+      "keyFeaturesTitle": "คุณสมบัติหลัก",
+      "feature1Title": "ระดับที่สร้างขึ้นแบบสุ่ม",
+      "feature1Description": "ทุกเกมมีการออกแบบระดับที่ไม่ซ้ำกันและคาดเดาไม่ได้",
+      "feature2Title": "เครื่องมือฟิสิกส์ 3 มิติ",
+      "feature2Description": "เพลิดเพลินกับการชนกันของลูกบอลที่สมจริงและการเล่นเกมที่ไดนามิก",
+      "feature3Title": "ธีมหลากหลาย",
+      "feature3Description": "ปรับแต่งเกมของคุณด้วยสไตล์และภาพที่แตกต่างกัน",
+      "feature4Title": "โหมดเกมหลายโหมด",
+      "feature4Description": "สัมผัสกับโหมดมาตรฐานและโหมดลูกไฟไหม้สุดพลังเพื่อความท้าทายที่หลากหลายใน StackBall.io"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นของผู้เล่น"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

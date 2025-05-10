@@ -1,0 +1,77 @@
+{
+  "stackball-io": {
+    "title": "Stack Ball：転がり、破壊！無料のStackBall.ioオンラインでプレイ！",
+    "slogan": "StackBall.ioで勝利を目指そう！",
+    "description": "StackBall.io、積み重ねたものを破壊してゴールを目指せるスリリングなカジュアルゲーム！ランダムに生成されるレベルと3D物理エンジンでダイナミックなゲームプレイを体験。今すぐダウンロードするか、StackBall.ioをオンラインでプレイ！StackBall.ioでは、数えきれないほどの無料の楽しみを満喫できます。",
+    "Loading": {
+      "title": "StackBall.ioロード中"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "StackBall.io",
+      "description": "StackBall.ioを無料でオンラインでプレイ！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "StackBall.io",
+      "whatIsTitle": "StackBall.ioとは？",
+      "whatIsDescription": "StackBall.ioは、ボールを操作してプラットフォームを破壊し、底まで到達するカジュアルゲームです。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "ボールをより速く落とすためにタップして長押しします。",
+      "howToPlayStep2": "離すと停止します。障害物を避けるため、動きにタイミングを合わせましょう。",
+      "howToPlayStep3": "積み重ねたものを破壊してゴールを目指しましょう。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "ランダムに生成されるレベル",
+      "feature1Description": "各ゲームはユニークで予測不能なレベルデザインを備えています。",
+      "feature2Title": "3D物理エンジン",
+      "feature2Description": "現実的なボールの衝突とダイナミックなゲームプレイをお楽しみください。",
+      "feature3Title": "様々なテーマ",
+      "feature3Description": "異なるスタイルとビジュアルでゲームをカスタマイズできます。",
+      "feature4Title": "複数のゲームモード",
+      "feature4Description": "StackBall.ioで標準モードとスーパーファイアボールモードを体験し、様々な挑戦を楽しめます。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

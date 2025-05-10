@@ -1,0 +1,77 @@
+{
+  "stackball-io": {
+    "title": "堆球：滚动并粉碎！免费在线玩堆球.io",
+    "slogan": "在堆球.io中粉碎你的道路走向胜利！",
+    "description": "沉浸在堆球.io中，这是一款令人兴奋的休闲游戏，你将粉碎堆叠物到达终点！体验随机生成关卡和 3D 物理效果的动态游戏玩法。立即下载或在线玩堆球.io！在堆球.io中享受无数小时的免费乐趣。",
+    "Loading": {
+      "title": "正在加载堆球.io"
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "堆球.io",
+      "description": "免费在线玩堆球.io！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "堆球.io",
+      "whatIsTitle": "什么是堆球.io？",
+      "whatIsDescription": "堆球.io是一款休闲游戏，你控制一个小球来打破平台到达底部。",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "点击并按住快速使球下落。",
+      "howToPlayStep2": "松开停止。调整你的动作以避免障碍。",
+      "howToPlayStep3": "粉碎堆叠物到达终点。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "随机生成关卡",
+      "feature1Description": "每个游戏都具有独特且不可预测的关卡设计。",
+      "feature2Title": "3D 物理引擎",
+      "feature2Description": "享受逼真的球碰撞和动态游戏玩法。",
+      "feature3Title": "多种主题",
+      "feature3Description": "使用不同的风格和视觉效果自定义你的游戏。",
+      "feature4Title": "多种游戏模式",
+      "feature4Description": "体验标准和超级火球模式，以应对堆球.io中的各种挑战。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

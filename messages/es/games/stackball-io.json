@@ -1,0 +1,77 @@
+{
+  "stackball-io": {
+    "title": "Stack Ball: ¡Rueda y aplasta! Juega a StackBall.io en línea gratis",
+    "slogan": "¡Aplasta tu camino hacia la victoria en StackBall.io!",
+    "description": "¡Sumérgete en StackBall.io, un emocionante juego casual donde aplastas pilas para llegar al final! Experimenta una jugabilidad dinámica con niveles generados aleatoriamente y física en 3D. ¡Descarga ahora o juega a StackBall.io en línea! Disfruta de un sinfín de diversión gratuita en StackBall.io.",
+    "Loading": {
+      "title": "Cargando StackBall.io"
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Creado el",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Condiciones de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "StackBall.io",
+      "description": "¡Juega a StackBall.io en línea gratis!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "StackBall.io",
+      "whatIsTitle": "¿Qué es StackBall.io?",
+      "whatIsDescription": "StackBall.io es un juego casual en el que controlas una pelota para romper plataformas y llegar al fondo.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Toca y mantén presionado para que la pelota caiga más rápido.",
+      "howToPlayStep2": "Suelta para detenerla. Ajusta tus movimientos para evitar obstáculos.",
+      "howToPlayStep3": "Aplasta las pilas para llegar al final.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Niveles generados aleatoriamente",
+      "feature1Description": "Cada juego presenta diseños de niveles únicos e impredecibles.",
+      "feature2Title": "Motor de física 3D",
+      "feature2Description": "Disfruta de colisiones de pelota realistas y una jugabilidad dinámica.",
+      "feature3Title": "Variedad de temas",
+      "feature3Description": "Personaliza tu juego con diferentes estilos y visuales.",
+      "feature4Title": "Múltiples modos de juego",
+      "feature4Description": "Experimenta modos estándar y de bola de fuego súper para desafíos diversos en StackBall.io."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}
