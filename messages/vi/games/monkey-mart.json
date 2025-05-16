@@ -1,0 +1,77 @@
+{
+  "monkey-mart": {
+    "title": "Trò chơi Monkey Mart: Quản lý siêu thị trực tuyến của bạn miễn phí",
+    "slogan": "Chạy siêu thị của riêng bạn!",
+    "description": "Hãy đắm chìm trong thế giới Monkey Mart, một trò chơi mô phỏng thú vị nơi bạn quản lý siêu thị của riêng mình với tư cách là một con khỉ! Trồng trái cây, thu hoạch nông sản và bán hàng hóa. Chơi Monkey Mart trực tuyến miễn phí và trải nghiệm niềm vui của việc quản lý cửa hàng riêng của bạn. Bắt đầu xây dựng đế chế Monkey Mart của bạn ngay hôm nay!",
+    "Loading": {
+      "title": "Đang tải Monkey Mart"
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Monkey Mart",
+      "description": "Monkey Mart là một trò chơi mô phỏng được phát triển bởi Tiny Dobbins, nơi bạn quản lý một siêu thị với tư cách là một con khỉ.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Màn hình toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải game",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Monkey Mart",
+      "whatIsTitle": "Monkey Mart là gì?",
+      "whatIsDescription": "Monkey Mart là một trò chơi mô phỏng, trong đó người chơi quản lý một siêu thị với tư cách là một con khỉ, trồng trái cây, thu hoạch nông sản và bán hàng cho khách hàng.",
+      "howToPlayTitle": "Cách chơi Monkey Mart",
+      "howToPlayStep1": "Sử dụng WASD hoặc các phím mũi tên để di chuyển con khỉ của bạn.",
+      "howToPlayStep2": "Đứng trên những ô trống để trồng cây, và gần những cây đã trưởng thành để thu hoạch.",
+      "howToPlayStep3": "Đặt thực phẩm đã thu hoạch lên kệ để khách hàng mua.",
+      "keyFeaturesTitle": "Các tính năng chính của Monkey Mart",
+      "feature1Title": "Đồ họa dễ thương",
+      "feature1Description": "Các nhân vật và cảnh đáng yêu hấp dẫn người chơi ở mọi lứa tuổi trong Monkey Mart.",
+      "feature2Title": "Điều khiển đơn giản",
+      "feature2Description": "Gameplay dễ hiểu phù hợp với tất cả người chơi trong Monkey Mart.",
+      "feature3Title": "Tương tác cao",
+      "feature3Description": "Tương tác với khách hàng và quản lý nhân viên trong một không gian tràn đầy sinh động trong Monkey Mart.",
+      "feature4Title": "Tự do sáng tạo",
+      "feature4Description": "Tùy chỉnh bố trí cửa hàng và lựa chọn sản phẩm của bạn trong Monkey Mart."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video game"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận game"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

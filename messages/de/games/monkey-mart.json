@@ -1,0 +1,77 @@
+{
+  "monkey-mart": {
+    "title": "Monkey Mart Spiel: Verwalten Sie Ihr Online-Supermarkt kostenlos",
+    "slogan": "Führen Sie Ihren eigenen Monkey Mart!",
+    "description": "Tauchen Sie ein in die Welt von Monkey Mart, einem lustigen Simulations-Spiel, in dem Sie Ihren eigenen Supermarkt als Affe verwalten! Pflanzen Sie Früchte, ernten Sie Ernten und verkaufen Sie Waren. Spielen Sie Monkey Mart kostenlos online und erleben Sie den Nervenkitzel der Verwaltung Ihres eigenen Geschäfts. Beginnen Sie noch heute, Ihr Monkey Mart-Imperium auszubauen!",
+    "Loading": {
+      "title": "Monkey Mart wird geladen"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelverzeichnis",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Monkey Mart",
+      "description": "Monkey Mart ist ein von Tiny Dobbins entwickeltes Simulations-Spiel, in dem Sie als Affe einen Supermarkt verwalten.",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Monkey Mart",
+      "whatIsTitle": "Was ist Monkey Mart?",
+      "whatIsDescription": "Monkey Mart ist ein Simulations-Spiel, bei dem Spieler einen Supermarkt als Affe verwalten, Früchte pflanzen, Ernten ernten und Waren an Kunden verkaufen.",
+      "howToPlayTitle": "So spielen Sie Monkey Mart",
+      "howToPlayStep1": "Bewegen Sie Ihren Affen mit WASD oder Pfeiltasten.",
+      "howToPlayStep2": "Stehen Sie auf ungenutzten Flächen, um Pflanzen zu setzen, und in der Nähe reifer Pflanzen, um zu ernten.",
+      "howToPlayStep3": "Legen Sie die geernteten Lebensmittel auf Stände, damit Kunden sie kaufen können.",
+      "keyFeaturesTitle": "Wichtige Merkmale von Monkey Mart",
+      "feature1Title": "Süße Grafiken",
+      "feature1Description": "Charmante Charaktere und Szenen sprechen Spieler jeden Alters in Monkey Mart an.",
+      "feature2Title": "Einfache Steuerung",
+      "feature2Description": "Einfaches Gameplay, das für alle Spieler in Monkey Mart geeignet ist.",
+      "feature3Title": "Sehr interaktiv",
+      "feature3Description": "Engagieren Sie sich mit Kunden und verwalten Sie Mitarbeiter in einer lebhaften Atmosphäre in Monkey Mart.",
+      "feature4Title": "Kreative Freiheit",
+      "feature4Description": "Passen Sie das Layout Ihres Geschäfts und die Produktauswahl in Monkey Mart an."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spiel Kommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

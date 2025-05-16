@@ -1,0 +1,77 @@
+{
+  "monkey-mart": {
+    "title": "몬키 마트 게임: 무료로 온라인 슈퍼마켓을 관리합니다",
+    "slogan": "자신의 몬키 마트를 운영하세요!",
+    "description": "몬키 마트라는 재미있는 시뮬레이션 게임에 뛰어들어, 원숭이로서 자신의 슈퍼마켓을 관리하세요! 과일을 심고, 작물을 수확하고, 상품을 판매하세요. 무료로 온라인 몬키 마트를 플레이하고, 자신의 상점을 관리하는 짜릿함을 경험하세요. 오늘부터 몬키 마트 제국을 키우기 시작하세요!",
+    "Loading": {
+      "title": "몬키 마트 로딩"
+    },
+    "Navbar": {
+      "title": "탐색창"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "몬키 마트",
+      "description": "몬키 마트는 Tiny Dobbins가 개발한 시뮬레이션 게임으로, 원숭이로서 슈퍼마켓을 운영합니다.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "몬키 마트",
+      "whatIsTitle": "몬키 마트는 무엇인가요?",
+      "whatIsDescription": "몬키 마트는 플레이어가 원숭이로서 슈퍼마켓을 관리하는 시뮬레이션 게임으로, 과일을 심고, 작물을 수확하고, 고객에게 상품을 판매합니다.",
+      "howToPlayTitle": "몬키 마트 플레이 방법",
+      "howToPlayStep1": "WASD키나 화살표 키를 사용하여 원숭이를 이동하세요.",
+      "howToPlayStep2": "빈 땅에 서서 작물을 심고, 성숙한 식물 근처에서 수확하세요.",
+      "howToPlayStep3": "수확한 음식을 판매대에 놓아 고객이 구매하도록 하세요.",
+      "keyFeaturesTitle": "몬키 마트 주요 기능",
+      "feature1Title": "귀여운 그래픽",
+      "feature1Description": "몬키 마트의 매력적인 캐릭터와 배경은 모든 연령대의 플레이어에게 호소력을 높입니다.",
+      "feature2Title": "간편한 컨트롤",
+      "feature2Description": "모든 플레이어가 쉽게 이해할 수 있는 게임 플레이 방식입니다.",
+      "feature3Title": "매우 상호 작용적",
+      "feature3Description": "몬키 마트에서 생생한 분위기 속에서 고객과 상호 작용하고 직원을 관리하세요.",
+      "feature4Title": "창의적인 자유",
+      "feature4Description": "몬키 마트에서 상점 레이아웃과 상품 선택을 사용자 지정하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}
