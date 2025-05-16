@@ -1,0 +1,77 @@
+{
+  "monkey-mart": {
+    "title": "เกม Monkey Mart: จัดการซูเปอร์มาร์เก็ตออนไลน์ฟรี",
+    "slogan": "เปิดร้าน Monkey Mart ของคุณเอง!",
+    "description": "ดื่มด่ำในโลกของ Monkey Mart เกมจำลองสนุกๆ ที่คุณจัดการซูเปอร์มาร์เก็ตของคุณเองในฐานะลิง! ปลูกผลไม้ เก็บเกี่ยวพืชผัก และขายสินค้า เล่น Monkey Mart ออนไลน์ฟรีและสัมผัสความตื่นเต้นในการจัดการร้านค้าของคุณเอง เริ่มสร้างอาณาจักร Monkey Mart ของคุณวันนี้!",
+    "Loading": {
+      "title": "กำลังโหลด Monkey Mart"
+    },
+    "Navbar": {
+      "title": "นำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ความช่วยเหลือ",
+      "friendlyLinks": "ลิงก์ที่เป็นมิตร",
+      "articleList": "รายการบทความ",
+      "home": "หน้าหลัก",
+      "next": "ถัดไป",
+      "previous": "ก่อนหน้า"
+    },
+    "HomeIframe": {
+      "title": "Monkey Mart",
+      "description": "Monkey Mart เป็นเกมจำลองที่พัฒนาโดย Tiny Dobbins คุณจะจัดการซูเปอร์มาร์เก็ตในฐานะลิง",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ไปยังคลิปบอร์ดเรียบร้อยแล้ว!",
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Monkey Mart",
+      "whatIsTitle": "Monkey Mart คืออะไร?",
+      "whatIsDescription": "Monkey Mart เป็นเกมจำลองที่ผู้เล่นจัดการซูเปอร์มาร์เก็ตในฐานะลิง ปลูกผลไม้ เก็บเกี่ยวผัก และขายสินค้าให้กับลูกค้า",
+      "howToPlayTitle": "วิธีการเล่น Monkey Mart",
+      "howToPlayStep1": "ใช้ WASD หรือลูกศรเพื่อเคลื่อนไหวลิงของคุณ",
+      "howToPlayStep2": "ยืนบนที่ว่างเพื่อปลูกพืช และอยู่ใกล้ต้นไม้ที่โตเต็มที่จะเก็บเกี่ยว",
+      "howToPlayStep3": "วางอาหารที่เก็บเกี่ยวไว้บนแผงขายเพื่อให้ลูกค้าซื้อ",
+      "keyFeaturesTitle": "คุณสมบัติสำคัญของ Monkey Mart",
+      "feature1Title": "กราฟิกน่ารัก",
+      "feature1Description": "ตัวละครและฉากที่น่ารักดึงดูดผู้เล่นทุกวัยใน Monkey Mart",
+      "feature2Title": "การควบคุมง่ายๆ",
+      "feature2Description": "การเล่นเกมที่เข้าใจง่าย เหมาะสำหรับผู้เล่นทุกคนใน Monkey Mart",
+      "feature3Title": "มีปฏิสัมพันธ์สูง",
+      "feature3Description": "มีส่วนร่วมกับลูกค้าและจัดการพนักงานในบรรยากาศที่คึกคักใน Monkey Mart",
+      "feature4Title": "ความอิสระในการสร้างสรรค์",
+      "feature4Description": "ปรับแต่งการจัดวางร้านค้าและการเลือกสินค้าของคุณใน Monkey Mart"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นเกม"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่",
+      "noCategories": "ไม่พบหมวดหมู่",
+      "viewMore": "ดูเพิ่มเติม",
+      "page": "หน้า"
+    }
+  }
+}

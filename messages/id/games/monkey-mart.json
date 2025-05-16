@@ -1,0 +1,77 @@
+{
+  "monkey-mart": {
+    "title": "Permainan Pasar Monyet: Kelola Supermarket Online Anda Secara Gratis",
+    "slogan": "Jalankan Pasar Monyet Anda Sendiri!",
+    "description": "Selami dunia Pasar Monyet, sebuah permainan simulasi menyenangkan di mana Anda mengelola supermarket sendiri sebagai seekor monyet! Tanam buah-buahan, panen tanaman, dan jual barang. Mainkan Pasar Monyet secara online secara gratis dan rasakan sensasi mengelola toko Anda sendiri. Mulailah membangun kerajaan Pasar Monyet Anda hari ini!",
+    "Loading": {
+      "title": "Memuat Pasar Monyet"
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Pasar Monyet",
+      "description": "Pasar Monyet adalah permainan simulasi yang dikembangkan oleh Tiny Dobbins di mana Anda mengelola supermarket sebagai seekor monyet.",
+      "iframeTitle": "Pratinjau Permainan",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Permainan",
+      "playGame": "Mainkan Permainan"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Pasar Monyet",
+      "whatIsTitle": "Apa itu Pasar Monyet?",
+      "whatIsDescription": "Pasar Monyet adalah permainan simulasi di mana pemain mengelola supermarket sebagai seekor monyet, menanam buah-buahan, memanen tanaman, dan menjual barang kepada pelanggan.",
+      "howToPlayTitle": "Cara Memainkan Pasar Monyet",
+      "howToPlayStep1": "Gunakan tombol WASD atau panah untuk memindahkan monyet Anda.",
+      "howToPlayStep2": "Berdiri di petak kosong untuk menanam tanaman dan dekat tanaman matang untuk memanen.",
+      "howToPlayStep3": "Letakkan makanan hasil panen di stan agar pelanggan dapat membelinya.",
+      "keyFeaturesTitle": "Fitur Utama Pasar Monyet",
+      "feature1Title": "Grafik Lucu",
+      "feature1Description": "Karakter dan adegan yang menawan menarik pemain dari segala usia di Pasar Monyet.",
+      "feature2Title": "Kontrol Sederhana",
+      "feature2Description": "Gameplay yang mudah dipahami cocok untuk semua pemain di Pasar Monyet.",
+      "feature3Title": "Sangat Interaktif",
+      "feature3Description": "Berinteraksi dengan pelanggan dan mengelola karyawan dalam suasana yang meriah di Pasar Monyet.",
+      "feature4Title": "Kebebasan Kreatif",
+      "feature4Description": "Sesuaikan tata letak toko dan pilihan produk Anda di Pasar Monyet."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Permainan"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Permainan",
+      "description": "Semua Permainan",
+      "games": "Permainan"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Lebih Banyak",
+      "page": "Halaman"
+    }
+  }
+}

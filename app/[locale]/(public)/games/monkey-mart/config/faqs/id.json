@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Dasar-dasar Monkey Mart: Bagaimana cara menanam dan memanen pisang untuk monyet kecil saya?",
+    "answer": "Untuk memulai di Monkey Mart, ketuk terlebih dahulu lahan pisang yang tersedia. Monyet Anda akan menanamnya secara otomatis. Setelah pisang tumbuh (Anda akan melihatnya berubah kuning), ketuk lagi untuk memanen. Pisang yang dikumpulkan kemudian secara otomatis dijual ke pelanggan Anda. Pastikan untuk meningkatkan kecepatan monyet Anda untuk menanam dan memanen lebih cepat! Misalnya, meningkatkan 'Kecepatan Penanaman' sangat membantu."
+  },
+  {
+    "question": "Metode tercepat di Monkey Mart untuk memperluas ke bagian produk lainnya, seperti jagung atau telur?",
+    "answer": "Perluasan di Monkey Mart membutuhkan penumpukan pisang (uang) yang cukup untuk membeli stasiun baru. Fokus pada peningkatan stasiun pisang terlebih dahulu, karena merupakan sumber pendapatan utama Anda. Setelah Anda memiliki cukup pisang, arahkan ke menu 'Toko' dan beli stasiun yang diinginkan berikutnya (misalnya, jagung). Kemudian, tugaskan seekor monyet ke stasiun tersebut. Misalnya, prioritaskan stasiun 'Jagung' setelah Anda konsisten memiliki lebih dari 500 pisang di akun Anda."
+  },
+  {
+    "question": "Mengapa Monkey Mart saya kehabisan stok? Bagaimana cara mengelola kembali persediaan secara efisien untuk membuat pelanggan senang?",
+    "answer": "Kehabisan stok di Monkey Mart mengurangi kepuasan pelanggan. Untuk mengelola kembali persediaan secara efisien: LANGKAH 1: Perhatikan produk mana yang menipis dengan cepat. LANGKAH 2: Tingkatkan kapasitas angkut monyet Anda untuk produk tersebut. LANGKAH 3: Pertimbangkan untuk mempekerjakan monyet tambahan khusus untuk barang-barang yang sering habis. Misalnya, jika pisang Anda terus-menerus habis, tingkatkan peningkatan angkut monyet utama Anda lebih awal, atau pertimbangkan untuk mempekerjakan monyet kedua khusus untuk pisang."
+  },
+  {
+    "question": "Monkey Mart Lanjutan: Strategi apa yang paling efektif untuk mengotomatiskan tugas dan memaksimalkan keuntungan dalam jangka panjang?",
+    "answer": "Otomatisasi adalah kunci untuk memaksimalkan keuntungan di Monkey Mart. Strategi paling efektif meliputi: LANGKAH 1: Mengutamakan peningkatan untuk setiap stasiun untuk meningkatkan kecepatan produksi dan kapasitas penyimpanan. LANGKAH 2: Mempekerjakan monyet tambahan untuk mengotomatiskan pengisian ulang dan penjualan. LANGKAH 3: Berinvestasi dalam peningkatan infrastruktur seperti gerobak untuk meningkatkan efisiensi pergerakan monyet. Misalnya, tujuannya untuk mengotomatiskan konter pisang dan jagung terlebih dahulu. Ini meningkatkan efisiensi keseluruhan. Efisiensi peningkatan dibandingkan dengan biaya dapat dinyatakan sebagai rasio di mana rasio yang lebih besar lebih disukai."
+  },
+  {
+    "question": "Pengoptimalan MM: Pada titik apa saya harus fokus memperluas Monkey Mart saya versus meningkatkan stasiun yang ada untuk efisiensi optimal?",
+    "answer": "Keseimbangan antara perluasan dan peningkatan di Monkey Mart bergantung pada hambatan saat ini. Aturan praktis yang baik: Jika pelanggan sering mengantri di stasiun tertentu, fokus pada peningkatan stasiun (kecepatan produksi, kecepatan monyet, dan kapasitas angkut). Jika semua stasiun memiliki antrian minimal, maka fokus pada perluasan ke produk baru. Anda dapat menggunakan matriks keputusan: Jika tingkat kebahagiaan stasiun rata-rata kurang dari 70%, fokus pada peningkatan, jika tidak, perluas untuk mengisi kekosongan."
+  },
+  {
+    "question": "Strategi Monkey Mart: Bagaimana cara mengoptimalkan pergerakan monyet di dalam mart untuk meminimalkan waktu perjalanan dan memaksimalkan penjualan?",
+    "answer": "Mengoptimalkan pergerakan monyet mengurangi waktu luang dan meningkatkan penjualan di Monkey Mart. Posisikan stasiun yang sering digunakan lebih dekat satu sama lain, seperti menempatkan stasiun jagung di dekat stand pisang. Tingkatkan kecepatan pergerakan monyet untuk mengurangi keterlambatan perjalanan. Pertimbangkan menggunakan gerobak untuk meningkatkan kapasitas beban dan kecepatan perjalanan, terutama untuk sumber daya yang jauh. Bayangkan mart Anda sebagai sistem jalan raya. Setiap stasiun adalah kota. Jika jalur utama ditutup atau lambat, lalu lintas akan macet."
+  },
+  {
+    "question": "Pendalaman Sistem Monkey Mart: Apa mekanisme mendasar yang menentukan tingkat generasi dan konsumsi sumber daya?",
+    "answer": "Mekanisme mendasar di Monkey Mart melibatkan beberapa faktor: Generasi sumber daya bergantung pada level stasiun dan kecepatan produksi monyet. Tingkat konsumsi ditentukan oleh jumlah pelanggan dan kebiasaan pembelian mereka. Kebiasaan ini dipengaruhi oleh kebahagiaan toko secara keseluruhan yang ditunjukkan oleh jumlah hati. Peningkatan stasiun dan perekrutan monyet lebih banyak untuk meningkatkan semua tingkat secara linier, hingga batasnya. Model permainan matematika digunakan di balik layar untuk menjaga keseimbangan."
+  },
+  {
+    "question": "Menjelajahi sistem: Bagaimana kebahagiaan pelanggan memengaruhi pendapatan di Monkey Mart & Langkah-langkah apa yang dapat diambil untuk memengaruhinya secara positif?",
+    "answer": "Kebahagiaan pelanggan secara langsung memengaruhi pendapatan di Monkey Mart. Pelanggan yang lebih bahagia membeli lebih banyak produk dan bersedia membayar sedikit lebih banyak. Untuk meningkatkan kebahagiaan: Pastikan stasiun selalu terisi stok, tingkatkan kecepatan dan kapasitas angkut monyet untuk meminimalkan waktu tunggu, dan menawarkan berbagai produk. Anda ingin mencapai setidaknya 4 hati yang ditampilkan. Misalnya, jika pemain membiarkan pisang habis secara berkala, mereka pasti akan melihat penurunan signifikan pada hati dari 4 atau 5 menjadi 1 atau 2 dengan cepat."
+  },
+  {
+    "question": "Pemain Multiplatform Monkey Mart: Apakah ada rencana atau metode untuk mentransfer kemajuan saya di antara perangkat yang berbeda (iOS ke Android)?",
+    "answer": "Saat ini, Monkey Mart tidak secara asli mendukung transfer kemajuan antar platform antara perangkat iOS dan Android. Namun, perhatikan pembaruan masa depan yang mungkin memperkenalkan sinkronisasi berbasis cloud atau fitur tautan akun untuk memungkinkan fungsi ini. Jika tidak, pemain perlu tetap dengan pendekatan satu platform. Layanan cloud dapat sulit diimplementasikan karena memerlukan akun pemain dan strategi penyimpanan data."
+  },
+  {
+    "question": "Rahasia Tersembunyi Monkey Mart: Apakah ada pencapaian khusus atau barang langka yang dapat Anda peroleh dengan melakukan tugas tertentu, seperti menekan berulang kali pada objek tertentu?",
+    "answer": "Di Monkey Mart, ada pencapaian tersembunyi dan acara khusus yang dipicu oleh tindakan tertentu. Meskipun detail pastinya sering disembunyikan untuk mendorong eksplorasi, cobalah menekan berulang kali berbagai objek di lingkungan, seperti tanda atau buah-buahan tertentu. Beberapa tindakan membuka item kosmetik atau peningkatan sementara. Sebagai rahasia yang diketahui, misalnya, menekan gambar monyet di balik konter pisang 100 kali membuka topi khusus. Ini adalah hal-hal yang perlu diperhatikan saat Anda bermain."
+  }
+]

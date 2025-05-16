@@ -1,0 +1,120 @@
+{
+  "name": "Monkey Mart",
+  "pagePath": "/games/monkey-mart",
+  "pageName": "monkey-mart",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://monkey-mart.io/iframe/index.html",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "CosmicKraken42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CosmicKraken42.png",
+      "content": "OMG, I'm totally hooked on Monkey Mart! The simple controls make it super easy to get into, and I love managing my own little supermarket. It's the cutest game ever!"
+    },
+    {
+      "author": "NeonPhoenix99",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NeonPhoenix99.png",
+      "content": "This Monkey Mart is just the game for me to chill. It's awesome, I keep coming back for more. I can plant crops, sell stuff, and even hire monkeys to help! Definitely recommend!"
+    },
+    {
+      "author": "SavageRevolver_X",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SavageRevolver_X.png",
+      "content": "The game is so much fun! I find myself playing Monkey Mart again and again, really! I adore the cute art style and it's surprisingly engaging even though I'm an adult."
+    },
+    {
+      "author": "Witcher4Lyfe",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/Witcher4Lyfe.png",
+      "content": "What a cool game! Managing the shoppers is my favorite part – it's like real life, haha! Playing Monkey Mart has been a fun adventure"
+    },
+    {
+      "author": "NoobMaster87",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/NoobMaster87.png",
+      "content": "I really love how you can customize the shop in Monkey Mart. It's such an addictive game you guys need to play it!"
+    },
+    {
+      "author": "xX_DarkAura_Xx",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/xX_DarkAura_Xx.png",
+      "content": "This game is unbelievably cute...and fun. From harvesting crops of bananas to managing the cashier, I could play Monkey Mart all day. Great use of the WASD keys by the way!"
+    },
+    {
+      "author": "PhantomLeviathan",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhantomLeviathan.png",
+      "content": "Monkey Mart is surprisingly addictive. I seriously thought it was just a simple game, but I'm hooked! I recommend it to anyone looking for a game to play!"
+    },
+    {
+      "author": "StalkingBlade_42",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StalkingBlade_42.png",
+      "content": "This Monkey Mart is so easy to play! The graphics are amazing and the gameplay is superb. The offline mode is perfect for my commute. Totally worth it!"
+    },
+    {
+      "author": "CtrlAltDefeat",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CtrlAltDefeat.png",
+      "content": "The whole experience is kinda chill! I really like the game, it is one of the most entertaining experiences you can have on your mobile. Try out Monkey Mart!"
+    },
+    {
+      "author": "LagWarriorXX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LagWarriorXX.png",
+      "content": "Is it just me, or is Monkey Mart the best simulation game ever? I love how I can build my shop. A very good game overall. Highly recommended!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "customizeFeatures": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-05-16/images/1747397606706-703ne.webp",
+  "page_path": "/games/monkey-mart",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Simulation & Idle"
+  ],
+  "createdTime": "2025-05-16 20:12:51"
+}

@@ -1,0 +1,77 @@
+{
+  "monkey-mart": {
+    "title": "猴子超市遊戲：免費線上經營您的超市",
+    "slogan": "經營您的猴子超市！",
+    "description": "踏入猴子超市的世界，一個有趣的模擬遊戲，讓您扮演猴子經營自己的超市！種植水果、收穫農作物並銷售商品。免費線上玩猴子超市，體驗經營您自己的商店的樂趣。今天就開始發展您的猴子超市帝國！",
+    "Loading": {
+      "title": "正在載入猴子超市"
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立時間",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "猴子超市",
+      "description": "猴子超市是由Tiny Dobbins開發的一款模擬遊戲，讓您扮演猴子經營一家超市。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "猴子超市",
+      "whatIsTitle": "什麼是猴子超市？",
+      "whatIsDescription": "猴子超市是一款模擬遊戲，玩家扮演猴子經營一家超市，種植水果、收穫農作物並向顧客銷售商品。",
+      "howToPlayTitle": "如何玩猴子超市",
+      "howToPlayStep1": "使用 WASD 或方向鍵移動您的猴子。",
+      "howToPlayStep2": "站在空地上種植農作物，靠近成熟的植物收穫。",
+      "howToPlayStep3": "將收穫的食物放在攤位上供顧客購買。",
+      "keyFeaturesTitle": "猴子超市的主要功能",
+      "feature1Title": "可愛的圖形",
+      "feature1Description": "猴子超市迷人的角色和場景吸引所有年齡層的玩家。",
+      "feature2Title": "簡單的操作",
+      "feature2Description": "猴子超市簡單易懂的遊戲玩法適用於所有玩家。",
+      "feature3Title": "高度互動",
+      "feature3Description": "在猴子超市的熱鬧氛圍中與顧客互動和管理員工。",
+      "feature4Title": "創造自由",
+      "feature4Description": "在猴子超市中自定義您的商店佈局和產品選擇。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦遊戲"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "查看更多",
+      "page": "頁面"
+    }
+  }
+}

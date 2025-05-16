@@ -1,0 +1,77 @@
+{
+  "monkey-mart": {
+    "title": "Гра Monkey Mart: Керуйте своїм супермаркетом онлайн безкоштовно",
+    "slogan": "Керуйте своїм власним магазином Monkey Mart!",
+    "description": "Зануртеся у світ Monkey Mart – захоплююча симуляційна гра, де ви керуєте власним супермаркетом як мавпа! Саджайте фрукти, збирайте врожай та продавайте товари. Грай у Monkey Mart онлайн безкоштовно та відчуйте захват від керування власним магазином. Розпочніть будівництво вашої імперії Monkey Mart вже сьогодні!",
+    "Loading": {
+      "title": "Завантаження Monkey Mart"
+    },
+    "Navbar": {
+      "title": "Навігація"
+    },
+    "Common": {
+      "createAt": "Створено",
+      "guide": "Посібник",
+      "privacyPolicy": "Політика конфіденційності",
+      "termsOfServices": "Умови користування",
+      "text": "Зміст",
+      "help": "Допомога",
+      "friendlyLinks": "Корисні посилання",
+      "articleList": "Список статей",
+      "home": "Головна",
+      "next": "Далі",
+      "previous": "Попередній"
+    },
+    "HomeIframe": {
+      "title": "Monkey Mart",
+      "description": "Monkey Mart – симуляційна гра, розроблена Tiny Dobbins, де ви керуєте супермаркетом як мавпа.",
+      "iframeTitle": "Попередній перегляд гри",
+      "fullscreenButton": "Повноекранний режим",
+      "shareButton": "Поділитися",
+      "urlCopied": "Посилання скопійовано в буфер обміну!",
+      "downloadGame": "Завантажити гру",
+      "playGame": "Грати"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Monkey Mart",
+      "whatIsTitle": "Що таке Monkey Mart?",
+      "whatIsDescription": "Monkey Mart – симуляційна гра, де гравці керують супермаркетом як мавпа, саджають фрукти, збирають врожай та продають товари покупцям.",
+      "howToPlayTitle": "Як грати в Monkey Mart",
+      "howToPlayStep1": "Для переміщення мавпи використовуйте клавіші WASD або стрілки.",
+      "howToPlayStep2": "На порожніх ділянках саджайте культури, а біля дозрілих рослин – збирайте врожай.",
+      "howToPlayStep3": "Помістіть зібрану їжу на стійки, щоб клієнти могли її придбати.",
+      "keyFeaturesTitle": "Основні особливості Monkey Mart",
+      "feature1Title": "Милі графіки",
+      "feature1Description": "Привабливі персонажі та декорації залучають гравців різних віків у Monkey Mart.",
+      "feature2Title": "Прості керування",
+      "feature2Description": "Проста та зрозуміла гра, підходяща для всіх гравців у Monkey Mart.",
+      "feature3Title": "Висока інтерактивність",
+      "feature3Description": "Взаємодійте з клієнтами та керуйте співробітниками у жвавій атмосфері Monkey Mart.",
+      "feature4Title": "Творча свобода",
+      "feature4Description": "Налаштуйте дизайн вашого магазину та вибір товарів у Monkey Mart."
+    },
+    "HomeFAQs": {
+      "title": "Часті запитання"
+    },
+    "HomeRelatedVideo": {
+      "title": "Відео про гру"
+    },
+    "HomeRecommendation": {
+      "title": "Рекомендації"
+    },
+    "HomeComments": {
+      "title": "Коментарі до гри"
+    },
+    "GamePage": {
+      "title": "Всі ігри",
+      "description": "Всі ігри",
+      "games": "Ігри"
+    },
+    "CategoryPage": {
+      "categories": "Категорії",
+      "noCategories": "Категорії не знайдено",
+      "viewMore": "Переглянути більше",
+      "page": "Сторінка"
+    }
+  }
+}

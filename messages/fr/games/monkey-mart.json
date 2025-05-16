@@ -1,0 +1,77 @@
+{
+  "monkey-mart": {
+    "title": "Jeu Monkey Mart : Gérez votre supermarché en ligne gratuitement",
+    "slogan": "Gérer votre propre supermarché de singes !",
+    "description": "Plongez-vous dans le monde de Monkey Mart, un jeu de simulation amusant où vous gérez votre propre supermarché en tant que singe ! Plantez des fruits, récoltez des cultures et vendez des marchandises. Jouez à Monkey Mart en ligne gratuitement et vivez le frisson de gérer votre propre magasin. Commencez à développer votre empire Monkey Mart dès aujourd'hui !",
+    "Loading": {
+      "title": "Chargement de Monkey Mart"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens utiles",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Monkey Mart",
+      "description": "Monkey Mart est un jeu de simulation développé par Tiny Dobbins où vous gérez un supermarché en tant que singe.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Monkey Mart",
+      "whatIsTitle": "Qu'est-ce que Monkey Mart ?",
+      "whatIsDescription": "Monkey Mart est un jeu de simulation où les joueurs gèrent un supermarché en tant que singe, plantent des fruits, récoltent des cultures et vendent des marchandises aux clients.",
+      "howToPlayTitle": "Comment jouer à Monkey Mart",
+      "howToPlayStep1": "Utilisez les touches WASD ou les flèches pour déplacer votre singe.",
+      "howToPlayStep2": "Placez-vous sur des parcelles vides pour planter des cultures et près des plantes matures pour les récolter.",
+      "howToPlayStep3": "Placez les aliments récoltés sur les étals pour que les clients puissent les acheter.",
+      "keyFeaturesTitle": "Caractéristiques principales de Monkey Mart",
+      "feature1Title": "Graphismes adorables",
+      "feature1Description": "Les personnages et les décors charmants plairont aux joueurs de tous âges dans Monkey Mart.",
+      "feature2Title": "Contrôles simples",
+      "feature2Description": "Gameplay facile à comprendre adapté à tous les joueurs dans Monkey Mart.",
+      "feature3Title": "Très interactif",
+      "feature3Description": "Interagissez avec les clients et gérez les employés dans une atmosphère animée dans Monkey Mart.",
+      "feature4Title": "Liberté créative",
+      "feature4Description": "Personnalisez la disposition de votre magasin et la sélection de produits dans Monkey Mart."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Afficher plus",
+      "page": "Page"
+    }
+  }
+}

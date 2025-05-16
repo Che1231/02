@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Notions de base de Monkey Mart : Comment planter et récolter initialement des bananes pour mon petit singe ?",
+    "answer": "Pour commencer dans Monkey Mart, touchez d'abord un champ de bananes disponible. Votre singe le plantera automatiquement. Une fois que les bananes sont mûres (vous les verrez devenir jaunes), touchez à nouveau pour les récolter. Les bananes récoltées sont ensuite automatiquement vendues à vos clients. Assurez-vous d'améliorer la vitesse de votre singe pour planter et récolter plus rapidement ! Par exemple, améliorer sa \"Vitesse de plantation\" aide considérablement."
+  },
+  {
+    "question": "Quelle est la méthode la plus rapide dans Monkey Mart pour se développer dans d'autres sections de produits, comme le maïs ou les œufs ?",
+    "answer": "Pour se développer dans Monkey Mart, il faut accumuler suffisamment de bananes (argent) pour acheter de nouvelles stations. Concentrez-vous d'abord sur l'amélioration de votre station de bananes, car c'est votre principale source de revenus. Une fois que vous avez assez de bananes, accédez au menu \"Magasins\" et achetez la station souhaitée (par exemple, le maïs). Ensuite, affectez un singe à cette station. Par exemple, privilégiez la station \"Maïs\" une fois que vous avez systématiquement plus de 500 bananes sur votre compte."
+  },
+  {
+    "question": "Pourquoi mon Monkey Mart manque-t-il de stock ? Comment gérer efficacement les réapprovisionnements pour satisfaire les clients ?",
+    "answer": "Le manque de stock dans Monkey Mart réduit la satisfaction des clients. Pour gérer efficacement les réapprovisionnements : ÉTAPE 1 : Observez quels produits s'épuisent rapidement. ÉTAPE 2 : Améliorez la capacité de transport de vos singes pour ces produits. ÉTAPE 3 : Envisagez d'embaucher des singes supplémentaires spécifiquement pour les articles fréquemment épuisés. Par exemple, si vos bananes s'épuisent constamment, améliorez tôt la capacité de transport de votre singe principal, ou envisagez d'embaucher un deuxième singe pour les bananes uniquement."
+  },
+  {
+    "question": "Monkey Mart avancé : Quelle est la stratégie la plus efficace pour automatiser les tâches et maximiser les profits à long terme ?",
+    "answer": "L'automatisation est la clé pour maximiser les profits dans Monkey Mart. La stratégie la plus efficace implique : ÉTAPE 1 : Prioriser les améliorations de chaque station pour augmenter la vitesse de production et la capacité de stockage. ÉTAPE 2 : Embaucher des singes supplémentaires pour automatiser les réapprovisionnements et les ventes. ÉTAPE 3 : Investir dans des améliorations d'infrastructure comme les chariots pour améliorer l'efficacité des déplacements des singes. Par exemple, visez à automatiser d'abord les comptoirs à bananes et à maïs. Cela augmente l'efficacité globale. L'efficacité des améliorations par rapport au coût peut être exprimée sous forme de rapport, un rapport plus élevé étant préférable."
+  },
+  {
+    "question": "Optimisation de MM : À quel moment dois-je me concentrer sur l'expansion de mon Monkey Mart par rapport à l'amélioration des stations existantes pour une efficacité optimale ?",
+    "answer": "L'équilibre entre l'expansion et les améliorations dans Monkey Mart dépend des goulots d'étranglement actuels. Une bonne règle de base : Si les clients attendent fréquemment dans une file d'attente à une station particulière, concentrez-vous sur les améliorations de la station (vitesse de production, vitesse du singe et capacité de transport). Si toutes les stations ont des files d'attente minimes, concentrez-vous alors sur l'expansion à de nouveaux produits. Vous pouvez utiliser une matrice de décision : Si le bonheur moyen des stations est inférieur à 70 %, concentrez-vous sur les améliorations, sinon, développez-vous pour combler le vide."
+  },
+  {
+    "question": "Stratégies de Monkey Mart : Comment optimiser les déplacements des singes au sein de mon marché pour minimiser les temps de trajet et maximiser les ventes ?",
+    "answer": "Optimiser les déplacements des singes réduit les temps d'inactivité et stimule les ventes dans Monkey Mart. Placez les stations fréquemment utilisées plus près les unes des autres, comme placer la station maïs près du stand de bananes. Améliorez la vitesse de déplacement des singes pour réduire les retards de trajet. Envisagez d'utiliser des chariots pour augmenter la capacité de charge et la vitesse de déplacement, en particulier pour les ressources éloignées. Imaginez votre marché comme un réseau routier. Chaque station est une ville. Si la route principale est fermée ou lente, le trafic s'arrête."
+  },
+  {
+    "question": "Approfondissement du système Monkey Mart : Quels sont les mécanismes sous-jacents qui déterminent les taux de génération et de consommation des ressources ?",
+    "answer": "Les mécanismes sous-jacents de Monkey Mart impliquent plusieurs facteurs : La génération de ressources dépend du niveau de la station et de la vitesse de production du singe. Les taux de consommation sont déterminés par le nombre de clients et leurs habitudes d'achat. Ces habitudes sont influencées par le bonheur global du magasin, indiqué par le nombre de cœurs. Améliorer les stations et embaucher plus de singes pour améliorer tous les taux de manière linéaire, jusqu'à un plafond. Un modèle de jeu mathématique est utilisé en coulisses pour maintenir l'équilibre."
+  },
+  {
+    "question": "Approfondissement du système : Comment le bonheur des clients affecte-t-il les revenus dans Monkey Mart et quelles mesures peuvent être prises pour l'améliorer positivement ?",
+    "answer": "Le bonheur des clients affecte directement les revenus dans Monkey Mart. Des clients plus heureux achètent plus de produits et sont prêts à payer légèrement plus. Pour améliorer le bonheur : Assurez-vous que les stations sont toujours approvisionnées, améliorez la vitesse et la capacité de transport des singes pour minimiser les temps d'attente et proposez une variété de produits. Vous souhaitez viser au moins 4 cœurs affichés. Par exemple, si le joueur laisse les bananes s'épuiser fréquemment, il est sûr de constater une baisse significative des cœurs de 4 ou 5 à 1 ou 2 rapidement."
+  },
+  {
+    "question": "Jeu multiplateforme Monkey Mart : Existe-t-il un plan ou une méthode pour transférer mes progrès entre différents appareils (iOS vers Android) ?",
+    "answer": "Actuellement, Monkey Mart ne prend pas en charge le transfert de progression multiplateforme entre les appareils iOS et Android. Cependant, gardez un œil sur les futures mises à jour potentielles qui pourraient introduire des fonctionnalités de synchronisation basée sur le cloud ou de connexion de compte pour activer cette fonctionnalité. Sinon, les joueurs devront adopter une approche mono-plateforme. Les services cloud peuvent être difficiles à mettre en œuvre car ils nécessitent des comptes joueurs et des stratégies de stockage de données."
+  },
+  {
+    "question": "Secrets cachés de Monkey Mart : Existe-t-il des réalisations spéciales ou des objets rares que vous pouvez obtenir en effectuant des tâches spécifiques, comme appuyer répétitivement sur un objet particulier ?",
+    "answer": "Dans Monkey Mart, il existe des réalisations cachées et des événements spéciaux déclenchées par des actions spécifiques. Bien que les détails exacts soient souvent gardés secrets pour encourager l'exploration, essayez d'appuyer plusieurs fois sur divers objets de l'environnement, tels que le panneau ou des fruits spécifiques. Certaines actions débloquent des objets cosmétiques ou des bonus temporaires. C'est un secret connu, par exemple, que taper 100 fois sur l'image du singe derrière le comptoir à bananes débloque un chapeau spécial. Il s'agit du type de choses à surveiller pendant que vous jouez."
+  }
+]

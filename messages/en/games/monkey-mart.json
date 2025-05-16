@@ -1,0 +1,77 @@
+{
+  "monkey-mart": {
+    "title": "Monkey Mart Game: Manage Your Supermarket Online for Free",
+    "slogan": "Run Your Own Monkey Mart!",
+    "description": "Dive into the world of Monkey Mart, a fun simulation game where you manage your own supermarket as a monkey! Plant fruits, harvest crops, and sell goods. Play Monkey Mart online for free and experience the thrill of managing your own store. Start growing your Monkey Mart empire today!",
+    "Loading": {
+      "title": "Loading Monkey Mart"
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Monkey Mart",
+      "description": "Monkey Mart is a simulation game developed by Tiny Dobbins where you manage a supermarket as a monkey.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Monkey Mart",
+      "whatIsTitle": "What is Monkey Mart?",
+      "whatIsDescription": "Monkey Mart is a simulation game where players manage a supermarket as a monkey, planting fruits, harvesting crops, and selling goods to customers.",
+      "howToPlayTitle": "How to Play Monkey Mart",
+      "howToPlayStep1": "Use WASD or arrow keys to move your monkey.",
+      "howToPlayStep2": "Stand on empty plots to plant crops, and near mature plants to harvest.",
+      "howToPlayStep3": "Place harvested food on stands for customers to purchase.",
+      "keyFeaturesTitle": "Key Features of Monkey Mart",
+      "feature1Title": "Cute Graphics",
+      "feature1Description": "Charming characters and scenes appeal to players of all ages in Monkey Mart.",
+      "feature2Title": "Simple Controls",
+      "feature2Description": "Easy to understand gameplay suitable for all players in Monkey Mart.",
+      "feature3Title": "Highly Interactive",
+      "feature3Description": "Engage with customers and manage employees in a lively atmosphere in Monkey Mart.",
+      "feature4Title": "Creative Freedom",
+      "feature4Description": "Customize your store layout and product selection in Monkey Mart."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

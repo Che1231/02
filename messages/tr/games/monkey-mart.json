@@ -1,0 +1,77 @@
+{
+  "monkey-mart": {
+    "title": "Maymun Pazarı Oyunu: Ücretsiz Olarak Çevrimiçi Süpermarketinizi Yönetin",
+    "slogan": "Kendi Maymun Pazarınızı Yönetin!",
+    "description": "Maymun Pazarı dünyasına dalın, kendi süpermarketinizi maymun olarak yönettiğiniz eğlenceli bir simülasyon oyunudur! Meyveler ekin, ürünler hasat edin ve malları satın. Maymun Pazarı'nı çevrimiçi ücretsiz oynayın ve kendi mağazanızı yönetmenin heyecanını yaşayın. Bugünden itibaren Maymun Pazarı imparatorluğunuzu büyütmeye başlayın!",
+    "Loading": {
+      "title": "Maymun Pazarı Yükleniyor"
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Maymun Pazarı",
+      "description": "Maymun Pazarı, Tiny Dobbins tarafından geliştirilen ve içinde bir maymun olarak bir süpermarketi yönettiğiniz bir simülasyon oyunudur.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Maymun Pazarı",
+      "whatIsTitle": "Maymun Pazarı Nedir?",
+      "whatIsDescription": "Maymun Pazarı, oyuncuların bir maymun olarak bir süpermarketi yönettiği, meyveler ektiği, ürünler hasat ettiği ve müşterilere mallar sattığı bir simülasyon oyunudur.",
+      "howToPlayTitle": "Maymun Pazarı Nasıl Oynanır?",
+      "howToPlayStep1": "Maymununuzu hareket ettirmek için WASD veya ok tuşlarını kullanın.",
+      "howToPlayStep2": "Boş alanlara dikmek için ve olgun bitkilerin yanında hasat etmek için durun.",
+      "howToPlayStep3": "Hasat edilen yiyecekleri müşterilerin satın alabileceği stantlara yerleştirin.",
+      "keyFeaturesTitle": "Maymun Pazarı'nın Temel Özellikleri",
+      "feature1Title": "Sevimli Grafikler",
+      "feature1Description": "Maymun Pazarı'ndaki büyüleyici karakterler ve sahneler her yaştan oyuncuyu cezbediyor.",
+      "feature2Title": "Basit Kontroller",
+      "feature2Description": "Maymun Pazarı'nda her oyuncu için kolay anlaşılan bir oyun.",
+      "feature3Title": "Yüksek Etkileşim",
+      "feature3Description": "Maymun Pazarı'nda canlı bir ortamda müşterilerle etkileşime girin ve çalışanları yönetin.",
+      "feature4Title": "Yaratıcı Özgürlük",
+      "feature4Description": "Maymun Pazarı'nda mağazanızın düzenini ve ürün seçimini özelleştirin."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

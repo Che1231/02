@@ -1,0 +1,77 @@
+{
+  "monkey-mart": {
+    "title": "Jogo Monkey Mart: Gerencie seu supermercado online gratuitamente",
+    "slogan": "Administre seu próprio Mercado de Macacos!",
+    "description": "Mergulhe no mundo do Monkey Mart, um divertido jogo de simulação onde você gerencia seu próprio supermercado como um macaco! Plante frutas, colha safras e venda produtos. Jogue Monkey Mart online gratuitamente e experimente a emoção de gerenciar sua própria loja. Comece a construir seu império Monkey Mart hoje!",
+    "Loading": {
+      "title": "Carregando Monkey Mart"
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Úteis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Monkey Mart",
+      "description": "Monkey Mart é um jogo de simulação desenvolvido pela Tiny Dobbins onde você gerencia um supermercado como um macaco.",
+      "iframeTitle": "Prévia do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Monkey Mart",
+      "whatIsTitle": "O que é Monkey Mart?",
+      "whatIsDescription": "Monkey Mart é um jogo de simulação onde os jogadores gerenciam um supermercado como um macaco, plantando frutas, colhendo safras e vendendo produtos aos clientes.",
+      "howToPlayTitle": "Como jogar Monkey Mart",
+      "howToPlayStep1": "Use as teclas WASD ou as setas do teclado para mover seu macaco.",
+      "howToPlayStep2": "Fique em áreas vazias para plantar culturas e perto de plantas maduras para colher.",
+      "howToPlayStep3": "Coloque os alimentos colhidos em expositores para que os clientes comprem.",
+      "keyFeaturesTitle": "Principais Características do Monkey Mart",
+      "feature1Title": "Gráficos Bonitos",
+      "feature1Description": "Personagens e cenários encantadores atraem jogadores de todas as idades no Monkey Mart.",
+      "feature2Title": "Controles Simples",
+      "feature2Description": "Mecânica de jogo fácil de entender, adequada para todos os jogadores no Monkey Mart.",
+      "feature3Title": "Altamente Interativo",
+      "feature3Description": "Interaja com clientes e gerencie funcionários em um ambiente animado no Monkey Mart.",
+      "feature4Title": "Liberdade Criativa",
+      "feature4Description": "Personalize o layout da sua loja e a seleção de produtos no Monkey Mart."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}
