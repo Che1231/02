@@ -1,0 +1,77 @@
+{
+  "tropical-merge": {
+    "title": "トロピカルマージ：あなたの島のパラダイスをオンラインで作成！",
+    "slogan": "トロピカルマージの世界に飛び込もう！",
+    "description": "トロピカルマージの冒険に出かけよう！リソースをマッチさせ、組み合わせることで、あなたの夢の島を建設しましょう。探検し、クエストを完了し、トロピカルマージであなたの島を熱帯のパラダイスに変えましょう。 今すぐトロピカルマージをプレイしましょう！",
+    "Loading": {
+      "title": "トロピカルマージの読み込み中"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友好リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "トロピカルマージ",
+      "description": "究極のマージゲーム、トロピカルマージに飛び込もう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "トロピカルマージ",
+      "whatIsTitle": "トロピカルマージとは？",
+      "whatIsDescription": "トロピカルマージは、リソースをマッチさせ、組み合わせることで、あなたの熱帯のパラダイスを作り上げる、活気に満ちたマージゲームです。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "アイテムを3つずつグループ化して組み合わせます。",
+      "howToPlayStep2": "材料をマージして新しいアイテムを作成します。",
+      "howToPlayStep3": "アイテムをアップグレードして、あなたの熱帯のパラダイスを建設します。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "マージと発見",
+      "feature1Description": "夢の島を建設するために、数百ものアイテムをマージして発見しましょう。",
+      "feature2Title": "新しいエリアの探検",
+      "feature2Description": "護符を獲得しレベルアップすることで、より多くのエリアを開放し、島を広げられます。",
+      "feature3Title": "クエストの完了",
+      "feature3Description": "エキサイティングな報酬を得るためにクエストを進めながら、新しいアイテムをマージして発見してください。",
+      "feature4Title": "日々の挑戦",
+      "feature4Description": "毎日追加されるクエストで、新鮮な挑戦を続けます。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめゲーム"
+    },
+    "HomeComments": {
+      "title": "ゲームのコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

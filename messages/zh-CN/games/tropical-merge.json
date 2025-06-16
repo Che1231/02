@@ -1,0 +1,77 @@
+{
+  "tropical-merge": {
+    "title": "热带融合：在线创建你的岛屿天堂！",
+    "slogan": "潜入热带融合的世界！",
+    "description": "踏上热带融合的冒险之旅！匹配和组合资源，建造你梦想中的岛屿。探索，完成任务，将你的岛屿转变为热带天堂。现在就玩热带融合！",
+    "Loading": {
+      "title": "正在加载热带融合"
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "热带融合",
+      "description": "潜入热带融合，终极合并游戏！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "玩游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "热带融合",
+      "whatIsTitle": "什么是热带融合？",
+      "whatIsDescription": "热带融合是一款充满活力的合并游戏，让你匹配和组合资源，创造你的热带天堂。",
+      "howToPlayTitle": "如何玩？",
+      "howToPlayStep1": "将物品组合成三组。",
+      "howToPlayStep2": "合并食材以创建新物品。",
+      "howToPlayStep3": "升级物品来建造你的热带天堂。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "合并与发现",
+      "feature1Description": "发现数百种可合并的物品，建造你梦想中的岛屿。",
+      "feature2Title": "探索新区域",
+      "feature2Description": "通过获得护身符并升级来解锁更多区域，扩大你的岛屿。",
+      "feature3Title": "完成任务",
+      "feature3Description": "作为任务的一部分，合并和发现新物品，获得令人兴奋的奖励。",
+      "feature4Title": "每日挑战",
+      "feature4Description": "每天都有新的挑战，持续回来完成每日任务。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏类别",
+      "noCategories": "未找到游戏类别",
+      "viewMore": "查看更多",
+      "page": "页"
+    }
+  }
+}

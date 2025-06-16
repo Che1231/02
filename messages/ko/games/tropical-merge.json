@@ -1,0 +1,77 @@
+{
+  "tropical-merge": {
+    "title": "열대 합병: 온라인 섬 천국을 만드세요!",
+    "slogan": "열대 합병의 세계로 뛰어들어 보세요!",
+    "description": "열대 합병 모험에 참여하세요! 자원을 매치하고 결합하여 꿈꿔왔던 섬을 건설하세요. 탐험하고, 퀘스트를 완료하고, 열대 합병에서 섬을 열대의 천국으로 변화시키세요. 지금 열대 합병을 플레이하세요!",
+    "Loading": {
+      "title": "열대 합병 로딩중"
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "열대 합병",
+      "description": "최고의 합병 게임인 열대 합병에 뛰어들어 보세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "열대 합병",
+      "whatIsTitle": "열대 합병이란 무엇인가요?",
+      "whatIsDescription": "열대 합병은 자원을 매치하고 결합하여 열대의 천국을 만드는 활기찬 합병 게임입니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "아이템을 3개씩 그룹으로 결합하세요.",
+      "howToPlayStep2": "재료를 합쳐 새로운 물체를 만드세요.",
+      "howToPlayStep3": "물체를 업그레이드하여 열대의 천국을 건설하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "합병 및 발견",
+      "feature1Description": "수백 가지의 물체를 합병하고 꿈꿔왔던 섬을 건설하세요.",
+      "feature2Title": "새로운 지역 탐험",
+      "feature2Description": "부적을 얻고 레벨업하여 더 많은 지역을 열고 섬을 확장하세요.",
+      "feature3Title": "퀘스트 완료",
+      "feature3Description": "퀘스트의 일환으로 새로운 아이템을 합병하고 발견하여 흥미로운 보상을 받으세요.",
+      "feature4Title": "매일 챌린지",
+      "feature4Description": "매일 퀘스트가 있는 새로운 챌린지에 매일 참여하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}
