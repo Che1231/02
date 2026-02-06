@@ -198,8 +198,13 @@ async function processGame(game, index, total) {
 
   console.log(`\n[${index + 1}/${total}] 处理游戏: ${name}`);
 
-  // 检查是否需要生成
-  const needsGeneration = !config.screenshotUrl ||
+  // 检查SVG文件是否实际存在
+  const svgFilePath = path.join(CONFIG.outputDir, `${name}.svg`);
+  const svgExists = fs.existsSync(svgFilePath);
+
+  // 检查是否需要生成（如果文件不存在，或者配置有问题，则需要生成）
+  const needsGeneration = !svgExists ||
+                          !config.screenshotUrl ||
                           config.screenshotUrl.includes('public-image.fafafa.ai');
 
   if (!needsGeneration) {
