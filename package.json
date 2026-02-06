@@ -10,7 +10,8 @@
     "lint": "next lint",
     "generate-messages": "node scripts/generate-messages.js",
     "clean-locales": "node scripts/clear-messages.js",
-    "translate": "node scripts/translate-locale.js"
+    "translate": "node scripts/translate-locale.js",
+    "generate-covers": "node scripts/generate-game-covers.js"
   },
   "dependencies": {
     "@ai-sdk/openai": "^1.3.16",
@@ -117,6 +118,7 @@
     "eslint-config-next": "^15.3.2",
     "postcss": "^8",
     "prettier": "^3.5.3",
+    "puppeteer": "^23.10.4",
     "raw-loader": "^4.0.2",
     "tailwindcss": "^3.4.17",
     "typescript": "^5"
