@@ -39,6 +39,7 @@ export default function GameGroup({ games }: GameGroupProps) {
                             sizes="(max-width: 768px) 100vw, 400px"
                             className="object-cover"
                             loading="lazy"
+                            unoptimized
                         />
                     </motion.div>
                     {/* 标题悬停效果 */}
@@ -75,6 +76,7 @@ export default function GameGroup({ games }: GameGroupProps) {
                                         sizes="(max-width: 768px) 50vw, 200px"
                                         className="object-cover"
                                         loading="lazy"
+                                        unoptimized
                                     />
                                 </motion.div>
                                 {/* 标题悬停效果 */}

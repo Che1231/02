@@ -37,6 +37,7 @@ export default function GameCard({ game, isHorizontal = false }: GameCardProps) 
                             sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                             className="object-cover"
                             loading="lazy"
+                            unoptimized
                         />
                     </motion.div>
                     {/* 标题效果 */}
