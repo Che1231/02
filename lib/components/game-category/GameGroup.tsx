@@ -1,6 +1,7 @@
 'use client'
 import { motion } from 'framer-motion';
 import {Link} from '@/lib/i18n/navigation'
+import Image from 'next/image'
 
 type Game = {
     url: string;
@@ -25,16 +26,21 @@ export default function GameGroup({ games }: GameGroupProps) {
                 className="w-full md:w-[400px] relative overflow-hidden rounded-lg hover:ring-1 hover:ring-primary transition-all duration-300 bg-primary/50"
             >
                 <div className="aspect-[16/9] relative">
-                    <motion.img
-                        src={mainGame.cover}
-                        alt={mainGame.title}
-                        loading="lazy"
-                        decoding="async"
-                        className="absolute inset-0 w-full h-full object-cover"
+                    <motion.div
+                        className="absolute inset-0"
                         initial={{ opacity: 0 }}
                         animate={{ opacity: 1 }}
                         transition={{ duration: 0.3 }}
-                    />
+                    >
+                        <Image
+                            src={mainGame.cover}
+                            alt={mainGame.title}
+                            fill
+                            sizes="(max-width: 768px) 100vw, 400px"
+                            className="object-cover"
+                            loading="lazy"
+                        />
+                    </motion.div>
                     {/* 标题悬停效果 */}
                     <motion.div
                         className="absolute inset-0 bg-game-card-hover-overlay flex items-center justify-center opacity-0 group-hover:opacity-100 transition-all duration-300 backdrop-blur-sm"
@@ -56,16 +62,21 @@ export default function GameGroup({ games }: GameGroupProps) {
                             className="block relative overflow-hidden rounded-lg hover:ring-1 hover:ring-primary transition-all duration-300 bg-primary/50"
                         >
                             <div className="aspect-[16/9] relative">
-                                <motion.img
-                                    src={game.cover}
-                                    alt={game.title}
-                                    loading="lazy"
-                                    decoding="async"
-                                    className="absolute inset-0 w-full h-full object-cover"
+                                <motion.div
+                                    className="absolute inset-0"
                                     initial={{ opacity: 0 }}
                                     animate={{ opacity: 1 }}
                                     transition={{ duration: 0.3 }}
-                                />
+                                >
+                                    <Image
+                                        src={game.cover}
+                                        alt={game.title}
+                                        fill
+                                        sizes="(max-width: 768px) 50vw, 200px"
+                                        className="object-cover"
+                                        loading="lazy"
+                                    />
+                                </motion.div>
                                 {/* 标题悬停效果 */}
                                 <motion.div
                                     className="absolute inset-0 bg-game-card-hover-overlay flex items-center justify-center opacity-0 group-hover:opacity-100 transition-all duration-300 backdrop-blur-sm"

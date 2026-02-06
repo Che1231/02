@@ -1,6 +1,7 @@
 'use client'
 import { motion } from 'framer-motion';
 import {Link} from '@/lib/i18n/navigation'
+import Image from 'next/image'
 
 type GameCardProps = {
     game: {
@@ -26,16 +27,16 @@ export default function GameCard({ game, isHorizontal = false }: GameCardProps) 
                         className="absolute inset-0"
                         whileHover={{ scale: 1.05 }}
                         transition={{ duration: 0.3 }}
+                        initial={{ opacity: 0 }}
+                        animate={{ opacity: 1 }}
                     >
-                        <motion.img
+                        <Image
                             src={game.cover}
                             alt={game.title}
+                            fill
+                            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                            className="object-cover"
                             loading="lazy"
-                            decoding="async"
-                            className="absolute inset-0 w-full h-full object-cover"
-                            initial={{ opacity: 0 }}
-                            animate={{ opacity: 1 }}
-                            transition={{ duration: 0.3 }}
                         />
                     </motion.div>
                     {/* 标题效果 */}
