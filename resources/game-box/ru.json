@@ -108,7 +108,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
+      "icon": "/category-icons/new-trending.svg",
       "position": 1,
       "description": "Еженедельные рекомендации! Независимые/классические новинки – мгновенное воспроизведение через WebGL, популярные благодаря рейтингам более 500 000."
     },
@@ -118,7 +118,7 @@
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815583893-1ov2te.png",
+      "icon": "/category-icons/action-game.svg",
       "description": "Комбо-магия! Точные пиксельные элементы управления, потрясающие удары – оптимизировано под сенсорный ввод и клавиатуру.",
       "position": 2
     },
@@ -128,7 +128,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815702803-jwfoq.png",
+      "icon": "/category-icons/shooter-game.svg",
       "position": 3,
       "description": "Ад + тактика укрытия! Реальные сражения в реальном времени с 100 участниками, синхронизированные научно-фантастические пули."
     },
@@ -138,7 +138,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815711657-79vvcq.png",
+      "icon": "/category-icons/multiplayer-game.svg",
       "position": 4,
       "description": "Команды в разных играх! Голосовой чат, общий прогресс – переключайтесь между осадами и совместными головоломками."
     },
@@ -148,7 +148,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815763054-q49yn2.png",
+      "icon": "/category-icons/strategy-puzzle.svg",
       "position": 5,
       "description": "Пассивные стратегии + головоломки! Управление ресурсами в автономном режиме + пространственные головоломки с помощью дополненной реальности."
     },
@@ -158,7 +158,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816169112-k5x75h.png",
+      "icon": "/category-icons/simulation-idle.svg",
       "position": 6,
       "description": "Пассивные доходы! Автоматический прогресс + синхронизация в облаке через QR-код – доходность в автономном режиме на 200%."
     },
@@ -168,7 +168,7 @@
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
+      "icon": "/category-icons/rpg-adventure.svg",
       "description": "RPG с сюжетом и приключения в открытом мире! Сохранение данных на разных платформах, совместные головоломки. 2 уникальных мира – средневековая фантастика и пост-апокалипсис – с 50+ скрытыми историями.",
       "position": 7
     },
@@ -178,7 +178,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816383288-nxe2wm.png",
+      "icon": "/category-icons/sports-io.svg",
       "position": 8,
       "description": "Выживание в стиле .IO + спорт! Разделяйте мячи или тренируйте команды – доски лидеров на разных платформах, без входа."
     },
@@ -188,7 +188,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816438112-a6e0gj.png",
+      "icon": "/category-icons/driving-game.svg",
       "position": 9,
       "description": "Поглощайте, растите и доминируйте во вселенной .IO! "
     },
@@ -198,7 +198,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839114872-shg2ym.png",
+      "icon": "/category-icons/sandbox-lite.svg",
       "position": 10,
       "description": "Стройте свободно! Автоматическое сохранение + редактирование в виртуальной реальности – модульные фермы/базы пост-апокалипсиса с физикой."
     },
@@ -208,7 +208,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839109336-jlksij.png",
+      "icon": "/category-icons/card-classic.svg",
       "position": 11,
       "description": "Региональные классики! Переделки Маджонга/Паи Гоу – адаптивный ИИ, ретро-пиксельная графика."
     },
@@ -218,7 +218,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839102053-cncg4.png",
+      "icon": "/category-icons/rhythm-voice.svg",
       "position": 12,
       "description": "Ритмы с голосовым управлением! Точность микрофона 50 мс, танцы VTuber – синхронизация объемного звука 7.1."
     }

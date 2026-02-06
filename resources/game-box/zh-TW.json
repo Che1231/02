@@ -108,7 +108,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
+      "icon": "/category-icons/new-trending.svg",
       "position": 1,
       "description": "每周精選！獨立/經典新作 – 立即透過 WebGL 玩，由 50 萬以上評分決定趨勢。"
     },
@@ -118,7 +118,7 @@
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815583893-1ov2te.png",
+      "icon": "/category-icons/action-game.svg",
       "description": "連擊狂潮！像素完美控制、畫面震動的攻擊 – 觸控/鍵盤最佳化。",
       "position": 2
     },
@@ -128,7 +128,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815702803-jwfoq.png",
+      "icon": "/category-icons/shooter-game.svg",
       "position": 3,
       "description": "子彈地獄 + 遮蔽戰術！與同步科幻子彈的 100 人即時戰鬥。"
     },
@@ -138,7 +138,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815711657-79vvcq.png",
+      "icon": "/category-icons/multiplayer-game.svg",
       "position": 4,
       "description": "跨遊戲隊伍！語音聊天、共同進展 – 從圍攻到合作解謎。"
     },
@@ -148,7 +148,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815763054-q49yn2.png",
+      "icon": "/category-icons/strategy-puzzle.svg",
       "position": 5,
       "description": "閒置策略 + 腦力測驗！離線資源管理 + AR 空間益智遊戲。"
     },
@@ -158,7 +158,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816169112-k5x75h.png",
+      "icon": "/category-icons/simulation-idle.svg",
       "position": 6,
       "description": "閒置獲利！自動進度 + 雲端同步透過 QR – 200% 離線獲利。"
     },
@@ -168,7 +168,7 @@
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
+      "icon": "/category-icons/rpg-adventure.svg",
       "description": "以故事為導向的 RPG 和開放世界冒險！跨平台儲存、合作解謎。2 個獨特的遊戲世界 – 中世紀奇幻和末日廢土 – 擁有 50 多個隱藏故事。",
       "position": 7
     },
@@ -178,7 +178,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816383288-nxe2wm.png",
+      "icon": "/category-icons/sports-io.svg",
       "position": 8,
       "description": ".IO 生存 + 運動！分割球或指導隊伍 – 跨平台排行榜，無需登入。"
     },
@@ -188,7 +188,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816438112-a6e0gj.png",
+      "icon": "/category-icons/driving-game.svg",
       "position": 9,
       "description": "吞噬、成長並主宰 .IO 宇宙！"
     },
@@ -198,7 +198,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839114872-shg2ym.png",
+      "icon": "/category-icons/sandbox-lite.svg",
       "position": 10,
       "description": "自由建造！自動儲存 + VR 編輯 – 模組化農場/末日廢土基地和物理。"
     },
@@ -208,7 +208,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839109336-jlksij.png",
+      "icon": "/category-icons/card-classic.svg",
       "position": 11,
       "description": "地區經典！麻將/跑得快翻新 – 技能適應 AI，復古像素介面。"
     },
@@ -218,7 +218,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839102053-cncg4.png",
+      "icon": "/category-icons/rhythm-voice.svg",
       "position": 12,
       "description": "語音控制節拍！50 毫秒麥克風精確度，VTuber 舞動 – 7.1 環繞同步。"
     }

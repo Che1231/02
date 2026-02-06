@@ -108,7 +108,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
+      "icon": "/category-icons/new-trending.svg",
       "position": 1,
       "description": "毎週厳選！インディー/新定番ゲーム！WebGLで即プレイ可能、50万以上の評価でトレンド。"
     },
@@ -118,7 +118,7 @@
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815583893-1ov2te.png",
+      "icon": "/category-icons/action-game.svg",
       "description": "コンボ祭り！ピクセルパーフェクトな操作感、画面揺れと衝撃！タッチ/キーボード最適化済みです。",
       "position": 2
     },
@@ -128,7 +128,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815702803-jwfoq.png",
+      "icon": "/category-icons/shooter-game.svg",
       "position": 3,
       "description": "弾幕地獄＋カバー戦術！100人リアルタイム対戦、同期したSF弾幕。"
     },
@@ -138,7 +138,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815711657-79vvcq.png",
+      "icon": "/category-icons/multiplayer-game.svg",
       "position": 4,
       "description": "クロスゲームな部隊！ボイスチャット、共有進捗！包囲から協力パズルまで。 "
     },
@@ -148,7 +148,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815763054-q49yn2.png",
+      "icon": "/category-icons/strategy-puzzle.svg",
       "position": 5,
       "description": "放置ストラテジー＋脳みそパズル！オフライン資源管理＋AR空間パズル。"
     },
@@ -158,7 +158,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816169112-k5x75h.png",
+      "icon": "/category-icons/simulation-idle.svg",
       "position": 6,
       "description": "放置で利益！自動進捗＋クラウド同期 via QR – オフラインで200%獲得。"
     },
@@ -168,7 +168,7 @@
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
+      "icon": "/category-icons/rpg-adventure.svg",
       "description": "ストーリー重視のRPG＆オープンワールドアドベンチャー！クロスプラットフォーム保存、協力パズル。2つの独特な世界 - 中世ファンタジーとポスト・アポカリプス - 50以上の隠し物語。",
       "position": 7
     },
@@ -178,7 +178,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816383288-nxe2wm.png",
+      "icon": "/category-icons/sports-io.svg",
       "position": 8,
       "description": "IOサバイバル＋スポーツ！ボールを分裂させたりチームを指揮！クロスプラットフォームランキング、ログイン不要。"
     },
@@ -188,7 +188,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816438112-a6e0gj.png",
+      "icon": "/category-icons/driving-game.svg",
       "position": 9,
       "description": "食べ、成長し、IO宇宙を支配！ "
     },
@@ -198,7 +198,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839114872-shg2ym.png",
+      "icon": "/category-icons/sandbox-lite.svg",
       "position": 10,
       "description": "自由に構築！自動保存＋VR編集 - モジュール式農場/ポスト・アポカリプス基地物理エンジン。"
     },
@@ -208,7 +208,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839109336-jlksij.png",
+      "icon": "/category-icons/card-classic.svg",
       "position": 11,
       "description": "地域別クラシック！麻雀/牌九のリメイク - スキル適応型AI、レトロピクセルUI。"
     },
@@ -218,7 +218,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745839102053-cncg4.png",
+      "icon": "/category-icons/rhythm-voice.svg",
       "position": 12,
       "description": "ボイスコントロールビート！50msマイク精度、VTuberダンス - 7.1サラウンド同期。"
     }

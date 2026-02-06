@@ -108,7 +108,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-02/images/1743586178761-fmh1qb.png",
+      "icon": "/category-icons/new-trending.svg",
       "position": 1,
       "description": "每周精选！独立游戏/经典新作 – 通过 WebGL 即刻游玩，由 50 万以上用户评价决定趋势。"
     },
@@ -118,7 +118,7 @@
       "pageSize": 15,
       "backgroundColor": "#d2e7ff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815583893-1ov2te.png",
+      "icon": "/category-icons/action-game.svg",
       "description": "连击狂潮！像素级精准控制，屏幕震颤的打击 – 触控/键盘优化。",
       "position": 2
     },
@@ -128,7 +128,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815702803-jwfoq.png",
+      "icon": "/category-icons/shooter-game.svg",
       "position": 3,
       "description": "子弹地狱 + 掩体战术！100 人实时战斗，同步科幻子弹。"
     },
@@ -138,7 +138,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815711657-79vvcq.png",
+      "icon": "/category-icons/multiplayer-game.svg",
       "position": 4,
       "description": "跨游戏小队！语音聊天，共享进度 – 从围攻到合作解谜。"
     },
@@ -148,7 +148,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745815763054-q49yn2.png",
+      "icon": "/category-icons/strategy-puzzle.svg",
       "position": 5,
       "description": "休闲策略 + 脑力激荡！离线资源管理 + AR 空间益智。"
     },
@@ -158,7 +158,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816169112-k5x75h.png",
+      "icon": "/category-icons/simulation-idle.svg",
       "position": 6,
       "description": "休闲收益！自动进度 + 云同步通过二维码 – 离线收益提升 200%。"
     },
@@ -168,7 +168,7 @@
       "pageSize": 15,
       "backgroundColor": "#c1f8cf",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-01/images/1743483933897-hh2wab.png",
+      "icon": "/category-icons/rpg-adventure.svg",
       "position": 7,
       "description": "剧情驱动的角色扮演游戏和开放世界冒险！跨平台保存，合作解谜。2 个独特世界 – 中世纪奇幻和后启示录 – 50+ 隐藏故事。"
     },
@@ -178,7 +178,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816383288-nxe2wm.png",
+      "icon": "/category-icons/sports-io.svg",
       "position": 8,
       "description": ".IO 生存 + 运动！分割球或执教球队 – 跨平台排行榜，无需登录。"
     },
@@ -188,7 +188,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816438112-a6e0gj.png",
+      "icon": "/category-icons/driving-game.svg",
       "position": 9,
       "description": "吞噬，成长并主宰 .IO 宇宙！"
     },
@@ -198,7 +198,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816432234-45f2b9.png",
+      "icon": "/category-icons/horror-game.svg",
       "position": 10,
       "description": "心跳加速的恐怖！WebGL 阴影 + AR 解谜 – 充满爱伦·坡风格的聪明惊吓。"
     },
@@ -208,7 +208,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816176521-n6vds.png",
+      "icon": "/category-icons/sandbox-lite.svg",
       "position": 11,
       "description": "自由构建！自动保存 + VR 编辑 – 模块化农场/后启示录基地与物理。"
     },
@@ -218,7 +218,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816207554-afl8au.png",
+      "icon": "/category-icons/card-classic.svg",
       "position": 12,
       "description": "区域经典！麻将/跑得快翻新 – 技能适应的 AI，复古像素 UI。"
     },
@@ -228,7 +228,7 @@
       "pageSize": 15,
       "backgroundColor": "#ffffff",
       "displayStyle": "horizontal",
-      "icon": "https://public-image.fafafa.ai/cm8sb0yv100wllywlvh5jkuxi/2025-04-28/images/1745816232192-m7iue2.png",
+      "icon": "/category-icons/rhythm-voice.svg",
       "position": 13,
       "description": "语音控制节奏！50 毫秒麦克风精度，VTuber 舞蹈 – 7.1 环绕音同步。"
     }
