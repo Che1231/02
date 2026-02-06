@@ -1,0 +1,77 @@
+{
+  "mahjong": {
+    "title": "Play Mahjong Online for Free: A Classic Tile Game",
+    "slogan": "Experience the timeless fun of Mahjong!",
+    "description": "Discover the captivating world of Mahjong, a beloved tile-based game originating from China. Enjoy hours of strategic gameplay and cultural richness. Play Mahjong online now and test your skills!",
+    "Loading": {
+      "title": "Loading Mahjong"
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Mahjong Game Preview",
+      "description": "Play Mahjong online for free!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Mahjong",
+      "whatIsTitle": "What is Mahjong?",
+      "whatIsDescription": "Mahjong, also known as Mahjongg, is a traditional Chinese tile-based game that has gained popularity worldwide.",
+      "howToPlayTitle": "How to Play Mahjong",
+      "howToPlayStep1": "The tiles are shuffled and arranged in a square formation.",
+      "howToPlayStep2": "Each player draws a certain number of tiles to start the game.",
+      "howToPlayStep3": "The goal is to form specific combinations of tiles.",
+      "keyFeaturesTitle": "Key Features of Mahjong",
+      "feature1Title": "Tile Combinations",
+      "feature1Description": "Form melds (groups of three or four tiles) and pairs.",
+      "feature2Title": "Strategic Gameplay",
+      "feature2Description": "Requires skills in observation, calculation, and decision-making.",
+      "feature3Title": "Cultural Significance",
+      "feature3Description": "Reflects Chinese culture and traditional values.",
+      "feature4Title": "Social Activity",
+      "feature4Description": "Often played among family members and friends."
+    },
+    "HomeFAQs": {
+      "title": "Frequently Asked Questions about Mahjong"
+    },
+    "HomeRelatedVideo": {
+      "title": "Mahjong Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommended Mahjong Games"
+    },
+    "HomeComments": {
+      "title": "Play Mahjong Comments"
+    },
+    "GamePage": {
+      "title": "All Mahjong Games",
+      "description": "Browse all Mahjong games available.",
+      "games": "Mahjong Games"
+    },
+    "CategoryPage": {
+      "categories": "Mahjong Categories",
+      "noCategories": "No Mahjong categories found",
+      "viewMore": "View More Mahjong",
+      "page": "Mahjong Page"
+    }
+  }
+}

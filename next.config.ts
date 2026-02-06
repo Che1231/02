@@ -27,7 +27,7 @@ const withMDX = createMDX({
 })
 
 const nextConfig: NextConfig = {
-    staticPageGenerationTimeout: 1000,
+    staticPageGenerationTimeout: 180,
     onDemandEntries: {
         // 在开发模式下保持页面在内存中的时间更长
         maxInactiveAge: 25 * 1000,
