@@ -43,6 +43,10 @@ const nextConfig: NextConfig = {
             protocol: 'https',
             hostname: 'public-image.fafafa.ai',
           },
+          {
+            protocol: 'https',
+            hostname: 'images.1games.io',
+          },
         ],
     },
     // output: 'standalone',
